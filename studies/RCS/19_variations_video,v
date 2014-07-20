@@ -1,0 +1,888 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.07.07.09.35.54;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@19_variations repaginated for youtube
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@3 systems 10 / 30-50-30/ 30-50-30/ 30-50-30/
+# title 20121111  book AL p15
+pagenum 1
+title 19.  Variations
+innerhead Twenty Studies
+leftfoot (c) 2013 Peter J Billam
+midi channel 0 patch 0 # 103
+/
+5 bars | 12 10 12 9 | 12 12 12 9 | 12 10 12 9 | 12 12 12 9 | 12 14 12 10 |
+| .95 .84 .89 .82
+=1 treble cha0 leg105 1 <C(2 E(1> <C)2(2 E)1(1> <C)2 E)1> <C(2 E(1>
+=2 bass   cha0 leg105 1 <g b> <gbl bb> <f a> <gbl bb>
+|
+=1 1 <C)2 E)1> <C# F> <D F#> <C#l Fn>
+=2 1 <g(2 b(1> <g)2(2 b)1(1> <g)2 b)1> <g(2 b(1>
+|
+=1 1 <C(2 E(1> <C)2(2 E)1(1> <C)2 E)1> <C(2 E(1>
+=2 1 <g)2 b)1> <gbl bb> <f a> <gbl bb>
+|
+=1 1 <C)2 E)1> <C# F> <D F#> <Eb G>
+=2 1 <g(2 b(1> <g)2(2 b)1(1> <g)2 b)1> <g b>
+|
+il0.3 .03 5
+=1 1 <D F#> <Dbl Fn> <Dn Ex> <Eb Fx>
+=2 1 <ab c~> <an bx> <abll bbllx> <g bn>
+/
+4 bars | 12 12 13 9 | 12 11 12 9 | 12 12 12 9 | 24 20 ||
+|
+=1 1 <D F#> <Eb G> <Enl Ab> <Fn Gx>
+=2 1 <ab c~> <anl d~b> <bb c~x> <bnl d~b>
+|
+=1 1 <F Ab> <F#l An> <G(2 Bb> <G)2 c>
+=2 1 <c~(2 d~x> <c~)2 e~> <c~ e~b(1> <bbl e~)1>
+|
+=1 1 <F#(2 db> <F)2 c> <F# B(1> <Fn B)1>
+=2 1 <a(2 e~n> <a)2 e~b> <a d~(1> <ab d~)1>
+|
+=1 1 <E(2 B(1> <E)2 B)1> <E(2 B(1> <E)2 B)1>
+=2 1 <g(2 d~> <g)2 d~b> <g(2 c~(1> <g)2 c~)1>
+
+/
+3 bars | 4 5 4 6 4 4 4  4 4 4 5 4 4 4 \
+       | 4 5 4 6 4 4 4  4 5 4 5 4 4 4 \
+       | 4 5 4 6 4 4 4  4 4 4 5 4 4 4 |
+| 3.5
+il0.4 .05 10
+=1' treble cha0 leg99 8 rest B_ 2 E 4 Bb 8 A 2 E 8 B_b
+=2 bass   cha0 leg99 4. g-P 8 [c f#'-P] 4 c~ 4. fn-P 8 [c F#-P] 4 C
+|
+=1 8 rest B_n 2 E 4 F 8 F# 2 B' 8 Fn
+=2 4. G-P 8 [c c#'-P] 4 g 4. d~-P 8 [g c#,-P] 4 G
+|
+=1' 8 rest B_ 2 E 4 Bb 8 A 2 E 8 B_b
+=2 4. c-P 8 [g f#-P] 4 c~ 4. fn-P 8 [c F#-P] 4 C
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+3 bars | 4 6   4 6 4 4 4  4 6   4 6 4 4 4 \
+       | 4 7.8 4 4 4 4 4  4 7.8 4 6 6 4 4 \
+       | 5 7.5 4 6 4 4 4  4 4   4 6 6 4 3 |
+|
+=1' treble 8 rest B_n 2 E 4 F 8 F# 2 B 8 Eb
+=2  bass   4. G-P 8 [c c#'-P] 4 g 4. d~-P 8 [g eb-P] 4 G
+|
+=1' 8 rest D 2 F# 4 Fn 8 E 2 G# 8 Gn
+=2 4. Ab-P 8 [c B-P] 4 a 4. d~-P 8 [bb bn-P] 4 eb
+|
+il0.4 .02 15
+=1  8 rest F# 2 Bb' 4 A 8 Bb 2 c 8 Bn
+=2  4. d-P 8 [c~ c~#-P] 4 f 4. e-P 8 [g# gn-P] 4 c~#
+/
+3 bars | 4 7.5 4 6 4 4 4  4 5 4 6 5 4 4 \
+       | 5 7.8 4 6 6 4 4  4 6 4 6 6 4 4 \
+       | 4 6 4 6 4 4 4  4 5 4 4 5 4 3 ||
+|
+=1  8 rest C 2 Ab 4 An 8 Bb 2 eb 8 G
+=2  4. d-P 8 [f f#-P] 4 c 4. g-P 8 [c~ bb-P] 4 e~b
+|
+=1  8 rest F# 2 c# 4 cn 8 B 2 F# 8 D
+=2  4. e~n-P 8 [a eb-P] 4 f# 4. d-P 8 [a g#-P] 4 fn
+|
+=1  8 rest B_ 2 G 4 E 8 G 4 B 8 e 4 b
+=2  4. e-P 8 [d' c#-P] 4 B 4. cn-P 2 Cn
+=2  1 blank 32 blank-,-*
+
+/
+1 bars | 112 |
+|
+=1  leg75 cc64=0 4 rest rest 8. rest rest 4 rest rest 8. rest rest
+=2  leg75 8 [B_ 16 G c] [E B c g'] [A#, f# c~] [e, a#, e~,] \
+ 16 [C An e' fn'] [E c f' a'] 8 [F# 16 e'] 16 [c, f#, c~,]
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+1 bars | 112 |
+|
+il0.3 .02 20
+=1 treble 4 rest rest 8. rest rest 4 rest rest 8. rest rest
+=2 bass   16 [E B c' g'] [G, c, e b] 8 [F 16 c#] [B, g b] \
+ 8 [F# 16 d' g'] [B, f# g b] [G c#' g'] [B, f c~#]
+|
+# =1 4 rest rest 8. rest 16 [C F# A#] 4 rest rest 8. rest 16 [C F# A#]
+=1 4 rest rest 8. rest rest 4 rest rest 8. rest rest
+=2, 16 [B e g c~] [c g b e~] 8 [e 16 a#] [f# c~ e~] \
+ 8 [c 16 fn an] [e a c~ f~n] [f# c~ e~] [a# e~ f~#]
+|
+=1' 4 rest rest 8. rest rest 4 rest 16 [G_ D F# B] 8 [B_ 16 G] [Eb B eb]
+=2, 8 [e 16 g c~] [g b c~ e~] [f c~# f~] [b f~ g~] \
+ 16 [f# b d~ g~] 4 rest 8. rest rest
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+1 bars | 112 |
+|
+=1' treble 4 rest 16 [A_b D F# Ab] 8 [A_n 16 C#] [B_ Fn An] \
+ 8 [A_b 16 D E] [B_b D E Ab] [B_n F G] [Eb G B]
+=2, bass   16 [f# c~ d~ f~#] 4 rest 8. rest rest 4 rest rest 8. rest rest
+|
+=1 8 [A_b 16 D F#] [C D F# Ab] [C# G An] [Eb G c#'] \
+ 16 [En Ab Bb' cn'] [Ab, Bb c e] 8 [Fn 16 Bn'] 16 [G, c# f]
+=2 4 rest rest 8. rest rest 4 rest rest 8. rest rest
+|
+il0.5 .01 25
+=1  8 [C 16 F Ab] [D F Ab c'] [E An c'] [F# c' e'] \
+ 16 [Eb, Bb c eb] [G, Bb eb g] 8 [Bb 16 eb] 16 [c g bb]
+=2 4 rest rest 8. rest rest 4 rest rest 8. rest rest
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30 40/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+1 bars | 112 |
+|
+=1 treble 16 [C# F# A c#'] [E A c#' e'] 8 [Eb 16 A] [F#, cn eb] \
+ 8 [F# 16 B' d'] [A, B d f#] [Ab, d fn] [B f b]
+=2 bass   4 rest rest 8. rest rest 4 rest rest 8. rest rest
+/
+1 bar | 48 ||
+|
+#P =1 2 d~-tr  8 [c~# 16 b] [e c# G,] 8 [B' 16 G C] 4 rest 8. rest rest
+#M =1 163 leg145 d~ e~ d~ e~ d~ e~ d~ e~ d~ e~ d~ e~ d~ \
+ 4. blank 2 blank 4. blank 163 blank 163. blank
+#M =1 2 blank 8 [c~# 16 b] leg65 [e c# G,] 8 [B' 16 G C] 4 blank 4. blank
+=2 4 rest rest 8. rest rest 4 rest 16 [e~ b g c,] 16 [e' B G] 8 [E 16 B_]
+
+# pomp
+/
+3 bars | 48 | 48 | 48 |
+|
+=1' vol110 4 rest 8 rest 4 <B_ E G B> 4. <B_b E Gbl Bb> \
+ 4. <A_ Ex F A>  4. <B_b E Gbl Bb>
+I0.4 .01 f
+=2 4 vol115 <C_-P C> <C c> 4. <c, c~> 4 <C c> 4. <c, c~> 4 <C c>
+|
+=1 8 rest 4. <C E G> 4. <C# F Gx> 2 <G_ D F#> 8 rest 4 <G_ C#l Fn>
+=2 4. <B_-P B> 4 <B, b> 4. <B_ B> <B__ B_> <B_ B>
+|
+il0.4 .03 30
+=1 4 rest 4. <G_ B_x C E> <B_bl Cx Ex F#> 2 <A_ C Ex Fn> 4 <B_bl Cx Ex F#>
+=2 2 <B_ B> 4. <B_b-P Bb> 2 <A_-P A> 4. <A_b-P Ab>
+
+3 systems / 30-50-30/ 30-55-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+3 bars | 48 | 48 | 48 |
+|
+=1' treble 8 rest 4. <B_n Cx E G> 4. <B_ Db F> 2 <Dnl F# B> 8 rest 4 <Ebl Fnlx B>
+=2' bass   4. <G_-P G> 4 <G g> 4. <G_ G> <G g> <G_ G>
+|
+=1' 4 rest 4. <A_bl D F#> 4. <A_n Dbl Fn> 2 <A_bl Dn Ex> 4 <G_ B_ Eb Fx>
+=2' 2 <C-P c> 4. <B_n-P Bn> 2 <B_b-P Bb> 4. <A_-P A>
+|
+=1' 4 rest 4. <C F#l Ab> 4. <D#l Gx An> 2 <E Abxl Bbl> 4 <Fnl Gx c#>
+=2' 2 <D-P d> 4. <Db-P db> 2 <C-P c> 4. <B_-P B>
+/
+3 bars | 56 | 56 | 4 4 4 4 4 4 4 4 4 6 4 4 4 4 ||
+|
+=1  4 rest 4. <C Dx Ab> 4. <C F#l An> 2 <C G Bb'> 4 <G, Bbx c>
+=2' 2 <F-P f> 4. <En-P en> 2 <Eb-P eb> 4. <E_b Eb>
+|
+il0.2 .01 35
+=1' 4 rest 4. <Ex F# A> 4. <Ebl F#xl A> 2 <D F# A> 4 <D Fnl Ab>
+=2' 2 <Db-P db> 4. <C-P c> 2 <B_-P B> 4. <B b>
+|
+=1' 4 rest 8 rest 4. <D Ex G> 2 <C# E G> <Cn E G>
+=2 4 <B_ B> <B__ B_> 4. <B_ B> 4 <B, b> 4. <b b~> treble 4 b
+=2 1 blank 32 blank-*
+
+/
+2 bars | 22/8 3 3 3 3 3 3 3 3 4 3 3 3 2 4 3 3 4 3 3 4 3 2 \
+ | 3 3 3 3 3 4 3 3 3 3 4 3 2 3 3 3 4 3 3 4 3 2 |
+# jazz
+| 4.0
+=1 22/8 vol100 leg105 4 rest 8 d# [e A, B] 4 c 8 [c# dn G#,] \
+ 4 A 8 B [cn' E F] 4 F# 8 G# 4 d
+=2 bass 22/8 vol75  leg99  cc64=0 2.. <gr b c~x e~> 2 <gbl bbxl c~ e~> \
+  2.. <f a c~ e~> 2 <gbl bbxl c~ e~>
+|
+=1 4 rest 8 d# [e B c] 4 c# 8 [dn e f] \
+ 4 f# 8 a [g d e] 4 fn 8 [B c# d(1]
+=2 2.. <gr b c~x e~> 2 <g b c~#x f~> \
+  2.. <g b d~ g~b> 2 <g b c~#x f~>
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+2 bars | 3 3 3 3 3 3 3 3 4 3 3 3 3 4 3 3 4.3 3 3 4 3 3 \
+       | 3 3 3 3 3 4 3 3 3 3 4 3 3 3 3 3 4 3 3 4 3 2 |
+|
+=1 treble 4 d)1 8 d# [e A, B] 4 c 8 [c# dn G#,] \
+ 4 A 8 B [cn' E F] 4 F# 8 G# 4 d
+=2 bass   2.. <g b c~x e~> 2 <gbl bbxl c~ e~> \
+  2.. <f a c~ e~> 2 <gbl bbxl c~ e~>
+|
+il0.4 .01 40
+=1 4 rest 8 d# [e B c] 4 c# 8 [dn e f] \
+ 4 f# 8 a [g d e] 4 fn 8 [A-s2 A# B']
+=2 2.. <gr b c~x e~> 2 <g b c~#x f~> \
+  2.. <g b d~ f~#> 2 <g b e~b g~>
+/
+2 bars | 3 3 3 3 4 3 3 3 3 3 4 3 3 3 3 4 4 3 3 3 3 2 \
+       | 3 3 3 3 4 3 3 3 4 3 4 3 3 3 4 4 4 3 3 4 3 2 |
+|
+=1' vol90 2.. <Dr F#l Ab c> 2 <C# Fnll An Bx> 2.. <Dx E Ablx Bbl> 2 <Ebl Fx G Bn>
+=2  vol100 4 rest 8 eb [d' G# A#] 4 B 8 [c# d' Gn] \
+ 4 G# 8 A# [B E F#] 4 Gn 8 [A# B d'(2]
+|
+=1' 2.. <Dr F#l Ab c> 2 <D#ll Gx Anl db> \
+ 2.. <E G#ll Bbxll c> 2 <Fnxl Gnll Bnl db>
+=2 4 d')2 8 d#' [e' G# A#] 4 B \
+ 8 [db eb f] 4 f# 8 g# [a fn f#] 4 gn 8 [a a# b]
+/
+2 bars | 3 3 4 3 4 3 3 3 4 3 4 3 3 4 4 4 3 3 3 3 3 2 \
+       | 3 3 3 3 3 4 3 3 4 4 5 3 3 5 3 3 4 3 3 3 4 2 |
+|
+=1 vol100 4 rest 8 g [ab d db] 4 c 8 [g# an e] \
+ 4 eb 8 a [bb gn eb] 4 c 8 [A# B' c']
+# 4 eb 8 f# [gn eb c] 4 A 8 [A# B' c']
+=2 vol90 2.. <d f ab c~> 2 <e f#xl anl c~> 2.. <ebl g bbll c~x> 2 <c ebl g bb>
+|
+=1' vol80 2.. <Exr F#l A db> 2 <Eblll F#llx A c> \
+ vol100 4 rest 8 c# [dn B F#] 4 Fn 8 [G# A Eb]
+=2, vol100 4 rest 8 g# [a c# d] 4 d# 8 [f f# cn] \
+ vol80 2.. <B, dnl f# a> 2 <B, d fnll ab>
+
+3 systems / 30-50-30/ 30-50-30/ 30-45-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+2 bars | 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 \
+ || 4 5 4 5 4 5 4 4 5 4 5 4 5 4 |
+|
+il0.4 .14 45
+=1  treble vol80 2.. <Dx E G B'> vol100 8 rest \
+ [F# G D#(2] [D)2 E G A] [B e f# a] 4 e~ 8 b~-fermata
+=2  bass  vol100 8 rest [a# b] [f# g B, c,] vol90 2 <c#, e b g> \
+ vol100 1 <cn-P g b> 8 rest 4 rest
+=2 1 blank blank 32 blank-,-,-* treble
+midi pause 0.5
+
+# toccata
+| 1.90
+=1, leg65 16 [g c db c] [gb c db] [f c db c] [gb c db]
+=2' leg65 16 [B_ E D# E] [B_b E D#] [A_ E D# E] [B_b E D#]
+/
+3 bars | 3 4.5 3 3.5 3 4.5 4.8 3 4.5 3 4.5 3 2 2 \
+       | 3 4.5 3 4.5 3 4.5 3 3 4.5 3 4.5 3 2 2 \
+ | 3 4.5 3 3 3 4.5 4.5 3 4.5 3 4 3 4.5 2 |
+|
+#=1, 16 [c g ab g] [c# g ab] [d g ab g] [c# g ab]
+#=2' 16 [E B_ A_# B_] [F B_ A_#] [F# B_ A_# B_] [Fn B_ A_#]
+=1, 16 [c g ab g] [c# g ab] [d g ab g] 8. c#
+=2' 16 [E B_ A_# B_] [F B_ A_#] [F# B_ A_# B_] 8. Fn
+|
+#=1, 16 [g c db c] [gb c db] [f c db c] [gb c db]
+#=2' 16 [B_ E D# E] [B_b E D#] [A_ E D# E] [B_b E D#]
+=1, 16 [g c db c] [gb c db] [f c db c] 8. gb
+=2' 16 [B_ E D# E] [B_b E D#] [A_ E D# E] 8. B_b
+|
+=1, 16 [c b a# b] [c# b a#] [d b a# b] [eb b a#]
+=2' 16 [E G_ A_b G_] [F G_ A_b] [F# G_ A_b G_] [G G_ A_b]
+/
+3 bars | 3 3 4 3 3 4 3 3 4 4 4 3 2 2 \
+       | 3 3 4 3 3 4.3 4.3 3 4 4.3 3 3 4.3 2 \
+       | 3 4 3 4 3 4 4 3 4 3 4 3 4 2 |
+|
+il0.6   50
+#=1, 16 [d c~ b c~] [c# b c~] [d a# b a#] [eb b a#]
+#=2' 16 [Gb G_# A_ G_#] [F A_ G_#] [E A_b G_n A_b] [F G_ A_b]
+=1, 16 [d c~ b c~] [c# b c~] [d a# b a#] 8. eb
+=2' 16 [Gb G_# A_ G_#] [F A_ G_#] [E A_b G_n A_b] 8. F
+|
+=1, 16 [d c~ b c~] [d# d~b c~] [e c~ d~b c~] [f c~ c~#]
+=2' 16 [F# G_# A_ G_#] [G A_ B_b] [Ab B_b A_ B_b] [G B_n B_b]
+|
+=1, 16 [d~ f gb f] [e~ f# gn] [e~b g f# g] [e~b g f#]
+=2, 16 [Ab c B c] [An c B] [Bb c db c] [Bb c db]
+
+3 systems / 30-40-30/ 30-45-30/ 30-40-30 25 /
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+3 bars | 3 4 4 4 3 4 3 4.2 4 4 4 3 2 2 | 3 3 3 4 3 3 3 3 3 3 3 3 3 3 \
+ || 45 |
+|
+=1  treble 16 [d~b f# g f#] [c~ f# g] [a gb fn gb] 8. ab
+=2' treble  16 [E A Bb A] [Eb A Bb] [D Bn c B] 8. F
+|
+=1 16 [g c B c] [g c B] [e c B c] 8. B
+=2 16 [D E F E] [Db E F] [C E F E] 8. B_-P bass
+
+
+# harmonics
+| 11/4 140
+il0.3   55
+=1, 1 leg100 blank 4 B e G b e 2 b~
+=2' 2 leg100 C_ 4 G c 1.. blank
+/
+4 bars | 5 5 6 5 5 5 5 5 5 | 45 \
+ | 5 5 5 5 5 5 5 4 4 | 4 4 5 5 5 5 4 4 |
+| 9/4 141
+=1, 1 blank 4 F# c bb 2 b~b
+=2' 2 C_ 4 e bb 2. blank 2 blank
+| 9/4 142
+=1, 1 blank 4 E A e 2 e~
+=2' 2 F_-P 4 c a  2. blank 2 blank
+| 9/4 143
+=1, 2. blank 4 c E c~ f# 2 c~~
+=2' 2 F_#-P 4 bb 1. blank
+| 8/4 144
+=1, 2 blank 4 E blank c G 2 g~
+=2' 2 G_-P 4 blank bn 1 blank
+/
+5 bars | 40 | 5 5 6 5 5 5 5 5 | 40 | 30 | 30 |
+| 8/4 145
+il0.2 .01 60
+=1, 2. blank 4 c# F b 2 c~~#
+=2' 2 G_ 4 bn blank 1 blank
+| 8/4 146
+=1, 1 blank 4 B G 2 b
+=2' 2 D_-P 4 b f# 1 blank
+| 8/4 147
+=1, 2 blank 4 B blank eb G 2 b
+=2' 2 E_b-P 4 blank g 1 blank
+| 6/4 148
+=1, 2 blank 4 F# blank 2 d
+=2' 2 A_b-P 4 blank c~ 2 blank
+| 6/4 149
+=1, 2 blank 4 B blank 2 f
+=2' 2 A_n-P 4 blank c~# 2 blank
+
+3 systems / 30-40-30/ 30-40-30/ 30-40-30 25/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+5 bars | 30 | 30 | 30 | 30 | 30 |
+| 6/4 150
+il0.2 .01 65
+=1, treble 2 blank 4 G# blank 2 e
+=2' bass   2 B_b-P 4 blank d~ 2 blank
+| 6/4 151
+=1, 2 blank 4 G Eb 2 f
+=2' 2 B_n-P 1 blank
+| 6/4 152
+=1, 2. blank 4 Ab C c~
+=2' 2 D_-P 4 f# 2. blank
+| 6/4 153
+=1, 2. blank 4 A Eb a
+=2' 2 E_b-P 4 g 2. blank
+| 6/4 154
+=1, 2. blank 4 c Bb bb
+=2' 2 E_n-P 4 g# 2. blank
+
+/
+5 bars | 6 | 6 | 6 | 5 | 5 |
+| 6/4 155
+il0.2 .01 70
+=1, 2 blank 4 G c# 2 a
+=2' 2 F_-P 2. blank
+| 6/4 156
+=1, 2. blank 4 d F d~
+=2' 2 A_b-P  4 c~ 2. blank
+| 6/4 158
+=1, 2. blank 4 c F# c~
+=2' 2 A_n-P 4 e 2. blank
+| 5/4 160
+=1, 2 blank 4 c Eb g
+=2' 2 B_b-P 2. blank
+|
+=1, 2 blank 4 Bb Eb g
+=2' 2 C-P 4 blank 2 blank
+/
+5 bars | 36 | 36 | 36 | 36 | 36 |
+| 6/4 158
+il0.2 .20 75
+=1, 2. blank 4 E 2 a
+=2' 2 <F_#-P F#> 4 c# 2. blank
+| 6/4 155
+=1, 2 blank 4 Eb A 2 c~
+=2' 2 F_# 2. rest
+| 6/4 152
+=1, 2 blank 4 d b 2 a~
+=2' 2 F_# 2. rest
+| 6/4 149
+=1, 2 blank 4 d ab 2 b~
+=2' 2 F_n-P 2. rest
+| 6/4 146
+=1, 2. blank 4 D 2 g
+=2' 2 <E_-P E> 4 B 2. blank
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+4 bars | 33 | 44  || 6 | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 |
+| 6/4 143
+il0.2 .20 80
+=1, treble 2. blank 4 c# 2 g
+=2' bass   2 E_ 4 B 2. blank
+| 8/4 140
+=1, 2. blank 4 c c~ g 2 g~
+=2' 2 E_ 4 B blank 1 blank
+=2 1 blank 32 blank-*
+
+# galop
+| 0.1375
+=1  16 vol100 leg85 <B_ G>
+=2, 16 vol100 leg85 <c e>
+| 2.2
+=1  8. [<B_ G> 16 <B_ G>] 8 [<B_ G> 16 rest <B_bl Gb>] \
+ 8 [<A_ F> 16 rest <B_bl Gb>] 16 [<B_n Gn> 8 rest, 16 <C E>]
+=2, 8. [<c e> 16 <c e>] 8 [<c e> 16 rest <c e>] \
+ 8 [<c e> 16 rest <c e>] 16 [<c e> 8 rest 16 <B g>]
+/
+2 bars | 5 5 5 6 5 5 5 7 5 5 7 6 7 6 6 5 \
+ | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 |
+|
+=1 8. [<C E> 16 <C E>] 8 [<C E> 16 rest <Db F>] \
+ 8 [<Dnl F#> 16 rest <Dbl Fn>] 16 [<C E> 8 rest, 16 <B_ G>]
+=2, 8. [<B g> 16 <B g>] 8 [<B g> 16 rest <B g>] \
+ 8 [<B g> 16 rest <B g>] 16 [<B g> 8 rest 16 <c e>]
+|
+=1'  8. [<B_ G> 16 <B_ G>] 8 [<B_ G> 16 rest <B_bl Gb>] \
+ 8 [<A_ F> 16 rest <B_bl Gb>] 16 [<B_n Gn> 8 rest, 16 <E c>]
+=2, 8. [<c e> 16 <c e>] 8 [<c e> 16 rest <c e>] \
+ 8 [<c e> 16 rest <c e>] 16 [<c e> 8 rest 16 <B g>]
+/
+2 bars | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 |
+|
+il0.7   85
+=1' 8. [<E c> 16 <E c>] 8 [<E c> 16 rest <F c#>] \
+ 8 [<F# d> 16 rest <G eb>] 16 [<G eb> 8 rest 16 <G# f#>]
+=2, 8. [<B g> 16 <B g>] 8 [<B g> 16 rest <B g>] \
+ 8 [<B g> 16 rest <B g>] 16 [<B g> 8 rest 16 <d c~>]
+|
+=1, 8. [<G# f#> 16 <G# f#>] 8 [<G# f#> 16 rest <A fn>] \
+ 8 [<G# e> 16 rest <Gn f>] 16 [<G# f#> 8 rest 16 <cnl g#>]
+=2, 8. [<d c~> 16 <d c~>] 8 [<d c~> 16 rest <c# b>] \
+ 8 [<d a#> 16 rest <eb b>] 16 [<d c~> 8 rest 16 <f# d~>]
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+2 bars | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 |
+|
+=1, treble 8. [<c g#> 16 <c g#>] 8 [<c g#> 16 rest' <db a>] \
+ 8 [<c a#> 16 rest' <db b>] 16 [<db b> 8 rest' 16 <dnl g#>]
+=2, bass   8. [<f# d~> 16 <f# d~>] 8 [<f# d~> 16 rest' <g d~#>] \
+ 8 [<ab e~> 16 rest' <g f~>] 16 [<g f~> 8 rest' 16 <c~ f~>]
+|
+=1, 8. [<d g#> 16 <d g#>] 8 [<d g#> 16 rest' <e a>] \
+ 8 [<eb bb> 16 rest' <eb bb>] [<eb c~> 8 rest' 16 <eb c~>]
+=2, 8. [<c~ f~> 16 <c~ f~>] 8 [<c~ f~> 16 rest' <c~ f~#>] \
+ 8 [<c~ g~> 16 rest' <c~ g~>] 16 [<bb g~> 8 rest' 16 <bb g~>]
+/
+2 bars | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 | 5 5 5 6 5 5 6 6 5 5 6 6 6 5 5 5 ||
+|
+=1, 8. [<e d~b> 16 <eb c~>] 8 [<d b> 16 rest' <d b>] \
+ 8 [<db a> 16 rest' <c a>] [<B a> 8 rest' 16 <B ab>]
+=2, 8. [<a f~#> 16 <a f~#>] 8 [<a f~#> 16 rest' <g# f~n>] \
+ 8 [<f# e~> 16 rest' <f# e~b>] 16 [<f# d~> 8 rest' 16 <fn d~>]
+|
+il0.7 .09 90
+=1, 8. [<B g> 16 <B g>] 8 [<B g> 16 rest' <B g>] \
+ 8 <B g> 4. rest
+=2  8. [<e d~> 16 <e d~>] 8 [<e d~b> 16 rest' <e d~b>] \
+ 8 <e c~> 16 rest G 8 C rest
+
+# fugue
+/
+4 bars | 48 | 48 | 48 | 48 |
+| 2.9
+=1' 4/4 vol100 2. rest 4 E
+=2' 4/4 vol90 4 rest c 2 g(1
+|
+ =1' 2 B(1 4 B)1 8 [c B]
+=2' 4 g)1-* 8 [ab g] 2 f#(1
+=2, 4 blank 1 rest,
+|
+=1' 2. Bb 8 [Bn Bb]
+=2' 4 f)1 8 [g f#] 2 fn
+=2, 4 blank 1 rest,
+|
+=1' 2 A 8 rest [F# G# A]
+=2' 8 rest [d e f(1] 4 f)1 f#
+=2, 4 blank 1 rest,,
+
+3 systems / 30-55-30/ 30-60-30/ 30-55-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+il0.5 .15 95
+=1' treble 2 Bb 8 rest [G A Bb(1]
+=1, 4 blank 1 rest,,
+=2' bass   8 rest [d# e f#(1] 4 f)1 g(1
+=2, 2. rest,, 4 G
+|
+=1' 8 B)1 4. Bn(1 4 B)1 G
+=1, 4 rest,, B_ 2 E
+=2' 1 g)1(1
+=2, 2 c 8 rest, [A B c(2]
+|
+=1' 4 A 2. B(1
+=1, 8 rest,, [C# D# E(2] E)2 4. F
+=2' 2 g)1 4 b a
+=2, 4 c)2 4. c# 8 [B cn c#(2]
+|
+=1' 4 B)1 G A B(1
+=1, 8 rest,, [Dn E F(2] F)2 4. F#(2
+=2' 4 g b a g(1
+=2, 4 c)2 2 d 8 [e d]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' 1 B)1(1
+=1, 4 F#)2 8 [G F#] 2 Fn(2
+=2' 4 g)1 b a g(1
+=2, 2. c# 8 [d c#]
+|
+il0.5 .01 100
+=1' 1 B)1(1
+=1, 4 F)2 8 [Gb F] 2 E(2
+=2' 2. g)1 8 [ab g]
+=2, 1 cn(2
+|
+=1' 4 B)1 8 [c B(1] B)1 4. Bb(1
+=1, 1 E)2(2
+=2' 2. f# 8 [g f#]
+=2, 4 c)2 e d c(2
+|
+=1' 4 B)1 8 [Bn Bb] 2 A
+=1, 2. E)2 4 C
+=2' 2 fn 8 rest' [d e f(1]
+=2, 2 c)2 rest,
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' 8 rest [F# G# A] 2 Bb
+=1, 4 D 2. E(2
+=2' 4 f)1 4. f# 8 [d# e f#]
+=2, 4. blank 1 rest,
+|
+=1' 8 rest [G A Bb] 4 Bn G
+=1, 4 E)2 C D E
+=2' 1 g(1
+=2, 2 rest, 8 rest, [A B c(2]
+|
+il0.5 .12 105
+=1' 4 A 2. B(1
+=1, 8 rest,, [C# D# E] 2 F
+=2' 2 g)1 4 b a
+=2, 4 c)2 4. c# 8 [B cn c#(2]
+|
+=1' 4 B)1 G A B(1
+=1, 8 rest,, [Dn E F] 2 F#
+=2' 1 g
+=2, 4 c)2 4. d 8 [B c# d(2]
+
+3 systems / 30-60-30/ 30-60-30/ 30-55-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+3 bars | 48 | 48 | 48 |
+|
+=1' treble 2 B)1 8 rest' [A A# B]
+=1, 8 rest,, [E F F#] 2 G
+#=2' 2. g 8 rest'' d#
+=2' bass   4 g b a g
+=2, 4 d)2 2 d# 8 [e d#]
+|
+# r0.5 .15 D F# Ab c
+=1' 2 c 8 rest' [Ab Bb c]
+=1, 4 Ab G 2 F#
+=2' 8 [f g] 2 ab 8 rest' f#
+=2, 2. dn 8 [d c]
+|
+# r0.5 .15 C# F A B
+=1' 2 c# 8 rest' [A B c#(1]
+=1, 4 G Gb 2 F
+=2' 8 [g ab(1] a)1 4. an 8 [b a]
+=2, 1 B(2
+/
+3 bars | 48 | 48 | 48 |
+|
+il0.6   110
+# r0.5 .15 D E Ab Bb
+=1' 8 c)1 2 d 8 [Bb c d(1]
+=1, 8 [Gb F] 2 E 8 rest, C
+=2' 1 ab
+=2, 4 B)2 8 [c B] 4 Bb 8 [Ab Bb(2]
+# not sure about this Bb suspension...
+|
+# r0.5 .15 Eb F G B
+=1' 4 d)1 2 eb 8 [f eb]
+=1, 8 [Db Eb(2] E)2 2 F 8 G
+=2' 4 g ab 2 g
+=2, 4 B)2 4. Bn 8 [G A B(2]
+|
+# r0.5 .15 D F# Ab c
+=1' 2. d 8 [eb d]
+=1, 4 A G# 4. F# 8 E
+=2' 8 [f g] 2 ab 4 f#
+=2, 4 B)2 4. c 8 [Bb c d(2]
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+# r0.5 .15 Eb G A db
+=1' 2. c# 8 [d c#]
+=1, 4 F F# 4. G 8 Fn
+=2' 8 [g g#] 2 a 4 gn
+=2, 4 d)2 4. eb 8 [c d eb(2]
+|
+# r0.5 .15 En Ab Bb c
+=1' 2. c 8 [db c]
+=1, 4 F# G G# 8 [A G#(2]
+=2' 8 [g# a] 2. a#(1
+=2, 4 e)2 4. en 8 [d d# e(2]
+|
+il0.5 .18 115
+# r0.5 .15 F G B db
+=1' 2 B 8 rest [A# B c#]
+=1, 4 G)2 2 Gn 8 rest, E
+=2' 4 a)1 b 2 c~#(1
+=2, 8 e)2 2.. f(2
+|
+# r0.5 F Ab c d
+=1' 2 d 8 rest' [B c d]
+=1, 8 [F G(2] G)2 2 Ab 8 rest,
+=2' 4 c~#)1 2. c~n(1
+=2, 4. f)2 8 [d e f] 4 f#(2
+
+3 systems / 30-60-30/ 30-55-30/ 30-50-30 20/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+# r0.5 .20 F# A c e
+=1' treble 2. e 8 [f e]
+=1, 4 G# 4. A 8 [F# G# A(2]
+=2' bass   4 c~)1 c~ e~ d~
+=2, 2.. f#)2 8 d
+|
+# r0.5 .20 G Bb c eb
+=1' 2 eb 8 rest' [d eb f]
+=1, 4 A)2 2. Bb
+=2' 2 c~ 4. e~b 8 d~(1
+=2, 8 [eb f] 2 g 8 [gb f]
+|
+# r0.5 .20 G c Bb e
+=1' 2. g 8 [ab g]
+=1, 4 G A 2 Bb
+=2' 4 d~)1 2 c~n 8 rest' a
+=2, 2 e 4 c d
+|
+il0.5 .18 120
+# r0.5 .20 F# db a en
+=1' 1 f#
+=1, 4 c Bn 2 A
+=2' 8 [bb c~] 2 c~# 8 [d~ c~#(1]
+=2, 2. e 8 [f e]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+# r0.5 .20 F# c a eb
+=1' 4 f# eb fn f#(1
+=1, 2 A A
+=2' 4 c~#)1 2 c~n 8 [d~b c~(1]
+=2, 2. d# 8 [e d#]
+|
+=1' 2. f#)1  8 [g f#]
+=1, 4 F# G# A 8 [Bb A(2]
+=2' 4 c~)1 2. b(1
+=2, 1 dn
+|
+# r0.5 .20 F B ab d
+=1' 2. fn 8 [gb f]
+=1, 4 A)2 2 G# 8 [A G#(2]
+=2' 4 b)1 d~n c~ b(1
+=2, 1 d
+|
+# r0.5 .20 E B g d
+=1' 1 e
+=1, 4 G)2 2 Gn 4 B(2
+=2' 2 b)1 b(1
+=2, 2. d 8 [eb d]
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+il0.5 .10 125
+# r0.5 .20 E B g db
+=1' 1 e
+=1, 8 B)2 4. A 2 G
+=2' 4 b)1 2. b
+=2, 2. c# 8 [d c#]
+|
+# r0.5 .20 E B g c
+=1' 4 blank 1 rest'
+=1, 2 rest, 4 B E(2
+=2' 4 cn 2. g(1-P
+=2, 1 rest,,
+|
+=1' 4 blank 1 rest'
+=1, 1 E)2(2
+=2' 1 g)1(1
+=2, 4 rest, G 2 C(2
+|
+=1' 4 e 2. b
+=1, 1 E)2
+=2' 1 g)1
+=2, 1 C)2
+=2 1 blank 32 blank-*
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30 30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+
+# murmur
+/
+1 bars | 50 |
+| 23/8 360
+=1' bass vol60 leg170 8 [B G] [B G] [B G] [c Bb Gb] [c Bb] \
+ [e c A] [e c A] [e c] [e c] [e c]
+I0.5 .01 pp
+i0.5 .04 molto legato
+=2 bass vol60 leg170 8 [G_-P C E'] [G_ C E'] [C E'-P] [C E Gb] \
+ [E F-P] [E F] [E F] [E Gb-P Ab] [E Gn-P Bn]
+/
+1 bars | 50 |
+| 17/8 360
+il0.3 .07 130
+=1, 8 [f db] [f db] [f db] [f# dn] [f# d] [f# d] [fn db B] [f db]
+=2' 8 [F G-P B] [F G B] [F#-P G B] [F# G B] [F G-P] [Db F G]
+/
+1 bars | 50 |
+| 23/8 360
+=1' 8 [B' G] [B' G] [B' G] [c' Bb' Gb] [c Bb] \
+ [e c A] [e c A] [e c] [e c] [e c]
+=2 8 [G_-P C E'] [G_ C E'] [C E'-P] [C E Gb] \
+ [E F-P] [E F] [E F] [E Gb-P Ab] [E Gn-P Bn]
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+1 bars | 50 |
+| 17/8 360
+=1, bass 8 [f db] [f db] [f db] [f# dn] [f# d] [f# d] [g eb] [g eb g]
+=2' bass 8 [F G-P B] [F G B] [F#-P G B] [F# G B] [G B-P] [G B eb]
+/
+1 bars | 50 |
+| 22/8 360
+=1, 8 [ab gb d] [ab gb d] [an f db] [a f] \
+ [bb ab] [bb ab] [bb ab] [bn gn f] [b g]
+=2' 8 [Ab c-P] [Ab c] [Ab c] [An Bn-P] [A B c#] \
+ [Bb cn-P d] [Bb c d] [Bn eb-P] [B eb f]
+/
+1 bars | 50 |
+|
+=1, 8 [c~ ab] [c~ ab] [c~ ab] [d~b an] [e~b d~b a] \
+ [e~n bb ab] [e~ bb ab] [f~ bn g] [f~ b] treble
+=2 8 [c, d-P f#] [c, d f#] [db eb-P g] [db eb] \
+ [c en'-P] [c e'] [c e'] [db fn-P] [db f g]
+
+3 systems / 30-50-30/ 30-50-30/ 30-50-30/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 19. Variations
+
+/
+1 bars | 50 |
+|
+il0.4 .05 135
+=1 treble 8 [F D] [F D] [F D]   [F# E C] [F# E]  \
+ [G Eb C] [G Eb] [Bb' G Eb] [c Bb]
+=2 bass 8 [d ab-P c~] [d ab c~] [e-P an] [f# a c~] \
+ [g-P bb] [g bb c~] [g bb] [fn bb c~]
+/
+1 bars | 50 |
+| 23/8 360
+=1, 8 [db A F#] [db A F#] [eb c F#] [eb c] \
+ [f# d B A] [f# d B]  [ab fn d] [ab f]
+i0.55 .77 sempre pianissimo . . .
+=2 8 [e-P f#] [eb a] [db a]  [c,-P eb] [B, eb f#] \
+ [A d'-P f#'] [A d' G B] [Fn-P Ab] [E Ab B]
+/
+2 bars | 28 | 3 ||
+| 28/8 360
+=1 8 [b g e d] [b g e] [d~b b g e] [d~b b g] \
+ [e~ c~ b] vol-5 [e~ c~ b g e] vol-5 [e~ c~] vol-5 [e~ c~ b g]
+i0.5  .67 dim . . .
+=2 8 [D E-P G] [D E G B] [Db E-P G] [Db E G B] \
+ [C E-P G B c] [C E G B] [C E B] [C G]
+|
+=1 1 vol-5 e~
+=2 1 C
+
+midi pause 1.0
+
+@

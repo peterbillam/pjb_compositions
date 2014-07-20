@@ -1,0 +1,29 @@
+6 systems /19-25-19/
+title 20120627
+midi channel 0 patch 0
+midi channel 1 patch 0
+/
+3 bars | 3/4 72 | 72 | 72 |
+| 0.6
+=1' treble 3/4 cha1 4 rest
+=2' bass   3/4 cha1 vol120 8 [E_-P 16 E B]
+| 1.8
+=1' 8 vol70 rest 4 <Abl Bbxl> <Abl Bbxl> 8 <Anl Bnxl>
+=2' 8 vol70 rest'' 4 d~-P d~ 8 d~b-P
+=2, 2 vol70 e 4 f
+|
+=1' 8 rest 4 <Abl Bbxl> <Abl Bbxl> 8 <G Bn>
+=2' 8 rest'' 4 c~-P c~ 8 c~#-P
+=2, 2 gb 4 f
+|
+=1' 8 rest 4 <Ab c> <Ab c> 8 <Anl c#>
+=2' 8 rest'' 4 d~-P d~ 8 d~b-P
+=2, 2 e 4 d#
+|
+=1' 8 rest 4 <Ab c> <Ab c> 8 <G B>
+=2' 8 rest'' 4 c~-P c~ 8 d~b-P
+=2, 2 e 4 f
+|
+=1' 8 rest 4 <Ab c> <Ab c> 8 <G B>
+=2' 8 rest'' 4 c~-P c~ 8 d~b-P
+=2, 2 f# 4 fn

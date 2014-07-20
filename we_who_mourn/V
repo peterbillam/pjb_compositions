@@ -1,0 +1,171 @@
+3 systems 10 /17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17-25-17 \
+ /17-20-17-20-17-25-17-23-17 /
+title IV
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2012 Peter J Billam
+midi channel 1 patch 52 pan 10 reverb 100
+midi channel 2 patch 52 pan 58 reverb 100
+midi channel 3 patch 52 pan 74 reverb 100
+midi channel 4 patch 52 pan 90 reverb 100
+midi channel 5 patch 52 pan 42 reverb 100
+
+#======================================================
+#2 Anger - We killed it knowingly, pretending not to know  (five voices)
+#------------- IV ---------------
+
+# more unison-rhythms; more detache, more slogan-chanting
+# nah; more solo ranting over... hmm... slogans
+# see bottom of book AM3
+# =1 treble 8 G# A 2 ee 4 d 2 rest 8 [A# B'] 2 f 4 e
+# =2' bass  2 c 4 f# 2. f# :|
+# =2, bass  2. F# 2 c 4 F# :|
+# |
+# =1 2 rest 4 ab 2. g(1 2 g)1 4 d 2 G# 4 G# 2 A
+# =2' 2 c 4 f# 2. f# :|                     2 <B f'>
+# =2, 2. F# 2 c 4 F# :|
+#
+# perhaps counterpointy, if that's angry enough... :
+# =1' 8 [G_# A_]
+# |
+# =1' 2. Eb 2 D_ 8 [G_# A_]
+# =2  4 rest 8 {A# B] 2 f e
+# |
+# =1' 2, F 1 E
+# =2  4 rest 8 [c# d'] 2. ab 2 g
+
+
+# book AL p 6
+/
+5 bars | 4/4  24 | 24 | 24 | 24 | 24 |
+| 4/4 2.4
+i0.5 .07 72 cro/min
+=1 treble     4/4 cha1 leg85 vol90 1 rest
+=2 treble     4/4 cha2 leg85 vol90 1 rest
+r0.7 .03 And we knew !
+=3 treble     4/4 cha3 leg85 vol90 1 F#
+=4 treble8vab 4/4 cha4 leg85 vol90 1 rest
+=5 treble8vab 4/4 cha5 leg95 vol90 1 c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 but what use ?
+=3 2. F#-dim15
+=4 2. rest
+=5 2. c-dim15
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 but what use ?
+=3 2. F#-dim15
+=4 2. rest
+=5 2. c-dim15
+|
+=1 2 rest vol80 cro c
+=2 2. rest
+r0.7 .03 A leather-lunged adventurer,
+=3 2. F#-dim15
+=4 2. rest
+=5 2. c-dim15
+|
+=1 2. Bb'
+=2 2. rest
+r0.7 .03 fist on steering wheel,
+=3 2. F#-dim15
+=4 2 rest cro f#
+=5 2. c-dim15
+|
+=1 2. A
+=2 2. rest
+r0.7 .03 held the levers,
+=3 2. rest
+=4 2. f#-dim15
+=5 2. rest
+|
+il0.6 .07 5
+=1 2. Bb(1
+=2 2. rest
+r0.7 .03 didn't listen to the shouting from the back seat.
+=3 2. rest
+=4 2. f#-dim15
+=5 2. rest
+|
+=1 2. Bb-dim20)1
+=2 2. rest
+r0.7 .03 We could see;
+=3 2 rest cro F#
+=4 2. f#-dim15
+=5 2 rest cro c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 everyone could see.
+=3 2. F#(1
+=4 2. rest
+=5 2 c cro c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 We knew.
+=3 cro F#-dim10)1 2 F#-dim10
+=4 vol80 2. c(1
+=5 2 c-dim10 cro c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 We saw it coming, he kept on driving, and it came.
+=3 2. F#-dim15
+=4 cro c)1 2 Bb'
+=5 2. c-dim15
+|
+il0.3 .07 10
+=1 2. rest
+=2 2. rest
+r0.7 .03 How clever !
+=3 2. F#-dim15
+=4' 2 A cro Bb
+=5 2. rest
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 We wove the rope and tied the noose.
+=3 2. F#(1
+=4 2 c-dim10 cro rest
+=5 2. rest
+|
+=1 vol90 2 e cro A
+=2 vol90 2 A cro A
+r0.7 .03 How hard we worked !
+=3 2. F#-dim15)1
+=4 2 g# cro f#
+=5 2 e cro e
+|
+=1 2 eb(1
+=2' 2. Bb(2
+r0.7 .03 We built the cars that killed us.
+=3 2. rest
+=4 2. f#
+=5 2. eb(1
+|
+=1 2. eb-dim20)1
+=2' 2. Bb-dim20)2
+r0.7 .03 We brewed the poison,
+=3 2. rest
+=4 2. rest
+=5 2. eb-dim20)1
+|
+il0.3 .07 15
+=1 2. rest
+=2 2 F# cro F#
+r0.7 .03 yet all the time we knew it was for us.
+=3' vol70 2 D cro C(1
+=4 vol90 2 eb cro eb
+=5 2. vol90 Bb'
+|
+=1 2. rest
+=2 2. F#
+r0.7 .03 Clever ...
+=3' 2. vol60 C)1
+=4 2. en(1
+=5 2. A

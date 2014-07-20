@@ -1,0 +1,702 @@
+2 systems 15 / 28-34-28-34-28-34-28/ 28-34-28-34-28-34-28 /
+title Double canon  at four semitones
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2009 Peter J Billam
+/
+4 bars | 12 | 48 | 12 12 12 11 | 44 |
+| 0.35
+midi channel 1 patch 0 pan 95
+midi channel 2 patch 0 pan 65
+midi channel 3 patch 0 pan 35
+midi channel 4 patch 0 pan 5
+il0.4 .03 in open score
+=1 treble cha1 4 rest
+I0.1 .04 p
+=2 treble cha2 8 vol80 [A_b A_b]
+=3 bass   cha4 4 rest
+=4 bass   cha3 8 vol80 [f f]
+I0.1 .03 p
+| 1.4
+=1 1 rest
+=2 8 [A_b A_b A_b A_b] [A_b A_b A_b A_b]
+=3 1 rest
+=4 8 [f f f f] [f f f f]
+|
+=1 2. rest 8 vol80 [C C]
+I0.8 .66 p
+=2 8 [A_b A_b A_b A_b] [A_b A_b] vol105 4 E-.
+I0.6 .74 f
+=3 2. rest 8 vol80 [a a]
+I0.9 .70 p
+=4 8 [f f f f] [f f] vol105 4 F#-.
+I0.1 .67 f
+|
+=1 8 [C C C C] [C C C C]
+=2 4 G#-. F#-. B-. A-.
+=3 8 [a a a a] [a a a a]
+=4 4 c-. A-. e-. d#-.
+/
+3 bars | 3 2.5 3 3 3 3 3 4 3 2 3 3 3 3 3 2 | 48 | 48 |
+|
+I0.1 .72 f
+=1 8 [C C C C] [C C] vol105 4 G#-.
+=2 4 c 8. [B 16 A,] 4 G vol80 8 [E E]
+I0.9 .70 p
+=3 8 [a a a a] [a a] vol105 4 Bb-.
+I0.9 .68 f
+=4 4 g 8. [f# 16 e] 4 d# vol80 8 [c~# c~#]
+I0.01 .70 p
+|
+il0.5 .15 5
+=1 4 c-. Bb-. d#-. c#-.
+=2 vol80 8 [E E E E] [E E E E] 
+=3 4 e-. c#-. ab-. g-.
+=4 vol80 8 [c~# c~# c~# c~#] [c~# c~# c~# c~#]
+|
+I0.2 .66 p
+=1 4 e 8. [d# 16 c#,] 4 B vol80 8 [G# G#]
+I0.1 .47 f
+=2 8 [E E E E] vol105 4 g 8. [f# 16 e]
+I0.1 .65 p
+=3 4 b 8. [bb 16 ab] 4 g vol80 8 [f~ f~]
+=4 8 [c~# c~# c~# c~#] vol105 4 D 8. [C# 16 B_]
+I0.01 .45 f
+
+2 systems /28-34-28-41-28-34-28 / 28-34-28-34-28-53-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 48 | 12 12 10 12 | 44 | 12 12 12 10 |
+|
+=1 vol80 8 [G# G# G# G#] [G# G# G# G#]
+I0.1 .90 p
+=2 1 d
+=3 vol80 8 [f~ f~ f~ f~] [f~ f~ f~ f~]
+I0.1 .90 p
+=4 1 A_#
+|
+I0.6 .47 f
+=1 8 [G# G# G# G#] vol105 4 b 8. [a# 16 g#]
+=2 vol80 8 D 4 rest 8 D rest [D D] rest
+=3 8 [f~ f~ f~ f~] vol105 4 Gb 8. [F 16 Eb]
+I0.9 .40 f
+=4 vol80 8 b 4 rest 8 b rest [b b] rest
+|
+I0.2 .90 p
+=1 1 f#
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 1 D treble
+I0.9 .80 p
+=4 8 rest [b b] rest 8 b 4 rest 8 b
+|
+il0.5 .05 10
+=1 vol80 8 F# 4 rest 8 F# rest [F# F#] rest
+=2 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=3 vol80 8 Eb 4 rest 8 Eb rest [Eb Eb] rest
+=4 8 rest [g g#] rest 8 a 4 rest 8 a
+/
+4 bars | 48 | 48 | 42 | 48 |
+|
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=3 8 rest [Eb Eb] rest 8 Eb 4 rest 8 Eb
+=4 8 bb 4 rest 8 bb 8 rest [bb bb] rest
+|
+=1 8 rest [D# D#] rest 8 E 4 rest 8 E
+=2 8 A 4 rest 8 A#  8 rest [A#' B'] rest
+=3 8 rest [B_ C] rest 8 C# 4 rest 8 C#
+=4 8 f~ 4 rest 8 f~ 8 rest [f~# g~] rest
+|
+=1 8 F 4 rest 8 F 8 rest [F F] rest
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 8 D 4 rest 8 D 8 rest [D D] rest
+=4 8 rest [b b] rest 8 b 4 rest 8 b
+|
+=1 8 c# 4 rest 8 d 8 rest [d eb] rest
+=2 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=3 8 A 4 rest 8 A 8 rest [A# B'] rest
+=4 8 rest [g g#] rest 8 a 4 rest 8 a
+
+2 systems /28-34-28-34-28-34-28 / 28-53-28-41-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 48 | 48 | 42 | 48 |
+|
+il0.5 .05 15
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=3 8 rest [Eb Eb] rest 8 Eb 4 rest 8 Eb
+=4 8 bb 4 rest 8 bb 8 rest [bb bb] rest
+|
+=1 8 rest [Eb Eb] rest 8 En 4 rest 8 E
+=2 8 A 4 rest 8 A  8 rest [A#' B'] rest
+=3 8 rest [B_ C] rest 8 C# 4 rest 8 C#
+=4 8 f~ 4 rest 8 f~ 8 rest [f~# g~] rest
+|
+=1 8 F 4 rest 8 F 8 rest [F F] rest
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 8 D 4 rest 8 D 8 rest [D D] rest
+=4 8 rest [b b] rest 8 b rest vol105 4 B_-.
+I0.3 .60 f
+|
+=1 8 c# 4 rest 8 c# 8 rest [d eb] rest
+I0.1 .65 f
+=2 8 rest [G_ G_#] rest B_ rest vol105 4 f-.
+=3 8 A 4 rest 8 A 8 rest [A# B'] rest
+=4 4 F-. rest vol80 8 g# rest rest g#
+I0.1 .40 p
+/
+4 bars | 6 6 6 6 6 11 6 5 | 48 | 12 12 12 11 | 48 |
+|
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 4 c~#-. vol80 8 rest B_ rest [B_ B_] rest
+I0.9 .25 p
+=3 8 rest [Eb Eb] rest 8 Eb rest bass vol105 4 Eb-.
+I0.8 .67 f
+=4 8 g# 4 rest 8 g# rest [g# g# d#]
+|
+il0.5 .05 20
+I0.4 .64 f
+=1 8 rest [B_ C] rest Eb rest vol105 4 a-.
+=2 8 A_ 4 rest 8 A_ rest [A_ A_ A]
+=3 4 A-. rest vol80 8 c~ rest rest c~
+I0.9 .35 p
+=4 8 [gb f f gb] [f gb gb f]
+|
+I0.2 .35 p
+=1 4 f~-. vol80 8 rest Eb rest [Eb Eb] rest
+=2 8 [Eb D D] rest D 4 rest 8 D
+=3 8 c~ 4 rest 8 c~ rest [c~ c~ g]
+=4 8 [a bb bb a] bb rest vol105 4 F-.
+I0.3 .70 f
+|
+=1 8 C# 4 rest 8 C# rest [C# C# c#']
+I0.3 .22 f
+I0.1 .73 p
+=2 8 rest D# vol105 4 f#-. d~#-. vol80 8 rest F#
+=3 8 [bb a a bb] [a bb bb a]
+I0.2 .35 p
+=4 4 d#-. rest vol80 8 f~# rest vol105 4 G-.
+I0.3 .70 f
+
+2 systems /28-34-28-34-28-34-28 / 28-34-28-41-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 24 21 | 6 6 6 7 6 11 6 5 | 12 12 11 12 | 48 |
+|
+=1 8 [G F# F#] rest F# 4 rest 8 F#
+I0.3 .22 f
+I0.1 .73 p
+=2 4 rest vol105 g#-. e~-. vol80 8 [E D]
+I0.1 .70 f
+=3 8 [c~# d~ d~ c~#] d~ rest vol105 4 A-.
+I0.2 .30 p
+=4 4 e-. vol80 8 rest e~ [d~ c~ c~] rest
+|
+I0.5 .17 f
+I0.2 .73 p
+=1 8 rest G vol105 4 bb-. g~-. vol80 8 rest Bb
+=2 8 [E D D E] [D E E D]
+I0.1 .30 p
+I0.1 .75 f
+=3 4 g-. rest treble vol80 8 Bb rest bass vol105 4 B-.
+=4 8 [bb c~ c~ bb] [c~ bb bb c~]
+|
+il0.6 .01 25
+I0.5 .17 f
+I0.2 .73 p
+=1 4 rest vol105 c~-. g~#-. vol80 8 [G# F#]
+=2 8 [D E E D] 4 rest 8 [B c]
+I0.2 .33 p
+=3 4 g#-. treble vol80 8 rest G# [F# E E] rest
+=4 8 [c~ bb bb c~] 4 rest 4 b
+|
+=1 8 [G# F# F# G#] [F# G# G# F#]
+=2 8 [c# d c# cn] [B c c# d]
+=3 8 [D E E D] [E D D E]
+=4 8 [bb a g#] 4 bn 8 [bb a g#]
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1 8 [F# G# G# F#] 4 rest 8 [d# e]
+=2 8 [db c B c] [c# d] [A_ A_]
+=3 8 [E D D E] 4 rest 4 D
+=4 4 b 8 [bb a] [ab g f# f#]
+|
+=1 8 [f gb f e] [d# e f gb]
+=2 8 [A_ A_ A_ A_] [A_ A_ A_ A_]
+=3 8 [D C# Cn] 4 Eb 8 [D C# Cn]
+=4 8 [f# f# f# f#] [f# f# f# f#]
+|
+=1 8 [f e d# e] [f gb] [C# C#]
+=2 8 [A_ A_ A_ A_] [A_ A_] vol105 4 F-.
+I0.8 .76 f
+=3 4 Eb bass 8 [d~ c~#] [c~n b bb bb]
+=4 8 [f# f# f# f#] [f# f#] vol105 4 G-.
+I0.1 .71 f
+|
+il0.5 .05 30
+=1 8 [C# C# C# C#] [C# C# C# C#]
+=2 4 A-. G-. c-. Bb-.
+=3 8 [bb bb bb bb] [bb bb bb bb]
+=4 4 c#-. Bb-. f-. e-.
+
+2 systems /28-34-28-34-28-34-28 / 28-47-28-47-28-41-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 3 3 3 3 3 3 3 5.5 3 3 3 3 3 3 3 2 | 43 \
+ | 3 2.5 3 2.5 3 2.5 3 5.5 3 2 3 2 3 3 3 3 | 6 6 6 6 6 6 6 5 |
+|
+I0.2 .73 f
+=1 8 [C# C# C# C#] [C# C#] vol105 4 A-.
+=2 4 db 8. [c 16 Bb] 4 Ab vol80 8 [F F]
+I0.9 .71 p
+=3 8 [bb bb bb bb] [bb bb] vol105 4 B-.
+I0.9 .71 f
+I0.1 .68 p
+=4 4 ab 8. [g 16 f]  4 e vol80 8 [d~ d~]
+|
+=1 4 c#-. B-. e-. d-.
+=2 vol80 8 [F F F F] [F F F F]
+=3 4 f-. d-. a-. g#-.
+=4 vol80 8 [d~ d~ d~ d~] [d~ d~ d~ d~]
+|
+I0.2 .70 p
+=1 4 f 8. [e 16 d] 4 c vol80 8 [A A]
+I0.2 .43 f
+=2 8 [F F F F] vol105 4 ab 8. [g 16 f]
+I0.2 .63 p
+=3 4 c~ 8. [b 16 a] 4 g# vol80 8 [f~# f~#]
+=4 8 [d~ d~ d~ d~] vol105 4 Eb 8. [D 16 C]
+I0.2 .43 f
+|
+=1 vol80 8 [A A A A] [A A A A]
+=2 1 eb
+=3 vol80 8 [f~# f~# f~# f~#] [f~# f~# f~# f~#]
+=4 1 B_
+/
+4 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 | 12 12 12 11 | 45 | 48 |
+|
+il0.8 .08 35
+I0.7 .44 f
+=1 8 [A A A A] vol105 4 c~ 8. [b 16 a]
+I0.1 .03 p
+=2 vol80 8 [Eb C C Eb] [C Eb Eb C]
+=3 8 [f~# f~# f~# f~#] vol105 4 G 8. [F# 16 E]
+I0.8 .43 f
+=4 vol80 4 rest eb eb c
+I0.1 .05 p
+|
+I0.2 .93 p
+=1 1 g
+=2 vol80 8 [A, a a~ a] [A' Eb Eb C]
+=3 1 Eb
+=4 vol80 8 [e~b c~ c~ e~b] [c~ a A, a]
+|
+=1 vol80 8 [G E E G] [E G G E]
+=2 4 Db C C Db
+I0.1 .13 p
+=3 vol80 4 rest g g e
+=4 8 rest 4 a a a 8 a
+|
+=1 8 [c#, c~# c~~# c~#] [c#' G G E]
+=2 8 rest 4 B_b B_b B_b 8 B_b
+=3 8 [g~ e~ e~ g~] [e~ c~# c#, c~#]
+=4 4 G e Bb rest
+
+2 systems /28-53-28-41-28-34-28 / 28-34-28-34-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 48 | 48 | 42 | 12 12 12 11 |
+|
+=1 4 F E E F
+=2 8 [Bb G, G, Bb] [G, Bb Bb G,]
+=3 8 rest 4 c~# c~# c~# 8 c~#
+=4 4 rest bb bb g
+|
+il0.5 .05 40
+=1 8 rest 4 D D D 8 D
+=2 8 [G#, g# g~# g#] [G#' D] 4 B_
+=3 4 B g# d rest
+=4 8 [b d~ d~ b] [b g# G#, g#]
+|
+=1 8 [d B, B, d] [B, d d B,]
+=2 2. B_ vol105 4 A_-.
+I0.8 .63 f
+=3 4 rest d~ d~ b
+=4 2. Gn vol105 4 F#-.
+I0.1 .63 f
+|
+=1 vol80 8 [c, c~ c~~ c~] [c' F#] 4 Eb
+=2 4 A-. rest rest vol80 4 A(2
+I0.9 .70 p
+=3 vol80 8 [e~b f~# f~# e~b] [e~b c~ c, c~]
+=4 4 f#-. rest rest vol80 4 fn(1
+I0.1 .66 p
+/
+4 bars | 6 5 5 6 5 7 5 5 | 44 | 6 5 5 6 5 7 5 5| 6 5 7 6 5 7 5 5|
+|
+I0.2 .66 f
+=1 2. Eb vol105 4 Db-.
+=2 4. A)2 4 G# 8 A 4 G#(1
+I0.1 .66 f
+=3 2. B vol105 4 Bb-.
+=4 4. f)1 4 gb 8 f 4 e(1
+|
+I0.2 .66 p
+=1 4 db-. rest rest vol80 4 db(1
+=2 2. G#)1 vol105 4 A_-.
+I0.8 .66 f
+=3 4 bb-. rest rest vol80 4 a(1
+I0.9 .66 p
+=4 2. e)1 vol105 4 F#-.
+I0.1 .66 f
+|
+il0.5 .15 45
+=1 4. db)1 4 c 8 db 4 c(1
+=2 4 A-. rest rest vol80 4 Bb(1
+I0.9 .66 p
+=3 4. a)1 4 bb 8 a 4 g#(1
+=4 4 f#-. rest rest vol80 4 fn(1
+I0.1 .66 p
+|
+I0.2 .66 f
+=1 2. c)1 vol105 4 C#-.
+=2 4 Bb)1 8 A 4 Bb' 8 A 4 Ab(2
+I0.1 .66 f
+=3 2. g#)1 vol105 4 Bb-.
+=4 2 f)1  4 d  4 d#(1
+
+2 systems /28-34-28-34-28-34-28 / 28-34-28-34-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 6 5 7 6 5 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+I0.2 .66 p
+=1 4 c#-. rest rest vol80 4 d(1
+=2 4 Ab)2 8 G 4 Ab 8 G [F F]
+I0.1 .66 p
+=3 4 bb-. rest rest vol80 4 a(1
+=4 2. d#)1 treble 8 [B_ B_]
+|
+=1 4 d)1 8 c# 4 d 8 c# 4 cn(1
+=2 8 [F F F F] [F F A A]
+=3 2 a)1 4 f# 4 g(1
+=4 8 [B_ B_ B_ B_] [B_ B_ Eb Eb]
+|
+=1 4 c)1 8 B 4 c 8 B [A A]
+=2 8 [A A A A] [A A F# F#]
+=3 2. g)1 treble 8 [Eb Eb]
+=4 8 [Eb Eb Eb Eb] [Eb Eb C C]
+|
+il0.7 .15 50
+=1 8 [A A A A] [A A] [c# c#]
+=2 8 [F# F# G G] [G G A A]
+=3 8 [Eb Eb Eb Eb] [Eb Eb G G]
+=4 8 [C C C# C#] [C# C# D# D#]
+/
+4 bars | 6 6 6 6 6 6 6 5 |
+|
+=1 8 [c# c# c# c#] [c# c# A#, A#,]
+=2 8 [A, A, Bb Bb] [Bb Bb c c]
+=3 8 [G G G G] [G G E E]
+=4 8 [D# D# E E] [E E F# F#]
+|
+=1 8 [A# A# B' B']  [B B c# c#]
+=2 8 [c# c# c# c#] [d d d# d#]
+=3 8 [E E F F] [F F G G]
+=4 8 [G G G G] [G# G# A A]
+|
+=1 8 [c#, c#, d d] [d d e e]
+=2 8 [e e f f] [f# f# g g]
+=3 8 [G G G# G#] [G# G# A# A#]
+=4 8 [A# A# B' B'] [c c c# c#]
+|
+=1 8 [f f f f] [f# f# g g]
+=2 8 [g g g# g#] [g# a a# b]
+=3 8 [B B B B] [c c c# c#]
+=4 8 [c# c# d d] [d d# e f]
+
+2 systems /28-34-28-34-28-34-28 / 28-34-28-34-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 6 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5| 12 12 11 12 | 6 5 5 5 5 6 6 5|
+|
+il0.7 .05 55
+=1 8 [g# g# a a] [a# a# b b]
+=2 8 [b c~ c~ c~#] 4 d~ vol105 A_b
+I0.8 .60 f
+=3 8 [d d d# d#] [e e f f]
+=4 8 [f f#] 4 g bass vol105 2 A_b
+I0.3 .40 f
+|
+=1 8 [b b c~ c~] [c~ c~# d~ d~#]
+=2 4 F C A E
+=3 8 [f f f# f#] [f# g g# a]
+=4 2 F C
+|
+=1 8 [d~# e~ e~ f~] 4 g~b vol105 C
+I0.8 .60 f
+=2 4 c rest rest vol80 8 [F# F#]
+I0.9 .60 p
+=3 8 [a a#] 4 b bass vol105 2 C
+I0.7 .42 f
+=4 2 A E
+|
+=1 4 A E c# G#
+=2 8 [F# F# G G] [G G Ab Ab]
+=3 2 A E
+=4 2 c vol80 4 rest treble 8 [D# D#]
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 11 6 5 |
+|
+I0.2 .65 p
+=1 4 e rest rest vol80 8 [Bb Bb]
+=2 8 [Ab, Ab, Bb Bb] [Bb Bb c c]
+=3 2 c# G#
+=4 8 [D# D# E E] [E E F# F#]
+|
+il0.5 .05 60
+=1 8 [Bb Bb Bn B] [B B c c]
+=2 8 [c# c# c# c#] [d d d# d#]
+=3 2 e vol80 4 rest treble 8 [G G]
+I0.9 .50 p
+=4 8 [G G G G] [G# G# A A]
+|
+=1 8 [c, c, d d] [d d e e]
+=2 8 [e e f f] [f# f# g g]
+=3 8 [G  G  G# G#] [G# G# A# A#]
+=4 8 [A# A# B' B'] [B  B  c  c#]
+|
+=1 8 [f f f f] [f# f# g g]
+=2 8 [g# g# a a] [bb bb] vol105 4 Eb
+I0.9 .65 f
+=3 8 [B B B B] [c c c# c#]
+=4 8 [c# d d d#] [d# e] bass vol105 4 F
+I0.2 .65 f
+
+2 systems /28-34-28-34-28-34-28 / 28-34-28-41-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 6 6 6 6 6 6 6 5 \
+ | 3 3 3 3 3 3 3 6 3 3 6 5 3 3 3 2 \
+ | 6 6 6 6 6 6 6 5 | 3 3 3 3 3 3 3 6 3 2 3 2 3 3 3 4 |
+|
+=1 8 [g# g# a a] [bb bb bn b]
+=2 4 G-. F-. Bb-. Ab-.
+=3 8 [d d d# d#] [d# d# e f]
+=4 4 B-. G#-. eb-. d-.
+|
+=1 8 [c~ c~ c~# c~#] [d~ d~] vol105 4 G
+I0.8 .75 f
+=2 4 B 8. [A# 16 G#] 4 F# vol80 8 [Eb Eb]
+I0.8 .75 p
+=3 8 [f f# f# g] [g ab] bass vol105 4 A
+I0.8 .75 f
+=4 4 gb 8. [f 16 eb] 4 d vol80 8 [c~ c~]
+I0.1 .75 p
+|
+il0.5 .15 65
+=1 4 B-. A-. d-. c-.
+=2 vol80 8 [Eb Eb Eb Eb] [Eb Eb Eb Eb]
+=3 4 eb-. c-. g-. f#-.
+=4 vol80 8 [c~ c~ c~ c~] [c~ c~ c~ c~]
+|
+I0.2 .70 p
+=1 4 eb 8. [d 16 c,] 4 Bb vol80 8 [G G]
+I0.1 .45 f
+=2 8 [Eb Eb Eb Eb] vol105 4 gb 8. [f 16 eb]
+I0.2 .65 p
+=3 4 bb 8. [a 16 g] 4 f# vol80 8 [e~ e~]
+=4 8 [c~ c~ c~ c~] vol105 4 Db 8. [C 16 B_b]
+I0.3 .40 f
+/
+4 bars | 44 | 22 24 | 48 | 24 22 |
+|
+=1 vol80 8 [G G G G] [G G G G]
+I0.1 .95 p
+=2 1 c#
+=3 vol80 8 [e~ e~ e~ e~] [e~ e~ e~ e~]
+I0.1 .90 p
+=4 1 A_
+|
+I0.5 .40 f
+=1 8 [G G G G] vol105 4 bb 8. [a 16 g]
+=2 vol80 8 C# 4 rest 8 C# rest [C# C#] rest
+=3 8 [e~ e~ e~ e~] vol105 4 F 8. [E 16 D]
+I0.8 .40 f
+=4 vol80 8 bb 4 rest 8 bb rest [bb bb] rest
+|
+I0.2 .90 p
+=1 1 f
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=3 1 C# treble
+=4 8 rest [bb bb] rest 8 bb 4 rest 8 bb
+|
+il0.5 .15 70
+=1 vol80 8 F 4 rest 8 F rest [F F] rest
+=2 8 rest [B_b B_b] rest 8 B_n 4 rest 8 B_
+I0.1 .01 p
+=3 vol80 8 D 4 rest 8 D rest [D D] rest
+=4 8 rest [f# g] rest 8 g# 4 rest 8 g#
+
+2 systems /28-34-28-34-28-47-28 / 28-34-28-47-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 8 rest [F F] rest 8 F 4 rest 8 F
+=2 8 C 4 rest 8 C 8 rest [C C] rest
+=3 8 rest [D D] rest 8 D 4 rest 8 D
+=4 8 a 4 rest 8 a 8 rest [a a] rest
+|
+=1 8 rest [D D] rest 8 Eb 4 rest 8 Eb
+=2 8 G# 4 rest 8 A 8 rest [A' Bb'] rest
+=3 8 rest [A_# B_] rest 8 C 4 rest 8 C
+=4 8 e~ 4 rest 8 e~ 8 rest [f~ f~#] rest
+|
+=1 8 E 4 rest 8 E 8 rest [E E] rest
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=3 8 C# 4 rest 8 C# 8 rest [C# C#] rest
+=4 8 rest [bb bb] rest 8 bb 8 rest vol105 4 B_b
+I0.3 .60 f
+|
+=1 8 c 4 rest 8 c# 8 rest [c# d] rest
+I0.1 .70 f
+=2 8 rest [F_# G_] rest B_b rest vol105 4 e-.
+=3' 8 G# 4 rest 8 G# 8 rest [A Bb] rest
+=4 4 E-. rest vol80 8 g rest rest g
+I0.1 .40 p
+/
+4 bars | 6 6 6 6 6 11 6 5 | 48 | 48 | 48 |
+|
+il0.5 .05 75
+=1 8 rest [F F] rest 8 F 4 rest 8 F
+=2 4 c~-. vol80 8 rest B_b rest [B_b B_b] rest
+I0.7 .25 p
+=3 8 rest [D D] rest 8 D 8 rest bass vol105 4 D
+I0.8 .70 f
+=4 8 g 4 rest 8 g rest [g g d]
+|
+I0.2 .65 f
+=1 8 rest [A_# B_] rest D rest vol105 4 g#-.
+=2 8 G_# 4 rest 8 G_# rest [G_# G_# G#]
+=3 4 G#-. rest vol80 8 b rest rest b
+I0.9 .45 p
+=4 8 [f e e f] [e f f e]
+|
+I0.2 .35 p
+=1 4 e~-. vol80 8 rest D rest [D D] rest
+=2 8 [D C# C#] rest C# 4 rest 8 C#
+=3 8 b 4 rest 8 b rest [b b f#]
+=4 8 [g# a a g#] a rest vol95 4 E-.
+I0.2 .60 mf
+|
+=1 8 C 4 rest 8 C rest [C C c']
+=2 8 rest [D D] rest D rest vol95 4 A-.
+I0.9 .70 mf
+=3 8 [a g# g# a] [g# a a g#]
+=4 1 F
+
+2 systems /28-34-28-34-28-34-28 / 28-47-28-34-28-34-28/
+pagenum
+innerhead Double canon  at four semitones
+leftfoot (c) 2009 Peter J Billam
+
+/
+4 bars | 48 | 48 | 48 | 6 6 6 6 6 6 6 10 |
+|
+=1 8 [Gb F F] rest F 4 rest 8 F
+=2 1 G#
+I0.9 .93 p
+I0.1 .66 mf
+=3 8 [c~ d~b d~b c~] d~b rest vol95 4 G#-.
+I0.1 .03 p
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+|
+il0.5 .05 80
+I0.2 .65 f
+=1 8 rest [F# F#] rest F# rest vol95 4 db-.
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=3 1 A treble
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+|
+I0.2 .95 p
+=1 1 c
+=2 8 [Cn E E C] [E C C E]
+=3 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+I0.9 .01 p
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+I0.4 .70 mf
+|
+=1 vol80 8 [Ab F F Ab] [F Ab G F]
+I0.1 .60 f
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=3 8 rest [G G] rest G 4 rest 8 G bass
+=4 1 F
+/
+5 bars | 6 6 5 6 5 6 6 5 | 6 6 5 6 5 6 6 6 \
+ | 48 | 5 5 6 5 6 5 5 5| 12 ||
+|
+=1 8 [E G# G# E] [G# E E G#]
+=2 1 G#
+I0.9 .92 p
+I0.1 .74 f
+=3 8 rest 4 e e 8 e 4 vol95 4 G#-.
+I0.3   p
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+|
+I0.2 .65 f
+=1 8 rest [F# F#] rest F# rest vol95 4 db-.
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=3 1 A treble
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+|
+il0.5 .05 85
+I0.2 .95 p
+=1 1 c
+=2 8 [Cn E E C] [E C C E]
+I0.1 .01 p
+=3 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+I0.4 .70 mf
+|
+=1 vol80 8 [Ab F F Ab] [F Ab G F]
+I0.1 .70 f
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=3 8 rest [G G] rest G 4 rest 8 G
+=4 1 F
+I0.4 .90 f
+|
+=1 2. rest
+=2 vol105 4 f~-. 2 rest
+=3 2. rest
+=4 vol105 4 F_-. 2 rest

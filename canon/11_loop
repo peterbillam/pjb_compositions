@@ -1,0 +1,154 @@
+#! /usr/bin/python3
+#########################################################################
+#      This Python3 script is Copyright (c) 2009, Peter J Billam        #
+#                          www.pjb.com.au                               #
+#                                                                       #
+#     This script is free software; you can redistribute it and/or      #
+#           modify it under the same terms as Python itself.            #
+#########################################################################
+Version     = '1.0'
+VersionDate = '21jun2010'
+import sys, os
+
+argc = 1
+while argc < len(sys.argv):
+    arg = sys.argv[argc]
+    if arg == '-v':
+        print(sys.argv[0]+' version '+Version+' '+VersionDate)
+        argc += 1
+        exit()
+    elif arg == '-c':
+        whatever()
+        argc += 1
+    elif not arg.find('-') == 0:
+        break
+    else:
+        print("usage:")
+        exit()
+
+def main ():
+    print("loops of four:")
+    a = 0
+    for b in range(0,11):
+        for c in range(0,11):
+            for d in range(1,11):
+                if fitx((a,b+9,c+10,d+11)) and fitx((b,a+11,c+9,d+10)) and fitx((c,b+11,a+10,d+9)) and fitx((d,c+11,b+10,a+9)) and d != c:
+                    print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d))
+    print('')
+
+    print("loops of six:")
+    for b in range(0,11):
+        for c in range(0,11):
+            for d in range(0,11):
+                for e in range(0,11):
+                    for f in range(1,11):
+                        if fitx((a,d+9,e+10,f+11)) and fitx((b,a+11,e+9,f+10)) and fitx((c,b+11,a+10,f+9)) and fitx((d,c+11,b+10,a+9)) and fitx((e,d+11,c+10,b+9)) and fitx((f,e+11,d+10,c+9)):
+                            print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f))
+
+    print('')
+    print("loops of eight:")
+    a = 0
+    for b in range(0,11):
+        for c in range(1,11):
+            for d in range(0,11):
+                for e in range(0,11):
+                    for f in range(0,11):
+                        for g in range(0,11):
+                            for h in range(1,11):
+                                if fitx((a,h+11,g+10,f+9)) and fitx((b,a+11,h+10,g+9)) and fitx((c,b+11,a+10,h+9)) and fitx((d,c+11,b+10,a+9)) and fitx((e,d+11,c+10,b+9)) and fitx((f,e+11,d+10,c+9)) and fitx((g,f+11,e+10,d+9)) and fitx((h,g+11,f+10,e+9)):
+                                    print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f)+' g='+str(g)+' h='+str(h))
+
+    print('')
+    print("loops of four rising two semitones:")
+    a = 0
+    for b in range(0,11):
+        for c in range(0,11):
+            for d in range(1,11):
+                if fitx((a+2,b+9,c+10,d+11)) and fitx((b+2,a+13,c+9,d+10)) and fitx((c+2,b+13,a+12,d+9)) and fitx((d,c+11,b+10,a+9)):
+                    print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d))
+
+    print('')
+    print("loops of six rising two semitones:")
+    for b in range(0,11):
+        for c in range(0,11):
+            for d in range(0,11):
+                for e in range(0,11):
+                    for f in range(1,11):
+                        if fitx((a+2,d+9,e+10,f+11)) and fitx((b+2,a+11+2,e+9,f+10)) and fitx((c+2,b+11+2,a+10+2,f+9)) and fitx((d,c+11,b+10,a+9)) and fitx((e,d+11,c+10,b+9)) and fitx((f,e+11,d+10,c+9)):
+                            print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f))
+
+    print('')
+    print("loops of eight rising one semitone:")
+    a = 0
+    for b in range(0,11):
+        for c in range(1,11):
+            for d in range(0,11):
+                for e in range(0,11):
+                    for f in range(0,11):
+                        for g in range(0,11):
+                            for h in range(1,11):
+                                if fitx((a+1,h+11,g+10,f+9)) and fitx((b+1,a+11+1,h+10,g+9)) and fitx((c+1,b+11+1,a+10+1,h+9)) and fitx((d,c+11,b+10,a+9)) and fitx((e,d+11,c+10,b+9)) and fitx((f,e+11,d+10,c+9)) and fitx((g,f+11,e+10,d+9)) and fitx((h,g+11,f+10,e+9)):
+                                    print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f)+' g='+str(g)+' h='+str(h))
+
+    print('')
+    print("loops of eight rising two semitones:")
+    a = 0
+    for b in range(0,11):
+        for c in range(1,11):
+            for d in range(0,11):
+                for e in range(0,11):
+                    for f in range(0,11):
+                        for g in range(0,11):
+                            for h in range(1,11):
+                                if fitx((a+2,h+11,g+10,f+9)) and fitx((b+2,a+11+2,h+10,g+9)) and fitx((c+2,b+11+2,a+10+2,h+9)) and fitx((d,c+11,b+10,a+9)) and fitx((e,d+11,c+10,b+9)) and fitx((f,e+11,d+10,c+9)) and fitx((g,f+11,e+10,d+9)) and fitx((h,g+11,f+10,e+9)):
+                                    print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f)+' g='+str(g)+' h='+str(h))
+
+    print('')
+    print("loops of eight rising three semitones:")
+    a = 0
+    for b in range(0,11):
+        for c in range(1,11):
+            for d in range(0,11):
+                for e in range(0,11):
+                    for f in range(0,11):
+                        for g in range(0,11):
+                            for h in range(1,11):
+                                if fitx((a+3,h+11,g+10,f+9)) and fitx((b+3,a+11+3,h+10,g+9)) and fitx((c+3,b+11+3,a+10+3,h+9)) and fitx((d,c+11,b+10,a+9)) and fitx((e,d+11,c+10,b+9)) and fitx((f,e+11,d+10,c+9)) and fitx((g,f+11,e+10,d+9)) and fitx((h,g+11,f+10,e+9)):
+                                    print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f)+' g='+str(g)+' h='+str(h))
+
+
+# --------------------- infrastructure -----------------------
+def warn(s):
+    sys.stderr.write(str(s)+"\n")
+
+def die(s):
+    warn(s)
+    exit(1)
+
+def fitx(notes):   # fit-exclusive; nsd and not unison
+    n = len(notes)
+    i = 0
+    while i < n-1:
+        j = i+1
+        while j < n:
+            gap = (12 + notes[i] - notes[j]) % 12
+            if gap == 1 or gap == 11 or gap == 0:
+                return False
+            j += 1
+        i += 1
+    return True
+
+def fit(notes):   # fit; nsd; unison allowed
+    n = len(notes)
+    i = 0
+    while i < n-1:
+        j = i+1
+        while j < n:
+            gap = (12 + notes[i] - notes[j]) % 12
+            if gap == 1 or gap == 11:
+                return False
+            j += 1
+        i += 1
+    return True
+
+main()

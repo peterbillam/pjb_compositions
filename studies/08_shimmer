@@ -1,0 +1,403 @@
+7 systems 8 / 19-28-19 13 / 19-22-19/ 19-22-19 \
+ / 19-21-19/ 19-20-19/ 19-19-19/ 19-18-19/
+pagenum
+title 8.   Shimmer
+innerhead Twenty Studies
+leftfoot (c) 2014 Peter J Billam
+midi channel 0 patch 0 pan 50
+/
+6 bars | 7/4 70 | 28 22 | 13/8 70 | 4 3 4 4 4 3 4 4 4 3 4 4 5 \
+ | 6/4 10 10 10 10 10 12 | 45 |
+| 7.0
+=1  treble 7/4 cha0 leg99 vol120 2 C 2. D-cre27 cc11=100 2 A_b
+I0.4 .01 ff
+=2' bass   7/4 cha0 leg99 vol120 2 <C c> 2. <D d> 2 <A_b Ab>
+|
+=1  2. Gbr-cre27 1 cc11=100 rest
+=2' 2. <Gbr gb> 1 rest
+| 6.5
+=1 13/8 vol123 2 Eb 2. F-cre27 4. cc11=100 B_
+=2' 13/8 vol123 2 <Eb eb> 2. <F f> 4. <B_ B>
+|
+=1  1 A-cre27 2 rest cc11=100 8 rest
+=2' 1 <A a> 2 rest 8 rest
+| 6.0
+il0.7 .03 5
+=1' 6/4 vol126 2 <E_ E> 2. <G_ G-cre27> 4 cc11=100 <C_# C#>
+=2' 6/4 vol126 2 <E_ E> 2. <G_ G> 4 <C_# C#>
+|
+=1' 1. <B_b-cre27 Bb-emph>
+=2' 1. <B_b-P Bb-emph> treble
+/
+4 bars | 2/4 96 | 96 | 96 | 96 |
+| 0.8
+=1 treble 2/4 cha0 vol50 1 cc11=100 blank
+=1 2/4 83 [e~ c~-I3 e~] 8 [c~ e~]
+I0.7 .01 pp
+=2 treble 2/4 cha0 vol50 1 blank
+=2 2/4 8 [f# a#] 83 [f# a#-I3 f#]
+|
+=1 8 [c~ e~] 83 [c~ e~-I3 c~]
+=2 83 [a# f#-I3 a#] 8 [f# a#]
+|
+=1 8 [d~# c~#] 83 [d~# c~#-I3 d~#]
+=2 83 [g a-I3 g] 8 [a g]
+|
+il0.9 .01 10
+=1 83 [c~ e~-I3 c~] 8 [e~ c~]
+=2 8 [a# f#] 83 [a# f#-I3 a#]
+/
+4 bars | 96 | 96 | 96 | 96 |
+|
+=1 8 [e~ c~] 83 [e~ c~-I3 e~]
+=2 83 [f# a#-I3 f#] 8 [a# f#]
+|
+=1 83 [b d~#-I3 b] 8 [d~# b]
+=2 8 [a f] 83 [a f-I3 a]
+|
+=1 83 [d~ c~-I3 d~] 8 [c~ d~]
+=2 8 [f# g#] 83 [f# g#-I3 f#]
+|
+=1 8 [c~ d~] 83 [c~ d~-I3 c~]
+=2 83 [g# f#-I3 g#] 8 [f# g#]
+|
+il0.8 .13 15
+=1 8 [c~# b] 83 [c~# b-I3 c~#]
+=2 83 [f g-I3 f] 8 [g f]
+|
+=1 83 [a# d~-I3 a#] 8 [d~ a#]
+=2 8 [g# e] 83 [g# e-I3 g#]
+|
+=1 83 [d~ a#-I3 d~] 8 [a# d~]
+=2 8 [e g#] 83 [e g#-I3 e]
+|
+=1 8 [a# d~] 83 [a# d~-I3 a#]
+=2 83 [g# e-I3 g#] 8 [e g#]
+|
+=1 83 [c~# a#-I3 c~#] 8 [a# c~#]
+=2 8 [e g#] 83 [e g#-I3 e]
+|
+il0.8 .04 20
+=1 8 [a# c~#] 83 [a# c~#-I3 a#]
+=2 83 [g# e-I3 g#] 8 [e g#]
+|
+=1 8 [c~ a#] 83 [c~ a#-I3 c~]
+=2 83 [e g#-I3 e] 8 [g# e]
+|
+=1 83 [a c~#-I3 a] 8 [c~# a]
+=2 8 [g d#] 83 [g d#-I3 g]
+|
+=1 8 [c~# a] 83 [c~# a-I3 c~#]
+=2 83 [d# g-I3 d#] 8 [g d#]
+|
+=1 83 [g# c~-I3 g#] 8 [c~ g#]
+=2 8 [f# d] 83 [f# d-I3 f#]
+|
+il0.8 .01 25
+=1 83 [b g-I3 b] 8 [g b]
+=2 8 [c# f] 83 [c# f-I3 c#]
+|
+=1 8 [g b] 83 [g b-I3 g]
+=2 83 [f c#-I3 f] 8 [c# f]
+|
+=1 83 [a# g-I3 a#] 8 [g a#]
+=2 8 [c# f] 83 [c# f-I3 c#]
+|
+=1 8 [g b] 83 [g b-I3 g]
+=2 83 [e c#-I3 e] 8 [c# e]
+|
+=1 8 [b g] 83 [b g-I3 b]
+=2 83 [c# e-I3 c#] 8 [e c#]
+|
+il0.7 .01 30
+=1 83 [g b-I3 g] 8 [b g]
+=2 8 [e c#] 83 [e c#-I3 e]
+
+7 systems / 19-22-19/ 19-20-19/ 19-20-19 \
+ / 19-20-19/ 19-26-19/ 19-22-19 3/ 19-27-19/
+pagenum
+leftfoot (c) 2014 Peter J Billam
+innerhead 8.   Shimmer
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 83 [bb g-I3 bb] 8 [g bb]
+=2 8 [c# f] 83 [c# f-I3 c#]
+|
+=1 8 [g bb] 83 [g bb-I3 g]
+=2 83 [f c#-I3 f] 8 [c# f]
+|
+=1 8 [a g] 83 [a g-I3 a]
+=2 83 [c# f-I3 c#] 8 [f c#]
+|
+=1 83 [f# bb-I3 f#] 8 [bb f#]
+=2 8 [e c] 83 [e c-I3 e]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+il0.7 .17 35
+=1 8 [bb f#] 83 [bb f#-I3 bb]
+=2 83 [c e-I3 c] 8 [e c]
+|
+=1 83 [f# bb-I3 f#] 8 [bb f#]
+=2 8 [e c] 83 [e c-I3 e]
+|
+=1 83 [a f#-I3 a] 8 [f# a]
+=2 8 [c e] 83 [c e-I3 c]
+|
+=1 8 [f# a] 83 [f# a-I3 f#]
+=2 83 [e c-I3 e] 8 [c e]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 8 [g# f#] 83 [g# f#-I3 g#]
+=2 83 [c e-I3 c] 8 [e c]
+|
+il0.7 .01 40
+=1 83 [f a-I3 f] 8 [a f]
+=2 8 [eb B] 83 [eb B-I3 eb]
+|
+=1 83 [a f-I3 a] 8 [f a]
+=2 8 [B eb] 83 [B eb-I3 B]
+|
+=1 8 [f a] 83 [f a-I3 f]
+=2 83 [eb B-I3 eb] 8 [B eb]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 83 [ab f-I3 ab] 8 [f ab]
+=2 8 [B eb] 83 [B eb-I3 B]
+|
+=1 8 [f ab] 83 [f ab-I3 f]
+=2 83 [eb B-I3 eb] 8 [B eb]
+|
+il0.7 .21 45
+=1 8 [ab f] 83 [ab f-I3 ab]
+=2 83 [B d-I3 B] 8 [d B]
+|
+=1 83 [f g-I3 f] 8 [g f]
+=2 8 [db Bb] 83 [db Bb-I3 db]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 83 [g f-I3 g] 8 [f g]
+=2 8 [Bb db] 83 [Bb db-I3 Bb]
+|
+=1 8 [e g] 83 [e g-I3 e]
+=2 83 [db Bb-I3 db] 8 [Bb db]
+|
+=1 8 [f# e] 83 [f# e-I3 f#]
+=2 83 [A# c'-I3 A#] 8 [c' A#]
+|
+il0.8 .30 50
+=1 83 [e a#-I3 e] 8 [a# e]
+=2 8 [c' F#] 83 [c' F#-I3 c']
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 8 [c~ f#] 83 [c~ f#-I3 c~]
+=2 83 [A#, e-I3 A#,] 8 [e A#,]
+|
+=1 83 [c~ e~-I3 c~] 8 [e~ c~]
+=2 8 [f# A#,] 83 [f# A#,-I3 f#]
+|
+=1 83 [e~ c~-I3 e~] 8 [c~ e~]
+=2 8 [a#, f#] 83 [a#, f#-I3 a#,]
+|
+=1 8 [c~ e~] 83 [c~ e~-I3 c~]
+=2 83 [f# a#-I3 f#] 4 a# bass
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+il0.8   55
+=1  83 [f# bb-I3 c~] [e~ c~-I3 bb]
+=2' vol60 8 rest'' 4. e~(3-P
+=2, 2 e(2
+|
+=1  83 [e~ c~-I3 bb] [f# bb-I3 c~]
+=2' 2 e~)3
+=2' 2 e)2
+# soon tenor enters w theme in 233-form: 0 +2 -6 +9
+|
+=1  83 [f# bb-I3 c~] [e~ c~-I3 bb]
+=2' 2 f#(1
+=2, 8 rest, 4. F#(2
+|
+=1  83 [f# bb-I3 c~] [e~ c~-I3 bb]
+=2' 2 f#)1(1
+=2' 2 F#)2(2
+
+7 systems / 19-25-19/ 19-29-19/ 19-29-19 \
+ / 19-20-19/ 19-25-19/ 19-27-19/ 19-22-19/
+pagenum
+leftfoot (c) 2014 Peter J Billam
+innerhead 8.   Shimmer
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1  83 [e~ c~-I3 a] [f# a-I3 c~]
+=2' 2 f#)1
+=2' 2 F#)2
+|
+il0.8 .03 60
+=1  83 [f# a-I3 c~] [e~ c~-I3 a]
+=2' 8 rest'' 4. c~(3-,-P
+=2, 2 c(2
+#=2  83 blank 43 blank-P 4 blank
+|
+=1  83 [e~ c~-I3 a] [f# a-I3 c~]
+=2' 4. c~)3 vol70 8 a(3
+=2, 2 c)2
+|
+=1  83 [f# a-I3 c~] [e~ c~-I3 a]
+=2' 2 a)3
+=2, 2 A
+# =2  83 blank 43 blank-P 4 blank
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1  83 [fn a-I3 b] [e~b b-I3 a]
+=2' 8 rest'' 4. b(1-,-P
+=2, 2 B(2
+#=2  43 blank 83 blank-P 4 blank
+|
+=1  83 [e~b b-I3 a] [f a-I3 b]
+=2'  2 b)1(1
+=2, 2 B)2(2
+|
+il0.8 .01 65
+=1  83 [f ab-I3 b] [e~b b-I3 ab]
+=2'  2 b)1
+=2, 2 B)2
+|
+=1  83 [f ab-I3 b] [e~b b-I3 ab]
+=2' 2 f~(1
+=2, 8 rest 4. f(2
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1  83 [d~ bb-I3 ab] [f ab-I3 bb]
+=2' 2 f~)1
+=2, 4. f)2 8 blank
+=2, 4 blank 8 blank treble D(2
+|
+=1  83 [e ab-I3 bb] [d~ bb-I3 ab]
+=2' 2 d
+=2, 2 D)2
+#|
+#=1  83 [d~ bb-I3 g] [e ab-I3 bb]
+#=2' 2 d)1
+#=2, 2 D)2
+|
+=1  83 [d~b bb-I3 g] [e g-I3 bb]
+=2' 8 rest' 4. e(1-,-,-P
+=2, 2 E(2
+|
+il0.8 .01 70
+=1  83 [e g-I3 bb] [d~b bb-I3 g]
+=2' 2 e)1(1
+=2, 2 E)2(2
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1  83 [e g-I3 bb] [d~b bb-I3 g]
+=2' 2 e)1
+=2, 2 E)2
+|
+=1  83 [d~b bb-I3 g] [e g-I3 bb]
+=2' 2 Bb(1
+=2, 8 rest,, 4. B_b(2
+|
+=1  83 [eb gb-I3 bb] [c~ bb-I3 gb]
+=2' 2 Bb)1
+=2, 4. B_b)2 8 C(2
+|
+=1  83 [c~ bb-I3 gb] [d gb-I3 bb]
+=2  8 c' 4 d~ 8 c'
+=2, 2 C)2
+# RH outer notes fall to d c~, LH dances c d~, piece ends on bass B_b
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+il0.7   75
+=1  vol+5 83 [d gb-I3 bb] [c~ a-I3 f]
+=2  vol+5 8 d~ 4 c 8 d~(1
+# end of 21 bars
+|
+=1  83 [d f-I3 a] [c~ g#-I3 e]
+=2  8 d~)1 4 c 8 d~
+|
+=1  83 [c~ a-I3 f] [d gb-I3 bb]
+=2  8 c 4 d~ 8 c
+|
+=1  83 [d gb-I3 bb] [c~ a-I3 f]
+=2  8 d~ 4 c 8 d~(1
+/
+5 bars |5 6 5 6 5 4 | 5 5 5 6 6 4 | 5 4 4 4 4 4 | 24 | 12 11 |
+|
+=1  83 [d e-I3 g#] [c~ g#-I3 e]
+=2  8 d~)1 4 c 8 d~
+|
+il0.8 .35 80
+=1  83 [c~ a-I3 f] [d gb-I3 bb]
+=2  8 c 4 d~ 8 c(1
+
+|
+#M=1 16-s c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~
+#P=1 2 c~(1-tr
+=2 83 blank 43. blank-I3 43 blank-I3
+=2 83 c)1 43 d c 83 d(1
+|
+#M=1 vol-4 16-s c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~
+#P=1 2 c~)1(1-tr
+i0.8 .38 diminuendo
+=2 83 blank 43. blank 43 blank-I3
+=2 vol-3 4 d)1 43 c 83 d(1
+|
+#M=1 vol-4 16-s d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~
+#P=1 2 c~)1(1-tr
+i0.8 .02 al  fine . . .
+=2 vol-3 4 d)1 4 c(1
+/
+7 bars | 5 4 4 4 4 3 | 12 15 | 12 11 | 5 4 4 4 4 3 \
+ | 12 11 | 5 4 4 4 4 3 | 13 ||
+|
+#M=1 vol-4 16-s d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~
+#P=1 2 c~)1(1-tr
+=2 83 blank 43. blank-I3 43 blank
+=2 vol-3 83 c)1 43 d(1 4 d)1(1
+|
+il0.8 .30 85
+#M=1 vol-4 16-s c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~
+#P=1 2 c~)1(2-tr
+=2 83 blank 43. blank 43 blank-I3
+=2 vol-3 4 d)1 43 c 83 d(1
+|
+#M=1 vol-4 16-s c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~
+#P=1 2 c~)2(1-tr
+i0.9 .02 e rallentando il
+=2 vol-3 4 d)1 c(1
+|
+#M=1 vol-4 16-s d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~ c~
+#P=1 2 c~)1(1-tr
+i0.9 .01 trillo .50 . . .
+=2 83 blank 43. blank-I3 43 blank
+=2 vol-3 83 c)1 43 d(1 4 d)1(1
+|
+#M=1 vol-4 16-s d~ c~ d~ c~ d~ c~ d~ c~ d~ c~ d~
+#P=1 2 c~)1(1-tr
+=2 vol-3 4 d)1 c(1
+|
+#M=1 vol-4 16-s c~ d~ c~ d~ c~ d~ c~ d~ c~ d~
+#P=1 2 c~)1(1-tr
+=2 83 blank 43. blank-I3 43 blank
+=2 vol-3 83 c)1 43 d(1 4 d)1(1
+|
+#M=1 vol-4 16-s c~ d~ c~ d~ c~ d~ c~ d~ c~
+#P=1 2 c~)1-tr
+i0.7 .02 , , niente
+=2 vol-3 2 d)1 32 blank-*
+midi pause 2.0

@@ -1,0 +1,2751 @@
+head	1.22;
+access;
+symbols;
+locks
+	pjb:1.22;
+comment	@# @;
+
+
+1.22
+date	2003.09.08.03.49.36;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2003.09.07.06.55.41;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2003.09.03.22.05.31;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2003.09.03.06.08.09;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2003.09.01.11.35.40;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2003.08.28.22.49.46;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2003.08.28.04.37.35;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2003.08.27.11.21.15;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2003.08.26.11.34.26;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2003.08.25.04.51.57;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2003.08.21.11.13.34;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2003.08.19.08.42.10;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2003.08.10.23.10.08;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2003.08.06.10.00.08;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2003.08.04.09.17.55;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2003.07.25.11.13.41;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2003.07.08.22.48.03;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2003.07.08.10.24.11;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2003.06.17.11.53.35;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2003.05.14.04.46.53;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2003.03.25.09.54.52;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2003.03.22.05.32.37;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@old recordersuite, up to bar 64
+@
+
+
+1.22
+log
+@refined spacing
+@
+text
+@12 systems 10/19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum 2
+title Second Solo Suite
+innerhead Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+4 bars |9/16 1 1 1.2 1 1 1 1.1 1 1 | 1 1.1 1 1 1.1 1 1 1.1 1 \
+ | 8/16 1 1 1 1 1 1.1 1.2 1 | 1 1 1 1 1 1 1.1 1 |
+|
+Il0.8 .03 Prelude
+=1, treble 9/16 smq rest [G B c#] [g e b] [f# g]
+|
+=1, smq [b G A# B] [e c# g] [b bb]
+|
+=1, 8/16 smq [a G A c d] [g eb f#]
+|
+=1, smq [a G A B c] [eb d f#]
+/
+4 bars | 7/16 7 | 7 | 6/16 6 | 6 |
+|
+il0.4    5
+=1, treble 7/16 smq [g G Bb d] [e d f#]
+|
+=1, smq [g G A Bb] [d c# e]
+|
+=1, 6/16 smq [f G Bb c] [e db]
+|
+=1, smq [f A Bn eb] g rest
+/
+4 bars |9/16 1 1 1.1 1 1.2 .9 .9 1 1 | .9 .9 1.1 1 1.1 .9 .9 1.2 1 \
+ | 8/16 1 1 1.1 1 1.2 .9 .9 1 | .9 .9 1 1 1 .9 .9 1 |
+|
+=1, treble 9/16 smq [g A c eb g] qua [f# smq g a]
+|
+il0.4 .15 10
+=1, qua [bb smq c eb bb] qua [a smq f f#]
+|
+=1, 8/16 smq [g A c eb g] qua [f# smq g]
+|
+=1, qua [a smq B eb g] qua [b smq a]
+/
+5 bars | 7/16 .9 .9 1 1.1 .9 .9 1 | .9 .9 1.1 1 .9 .9 1 \
+ | 6/16 1 1 1.1 .9 .9 1 | .9 .9 1.2 .9 .9 1 | 8/16 .9 .9 1 1.1 1 1 1.2 1 |
+|
+=1, treble 7/16 qua [b smq c# e] qua [a# smq b]
+|
+=1, qua [c~# smq d f#] qua [b smq c~#]
+|
+il0.7 .28 15
+=1, 6/16 smq [d~ f a] qua [b smq f#]
+|
+=1, qua [g# smq d] qua [f# smq g#]
+|
+=1, 8/16 qua [a smq B c] [eb d] [g f#]
+/
+5 bars | 1 1.2 1 1.2 1 1 1 1 | 7/16 .9 .9 1 1.2 1 1 1 \
+ | 1 1 1 1.2 1 1 1 | 6/16 .9 .9 1 1.2 1 1 | 1.2 1 1.2 1 1.1 1 |
+|
+=1, treble smq [g e f# a] [bb g d e]
+|
+=1, 7/16 qua [f smq A d] [c# B d]
+|
+il0.4 .20 20
+=1, smq [f d e g] [ab f d]
+|
+=1, 6/16 qua [e smq c e] [f# a]
+|
+=1, smq [g# f# a g#] [b c~]
+/
+5 bars | 5/16 .9 .9 1.2 1 1 | .9 .9 1 .9 .9 | 8/16 1 1.1 1.1 1.2 1 1.1 1.1 1 \
+ | 1 1 1.1 1 1 1 1.1 1 | 7/16 1 1.1 1.1 1.1 1.1 1.2 1 |
+|
+=1, treble 5/16 qua [d~ smq g# fn a]
+|
+=1, qua [b smq eb qua g]
+|
+il0.5  25
+=1, 8/16 smq rest' [e~ c~ b g#] [a f# d#]
+|
+=1, smq [e c B G#] [A c e f#]
+|
+=1, 7/16 smq [g e~b d~ b] [c~ a f#]
+/
+5 bars | 1.1 1 1 1 1 1 1 | 6/16 1 1 1 1 1.1 1 | 1 1.1 1 1.1 1 1 \
+ | 5/16 1.2 1 1 1.1 1 | 1.2 1 1 .9 .9 |
+|
+=1, treble smq [g eb d B] [c f# g]
+|
+=1, 6/16 smq [a B d] [f e g#]
+|
+il0.4 .15 30
+=1, smq [a c eb] [g f# a]
+|
+=1, 5/16 smq [b eb d f ab]
+|
+=1, smq [b eb f qua g]
+/
+5 bars |7/16 .9 .9 1 1.2 1.3 1.1 1 | .9 .9 1.2 1.1 1.1 1.3 1 \
+ | 6/16 1 1.1 1.1 1 1.2 1 | 1.1 1 1.1 1 1.1 1 | 5/16 .9 .9 1 1 1 |
+|
+=1, treble 7/16 qua [b smq g b] [d~# c~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+|
+il0.7 .25 35
+=1, 6/16 smq [c~# e g#] [bb f gn]
+|
+=1, smq [g# c# e] [gn f Bb]
+|
+=1, 5/16 qua [bb smq g d e]
+/
+6 bars | 1 1 1 1.2 1 | 4/16 1.3 1 1 1 | 4 | 7/16 .9 .9 1 1.2 1.3 1.1 1 \
+ | .9 .9 1.2 1.1 1.1 1.3 1 | 6/16 1 1.2 1.2 1 1.2 1 |
+|
+=1, treble smq [bb f a g c~#]
+|
+=1, 4/16 smq [d~ ab f c~]
+|
+il0.5 .25 40
+=1, smq [b f d a]
+|
+=1, 7/16 qua [b smq g b] [d~# c~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+|
+=1, 6/16 smq [c~# e g#] [bb f gn]
+/
+6 bars | 1.1 1 1.2 1 1.1 1 | 5/16 .9 .9 1 1.1 1 | 1 1 1 1.2 1 \
+ | 4/16 .9 .9 1.2 1 | 1.2 1.2 1.3 1 | 6/16 2.7 3.3 | 1.8 2 2 |
+|
+=1, treble smq [g# c# e] [gn f bb]
+|
+il0.7 .32 45
+=1, 5/16 qua [c~# smq g# a d#]
+|
+=1, smq [c~# f a g bb]
+|
+=1, 4/16 qua [e~b smq a# b]
+|
+=1, smq [c~ b c~ e~b]
+|
+=1, 6/16 qua. [g~ smq e~b d~ b]
+|
+il0.7 .23 50
+=1, qua [c~ smq a g c d]
+/
+7 bars | 5/16 5 | 1 1 1 1.1 1 | 4/16 1 1.1 1 1 | 1 1 1.2 1 | 3/16 3 \
+ | 1.3 1.1 1 | 6/16 2.7 3.3 |
+|
+=1, treble 5/16 smq [eb G B A c]
+|
+=1, smq [eb A c B eb]
+|
+=1, 4/16 smq [f B eb d]
+|
+=1, smq [g e f ab]
+|
+il0.65 .39 55
+=1, 3/16 smq [bb e a]
+|
+=1, smq [d~ bb e~]
+|
+=1, 6/16 qua. [g~ smq e~b d~ b]
+/
+7 bars | 1.8 2 2 | 5/16 1 1.1 1 1 1 | 1 1.1 1 1 1 | 4/16 1 1.2 1 1 \
+ | 1.1 1 1 1 | 3/16 1.2 1.1 1 | 3 |
+|
+=1, treble qua [c~ smq ab g d e]
+|
+=1, 5/16 smq [f A c# B d]
+|
+il0.50 .25 60
+=1, smq [f B eb d f]
+|
+=1, 4/16 smq [g B d# e]
+|
+=1, smq [g c# e f]
+|
+=1, 3/16 smq [a c# f]
+|
+=1  qua A smq rest
+
+12 systems 10/19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum 3
+innerhead Second Solo Suite, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+4 bars |9/16 1 1 1.2 1 1 1 1.1 1 1 | 1 1.1 1 1 1.1 1 1 1.1 1 \
+ | 8/16 1 1 1 1 1 1.1 1.2 1 | 1 1 1 1 1 1 1.1 1 |
+|
+il0.4   65
+=1, treble 9/16 smq rest [G B c#] [g e b] [f# g]
+|
+=1, smq [b G A# B] [e c# g] [b bb]
+|
+=1, 8/16 smq [a G A c d] [g eb f#]
+|
+=1, smq [a G A B c] [eb d f#]
+/
+4 bars | 7/16 7 | 7 | 6/16 6 | 6 |
+|
+=1, treble 7/16 smq [g G Bb d] [e d f#]
+|
+il0.35 .15 70
+=1, smq [g G A Bb] [d c# e]
+|
+=1, 6/16 smq [f G Bb c] [e db]
+|
+=1, smq [f A Bn eb] g rest
+/
+4 bars |9/16 1 1 1.1 1 1.2 .9 .9 1 1 | .9 .9 1.1 1 1.1 .9 .9 1.2 1 \
+ | 8/16 1 1 1.1 1 1.2 .9 .9 1 | .9 .9 1 1 1 .9 .9 1 |
+|
+=1, treble 9/16 smq [g A c eb g] qua [f# smq g a]
+|
+=1, qua [bb smq c eb bb] qua [a smq f f#]
+|
+il0.4 .25 75
+=1, 8/16 smq [g A c eb g] qua [f# smq g]
+|
+=1, qua [a smq B eb g] qua [b smq a]
+/
+5 bars | 7/16 .9 .9 1 1.1 .9 .9 1 | .9 .9 1.1 1 .9 .9 1 \
+ | 6/16 1 1 1.1 .9 .9 1 | .9 .9 1.2 .9 .9 1 | 8/16 .9 .9 1 1.1 1 1 1.2 1 |
+|
+=1, treble 7/16 qua [b smq c# e] qua [a# smq b]
+|
+=1, qua [c~# smq d f#] qua [b smq c~#]
+|
+=1, 6/16 smq [d~ f a] qua [b smq f#]
+|
+il0.4 .20 80
+=1, qua [g# smq d] qua [f# smq g#]
+|
+=1, 8/16 qua [a smq B c] [eb d] [g f#]
+/
+5 bars | 1 1.2 1 1.2 1 1 1 1 | 7/16 .9 .9 1 1.2 1 1 1 \
+ | 1 1 1 1.2 1 1 1 | 6/16 .9 .9 1 1.2 1 1 | 1.2 1 1.2 1 1.1 1 |
+|
+=1, treble smq [g e f# a] [bb g d e]
+|
+=1, 7/16 qua [f smq A d] [c# B d]
+|
+=1, smq [f d e g] [ab f d]
+|
+il0.5  85
+=1, 6/16 qua [e smq c e] [f# a]
+|
+=1, smq [g# f# a g#] [b c~]
+/
+5 bars | 5/16 .9 .9 1.2 1 1 | .9 .9 1 .9 .9 | 8/16 1 1.1 1.1 1.2 1 1.1 1.1 1 \
+ | 1 1 1.1 1 1 1 1.1 1 | 7/16 1 1.1 1.1 1.1 1.1 1.2 1 |
+|
+=1, treble 5/16 qua [d~ smq g# fn a]
+|
+=1, qua [b smq eb qua g]
+|
+=1, 8/16 smq rest' [e~ c~ b g#] [a f# d#]
+|
+il0.4 .15 90
+=1, smq [e c B G#] [A c e f#]
+|
+=1, 7/16 smq [g e~b d~ b] [c~ a f#]
+/
+5 bars | 1.1 1 1 1 1 1 1 | 6/16 1 1 1 1 1.1 1 | 1 1.1 1 1.1 1 1 \
+ | 5/16 1.2 1 1 1.1 1 | 1.2 1 1 .9 .9 |
+|
+=1, treble smq [g eb d B] [c f# g]
+|
+=1, 6/16 smq [a B d] [f e g#]
+|
+=1, smq [a c eb] [g f# a]
+|
+il0.7 .25 95
+=1, 5/16 smq [b eb d f ab]
+|
+=1, smq [b eb f qua g]
+/
+5 bars |7/16 .9 .9 1 1.2 1.3 1.1 1 | .9 .9 1.2 1.1 1.1 1.3 1 \
+ | 6/16 1 1.1 1.1 1 1.2 1 | 1.1 1 1.1 1 1.1 1 | 5/16 .9 .9 1 1 1 |
+|
+=1, treble 7/16 qua [b smq g b] [d~# c~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+|
+=1, 6/16 smq [c~# e g#] [bb f gn]
+|
+il0.5 .20 100
+=1, smq [g# c# e] [gn f Bb]
+|
+=1, 5/16 qua [bb smq g d e]
+/
+6 bars | 1 1 1 1.2 1 | 4/16 1.3 1 1 1 | 4 | 7/16 .9 .9 1 1.2 1.3 1.1 1 \
+ | .9 .9 1.2 1.1 1.1 1.3 1 | 6/16 1 1.2 1.2 1 1.2 1 |
+|
+=1, treble smq [bb f a g c~#]
+|
+=1, 4/16 smq [d~ ab f c~]
+|
+=1, smq [b f d a]
+|
+il0.7 .26 105
+=1, 7/16 qua [b smq g b] [d~# c~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+|
+=1, 6/16 smq [c~# e g#] [bb f gn]
+/
+6 bars | 1.1 1 1.2 1 1.1 1 | 5/16 .9 .9 1 1.1 1 | 1 1 1 1.2 1 \
+ | 4/16 .9 .9 1.2 1 | 1.2 1.2 1.3 1 | 6/16 2.7 3.3 | 1.8 2 2 |
+|
+=1, treble smq [g# c# e] [gn f bb]
+|
+=1, 5/16 qua [c~# smq g# a d#]
+|
+il0.7 .23 110
+=1, smq [c~# f a g bb]
+|
+=1, 4/16 qua [e~b smq a# b]
+|
+=1, smq [c~ b c~ e~b]
+|
+=1, 6/16 qua. [g~ smq e~b d~ b]
+|
+=1, qua [c~ smq a g c d]
+/
+7 bars | 5/16 5 | 1 1 1 1.1 1 | 4/16 1 1.1 1 1 | 1 1 1.2 1 | 3/16 3 \
+ | 1.3 1.1 1 | 6/16 2.7 3.3 |
+|
+il0.5 .25 115
+=1, treble 5/16 smq [eb G B A c]
+|
+=1, smq [eb A c B eb]
+|
+=1, 4/16 smq [f B eb d]
+|
+=1, smq [g e f ab]
+|
+=1, 3/16 smq [bb e a]
+|
+il1.0 .25 120
+=1, smq [d~ bb e~]
+|
+=1, 6/16 qua. [g~ smq e~b d~ b]
+/
+8 bars | .9 .9 1 1 1 1 | 5/16 .9 .9 1.1 1.1 1 | 1.3 1 1 1 1 \
+ | 4/16 1.1 1.1 1.3 1 | 1.1 1.3 1.1 1 | 3/16 1.2 1.3 1 | 1.1 1.1 1 | 8/16 3 ||
+|
+=1, treble qua [c~ smq ab d f g]
+|
+=1, 5/16 qua [g~ smq e~b d~ b]
+|
+=1, smq [c~ ab d f g]
+|
+il0.8 .40 125
+=1, 4/16 smq [g~ g b c~#]
+|
+=1, smq [g~ b d~# e~]
+|
+=1, 3/16 smq [g~ b d~#]
+|
+=1, smq [g~ g b]
+|
+=1, 8/16 min g~
+
+7 systems 70/19/19/19/19/19/19/19 30/
+pagenum 4
+innerhead Second Solo Suite, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+4 bars | 1.5 |  .3 .3 .3 .3  .3 .3 .3 .3  .5 .7 .7 .7 \
+ | .65 .65 .65 1.2 1.2 \
+ | .25 .25 .25 .25  .4 .5 .5 .4  .25 .25 .25 .25  .45 .35 .35 .35 |
+|
+Il1.2 .03 Air
+=1 treble qua3 rest [B,-I3 c]
+|
+=1 6/4 smb A(2 qua. [A)2 smq B'] [A G A B']
+|
+=1 5/4 min. c qua rest qua B, [d c]
+|
+=1 4/4 cro eb(1 smq [eb)1 d eb f#] cro g(1 qua3 [g)1 eb-I3 B,]
+/
+5 bars | .35 .35 .35 .35 .35 .35  .75 .6 .6 .6 \
+ | .35 .35 .35 .35 .35 .35 .35 .35 .4 .6 .6 \
+ | .8 .8 .8 1.5 | .4 .4  .4 .4 .7 .6 .6 | .8 .8 .8 1.3 |
+|
+=1 treble 5/4 min. d qua rest c# [e d]
+|
+il0.4 .15 5
+=1 smb f# smq3-s bb' blank qua3 [a g-I3 d]
+|
+=1 4/4 min. e smq [f# e d A,]
+|
+=1 3/4 min Bb smq-s d' blank qua [Bb' A]
+|
+=1 4/4 min. A qua3 rest [B,-I3 c]
+/
+4 bars | 2.3 2.3 2.3 2.3  2.3 2.3 2.3 2.3  2.3 2.3 2.3 2.3  3 5 4 4 4 \
+ | 5.5 5.5  5.5 6.5  6 6 | 7 9 6 7 8 \
+ | 3.7 3.7 3.7  3.7 3.7 3.7  4.5 5.5 4.5 |
+|
+=1 treble min. A smq-s B' smq [A G# A B']
+|
+il0.4 .15 10
+=1 3/4 cro. c qua B, [d# e]
+|
+=1 5/8 qua [f# smq g# a qua c~(1] qua3 [c~)1 b-I3 f#]
+|
+=1 3/4 min g# qua3 rest [g#-I3 a#]
+/
+4 bars | 4 4 4  4 4 4  4 4 4  4 4 4  7.8 6 5 | 6 6  6 6  7.5 7.5  6.5 6 \
+ | 6 6  6 6  5 8.5 6 | 4 4 4  4 4 4  4 4 4  6 6 5 |
+|
+=1 treble 5/4 smb b smq-s c~#' blank qua3 [b g#-I3 f]
+|
+=1 4/4 min f#(1 qua f#)1 [g# f# c#]
+|
+il0.4 .15 15
+=1 3/4 min d smq-s f#' blank qua [d db]
+|
+=1 4/4 min. db qua3 rest [db-I3 c]
+/
+3 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 6  5.7 5.7 4.7 4 \
+ | 4 4 4  4 4 4  4 4 4  7 7 6 \
+ | 5 5  4.5 4.5 4.5 5  4 4 4 4  6 5 |
+|
+=1, treble 5/4 min. Bb(1 qua. [Bb)1 smq c] [Bb Ab Bb c]
+|
+=1 4/4 min db(1 qua db)1 rest qua3 [c eb-I3 db]
+|
+=1 3/4 qua en qua3 [d# e-I3 g] cro ab smq [e c#]
+/
+5 bars | 4/4 6 6  6 6  6 6.5  8 6.5 \
+ | 3.5 3.5 3.5  3.5 3.5 3.5  3.5 3.5 3.5  8  8 8 5 \
+ | 3/4 3 3 3 3  3 3 3 3  6 8 6.5 4 \
+ | 5/8 6 6 6 5.5 8.5 6 | 3/4 4 4 4  4 4 4  5.5 8 4.5 |
+|
+il0.4 .15 20
+=1 treble 4/4 min eb qua rest d [f eb]
+|
+=1 min. g smq3-s b' blank qua3 [bb ab-I3 eb]
+|
+=1 3/4 min f smq [g f eb A#,]
+|
+=1 5/8 cro. B smq-s d#' blank qua [B, Bb,]
+|
+=1 3/4 min Bb qua3 rest [c-I3 db]
+/
+4 bars | 3 3 3 3  3 3 3 3  5  4 4.5 4 3.5 | 5/8 6 6 6 7 7 \
+ | 2/4 12 16 | 5/8 6 6 6 7 7 |
+|
+il0.4 .15 25
+=1 treble min Bb smq-s c' smq [Bb, A, Bb, c]
+|
+=1 5/8 cro. db qua3 [c, e-I3 f]
+|
+=1 2/4 cro g(1 smq [g)1 e g f]
+|
+=1 5/8 cro. a qua3 rest [a-I3 b]
+
+8 systems 20/19/19/19/19/19/19/19/19 30/
+pagenum 5
+innerhead Second Solo Suite, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+4 bars | 4 4 4 4 4 4 4 4 4 5 6.7 5 | 12 12 17 | 30 \
+ | 3 3 3 3 4.2 4.2 4.2 5.5 3.7 3.7 3.7 3.7 |
+|
+=1 treble 4/4 min. c~ smq-s d~' blank qua3 [c~ a-I3 f#]
+|
+il1.0 .15 30
+=1 3/4 min g(1 smq [g)1 a g d]
+|
+=1 5/8 cro. eb smq-s g' smq. blank qua [eb d]
+|
+=1 3/4 cro d smq rest [f# a g] qua3 [bb e~-I3 d~]
+/
+4 bars | 4/4 3.5 3.5 3.5  3.5 3.5 3.5  3.5 3.5 3.5  6 6 5 \
+ | 3/4 1.8 1.8 1.8  1.3 1.3 1.3  1.3 1.3 1.3  1.8 1.8 1.8 \
+   1.5 1.5 1.5 1.5  1.3 1.3 1.3 1.3  1.3  1.3 1.3 1.3 \
+   1 1 1  1 1 1  1.1 1.1 1.1  1.1 1.1 1.1  1.1 1.1 1.1  1.1 1.1 1.1 \
+ | 27 | 2.6 2.6 2.6 2.6  5 5 6 6  4 4 5 4 |
+|
+=1 treble 4/4 min. f~(1 qua3 [f~)1 d~b-I3 bb]
+I0.1 .02 f
+|
+=1 3/4 smq [a bb g a] qua3 [bb d~b-I3 c~] smq-s f~' blank qua [d~b bb]
+|
+il0.9 .01 35
+=1 5/8 cro. c~(1 cro c~)1
+|
+=1 3/4 cro rest smq rest [f a bb] qua3 [d~b c~-I3 e~]
+/
+4 bars | 36 | 5.5 5.5 5.5 5.5 7.5 \
+ | 2.4 2.4 4.3 3.0 2.5 2.5 2.4 2.4 4.3 3.0 2.5 2.5 | 6 6 6 6 7 |
+|
+=1 treble min f~(1 qua. [f~)1 smq g~(1]
+I0.1 .02 f
+|
+=1 5/8 min f~)1 smq [g~(1 f~)1]
+|
+I1.6 .29 3
+I1.2 .74 3
+=1 2/4 qua3 [e~b smq3 f~(1 e~b qua3 c~)1] [bb smq3 c~(1 bb qua3 a)1]
+|
+il0.9 .15 40
+=1 5/8 min bb smq rest' c~
+/
+5 bars | 30 | 2/4 2.6 2.6  2.4 2.4 5.3 3.3 2.5 2.5  2.4 2.4 3.3 3.3 2.4 2.4 \
+ | 4 4 4 4 4.0 4.3 4.3 | 30 | 35 |
+|
+=1 treble cro. bb smq-s a' smq. blank cro bb
+|
+I1.1 .41 3
+I0.7 .78 3
+=1 2/4 smq3-s c~' blank qua3 [bb smq3 c~(1 bb qua3 a)1] [f smq3 g(1 f qua3 e)1]
+|
+=1 3/8 cro f smq-s g' smq [f e]
+|
+=1 2/4 cro. db qua c
+|
+il0.4 .15 45
+=1 3/4 min. c
+/
+5 bars | 6 6 6 8 6 | 24 | 6 6 6 8 6 \
+ | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 4  4 4 4 4 \
+ | 4 4 4  4 4 4  4 4 4 5 5 5 |
+|
+=1 treble 5/8 cro. c qua. [d smq eb]
+|
+=1 2/4 min c
+|
+=1 5/8 cro. rest qua [c B]
+|
+=1' 5/4 min. A(1 qua. [A)1 smq B] [A G A B]
+|
+il0.4 .15 50
+=1 4/4 min c(1 qua c)1 rest qua3 [B d-I3 c]
+/
+5 bars | 3/4 4.5 4.5  6 7 6 4  4 4 4 4  5 4 \
+ | 4/4 6 6  6 6  7.5 7  7 7 | 6 6  6 6  6 6  7  9 8 \
+ | 3/4 3 3 3 3  3 3 3 3  5 5 5 4 | 5/8 6 6 6 9 7 7 |
+|
+=1 treble 3/4 qua eb qua3 [d eb-I3 f#] cro g smq [eb c]
+|
+=1 4/4 min d qua rest c# [e d]
+|
+=1 min. f# smq-s bb' blank qua3 [a g-I3 d]
+|
+=1 3/4 min e smq [f# e d A,]
+|
+il0.4 .15 55
+=1 5/8 cro. Bb smq-s d' blank qua [Bb' A]
+/
+5 bars | 3/4 4 4 4  4 4 4  5 5 5 | 3 3 3 3  3 3 3 3  4  6.5 4 4 4 \
+ | 5/8 2 2 2  2 2 2  2 2 2  3.5 3.5  2.5 2.5 2.3 2.3 \
+ | 2/4 3.5 3.5  3.5 3.5  6 6.5  5 4 \
+ | 5/8 2 2 2  2 2 2  2 2 2  3.5 3.5  3.5 3.5  2.3 2.3 |
+|
+=1 treble 3/4 min A qua3 rest [B-I3 c]
+|
+=1' min A smq-s B smq [A G# A B]
+|
+=1 5/8 cro. c qua3 [B, d#-I3 e]
+|
+=1 2/4 cro f#(1 smq [f#)1 d# f# e]
+|
+il0.8 .15 60
+=1 5/8 cro. g# qua3 rest [g#-I3 a#]
+/
+5 bars | 4/4 4 4 4   6.8 5 6.8  4 4 4  7  6.8 6 4 \
+ | 3/4 6 6 6 6 5 7.5 6.5 | 5/8 30 | 3/4 39 | 5/4 34 ||
+|
+=1 treble 4/4 cro b(1 qua3 [b)1 g#-I3 f] \
+ cro f# smq3-s b' blank qua3 [g# f#-I3 c#]
+|
+=1 3/4 min d smq-s f#' blank qua [d c#]
+|
+=1 5/8 min c#(1 qua c#)1
+|
+=1 3/4 min c# qua. [d# smq e]
+|
+=1 5/4 smb c#(1 cro c#)1
+
+
+9 systems 40/19/19/19/19/19/19/19/19/19 20/
+pagenum 6
+innerhead Second Solo Suite, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+5 bars | 8/8 .9 .9 1.1 1 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 \
+ | 8/8 .9 .9 1.2 1 1.2 .9 .9 1 | .9 .9 1.2 1 1.2 .9 .9 1 | 5/8 .9 .9 1 .9 .9 |
+|
+Il1.0 .03 Dance
+=1, treble 8/8 cro d qua [G c# d] cro e qua d
+|
+=1, 5/8 cro f qua [A c# d]
+|
+=1, 8/8 cro e qua [Bb c# d] cro f# qua e
+|
+=1, cro g qua [B d# e] cro f# qua e
+|
+=1, 5/8 cro g qua eb cro B
+/
+5 bars | 8/8 .9 .9 1.1 1 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 \
+ | 8/8 .9 .9 1 .9 .9 1.2 .9 .9 | .9 .9 1.1 1 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 |
+|
+=1, treble 8/8 cro g qua [c f# g] cro a qua g
+|
+=1, 5/8 cro bb qua [d f# g]
+|
+=1, 8/8 cro a qua c# cro f qua A cro c#
+|
+=1, cro d qua [G c# d] cro e qua d
+|
+il0.4 .35 10
+=1, 5/8 cro f qua [A c# d]
+/
+5 bars | 8/8 .9 .9 1.2 1 1.2 .9 .9 1 | .9 .9 1.2 1 1.2 .9 .9 1 \
+ | 5/8 .9 .9 1 1.1 1 | 8/8 .9 .9 1.1 1.3 1.1 .9 .9 1 | 5/8 .9 .9 1.1 1.3 1 |
+|
+=1, treble 8/8 cro e qua [Bb c# d] cro f# qua e
+|
+=1, cro g qua [B d# e] cro f# qua e
+|
+=1, 5/8 cro g qua [eb g a]
+|
+=1, 8/8 cro b qua [a# b c~#] cro d~ qua c~#
+|
+=1, 5/8 cro b qua [a# b c~#]
+/
+5 bars | 8/8 .9 .9 1.1 1.3 1.3 .9 .9 1 | .9 .9 1 1 1.2 .9 .9 1 \
+ | 5/8 .9 .9 1 1.2 1 | 8/8 1.2 1 .9 .9 1.1 1.2 1 1 | 5/8 1.2 1 .9 .9 1 |
+|
+=1, treble 8/8 cro d~ qua [c~# b a#] cro g# qua gn
+|
+=1, cro f qua [e f g] cro ab qua g
+|
+=1, 5/8 cro f qua [e d c#]
+|
+=1, 8/8 qua [d Bb] cro e qua [Bb f# Bb g(1]
+|
+il0.6 .35 20
+=1, 5/8 qua [g)1 Bb] cro d qua Bb
+/
+5 bars | 8/8 1 1.1 .9 .9 1.1 1 1.1 1 | .9 .9 1.1 1 1.1 .9 .9 1 \
+ | 5/8 .9 .9 1.3 1.1 1 | 8/8 .9 .9 1.3 1 1.3 .9 .9 1 \
+ | .9 .9 1.2 1.1 1.3 .9 .9 1 |
+|
+=1, treble 8/8 qua [e c] cro f# qua [c f# c g#]
+|
+=1, cro a qua [d g# a] cro b qua a
+|
+=1, 5/8 cro c~ qua [e g# a]
+|
+=1, 8/8 cro b qua [f g# a] cro c~# qua b
+|
+=1, cro d~ qua [f# a# b] cro c~# qua b
+/
+5 bars | 5/8 .9 .9 1.2 .9 .9 | 8/8 .9 .9 1.1 1.1 1.1 .9 .9 1 \
+ | 5/8 .9 .9 1.3 1.1 1 | 8/8 .9 .9 1 .9 .9 1.2 .9 .9 \
+ | 1 1.1 1 1.1 1.1 1 1 1 |
+|
+=1, treble 5/8 cro d~ qua bb cro f#
+|
+=1, cro d~ qua [g c~# d~] cro e~ qua d~
+|
+=1, 5/8 cro f~ qua [a c~# d~]
+|
+=1, 8/8 cro e~ qua g# cro c~ qua e cro g#
+|
+il0.7 .15 30
+=1, qua [a d g# a b] [c~ e a]
+/
+5 bars | 5/8 1 1.3 1 1.3 1 | 8/8 1.2 1.2 1.1 1.3 1.1 1.3 1.3 1 \
+ | 1 1.2 1.1 1.1 1.1 1.1 1.1 1 | 5/8 .9 .9 1.3 1 1 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+|
+=1, treble 5/8 qua [b f g# a c~#]
+|
+=1 8/8 qua [d~ f# a# b c~#] [d~ bb f#]
+|
+=1 qua [d~ g c~# d~ e~] [f~ a d~]
+|
+=1 5/8 cro e~ qua [c~ g# c]
+|
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+/
+5 bars | 5/8 1 1 .9 .9 1 | 8/8 1 1 .9 .9 1 1 1.1 1 | 1 1.2 .9 .9 1 1 1 1 \
+ | 5/8 1.1 1 .9 .9 1 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+|
+=1, treble 5/8 qua [a)1 c] cro e qua c
+|
+=1, 8/8 qua [f# d] cro g qua [d a d bb(1]
+|
+=1, qua [bb)1 d] cro f# qua [d g d a(1]
+|
+=1, 5/8 qua [a)1 d#] cro g qua d#
+|
+il0.6 .15 40
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+/
+5 bars | 5/8 1 1 .9 .9 1 | 8/8 1 1 .9 .9 1 1 1.1 1 \
+ | .9 .9 .9 1 1.2 1 1 1 | 5/8 .9 .9 1 1.3 1 | 8/8 .9 .9 .9 1 1.3 1 1.1 1 |
+|
+=1, treble 5/8 qua [a)1 c] cro e qua c
+|
+=1, 8/8 qua [f# d] cro g qua [d a d bb]
+|
+=1, cro. d~ qua [d g] [f# g a]
+|
+=1, 5/8 cro d~ qua [e a bb]
+|
+=1, 8/8 cro. d~ qua [f a] [g# a b]
+
+9 systems 30/19/19/19/19/19/19/19/19/19 30/
+pagenum 7
+innerhead Second Solo Suite, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+5 bars | .9 .9 .9 1 1.3 1.1 1.3 1 | 5/8 .9 .9 1 1.3 1 \
+ | 8/8 .9 .9 1.1 1.1 1.1 .9 .9 1 | 5/8 .9 .9 1.1 1.3 1 \
+ | 8/8 .9 .9 1.2 1.2 1.1 .9 .9 1 |
+|
+=1, treble cro. d~ qua [f# b] [a# b c~#]
+|
+=1, 5/8 cro d~ qua [g a bb]
+|
+=1, 8/8 cro d~ qua [c~# d~ e~] cro f~ qua e~
+|
+=1, 5/8 cro d~ qua [c~# b a#]
+|
+il0.7 .20 50
+=1, 8/8 cro g# qua [gn g# a#] cro b qua a#
+/
+5 bars | 1 1.1 .9 .9 1 1 1.1 1 | 5/8 1 1.2 .9 .9 1 \
+ | 8/8 1.3 1 .9 .9 1 1.3 1.1 1 | 1.3 1 .9 .9 1 1 1 1 | 5/8 .9 .9 1.3 .9 .9 |
+|
+=1, treble qua [g# e] cro a# qua [e c~ e c~#(1]
+|
+=1, 5/8 qua [c~#)1 e] cro g# qua e
+|
+=1, 8/8 qua [bb gb] cro c~ qua [gb d~ gb e~b(1]
+|
+=1, qua [e~b)1 gn] cro b qua [g c~ g d~]
+|
+=1, 5/8 cro e~b qua b cro eb
+/
+5 bars | 8/8 .9 .9 1.1 1 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 \
+ | 8/8 .9 .9 1.2 1 1 .9 .9 1 | .9 .9 1.2 1 1.1 .9 .9 1 | 5/8 .9 .9 1 .9 .9 |
+|
+=1, treble 8/8 cro g qua [c f# g] cro a qua g
+|
+=1, 5/8 cro bb qua [d f# g]
+|
+=1, 8/8 cro a qua [eb f# g] cro b qua a
+|
+=1, cro c~ qua [e g# a] cro b qua a
+|
+il0.9 .30 60
+=1, 5/8 cro c~ qua ab cro e
+/
+4 bars | 8/8 1 1 1.1 1.1 1.2 1 1 1 | 5/8 1.2 1 1.1 1.1 1 \
+ | 8/8 1.1 1.2 1.1 1.1 1.1 1.2 1.1 1 | 1 1 1.1 1.1 1.2 1 1 1 |
+|
+=1, treble 8/8 qua [c~ f b c~ d~] [e~b g c~]
+|
+=1, 5/8 qua [d~ g# b c~ e~]
+|
+=1, 8/8 qua [f~ a c~# d~ e~] [f~ db~ a]
+|
+=1, cro f~ qua [e~ f~ g~] cro a~b qua g~
+/
+5 bars | 5/8 1 1 1.1 1.1 1 | 8/8 .9 .9 1.1 1.1 1.1 .9 .9 1 \
+ | .9 .9 1.1 1.3 1.1 .9 .9 1 | 5/8 1 .9 1.3 1 .9 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+|
+=1, treble 5/8 cro f~ qua [e~ f~ g~]
+|
+=1, 8/8 cro a~b qua [g~ f~ e~] cro d~ qua e~
+|
+=1, cro f~ qua [e~ d~ c~#] cro b qua c~#
+|
+=1, 5/8 cro d~ qua bb cro f#
+|
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+/
+5 bars | 5/8 1 1 .9 .9 1 | 8/8 1 1 .9 .9 1 1 1.1 1 | 1.1 1 .9 .9 1 1.1 1 1 \
+ | 5/8 1 1 .9 .9 1 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+|
+il0.7 .40 70
+=1, treble 5/8 qua [a)1 c] cro e qua c
+|
+=1, 8/8 qua [f# d] cro g qua [d a d bb(1]
+|
+=1, qua [bb)1 c#] cro f qua [c# g c# a(1]
+|
+=1, 5/8 qua [a)1 cn] cro e qua c
+|
+=1, 8/8 qua [f# d] cro g# qua [d a# d b(1]
+/
+5 bars | 5/8 1.1 1 1 .9 1 | 8/8 .9 .9 1.2 1 1.2 .9 .9 1 \
+ | .9 .9 1 1.2 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 | 8/8 .9 .9 1 1.2 1 .9 .9 1 |
+|
+=1, treble 5/8 qua [b)1 c#] cro e qua f#
+|
+=1, 8/8 cro g qua [B d# e] cro f# qua g#
+|
+=1, cro a qua [A d c#] cro d qua e
+|
+=1, 5/8 cro a qua [B, c# d]
+|
+=1, 8/8 cro a qua [c e d#] cro e qua f#
+/
+5 bars | .9 .9 1.1 1.2 1.2 .9 .9 1 | 5/8 .9 1 1 1 1 \
+ | 8/8 .9 .9 1.1 1 1.1 .9 .9 1 | 5/8 .9 1 1.2 1 1 \
+ | 8/8 .9 .9 1.2 1 1.3 .9 .9 1 |
+|
+il0.7 .20 80
+=1, treble cro a qua [c# f# fn] cro f# qua g#
+|
+=1, 5/8 cro a qua [d e f]
+|
+=1, 8/8 cro a qua [d g# a] cro b qua a
+|
+=1, 5/8 cro c~ qua [e g# a]
+|
+=1, 8/8 cro b qua [f g# a] cro c~# qua b
+/
+5 bars | .9 .9 1.2 1.3 1.3 1.1 1.3 1 | 5/8 .9 .9 1 1.3 1 \
+ | 8/8 .9 .9 1.1 1.3 1.1 .9 .9 1 | .9 .9 1.1 1.3 1.1 .9 .9 1 \
+ | 5/8 .9 .9 .9 .9 1 ||
+|
+=1, treble cro d~ qua f# [a# g#] [a# b c~#]
+|
+=1, 5/8 cro d~ qua [g a bb]
+|
+=1, 8/8 cro d~ qua [c~# b c~#] cro d~ qua e~
+|
+=1, cro f~ qua [e~ d~ c~#] cro b qua c~#
+|
+=1 5/8 min d~ qua rest'
+@
+
+
+1.21
+log
+@tweak to bars 2, 3, 10
+@
+text
+@d400 1
+a400 1
+ | 3.7 3.7 3.7  3.7 3.7 3.7  5.5 4.5 4.5 | 7 9 6 7 8 \
+d412 2
+a413 2
+4 bars | 4 4 4  4 4 4  4 4 4  4 4 4  7 6 5 | 6 6 6 6 7 7 6.5 6 \
+ | 6 6 6 6 4.5 8 6 | 4 4 4 4 4 4 4 4 4 5.7 4.8 4.2 |
+d424 1
+a424 1
+3 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 6  6 6 5 4 \
+d426 1
+a426 1
+ | 4.5 4.5  4.5 4.5 4.5 5  4 4 4 4  6 5 |
+d434 4
+a437 4
+5 bars | 6 6  6 6  6 6.2  7.5 6.2 \
+ | 3.5 3.5 3.5  3.5 3.5 3.5  3.5 3.5 3.5  8  7 7 5 \
+ | 3 3 3 3  3 3 3 3  6 7.5 6.5 4 \
+ | 6 6 6 4.5 8 6 | 4 4 4  4 4 4  5.5 8 4.5 |
+d450 2
+a451 1
+4 bars | 3 3 3 3  3 3 3 3  5  4 5 4 3.5 | 6 6 6 7 7 | 12 14 | 6 6 6 7 7 |
+d467 1
+a467 1
+4 bars | 4 4 4 4 4 4 4 4 4 5 6.6 5 | 12 12 17 | 30 \
+d472 1
+a472 1
+il0.9 .25 30
+d483 1
+a483 1
+ | 27 | 2.6 2.6 2.6 2.6  5 5 4 5 4 4 5 4 |
+d541 3
+a543 2
+5 bars | 3/4 3 3  5 5 5 3  3 3 3 3  4 4 | 6 6 6 6 7 6 7.5 6 | 12 12 12 14 \
+ | 3 3 3 3  3 3 3 3  5 4 4 3 | 5 5 5 7 6 6 |
+d549 1
+a549 1
+=1 min. f# smq-s bb' dsq blank qua3 [a g-I3 d]
+d556 4
+a559 3
+5 bars | 4 4 4 4 4 4 5 6 4.5 | 3 3 3 3  3 3 5 4  4 5.3 4 4 4 \
+ | 2 2 2  2 2 2  2 2 2  3 3  2.5 2.5  2 2 | 3 3 3 3  5.5 5.5 4 3 \
+ | 2 2 2  2 2 2  2 2 2  3 3  3 3  2 2 |
+d572 1
+a572 1
+5 bars | 4/4 4 4 4   6.6 5 6.5  4 4 4  7 6.5 5 4 \
+d617 1
+a617 1
+il0.4 .25 10
+d673 1
+a673 1
+il0.7 .20 30
+d700 1
+a700 1
+il0.6 .25 40
+@
+
+
+1.20
+log
+@tweak in Air bar 3, minor spacing
+@
+text
+@d373 1
+a373 1
+ | .25 .25 .25 .25  .5 .5 .4 .35  .25 .25 .25 .25  .35 .35 .35 .35 |
+d380 1
+a380 1
+=1 5/4 min. c(1 qua c)1 rest qua3 [B, d-I3 c]
+d382 1
+a382 1
+=1 4/4 cro eb smq [d eb f# g(1] cro g)1 qua3 [eb c B,]
+d384 2
+a385 1
+5 bars | .7 .7 .7 1.1 1 | .35 .35 .35 .35 .35 .35 .35 .35 .4 .6 .6 \
+d406 1
+a406 1
+=1 3/4 min c qua3 [B, d#-I3 e]
+@
+
+
+1.19
+log
+@elaborate bars 3, 11, 19, 51
+@
+text
+@d10 1
+a10 1
+Il0.8 .03 Overture
+d373 1
+a373 1
+ | .25 .25 .25 .25  .4 .5 .55 .35  .25 .25 .25 .25  .5 .4 .4 .3 |
+d382 1
+a382 1
+=1 4/4 cro eb(1 smq [eb)1 d eb f#] cro g(1 smq [g)1 eb c B,]
+d398 1
+a398 1
+4 bars | 2.5 2.5 2.5 2.5  2.5 2.5 2.5 2.5  2.5 2.5 2.5 2.5  3 6 4 4 4 \
+d423 1
+a423 1
+3 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 7  7 7 6 5 \
+d433 4
+a436 3
+5 bars | 6 6 6 6 6 6.2 7.3 6.2 | 4 4 4  4 4 4  4 4 4  8  7 7 5 \
+ | 3 3 3 3  3 3 3 3  6 7 6 4 \
+ | 6 6 6 4.5 7 6 | 4 4 4  4 4 4  5.0 5.5 4.5 |
+d449 1
+a449 1
+4 bars | 3 3 3 3  3 3 3 3  2 4 5 4 3.5 | 6 6 6 7 7 | 12 14 | 6 6 6 7 7 |
+d452 1
+a452 1
+=1 treble min Bb smq-s c' blank smq [Bb, A, Bb, c]
+@
+
+
+1.18
+log
+@more minor changes
+@
+text
+@d371 3
+a373 2
+5 bars | 1.5 |  .35 .35 .35 .35 .35 .35 .35 .35 .5 .7 .7 .7 \
+ | .8 .8 .8 1.2 1.2 | .4 .4  .4 .4  .4 .4  .7 .5 .5 | .7 .7 .7 1.1 1 |
+d382 4
+a385 1
+=1 4/4 min. eb smq-s g' blank qua [eb c]
+d387 1
+a387 4
+=1 5/4 min. d qua rest c# [e d]
+/
+4 bars | .4 .4 .4 .4 .4 .4 .4 .4 .3 .5 .5 \
+ | .8 .8 .8 1.1 | .8 .8 1 | .8 .8 .8 1.1 |
+d390 1
+a390 1
+=1 treble smb f# smq3-s bb' blank qua3 [a g-I3 d]
+d394 1
+a394 1
+=1 3/4 min Bb smq-s d' qua blank [Bb' A]
+d398 3
+a400 2
+4 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 6 4 4 4 \
+ | 4 4 4 4 4 4 5.5 4.5 4.5 | 6 6 7 6 6 | 4 4 4  4 4 4 4.5 5.5 4.5 |
+d407 1
+a407 1
+=1 5/8 cro f# qua [d# f# e]
+d423 3
+a425 2
+4 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 7  7 7 6 5 \
+ | 4 4 4  4 4 4  4 4 4  7 7 6 | 6 6 6 6 4.5 8.5 6.5 | 6 6 6 6 6 6.2 7.3 6.2 |
+d431 5
+a435 1
+=1 3/4 min e smq-s ab' blank qua [e db]
+d438 1
+a438 4
+=1 4/4 min eb qua rest d [f eb]
+/
+4 bars | 4 4 4 4 4 4 4 4 4 5.5 5.5 4.5 | 3 3 3 3  3 3 3 3  4.5 5.5 4.5 3 \
+ | 6 6 6 4.5 7 6 | 4 4 4  4 4 4  5.0 5.5 4.5 |
+d440 1
+a440 1
+=1 treble min. g smq-s b' blank qua3 [bb ab-I3 eb]
+d524 1
+a524 1
+ | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 5  4 4 5.9 4 \
+d538 1
+a538 1
+5 bars | 5 5 5 5 7 6 6 | 6 6 6 6 7 6 7.5 6 | 12 12 12 14 \
+d541 1
+a541 1
+=1 treble 3/4 min eb smq-s g' blank qua [eb c]
+d579 1
+a579 1
+=1 5/4 smb c# cro rest
+@
+
+
+1.17
+log
+@last 18 bars of Air down 2st
+@
+text
+@d385 2
+a386 1
+4 bars | .8 .8 .8 .8 1.1 | .8 .8 .8 1.1 | .8 .8 1 | .8 .8 .8 1.1 |
+d389 1
+a389 1
+=1 treble smb f# smq-s bb' blank qua3 [a g-I3 d]
+d393 1
+a393 1
+=1 3/4 min Bb smq-s d' qua blank [Bb' G]
+d397 1
+a397 1
+4 bars | 3 3 3 3  3 3 3 3  3 3 3 3  6 4 4 4 \
+d400 1
+a400 1
+=1 treble min. A smq-s B' dsq blank smq [A G# A B']
+d421 1
+a421 1
+4 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 7  6 7 6 5 \
+d468 1
+a468 1
+=1 5/8 cro. eb smq-s g' smq. blank qua [eb c]
+d472 1
+a472 1
+4 bars | 4/4 3.5 3.5 3.5  3.5 3.5 3.5  3.5 3.5 3.5  5 6 5 \
+d479 1
+d486 1
+a486 1
+=1 3/4 cro rest smq rest [g bb a] qua3 [d~b c~-I3 e~]
+d514 1
+a514 1
+=1 2/4 cro. db qua Bb
+d527 1
+a527 1
+=1 5/8 cro. rest qua [c Bb]
+d529 1
+a529 1
+=1, 5/4 min. A(1 qua. [A)1 smq B] [A G A B]
+d535 1
+a535 1
+ | 3 3 3 3  3 3 3 3  5 4 4 3 | 33 |
+d546 1
+a546 1
+=1 5/8 cro. Bb smq-s d' blank qua [Bb' G]
+d548 1
+a548 1
+5 bars | 4 4 4 4 4 4 5 6 4.5 | 3 3 3 3  3 3 5 4  5.3 4 5.3 4 \
+d556 1
+a556 1
+=1 5/8 cro. c qua3 [B, c#-I3 e]
+d566 2
+a567 2
+=1 treble 4/4 cro b(1 qua3 [b)1 ab-I3 f] \
+ cro f# smq3-s b' blank qua3 [ab gb-I3 c#]
+d569 1
+a569 1
+=1 3/4 min d smq-s f#' blank qua [d B]
+d573 1
+a573 1
+=1 3/4 qua rest cro. c# qua. [d# smq e]
+@
+
+
+1.16
+log
+@a few more tweeks to Air
+@
+text
+@a377 1
+i0.4 .10 cresc . .   dim . .
+a379 1
+i0.4 .10 simile . . .
+d392 1
+a392 1
+=1 3/4 min Bb smq-s d' qua blank [Bb' A]
+d432 1
+a432 1
+4 bars | 4 4 4 4 4 4 4 4 4 5.5 5.5 4.5 | 4 4 4  4 4 4  5.8 5.3 4.3 \
+d484 1
+a484 1
+=1 3/4 cro rest smq rest [f# bb a] qua3 [bb c~-I3 e~b]
+d489 1
+a489 1
+=1 treble min f~(1 qua. [f~)1 smq g~]
+d492 1
+a492 1
+=1 5/8 min f~ smq [g~ f~]
+d494 3
+a496 3
+I1.3 .29 3
+I0.9 .74 3
+=1 2/4 qua3 [e~b smq3 f~ e~b qua3 c~] [bb smq3 c~ bb qua3 a]
+d506 3
+a508 3
+I1.0 .35 3
+I0.8 .78 3
+=1 2/4 smq3-s c~' blank qua3 [bb smq3 c~ bb qua3 a] [f smq3 g f qua3 e]
+d517 2
+a518 1
+5 bars | 30 | 24 | 30 | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 5  4 4 5.9 4 \
+d525 1
+a525 1
+=1 5/8 cro. rest qua [d c]
+d527 1
+a527 1
+=1, 5/4 min. B(1 qua. [B)1 smq c#] [B A B c#]
+d530 1
+a530 1
+=1 4/4 min d(1 qua d)1 rest qua3 [c# e-I3 d]
+d532 1
+a532 1
+5 bars | 36 | 6 6 6 6 7 6 7.5 6 | 12 12 12 14 \
+d535 1
+a535 1
+=1 treble 3/4 min f smq-s a' blank qua [f d]
+d537 1
+a537 1
+=1 4/4 min e qua rest d# [f# e]
+d539 1
+a539 1
+=1 min. g# smq-s c~' dsq blank qua3 [b a-I3 e]
+d541 1
+a541 1
+=1 3/4 min f# smq [g# f# e B,]
+d544 1
+a544 1
+=1 5/8 cro. c smq-s e' blank qua [c B,]
+d547 2
+a548 1
+ | 2 2 2 2 2 2 2 2 2 2 2 2.5 2.5 2 2 | 3 3 3 3 4 5.5 5.5 3 | 6 6 6 7 7 |
+d550 1
+a550 1
+=1 treble 3/4 min B qua3 rest [c#-I3 d]
+d552 1
+a552 1
+=1 min B smq-s c#' smq [B, A#, B, c#]
+d554 1
+a554 1
+=1 5/8 cro. d qua3 [c#, f-I3 gb]
+d556 1
+a556 1
+=1 2/4 cro ab(1 smq [ab)1 f ab gb]
+d559 1
+a559 1
+=1 5/8 cro. bb qua3 rest [bb-I3 c~]
+d564 2
+a565 2
+=1 treble 4/4 cro db~(1 qua3 [db~)1 bb-I3 g] \
+ cro ab smq3-s d~b' blank qua3 [bb ab-I3 d#]
+d567 1
+a567 1
+=1 3/4 min e smq-s ab' blank qua [e db]
+d569 1
+a569 1
+=1 5/8 min eb(1 qua eb)1
+d571 1
+a571 1
+=1 3/4 qua rest cro. eb qua. [f smq gb]
+d573 1
+a573 1
+=1 5/4 smb eb cro rest
+@
+
+
+1.15
+log
+@a dozen more tweaks, some spacing in Air
+@
+text
+@d372 1
+a372 1
+ | .7 .7 .7 .7 1.2 | .7 .7 1 1 | .7 .7 .7 1.1 1 |
+d380 1
+a380 1
+=1 5/4 min.. c qua rest qua3 [B, d-I3 c]
+d383 1
+a383 1
+=1 4/4 min. eb smq-s g' qua blank [eb c]
+d392 1
+a392 1
+=1 4/4 min. e smq-s f#' blank qua3 [e d-I3 A,]
+d439 1
+a439 1
+=1 3/4 min f smq-s g' dsq blank qua3 [f eb-I3 A#,]
+d473 1
+a473 1
+4 bars | 4/4 4 4 4 4 4 4 4 4 4 5 6 5 \
+d477 1
+a477 1
+ | 30 | 36 |
+d486 1
+a486 1
+=1 3/4 cro rest cro3 rest'' d~-I3 e~b
+d503 1
+a503 1
+5 bars | 30 | 2.6 2.6  2.4 2.4 5.3 3.3 2.5 2.5  2.4 2.4 3.3 3.3 2.4 2.4 \
+d514 1
+a514 1
+=1 2/4 cro db qua rest Bb
+d533 2
+a534 1
+5 bars | 36 | 6 6 6 6 7 6 7.5 6 | 12 12 12 14 | 12 12 14 | 33 |
+d542 1
+a542 1
+=1 3/4 min f# smq-s g#' blank qua3 [f# e-I3 B,]
+d786 1
+a786 1
+=1, 5/8 qua [a)1 c] cro e qua c
+d826 1
+a826 1
+=1, cro d~ qua [c~# b c~#] cro d~ qua e~
+d830 1
+a830 1
+=1 min d~ qua rest'
+@
+
+
+1.14
+log
+@half a dozen adjustments
+@
+text
+@d380 1
+a380 1
+=1 5/4 smb c qua3 [B, d-I3 c]
+d399 1
+a399 1
+ | 4 4 4 4 4 4 5.5 4.5 4.5 | 6 6 6 7 6 | 4 4 4  4 4 4 4.5 5.5 4.5 |
+d411 1
+a411 1
+ | 6 6 6 6 8 6 | 4 4 4 4 4 4 4 4 4 5.7 4.8 4.2 |
+d423 1
+a423 1
+ | 4 4 4  4 4 4  4 4 4  7 7 6 | 6 6 6 6 8.5 6.5 | 6 6 6 6 6 7.3 6.2 6.2 |
+d429 1
+a429 1
+=1 3/4 min e smq-s ab' dsq blank qua [e db]
+d435 1
+a435 1
+ | 6 6 6 7 6 | 4 4 4 4 4 4 5.5 4.5 4.5 |
+d445 1
+a445 1
+4 bars | 3 3 3 3 3 3 3 3 4 5 4 3.5 | 6 6 6 7 7 | 12 14 | 6 6 6 7 7 |
+d448 1
+a448 1
+=1 treble min Bb smq-s c' dsq. blank smq [Bb, A, Bb, c]
+d461 1
+a461 1
+4 bars | 4 4 4 4 4 4 4 4 4 5 6.6 5 | 4 4 4 4 4 4 5 4.5 4.5 | 30 \
+d466 2
+a467 2
+il0.5 .25 30
+=1 3/4 min g qua3 [a g-I3 d]
+d469 1
+a469 1
+=1 5/8 cro. eb smq-s g' smq. blank qua [eb d]
+d473 5
+a477 4
+4 bars | 4 4 4 4 4 4 4 4 4 5 6 5 \
+ | 1.8 1.8 1.8 1.3 1.3 1.3 1.3 1.3 1.3 1.8 1.8 1.8 \
+ 1.2 1.2 1.2 1.2 1.5 1.5 1.5 1.5 1.3 1.3 1.3 1.3 \
+ 1 1 1 1 1 1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 | 30 | 36 |
+d481 1
+a481 1
+=1 3/4 smq [a bb g a] qua3 [bb d~b-I3 c~] smq-s f~' blank qua [d~b c~]
+d486 1
+a486 1
+=1 3/4 cro rest cro3 rest'' e~b-I3 d~
+d488 1
+a488 1
+4 bars | 36 | 6 6 6 6 7.5 \
+d496 2
+a497 2
+I1.0 .27 3
+I0.8 .75 3
+d503 2
+a504 2
+5 bars | 30 | 2.1  2.4 2.4 5.3 3.3 2.5 2.5  2.4 2.4 3.3 3.3 2.4 2.4 \
+ | 3 3 3 3 2.6 3.3 3.3 | 30 | 35 |
+d508 2
+a509 2
+I1.0 .27 3
+I0.8 .75 3
+d514 1
+a514 1
+=1 2/4 cro c# qua rest Bb
+d522 1
+a522 1
+=1 treble 5/8 cro. c qua. [c smq c]
+d533 1
+a533 1
+5 bars | 36 | 6 6 6 6 7 6 7.5 6 | 12 12 12 14 | 12 12 14 | 30 |
+d544 1
+a544 1
+=1 5/8 cro. c smq-s e' qua [c B,]
+d547 1
+a547 1
+ | 2 2 2 2 2 2 2 2 2 2 2 2.5 2.5 2 2 | 3 3 3 3 4 5 5 3 | 6 6 6 7 7 |
+d560 2
+a561 3
+5 bars | 2 2 2  3.4 2.6 3.4   2 2 2  2.6 3.4 2.9 2  \
+ 2 2 2 2 2 2  3.3 3.3 2.5 2.5 3.3 3.3 \
+ | 6 6 6 6 5 7.5 6.5 | 30 | 39 | 34 ||
+d566 1
+a566 1
+=1 3/4 min e smq-s g#' blank qua [e d#]
+d568 1
+a568 1
+=1 5/8 min d#(1 qua d#)1
+d570 1
+a570 1
+=1 3/4 qua rest cro. d# qua. [d# smq d#]
+d572 1
+a572 1
+=1 5/4 smb d# cro rest
+@
+
+
+1.13
+log
+@titles; much spacing in outer mvts
+@
+text
+@d374 1
+a374 1
+Il1.0 .03 Air
+d425 1
+a425 1
+=1 treble 5/4 min.. Bb smq rest c' [Bb, Ab, Bb, c]
+d427 1
+a427 1
+=1 4/4 min. db qua3 [c eb-I3 db]
+d452 1
+a452 1
+=1 2/4 cro g qua3 [e g-I3 f]
+d471 1
+a471 1
+=1 3/4 cro d smq rest [f# g a] qua3 [bb d~-I3 e~]
+d485 1
+a485 1
+=1 3/4 cro rest cro3 rest'' d~-I3 e~b
+d491 1
+d495 3
+a497 1
+=1 2/4 qua3 [e~b smq3 f~ e~b-I3 qua3 c~] [bb smq3 c~ bb-I3 qua3 a]
+d502 2
+a503 1
+5 bars | 30 | 2.4 2.4 4.3 3.0 2.5 2.5 2.4 2.4 3.3 3.3 2.5 2.5 | 18 | 30 | 35 |
+d505 1
+a505 1
+=1 treble cro. bb smq-s a' blank cro bb smq-s c~'
+d507 3
+a509 1
+=1 2/4 qua3 [bb smq3 c~ bb-I3 qua3 a] [f smq3 g f-I3 qua3 e]
+d518 1
+a518 1
+5 bars | 30 | 24 | 30 | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 5 4  4 4 5.5 4 \
+d527 1
+a527 1
+=1 5/4 min.. B smq rest c# [B, A, B, c#]
+d530 1
+a530 1
+=1 4/4 min. d qua3 [c# e-I3 d]
+d546 1
+a546 1
+ | 2 2 2 2 2 2 2 2 2 2 2 2.5 2.5 2 2 | 4 4 4 5.5 5.5 5 | 6 6 6 7 7 |
+d554 1
+a554 1
+=1 2/4 cro ab qua3 [f ab-I3 gb]
+d559 1
+a559 1
+5 bars | 2 2 2 2 2 2  2 2 2  3.3 3.3 2.5 2.5 3.3 3.3  \
+d563 2
+a564 2
+=1 treble 4/4 cro db~ smq-s eb~' blank qua3 [db~ bb-I3 g] \
+ cro ab qua3 [bb ab-I3 d#]
+@
+
+
+1.12
+log
+@dozen or so tweaks to 2nd mvt
+@
+text
+@d5 1
+a5 1
+leftfoot (c) 2002 Peter Billam
+d7 2
+a8 1
+4 bars |9/16 9 | 9 | 8/16 8 | 8 |
+d10 1
+d30 2
+a31 1
+4 bars |9/16 9 | 9 | 8/16 8 | 8 |
+d42 2
+a43 1
+5 bars | 7/16 7 | 7 | 6/16 6 | 6 | 8/16 8 |
+d56 2
+a57 1
+5 bars | 8 | 7/16 7 | 7 | 6/16 6 | 6 |
+d70 2
+a71 1
+5 bars | 5/16 5 | 5 | 8/16 8 | 8 | 7/16 7 |
+d84 2
+a85 1
+5 bars | 7 | 6/16 6 | 6 | 5/16 5 | 5 |
+d98 2
+a99 1
+5 bars |7/16 7 | 7 | 6/16 6 | 6 | 5/16 5 |
+d112 2
+a113 1
+6 bars | 5 | 4/16 1.3 1 1 1 | 4 | 7/16 1 1 1 1.2 1.4 1.4 1 1 | 7 | 6/16 6 |
+d128 2
+a129 1
+6 bars | 6 | 5/16 5 | 5 | 4/16 4 | 4 | 6/16 6 | 6 |
+d147 2
+a148 1
+7 bars | 5/16 5 | 5 | 4/16 4 | 4 | 3/16 3 | 3 | 6/16 6 |
+d165 2
+a166 1
+7 bars | 6 | 5/16 5 | 5 | 4/16 4 | 4 | 3/16 3 | 3 |
+d181 1
+a181 1
+=1, qua A smq rest
+d185 2
+a186 2
+innerhead Solo Suite II, Peter Billam
+leftfoot (c) 2002 Peter Billam
+d188 2
+a189 1
+4 bars |9/16 9 | 9 | 8/16 8 | 8 |
+d211 2
+a212 1
+4 bars |9/16 9 | 9 | 8/16 8 | 8 |
+d223 2
+a224 1
+5 bars | 7/16 7 | 7 | 6/16 6 | 6 | 8/16 8 |
+d237 2
+a238 1
+5 bars | 8 | 7/16 7 | 7 | 6/16 6 | 6 |
+d251 2
+a252 1
+5 bars | 5/16 5 | 5 | 8/16 8 | 8 | 7/16 7 |
+d265 2
+a266 1
+5 bars | 7 | 6/16 6 | 6 | 5/16 5 | 5 |
+d279 2
+a280 1
+5 bars |7/16 7 | 7 | 6/16 6 | 6 | 5/16 5 |
+d293 2
+a294 1
+6 bars | 5 | 4/16 4 | 4 | 7/16 7 | 7 | 6/16 6 |
+d309 2
+a310 1
+6 bars | 6 | 5/16 5 | 5 | 4/16 4 | 4 | 6/16 6 | 6 |
+d327 2
+a328 1
+7 bars | 5/16 5 | 5 | 4/16 4 | 4 | 3/16 3 | 3 | 6/16 6 |
+d341 1
+a341 1
+il0.9 .25 120
+d346 2
+a347 2
+8 bars | 1.4 1.6 1.6 | 5/16 5 | 1 .8 .8 .8 .8 | 4/16 4 | 4 \
+ | 3/16 3 | 3 | 8/16 3 ||
+d366 1
+a366 1
+8 systems 10/19/19/19/19/19/19/19/19 10/
+d368 2
+a369 2
+innerhead Solo Suite II, Peter Billam
+leftfoot (c) 2002 Peter Billam
+d374 1
+d377 2
+a378 2
+=1 6/4 smb A qua. rest smq B' [A G A B']
+i0.5 .10 cresc . . .30 dim . .
+d381 1
+a381 1
+i0.5 .10 simile . . .
+d420 1
+a420 1
+=1 4/4 min. db qua3 rest [c-I3 db]
+d455 5
+a471 5
+
+8 systems 10/19/19/19/19/19/19/19/19 10/
+pagenum 5
+innerhead Solo Suite II, Peter Billam
+leftfoot (c) 2002 Peter Billam
+d499 1
+a499 1
+4 bars | 30 | 2.4 2.4 4.3 3.0 2.5 2.5 2.4 2.4 3.3 3.3 2.5 2.5 | 18 | 30 |
+a507 2
+/
+4 bars | 3 | 2.5 | 2 | 2.5 |
+d510 4
+a513 1
+=1 treble 3/4 min. c
+d515 1
+a515 1
+=1 5/8 cro. c qua. [c smq c]
+a519 3
+/
+4 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 5 4  4 4 5.5 4 \
+ | 4 4 4  4 4 4  4 4 4 5 5 5 | 36 | 6 6 6 6 7 6 7.5 6 |
+d521 1
+a521 1
+=1 treble 5/4 min.. B smq rest c# [B, A, B, c#]
+d525 2
+d528 1
+a528 1
+=1 3/4 min f smq-s a' blank qua [f d]
+a530 2
+/
+4 bars | 12 12 12 14 | 12 12 14 | 30 | 4 4 4 4 4 4 5 6 4.5 |
+d532 1
+a532 1
+=1 treble min. g# smq-s c~' dsq blank qua3 [b a-I3 e]
+d538 3
+d542 1
+a542 4
+=1 3/4 min B qua3 rest [c#-I3 d]
+/
+4 bars | 3 3 3 3  3 3 5 4  5.3 4 5.3 4 | 2 2 2 2 2 2 2 2 2 2 2 2.5 2.5 2 2 \
+ | 4 4 4 5.5 5.5 5 | 6 6 6 7 7 |
+d544 1
+a544 1
+=1 treble min B smq-s c#' smq [B, A#, B, c#]
+d553 1
+a553 1
+4 bars | 2 2 2 2 2 2  2 2 2  3.3 3.3 2.5 2.5 3.3 3.3  \
+d571 2
+a572 3
+title 3rd mvt
+innerhead Solo Suite II, Peter Billam
+leftfoot (c) 2002 Peter Billam
+d574 2
+a575 1
+5 bars | 8/8 8 | 5/8 5 | 8/8 8 | 8 | 5/8 5 |
+d577 1
+d588 2
+a589 1
+5 bars | 8/8 8 | 5/8 5 | 8/8 8 | 8 | 5/8 5 |
+d599 1
+d602 2
+a603 1
+5 bars | 8/8 8 | 8 | 5/8 5 | 8/8 8 | 5/8 5 |
+d615 2
+a616 1
+5 bars | 8/8 8 | 8 | 5/8 5 | 8/8 8 | 5/8 5 |
+d626 1
+d629 3
+a631 1
+5 bars | 8/8 8 | 8 | 5/8 5 | 8/8 8 | 8 |
+d643 3
+a645 1
+5 bars | 5/8 5 | 8/8 8 | 5/8 5 | 8/8 8 | 8 |
+d655 1
+d658 2
+a659 1
+5 bars | 5/8 5 | 8/8 8 | 8 | 5/8 5 | 8/8 8 |
+a668 1
+il0.6 .01 35
+d671 2
+a672 1
+5 bars | 5/8 5 | 8/8 8 | 8 | 5/8 5 | 8/8 8 |
+d682 1
+d685 2
+a686 1
+5 bars | 5/8 5 | 8/8 8 | 8 | 5/8 5 | 8/8 8 |
+d688 1
+a688 1
+=1, treble 5/9 qua [a)1 c] cro e qua c
+d699 7
+a705 5
+pagenum 9
+innerhead 3rd mvt, take 4, Peter Billam
+leftfoot (c) 2002 Peter Billam
+/
+5 bars | 8 | 5/8 5 | 8/8 8 | 5/8 5 | 8/8 8 |
+d715 1
+d718 2
+a719 1
+5 bars | 8 | 5/8 5 | 8/8 8 | 8 | 5/8 5 |
+a728 1
+il0.8 .61 55
+d731 2
+a732 1
+5 bars | 8/8 8 | 5/8 5 | 8/8 8 | 8 | 5/8 5 |
+d742 1
+d745 2
+a746 1
+4 bars | 8/8 8 | 5/8 5 | 8/8 8 | 8 |
+d756 2
+a757 1
+5 bars | 5/8 5 | 8/8 8 | 8 | 5/8 5 | 8/8 8 |
+d769 2
+a770 1
+5 bars | 5/8 5 | 8/8 8 | 8 | 5/8 5 | 8/8 8 |
+d772 1
+d783 2
+a784 1
+5 bars | 5/8 5 | 8/8 8 | 8 | 5/8 5 | 8/8 8 |
+a785 1
+il0.7 .40 75
+d792 1
+a792 1
+=1, 5/8 cro a qua [d e f]
+d796 3
+a798 1
+5 bars | 8 | 5/8 5 | 8/8 8 | 5/8 5 | 8/8 8 |
+d800 1
+d811 3
+a813 1
+5 bars | 8 | 5/8 5 | 8/8 8 | 8 | 5/8 .8 .8 .8 .8 1 ||
+d823 1
+a823 1
+=1 min d~ qua rest
+@
+
+
+1.11
+log
+@close gap in 3rd, move old takes out
+@
+text
+@d3 1
+a3 1
+title Solo Suite II
+d352 1
+a352 1
+=1 treble qua3 rest [c-I3 B,]
+d355 1
+d357 2
+a358 1
+=1 5/4 smb c qua3 [B, c-I3 d]
+d362 1
+a362 1
+=1 5/4 min. d qua rest c# [d e]
+d373 1
+a373 1
+=1 4/4 min. A qua3 rest [c-I3 B,]
+d383 1
+a383 1
+=1 5/8 cro f# qua [d# e f#]
+d397 1
+a397 1
+=1 4/4 min. db qua3 rest [db-I3 c]
+d404 1
+a404 1
+=1 4/4 min. db qua3 [c db-I3 eb]
+d409 1
+a409 1
+=1 4/4 min eb qua rest d [eb f]
+d420 1
+a420 1
+=1 3/4 min Bb qua3 rest [db-I3 c]
+d429 1
+a429 1
+=1 2/4 cro g qua3 [e f-I3 g]
+d455 1
+a455 1
+=1 treble 4/4 min. f~ qua3 rest' [d~b-I3 bb]
+d457 1
+a457 1
+=1 3/4 smq [a bb g a] qua3 [bb c~-I3 d~b] smq-s f~' blank qua [d~b c~]
+d484 1
+a484 1
+=1 2/4 cro c# qua rest c#
+d489 1
+a489 1
+=1 treble 3/4 min. d
+d491 1
+a491 1
+=1 5/8 cro. d qua. [d smq d]
+d493 1
+a493 1
+=1 2/4 min d
+d495 1
+a495 1
+=1 5/8 cro. rest qua [d c#]
+d503 1
+a503 1
+=1 4/4 min. d qua3 [c# d-I3 e]
+d507 1
+a507 1
+=1 4/4 min e qua rest d# [e f#]
+d518 1
+a518 1
+=1 3/4 min B qua3 rest [d-I3 c#]
+d527 1
+a527 1
+=1 2/4 cro ab qua3 [f gb-I3 ab]
+@
+
+
+1.10
+log
+@add another dozen bars
+@
+text
+@a544 184
+12 systems 10/19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum 6
+title Solo Suite II
+innerhead Peter Billam
+leftfoot (c) 2002 Peter Billam
+/
+5 bars | 8 | 5 | 8 | 8 | 5 |
+|
+=1, treble 8/8 qua rest [A c# d A e f]
+|
+=1, 5/8 qua [e A B c# A]
+|
+=1, 8/8 qua [d Bb c# d Bb e Bb f#]
+|
+=1, qua [g Bn c# d# B e B f#]
+|
+=1, 5/8 qua [g b g eb B]
+/
+5 bars | 8 | 5 | 8 | 8 | 5 |
+|
+=1, treble 8/8 cro e qua [d# e f#] cro g qua f#
+|
+=1, 5/8 cro e qua [d# e f#]
+|
+=1, 8/8 cro g qua [f# e d#] cro c# qua d#
+|
+=1, qua [e B d# e B f# B g]
+|
+=1, 5/8 qua [f# B c# d# B]
+/
+5 bars | 8 | 8 | 5 | 8 | 5 |
+|
+=1, treble 8/8 qua [e c d# e c f# c g#]
+|
+=1, cro a qua [g# a b] cro c~ qua b
+|
+=1, 5/8 qua [c~ e~ c~ g# e]
+|
+=1, 8/8 qua [a db f gb db ab db an]
+|
+=1, 5/8 qua [ab db eb f db]
+/
+5 bars | 8 | 8 | 5 | 8 | 5 |
+|
+=1, treble 8/8 qua [gb dn f gb d ab d bb]
+|
+=1, qua [bn eb f g eb ab eb bb]
+|
+=1, 5/8 qua [b d~# b g d#]
+|
+=1, 8/8 cro g# qua [gn g# a#] cro b qua a#
+|
+=1, 5/8 cro g# qua [gn g# a#]
+/
+5 bars | 8 | 8 | 5 | 8 | 8 |
+|
+=1, treble 8/8 cro b qua [bb ab g] cro f qua e
+|
+=1, cro f qua g cro f qua [bb g e]
+|
+=1, 5/8 cro f qua g cro f
+|
+=1, 8/8 qua [g bb c~] cro d~b qua [c~bb g]
+|
+=1, cro a qua g# cro a qua [d~ b g#]
+/
+5 bars | 5 | 8 | 5 | 8 | 8 |
+|
+=1, treble 5/8 cro a qua b cro a
+|
+=1, qua [g a c~] [e~b d~] [c~ a f#]
+|
+=1, 5/8 qua [g a c~] [e~b d~]
+|
+=1, 8/8 cro c~ qua ab cro e qua [c d e]
+|
+=1, cro f qua g cro f bb qua g
+/
+5 bars | 5 | 8 | 8 | 5 | 8 |
+|
+=1, 5/8 cro f qua g cro f
+|
+=1, 8/8 qua [d~b bb g] [a bb] [c~ bb f]
+|
+=1, cro gb qua bb cro c~ d~ qua e~b
+|
+=1, 5/8 qua [d~ bb e] [g f#]
+|
+=1, 8/8 
+/
+5 bars | 5 | 8 | 8 | 5 | 8 |
+
+12 systems 10/19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum 7
+title 3rd mvt, take 2
+innerhead Peter Billam
+leftfoot (c) 2002 Peter Billam
+/
+5 bars | 8 | 5 | 8 | 8 | 5 |
+|
+=1, treble 8/8 qua [d Bb] cro e qua [Bb f# Bb g(1]
+|
+=1, 5/8 qua [g)1 Bb] cro d qua Bb
+|
+=1, 8/8 qua [e c] cro f qua [c g c ab(1]
+|
+=1, qua [ab)1 c] cro e qua [c f c g(1]
+|
+=1, 5/8 qua [g)1 db] cro f qua db
+/
+5 bars | 8 | 5 | 8 | 8 | 5 |
+|
+=1, treble 8/8 qua [d Bb] cro e qua [Bb f# Bb g(1]
+|
+=1, 5/8 qua [g)1 Bb] cro d qua Bb
+|
+=1, 8/8 qua [e c] cro f qua [c g c ab(1]
+|
+=1, qua ab)1 cro c~ qua [e f] ab cro c
+|
+=1, 5/8 qua ab cro c~ qua [f e]
+/
+5 bars | 8 | 8 | 5 | 8 | 5 |
+|
+=1, treble 8/8 qua ab cro c~ qua [e f] ab cro c
+|
+=1, qua [ab c~ c] [e f] [ab c c~]
+|
+=1, 5/8 qua [ab c~ c] [f e]
+|
+=1, 8/8 qua [d Bb] cro e qua [Bb f# Bb g(1]
+|
+=1, 5/8 qua [g)1 Bb] cro d qua Bb
+/
+5 bars | 8 | 8 | 5 | 8 | 5 |
+|
+=1, treble 8/8 qua [e c] cro f# qua [c g# c a(1]
+|
+=1, qua [a)1 c#] cro f qua [c# f# c# g#(1]
+|
+=1, 5/8 qua [g#)1 d] cro f# qua d
+|
+=1, 8/8 qua b cro d~ qua [gb f] b cro d
+|
+=1, 5/8 qua b cro d~ qua [gb ab]
+/
+5 bars | 8 | 8 | 5 | 8 | 8 |
+|
+=1, treble 8/8 qua b cro d~ qua [gb f] b cro d
+|
+=1, cro b qua [a# b c~#] cro d~ qua c~#
+|
+=1, 5/8 cro b qua [a# b c~#]
+|
+=1, 8/8 cro d~ qua [c~# b a#] cro g# qua gn
+|
+=1, cro f qua [e f g] cro ab qua g
+/
+5 bars | 5 | 8 | 5 | 8 | 8 |
+|
+=1, treble 5/8 cro f qua [e d c#]
+|
+=1, qua [d Bb] cro e qua [Bb f# Bb g(1]
+|
+=1, 5/8 qua g)1 cro bb qua [c# d]
+|
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+|
+=1, cro a)1 qua [g# a b] cro c~ qua b
+/
+5 bars | 5 | 8 | 8 | 5 | 8 |
+|
+=1, 5/8 cro a qua [g# a b]
+|
+=1, 8/8 cro c~ qua [b c~ d~] cro e~b qua d~
+|
+=1, cro cro e~b qua [d~ c~ b] cro c~ qua b
+|
+=1, 5/8 cro a qua [g# f# e]
+|
+=1, 8/8 qua [d Bb] cro e qua [Bb f# Bb g(1]
+/
+5 bars | 5 | 8 | 8 | 5 | 8 |
+
+d547 3
+a549 3
+pagenum 8
+title 3rd mvt, take 4
+innerhead Peter Billam
+d661 1
+a661 1
+9 systems 40/19/19/19/19/19/19/19/19/19 20/
+a701 1
+
+d703 1
+a703 1
+5 bars | 8/8 8 | 5/8 5 | 8/8 8 | 8 | 5/8 5 |
+d712 2
+d715 1
+a715 3
+=1, 5/8 cro f~ qua [e~ f~ g~]
+/
+5 bars | 8/8 8 | 8 | 5/8 5 | 8/8 8 | 5/8 5 |
+d717 1
+a717 1
+=1, treble 8/8 cro a~b qua [g~ f~ e~] cro d~ qua e~
+a723 2
+|
+=1, 5/8 qua [a)1 c] cro e qua c
+d725 1
+a725 1
+5 bars | 8/8 8 | 8 | 5/8 5 | 8/8 8 | 5/8 5 |
+d727 1
+a727 1
+=1, treble 8/8 qua [f# d] cro g qua [d a d bb(1]
+d729 1
+a729 3
+=1, qua [bb)1 d] cro f# qua [d g d a(1]
+|
+=1, 5/8 qua [a)1 d#] cro g qua d#
+d731 1
+a731 1
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+d734 2
+d737 1
+a737 1
+5 bars | 8/8 8 | 8 | 5/8 5 | 8/8 8 | 8 |
+d739 2
+a740 1
+=1, treble 8/8 qua [f# d] cro g# qua [d g# d a#]
+d742 1
+a742 1
+=1, cro b qua [e a# b] cro c~# qua b
+d744 1
+a744 1
+=1, 5/8
+d746 1
+a746 1
+=1, 8/8
+d748 1
+a748 1
+=1,
+d750 1
+a750 1
+5 bars | 5/8 5 | 8/8 8 | 5/8 5 | 8/8 8 | 8 |
+d752 1
+a752 1
+=1, treble 5/8
+d754 1
+a754 1
+=1, 8/8
+d756 1
+a756 1
+=1, 5/8
+d758 1
+a758 1
+=1, 8/8
+d760 1
+a760 1
+=1, cro d qua [c# d e] cro f qua e
+d762 3
+a764 1
+4 bars | 5/8 5 | 8/8 8 | 8 | 5/8 5 ||
+d766 1
+a766 1
+=1, treble 5/8 cro d qua [c# B c#]
+d768 1
+a768 1
+=1, cro d qua [c# B c#] cro d qua e
+d770 1
+a770 1
+=1, cro f qua [e d c#] cro B qua c#
+d772 1
+a772 1
+=1 min d qua rest
+@
+
+
+1.9
+log
+@another 5 bars
+@
+text
+@d730 1
+a730 1
+12 systems 10/19/19/19/19/19/19/19/19/19/19/19/19 10/
+d744 1
+a744 1
+=1, qua g qua [B d# e] cro f# qua e
+d764 1
+a764 1
+=1, qua g qua [B d# e] cro f# qua e
+d818 1
+d829 1
+a829 1
+=1, 5/8 qua [a)1 eb] cro g qua eb
+d831 13
+a843 1
+=1, 8/8 
+d845 41
+d887 70
+@
+
+
+1.8
+log
+@try take 4 ...
+@
+text
+@d736 1
+a736 1
+5 bars | 8 | 5 | 8 | 8 | 5 |
+d748 1
+a748 1
+5 bars | 8 | 5 | 8 | 8 | 5 |
+d750 1
+a750 1
+=1, treble 8/8 cro g qua [c f# g] cro e qua g
+d754 1
+a754 1
+=1  8/8 cro a qua c# cro f qua A cro c#
+d760 1
+a760 1
+5 bars | 8 | 8 | 5 | 8 | 5 |
+d772 1
+a772 1
+5 bars | 8 | 8 | 5 | 8 | 5 |
+d784 1
+a784 1
+5 bars | 8 | 8 | 5 | 8 | 8 |
+d796 1
+a796 1
+5 bars | 5 | 8 | 5 | 8 | 8 |
+d806 1
+a806 1
+=1, qua [e c] cro f# qua [c g# c a(1]
+d808 1
+a808 1
+5 bars | 5 | 8 | 8 | 5 | 8 |
+d810 13
+a822 1
+=1, 5/8 qua [a)1 c] cro e qua c
+a830 5
+/
+5 bars | 5 | 8 | 8 | 5 | 8 |
+
+
+
+@
+
+
+1.7
+log
+@sketch in 3rd mvt take 2
+@
+text
+@d651 1
+a651 1
+=1, qua [ab)1 c] cro e qua [c f g(1]
+d683 1
+a683 1
+=1, qua [a)1 c#] cro f qua [c# f# c g#(1]
+d726 93
+@
+
+
+1.6
+log
+@up to bar 34 in III
+@
+text
+@d637 94
+@
+
+
+1.5
+log
+@sketches of III
+@
+text
+@a550 40
+5 bars | 1.9 | 11 | 7 | 11 | 11 |
+|
+=1 treble qua F
+|
+=1, 11/8 cro d qua [e f] cro d qua B cro d qua [e F]
+|
+=1, 7/8 cro f qua [e d] cro f qua F
+|
+=1, 11/8 cro f qua [g a] cro f qua c# cro f qua [g F]
+|
+=1, cro f qua [e d] cro f qua B cro d qua [e F]
+/
+4 bars | 7 | 11 | 7 | 11 ||
+|
+il0.4    5
+=1, 7/8 cro d qua [e f] cro d qua F
+|
+=1, 11/8 cro f qua [g ab] cro f qua B cro f qua [g F]
+|
+=1, 7/8 cro ab qua [g f] cro ab qua F
+|
+=1, 11/8 cro bb qua [a g] cro f qua c# cro f qua [g F]
+/
+4 bars | 11 | 7 | 11 | 11 |
+|
+=1 treble 11/8 cro f qua [e d] cro f qua A cro f qua [e F,]
+|
+il0.4    10
+=1, 7/8 cro d qua [e f] cro d qua F
+|
+=1, 11/8 cro d qua [e f] cro G qua e cro A qua [e f#]
+|
+=1, cro B qua [f# g] cro c# qua bb cro d qua [e f]
+/ 
+4 bars | 7 || 11 | 7 | 11 |
+|
+=1 treble 7/8 cro d qua [e f] cro d qua f
+/
+1 bars | 1 |
+/
+d553 1
+a553 1
+=1, treble 8/8 qua [f A c# d A e f]
+d603 21
+a623 1
+=1, 8/8 cro f qua g cro f bb qua g
+d630 6
+@
+
+
+1.4
+log
+@couple of dozen changes to I
+@
+text
+@d544 109
+@
+
+
+1.3
+log
+@much spacing, some mods at end of II
+@
+text
+@d26 1
+a26 1
+=1, smq [f G Bn eb] g rest
+d46 1
+a46 1
+=1, 6/16 smq [d~ f a] qua [b smq g#]
+d48 1
+a48 1
+=1, qua [a smq e] qua [f# smq d#]
+d50 1
+a50 1
+=1, 8/16 qua [a smq c B] [d eb] [g f#]
+d56 1
+a56 1
+=1, 7/16 qua [f smq d A] [c# B d]
+d72 1
+a72 1
+=1, 8/16 smq [e e~ c~ b g#] [a f# d#]
+d87 1
+a87 1
+=1, 5/16 smq [b eb f d ab]
+d98 1
+a98 1
+=1, 6/16 smq [c~# e g#] [bb gn f]
+d102 1
+a102 1
+=1, 5/16 qua [bb smq d e g]
+d108 1
+a108 1
+=1, 4/16 smq [d~ ab c~ f]
+d111 1
+a111 1
+=1, smq [b d a f]
+d121 1
+a121 1
+=1, treble smq [g# c# e] [f gn bb]
+d124 1
+a124 1
+=1, 5/16 qua [c~# smq d# g# a]
+d130 1
+a130 1
+=1, smq [e~b b c~ e~b]
+d141 1
+a141 1
+=1, smq [eb A B c eb]
+d143 1
+a143 1
+=1, 4/16 smq [f B eb f]
+d145 1
+a145 1
+=1, smq [ab e f ab]
+d160 2
+a161 2
+il0.55 .25 60
+=1, smq [f B d eb f]
+d169 1
+a169 1
+=1, smq [a f A]
+d196 1
+a196 1
+=1, smq [f G Bn eb] g rest
+d215 1
+a215 1
+=1, 6/16 smq [d~ f a] qua [b smq g#]
+d218 1
+a218 1
+=1, qua [a smq e] qua [f# smq c]
+d220 1
+a220 1
+=1, 8/16 qua [a smq c B] [d eb] [g f#]
+d226 1
+a226 1
+=1, 7/16 qua [f smq d A] [c# B d]
+d241 1
+a241 1
+=1, 8/16 smq [e e~ c~ b g#] [a f# d#]
+d257 1
+a257 1
+=1, 5/16 smq [b eb f d ab]
+d267 1
+a267 1
+=1, 6/16 smq [c~# e g#] [bb gn f]
+d272 1
+a272 1
+=1, 5/16 qua [bb smq d e g]
+d278 1
+a278 1
+=1, 4/16 smq [d~ ab c~ f]
+d280 1
+a280 1
+=1, smq [b d a f]
+d291 1
+a291 1
+=1, treble smq [g# c# e] [f gn bb]
+d293 1
+a293 1
+=1, 5/16 qua [c~# smq d# g# a]
+d300 1
+a300 1
+=1, smq [e~b b c~ e~b]
+d311 1
+a311 1
+=1, smq [eb A B c eb]
+d313 1
+a313 1
+=1, 4/16 smq [f B eb f]
+d315 1
+a315 1
+=1, smq [ab e f ab]
+@
+
+
+1.2
+log
+@sketch up to end of slow mvt
+@
+text
+@d9 1
+a9 1
+=1, treble 9/16 smq [b G B c#] [g e b] [f# g]
+d45 1
+a45 1
+il0.7 .25 15
+d48 1
+a48 1
+=1, qua [a smq e] qua [f# smq c]
+d87 1
+a87 1
+=1, 5/16 smq [b d f eb ab]
+d104 1
+a104 1
+6 bars | 5 | 4/16 4 | 4 | 7/16 7 | 7 | 6/16 6 |
+d147 1
+a147 1
+il0.6 .35 55
+d160 1
+a160 1
+il0.6 .25 60
+d169 1
+a169 1
+=1, qua a smq rest
+d179 1
+a179 1
+=1, treble 9/16 smq [b G B c#] [g e b] [f# g]
+d191 1
+a191 1
+il0.4 .15 70
+d204 1
+a204 1
+il0.5 .25 75
+d257 1
+a257 1
+=1, 5/16 smq [b d f eb ab]
+d269 1
+a269 1
+il0.5 .25 100
+d282 1
+a282 1
+il0.7 .32 105
+d340 1
+a340 1
+=1, smq [g c~# e~]
+d342 1
+a342 1
+=1, 8/8 min g~
+d349 2
+a350 1
+5 bars | 1 | 6 | 5 | 4 | 5 |
+d358 1
+a358 1
+=1 4/4 min. eb smq-s g' blank qua [eb c]
+d362 1
+a362 1
+4 bars | 5 | 4 | 3 | 4 |
+d369 1
+a369 1
+=1 3/4 min Bb smq-s d' blank qua [Bb' A]
+d373 2
+a374 1
+4 bars | 4 | 3 | 2.5 | 3 |
+d376 1
+a376 1
+=1 treble min. A smq-s B' blank smq [A G# A B']
+d385 2
+a386 1
+4 bars | 5 | 4 | 3 | 4 |
+d388 1
+a388 1
+=1 treble 5/4 smb b smq-s c~#' qua3 [b g#-I3 f]
+d393 1
+a393 1
+=1 3/4 min d smq-s f#' blank qua [d c#]
+d395 1
+a395 1
+=1 4/4 min. c# qua3 rest [db-I3 c]
+d397 2
+a398 1
+4 bars | 5 | 4 | 3 | 4 |
+d404 1
+a404 1
+=1 3/4 min e smq-s ab' blank qua [e db]
+d409 2
+a410 1
+4 bars | 4 | 3 | 2.5 | 3 |
+d414 1
+a414 1
+=1 3/4 min f smq-s g' blank qua3 [f eb A#,]
+d416 1
+a416 1
+=1 5/8 cro. B smq-s d#' blank qua [B' A#]
+d420 1
+a420 1
+4 bars | 3 | 2.5 | 2 | 2.5 |
+d423 1
+a423 1
+=1 treble min Bb smq-s c' blank smq [Bb, A, Bb, c]
+d427 1
+a427 1
+=1 2/4 cro g qua3 [e f g]
+d431 2
+a432 1
+4 bars | 4 | 3 | 2.5 | 3 |
+d436 1
+a436 1
+il0.4 .15 30
+d439 1
+a439 1
+=1 5/8 cro. eb smq-s g' blank qua [eb d]
+d448 4
+a451 1
+4 bars | 4 | 3 | 2.5 | 3 |
+d462 2
+a463 1
+4 bars | 3 | 2.5 | 2 | 2.5 |
+d474 1
+a474 1
+4 bars | 2.5 | 2 | 1.5 | 2.5 |
+d495 2
+a496 1
+4 bars | 5 | 4 | 3 | 4 |
+d498 1
+a498 1
+=1 treble 5/4 min.. B smq rest db [B, A, B, c#]
+d507 1
+a507 1
+4 bars | 4 | 3 | 2.5 | 3 |
+d509 1
+a509 1
+=1 treble min. g# smq-s c~' blank qua3 [b a-I3 e]
+d511 1
+a511 1
+=1 3/4 min f# smq-s ab' blank qua3 [f# e B,]
+d518 2
+a519 1
+4 bars | 3 | 2.5 | 2 | 2.5 |
+d525 1
+a525 1
+=1 2/4 cro ab qua3 [f gb ab]
+d527 1
+a527 1
+il0.8 .05 60
+d530 3
+a532 1
+4 bars | 4 | 3 | 2.5 | 3 | 3 ||
+d534 2
+a535 1
+=1 treble 4/4 min. db~ smq-s eb~' blank qua3 [db~ bb-I3 g]
+d537 1
+a537 1
+=1 3/4 min ab qua3 [bb ab-I3 d#]
+d539 1
+a539 1
+=1 5/8 cro. e smq-s g#' blank qua [e d#]
+d541 1
+a541 1
+=1 3/4 min d# qua. [d# smq d#]
+@
+
+
+1.1
+log
+@sketch slow mvt
+@
+text
+@d366 1
+a366 1
+=1 4/4 min. e smq-s f#' blank qua3 [e d A,]
+d387 1
+a387 1
+=1 4/4 min. f# qua3 [g# f#-I3 c#]
+d390 1
+a390 1
+=1 3/4 cro d qua f# [d c#]
+d396 1
+a396 1
+=1 treble 5/4 smb Bb
+d398 1
+a398 1
+=1 4/4
+d400 1
+a400 1
+=1 3/4
+d403 1
+a403 1
+=1 4/4
+d407 1
+a407 1
+=1 treble
+d409 1
+a409 1
+=1 3/4
+d411 1
+a411 1
+=1 5/8
+d413 1
+a413 1
+=1 3/4
+d418 1
+a418 1
+=1 treble
+d420 1
+a420 1
+=1 5/8
+d422 1
+a422 1
+=1 2/4
+d424 1
+a424 1
+=1 5/8
+d428 1
+a428 1
+=1 treble 4/4 
+d431 1
+a431 1
+=1 3/4
+d433 1
+a433 1
+=1 5/8
+d435 1
+a435 1
+=1 3/4
+d444 1
+a444 1
+=1 treble 4/4
+d446 1
+a446 1
+=1 3/4
+d448 2
+a449 2
+il0.4 .15 35
+=1 5/8
+d451 1
+a451 1
+=1 3/4
+d455 1
+a455 1
+=1 treble
+d457 1
+a457 1
+=1 5/8
+d459 1
+a459 1
+=1 2/4
+d461 2
+a462 2
+il0.4 .15 40
+=1 5/8
+d466 1
+a466 1
+=1 treble
+d468 1
+a468 1
+=1 2/4
+d470 1
+a470 1
+=1 3/8
+d472 1
+a472 1
+=1 2/4
+d477 1
+a477 1
+=1 treble 3/4
+d479 1
+a479 1
+=1 5/8
+d481 1
+a481 1
+=1 2/4
+d483 1
+a483 1
+=1 5/8
+d487 1
+a487 1
+=1 treble 5/4 smb Bb
+d490 1
+a490 1
+=1 4/4
+d492 1
+a492 1
+=1 3/4
+d494 1
+a494 1
+=1 4/4
+d498 1
+a498 1
+=1 treble
+d500 1
+a500 1
+=1 3/4
+d503 1
+a503 1
+=1 5/8
+d505 1
+a505 1
+=1 3/4
+d509 1
+a509 1
+=1 treble
+d511 1
+a511 1
+=1 5/8
+d513 1
+a513 1
+=1 2/4
+d515 2
+a516 2
+il0.4 .15 60
+=1 5/8
+d518 1
+a518 1
+4 bars | 4 | 3 | 2.5 | 3 ||
+d520 1
+a520 1
+=1 treble 4/4
+d522 1
+a522 1
+=1 3/4
+d524 1
+a524 1
+=1 5/8
+d526 3
+a528 1
+=1 3/4
+@

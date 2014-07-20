@@ -1,0 +1,37 @@
+6 systems / 19-25-19 /
+% as if laborious, building up to a setback
+midi channel 0 patch 0 pan 75
+midi channel 1 patch 0 pan 50
+pagenum
+title 20120805, book AK
+/
+4 bars | 1 | 4 |
+| 1.0
+=1' treble cha0 vol90 2 Eb vol75
+=2' bass   cha0 vol90 2 eb-P vol75
+| 2.0
+=1' 8 [Bb Eb] [Bb Eb] [c# D] [Bn D]
+=2' 8 [Ab eb] [Ab eb] [G# en-P] [G# e]
+|
+=1' 8 [Bb Eb]   [Bb Eb] [c# En] [cn E]
+=2' 8 [Ab f-P] [Ab f] [G#-P f#] [G# f#]
+|
+=1' 8 [B D#] [d# D#] [d# C#] [db Fn]
+=2' 8 [A g-P] [A g] [A g] [A g]
+/
+3 bars | 4 |
+|
+=1' 8 [c E] [B Eb] [B D] [B C#(2]
+=2, 8 [A# g#-P] [B a] [B ab] [B-P g(1]
+|
+=1, 1 C#)2
+=1, 4 rest 2. vol100 E
+=1' 2 rest'' vol115 <B e b b~>
+=2  1 g)1
+|
+=1 2. rest vol90 4 E
+=2 2. rest' 4 e
+=2 1 vol70 <A__ A_ E A>
+|
+=1' 8 [B En B E] [dn Eb] [c E]
+=2' 8 rest en [A e] [A f-P] [A f]

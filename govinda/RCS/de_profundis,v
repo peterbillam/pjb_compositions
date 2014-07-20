@@ -1,0 +1,1051 @@
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2010.10.08.10.31.56;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.10.08.09.08.16;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.10.08.05.16.56;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.10.07.05.05.36;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.10.03.10.27.08;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.10.02.00.35.26;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.10.01.10.50.25;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@De Profundis, Govinda/Billam 1980, first 2 pages
+@
+
+
+1.7
+log
+@version as released
+@
+text
+@5 systems 10 /19 / 19 30 19-20-19 \
+ / 19 35 19-20-19/ 19 35 19-22-19/ 19 40 19-22-19 15/
+lefthead poem by Lama Anagarika Govinda
+title De Profundis
+righthead music by Peter Billam
+leftfoot (c) Lama Anagarika Govinda and Peter J Billam 1980.
+midi channel 1 patch 52 pan 80
+midi channel 2 patch 0 pan 50
+midi channel 3 patch 0 pan 20
+/
+4 bars | 96 | 48 | 40 | 4/4 48 |
+| 5.5 4
+i0.2 .18 mm=60
+bl0.20 .46 ,
+=1' treble cha1 vol70 1 Bb-fermata 2 Bb(2 8 [Bb)2{'1 A}'1] 4 A
+r0.2 .05 Durch .51 tie .68 - .88 fe
+I0.3   pp
+| 4.0
+=1 2. leg99 A{1 4 leg85 C#}1
+r0.3 .01 Fin .40 - .75 ster .93 -
+|
+=1 1 C#
+r0.3 .01 nis
+|
+=1 4/4 4 rest 8 G G(2 4. G)2 8 G
+r0.2 .32 bin  ich .88 ge  -
+/
+5 bars | 24 20 | 20 24 | 20 24 | 6 6 6 8 6 6 6 6 | 48 |
+|
+=1 treble 4 leg99 G leg85 F 2 rest
+r0.7  - .03 gan - gen :
+=2' bass   cha2 4/4 vol85 2 <c e fx> <Ab dx eb>
+I0.9  pp
+i0.2  .01 L.H. gesangsvoll
+=3  bass   cha3 4/4 vol95 leg99 2 B_b B_b
+I0.1 mp
+|
+I0.1 .61 p
+=1 2. rest 4 c
+r0.7 .70 Durch
+=2' 2 <c e fx> <An dx eb>
+=3  2 B_n B_
+|
+=1 2 c-tenuto 4 B-. rest
+r0.7 .01 dun .30 - .48 kle ,
+=2, 2 <dr ebx f ab> <d ebx f ab>
+=3  2 C-ten, B_
+
+|
+I0.2 .88 mp
+=1 4. c{1-ten 8 Bb}1 4 Bn rest
+r0.6 .01 dum .30 - .50 pfe ,
+=2, 2 <d#xr e gbx a> <dnl ebxl f ab>
+=3  2 C-ten, B_
+|
+=1 4 leg99 eb c A leg85 F#
+r0.6 .02 ster - nen  - lose
+=2, 2 <d#xlrr enl gblx anl> <dnxl enl gnxl anl>
+=3  2 C C
+/
+5 bars | 24 20 | 24 20 | 6 6 8 8 7 6 6 6 | 24 20  | 6 6 8 7 7 6 6 6 |
+|
+=1 2 C# rest
+r0.5 .01 Nacht ,
+=2, 2 <err f#xl g#l b> <ebl fnxl gnl bb>
+=3  2 C# C#
+|
+I0.2 .20 p
+i0.1 .61 cresc . . .
+=1 4 rest 2. E
+r0.6 .25 Durch
+=2, 2 <err f#xl g#l bn> <e fnxl gnl bb>
+=3  2 C#{2 D}2
+|
+=1 4 E-emph 8 D# D#-ten D# 4. rest
+r0.6 .01 Wüstenschluchten
+=2 2 <er g bbl d~b> <g abxl bbl d~b>
+=3 2 D{2 Eb
+I0.2 .93 f
+|
+I0.2 .20 p
+i0.1 .61 cresc . . .
+=1 4 rest B 2 B
+r0.6 .25 und .50 durch
+=2 2 <er g bbl d~b> <e g# bbl d~b>
+I0.9 .85 ppp
+=3 2 A_b}2-emph, Dn
+i0.7 .45 dim . . .
+I0.7 .95 p
+|
+=1' 4 B{2-ten 8 A#}2 An-ten A 4. rest
+r0.7 .02 Meeresgründe ,
+=2, 2 <c#lrr ex f g#x> vol+5 <c#x d gbxl abl>
+i0.4 .55 cresc . . .
+=3 2 B_br{'1 vol+5 B_b
+/
+4 bars | 24 20 | 13 13 12 13 | 48 | 6 6 6 6 9 6 6 5 |
+|
+=1 4 rest Ab 2 Ab-emph
+r0.7 .23 Durch .53 Feu .81 -
+=2 2 <drr ebxl gblx abl> vol+5 <d gnl abxl b>
+i0.4 .20 - .75 -
+=3 2 C vol+5 Db}'1
+|
+I0.1 .60 mf
+=1 8 G G-emph G rest 4 rest 8 F# fn
+r0.7 .02 er - wälle .69 und durch
+=2 2 <drr f anx bbl> vol+5 <d#xl f g#x a>
+i0.4 .20 - .75 -
+=3 2 Dnr{'1 vol+5 D
+|
+=1 4 leg99 vol+5 e{1 leg85 eb}1 leg99 vol-5 eb{1 leg85 d}1
+r0.7 .05 Höllen .38 - .53 schlünde
+=2, 2 vol+5 <dnrl f g#x a> vol-5 <cx d f ab>
+I0.5  f
+i0.4 .55 dim . . .
+=3 2 vol+5 Eb-emph, vol-5 En-emph,
+|
+=1 4 rest leg99 d(1 8 d)1 4. leg85 D
+r0.7 .25 Ver .43 - .62 senkt
+=2, 2 vol-5 <Bnrr ebl gbxl abl> 8 rest 4. vol-5 <Bbll(4 dx(2 enl(1 gn(3>
+I0.5  p .45 pp
+=3 2 vol-5 F}'1 8 rest 4. vol-5 F_(1
+I0.3  .45 mp
+/
+5 bars | 8 7 8 8 7 6 6 6 | 8 6 6 6 7 6 6 6 | 24 20 | 10 10 10 12 | 48 |
+|
+=1 4 D D(1 8 D)1 4 D 8 D(2
+r0.6 .01 in .25 mei .47 - .62 nes .85 Da
+=2, 8 <Bbrl)4 dx)2 e)1 g)3> rest rest vol-5 <d(4 ex(2 g(1 bb(3> \
+ 4. <d)4 ex)2 g)1 bb)3> 8 rest
+=3 4 F_)1 8 rest, vol-5 8 F_(2 2 F_)2
+|
+=1 4 D)2 D(1 8 D)1 4. D
+r0.6 .01 - .25 seins .62 tief .90 -
+=2 8 rest, 2.. vol-5 <d f#x g bn>
+=3 8 rest, 2.. vol-5 F_#
+|
+=1 4 vol65 D rest 2 vol45 D
+r0.6 .01 sten .47 Schlacht .
+=2 8 rest, 2.. vol-5 <d f#x g b> treble
+=3 8 rest, 2.. vol-5 F_#
+|
+=1 2 blank 1 rest
+=2 2. rest 4 vol-5 <d(4 g#x(2 a(1 bx(3>
+=3 1 vol-5 <F_#r(4 D(6 F#l(2 G#xl(1 B(3>
+
+| 1.0 1.0 2.0 .75
+I0.2 .80 mf
+=1 2 rest 4.. rest-fermata 16 vol90 d
+r0.7 .88 Und
+=2 1 <d)4 g#)2 ax)1 b)3>
+=2 2 blank vol-10 <e~ g~ a~bxll b~bbl-fermata>
+=3 1 <F_#r)4 D)6 F#l)2 G#xl)1 B)3>
+=3 2 blank vol35 <C_# A_-fermata>
+
+4 systems /19 30 19-40-19 / 19 35 19-40-19 \
+ / 19 30 19-40-19/ 19 35 19-45-19 15/
+pagenum 4
+innerhead De Profundis
+leftfoot (c) Lama Anagarika Govinda and Peter J Billam 1980.
+/
+3 bars | 4 4 3 4  3 2 3 3  3 3 4 4  5 4 4 4 \
+ | 3 3 4 3.5 3 3 3 3 4 3 3 3 4 3 3.5 3 \
+ | 3 3 3 4  4 4 4 3  4 4 4 4  4 4 4 3 |
+| 3.0
+i0.8     mm=80
+=1 8 [d' E] 4 E 8. rest 16 E [F G#] [A c']
+r0.6 .01 Freiheit   kam, .62 als Allem ich ges - torben ,
+=2 8 vol90 B_ 4. rest 8 rest 16 B_b rest 4 rest
+i0.5 .18 auflebend
+I0.5   f
+=3' 8 vol90 <D e gx ab> 4. rest 8 rest 16 <D f gx an> rest 4 rest
+|
+=1 4 eb c# 4. rest 8 F#
+r0.6 .83 was
+=2 8 rest 16 <F_ G_x A_ C#> rest 4 rest \
+ 16 <G_ B_b Ex F#> 8. rest 16 <B_b Cx Ex F#> 8. rest
+=3 8 rest 4 Eb 8 rest 4 A 8 rest 16 [A{2 G]
+|
+=1 8. [G 16 A#'] [B c] 8 e(1 4 e)1 8 rest Ab
+r0.6 .01 gestern mir noch traut .86 und
+=2' 2 E Bb
+=2, 2 blank 83 rest, [F# F#] [F# F# F#]
+I0.8 mp
+I0.2   pp
+=3' 8 rest' <g c~> 83 [<g c~#> <g c~#-I3> <g c~#>] \
+ rest' [<g c~n> <g c~>] [<g# c~> <g# c~> <g# c~>]
+=3, 2 F#}2 G
+I0.6   mf
+i0.2 .60 quasi accell . . .
+/
+2 bars | 6 7 7 7 6 6 6 7 7 6 6 6 7 7 7 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1 4 eb 2 d 4 c#
+r0.6 .01 Hei .15 - .25 mat .73 war ,
+I0.01 .72 f
+=2' 4. c# G 4 G
+=3' 16 rest' [<gn e~b> <g e~b> <g e~b>] [<g e~n> <g e~> rest' <g d~>] \
+ [<g d~b> <g d~b> <g c~> <g b>] rest' [<g bb> <g bb> <g bb>]
+=3, 4. A Bb 4 Bn
+|
+=1' 2. rest 83 [G# A-I3 Bb]
+r0.6  .75 was  ich  in
+=2' 4 c-emph Ab-emph Eb-emph D(2-emph
+=3' 16 rest'' [<g e~> <g e~> <g e~>] rest'' [<g d~> <g d~> <g d~>] \
+ rest'' [<g c~> <g c~> <g c~>] rest' [g rest' g]
+=3, 4 f f 4. f{2 8 G#}2-emph,
+I0.1 .48 f
+/
+2 bars | 6 7 6 6 6 7 6 6 6 7 6 6 6 6 6 5 \
+ | 6 8 6 6  6 8 6 6  6 7 6 6 6 7 7 5 |
+|
+=1 4 leg99 c# leg85 cn leg99 B 8. leg85 Bb 16 rest
+r0.6 .01 har .15 - .25 ter .50 Mü .65 - .75 he ,
+=2' 8 D)2 4 C# C# C# 8 D(2
+=3' 16 rest' [g <e bb> g] [g g <e bb> g] \
+ rest' [g <e bb> g] [g g rest' g] 
+=3, 2 Eb-emph, 4. Eb 8 Db
+|
+=1 4 c# cn B 8 rest F
+r0.6 .01 Jahr .25 um .49 Jahr .88 in
+=2' 8 D)2 4 E E E 8 E
+=3' 16 rest' [g <a#l d~#> g] [g g <a#l d~#> g] \
+ rest' [g <b d~#> g] [g g <c~x d~#> g] 
+=3, 1 <C c>
+/
+2 bars | 6 6 6 6  7 7 7 7  7 7 7 6  6 6 6 5 \
+ | 6 7 7 7  6 7 6 7  7 7 7 7  8 6 7 5 |
+|
+=1 4. leg99 Bb 8 leg85 Ab 4 d(1 16 d)1 8. c
+r0.6 .01 Hoff .20 - .32 nung .50 auf .80 das
+I0.01     mp
+=2' 4 F c 8. [Bn Bb 8 G]
+=2, 16 rest,, [<Cx D> <Cx D> <Cx D>] rest,, [<D Ab> <D Ab> <D Ab>] \
+ rest,, [<D F> <D F>] rest,, [<D F> <D F> blank <D F>]
+I0.4 .01 pp
+=3' 16 rest' [g g g] rest' [g g g] rest' [bb bb] rest'' [g g rest' g]
+=3, 4 Ab F 8. [G{,2 f 8 Bb]
+I0.1  mf
+I0.5 .99 f
+|
+=1 2 leg99 en leg85 eb
+r0.7 .01 Mor .30 - .50 gen
+I0.01 mf
+=2' 4 G A 8 A 4 Bb 8 En
+I0.3 .05 p
+=3' 16 rest' [<a c~ d~x> <a c~ d~x> <a c~ d~x>] \
+ rest'' [<c~ d~x e~> rest'' <c~ d~x e~>] \
+ rest'' [<bb c~x e~b> rest'' <a c~x e~b>] \
+ rest'' [<g bbl e~b> rest'' <g bb c~x>]
+=3, 4. E},2{2 g}2{2 4 c#}2
+
+4 systems /19 30 19-40-19 / 19 35 19-40-19 \
+ / 19 40 19-40-19/ 19 35 19-35-19 10/
+pagenum
+innerhead De Profundis
+leftfoot (c) Lama Anagarika Govinda and Peter J Billam 1980.
+/
+2 bars | 7 9 9 8 7 7 7 7 7 7 6 7 8 7 7 6 | 90 |
+|
+=1 4. leg99 eb{1 8 d}1 4 leg85 d A
+r0.7 .01 mir .41 er  -  worb .65 - .75 en .
+=2' 4 F(2 16 [F)2 8. Ab] [Ab An 8 B]
+=3' 16 rest'' [<g# bx c~#> <g# bx c~#> <g# bx c~#>] \
+ [<g# b> rest'' <a c~n d~x> <a c~ d~x>] \
+ rest'' <a c~ e~b> rest'' rest'' \
+ [<c~ d~x e~b> <c~ d~x e~b> rest'' <c~ d~x e~b>]
+=3, 2 d 8 rest,, 4. D-emph,
+|
+=1 2. rest 8. rest 16 leg60 d
+r0.6 .91 Die
+=2' vol+10 83 [c F#-I3 A#] [F# An{2-emph-I3 C#}2] \
+ 8 [E{2-emph Eb}2] 83 [B_ Cn-I3 Fn]
+=3' 83 rest' 2.. <gx abl e~b>
+=3, 1 D
+/
+2 bars | 7 7 7 6 7 6 7 6 6 7 7 6 7 6 8 6 \
+ | 7 7 7 7 9 9 9 7 7 6 7 7 8 7 7 6 |
+|
+=1 8 leg85 d E 4 E 8. rest 16 E [F G#] [A c#']
+r0.7 .02 Freiheit .25 kam, .68 so wie ein Blitz im
+=2' vol-10 4 B B 4. Bb  8 A
+=2, 16 rest,, [<G_ D F#> <G_ D F#> <G_ D F#>] \
+ rest,, [<G_ Dx E> rest,, <G_ Dx E>] \
+ rest,, [<G_ Dx E> <G_ Dx E> <G_ Dx E>] \
+ rest,, [<A_b Dx E> rest,, <A_bl Ebxl Fnl>]
+=3 4. E F 4 G
+|
+I0.3 .86 ff
+=1 4 eb cn rest 8. rest 16 g
+r0.7 .01 Dun .15 - .24 keln , .93 Ge -
+=2' 8 [G F] 4 E 8 [cn F#] [G c#]
+=3' 16 rest'' [<a c~x d~#> rest'' <a c~x d~#>] \
+ rest'' [<g bbxl c~#l> <g bbxl c~#l> <g bbxl c~#l>] \
+ rest'' [<g ax e~b> rest'' <g ax e~b>] \
+ rest'' [<ax bbl d~n> rest'' <ax bb d~>]
+=3, 4 Bb c c# en
+/
+2 bars | 9 9 6 6 7 6 6 6 9 9 7 6 7 6 6 6 \
+ | 7 6 8 9 7 6 7 6 8 9 9 6 8 9 9 6 |
+|
+=1 2. g 4 g
+r0.8  - .01 blen .35 - .75 det
+#=2' cha2 8. <G g> 16 <G(2 g(1> 4 <G)2 g)1> 8. <G g> 16 <G(2 g(1> 4 <G)2 g)1>
+=2' cha2 8. <G g> 16 <G(2 g> 4 <G)2 g> 8. <G g> 16 <G(2 g> 4 <G)2 g>
+=2, 16 rest,, [<Eb B c#x> <Eb B c#x>] rest,, \
+ rest,, [<En G B> rest, <G B>] \
+ rest,, [<Eb B c#x> <Eb B c#x>] rest,, \
+ rest,, [<En G B> rest, <G B>]
+=3, 4 eb 8 [eb Eb] 4 eb 8 [eb En]
+I0.1     ff
+| .75 .75 .80 .85
+=1 4 g{1-emph Bb'}1 2 rest
+r0.8 .01 steh' .25 ich ,
+=2' 8 f 4 e 8 eb 4 G G
+=2, 16 rest, [<C# A Bbx> rest, <C# A Bbx>] \
+ [<C# A Bbx> rest, rest, <G_ A_x E>] \
+ rest,, [<A_#l C# F> <A_#l C# F> <A_#l C# F>] \
+ rest,, [<A_#l C# F#> <A_#l C# F#> <A_#l C# F#>]
+=3, 4 g-emph, 16 rest 8. c# 2 e
+I0.1 .13 mp
+i0.3 .40 poco rit .70 .  .  .
+/
+2 bars | 6 7 7 7 7 9 9 7 8 7 8 7 9 9 9 6 \
+ | 6 6 6 8.5  7.5 6 7 6  6 6 6 6  6 6 6 5 |
+| 3.0
+=1 8 Ab F# G c# 2 c#-emph
+r0.7 .01 wie .12 den .23 Grab .36 ent  -  stie .70 -
+i0.01 .12 cresc .30 . .40 . .50 . .60 . .70 . .80 . .90 .
+=2' 4 D# E F G
+=3' 16 rest'' [<b c~x> <b c~x> <b c~x>] \
+ rest'' [<f# gx c~#> <f# gx c~#> <f# gx c~#>] \
+ rest'' [<g bbxl c~#l> rest' <g bbxl c~#l>] \
+ rest'' [<g bnxl c~#l> <g bx c~#> <g bx c~#>]
+=3, 4 d# 4. B E
+i0.3   a tempo
+
+| .75 .75 .78 .82
+=1 4 c# 2. rest
+r0.7  .01 gen .
+i0.1 .18 dim .30 . .40 . .50 . .60 . .70 . .80 . .90 .
+=2' 8 c# 4 Bn 8 Bb 8. [F# D 8 D#]
+=3' 16 rest'' [<g# e~ g~> rest'' <g# e~ g~>] \
+ [<gnl c~# e~> <g c~# e~> rest'' <g c~# e~>] \
+ rest' [<e g> <e g>] rest' \
+ [<e g> <e g> rest' <e g>]
+=3, 2 Bb A
+i0.2 .12 rit .30 . .40 . .50 . .60 . .70 . .80 . .90 .
+
+4 systems /19 30 19-30-19 / 19 40 19-26-19 \
+ / 19 40 19-40-19/ 19 30 19-48-19 15/
+pagenum
+innerhead De Profundis
+leftfoot (c) Lama Anagarika Govinda and Peter J Billam 1980.
+/
+2 bars | 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 6 | 9 9 9 9 9 8 8 8 8 8 8 7 |
+| .86 .90 .90 .90
+i0.2 .01 meno mosso
+=1 4 rest 83 [A B'-I3 c'] 2 d(1
+r0.7 .25 Noch  ist  es .50 Nacht .80 -
+i0.01 .01 . .08 .
+I0.01 .15 pp
+=2' 4. E 8 F# 2 G
+=3' 16 vol70 rest' [g a g] [c~ g rest' g] \
+ rest' vol60 [<a bx c~> <a bx c~> <a bx c~>] \
+ [<a bx c~> <a bx c~> <a bx c~> <a bx c~>]
+=3, 2 vol85 F D
+i0.2 .20 meno mosso
+I0.3 .45 p
+| 3.6
+=1 2 d)1 rest
+=2' 2 vol85 Ab vol60  83 [<C G B> <C G B> <C G B>] [<C G B> <C G B> <C G B>]
+=2, 83 rest,, vol60 [<C Ebx-I3 F> <C Ebx F>] \
+ [<C Ebx F> <C Ebx-I3 F> <C Ebx F>] 2 blank
+=3' 2 vol85 D D
+/
+2 bars | 8 8 8 8 8 9 9 9 9 8 8 7 | 9 9 8 9 9 10 10 10 10 10 10 8 |
+|
+=1 4 rest 8. rest 16 d 8. eb-emph 16 d 8 d d
+r0.7 .40 doch hör' .67 ich .76 Vö - gel
+=2' vol60  83 [<C G B> <C G B> <C G B>] [<C G B> <C G B> <C G B>] \
+ 83 [<C-emph Eb G B> <C Eb G B> <C Eb G B>] [<C En G B> <C E G B> <C E G B>]
+=3' 2 vol85 D D
+
+|
+=1 8. en-ten 8 d 8. rest 2 rest
+r0.7 .02 flie   -   gen
+=2' vol60  83 [<C# E G B-ten> <C# E G B> <C# E G B>] \
+ [<D F Gx B> <D F Gx B> <D F Gx B>] \
+ 83 [<D F# Gx B> <D F# Gx B> <D F# Gx B>] [<D F# Gx B> <D F# Gx B> <D F# Gx B>]
+=3' 2. vol90 D{2 83 [Fn}2 F#{2-I3 G]
+
+/
+2 bars | 4 4 4 4 4 4 4 4 5.5 5.5 5.5 3 \
+ | 13/12 5 5 5 5 5 5 5 5 5 3.3 3.5 3.5 2.5 |
+|
+=1 8 rest d f-emph c# [cn' A] 4 F#
+r0.7 .12 und .23 seh' .34 am .50 klaren .73 Him .92 -
+=2' vol60  83 [<D Fn Gx Bb> <D F Gx Bb> <D F Gx Bb>] \
+ [<D F Gx Bb> <D F Gx Bb> <D F Gx Bb>] \
+ [<D F Gx Bb> <D F Gx Bb> <D F Gx Bb>] \
+ [<D F#l G#xl Bb> <D F#l G#xl Bb> <D F#l G#xl Bb>]
+=3' 4. vol85 A{2 8 B 2 c}2
+| 3.9
+b0.3 .81 3 : 4 / 3
+=1 13/12 2 Ab 4 rest 23 blank
+=1 13/12 8 blank 2. blank 8 [Bb{1 c}1] db
+r0.7 .04 mel
+r0.5 .79 Ster   -   ne
+=2' 13/12 83 vol60 [<D Exl F Abxl Bbl> <D Exl F Abxl Bbl> <D Exl F Abxl Bbl>] \
+ [<D Exl F Abxl Bbl> <D Exl F Abxl Bbl> <D Exl F Abxl Bbl>] \
+ [<D Exl F Abxl Bbl> <D Exl F Abxl Bbl> <D Exl F Abxl Bbl>] \
+ [<C# E Bb> <C# E Bb> <C# E Bb>] <C# E Bb>
+i0.7 .28 dim .40 . .50 . .60 . .70 . .80 .
+=3' 13/12 4. vol60 blank blank blank 8 [bn b b] b
+=3, 13/12 4. vol85 Bb d 4 ebl(2 83 e)2
+/
+4 bars | 4/4 6 7 7 7 7 7 6 7 7 7 7 5 \
+ | 6 7 7 7 7 7 7 7 7 7 7 5 | 19 | 19 ||
+| 3.6
+=1 4/4 2. eb 4 eb(1
+r0.6 .05 fun .40 - .75 keln .95 -
+i0.1 .28 dim .40 . .50 . .60 . .70 . .80 .
+=2' 4/4 2 vol85 An An
+=2, 4/4 83  rest,, vol55 [<Db F> <Db F>] [<Db F> <Db F> <Db F>] \
+ rest,, [<Db F> <Db F>] [<Db F> <Db F> <Db F>]
+=3' 4/4 83  rest'' vol55 [<a# c~> <a# c~>] \
+ [<a# c~> <a# c~> <a# c~>] \
+ rest'' [<a# c~> <a# c~>] [<a# c~> <a# c~> <a# c~>]
+=3, 4/4 2 vol85 eb eb
+i0.2 .40 poce rit .60 . .70 . .80 . .90 .
+|
+=1 1 eb)1
+=2' 1 vol85 An
+=2, 83  rest,, vol50 [<Db F> <Db F>] [<Db F> <Db F> <Db F>] \
+ [<Db F> <Db F> <Db F>] [<Db F> <Db F> <Db F>]
+=3' 83  rest'' vol50 [<a# c~> <a# c~>] \
+ [<a# c~> <a# c~> <a# c~>] \
+ [<a# c~> <a# c~> <a# c~>] [<a# c~> <a# c~> <a# c~>]
+=3, 1 vol85 eb
+i0.7 .95 sehr sorgfaltig
+|
+=1 2 blank 1 rest
+=2 1 vol50 <Db(2 F(1>
+=3 1 vol50 <a#(2 c~(1>
+I0.01 .65 pppp
+|
+=1 2 blank 1 rest
+=2 1 <Db)2 F)1>
+=3 1 <a#)2 c~)1>
+=3 1 vol30 leg150 E_b
+midi pause 3.0
+@
+
+
+1.6
+log
+@fully tweaked and adjusted ?
+@
+text
+@d1 3
+a3 3
+5 systems 10 /19 / 19 35 19-20-19 \
+ / 19 35 19-25-19/ 19 40 19-25-19/ 19 40 19-25-19/
+pagenum 3
+d5 2
+d157 3
+a159 3
+4 systems 10 /19 30 19-40-19 / 19 35 19-40-19 \
+ / 19 30 19-40-19/ 19 35 19-45-19/
+pagenum
+d161 1
+d167 1
+d255 2
+a256 2
+4 systems 10 /19 30 19-40-19 / 19 35 19-40-19 \
+ / 19 40 19-40-19/ 19 35 19-35-19/
+d259 1
+d352 2
+a353 2
+4 systems 10 /19 30 19-30-19 / 19 40 19-26-19 \
+ / 19 40 19-40-19/ 19 30 19-48-19 10/
+d356 1
+@
+
+
+1.5
+log
+@expression marks and spacing of 1st page
+@
+text
+@d166 1
+a166 1
+=2 8 vol90 B_r 4. rest 8 rest 16 B_b rest 4 rest
+d168 2
+a169 2
+I0.5 .01 f
+=3' 8 vol90 <Dr e gx ab> 4. rest 8 rest 16 <D f gx an> rest 4 rest
+d175 1
+a175 1
+=3 8 rest 4 Eb 8 rest 4 A 8 rest 16 [A G]
+d181 2
+d184 4
+a187 2
+ rest' [<g c~> <g c~>] [<g c~#> <g c~#> <g c~#>]
+=3, 2 F# G
+d194 1
+a194 1
+I0.1 .70 f
+d196 1
+a196 1
+=3' 16 rest' [<g e~b> <g e~b> <g e~b>] [<g e~n> <g e~> rest' <g d~>] \
+d202 1
+a202 1
+=2' 4 c-emph Ab-emph Eb-emph D(1-emph
+d205 2
+a206 1
+=3, 4 f f 4. f 8 G#-emph,
+d213 1
+a213 1
+=2' 8 D)1 4 C# C# C# 8 D(1
+d220 1
+a220 1
+=2' 8 D)1 4 E E E 8 E
+d225 1
+a225 1
+2 bars | 6 6 6 6  6 7 7 7  7 7 7 6  6 6 6 5 \
+d230 2
+a231 1
+=2' 4 F c 8. Bn Bb 8 G
+d234 1
+d236 3
+a238 1
+=3, 4 Ab F 8. G f 8 Bb
+d242 3
+a244 1
+=2' 4 G A 8 A 4 Bb 8 E
+d248 2
+a249 2
+ rest'' [<g bbl d~#> rest'' <g bb c~x>]
+=3, 4. E g 4 c#
+d252 1
+a252 1
+ / 19 30 19-40-19/ 19 35 19-35-19/
+d256 1
+a256 1
+2 bars | 48 | 48 |
+d259 2
+a260 2
+r0.7 .01 mir .38 er - worb .65 - .75 en .
+=2' 4 F 16 F 8. Ab Ab An 8 B
+d262 1
+a262 1
+ [<g# bx> rest'' <a c~n d~x> <a c~n d~x>] \
+d268 1
+a268 1
+r0.7 .93 Die
+d273 3
+a275 1
+
+d277 3
+a279 3
+=1 8 leg85 d E 4 E 8. rest 16 E F Ab An c#
+r0.7 .02 Freiheit .25 kam, .66 so wie ein Blitz im
+=2' vol-10 4 B B 4. Bb  8 An
+d283 1
+a283 1
+ rest,, [<A_b Dx E> rest,, <A_bl Ebx F>]
+d286 1
+a286 1
+I0.2 .80 ff
+d291 1
+a291 1
+ rest'' [<g bbl c~#l> <g bbl c~#l> <g bbl c~#l>] \
+d293 1
+a293 1
+ rest'' [<ax bb d~n> rest'' <ax bb d~>]
+d295 3
+a298 1
+
+d300 1
+a300 1
+r0.7 .01 blen .35 - .75 det
+d308 1
+d311 1
+a311 1
+r0.7 .01 steh' .25 ich ,
+d314 9
+a322 4
+ [<C# A Bnx> rest, rest, <G_ A_x E>] \
+ rest,, [<A_# C# F> <A_# C# F> <A_# C# F>] \
+ rest,, [<A_# C# F#> <A_# C# F#> <A_# C# F#>]
+=3, 4 g 16 rest, 8. c# 2 e
+d325 2
+a326 1
+r0.7 .01 wie .12 den .25 Grab .38 ent - stie .70 -
+d333 1
+d337 3
+a339 2
+r0.7  - .01 gen .
+=2' 8 c# 4 Bn 8 Bb 8. F# D 8 D#
+d341 1
+a341 1
+ [<gn c~# e~> <gn c~# e~> rest'' <gn c~# e~>] \
+d345 1
+d347 2
+a348 2
+4 systems 10 /19 30 19-30-19 / 19 35 19-30-19 \
+ / 19 35 19-45-19/ 19 22 19-48-19/
+d352 1
+a352 1
+2 bars | 48 | 48 |
+d354 1
+d357 2
+d364 2
+d372 2
+d376 1
+a376 1
+r0.7 .42 doch hör' .69 ich  Vö - gel
+d378 1
+a378 1
+ 83 [<C Eb G B> <C Eb G B> <C Eb G B>] [<C Eb G B> <C Eb G B> <C Eb G B>]
+d383 2
+a384 2
+r0.7 .04 flie - gen
+=2' vol60  83 [<C# E G B> <C# E G B> <C# E G B>] \
+d387 1
+a387 1
+=3' 2. vol90 D{2 83 [F}2 F# G]
+d390 2
+a391 1
+2 bars | 48 | 13/12 52 |
+d393 2
+a394 2
+=1 8 rest d f-emph c# cn A 4 F#
+r0.7 .12 und .25 seh' .37 am .52 klaren .75 Him .90 -
+d399 1
+a399 1
+=3' 4. vol85 A 8 B 2 c
+d401 1
+a401 1
+b0.3 .76 3 : 4 / 3
+d404 2
+a405 1
+r0.6   - .04 mel .72 Ster  - .89 ne
+d409 2
+a410 1
+ [<C# En Bb> <C# E Bb> <C# E Bb>] <C# E Bb>
+d419 1
+d427 1
+d437 1
+a437 1
+i0.6 .99 sehr sorgfaltig
+d439 1
+a439 1
+=1 2 blank 1 rest-fermata
+d442 1
+a442 1
+I0.01 .70 pppp
+d447 1
+a447 1
+=3 1 vol30 leg150 F_
+@
+
+
+1.4
+log
+@squeeze onto four pages
+@
+text
+@d9 1
+a9 1
+4 bars | 96 | 48 | 48 | 4/4 48 |
+d11 2
+d14 2
+a15 1
+r0.2 .05 Durch .55 tie .70 - .88 fe
+d18 1
+a18 1
+r0.2 .01 Fin .40 - .75 ster .93 -
+d21 1
+a21 1
+r0.2 .01 nis
+d24 1
+a24 1
+r0.2 .25 bin .38 ich .88 ge  -
+d26 1
+a26 1
+5 bars | 48 | 48 | 48 |
+d29 1
+a29 1
+r0.7  - .05 gan - gen :
+d31 1
+d34 1
+d38 1
+a38 1
+r0.7 .75 Durch
+d43 1
+a43 1
+r0.7 .01 dun .30 - .50 kle ,
+d48 1
+d55 1
+a55 1
+r0.6 .06 ster - nen  .38 - .58 lose
+d59 1
+a59 1
+5 bars | 48 | 48 | 48 |
+d66 1
+a66 1
+I0.1 .11 p
+d70 1
+a70 1
+=2, 2 <err f#xl g#l bn> <enl fnxl gnl bb>
+d74 1
+a74 1
+r0.6 .01 Wüst - .25 enschluchten
+d77 1
+d79 2
+d84 1
+d86 2
+d90 2
+a91 2
+r0.7 .01 Mee - .25 res - gründe ,
+=2, 2 <c#r ex f g#x> vol+5 <c#x d gbxl abl>
+d93 1
+a93 1
+=3 2 B_b{'1 vol+5 B_b
+d95 1
+a95 1
+4 bars | 48 | 48 | 48 |
+d98 2
+a99 2
+r0.7 .25 Durch .50 Feu .80 -
+=2 2 <drr ebxl gbx abl> vol+5 <d gnl abxl b>
+d105 2
+a106 2
+r0.7 .02 er  -  wälle .72 und durch
+=2 2 <dr f anxl bbl> vol+5 <d#xl f g#x a>
+d108 1
+a108 1
+=3 2 Dn{'1 vol+5 D
+d111 1
+a111 1
+r0.7 .01 Höl .18 - .26 len  - .53 schlünde
+d113 2
+a114 1
+I0.6   f
+d119 2
+a120 1
+=2, 2 vol-5 <Bnrr ebl gbxl abl> 8 rest 4. vol-5 <Bbl(4 dx(2 enl(1 gn(3>
+d122 1
+d124 1
+a124 1
+5 bars | 48 | 48 | 48 |
+d127 2
+a128 2
+r0.6 .01 in .25 mei .47 - .62 nes .85 Da -
+=2, 8 <Bbl)4 dx)2 enl)1 gn)3> rest rest vol-5 <d(4 ex(2 g(1 bb(3> \
+d130 1
+a130 1
+=3 4 F_)1 8 rest vol-5 8 F_(2 2 F_)2
+d134 2
+a135 2
+=2 8 rest 2.. vol-5 <d f#x g bn>
+=3 8 rest 2.. vol-5 F_#
+d139 2
+a140 2
+=2 8 rest 2.. vol-5 <d f#x g b> treble
+=3 8 rest 2.. vol-5 F_#
+d147 1
+d149 3
+a151 5
+I0.9 .84 mf
+r0.7 .93 Und
+=2 1 <d)4 g#x)2 a)1 bx)3>
+=2 2 blank vol-10 <e~ g~ a~bxl b~bbl-fermata>
+I0.5 .94 f
+d156 1
+a156 1
+ / 19 30 19-40-19/ 19 35 19-35-19/
+d160 3
+a162 1
+3 bars | 48 | 48 |
+d164 2
+a165 2
+=1 8 d E 4 E 8. rest 16 E [F Ab] An c
+r0.7 .01 Freiheit kam, .67 als Allem ich ge -
+d168 1
+d172 1
+a172 1
+r0.7 .01 - storben , .82 was
+d177 2
+a178 2
+=1 8. [G 16 Bb'] Bn c 8 en(1 4 e)1 8 rest Ab
+r0.7 .04 gestern .25 mir noch traut .87 und
+d185 2
+a186 1
+2 bars | 48 | 48 |
+d189 1
+a189 1
+r0.7 .01 Hei .15 - .25 mat .75 war ,
+d202 3
+d216 2
+a217 2
+=3' 16 rest' [g <bb d~#> g] [g g <bb d~#> g] \
+ rest' [g <bn d~#> g] [g g <c~x d~#> g] 
+d219 3
+d400 1
+d405 1
+a405 2
+I0.01 .80 pppp
+i0.6 .35 sehr sorgfaltig
+@
+
+
+1.3
+log
+@typed in roughly till end
+@
+text
+@d1 2
+a2 2
+4 systems 10 /19 / 19 35 19-20-19 \
+ / 19 30 19-25-19/ 19 35 19-35-19/
+d23 1
+a23 1
+3 bars | 48 | 48 | 48 |
+d43 2
+a44 2
+=1 4. c{1--ten 8 Bb}1 4 Bn rest
+r0.7 .01 dum .30 - .50 pfe ,
+d49 1
+a49 1
+r0.7 .08 sternen  .38 - .58 lose
+d52 2
+d56 1
+a56 1
+r0.7 .01 Nacht ,
+d63 1
+a63 1
+r0.7 .25 Durch
+d68 1
+a68 1
+r0.7 .01 Wüst - .25 enschluchten
+d73 1
+a73 1
+r0.7 .25 und .50 durch
+a75 7
+
+4 systems 10 /19 30 19-30-19 / 19 35 19-20-19 \
+ / 19 30 19-25-19/ 19 35 19-35-19/
+pagenum
+innerhead De Profundis
+/
+3 bars | 48 | 48 | 48 |
+d82 2
+a96 1
+
+d108 2
+d140 7
+d148 2
+a149 2
+=1 8 d E 4 E 8. rest 16 E F Ab An c
+r0.7 .01 Freiheit kam, .67 als Allem ich gestorben ,
+d155 1
+a155 1
+r0.7 .82 was
+a158 7
+
+4 systems 10 /19 30 19-40-19 / 19 35 19-40-19 \
+ / 19 30 19-40-19/ 19 35 19-35-19/
+pagenum
+innerhead De Profundis
+/
+2 bars | 48 | 48 |
+d160 2
+a161 2
+=1 8. G 16 Bb Bn c 8 en(1 4 e)1 8 rest Ab
+r0.7 .01 gestern .25 mir noch traut .87 und
+d167 2
+d179 1
+a179 1
+r0.7  .75 was ich in
+d186 1
+a186 1
+r0.7 .01 har .15 - .25 ter .50 Mü .65 - .75 he ,
+d193 1
+a193 1
+r0.6 .01 Jahr .25 um .50 Jahr .88 in
+d215 7
+d224 1
+a224 1
+r0.7 .01 mir .38 erworb .65 - .75 en .
+a230 7
+
+4 systems 10 /19 30 19-40-19 / 19 35 19-40-19 \
+ / 19 30 19-40-19/ 19 35 19-35-19/
+pagenum
+innerhead De Profundis
+/
+2 bars | 48 | 48 |
+d238 1
+d241 1
+a241 1
+r0.7 .01 Freiheit kam, .67 so wie ein Blitz im
+a247 1
+
+d251 1
+a251 1
+r0.7 .01 Dun .15 - .25 keln , .93 Ge -
+d259 1
+a268 1
+
+d297 7
+d306 1
+a306 1
+r0.7 .25 Noch ist es .50 Nacht .80 -
+a311 7
+
+4 systems 10 /19 30 19-30-19 / 19 35 19-30-19 \
+ / 19 30 19-45-19/ 19 25 19-45-19/
+pagenum
+innerhead De Profundis
+/
+2 bars | 48 | 48 |
+d327 1
+a327 1
+r0.7 .02 flie - gen
+d332 3
+a342 3
+
+/
+2 bars | 13/12 52 | 4/4 48 |
+d347 2
+a348 2
+r0.7  - .01 mel .72 Ster - ne
+=2' 13/2 83 vol60 [<D Exl F Abxl Bbl> <D Exl F Abxl Bbl> <D Exl F Abxl Bbl>] \
+d354 3
+d359 1
+a359 1
+r0.7 .03 fun .40 - .75 keln .95 -
+a366 2
+/
+3 bars | 48 | 22 | 22 ||
+d387 1
+@
+
+
+1.2
+log
+@up to harter Muehe
+@
+text
+@d114 1
+a114 1
+r0.7 .01 in .25 mei - .62 nes .87 Da -
+d119 2
+a120 2
+=1 4 D D(1 8 D)1 4. D
+r0.7 .01 - .25 seins .62 tief .90 -
+d125 1
+a125 1
+r0.7 .01 sten .50 Schlacht .
+d155 2
+a156 2
+4 systems 10 /19 30 19-40-19 / 19 35 19-20-19 \
+ / 19 30 19-25-19/ 19 35 19-35-19/
+d163 1
+a163 1
+r0.7 .01 gestern .25 mir noch traut .82 und
+d167 1
+a167 1
+ rest' [<g c~> <g c~>] [<g c~#> <g c~#-I3> <g c~#>]
+d185 1
+a185 1
+=1 4 c# cn B 8. Bb 16 rest
+d188 198
+a385 1
+=3, 2 Eb 4. Eb 8 Db
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d124 1
+a124 1
+=1 4 D rest 2 D
+d134 1
+a134 1
+=1 2 rest 4.. rest-fermata 16 d
+d154 35
+@

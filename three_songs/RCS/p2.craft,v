@@ -1,0 +1,82 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	96.07.01.13.04.12;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.07.01.12.57.44;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@inside-cover of In my craft
+@
+
+
+1.2
+log
+@neatened
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 2.0i
+.ce 3
+\f3\s+9In my craft or sullen art\s-9\fP
+.sp 0.5i
+\f3from "Three Songs"\fP
+.sp 0.7i
+.LP
+.sp 0.4i
+\f2"In my craft or sullen art"\fP
+by Dylan Thomas,
+.br
+\(co The Trustees for the Copyrights of the late Dylan Thomas, 1993
+.br
+\(co 1993 Peter Billam
+.br
+Permission has been kindly granted by David Higham Associates
+for performance or recording of this song.
+.LP
+.sp 1.5i
+.ce 100
+Peter Billam, \s-1GPO B\s0ox 669, Hobart \s-1TAS\s0 7001, Australia
+.br
+.sp 0.3i
+\s-2This printing 1 July 1996.\s0
+@
+
+
+1.1
+log
+@dropped other two poems
+@
+text
+@d8 1
+a8 1
+.ce 2
+d10 1
+a10 1
+.br
+a11 4
+.br
+.sp 0.5i
+\f3\s+4music by Peter Billam\s0\fP
+.br
+d25 1
+a25 1
+.sp 0.8i
+@

@@ -1,0 +1,52 @@
+6 systems /19 35 19/ 19 40 19/
+midi channel 0 patch 73 pan 2
+midi channel 1 patch 73 pan 64
+midi channel 2 patch 73 pan 125
+# 20140529 could use some harmonic de-rough-edging.  A bit boring :-(
+/
+2 bars | 60 | 60 |
+| 3.3
+=1' treble cha0 leg102 2 rest' 16 [eb b c~ a]
+=1, treble cha1 leg102 2. 2. rest,
+=2  treble cha2 leg102 16 [C G# A F#] [E D# E F#] 8 [G D#]
+|
+=1' cha0 8 [g# f#] 4 d rest'
+=1, cha1 16 [D A# B G#] [F# Fn F# G#] 8 [An F#]
+=2  cha2 4 F# rest 16 [c g# a f#]
+|
+=1' cha0 4 rest' 16 [B c# d B] [A G# A B]
+=1, cha1 4 An rest,, 16 [C E F# G#]
+=2  cha2 16 [fn c~# d~ b] 8 [a f] 4 d
+|
+=1' cha0 4 c# rest' 16 [B g a f]
+=1, cha1 8 [Gn E] 4 C# Fn
+=2  cha2 16 [g d~# e~ c~#] [b a# b c~#] 8 [d~# b]
+/
+3 bars | 40 | 40 | 40 |
+| 2.2
+=1' cha0 8 [gb d] 4 c
+=1, cha1 16 [Eb A Bb Ab] 8 [Gb Eb]
+=2  cha2 4 bb 16 [eb a bb gb]
+|
+=1' cha0 4 rest' 16 [f# b c~ d~]
+=1, cha1 16 [E G# A F#] 8 [E C]
+=2  cha2 16 [a g# f# g#] 8 [a f#]
+|
+=1' cha0 8 [c~ b] [a g]
+=1, cha1 16 [Eb F# G Fn] 8 [Eb C]
+=2  cha2 4 g 16 [c d eb f]
+/
+3 bars | 40 | 60 | 60 |
+|
+=1' cha0 4 f# 8 [e d#]
+=1, cha1 8 [C# D#] 16 [F# A B A]
+=2 cha2 16 [eb db c Bb] 8 [A F#]
+| 3.3
+=1' cha0 2 e 4 d#
+=1, cha1 8 [Ab Bb c Bb] [Anl F]
+=2  cha2 leg98 16 [C F# G# F#] [E D E F#] 4 Gn
+|
+=1' cha0 2 e
+=1, cha1 16 [F# G# A G#] 8 [F# E] 4 F#
+=2  cha2 4 C
+

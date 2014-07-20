@@ -1,0 +1,91 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.07.26.08.17.45;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@solo line thing from book AK
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@12 systems /19/
+pagenum 1
+title AK 20120722
+midi channel 0 patch 73
+/
+3 bars | 13/8 52 | 8/8 32 | 13/8 52 |
+| 1.95
+=1' treble 13/8 cha0 leg93 8 [c G c c G] [db G db] [c G c c G]
+| 1.2
+=1' 8/8 8 [B G B B G] [c G c]
+| 1.95
+=1' 13/8 8 [c# G c# c# G] [d G d] [c# G c# c# G]
+/
+3 bars | 52 | 8/8 32 | 13/8 52 |
+|
+=1, 8 [d G d d G] [eb G eb] [d G d d G] 
+| 1.2
+=1, 8/8 8 [d# G d# d# G] [e G e]
+| 1.95
+=1 13/8 4 f 8 G 4 f e 8 G
+/
+3 bars | 8/8 32 | 13/8 52 || 52 |
+| 1.2
+=1 8/8 4 f 8 [Bb db G,] 4 e 8 db
+| 1.95
+=1 13/8 4 f 8 [Bn dn G,] 4 e 8 B 4 f 8 [Bb db G,]
+|
+=1, 4 f 8 [Bb db G] [e Bb dn] 4 f 8 [Bb db G]
+/
+3 bars | 8/8 32 | 13/8 52 | 52 |
+| 1.2
+il0.5 .01 10
+=1 8/8 4 f 8 [B' c#' G] [e B c#]
+| 1.95
+=1, 13/8 4 f 8 [B eb Ab] [gb B d] 4 f 8 [B eb Ab]
+|
+=1, 4 gb 8 [B d Ab] [f B eb] 4 gb 8 [B d Ab]
+/
+3 bars | 8/8 32 || 13/8 52 | 8/8 32 |
+| 1.2
+=1 8/8 4 gb 8 [c en Ab,] [f B d]
+| 1.95
+=1 13/8 4 gb 8 [c d Ab,] 4 ab 8 Gb 4 an 8 [B eb F,]
+| 1.2
+=1, 8/8 4 ab 8 [c e Gb] [gb Ab c]
+/
+3 bars | 13/8 52 | 52 | 8/8 32 |
+| 1.95
+=1, 13/8 4 f 8 [B eb A] [f d B] 4 f 8 [B eb A]
+|
+=1 4 g 8 [c#' G c#'] 4 ab 8 d 4 g 8 [c#' G c#']
+| 1.2
+=1 8/8 4 g# 8 [c' d' F#] [a G, eb]
+/
+3 bars | 13/8 52 | 8/8 32 | 13/8 52 ||
+| 1.95
+=1 13/8 4 ab 8 [d e Bb] 4 bb 8 Ab 4 bn 8 [c# f G,]
+| 1.2
+il0.6 .27 20
+=1 8/8 4 c~ 8 [d f# G#,] 4 d~ 8 c
+| 1.95
+=1 13/8 4 e~b 8 [B f A,] 4 f~ 8 eb 4 f~# 8 [d ab c]
+/
+3 bars | 13/8 52 | 8/8 32 | 13/8 52 |
+| 1.95
+=1 4 g~
+@

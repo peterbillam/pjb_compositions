@@ -1,0 +1,786 @@
+head	1.10;
+access;
+symbols;
+locks
+	pjb:1.10; strict;
+comment	@# @;
+
+
+1.10
+date	2013.08.30.06.07.06;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2013.08.30.06.01.56;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2013.08.30.04.06.30;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.08.30.03.41.18;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.08.25.05.12.26;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.08.24.11.29.24;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.08.22.11.16.47;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.08.22.08.23.28;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.08.21.09.14.34;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.08.21.03.13.33;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@from sketchbook AM pp.28-33
+@
+
+
+1.10
+log
+@space bars 15,16 also
+@
+text
+@5 systems 40 /19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-35-19 10/
+pagenum
+title 1n1 lines, from book AM 28 - 33
+midi channel 0 patch 0
+
+/
+4 bars | 10 10 10 10 10 10 10 10 13 10 13 9 | 5/4 18 18 18 20 \
+ | 18 18 18 20 | 18 18 18 20 |
+| 3.6
+I0.8     f
+=1, treble 6/4 cha0 leg100 vol120 1 d~~ 8 vol55 [D Eb D Eb]
+I0.7 .55 pp
+=2  bass   6/4 cha0 leg100 1 vol90  D_-P
+I0.5   mf
+| 3.0
+=1 5/4 1 D 4 Eb
+=2 5/4 1 blank
+|
+=1 vol55 1 F# 4 F#
+=2 vol55 1 d~ 4 d~
+|
+=1 vol60 1 <Eb(2 G(1> 4 <Eb)2(2 G)1(1>
+=2 vol60 1 rest' 4 <bb d~>
+/
+4 bars | 90 | 100 | 10 10 10 10 10 10 10 10 13 10 13 9 | 100 |
+|
+il0.7 .03 5
+=1 vol60 2. <Eb)2 G)1> 2 <Enl G#>
+=2 vol60 2. <a c~#> 2 <abl c~n>
+| 3.6
+I0.8 .96 f
+=1 6/4 1. <Fn A>
+=2 6/4 1. <g-P bn>
+I0.5 .93 mf
+| 3.6
+=1, 1 vol120 d~~ 8 vol55 [D Eb D Eb]
+I0.7 .55 pp
+=2  1 vol90  D_
+| 3.0
+=1 5/4 vol55 2.. D 4. C#
+=2 5/4 vol55 1 rest
+/
+4 bars | 120 | 70 | 10 10 10 10 10 10 13 10 13 9 | 80 |
+| 3.6
+=1 6/4 1 <D F#> 2 <D# G>
+=2 6/4 1 bb 2 <a d~bl>
+| 2.4
+il0.7 .03 10
+=1 4/4 1 <Ex F#>
+=2 4/4 1 <a-P c~>
+I0.5 .99 mf
+| 3.0
+I0.8 f
+=1, 5/4 2. vol120 d~~ 8 vol55 [D Eb D Eb]
+I0.7 .50 pp
+=2  5/4 2. vol90  D_ vol55
+| 2.4 
+=1 4/4 2. D  4 Eb
+=2 4/4 2. c~ 4 b
+/
+2 bars | 5/4 100 | 4/4 80 |
+| 3.0
+=1 5/4 43 A G#-I3 D 8 [Eb A] [G# D] [Eb A]
+=2 5/4 43 f c~-I3 b 8 [f c~] [b f] [c~ b]
+| 2.4
+=1' 4/4 vol60 8 [G# E] [F B] [A# E] 83 [F B-I3 A#]
+=2, 4/4 vol60 8 [f d~] [c~# g] [d~ c~#] 83 [g d~-I3 c~#]
+/
+2 bars | 6 7 7 6 7 6 7 7 6 6 7 5 \
+  | 6/4 4 4 5.8 4 5.5  3 4 4 4 3 4 4 3 4 4 3 4 4 4 3 4 4 3 4 4 3 4 4 4 2 |
+|
+il0.9 .01 15
+=1' vol65 83 [E F-I3 B] [A# E-I3 F] [B A#-I3 E] [F B-I3 A#]
+=2, vol65 83 [g d~-I3 c~#] [g d~-I3 c~#] [g d~-I3 c~#] [g d~-I3 c~#]
+| 3.6
+=1' 6/4 vol70 165 [E-emph F B-I5 A# F] 83 [Gb c-I3 B] [F c-I3 B] \
+ [F c-I3 B] [F c-I3 B] [F c-I3 B]
+i0.7 .03 cresc  poco a poco .  .  .
+=2 85 blank 85. blank-I5 1 blank
+=2, 6/4 vol70 85. [g-* 85 d] 83 [eb a-I3 g#] [d eb-I3 a] \
+ [g# d-I3 eb] [a g#-I3 d] [eb a-I3 g#]
+
+6 systems / 19-30-19/ 19-30-19/ 19-34-19/ 19-30-19/ 19-30-19/ 19-30-19/
+pagenum
+innerhead 1n1 lines, from book AM 28 - 33
+
+/
+2 bars | 5/4 7.5 5 5 5 7 5 5 5 5 4 5 5 4 5 5 5 5 5 5 4 5 5 4 5 3 \
+ | 5 5 5 5 5 4 5 5 5 4 4 5 5 5 4 4 5 5 5 4 4 5 5 5 3 |
+| 3.0
+=1' 5/4 vol75 165 [F-emph F# c-I5-,-I5, B G] 83 [Ab d-I3 c#] \
+ [G Ab-I3 d] [c# G-I3 Ab] [d c#-I3 G]
+=2, 5/4 vol75 85. [a 85 e] 83 [b a#-I3 e] [b a#-I3 e] [b a#-I3 e] [b a#-I3 e]
+|
+=1 85 blank 85. blank--I5 1 blank
+=1' vol80 85. [G# 85 A] 83 [D A-I3 G#] [D A-I3 G#] [D A-I3 G#] [D A-I3 G#]
+=2, vol80 165 [B-emph c f-I5 e B] 83 [c f e] [B c f] [e B c] [f e B]
+/
+2 bars | 3/4 5 4 4 5 4 4 5 4 4 5 4 3 \
+ | 5/4 5 4 5 4 5  3 4 4 3 4  4 4 4 3 4  3 4 4 4 4  3 4 4 3 3 |
+| 1.8
+=1' 3/4 vol90 16 [G Ab d G] [Ab d G Ab] [d G Ab d]
+=2, 3/4 vol90 16 [c f e B] [c f e B] [c f e B]
+
+# 20130829 Unique solutions!
+# |
+# could lead onward, if LH ends on e
+# =1 4 C Db G F#
+# =2 4 A Bb e d#
+# |
+# first
+# =1 4 E F B A#
+# =2 4 G Ab d c#
+# |
+# could lead onward, if LH ends on F, RH on A G# or on d
+# =1 4 D Eb A G#
+# =2 4 F Gb c B
+# |
+# =1 4 G Ab d c#
+# =2 4 e f b a#
+# |
+# =1 4 F Gb c B
+# =2 4 d eb a g#
+# |
+# =1 4 A Bb e d#
+# =2 4 c db g f#
+# |
+# could lead onward, if LH ends on e, RH on d
+# =1' 8 [D A G#] [Gn Ab d]
+# =2  4 B c f e
+
+| 3.0
+il0.7 .03 20
+=1  5/4 vol95 165 [c-emph db g-I5-I5, f# c] 16 [db g f# c] \
+ [db g f# c] [db g f# c] [db g f# c]
+=2' 5/4 vol95 85. [Bb 85 A] 16 [e A Bb e] [A Bb e A] [Bb e A Bb] [e A Bb e]
+/
+2 bars | 4 4 5.5  4 4  3 4 4 5 3  \
+ 3 4.5 4 4 3  4.5 4 4 3 4.5  4.5 4 4 4 3 \
+   | 4/4 5 4 5.4 4 5  3 4 4 4 5  3 4 3 4 3  3 4 4 4 3|
+| 3.0
+=1  vol100 85. [c# 85 cn] 16 [B e A, A#,] [d' G G# c'] [F Gb B' E] [F An D Eb]
+=2  vol100 165 [E-emph F B-I5 A# F] 8 [G 16 rest f'] \
+ 16 [b e f a] [d eb g c,] [db f B, c,]
+| 2.4
+#=1 4 <F_(4 A_(2 B_x(1>
+=1 4/4 4 G 43 <F_ A_ B_x> 83 <F_#l G_#xl C> \
+   4 <G_n(4 B_x(2 C#(1> 43 <G_)4 B_x)2 C#)1> 83 <G_#l A_#xl D>
+=2' 4/4 165 [e eb A-I5 A# d] 83 [db G-I3 G#] [c B-I3 F] [F# B-I3 Bb]
+/
+2 bars | 3/4 5.7 4 4 4 5.5  4 4 5 4 4  4 4 4 4 3 \
+ | 7/4 5 6 5 6 5 6 6 6 5 6 5 6 6 6 5 6 6 6 5 6 4 |
+| 1.8
+=1 3/4 4 <A_r C#xl D#l> 83 [<Cn E> <C# F-I3> <Dnl F#>] [<D# G> <E G#-I3> <Fn A>]
+=2 3/4 165 [F F# c-I5 B G] 83 [Ab An-I3 Bb] [Bn, gb-I3 f]
+| 4.2
+=1' 7/4 83 [Bb d-I3 db] [G Ab-I3 c'] [Bn' Fn-I3 Gb] \
+ [B' Bb'-I3-,-I3, E] [F An-I3 Ab] [D Eb-I3-,-I3, Gn] [Gb C Db]
+=1, 7/4 4 F# 2. blank
+=2 7/4 4 <e bb> eb d 43 d~b 83 c~ 4 bn 43 Bb 83 A 4 Ab
+
+/
+2 bars | 3/4 60 | 60 |
+| 1.8
+il0.7 .03 25
+=1 3/4 4 F  85. [Ab 85 G] 85. [Bb' 85 An]
+=2 3/4 165 [G G# d'-I5 db' A] [A# e' eb'-I5 B c] [f en c,-I5 c#, g]
+|
+=1 85. [c 85 B] 85. [d 85 c#] 85. [e 85 d#]
+=2 165 [gb d d#-I5 a ab] [e f b-I5 a# f] [f# c~ b-I5 gn g#]
+/
+1 bars | 5/4 100 |
+| 3.0
+=1 165 [f# c c#-I5 fn e] [B cn e-I5 eb A,] \
+ [A# d' db'-I5 G G#] [c' B' F-I5 F# B'] \
+ [Bb' En Fn-I5 An G#]
+=2 85. [a 85 ab] 85. [g 85 gb] \
+ 85. [f~ 85 e~] 85. [e~b 85 d] \
+ 85. [db' 85 c(4]
+
+6 systems / 19-30-19/ 19-35-19/ 19-30-19/ 19-30-19/ 19-30-19 5/ 19-20-19 10 /
+pagenum
+innerhead 1n1 lines, from book AM 28 - 33
+
+/
+1 bars | 4/4 80 |
+| 2.4 
+=1 4/4 leg102 16 [D D# A-I5 Ab E] [F B' Bb'-I5 F F#] \
+ [c' Bn' G-I5 G# d'] [db An, A#,-I5 e eb(1]
+=2, 4/4 leg102 vol60 4 <cr)4(4 e(2 f#xl(3 a#l(1> \
+ 85. [<c)4 e)2 f#xl)3 a#l)1> 85 <c#l fnxl g b>] \
+ 4 <d(4 f#xl(2 g#l(3 c~(1> 85. [<d)4 fx)2 g)3 c~)1> 85 <ebl gnxl anl(1 c~#>]
+I0.3    p
+/
+2 bars | 3/4 12 12 8 | 24 |
+| 1.8
+=1 3/4 83 [<B eb)1> <Bb d-I3> <A, db>] \
+ [<Ab c'> <G Bn'-I3> <Gbl Bb'>] 4 <F(2 An(1>
+=2 3/4 vol100 83 [<f a)1> <f#l a#-I3> <g b>] [<g# c~> <a c~#-I3> <a# d~>] 4 <b(2 e~b(1>
+I0.3 .01 f
+| 1.2
+il0.8 .01 30
+=1 83 [<F)2 A)1> <F#l A#-I3> <G B'>] [<G# c'> <Anl c#'-I3> <A# d'>]
+# 4 <B(2 d#(1>
+=2 83 [<b)2 e~b)1> <bb d~-I3> <a d~b>] [<ab c~> <g bn-I3> <gbl bb>]
+# 4 <f(2 an(1>
+/
+2 bars | 12 12 8 | 12 12 8 |
+| 1.8
+=1 83 [<B eb> <c en-I3> <c# f>] [<d f#> <eb g-I3> <enl g#>] 4 <fn(2 a(1>
+=2 83 [<f a> <e g#-I3> <ebl gn>] [<d f#> <c#l, fn-I3> <cnl, en>] 4 <B(2 eb'(1>
+| 1.8
+=1 83 [<f)2 a)1> <e g#-I3> <ebl gn>] [<d f#> <c#l fn-I3> <cnl en>] 4 <B eb(1>
+=2 83 [<B)2 eb')1> <cl en'-I3> <c# f'>] [<d f#> <d# g-I3> <e g#>] 4 <fn(3 a(1>
+/
+1 bars | 4/4 80 |
+| 2.4
+=1 4/4 leg102 165 [eb)1 A, A#,-I5 d db] [G G# c'-I5 B' F] \
+ [F# Bn' Bb'-I5 E Fn] [An Ab D-I5 Eb Gn]
+=2, 4/4 leg102 4 <Br(4 ebx(2 fl)3(3 a)1(1> 85. [<B)4 ebx)2 fl)3 al)1> \
+ vol60 85 <cl enxl f#l bb>] 4 <c#l(4 fnxl(2 gl(3 bn(1> \
+ 85. [<c#)4 fx)2 g)3 b)1> 85 <dl f#xl g#l c~>]
+I0.2 .01 p
+/
+1 bars | 5/4 100 |
+| 3.0
+=1 5/4 165 [F# C C#-I5 Fn E] [B_ Cn E-I5 D# A_] \
+ 85. [F 85 E] 85. [eb 85 d] \
+ 85. [d~b 85 c~]
+=2 5/4 85. [a 85 ab] 85. [g 85 gb] \
+ 165 [a# d~ d~b-I5 gn g#] [c~ b f-I5 f# b] \
+ [bb e fn-I5 an g#]
+/
+2 bars | 6/4 120 | 20 ||
+| 3.6
+il0.9 .01 35
+=1 6/4 16 [g d~ d~b a] [e~ e~b b f~] \
+ [e~n c~ g~ g~b] [d~n a~ a~b e~] \
+ [b~ b~b f~ c~~] 83 [b~n g~n-I3 d~~(2]
+=2' 6/4 8 [d c#] [G Ab] 8. [D 16 C#(2] 8 [C#)2 G_(2] [G_)2 A_b(2] [A_)2 D_(1]
+|
+=1 1 d~~)2
+=2 1 D_)1
+@
+
+
+1.9
+log
+@spacing, timesigs
+@
+text
+@d61 1
+a61 1
+2 bars | 100 | 80 |
+d69 2
+a70 1
+2 bars | 80 | 6/4 120 |
+@
+
+
+1.8
+log
+@layed out on three pages
+@
+text
+@d1 1
+a1 1
+5 systems 40 /19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19 10/
+d69 1
+a69 1
+2 bars | 80 | 120 |
+d71 1
+a71 1
+il0.7 .03 15
+d75 1
+a75 1
+=1' 6/4 vol70 165 [E F B-I5-,-I5, A# F] 83 [Gb c-I3 B] [F c-I3 B] \
+d77 2
+d82 1
+a82 1
+6 systems / 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/
+d87 2
+a88 1
+2 bars | 80 | 80 |
+d90 1
+a90 1
+=1' 5/4 vol75 165 [F F# c-I5-,-I5, B G] 83 [Ab d-I3 c#] \
+d96 1
+a96 1
+=2, vol80 165 [B c f-I5 e B] 83 [c f e] [B c f] [e B c] [f e B]
+d98 2
+a99 1
+2 bars | 60 | 100 |
+d133 1
+a133 1
+=1  5/4 vol95 165 [c db g-I5-I5, f# c] 16 [db g f# c] \
+d137 3
+a139 1
+2 bars | 100 | 80 |
+d142 1
+a142 1
+=2  vol100 165 [E F B-I5 A# F] 8 [G 16 rest f'] \
+d146 1
+a146 1
+=1 4 G 43 <F_ A_ B_x> 83 <F_#l G_#xl C> \
+d148 1
+a148 1
+=2' 165 [e eb A-I5 A# d] 83 [db G-I3 G#] [c B-I3 F] [F# B-I3 Bb]
+d150 2
+a151 1
+2 bars | 60 | 140 |
+d153 2
+a154 2
+=1 4 <A_r C#xl D#l> 83 [<Cn E> <C# F-I3> <Dnl F#>] [<D# G> <E G#-I3> <Fn A>]
+=2 165 [F F# c-I5 B G] 83 [Ab An-I3 Bb] [Bn, gb-I3 f]
+d156 1
+a156 1
+=1' 83 [Bb d-I3 db] [G Ab-I3 c'] [Bn' Fn-I3 Gb] \
+d158 2
+a159 2
+=1, 4 F# 2. blank
+=2 4 <e bb> eb d 43 d~b 83 c~ 4 bn 43 Bb 83 A 4 Ab
+d162 1
+a162 1
+2 bars | 60 | 60 |
+d165 2
+a166 2
+=1 treble cha0 leg100 4 F  85. [Ab 85 G] 85. [Bb' 85 An]
+=2 bass   cha0 leg100 165 [G G# d'-I5 db' A] [A# e' eb'-I5 B c] [f en c,-I5 c#, g]
+d171 1
+a171 1
+1 bars | 80 |
+d180 1
+a180 1
+6 systems / 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/
+d185 1
+a185 1
+1 bars | 80 |
+d187 1
+a187 1
+=1 leg102 16 [D D# A-I5 Ab E] [F B' Bb'-I5 F F#] \
+d189 1
+a189 1
+=2, leg102 vol60 4 <cr)4(4 e(2 f#xl(3 a#l(1> \
+d194 1
+a194 1
+2 bars | 12 12 8 | 24 |
+d196 4
+a199 2
+=1 83 [<B eb)1> <Bb d-I3> <A, db>] [<Ab c'> <G Bn'-I3> <Gbl Bb'>] 4 <F(2 An(1>
+=2 vol100 83 [<f a)1> <f#l a#-I3> <g b>] [<g# c~> <a c~#-I3> <a# d~>] 4 <b(2 e~b(1>
+d201 1
+a201 1
+il0.7 .03 30
+d215 1
+a215 1
+1 bars | 80 |
+d217 1
+a217 1
+=1 leg102 165 [eb)1 A, A#,-I5 d db] [G G# c'-I5 B' F] \
+d219 4
+a222 2
+=2, leg102 4 <Br(4 ebx(2 fl)3(3 a)1(1> 85. [<B)4 ebx)2 fl)3 al)1> vol60 85 <cl enxl f#l bb>] 4 <c#l(4 fnxl(2 gl(3 bn(1> 85. [<c#)4 fx)2 g)3 b)1> 85 <dl f#xl g#l c~>]
+I0.2   p
+d224 1
+a224 1
+1 bars | 100 |
+d226 1
+a226 1
+=1 165 [F# C C#-I5 Fn E] [B_ Cn E-I5 D# A_] \
+d229 1
+a229 1
+=2 85. [a 85 ab] 85. [g 85 gb] \
+d233 1
+a233 1
+2 bars | 120 | 20 ||
+d236 1
+a236 1
+=1 16 [g d~ d~b a] [e~ e~b b f~] \
+d239 1
+a239 2
+#=2' 8 [d c#] 8. [G 16 Ab(2] 8 [A)2 8 D(2] 16 [D)2 8. C#] [G_ 16 A_b(2] 8 [A_)2 D_(1]
+=2' 8 [d c#] [G Ab] 8. [D 16 C#(2] 8 [C#)2 G_(2] [G_)2 A_b(2] [A_)2 D_(1]
+@
+
+
+1.7
+log
+@notes plausible ?
+@
+text
+@d1 2
+a2 1
+6 systems /19-25-19/ 19-35-19/ 19-25-19/
+a5 14
+#midi off
+#/
+#3 bars | 48 | 48 | 24 18 |
+#| 2.4
+#=1 treble cha0 leg100 43 C# 83 D 4 D# 43 E 83 F 4 F#
+#=2' bass   cha0 leg100 83 [E F-I3 B] [Bb F F#] [c Bn G] [G# d c#]
+#|
+#=1 43 Fn 83 F# 4 G 43 G# 83 A 4 A#
+#=2  83 [A A#-I3 e'] [d#' B c] [f e c,] [c#, g f#]
+#|
+#=1 43 B 83 c 43 c# 83 d 2 d#
+#=2 83 [d d#-I3 a] [g# e f] 2 b
+#
+
+d7 2
+a8 1
+3 bars | 100 | 100 |
+d11 1
+a11 1
+=1  treble 6/4 cha0 leg100 vol120 1 d~~ 8 vol55 [D Eb D Eb]
+d24 2
+d27 1
+d31 1
+d34 1
+a35 1
+I0.8 f
+a38 1
+I0.5 mf
+d42 2
+d46 1
+a46 1
+=2 6/4 1 bb 2 <a d~b>
+d48 1
+d51 1
+d55 1
+a55 1
+I0.7 .55 pp
+a56 1
+I0.5 mf
+d71 1
+d79 5
+d94 2
+a126 2
+/
+2 bars | 100 | 100 |
+d128 2
+a129 1
+=1  5/4 vol95 165 [c db g-I5-,-I5, f# c] 16 [db g f# c] \
+d132 2
+a137 2
+/
+2 bars | 80 | 60 |
+d143 2
+a147 2
+/
+1 bars | 140 |
+d157 1
+d172 5
+d192 1
+d224 1
+@
+
+
+1.6
+log
+@40 sec; the fine-tuning begins to work
+@
+text
+@d1 2
+a2 2
+6 systems /19-25-19/
+title book AM 28 - 33
+d5 14
+a18 1
+midi off
+d20 13
+a32 4
+3 bars | 48 | 48 | 24 18 |
+| 2.4
+=1 treble cha0 leg100 43 C# 83 D 4 D# 43 E 83 F 4 F#
+=2' bass   cha0 leg100 83 [E F-I3 B] [Bb F F#] [c Bn G] [G# d c#]
+d34 2
+a35 2
+=1 43 Fn 83 F# 4 G 43 G# 83 A 4 A#
+=2  83 [A A#-I3 e'] [d#' B c] [f e c,] [c#, g f#]
+d37 37
+a73 3
+=1 43 B 83 c 43 c# 83 d 2 d#
+=2 83 [d d#-I3 a] [g# e f] 2 b
+
+d75 1
+a75 1
+3 bars | 48 | 48 | 24 |
+d77 13
+a89 2
+=1, treble cha0 leg100 83 [c db-I3 f] [e B-I3 c] [e eb-I3-,-I3, A] [Bb dn-I3 db]
+=2  bass   cha0 leg100 4 ab g 43 gb 83 f 4 e
+d91 6
+a96 5
+=1' 83 [G Ab-I3 c] [Bn F-I3 Gb] [B Bb-I3-,-I3, E] [F An-I3 Ab]
+=2  4 eb d 43 db' 83 c 4 B
+| 1.2
+=1  83 [D Eb-I3-,-I3, G] [Gb C Db]
+=2  43 Bb 83 A 4 Ab
+d98 26
+a124 2
+6 systems /19-25-19/ 19-35-19/ 19-25-19/
+midi on
+d126 5
+a130 5
+2 bars | 60 | 100 |
+| 1.2
+=1 treble cha0 leg100 1 blank
+=2  bass   cha0 leg100 1 blank
+#midi pause 1.0
+d132 2
+a133 2
+=1' 4 blank 16 [B e A A#] [d G G# c] [F Gb B E] [F An D Eb]
+=2  165 [E F B-I5 A# F] 8 [G 16 rest f'] \
+d166 1
+a166 1
+ [Bb' E Fn-I5 An G#]
+d200 1
+a200 1
+=1 leg102 16 [eb)1 A, A#,-I5 d db] [G G# c'-I5 B' F] \
+d203 1
+@
+
+
+1.5
+log
+@prototype of 37.7 sec
+@
+text
+@d31 1
+a31 1
+6 systems /19-25-19/
+d34 10
+d46 2
+a47 4
+=1 treble cha0 leg100 1 blank
+=2  bass   cha0 leg100 1 blank
+midi pause 1.0
+=1 4 <F_(4 A_(2 B_x(1> 43 <F_)4 A_)2 B_x)1> 83 <F_#l G_#xl C> \
+d49 1
+a49 1
+=2' 83 [A A#-I3 d] [db G-I3 G#] [c B-I3 F] [F# B-I3 Bb]
+d51 1
+a51 1
+=1 4 <A_r C#xl D#l> 83 [<Cn E> <C# F-I3> <D F#>] [<D# G> <E G#-I3> <Fn A>]
+d59 1
+a59 1
+=2 4 <e bb> eb d 43 db' 83 c 4 B 43 Bb 83 A 4 Ab
+d76 1
+a76 1
+ 85. [f 85 e] 85. [eb 85 d] \
+d86 1
+d88 1
+a88 1
+2 bars | 24 16 | 24 16 |
+d92 5
+a96 3
+|
+=1 83 [<F)2 A)1> <F#l A#-I3> <G B'>] [<G# c'> <Anl c#'-I3> <A# d'>] 4 <B(2 d#(1>
+=2 83 [<b)2 e~b)1> <bb d~-I3> <a d~b>] [<ab c~> <g bn-I3> <gbl bb>] 4 <f(2 an(1>
+d98 4
+a101 6
+2 bars | 24 | 24 16 |
+| 1.2
+=1 83 [<B)2 eb)1> <c en-I3> <c# f>] [<d f#> <eb g-I3> <enl g#>]
+# 4 <fn(2 a(1>
+=2 83 [<f)2 a)1> <e g#-I3> <ebl gn>] [<d f#> <c#l, fn-I3> <cnl, en>]
+# 4 <B(2 eb'(1>
+d103 2
+a104 2
+=1 83 [<f a> <e g#-I3> <ebl gn>] [<d f#> <c#l fn-I3> <cnl en>] 4 <B eb(1>
+=2 83 [<B eb'> <cl en'-I3> <c# f'>] [<d f#> <d# g-I3> <e g#>] 4 <fn(3 a(1>
+@
+
+
+1.4
+log
+@perhaps 32.5 sec ?
+@
+text
+@d34 12
+d48 1
+a48 1
+=1 treble cha0 leg100 83 [Bb d-I3 db] [G Ab-I3 c'] [Bn' F-I3 Gb] \
+d50 2
+a51 1
+=2  bass   cha0 leg100 4 e eb d 43 db' 83 c 4 B 43 Bb 83 A 4 Ab
+d74 1
+a74 1
+ [c' Bn' G-I5 G# d'] [db A, A#,-I5 e eb(1]
+@
+
+
+1.3
+log
+@28 reasonable seconds
+@
+text
+@d8 3
+a10 6
+| 2.2
+=1, treble cha0 leg100 83 [c db-I3 f] [e B-I3 c] [e eb-I3-,-I3, A] [Bb dn-I3 db]
+=2  bass   cha0 leg100 4 ab g 43 gb 83 f 4 e
+|
+=1' 83 [G Ab-I3 c] [Bn F-I3 Gb] [B Bb-I3-,-I3, E] [F An-I3 Ab]
+=2  4 eb d 43 db' 83 c 4 B
+d12 1
+a12 9
+=1  83 [D Eb-I3-,-I3, G] [Gb C Db] 2 F
+=2  43 Bb 83 A 4 Ab 2 G
+/
+3 bars | 48 | 48 | 24 18 |
+|
+=1  43 c# 83 d 4 d# 43 e 83 f 4 f#
+=2' 83 [E F-I3 B] [Bb F F#] [c Bn G] [G# d c#]
+|
+=1 43 fn 83 f# 4 g 43 g# 83 a 4 a#
+d15 1
+a15 1
+=1 43 b 83 c~ 43 c~# 83 d~ 2 d~#
+d17 1
+d19 1
+a19 4
+2 bars | 80 | 40 25 |
+| 2.4
+=1 4 F  85. [Ab 85 G] 85. [Bb' 85 An] 85. [c 85 Bn]
+=2 165 [G G# d'-I5 db' A] [A# e' eb'-I5 B c] [f en c,-I5 c#, g] [gb dn d#-I5 a ab]
+d21 2
+a22 7
+=1 85. [d 85 c#] 85. [e 85 d#] 2 f#
+=2 165 [e f b-I5 a# f] [f# c~ b-I5 g g#] 2 d~
+/
+2 bars | 80 | 40 25 |
+| 2.4
+=1 165 [f# c c#-I5 fn e] [B cn e-I5 eb A,] [A# d' db'-I5 G G#] [c' B' F-I5 F# B']
+=2 85. [a 85 ab] 85. [g 85 gb] 85. [f 85 e] 85. [eb 85 d]
+d24 6
+a29 2
+=1 165 [Bb' E F-I5 A Ab] [D Eb G-I5 F# C] 2 C#
+=2 85. [db' 85 c] 85. [B 85 Bb] 2 A
+d34 7
+d104 2
+a105 1
+=2' 8 [d c#] 8. [G 16 Ab(2] 8 [A)2 8 D(2] 16 [D)2 8. C#] [G_ 16 A_b(2] 8 [A_)2 D_(1]
+@
+
+
+1.2
+log
+@about 30sec of ill-fitting bits
+@
+text
+@d4 2
+d9 2
+a10 2
+=1, treble cha0 leg100 16 [c db f] [e B c] [e eb A] [Bb dn db]
+=2  bass   cha0 leg100 8. [ab g] 8 [gb 16 f 8. e]
+d12 2
+a13 2
+=1' 16 [G Ab c] [Bn F Gb] [B Bb E] [F An Ab]
+=2  8. [eb d] 8 [db' 16 c 8. B]
+d15 2
+a16 2
+=1  16 [D Eb G] [Gb C Db] 4. F
+=2  8 [Bb 16 A 8. Ab] 4. G
+d20 2
+a21 2
+=1  8 [c# 16 d 8. d#] 8 [e 16 f 8. f#] 
+=2' 16 [E F B] [Bb F F#] [c Bn G] [G# d c#]
+d23 2
+a24 2
+=1 8 [fn 16 f# 8. g] 8 [g# 16 a 8. a#] 
+=2  16 [A A# e'] [d#' B c] [f e c,] [c#, g f#]
+d26 2
+a27 2
+=1 8 [b 16 c~ 8 c~# 16 d~] 4. d~#
+=2 16 [d d# a] [g# e f] 4. b
+d32 1
+a32 1
+=2 165 [G G# d' db' A] [A# e' eb' B c] [f en c, c#, g] [gb dn d# a ab]
+d35 1
+a35 1
+=2 165 [e f b a# f] [f# c~ b g g#] 2 d~
+d39 1
+a39 1
+=1 165 [f# c c# fn e] [B cn e eb A,] [A# d' db' G G#] [c' B' F F# B']
+d42 1
+a42 1
+=1 165 [Bb' E F A Ab] [D Eb G F# C] 2 C#
+d44 20
+d66 4
+a69 4
+|
+=1 leg102 16 [D D# A Ab E] [F B' Bb' F F#] \
+ [c' Bn' G G# d'] [db A, A#, e eb]
+=2, leg102 vol60 4 <cr(4 e(2 f#xl(3 a#l(1> \
+d71 1
+a71 1
+ 4 <d(4 f#xl(2 g#l(3 c~(1> 85. [<d)4 fx)2 g)3 c~)1> 85 <ebl gnxl a c~#>]
+d74 38
+d113 2
+a114 5
+=1 163 [<B eb> <Bb d> <A, db>] [<Ab c'> <G Bn'> <Gbl Bb'>] 4. <F An>
+=2 vol100 163 [<f a> <f#l a#> <g b>] [<g# c~> <a c~#> <a# d~>] 4. <b e~b>
+|
+=1 163 [<F A> <F#l A#> <G B'>] [<G# c'> <Anl c#'> <A# d'>] 4. <B d#>
+=2 163 [<b e~b> <bb d~> <a d~b>] [<ab c~> <g bn> <gbl bb>] 4. <f an>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d26 32
+@

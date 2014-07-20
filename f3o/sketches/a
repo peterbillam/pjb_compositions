@@ -1,0 +1,115 @@
+5 systems /19-25-19-25-19/
+midi channel 0 patch 73 pan 50
+midi channel 1 patch 73 pan 05
+midi channel 2 patch 73 pan 95
+/
+1 bars | 1 |
+| 5.0
+=1' treble 10/4 cha0 leg95 \
+ 16 [E F#-.] 8 rest 16 [F# E-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.] 2 rest \
+ 16 [F# A-.] 8 rest 16 [A F#-.] 4 rest 16 [E F#-.] 8 rest 16 [F# E-.]
+=2, treble 10/4 cha1 leg99 4. rest 4 rest 4. rest 2 rest 4. rest 4 rest 4. rest
+=3 treble 10/4 cha2 leg99 4. rest 4 rest 4. rest \
+ 165 [e d# e-I5 f e] [d# e d#-I5 dn d#] e rest 4 rest 4 rest 4. rest
+| 2.0
+=1 4/4 1 rest
+=2, 4/4 165 [c B c-I5 db c] [B A# B-I5 c db] [c B c-I5 db dn] [db c B-I5 c db]
+=3 4/4 1 rest
+| 5.0
+=1' 10/4 16 [F# A-.] 8 rest 16 [A F#-.] 4 rest 16 [A c-.] 8 rest 16 [c A-.] 2 rest \
+ 16 [A c-.] 8 rest 16 [c A-.] 4 rest 16 [G A-.] 8 rest 16 [A G-.]
+=2 10/4 16 c rest 4 rest rest 4. rest 165 [e f e-I5 d# e] [f e f-I5 gb f] \
+ e rest 4 rest 4 rest 4. rest
+=3 10/4 4. rest 4 rest 4. rest 2 rest 4. rest 4 rest 4. rest
+| 4.0
+=1 8/4 1 rest rest
+=2 8/4 1 rest rest
+=3 8/4 \
+ 165 [c~ d~b c~-I5 b c~] [d~b d~n d~b-I5 c~ b] [c~ d~b c~-I5 b a#] [b c~ d~b-I5 c~ b] \
+ 165 [c~ d~b c~-I5 b c~] [d~b d~n d~b-I5 c~ b] [c~ d~b c~-I5 b a#] [b c~ d~b-I5 c~ b]
+
+| 5.0
+i0.7 .01 1st half of this bar, 2nd half of FA AF EA AE
+#=1' 16 [F# G#-.] 8 rest 16 [G# F#-.] 4 rest 16 [G# B-.] 8 rest 16 [B G#-.] \
+# 2 rest \
+# 16 [G# B-.] 8 rest 16 [B G#-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.]
+=1' 16 [F# G#-.] 8 rest 16 [G# F#-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.] \
+ 2 rest \
+ 16 [Fn A-.] 8 rest 16 [A F-.] 4 rest 16 [E A-.] 8 rest 16 [A E-.]
+=2 4. rest 4 rest 4. rest 165 [d d# e-I5 f gb] [f e eb-I5 dn eb] \
+ d rest 4 rest 4 rest 4. rest
+=3 16 c~ rest 4 rest 4 rest 4. rest 165 [d c# d-I5 eb d] [c# cn B-I5 c c#] \
+ d rest 4 rest 4 rest 4. rest
+| 2.0
+=1 4/4 1 rest
+=2, 4/4 165 [c B c-I5 db c] [B A# B-I5 c db] [c B c-I5 db dn] [db c B-I5 c db]
+=3, 4/4 4 rest 165 [B c c#-I5 d d#] \
+ [e d# e-I5 f f#] [g f# fn-I5 e d#]
+| 5.0
+#=1 10/4 \
+# 16 [F A-.] 8 rest 16 [A F-.] 4 rest 16 [A B'-.] 8 rest 16 [B' A-.] 2 rest \
+# 16 [A, c-.] 8 rest 16 [c A,-.] 4 rest 16 [E A-.] 8 rest 16 [A E-.]
+=1 10/4 \
+ 16 [B c#-.] 8 rest 16 [c# B-.] 4 rest 16 [c# e-.] 8 rest 16 [e c#-.] 2 rest \
+ 16 [c# f-.] 8 rest 16 [f c#-.] 4 rest 16 [B c#-.] 8 rest 16 [c# B-.]
+#r0.5 .01 bar 3: ABdf, Acd
+r0.5 .01 bar 4: GBc#, GBc#f
+=2 10/4 16 dn rest 4 rest rest 4. rest 2 rest 4. rest 4 rest 4. rest
+=3 10/4 4. rest 4 rest 4. rest 165 [g ab g-I5 f#, g] [ab g ab-I5 an ab] 16 g rest 4 rest 4 rest 4. rest
+| 4.0
+=1 8/4 1 rest rest
+=2 8/4 1 rest rest
+=3 8/4 1 rest rest
+| 4.0
+=1 1 rest rest
+=2 1 rest rest
+=3 1 rest rest
+
+| 5.0
+r0.5 .01 bar 5: Gb Bb + eb,d,c,Bb
+=1 10/4 \
+ 16 [Bb eb-.] 8 rest 16 [eb Bb-.] 4 rest 16 [d Bb-.] 8 rest 16 [Bb d-.] 2 rest \
+ 16 [c Bb-.] 8 rest 16 [Bb c-.] 4 rest 16 [Gb Bb'-.] 8 rest 16 [Bb' Gb-.]
+=2 10/4
+=3 10/4
+| 4.0
+=1 4/4 1 rest
+=2 4/4 1 rest
+=3 4/4 1 rest
+| 5.0
+r0.5 .01 bar 7: Eb G + c,B,A,G
+=1' 10/4 \
+ 16 [c G-.] 8 rest 16 [G c-.] 4 rest 16 [G B-.] 8 rest 16 [B G-.] 2 rest \
+ 16 [G A-.] 8 rest 16 [A G-.] 4 rest 16 [G' Eb-.] 8 rest 16 [Eb G'-.]
+=2 10/4
+=3 10/4
+| 4.0
+=1 8/4 1 rest rest
+=2 8/4 1 rest rest
+=3 8/4 1 rest rest
+| 5.0
+r0.5 .01 bar 8: A + F#,E,D#
+=1 10/4 \
+ 16 [F# A-.] 8 rest 16 [A F#-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.] 2 rest \
+ 16 [A E-.] 8 rest 16 [E A-.] 4 rest 16 [D# A-.] 8 rest 16 [A D#-.]
+=2 10/4
+=3 10/4
+| 4.0
+=1 4/4 1 rest
+=2 4/4 1 rest
+=3 4/4 1 rest
+| 5.0
+r0.5 .01 bar 9: <E G#> <D# A>
+=1 10/4 \
+ 16 [E G#-.] 8 rest 16 [G# E-.] 4 rest 16 [G# E-.] 8 rest 16 [E G#-.] 2 rest \
+ 16 [A E-.] 8 rest 16 [E A-.] 4 rest 16 [D# A-.] 8 rest 16 [G# D#-.]
+=2 10/4
+=3 10/4
+| 5.0
+r0.5 .01 bar 10: <E F#>
+=1 10/4 \
+ 16 [E F#-.] 8 rest 16 [F# E-.] 4 rest 16 [E F#-.] 8 rest 16 [F# E-.] 2 rest \
+ 16 [E F#-.] 8 rest 16 [F# E-.] 4 rest 16 [E F#-.] 8 rest 16 [F# E-.]
+=2 10/4
+=3 10/4
+midi off

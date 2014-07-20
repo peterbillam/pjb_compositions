@@ -1,0 +1,38 @@
+6 systems / 19-25-19 /
+midi channel 0 patch 0 pan 20
+midi channel 1 patch 0 pan 80
+/
+2 bars | 10/8 60 | 60 |
+| 10/8 1.8
+=1' treble 10/8 cha0 leg92 \
+ 8. [<E Bb-s1-s3> 8 <D# A-s2-s5> 16 <E Bb-s1-s3>] 8 rest <D# A-s2-s5>
+=2,  bass  10/8 cha1 leg92 \
+ 8. [<f# c~-s1,-s3,> 8 <g c~#-s2,-s5,> 16 <f# c~n-s1,-s3,>] 8 rest <g c~#-s2,-s5,>
+|
+=1' 8 [<E Bb-s1-s3> 16 <F Bn-s1-s4> 8 <F# c-s2-s5> <G c#-s1-s4>] 8. rest
+=2, 8 [<f# c~> 16 <fn b> 8 <e bb> <eb a>] 8. rest
+|
+=1' 8. [<G c#> 8 <F# cn> 16 <G c#>] 8 rest <F# cn>
+=2, 8. [<eb a> 8 <en bb> 16 <eb a>] 8 rest <en bb>
+|
+=1, 8 [<G c#> 16 <G# d> 8 <A eb> <Bb en>] 8. rest
+=2, 8 [<eb a> 16 <d g#> 8 <c# gn> <cn f#>] 8. rest
+|
+=1, 8. [<A eb-s1-s3> 8 <G# d-s2-s5> 16 <A eb>] 8 rest <G# d-s2-s5>
+=2, 8. [<c# g-s1,-s3,> 8 <d ab-s2,-s5,> 16 <c# g-s1,-s3,>] 8 rest <d ab-s2,-s5,>
+|
+=1, 8 [<A eb> 16 <Bb en> 8 <Bn f> <c f#>] 8. rest
+=2, 8 [<c# g> 16 <cn f#> 8 <B fn> <Bb e>] 8. rest
+|
+=1, 8. [<c f#-s1-s3> 8 <B fn-s2-s5> 16 <c f#>] 8 rest <B fn-s2-s5>
+=2' 8. [<Bb e-s1,-s3,> 8 <Bn f-s2,-s5,> 16 <Bb e-s1,-s3,>] 8 rest <Bn f-s2,-s5,>
+|
+=1, 8 [<c f#> 16 <c# g> 8 <d g#> <eb a>] 8. rest
+=2' 8 [<Bb e> 16 <A eb> 8 <G# d> <Gn c#>] 8. rest
+|
+=1  16 [<eb a> <d ab> <db g> <c gb> <B f>] \
+    [<Bb' en'> <A eb'> <G# dn'> <Gn c#'> <F# cn'>]
+=2  16 [<G c#> <G# d'> <A d#'> <A# e'> <B f'>] \
+    [<cn, f#> <c#, g> <dn g#> <eb a> <en bb>]
+ 
+# likewise at 10,10 and at 4,4 and at 2,2

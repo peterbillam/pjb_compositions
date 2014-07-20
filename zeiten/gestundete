@@ -1,0 +1,848 @@
+4 systems 5 /19 23 19 30 19 24 19 /19 23 19 24 19 30 19 \
+ /19 23 19 24 19 23 19 /19 23 19 24 19 23 19/
+title Die gestundete Zeit
+lefthead Gedicht  Ingeborg Bachmann
+righthead Musik  Peter Billam
+leftfoot Gedicht (c) 1960 Ingeborg Bachmann,  Musik (c) 2000 Peter Billam
+midi channel 1 patch 52 pan 09
+midi channel 2 patch 52 pan 37
+midi channel 3 patch 52 pan 63
+midi channel 4 patch 52 pan 91
+/
+5 bars |6/8 1 1 1 1.2 1 1|1 1 1 1.2 1 1|1 1 1 .9 .9 .9|5.2|1 1.2 1 1.2 1.2 1|
+| 6/8 1.6
+i0.4         Deutlich
+=1 treble 6/8     cha1 qua rest cro F  qua leg95 [G# A] rest
+r0.5 .25 Es  .50 kommen
+=2 treble 6/8     cha2 qua rest cro B_ qua leg95 [D C#] rest
+r0.4 .25 Es  .50 kommen
+=3 treble8vab 6/8 cha3 qua rest cro A  qua leg95 [F  F] rest
+r0.5 .25 Es  .50 kommen
+=4 bass   6/8     cha4 qua rest cro d' qua [B c#] rest
+r0.2 .25 Es  .50 kommen
+|
+=1 cro. leg85 B' qua leg95 [Gn G#] rest
+r0.5 .03 här .29 - .50 terer
+=2 cro. leg85 D  qua leg95 [C#  F] rest
+r0.4 .03 här .29 - .50 terer
+=3 cro. leg85 A  qua leg95 [B,  c] rest
+r0.4 .03 här .29 - .50 terer
+=4 cro. leg85 f  qua leg95 [e  d,] rest
+r0.3 .03 här .29 - .50 terer
+|
+=1 cro leg95 G#  qua A# cro. rest
+r0.5 .03 Ta   - .37 ge.
+=2 cro leg95 C#  qua E  cro. rest
+r0.4 .03 Ta   - .37 ge.
+=3 cro leg95 Bb' qua G cro. rest
+r0.5 .03 Ta   - .37 ge.
+=4 cro leg95 e   qua c# cro. rest
+r0.2 .03 Ta   - .37 ge.
+|
+=1 min. leg85 rest
+=2 cro. leg85 B_b B_b
+r0.4 .03 Die .52 auf
+=3 min. leg85 rest
+=4 cro. leg85 db' db'
+r0.2 .03 Die .52 auf
+|
+il0.2 .15 5
+=1 min. rest
+=2 qua leg95 [Db C leg85 Eb] [F leg95 G# F#]
+r0.4 .04 Widerruf .53 gestunde -
+=3 min. rest
+=4 cro eb qua f cro eb qua leg95 a
+r0.2 .04 Wi  - .33 derruf .85 ge -
+/
+5 bars |6| 1 1 1 1.1 1.1 1 |6|6| 1 1 1 1 1.1 1|
+|
+=1 treble cro. c c
+r0.5 .05 Die .51 auf
+=2 treble cro. A leg85 G#(2
+r0.4   - .05 te .51 Zeit
+=3 treble8vab cro. e e
+r0.6 .05 Die .51 auf
+=4 bass cro gb qua leg85 f cro. gb(1
+r0.1   - .05 stun  - .37 dete
+|
+=1 cro B' qua d cro c qua e
+r0.5 .03 Wi  -  derruf .85 ge -
+=2 cro. G#)2 rest
+=3 qua leg95 [d# c leg85 B,] [A leg95 G# F#]
+r0.5 .03 Widerruf .53 gestunde -
+=4 cro. gb)1 c~
+r0.1 .50 Zeit
+|
+=1 cro f# qua g cro. f#
+r0.5 .02 stun  - .37 dete
+=2 cro. rest A
+r0.5 .50 wird
+=3 cro. leg85 E D#
+r0.5 .01 te .50 Zeit
+=4 cro. rest c~#
+r0.1 .50 wird
+|
+=1 cro. e c#
+r0.5 .01 Zeit .49 wird
+=2 cro G# min F#
+r0.5 .04 sichtbar
+=3 cro. rest d#
+r0.5 .49 wird
+=4 cro c~n min a
+r0.1 .04 sichtbar
+|
+il0.2   10
+=1 cro B, min vol-10 d
+r0.5 .04 sichtbar
+=2 cro rest Fn qua leg95 [G# F#]
+r0.5 .34 am .67 Hori -
+=3 cro dn min vol-10 B,
+r0.5 .04 sichtbar
+=4 cro rest a qua [f# g#]
+r0.1 .34 am .67 Hori -
+/
+5 bars | 1 1 1 1 1.1 1|6|6|6|6|
+|
+=1 treble cro vol+10 rest c qua leg95 [d# c#]
+r0.4 .34 am .68 Hori .95 -
+=2 treble min. leg85 A(2
+r0.5 .04 zont.  -
+=3 treble8vab cro vol+10 rest e qua leg95 [c# d#]
+r0.4 .34 am .68 Hori .95 -
+=4 bass   min f#(2
+r0.1 .04 zont.  -
+|
+=1 min leg85 e cro rest
+r0.4 .01 zont.
+=2 min A)2 cro rest
+=3 min leg85 cn cro rest
+r0.5 .01 zont.
+=4 min f#)2 cro rest
+|
+=1 min F# cro G#
+r0.5 .01 Bald .66 mußt
+=2 min. E(1
+r0.5 .01 Bald
+=3 min. c(1
+r0.5 .01 Bald
+=4 min f# cro d#'
+r0.1 .01 Bald .66 mußt
+|
+=1 min A cro G#
+r0.5 .01 du .66 den
+=2 min E)1 cro Eb
+r0.5 .63 mußt
+=3 min c)1 cro c
+r0.5 .63 mußt
+=4 min e cro f#
+r0.1 .01 du .66 den
+|
+il0.2 .25 15
+=1 min A cro rest
+r0.5 .01 Schuh
+=2 cro D En F
+r0.5 .01 du .33 den .65 Schuh
+# =3 cro A G# B'
+=3 cro A G B'
+r0.5 .01 du .33 den .65 Schuh
+=4 min fn cro rest
+r0.1 .01 Schuh
+/
+5 bars |1 1 1 1.1 1.1 1| 1 1 1 1 1.1 1|6|1 1 1.1 1.1 1.1 1|6|
+|
+=1 treble cro leg95 c# qua cn cro. leg85 rest
+r0.5 .04 schnüren
+=2 treble cro leg95 F# qua E rest leg85 E G
+r0.5 .04 schnüren .66 und die
+=3 treble8vab cro leg95 A qua c rest leg85 c# d#
+r0.5 .04 schnüren .66 und die
+=4 bass   cro leg95 d#' qua e leg85 cro. rest
+r0.1 .04 schnüren
+|
+=1 min rest qua B, c#
+r0.5 .64 und die
+=2 cro G# A# B
+r0.5 .02 Hun - de .66 zu -
+=3 cro e c# d
+r0.5 .02 Hun - de .66 zu -
+=4 min rest qua g# f#
+r0.1 .64 und die
+|
+=1 cro leg95 d leg85 e leg95 f
+r0.5 .02 Hun - de .66 zu -
+=2 min. An
+r0.5 .01 rück .60 -
+=3 min. B'
+r0.5 .01 rück .60 -
+=4 cro fn d' c#
+r0.1 .02 Hun - de .66 zu -
+|
+=1 cro e qua [d# leg85 c#] cn' B'
+r0.5 .01 rück - .33 jagen .66 in die
+=2 cro G G qua F# F#
+r0.5 .05 ja  -  gen .66 in die
+=3 min B' cro A
+r0.6 .05 ja .35 - .66 gen
+=4 cro c# d#' e
+r0.1 .01 rück - .33 ja - .66 gen
+|
+il0.2       20
+=1 cro. A cro Ab qua G
+r0.5 .01 Marsch  - .51 hö  - .86 fe
+=2 cro. D cro Eb qua Eb
+r0.5 .01 Marsch  - .51 hö  - .86 fe
+=3 min B' cro B'
+r0.6 .03 in .67 die
+=4 min f cro f
+r0.1 .03 in .67 die
+
+4 systems /19 23 19 26 19 24 19 \
+ /19 22 19 28 19 23 19 \
+ /19 22 19 23 19 24 19 \
+ /19 22 19 24 19 28 19/
+pagenum 9
+innerhead Die gestundete Zeit, Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Ingeborg Bachmann,  Musik (c) 2000 Peter Billam
+/
+5 bars |6|2.5 3|1 1 1.4 1.1 1.1 1|1.1 1.1 1 1 1 1|1 1 1.1 1.1 1.1 1|
+|
+=1 treble min. rest
+r0.5   
+=2 treble min. rest
+r0.5   
+=3 treble8vab cro. d cro c# qua B'
+r0.5 .03 Marsch  - .52 hö  - .86 fe
+=4 bass cro. f# cro g qua g#
+r0.1 .03 Marsch  - .52 hö  - .86 fe
+|
+=1 min F# qua rest G#
+r0.5 .01 Denn .82 die
+=2 min D qua rest F#
+r0.6 .01 Denn .82 die
+=3 cro. rest B'(2
+r0.5 .50 Denn
+=4 cro. rest d'(2
+r0.1 .50 Denn
+|
+# i0.8 .01 F44
+# =1 cro A qua G# [A c#'] cn'
+=1 cro leg95 A qua G# [A leg85 c#'] B'
+r0.5 .01 Ein - .33 ge - weide .84 der
+=2 cro leg95 Fn qua Db cro. qua [Eb leg85 F] Gb
+r0.6 .01 Ein - .33 ge - weide .84 der
+=3 cro B')2 qua c# cro leg95 c# qua An
+r0.5 .33 die  Ein  - .86 ge -
+=4 cro d')2 qua eb cro leg95 f qua eb
+r0.1 .33 die  Ein  - .86 ge -
+|
+# i0.8 .01 D233
+=1 cro c# qua d cro rest qua e
+r0.5 .06 Fische .81 sind
+#=2 cro. F(1 cro F)1 qua G
+=2 cro. G(1 cro G)1 qua G
+r0.6 .01 Fis .48 - .83 che
+=3 qua [A leg85 Bb'] d cro leg95 c# qua leg85 d
+r0.5 .01 weide .33 der .55 Fische
+=4 qua [g leg85 g] a leg95 [bb leg85 a] bb
+r0.1 .01 weide der  Fische sind
+|
+# i0.8 A233
+il0.4 .27 25
+=1 cro f qua e leg95 [c#' B'] leg85 A
+r0.5 .01 kalt .33 geworden .84 im
+=2 cro rest qua G# cro A qua Eb
+r0.6 .33 sind kalt .83  ge -
+=3 cro rest qua B cro A qua F
+r0.5 .33 sind kalt .83  ge -
+=4 cro a qua g# leg95 [f d] leg85 B
+r0.2 .01 kalt .33 geworden .84 im
+/
+5 bars |6|6|6|6|6|
+|
+=1 treble min eb cro rest
+r0.5 .03 Wind.
+#=2 treble cro leg95 Eb qua leg85 vol-10 A cro. vol+10 G
+=2' treble cro leg95 A qua leg85 vol-10 Bb cro. vol+10 A
+r0.6 .03 wor  - .34 den im
+=3 treble8vab cro leg95 G qua leg85 vol-10 F# cro. vol+10 G
+r0.5 .03 wor  - .34 den im
+=4 bass min cn cro rest
+r0.2 .03 Wind.
+|
+=1 min leg95 Bb' cro leg85 A
+r0.5 .01 Ärm .36 - .65 lich
+=2 min E cro rest
+r0.6 .01 Wind.
+=3 min G cro rest
+r0.5 .01 Wind.
+=4 min leg95 d' cro leg85 e
+r0.1 .01 Ärm .36 - .65 lich
+|
+=1 min G cro A
+r0.5 .01 brennt .65 das
+=2 min C# cro C#
+r0.4 .01 Ärm .36 - .65 lich
+=3 min Bb' cro A
+r0.5 .01 Ärm .36 - .65 lich
+=4 min f cro f
+r0.1 .01 brennt .65 das
+|
+=1 cro. Bb' cro A qua d
+r0.5 .01 Licht .50 der .84 Lu .99  -
+=2 min D cro F
+r0.5 .01 brennt .66 das
+=3 min G cro Bn'
+r0.5 .01 brennt .66 das
+=4 cro. e cro f qua g#
+r0.1 .01 Licht .50 der .84 Lu .99  -
+|
+il0.3 .15 30
+=1 cro leg95 c qua e rest cro leg85 c
+r0.5 .08 pinen. .65 Dein
+=2 cro. F# cro A qua G#
+r0.5 .01 Licht .50 der .82  Lu -
+=3 cro. c cro c qua c
+r0.5 .01 Licht .50 der .82  Lu -
+=4 cro leg95 a qua f# rest cro leg85 e
+r0.1 .08 pinen. .64 Dein
+/
+5 bars |6|6|6|6|6|
+|
+=1 treble min B' cro rest
+r0.5 .03 Blick
+#=2 treble cro leg95 F# qua F# rest leg85 cro Fn
+=2 treble cro leg95 F# qua F# rest leg85 cro F#
+r0.5   .01 -  pinen. .64 Dein
+=3 treble8vab cro leg95 d qua d rest leg85 cro c#
+r0.5   .01 -  pinen. .64 Dein
+=4 bass min f# cro rest
+r0.2 .03 Blick
+|
+=1 min A cro c
+r0.5 .01 spurt .66 im
+=2 min Fn cro rest
+r0.5 .01 Blick
+=3 min d cro rest
+r0.5 .01 Blick
+=4 min f cro g#
+r0.1 .01 spurt .66 im
+|
+=1 min. leg95 B'
+r0.5 .01 Ne .55 -
+=2 min F cro Ab
+r0.5 .01 spurt .66 im
+=3 min d cro e
+r0.6 .01 spurt .66 im
+=4 min. leg95 a
+r0.1 .01 Ne .55 -
+|
+=1 min c# cro rest
+r0.5 .01 bel :
+=2 cro leg95 Ab Ab rest
+r0.5 .02 Ne  -  bel :
+=3 cro leg95 e e rest
+r0.6 .02 Ne  -  bel :
+=4 min bb cro rest
+r0.1 .01 bel :
+|
+il0.1     35
+=1 min. leg85 rest
+=2 cro. leg85 Db Db
+r0.3 .01 Die .50 auf
+=3 min. leg85 rest
+=4 cro. leg85 bb g
+r0.1 .01 Die .50 auf
+/
+5 bars | 1 1.1 1 1.1 1.1 1 |6|1 1 1 1.1 1.1 1|1 1 1.1 1 1 1|6|
+|
+=1 min. rest
+=2 qua leg95 [Db C leg85 Eb] [F leg95 G# F#]
+r0.3 .04 Widerruf .53 gestunde  -
+=3 min. rest
+=4 cro eb qua f cro eb qua ab
+r0.2 .04 Wi  - .33 derruf .86 ge  -
+|
+=1 cro. c c
+r0.5 .01 Die .50 auf
+=2 cro. leg85 A G#(2
+r0.4 .02 te .50 Zeit
+=3 cro. e e
+r0.6 .01 Die .50 auf
+=4 cro gb qua f cro. gb(1
+r0.2 .01 stun  - .35 dete
+|
+=1 cro B' qua d cro c qua e
+r0.5 .01 Wi  - .33 derruf .86 ge  -
+=2 cro. G#)2 rest
+=3 qua leg95 [d# c leg85 B,] [A leg95 G# F#]
+r0.5 .02 Widerruf .52 gestunde  -
+=4 cro. gb)1 c~
+r0.1 .50 Zeit
+|
+=1 cro f# qua g cro. f#
+r0.5 .01 stun  - .35 dete
+=2 cro. rest A
+r0.5 .50 wird
+=3 cro. leg85 E D#
+r0.5 .03 te .50 Zeit
+=4 cro. rest c~#
+r0.1 .50 wird
+|
+il0.3 .23 40
+=1 cro. e c#
+r0.5 .01 Zeit .48 wird
+=2 cro G# min F#
+r0.5 .03 sichtbar
+=3 cro. rest d#
+r0.6 .48 wird
+=4 cro c~n min a
+r0.1 .03 sichtbar
+
+4 systems /19 24 19 30 19 24 19 /19 23 19 24 19 23 19 \
+ /19 23 19 28 19 23 19 /18 19 18 19 19 24 19/
+pagenum 10
+innerhead Die gestundete Zeit, Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Ingeborg Bachmann,  Musik (c) 2000 Peter Billam
+/
+5 bars |6|6|6|6|6|
+|
+=1 treble cro B' min vol-10 d vol+10
+r0.5 .04 sichtbar
+=2 treble cro rest F qua leg95 [G# F#]
+r0.6 .35 am .67 Hori  -
+=3 treble8vab cro dn min vol-10 B, vol+10
+r0.5 .04 sichtbar
+=4 bass cro rest a qua leg95 [f# g#]
+r0.1 .35 am .67 Hori  -
+|
+=1 cro rest c qua leg95 [d# c#]
+r0.5 .33 am .66 Hori  -
+=2 min. A(2
+r0.6 .01 zont.   -
+=3 cro rest e qua leg95 [c# d#]
+r0.5 .33 am .66 Hori  -
+=4 min f#(2
+r0.1 .01 zont.   -
+|
+=1 min e cro rest
+r0.5 .01 zont.
+=2 min A)2 cro rest
+=3 min cn cro rest
+r0.5 .01 zont.
+=4 min f#)2 cro rest
+|
+=1 cro leg95 F leg85 Ab leg95 G
+r0.5 .02 Drü - ben .67 ver  -
+=2 cro leg95 D leg85 D leg95 D
+r0.5 .02 Drü - ben .67 ver  -
+=3 cro leg95 c leg85 c leg95 c
+r0.5 .02 Drü - ben .67 ver  -
+=4 cro leg95 g# leg85 g# leg95 gn
+r0.1 .02 Drü - ben .67 ver  -
+|
+il0.4 .22 45
+=1 cro. leg85 B' G#
+r0.5 .01 sinkt .49 dir
+=2 cro. leg85 D D
+r0.5 .01 sinkt .49 dir
+=3 cro. leg85 B' B'
+r0.5 .01 sinkt .49 dir
+=4 cro. leg85 f# f#
+r0.1 .01 sinkt .49 dir
+/
+6 bars |6|6|6|6|5|6|
+|
+=1 treble cro. B' leg95 A#
+r0.5 .04 die .52 Ge .82 -
+=2 treble cro. Eb leg95 Eb
+r0.5 .04 die .52 Ge .82 -
+=3 treble8vab cro. Ab leg95 Ab
+r0.5 .04 die .52 Ge .82 -
+=4 bass cro. fn leg95 f
+r0.1 .04 die .52 Ge .82 -
+|
+=1 cro d leg85 B' d
+r0.5 .01 lieb - te .67 im
+=2 cro F leg85 F F
+r0.5 .01 lieb - te .67 im
+=3 cro B' leg85 c# B'
+r0.5 .01 lieb - te .67 im
+=4 cro f leg85 f f
+r0.1 .01 lieb - te .67 im
+|
+=1 min c# cro rest
+r0.5 .01 Sand,
+=2 min E cro rest
+r0.5 .01 Sand,
+=3 min Bb' cro rest
+r0.5 .01 Sand,
+=4 min e cro rest
+r0.1 .01 Sand,
+|
+=1 cro. rest G
+r0.5 .50 Er
+=2 cro. rest G
+r0.5 .50 Er
+=3 cro. rest G
+r0.6 .50 Er
+=4 cro. rest g
+r0.2 .50 Er
+|
+il0.2 .32 50
+=1 min. Bb'
+r0.5 .01 steigt
+=2 min. D
+r0.5 .01 steigt
+=3 min. Ab
+r0.6 .01 steigt
+=4 min. e
+r0.2 .01 steigt
+|
+=1 cro. F# G
+r0.5 .01 um .50 ihr
+=2 cro. D D
+r0.5 .01 um .50 ihr
+=3 cro. Bb' A
+r0.6 .01 um .50 ihr
+=4 cro. e e
+r0.2 .01 um .50 ihr
+/
+6 bars |6|6|1.5 1 1 1 1 1|6|5|5|
+|
+=1 treble cro leg95 Bb' G leg85 Bb'
+r0.5 .05 we - hen - des
+=2 treble cro leg95 C# C# leg85 D
+r0.4 .05 we - hen - des
+=3 treble8vab cro leg95 G G leg85 G
+r0.5 .05 we - hen - des
+=4 bass cro leg95 e e leg85 e
+r0.2 .05 we - hen - des
+|
+=1 cro. c# qua rest cro Ab
+r0.5 .01 Haar. .67 er
+=2 cro. E rest
+r0.4 .01 Haar.
+=3 cro. Bb' qua rest cro Ab
+r0.5 .01 Haar. .67 er
+=4 cro. e   qua rest cro ab
+r0.2 .01 Haar. .67 er
+|
+=1 qua leg95 db cro leg85 c db qua Bb'
+r0.5 .03 fället .50 ihr .86 ins
+=2 min. rest
+r0.5   
+=3 qua leg95 Ab cro leg85 Ab Ab qua Ab
+r0.5 .03 fället .50 ihr .86 ins
+=4 qua leg95 e  cro leg85 e  e  qua e
+r0.2 .03 fället .50 ihr .86 ins
+|
+il0.2 .45 55
+=1 min e cro rest
+r0.5 .01 Wort,
+=2 min. rest
+r0.5         
+=3 min Bb' cro rest
+r0.5 .01 Wort,
+=4 min e cro rest
+r0.2 .01 Wort,
+|
+=1 min. rest
+r0.5   
+=2 min. rest
+r0.5   
+=3 cro. rest cro A qua e
+r0.5 .50 er .86 be -
+=4 cro. rest cro a qua e
+r0.2 .50 er .86 be -
+|
+=1 min. rest
+r0.5   
+=2 min. rest
+r0.5   
+=3 cro. d# c
+r0.5 .01 fehlt .50 ihn
+=4 cro. eb eb
+r0.2 .01 fehlt .50 ihn
+/
+6 bars |6|6|6|6|6|6|
+|
+=1 treble min. rest
+r0.5   
+=2 treble min. rest
+r0.5   
+=3 treble8vab cro. rest B'
+r0.6 .52 zu
+=4 bass cro. rest eb
+r0.1 .52 zu
+|
+=1 min. rest
+r0.5   
+=2 min. rest
+r0.5   
+=3 cro leg95 d min leg85 vol-10 F vol+10
+r0.6 .03 schweigen,
+=4 cro leg95 d' min leg85 vol-10 d' vol+10
+r0.1 .03 schweigen,
+|
+il0.2 60
+=1 min. rest
+r0.5   
+=2 min. rest
+r0.5   
+=3 min rest cro F
+r0.5 .66 er
+=4 min rest cro d'
+r0.1 .66 er
+|
+=1 min. rest
+r0.5   
+=2 min. rest
+r0.5   
+=3 cro. leg95 Gb leg85 Gb
+r0.5 .02 fin   - .50 det
+=4 cro. leg95 d'  leg85 d'
+r0.2 .02 fin   - .50 det
+|
+=1 min. rest
+r0.5   
+=2 min. rest
+r0.5   
+=3 cro. Gb rest
+r0.5 .01 sie
+=4 cro. db rest
+r0.2 .01 sie
+|
+=1 min. rest
+r0.5   
+=2 min. rest
+r0.5   
+=3 cro leg95 Ab min leg85 vol-10 D vol+10
+r0.5 .02 sterblich
+=4 cro leg95 c  min leg85 vol-10 B vol+10
+r0.2 .02 sterblich
+
+4 systems /19 23 19 28 19 22 19 /19 23 19 24 19 24 19 \
+ /19 23 19 24 19 24 19 /19 23 19 30 19 24 19/
+pagenum 11
+innerhead Die gestundete Zeit, Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Ingeborg Bachmann,  Musik (c) 2000 Peter Billam
+/
+6 bars |5|6|4 3|6|6|6|
+|
+=1 treble min. rest
+r0.5   
+=2 treble min. rest
+r0.5   
+=3 treble8vab min. rest
+r0.5    
+=4 bass min. rest
+r0.2    
+|
+il0.2     65
+=1 min rest cro D
+r0.5 .66 und
+=2 min rest cro D
+r0.5 .66 und
+=3 min rest cro B'
+r0.5 .66 und
+=4 min. rest
+r0.2    
+|
+=1 qua leg98 F cro leg85 vol-10 E  cro. rest
+r0.5 .04 willig
+=2 qua leg98 D cro leg85 vol-10 D  cro. rest
+r0.5 .04 willig
+=3 qua leg98 A cro leg85 vol-10 Bb' cro. rest
+r0.5 .04 willig
+=4 min. rest
+r0.2    
+|
+=1 cro. rest F# vol+10
+r0.5 .50 dem
+=2 cro. rest D vol+10
+r0.5 .50 dem
+=3 cro. rest B' vol+10
+r0.5 .50 dem
+=4 min. rest
+r0.2    
+|
+=1 cro G  min vol-10 F# vol+10
+r0.5 .02 Abschied
+=2 cro E  min vol-10 E vol+10
+r0.5 .02 Abschied
+=3 cro B' min vol-10 c vol+10
+r0.5 .02 Abschied
+=4 min. rest
+r0.2    
+|
+=1 cro. rest G#
+r0.5 .48 nach
+=2 cro. rest E
+r0.5 .48 nach
+=3 cro. rest c
+r0.5 .48 nach
+=4 cro. rest g#
+r0.2 .48 nach
+/
+6 bars |6|6|5|6|6|6|
+|
+il0.4 .25 70
+=1 treble cro leg95 A leg85 vol-10 c vol+10 leg95 B'
+r0.5 .04 je - der .66 Um  -
+=2 treble cro leg95 E leg85 vol-10 G# vol+10 leg95 G#
+r0.5 .04 je - der .66 Um  -
+=3 treble8vab cro leg95 c leg85 vol-10 d vol+10 leg95 f
+r0.5 .04 je - der .66 Um  -
+=4 bass cro leg95 f# leg85 vol-10 fn vol+10 leg95 eb
+r0.2 .04 je - der .66 Um  -
+|
+=1 cro. d vol-10 G# vol+10
+r0.5 .02 ar .26 - .46 mung.
+=2 cro. F vol-10 E vol+10
+r0.5 .02 ar .26 - .46 mung.
+=3 cro. c vol-10 c vol+10
+r0.5 .02 ar .26 - .46 mung.
+=4 cro. d' vol-10 d' vol+10
+r0.2 .02 ar .26 - .46 mung.
+|
+=1 min. leg85 rest
+r0.5   
+=2 min. leg85 rest
+r0.5   
+=3 min. leg85 rest
+r0.5    
+=4 min. leg85 rest
+r0.2    
+|
+=1 cro A# G# A#
+r0.5 .01 Sieh  dich  nicht
+=2 min. rest
+r0.5      
+=3 min. rest
+r0.5    
+=4 cro d' B c#
+r0.2 .01 Sieh  dich  nicht
+|
+=1 min B' cro rest
+r0.5 .01 um.
+=2 cro Eb D Eb
+r0.5 .01 Sieh  dich  nicht
+=3 cro G# A# B'
+r0.5 .01 Sieh  dich  nicht
+=4 min f# cro rest
+r0.2 .01 um.
+|
+il0.2 .20 75
+=1 min. rest
+r0.5 
+=2 min F cro B'(2
+r0.5 .01 um. .60 Schnür
+=3 min d cro rest
+r0.5 .01 um.
+=4 min rest cro a(1
+r0.2 .60 Schnür
+/
+5 bars |6|6|6|6|6|
+|
+=1 treble min rest cro d(1
+r0.5 .63 Schnür
+=2 treble cro B')2 leg95 A leg85 G#
+r0.5 .38 deinen
+=3 treble8vab min rest cro B'(2
+r0.5 .63 Schnür
+=4 bass cro a)1 leg95 b leg85 b
+r0.2 .38 deinen
+|
+=1 cro d)1 leg95 c# leg85 B'
+r0.5 .38 deinen
+=2 min G# cro rest
+r0.5 .01 Schuh.
+=3 cro B')2 leg95 B' leg85 c#
+r0.5 .38 deinen
+=4 min f# cro rest
+r0.2 .01 Schuh.
+|
+=1 cro B' 8 rest cro A qua F
+r0.5 .01 Schuh. .50 Jag .84 die
+=2 cro G qua F# [E E] D
+r0.5 .01 Jag .33 die Hunde zu  -
+=3 cro c# 8 rest cro cn qua B
+r0.5 .01 Schuh. .50 Jag .84 die
+=4 cro e qua e [f# g#] a
+r0.2 .01 Jag .33 die Hunde zu  -
+|
+=1 qua [F# F#] G# cro. A
+r0.5 .01 Hunde .33 zurück.
+=2 cro. E rest
+r0.5 .01 rück.
+=3 qua [A G#] F# cro. Fn
+r0.5 .01 Hunde .33 zurück.
+=4 cro. c rest
+r0.2 .01 rück.
+|
+il0.2 .20 80
+=1 min. rest
+r0.5 
+=2 cro. D cro C# qua leg95 D
+r0.3 .01 Lösch .50 die .85 Lu  -
+=3 min. rest
+r0.5   
+=4 cro. B cro B qua leg95 c#
+r0.1 .01 Lösch .50 die .85 Lu  -
+/
+6 bars |6|6|6|6|4|4||
+|
+=1 treble cro. E cro E qua leg95 F#
+r0.5 .03 Lösch .50 die .85 Lu  -
+=2 treble min. B_b(1
+r0.4   - .03 pi .60 -
+=3 treble8vab cro. G cro F# qua leg95 E
+r0.5 .03 Lösch .50 die .85 Lu  -
+=4 bass min. d'(2
+r0.01   - .03 pi .60 -
+|
+=1 cro G qua leg85 G cro. rest
+r0.5 .08 pinen !
+=2 cro B_b)1 qua leg85 B_b cro. rest
+r0.4 .33 nen !
+=3 cro E qua leg85 E cro. rest
+r0.5 .08 pinen !
+=4 cro d')2 qua leg85 d' cro. rest
+r0.1 .33 nen !
+|
+=1 qua rest cro F  qua leg95 [G# A] rest
+r0.5 .17 Es .49 kommen
+=2 qua rest cro B_ qua leg95 [D C#] rest
+r0.3 .17 Es .49 kommen
+=3 qua rest cro A  qua leg95 [F  F] rest
+r0.5 .17 Es .49 kommen
+=4 qua rest cro d' qua leg95 [B c#] rest
+r0.1 .17 Es .49 kommen
+|
+=1 cro. B' qua [Gn G#] rest
+r0.5 .02 här   - .50 terer
+=2 cro. D  qua [C#  F] rest
+r0.4 .02 här   - .50 terer
+=3 cro. A  qua [B,  c] rest
+r0.4 .02 här   - .50 terer
+=4 cro. f  qua [e  d,] rest
+r0.2 .02 här   - .50 terer
+|
+il0.2 .30 85
+=1 min. leg95 vol-5 A#
+r0.5 .03 Ta .60 -
+=2 min. leg95 vol-5 E
+r0.5 .03 Ta .60 -
+=3 min. leg95 vol-5 G
+r0.5 .03 Ta .60 -
+=4 min. leg95 vol-5 c#
+r0.2 .03 Ta .60 -
+| 2.0
+=1 min. vol-5 G#-dim10
+r0.5 .01 ge.
+=2 min. vol-5 E-dim10
+r0.5 .01 ge.
+=3 min. vol-5 G#-dim10
+r0.5 .01 ge.
+=4 min. vol-5 c#-dim10
+r0.2 .01 ge.

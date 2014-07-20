@@ -1,0 +1,177 @@
+5 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19 / 19 25 19 25 19 /
+# see ~/muz/201202/03_1400.wav and pages 44-45 of book AJ
+pagenum 
+innerhead IV, Flute Trio, Peter Billam
+title I V
+leftfoot (c) 2011 Peter J Billam
+midi channel 0 patch 73 pan 50 reverb 75
+midi channel 1 patch 73 pan 05 reverb 75
+midi channel 2 patch 73 pan 95 reverb 75
+
+$N6 = g~
+$N5 = c~#
+$N4 = g
+$N3 = c#
+$N2 = G
+$N1 = C#
+$B1 = {
+=1 16 rest [$N6 $N5 $N6] rest [$N6 $N5 $N6] rest [$N6 $N5 $N6] rest [$N6 $N5 $N6]
+=2 8 rest [$N4 $N3 $N4] rest [$N4 $N3 $N4]
+=3 4 rest $N2 $N1 $N2
+}
+$B2 = {
+=1 4 rest $N5 $N6 $N5
+=2 8 rest [$N3 $N4 $N3] rest [$N3 $N4 $N3]
+=3 16 rest [$N1 $N2 $N1] rest [$N1 $N2 $N1] rest [$N1 $N2 $N1] rest [$N1 $N2 $N1]
+}
+$B = morse_thue? $B1 : $B2 ?
+/
+4 bars | 3/4 36 | 36 | 36 | 36 |
+| 2.0
+=1 treble 4/4 cha0 vol90 leg90 1 blank
+=2 treble 4/4 cha1 vol80 leg90 1 blank
+=3 treble 4/4 cha2 vol70 leg99 1 blank
+$B
+|
+$B
+
+midi off
+
+$N6 = a~n
+$N5 = e~b
+$N4 = an
+$N3 = eb
+$N2 = An
+$N1 = Eb
+|
+$B
+
+$N6 = a~b
+$N5 = d~
+$N4 = ab
+$N3 = d
+$N2 = Ab
+$N1 = D
+|
+$B
+
+$N6 = g~
+$N5 = e~b
+$N4 = g
+$N3 = eb
+$N2 = G
+$N1 = Eb
+|
+$B
+|
+$B
+
+$N6 = f~#
+$N5 = e~n
+$N4 = f#
+$N3 = en
+$N2 = F#
+$N1 = En
+|
+$B
+
+# -----------------
+
+$N6 = f~n
+$N5 = b
+$N4 = g
+$N3 = B
+$N2 = G
+$N1 = Fn
+|
+$B
+|
+$B
+
+$N6 = e~
+$N5 = a#
+$N4 = f#
+$N3 = e
+$N2 = A#
+$N1 = F#
+|
+$B
+
+$N6 = e~b
+$N5 = a
+$N4 = f
+$N3 = eb
+$N2 = B'
+$N1 = F
+|
+$B
+|
+$B
+
+# -----------------
+$N6 = e~
+$N5 = c~
+$N4 = bb
+$N3 = f#
+$N2 = Bb'
+$N1 = E
+|
+$B
+|
+$B
+
+$N6 = f~
+$N5 = b
+$N4 = f
+$N3 = B
+$N2 = A
+$N1 = Eb
+|
+$B
+
+$N6 = f~#
+$N5 = c~
+$N4 = f#
+$N3 = c
+$N2 = G#
+$N1 = D
+|
+$B
+
+$N6 = f~
+$N5 = b
+$N4 = f
+$N3 = B
+$N2 = A
+$N1 = Eb
+|
+$B
+
+$N6 = f~#
+$N5 = c~
+$N4 = f#
+$N3 = c
+$N2 = G#
+$N1 = D
+|
+$B
+
+$N6 = g~
+$N5 = e~b
+$N4 = a
+$N3 = B
+$N2 = G
+$N1 = Eb
+|
+$B
+
+$N6 = f~#
+$N5 = e~
+$N4 = bb
+$N3 = c
+$N2 = F#
+$N1 = E
+|
+$B
+

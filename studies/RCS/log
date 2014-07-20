@@ -1,0 +1,224 @@
+20080904 111400 piano_exercises pjb Piano Exercises
+20120523 214419 crossrhythms pjb 3against3, 4v5, 5v3, 5v6, 3v2, 5v2 etc
+20120606 193711 duet pjb possible 4h pattern in 16s and 3v_vl
+20120726 181745 20120722 pjb solo line thing from book AK
+20120805 171933 20120805 pjb sketch from book AK
+20121111 201825 20121111 pjb very nice 2-part invention, derived from 2+2
+20121115 092212 20121111 pjb up to bar 15 plausible sketch
+20121115 155421 20121111 pjb to 20, but don't like it...
+20121116 134911 20121111 pjb about 90 sec
+20121116 204108 20121111 pjb up to 105 sec
+20121117 101933 20121111 pjb plausible sketch to 122 sec
+20121119 150943 20121111 pjb to 157sec, end of 'jazz' variation
+20121120 211957 20121111 pjb sketch to 212 sec, but not convincing at all
+20121121 164450 20121111 pjb framework for fugal var; needs much work
+20121123 154537 20121111 pjb fugal var rhythm somewhat interestingised
+20121124 110056 20121111 pjb more polishing of 1st half
+20121125 120919 20121111 pjb first 26 bars of fugal var approaches plausibility
+20121125 144244 20121111 pjb fugal var approaches plausibility
+20121126 190504 20121111 pjb added tocfcata var; dubious :-(
+20121127 205605 20121111 pjb added harmonic var; to 362 sec
+20121128 200241 20121111 pjb to 367 sec
+20121130 133542 20121111 pjb sketched in texture-var
+20121130 163649 20121111 pjb much tweaking, eg of harmonics
+20121202 200545 20121111 pjb murmur variation now plausible
+20121203 112440 20121111 pjb fugue now plausible; must re-order
+20121203 125704 20121111 pjb approaching order ...
+20121203 135316 20121111 pjb approaching pausibility
+20121203 182454 20121111 pjb order improved ? galop seemed wrong...
+20121205 135921 01_finger_exercise pjb possible first movement
+20121208 153636 20121111 pjb repaginate
+20121208 160210 20121111 pjb vertical spacing
+20121208 160955 20121111 pjb more spacing; pagenumbers
+20121208 210919 20121111 pjb more spacing
+20121209 184654 README pjb The Plan for klavieruebungen, including other names
+20121209 184801 19_variations pjb renamed from 20121111
+20121213 214953 09_chords_including_pedal pjb Chords Including Pedal: skeleton?
+20121214 183311 09_chords_including_pedal pjb octavising; high resistance
+20121216 135341 09_chords_including_pedal pjb much octavising
+20121217 121217 09_chords_including_pedal pjb more tweaking; too many arcs
+20121217 201304 09_chords_including_pedal pjb more octavising round bars 15-19
+20121218 150439 09_chords_including_pedal pjb approach some kind of plausibility
+20121218 152505 09_chords_including_pedal pjb some spacing
+20121225 202101 07_three_against_one pjb wt chords with 3:1 passing-note trick
+20121228 135320 07_three_against_one pjb 13 bars jazzy but plausible
+20121229 121110 07_three_against_one pjb middle-section but Far too short
+20121231 121803 07_three_against_one pjb added a reasonable last five bars
+20121231 152419 07_three_against_one pjb plausible last 7 bars; just join up...
+20121231 200221 07_three_against_one pjb seems to join up...
+20130101 113316 11_crossrhythms pjb pre-processed crossrhythms; some spacing
+20130101 113436 Makefile pjb Makefile for progressive release of studies
+20130101 201527 01_finger_exercise pjb bar-numbers
+20130101 201556 07_three_against_one pjb bar-numbers
+20130101 201621 09_chords_including_pedal pjb bar-numbers, spacing
+20130101 201649 11_crossrhythms pjb bar-numbers, spacing
+20130101 201706 19_variations pjb bar-numbers
+20130104 143558 02_scales_323 pjb scales in 323, 343, 959, 979
+20130104 210633 02_scales_323 pjb plausible up to 16 bars
+20130105 130344 02_scales_323 pjb up to 22 bars ? last bit too fast ?
+20130105 210710 02_scales_323 pjb up to 26 bars, perhaps
+20130106 144809 02_scales_323 pjb possible end; perhaps a bit irrelevant
+20130107 105545 02_scales_323 pjb plausible ?
+20130107 111619 02_scales_323 pjb squeezed to 2 pages, but needs resqueezing
+20130112 162521 03_scales_424 pjb Scales basically parallel at 424 etc
+20130113 135117 03_scales_424 pjb possible 13,14 ? still very unsure about this
+20130113 201839 03_scales_424 pjb bars 7 and 8 all quavers
+20130114 112246 03_scales_424 pjb extended run-down at $-5,$-4
+20130114 133336 03_scales_424 pjb ending more plausible
+20130114 203130 03_scales_424 pjb needs some 8/8 -> 10/8 stuff
+20130115 095537 03_scales_424 pjb footling spacing
+20130117 201512 05_scales_2n2 pjb 5. Scales at Two Semitones
+20130118 121109 05_scales_2n2 pjb smoother join at 12-13
+20130122 164115 05_scales_2n2 pjb 18 bars almost plausible
+20130123 205546 05_scales_2n2 pjb up to bar 39 53 sec
+20130124 101734 05_scales_2n2 pjb up to 41, and clean out the old end bit
+20130124 154651 05_scales_2n2 pjb to end except for a conclusion
+20130125 114155 05_scales_2n2 pjb bar 48 joins up better
+20130128 213553 04_scales_233 pjb The 2+3+3 chord
+20130129 164734 04_scales_233 pjb sketch to 18
+20130131 200833 04_scales_233 pjb right hand to 21
+20130202 155659 04_scales_233 pjb up to bar 29 ?
+20130202 170207 04_scales_233 pjb up to 35 ?
+20130203 163758 04_scales_233 pjb polished, e.g. some ties
+20130203 202050 04_scales_233 pjb up to bar 55 = 83 sec ?
+20130204 112857 04_scales_233 pjb plausible to end, bar 60 = 93 sec
+20130204 161548 04_scales_233 pjb some spacing and accidental adjustments
+20130204 200847 05_scales_2n2 pjb minor tweaks, spacings; as released
+20130204 202544 04_scales_233 pjb as released
+20130228 212416 18_line pjb try 15 sec free-voice over 121 arpeg
+20130308 163804 18_line pjb up to 77 sec
+20130310 202244 18_line pjb possibly 90 sec
+20130312 111520 18_line pjb plausibly 96 sec
+20130313 180005 18_line pjb 133sec so far; transition to end?
+20130314 183113 18_line pjb too rough at end ? plausible ?
+20130316 081433 18_line pjb start move to 2 staves everywhere
+20130319 142816 18_line pjb approximately packed, on 5 pages
+20130325 111821 18_line pjb add dynamics
+20130325 114015 18_line pjb add pagination
+20130330 100309 08_4n4_3n3 pjb free scales at 3 and 4; just a shimmer so far
+20130707 193554 19_variations_video pjb 19_variations repaginated for youtube
+20130821 131334 20130821 pjb from sketchbook AM pp.28-33
+20130821 191434 20130821 pjb about 30sec of ill-fitting bits
+20130822 182328 20130821 pjb 28 reasonable seconds
+20130822 211647 20130821 pjb perhaps 32.5 sec ?
+20130824 212924 20130821 pjb prototype of 37.7 sec
+20130825 151226 20130821 pjb 40 sec; the fine-tuning begins to work
+20130830 134118 20130821 pjb notes plausible ?
+20130830 140630 20130821 pjb layed out on three pages
+20130830 160156 20130821 pjb spacing, timesigs
+20130830 160706 20130821 pjb space bars 15,16 also
+20130830 184342 13_1n1_line pjb renamed 20130821, ready for distribution
+20131109 184040 14_rabbit pjb Rabbit-series and Fibbonaci-based rhythms
+20131112 213512 14_rabbit pjb possible beginning ?
+20131114 213409 14_rabbit pjb up to 69 sec
+20131115 203552 14_rabbit pjb 3 bars gap (plus adjustments and end)
+20131116 110752 14_rabbit pjb within incremental steps up to bar 34
+20131116 175105 14_rabbit pjb polishing the 2-voice bit
+20131116 204311 14_rabbit pjb probably just need spacing and deblanking
+20131116 210539 14_rabbit pjb releaseable ?
+20131116 211644 14_rabbit pjb as released
+20131125 161613 12_morse_thue pjb morse-thue; will split into lesson,toccata
+20131125 212949 12_morse_thue pjb toccata to 64 bars and plausible ?
+20131126 143309 17_toccata pjb extracted from former 12_morse_thue
+20131127 091245 17_toccata pjb just needs vertical spacing
+20131127 103913 Makefile pjb incorporate 17_toccata
+20131201 122916 smbmincroqua pjb sketches for a possible smb,min,cro,qua
+20131201 195132 16_fractal_textures pjb ex smbmincroqua, to be renamed, 6 bars
+20131202 195437 16_fractal_textures pjb to bar 11
+20131203 101546 16_fractal_textures pjb up to bar 16 ?
+20131203 130051 16_fractal_textures pjb up to bar 17 ?
+20131203 164138 16_voice_leading pjb renamed from 16_fractal_textures
+20131205 181542 16_voice_leading pjb joins up; could be smoother round 30
+20131206 133251 16_voice_leading pjb approaching plausibility ?
+20131206 135232 16_voice_leading pjb as released
+20131206 135324 Makefile pjb incorporate 16_voice_leading
+20131213 200156 20_two_pianos pjb 20: Two Pianos
+20131217 072942 20_two_pianos pjb moved mt6 bit out
+20131217 172056 20_two_pianos pjb roll in first half of idea from bANp11
+20131217 214830 20_two_pianos pjb 18 bars thereof
+20131218 091344 20_two_pianos pjb idea from bANp11 typed in
+20131218 105754 20_two_pianos pjb add an extended and a waltz-version
+20131218 163716 20_two_pianos pjb footling
+20131218 200654 20131215 pjb sketches of fast motif perhaps for 20_two_pianos
+20131219 095509 20131215 pjb much improved the bifurcation one
+20131221 163302 20131221 pjb the 3-note drone bit of 20_*, +gaussian to 16 bars
+20131221 193056 20_two_pianos pjb 3-note drone +gaussians, and to 16 bars
+20131221 194233 20_two_pianos pjb enough for today
+20131222 113939 20_two_pianos pjb a few more gaussians for the 3-note drone
+20131223 193123 20_two_pianos pjb tweaking page two
+20131224 115000 20_two_pianos pjb add introduction
+20131224 205402 20_two_pianos pjb opening section to 48 bars
+20131225 215752 20_two_pianos pjb minor tweaks
+20131227 192157 20_two_pianos pjb just prior to major additions
+20131227 200427 20_two_pianos pjb major surgery, now 5min, needs connecting up
+20131228 132741 20_two_pianos pjb much tweaking
+20131228 182511 20_two_pianos pjb now needs the join-up from p.9 to p.10
+20131229 105030 20_two_pianos pjb approaching plausibility, 286 sec
+20131229 135209 20_two_pianos pjb joined: must fill p7 and fix octaves p6
+20131230 151336 20_two_pianos pjb fix the bar-numbers (235 in all)
+20131230 190513 20_two_pianos pjb notes right ? except perhaps =2 bass at 130
+20131230 203007 20_two_pianos pjb towards pagination
+20131231 201415 20_two_pianos pjb paginate up to about bar 160
+20131231 205801 20_two_pianos pjb paginated to 17 pages ?
+20140101 110247 20_two_pianos pjb horizontal spcing up to bar 82
+20140101 155846 20_two_pianos pjb almost releasable...
+20140101 180215 20_two_pianos pjb regrouped 5+4 to 3+3+3 ; releasable ?
+20140111 214841 20140107 pjb a sketch for 15_three_hands
+20140115 112621 20140107 pjb trimmed back to 62 sec
+20140116 173422 20140107 pjb very sketchy up to 81sec
+20140118 154949 20140107 pjb up to 112.6 sec
+20140118 170511 20140107 pjb 124 sec; is this plausible?
+20140118 193256 20140107 pjb can I squeeze this to 5 pages ?
+20140118 201044 20140107 pjb five pages
+20140118 202510 15_three_hands pjb 15 Three Hands, moved in from 20140107
+20140119 192700 15_three_hands pjb spaced and dynamicked 3 pages
+20140119 212627 15_three_hands pjb pottering around in the last 2 pages
+20140120 193203 15_three_hands pjb just whole-bar notation on p1 to be fixed
+20140131 214515 20_two_pianos pjb add forte to 32 and 124
+20140202 214508 06_contrary_motion pjb Sketch for contrary-motion study
+20140205 162138 06_contrary_motion pjb a couple more attempts from book AO
+20140206 111138 06_contrary_motion pjb up to 6smq/sec, up to 16 bars
+20140207 151519 06_contrary_motion pjb sketched up to bar 25 ?
+20140210 171739 06_contrary_motion pjb 52sec; not sure where this is headed...
+20140211 133601 06_contrary_motion pjb sketched through to end, 81sec ?
+20140211 161941 06_contrary_motion pjb add timesigs and horizontal spacing
+20140211 185335 06_contrary_motion pjb some blob-crossing, more spacing
+20140211 191242 06_contrary_motion pjb dynamic markings
+20140212 111946 06_contrary_motion pjb as released :-)
+20140215 141842 08_4n4_3n3 pjb add overnight intro idea
+20140225 162334 08_4n4_3n3 pjb sketch to bar 65, 94 sec
+20140226 182354 08_4n4_3n3 pjb tightened synthesis-bit bar 49 onwards
+20140228 163541 08_4n4_3n3 pjb sufficiently plausible ? must rename it...
+20140228 194854 08_4n4_3n3 pjb publishable ? name ?
+20140301 104956 Makefile pjb rename 08_4n4_3n3 to 08_shimmer
+20140301 113726 Makefile pjb add 08_shimmer
+20140311 192002 12_2x6_3x4_4x3_6x2 pjb Falls into place at number 12
+20140312 090556 12_2x6_3x4_4x3_6x2 pjb as released
+20140313 215733 10_passing_notes pjb sketching for 10_ , name still undecided
+20140314 140623 10_passing_notes pjb about to tighten bar 2 a lot
+20140323 195324 10_passing_notes pjb another candidate first few bars ?
+20140325 190602 10_passing_notes pjb maybe I have a first 38 sec ?
+20140325 205846 10_passing_notes pjb up the tempo; re-shorten bar 15
+20140326 110555 10_passing_notes pjb bar 17 but unconvinced
+20140326 160138 10_passing_notes pjb much footling
+20140327 141453 10_passing_notes pjb try another restart
+20140328 194921 10_passing_notes pjb a more musical and more fertile beginning?
+20140329 110222 10_passing_notes pjb add those cursed x's and l's to bars 1-10
+20140329 114618 10_passing_notes pjb to bar 12 ?
+20140329 132325 10_passing_notes pjb I think we're on our way...
+20140330 130030 10_passing_notes pjb chords to bar 33 ?
+20140330 144900 10_passing_notes pjb chords to bar 40?
+20140330 175808 10_passing_notes pjb prototype ending sketch
+20140331 204836 10_passing_notes pjb badly stuck on the free voice
+20140401 114537 10_passing_notes pjb plausible to bar 16 ?
+20140401 145214 10_passing_notes pjb still worryingly incoherent
+20140401 201241 10_passing_notes pjb needs another 8 bars of RH
+20140401 203145 10_passing_notes pjb enough for today
+20140402 094302 10_passing_notes pjb more footling
+20140402 130417 10_passing_notes pjb within tweaking-distance ?
+20140402 143224 10_passing_notes pjb plausible ? needs spacing of accidentals
+20140402 205904 10_passing_notes pjb much fussing with accidentals
+20140402 211445 10_passing_notes pjb enough for today
+20140403 110818 10_passing_notes pjb as released
+20140404 124812 Makefile pjb add all the separate studies
+20140408 152419 16_voice_leading pjb precautionary naturals in 14 and 20

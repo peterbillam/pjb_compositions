@@ -1,0 +1,152 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	98.08.17.05.30.52;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	98.05.07.03.26.39;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.04.04.11.20.26;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	94.12.13.19.27.26;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	94.12.13.19.25.46;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@title page for three songs
+@
+
+
+1.5
+log
+@date to august 1998
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 2.8c
+.ce 100
+\f3\s+9\s+7Tres Casidas del Diva\*'n del Tamarit\s-7\s-9\fP
+.sp 3.3c
+\f2\s+9poems by Federico Garci\*'a Lorca\s0\fP
+.sp 1.7c
+\f2\s+9music by Peter Billam\s0\fP
+.sp 2.1c
+\f3\s+4for Voice and Piano\s0\fP
+.sp 2.5c
+\(co Peter J Billam, 1997
+.sp 1.0c
+\s-1This score is licensed in Postscript form to the purchaser, who
+may generate printed copies or photocopies, for their own use, or for
+the use of their pupils, or of any ensemble with which they are playing
+the piece.  All other rights, such as those of performance, recording
+and broadcast, remain reserved by the composer, Peter Billam,
+GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
+.sp 1.0c
+\s-2This printing 17 August 1998.\s0
+.sp 1.5c
+\s+1\f2http://www.pjb.com.au/mus/\fP\s0
+@
+
+
+1.4
+log
+@7 May 1998
+@
+text
+@d20 5
+a24 5
+\s-1This score is licensed in Postscript form to the purchaser,
+who may generate printed copies or photocopies, for their own use,
+or for the use of any ensemble with which they are playing the piece.
+All other rights, such as those of performance, recording and
+broadcast, remain reserved by the composer, Peter Billam,
+d27 1
+a27 1
+\s-2This printing 7 May 1998.\s0
+@
+
+
+1.3
+log
+@date 4 april, for errata db in llanto bar 9
+@
+text
+@d27 1
+a27 1
+\s-2This printing 4 April 1998.\s0
+@
+
+
+1.2
+log
+@copyright date
+@
+text
+@d2 1
+d8 1
+a8 1
+.sp 2.4i
+d10 20
+a29 24
+\f3\s+9\s+9Three Songs\s-9\s-9\fP
+.br
+.sp 1.0i
+\f3\s+4music by\s0\fP
+.br
+.sp 0.7i
+\f3\s+9Peter Billam\s0\fP
+.br
+.sp 1.4i
+\f2\s+2Voice and Piano\s0\fP
+.br
+.sp 0.5i
+Poems by Jack Kerouac, Vikram Seth and Dylan Thomas.
+.br
+Peter Billam, 5 Scott St, Glebe, Hobart \s-2TAS\s0 7000, Australia
+.br
+fax 0061-002-369410
+.br
+.sp 0.3i
+\s-2This printing 14 December 1994.\s0
+.br
+.sp 1i
+.ce 1
+\(co Peter J Billam, 1993
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d32 1
+a32 1
+\(co Peter J Billam, 1994
+@

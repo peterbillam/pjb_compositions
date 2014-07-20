@@ -1,0 +1,490 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4;
+comment	@# @;
+
+
+1.4
+date	2003.12.07.09.18.12;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2002.05.01.09.01.49;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.08.26.02.47.28;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2000.08.14.10.38.18;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Overture of November at the Carousel
+@
+
+
+1.4
+log
+@prune three bars
+@
+text
+@3 systems 10 /20 25 20 25 20 25 20/20 25 20 25 20 25 20/20 25 20 35 20 25 20 10/
+pagenum 1
+title November at the Carousel, Overture
+innerhead Peter Billam
+leftfoot (c) 2000 Peter J Billam
+/
+2 bars |8|8|
+|
+i0.5          Quiet but powerful   mm = 63
+=1 treble   qua [C B_] [C D] [<C Eb> <B_ D>] [<C Eb> <D F#>]
+i0.1              clarinets, strings
+=2 treble  
+=3 bass     min. <eb g> cro <f# a>
+i0.9              horns, bassoons
+=4, bass min C C
+=4' cro c c c c
+=4 smb C_r
+|
+=1' qua [<C Eb G> <B_ D F#>] [<C Eb G> <D F# A>] \
+ [<Eb G B> <D F# A>] [<Eb G B> <F# A c>]
+i0.1       t9 t10 z44 z36 v37 v43
+=3 min. <eb g> cro <d f#>
+=4' cro c c c c
+=4, min C C
+=4 smb C_r
+/
+2 bars |8|8|
+|
+=1, qua <[G B d> <F# A c>] <G B d>[ <A c eb>] \
+ [<B d f#> <c eb g>] [<d f# a> <eb g b(1>]
+=2 qua rest A(2 min A)2 cro G
+i0.8 .06 soprano sax
+=3 min. <eb g> cro <f# a>
+=4' cro c c c c
+=4, min C C
+=4 smb C_r
+|
+=1 smb b)1
+=1  qua [E D#] [E F#] [<E G> <D# F>#] [<E G> <F# A#>]
+=2 min B' E
+=3  min. <g b> cro <f# a#>
+=4, min E E
+=4' cro e e e e
+=4  smb E_r
+/
+3 bars |8|8|8|
+|
+il0.8           5
+=1' qua [<E G B> <D# F# A#>] [<E G B> <F# A# c#>] \
+ [<G B d#> <A# c# e>] [<B d# f#> <c# e g>]
+=2' cro rest' min c# cro B
+=2  smb G
+=3  min. <g b> cro <a# c~#>
+=4' cro e e e e
+=4, min E E
+=4, min. E_r cro F_#
+|
+=1  smb g#
+=1' dsq blank qua [G# Gn] [G# A#] [<G# B> <Gn Bb>] [<G#l Bn> <A# d>]
+=2  cro d# Gn qua rest F [G Ab]
+=3  min. <b d~#> cro <d~n f~>
+=4' cro g# g# g# g#
+=4, min G# G#
+=4, min. G_#r cro A_#
+|
+=1' qua [<G# B d#> <A# dn f>] min. g#
+=1, cro blank qua [<B d> <A# c#>] [<B d> <c# f>] [<B d f#> <c# f ab>]
+=2' qua [B D(2] min D)2 cro C#(2
+=3  cro <d~ f~#> <c~#l f~n> <d~ f~#> <f~nl a~b>
+=4' cro b b b b
+=4, min B B
+=4, min. B_r cro C#(2
+
+3 systems 10 /20 25 20 30 20 25 20/20 25 20 30 20 25 20/20 25 20 30 20 25 20 10/
+pagenum 2
+innerhead Overture, November at the Carousel, Peter Billam
+leftfoot (c) 2000 Peter J Billam
+/
+2 bars |8|8|
+|
+i0.9    qua = 88
+=1' cro. g# qua f# cro. g# qua f#
+=1, cro G# A# min B
+i0.3       Cool, sustained
+=2' cro. E qua F# cro. G# qua F#
+=2, min C#)2 cro D E
+=4  cro a a# b c~
+=4, min. C#)2 cro rest,
+|
+=1, qua [<G# g#> <c# c~#>] [<B b> <A#(2 a#>(1] \
+ [<A#)2 a#)1> <d# d~#>] [<c# c~#> <c c~>]
+=2 cro E F F# G
+=4 cro c~# d~ d~# e~
+/
+3 bars |8|8|6|
+|
+il0.9 .18 10
+=1' treble cro. c~ qua bb cro. c~ qua bb
+=1, cro c d cro. c qua Bb
+=2' treble cro. Ab qua Bb cro F# G#
+=3  bass
+=4  bass cro f~ d~ d~# e~
+|
+=1, qua [<c c~> <G g>] [<G# g#> <A(2 a(1>] [<A)2 a)1> <E e>] cro <F f>
+=2' cro F E D D
+=4  cro d~ c~# b a
+|
+=1 smb <B b-I{sf}>
+=2 min rest <F Ab>
+i0.9                    stopped horns
+=4 smb <B b-I{sf}>
+i0.1  pno, brass, clrs
+/
+5 bars |4|4|4|4|4|
+|
+=1 treble smb <d# d~#-I{sf}>
+i0.2               cello, sax
+=2 treble cro rest min G cro c'
+=3 bass
+=4 bass   smb <D# d#-I{sf}>
+|
+=1 smb <A a-I{sf}>
+i0.7          stopped horns
+=2 min rest <D# F#-I{sf}>
+=4 smb <A_ A-I{sf}>
+|
+=1 smb <c# c~#-I{sf}>
+i0.2          saxes
+=2 cro rest min <F# A> cro <E G#>
+=4 smb <c# C#-I{sf}>(2
+|
+=1 smb <G g-I{sf}>
+i0.2          stopped horns
+=2 min rest <C# E>
+=4 smb <G_ G-I{sf}>
+|
+=1 smb <B b-I{sf}>
+i0.2          saxes
+=2 cro rest min <E G> cro <D F#>
+=4 smb <B B_-I{sf}>(2
+@
+
+
+1.3
+log
+@revise with +4st rises, 2 extra bars
+@
+text
+@d1 1
+a1 1
+3 systems 10 /20 25 20 30 20 25 20/20 25 20 30 20 25 20/20 25 20 30 20 25 20 10/
+d7 1
+a7 1
+3 bars |8|8|8|
+d10 1
+a10 1
+=1 treble   qua C[ B_] C[ D] <C Eb>[ <B_ D>] <C Eb>[ <D F#>]
+d13 1
+a13 1
+=3 bass     min. <eb g> cro <d f#>
+d19 2
+a20 1
+=1' qua <C Eb G>[ <B_ D F#>] <C Eb G>[ <D F# A>] <Eb G B>[ <D F# A>] <Eb G B>[ <F# A c>]
+d22 1
+a22 1
+=3 min. <eb g> cro <f# a>
+d26 2
+d29 5
+a33 2
+=1, qua <G B d>[ <F# A c>] <G B d>[ <A c eb>] <B d f#>[ <A c eb>] <B d f#>[ <c eb g>]
+=3 min. <eb g> cro <d f#>
+a36 9
+/
+3 bars |8|8|8|
+|
+=1, treble  qua <d f# a>[ <c eb g>] <d f# a>[ <eb g b>] <f# a c~>[ <eb g b>] <f# a c~>[ <g b d~>]
+=2 treble  
+=3 bass     min. <eb g> cro <f# a>
+=4' bass    cro c c c c
+=4, min C C
+=4,  min. C_r cro D_
+d38 1
+a38 2
+il0.3           5
+=1 smb e~
+d40 1
+d45 2
+d48 1
+d50 4
+a53 2
+ [<G B d#> <F# A# c#>] [<G B d#> <A# c# e>]
+=3  min. <g b> cro <f# a#>
+d56 1
+a56 3
+=4  smb E_r
+/
+3 bars |1 1 1 1 1 1 1.2 1|8|8|
+d58 4
+a61 12
+=1' treble min. blank qua [f# <g b>]
+=1, treble qua [<B d# f#> <A# c# e>] [<B d# f#> <c# e g>] \
+ [<d# f# a#> <c# e g>] cro <d# a#>
+=2 treble  
+=3  bass   min. <g b> cro <a# c~#>
+=4' bass   cro e e e e
+=4, min E E
+=4,  min. E_r cro F_#
+|
+=1  smb b
+=1' qua G#[ Gn] G#[ A#] <G# B>[ <Gn Gb>] <G# B>[ <A# d>]
+=3  min. <b d~#> cro <a# d~n>
+d64 1
+a64 1
+=4  smb G_#r
+d66 7
+a72 6
+=1' qua [<G# B d#> <Gn Bb dn>] [<G# B d#> <A# dn f>] \
+ [<B d# g> <A# dn f>] [<B d# g> <dn f ab(1>]
+=3  min. <b d~#> cro <d~n f~>
+=4' cro g# g# g# g#
+=4, min G# G#
+=4,  min. G_#r cro A_#
+d79 1
+a79 10
+3 bars |8|8|8|
+|
+il0.5           10
+=1 treble smb g#)1
+=1, qua [<B d> <A# c#>] [<B d> <c# f>] [<B d f#> <A# c# f>] [<B d f#> <c# f ab>]
+=2 treble  
+=3  bass   cro <d~ f~#> <c~# f~n> <d~ f~#> <f~n a~b>
+=4' bass    cro b b b b
+=4, min B B
+=4, min. B_r cro C#(2
+d86 1
+a86 1
+=2, min C# cro D E
+d97 1
+a107 1
+il0.4      15
+d123 1
+a123 1
+i0.2          stopped horns
+@
+
+
+1.2
+log
+@a few minor changes
+@
+text
+@d1 1
+a1 1
+4 systems /20 35 20 25 20/20 25 20 25 20/20 25 20 25 20/20 35 20 30 20 10/
+d11 3
+a13 3
+i0.6              clarinets, strings
+r0.1       t9 t10 z44 z36 v37 v43
+=2 bass     min. <eb g> cro <d f#>
+d15 3
+a17 3
+=3, bass min C C
+=3' cro c c c c
+=3 smb C_r
+d20 5
+a24 4
+=2 min. <eb g> cro <f# a>
+=3' cro c c c c
+=3, min C C
+=3 smb C_r
+d27 4
+a30 4
+=2 min. <eb g> cro <d f#>
+=3' cro c c c c
+=3, min C C
+=3 smb C_r
+d35 5
+a39 4
+=2 bass     min. <eb g> cro <f# a>
+=3' bass    cro c c c c
+=3, min C C
+=3,  min. C_r cro D_
+d42 13
+a54 12
+=1 smb e~b
+=1  qua Eb[ D] Eb[ F] <Eb Gb>[ <D F>] <Eb Gb>[ <F A>]
+=2  min. <gb bb> cro <f a>
+=3, min Eb Eb
+=3' cro eb eb eb eb
+=3  smb E_br
+|
+=1' qua <Eb Gb Bb>[ <D F A>] <Eb Gb Bb>[ <F A c>] <Gb Bb d>[ <F A c>] <Gb Bb d>[ <A c eb>]
+=2  min. <gb bb> cro <f a>
+=3' cro eb eb eb eb
+=3, min Eb Eb
+=3  smb E_br
+d58 22
+a79 44
+=1' treble min. blank qua [fr <f# bb>]
+=1, treble qua [<Bb d f> <A c eb>] [<Bb d f> <c eb gb>] [<d f a> <c eb gb>] \
+ cro <d a>
+=2  bass   min. <gb bb> cro <a c~>
+=3' bass   cro eb eb eb eb
+=3, min Eb Eb
+=3,  min. E_br cro F_
+|
+=1  smb a
+=1' qua F#[ Fn] F#[ G#] <F# A>[ <Fn Ab>] <F# A>[ <G# c>]
+=2  min. <a c~#> cro <g# c~n>
+=3, min F# F#
+=3' cro f# f# f# f#
+=3  smb F_#r
+|
+=1' qua [<F# A c#> <Fn Ab cn>] [<F# A c#> <G# cn eb>] \
+ [<A c# f> <G# cn eb>] [<A c# f> <cn eb gb(1>]
+=2  min. <a c~#> cro <c~n e~b>
+=3' cro f# f# f# f#
+=3, min F# F#
+=3,  min. F_#r cro G_#
+/
+3 bars |8|8|8|
+|
+il0.5           10
+=1 smb f#)1
+=1, treble qua <A c>[ <G# B>] <A c>[ <B d#>] <A c e>[ <G# B d#>] <A c e>[ <B d# f#>]
+=2  bass   cro <c~ e~> <b d~#> <c~ e~> <d~# f~#>
+=3' bass    cro a a a a
+=3, min A A
+=3, min. A_r cro B_(2
+|
+i0.8      qua = 88
+=1' clefspace cro. f# qua e cro. f# qua e
+=1, clefspace cro F# G# min A
+i0.3       Cool, sustained
+=2' treble cro. D qua E cro. F# qua E
+=2, clefspace min B_ cro C D
+=3  clefspace cro g g# a bb
+=3,  clefspace min. B_)2 cro rest,,
+|
+=1, qua [<F# f#> <B b>] [<A a> <G#(2 g#>(1] [<G#)2 g#)1> <c# c~#>] [<B b> <Bb bb>]
+=2 cro D Eb En F
+=3 cro b c~ c~# d~
+d81 1
+a81 1
+4 systems /20 30 20 30 20/20 30 20 30 20/20 30 20 30 20/20 30 20 30 20/
+d86 1
+a86 1
+3 bars |8|8|7|
+d88 34
+a121 8
+=1' treble cro. bb qua ab cro. bb qua ab
+=1, cro Bb c cro. Bb qua Ab
+=2' treble cro. Gb qua Ab cro E F#
+=3  bass cro e~b c~ c~# d~
+|
+=1, qua [<Bb bb> <F f>] [<F# f#> <G(2 g(1>] [<G)2 g)1> <D d>] cro <Eb eb>
+=2' cro Eb D C C
+=3  cro c~ b a g
+d124 2
+a125 3
+=1 smb <A a>
+I0.9   sf
+=2 min rest <Eb Gb>
+d127 1
+a127 2
+I0.2   sf
+=3 smb <A a>
+d130 1
+a130 1
+4 bars |5.4|5.4|5.4|8|
+d132 18
+a149 10
+=1 treble smb <c# c~#>
+I0.9        sf
+i0.2                         cello, sax
+=2 treble cro rest min F cro Bb'
+I0.1        sf
+=3 bass   smb <C# c#>
+|
+=1 smb <G g>
+I0.9   sf
+i0.2                    stopped horns
+d151 1
+a151 2
+I0.1   sf
+=3 smb <G_ G>
+d153 2
+a154 3
+=1 smb <B b>
+I0.9   sf
+i0.2              saxes
+d156 1
+a156 9
+I0.1   sf
+=3 smb <B B_>(2
+|
+=1' cro. f# qua e cro. f# qua e
+=1, cro F# G# min A
+=2' cro. D qua E cro. F# qua E
+=2, min B_ cro C D
+=3  cro g g# a bb
+=3, min. B_)2 cro rest,,
+@
+
+
+1.1
+log
+@up to bar 19, could connect to I/1
+@
+text
+@d9 1
+a9 1
+i0.5          Powerful   mm = 63
+d53 1
+a53 1
+3 bars |8|8|8|
+d55 3
+a57 1
+=1, treble qua <Bb d f>[ <A c eb>] <Bb d f>[ <c eb gb>] <d f a>[ <c eb gb>] <d f a>[ <eb gb bb>]
+d70 2
+a71 1
+=1' qua <F# A c#>[ <Fn Ab cn>] <F# A c#>[ <G# cn eb>] <A c# f>[ <G# cn eb>] <A c# f>[ <cn eb gb>]
+d80 1
+a80 1
+=1 smb f#
+d87 1
+d96 3
+a98 2
+=1, qua [<F# f#> <B b>] [<A a> <G# g#>] [<G# g#> <c# c~#>] [<B b> <Bb bb>]
+=2 cro <B_ D> <C Eb> <C# E> <D F>
+d107 1
+a107 1
+=1' treble cro. bb qua ab cro bb qua ab
+d112 1
+a112 1
+=1, qua [<Bb bb> <F f>] [<Gb gb> <Gn gn>] [<G g> <D d>] cro <Eb eb>
+d114 1
+a114 1
+=2  cro c~ b a g
+d116 1
+a116 1
+il0.4    15
+d120 1
+d123 1
+d129 1
+d136 1
+d143 1
+d146 1
+a146 1
+=3 smb <B_ B>(2
+@

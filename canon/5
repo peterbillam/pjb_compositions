@@ -1,0 +1,437 @@
+3 systems 15 / 18-20-18-25-18-20-18-20-18 \
+ / 18-22-18-24-18-20-18-20-18 / 18-25-18-22-18-20-18-22-18 15 /
+pagenum
+title Canon  at five semitones
+innerhead Peter Billam
+leftfoot (c) 2009 Peter J Billam
+/
+5 bars | 5/4 50 | 10 10 10 12 12 | 60 | 60 | 65 |
+| 3.0
+midi channel 1 patch 0 reverb 90 pan 95
+midi channel 2 patch 0 reverb 90 pan 65
+midi channel 3 patch 0 reverb 90 pan 35
+midi channel 4 patch 0 reverb 90 pan 5
+il0.4 .03 with two free voices
+=1 treble cha1 vol100 1 rest
+=2 treble cha2 vol100 1 rest
+=3 bass   cha3 vol100 1 rest
+=4 bass   cha4 vol100 2 rest 2. g
+=5 bass   cha5 vol100 1 rest
+|
+=1 1 rest
+=2 1 rest
+=3 2 rest 2. c~
+=4 2. d 4 rest d
+=5 1 rest
+|
+=1 1 rest
+=2 2 rest 2. F
+=3 2. g 4 rest g
+=4 4 leg99 d-emph 2 eb 4 rest leg85 eb
+=5 1 rest
+|
+I0.1 .58 pp
+i0.1 .75 sempre
+=1 1 rest
+=2 2. C 4 rest C
+=3 4 leg99 g-emph 2 g# 4 rest leg85 g#
+=4 4 leg99 eb-emph 2 en 4 rest leg85 e
+=5 1 rest
+|
+il0.5 .05 5
+=1 4. leg180 vol65 rest 4 c# c~# c# 8 c~#(1
+=2 4 leg99 C-emph 2 C# 4 rest leg85 C#
+=3 4 leg99 g#-emph 2 a 4 rest leg85 a
+=4 4 leg99 e-emph 2 f 4 rest leg85 f
+# =5 2 rest 8 [G A] 4 F 8 [G F]
+# =5 2. rest leg99 43 G C#-I3 D#
+# =5 2. rest leg99 2 G
+=5 2. rest leg99 2 F
+/
+5 bars | 8 6 5 5 5 5 6 6 6 5 | 60 | 60 | 60 | 60 |
+|
+# =1 2 rest 8 [c~ d~] 4 bb 8 [c~ bb]
+# =1 2. rest leg99 43 e f#-I3 g
+=1 8 c~#)1 4 c# 4. rest 2 rest
+=2  4 leg99 C#-emph 2 D 4 rest leg85 D
+=3 4 leg99 a-emph 2 bb 4 rest leg85 bb
+=4  4 leg99 f#-emph 2 g 4 rest leg85 g
+# =5 4. E 8 D [C D] 4. B_b 8 C
+=5 1 E
+|
+# =1 4 a 83-s rest [c~ d~] [e~b f~ d~] [c~ d~ bb] [a c~ bb]
+# =1 43 a b-I3 a g f-I3 e 4 f
+# =1 8 c)1 4 c~ c 4. rest
+=1 1 rest
+=2 4 leg99 D-emph 2 Eb 4 rest leg85 Eb
+=3 4 leg99 bn 2 c~ 4 rest leg85 c~
+=4 1 g
+# =5 1 A_
+# =5 2. rest 43 A Eb-I3 F
+# =5 2. rest 2 Eb
+=5 2. rest 2 Bb
+|
+# =1 43 g a-I3 g f e-I3 d 4 c
+=1 4 rest 4. leg180 vol65 rest 4 d d~ 8 d(1
+=2 4 leg99 En 2 F 4 rest leg85 F
+=3 1 c~
+=4 2. rest 2 g(1
+# =5 2 G 2. A
+=5 1 A(2
+|
+=1 8 d)1 4 d~ d 4. rest 4 rest
+=2 1 F
+=3 2. rest 2 c~(1
+=4 4 g)1 2 d 4 rest d
+# =5 2. A 43 rest G-I3 A
+=5 2 A)2 4. G A
+|
+il0.5 .05 10
+=1 4 rest 4. leg180 vol65 rest 4 eb e~b 8 eb(1
+=2 2. rest 2 F(1
+=3 4 c~)1 2 g 4 rest g
+=4 4 leg99 d-emph 2 c# 4 rest leg85 c#
+=5 1 Bb
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 8 eb)1 4 e~b eb 4. rest 4 rest
+=2 4 F)1 2 C 4 rest C
+=3 4 leg99 g-emph 2 f# 4 rest leg85 f#
+=4 4 leg99 c#-emph 2 eb 4 rest leg85 eb
+# =5 2 rest 8 [Bb c] 4 Ab 8 [Bb Ab]
+=5 2 rest 4. Bb A
+|
+=1 4 rest 4. leg180 vol65 rest 4 en e~ 8 e(1
+=2 4 leg99 C-emph 2 B_ 4 rest leg85 B_
+=3 4 leg99 f#-emph 2 g# 4 rest leg85 g#
+=4 4 leg99 eb-emph 2 d 4 rest leg85 d
+# =5 1 F#
+=5 2 G# 4. G# A#
+|
+=1 8 e)1 4 e~ e 4. rest 4 rest
+=2 4 leg99 B_-emph 2 C# 4 rest leg85 C#
+=3 4 leg99 g#-emph 2 gn 4 rest leg85 g
+=4 4 leg99 d-emph 2 c# 4 rest leg85 c#
+# =5 8 [E F#] 1 Eb(2
+=5 2 B 4. B Bb
+|
+=1 1 rest
+=2 4 leg99 C#-emph 2 Cn 4 rest leg85 C
+=3 4 leg99 g-emph 2 f# 4 rest leg85 f#
+=4 2. leg99 eb-emph 2 leg85 eb
+# =5 4. Eb)2 8 Db [C Db] 4 B_b 8 [C B_b]
+# =5 2. A 43 rest Ab-I3 Gb
+=5 2 A 4. Ab Gb
+
+3 systems 15 / 18-20-18-25-18-20-18-20-18 \
+ / 18-20-18-25-18-20-18-20-18 / 18-22-18-22-18-22-18-22-18 15 /
+pagenum
+innerhead Canon  at five semitones
+leftfoot (c) 2009 Peter J Billam
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+il0.5 .05 15
+=1 4 rest 4. leg180 vol65 rest 4 f f~ 8 f(1
+=2 4 leg99 C-emph 2 B_ 4 rest leg85 B_
+=3 2. leg99 g#-emph 2 leg85 g#
+=4 1 leg99 eb-emph 4 leg85 eb
+# =5 1 A_b(1
+=5 1 F
+|
+=1 8 f)1 4 f~ f 4. rest 4 rest
+=2 2. leg99 C#-emph 2 leg85 C#
+=3 1 leg99 g#-emph 4 leg85 g#
+=4 4 leg99 eb-emph 2 f 4 rest leg85 f
+# =5 1 A_b)1
+# =5 1 Bb
+=5 2. rest 2 F
+|
+=1 4 rest 4. leg180 vol65 rest 4 f# f~# 8 f#(1
+=2 1 leg99 C#-emph 4 leg85 C#
+=3 4 leg99 g#-emph 2 bb 4 rest leg85 bb
+=4 4 leg99 f-emph 2 e 4 rest leg85 e
+# =5 2 rest 2. Ab
+=5 1 Bb
+|
+=1 8 f#)1 4 f~# f# 4. rest 4 rest
+=2 4 leg99 C#-emph 2 Eb 4 rest leg85 Eb
+=3 4 leg99 bb-emph 2 a 4 rest leg85 a
+=4 4 leg99 e-emph 2 eb 4 rest leg85 eb
+# =5 8 [Gb Ab] 1 F(2
+=5 2. rest 2 F#
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+# =1 8 [b c~#] 1 bb
+=1 1 rest
+=2 4 leg99 Eb-emph 2 D 4 rest leg85 D
+=3 4 leg99 a-emph 2 g# 4 rest leg85 g#
+=4 4 leg99 eb-emph 2 f 4 rest leg85 f
+# =5 1 F)2
+=5 2. c 2 B
+|
+il0.5 .05 20
+=1 4. leg180 vol65 rest 4 g g~ g 8 g~(1
+=2 4 leg99 D-emph 2 C# 4 rest leg85 C#
+=3 4 leg99 g#-emph 2 bb 4 rest leg85 bb
+=4 4 leg99 f-emph 2 e 4 rest leg85 e
+# =5 2 rest 2. Ab
+=5 1 Bb
+|
+=1 8 g~)1 4 g 4. rest 2 rest
+=2 4 leg99 C#-emph 2 Eb 4 rest leg85 Eb
+=3 4 leg99 bb-emph 2 a 4 rest leg85 a
+=4 4 leg99 e-emph 2 eb 4 rest leg85 eb
+# =5 8 [Gb Ab] 1 F(2
+=5 2. rest 2 F_#
+|
+# =1 8 [b c~#] 1 bb
+=1 1 rest
+=2 4 leg99 Eb-emph 2 D 4 rest leg85 D
+=3 4 leg99 a-emph 2 g# 4 rest leg85 g#
+=4 2. leg99 f-emph 2 leg85 f
+# =5 1 F)2
+=5 2. C 2 B_n
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 4. leg180 vol65 rest 4 g g~ g 8 g~(1
+=2 4 leg99 D-emph 2 C# 4 rest leg85 C#
+=3 2. leg99 bb-emph 2 leg85 bb
+=4 1 leg99 f-emph 4 leg85 f
+=5 1 B_b(2
+|
+=1 8 g~)1 4 g 4. rest 2 rest
+=2 2. leg99 Eb-emph 2 leg85 Eb
+=3 1 leg99 bb-emph 4 leg85 bb
+=4 4 leg99 f-emph 2 g 4 rest leg85 g
+=5 1 B_b)2
+|
+il0.5 .05 25
+=1 4. leg180 vol65 rest 4 g# g~# g# 8 g~#(1
+=2 1 leg99 Eb-emph 4 leg85 Eb
+=3 4 leg99 bb-emph 2 c~ 4 rest leg85 c~
+=4 4 leg99 g-emph 2 f# 4 rest leg85 f#
+=5 2. rest 2 B_b
+|
+=1 8 g~#)1 4 g# 4. rest 2 rest
+=2 4 leg99 Eb-emph 2 F 4 rest leg85 F
+=3 4 leg99 c~-emph 2 b 4 rest leg85 b
+=4 4 leg99 f#-emph 2 fn 4 rest leg85 f
+# =5 8 [B_b A_] 1 G_
+=5 2 G_# 4. A_# B_
+
+3 systems 15 / 18-22-18-22-18-22-18-20-18 \
+ / 18-22-18-20-18-22-18-20-18 / 18-25-18-20-18-25-18-20-18 15 /
+pagenum
+innerhead Canon  at five semitones
+leftfoot (c) 2009 Peter J Billam
+/
+5 bars | 60 | 60 | 60 | 60 | 60 |
+|
+=1 1 rest
+=2 4 leg99 F-emph 2 E 4 rest leg85 E
+=3 4 leg99 b-emph 2 bb 4 rest leg85 bb
+=4 2. leg99 g-emph 2 leg85 g
+# =5 2. C# 43 rest Cn-I3 B_b
+=5 2 Db 4. C B_b
+|
+=1 1 rest
+=2 4 leg99 E-emph 2 Eb 4 rest leg85 Eb
+=3 2. leg99 c~-emph 2 leg85 c~ treble
+=4 1 leg99 g-emph 4 leg85 g
+# =5 2. A_ 43 rest B_b-I3 C
+=5 2 A_ 4. B_b C
+|
+=1 4. leg180 vol65 rest 4 a a~ a 8 a~(1
+=2 2. leg99 F-emph 2 leg85 F
+=3 1 leg99 C-emph 4 leg85 C
+=4 4 leg99 g-emph 2 a 4 rest leg85 a
+=5 2. D 2 Eb
+|
+il0.5 .45 30
+=1 8 a~)1 4 a 4. rest 2 rest
+=2 1 leg99 F-emph 4 leg85 F
+=3 4 leg99 C-emph 2 D 4 rest leg85 D
+=4 4 leg99 a-emph 2 g# 4 rest leg85 g#
+=5 2. D 2 C
+|
+=1 1 rest
+=2 4 leg99 F-emph 2 G 4 rest leg85 G
+=3 4 leg99 D-emph 2 C# 4 rest leg85 C#
+=4 4 leg99 g#-emph 2 gn 4 rest leg85 g
+=5 1 B_b
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 4 leg180 vol65 rest 43 rest'' a~-I3 e~ a~b e~b-I3 g~
+=2 4 leg99 G-emph 2 F# 4 rest leg85 F#
+=3 4 leg99 C#-emph 2 Cn 4 rest leg85 C
+=4 4 leg99 g-emph 2 a 4 rest leg85 a
+# =5 1 E
+=5 1 rest
+|
+=1 8 [g~b c~ f~ e~] [b e~b] 43 d~ bb-I3  rest
+=2 4 leg99 F#-emph 2 Fn 4 rest leg85 F
+=3 4 leg99 C-emph 2 D 4 rest leg85 D
+=4 4 leg99 a-emph 2 g# 4 rest leg85 g#
+=5 2. rest 2 F
+|
+=1 1 rest
+=2 4 leg99 F-emph 2 G 4 rest leg85 G
+=3 4 leg99 D-emph 2 C# 4 rest leg85 C#
+=4 4 leg99 g#-emph 2 gn 4 rest leg85 g
+=5 1 Bb
+|
+il0.5 .05 35
+=1 4 leg180 vol65 rest 43 rest' a-I3 e ab eb-I3 g
+=2 4 leg99 G-emph 2 F# 4 rest leg85 F#
+=3 4 leg99 C#-emph 2 Cn 4 rest leg85 C
+=4 2. leg99 a-emph 2 leg85 a
+=5 2. rest 2 F#
+/
+5 bars | 7 7 7 7 8 7 7 7 7 7 \
+ | 12 10 10 12 11 | 13 10 10 13 11 | 13 10 10 13 11 | 13 10 10 13 11 |
+|
+=1 8 [gb c] [f e B eb] 43 d' A-I3 c'
+=2 4 leg99 F#-emph 2 Fn 4 rest leg85 F
+=3 2. leg99 D-emph 2 leg85 D
+=4 1 leg99 a-emph 4 leg85 a
+=5 1 B(2
+|
+=1 1 B
+=2 2. leg99 G-emph 2 leg85 G
+=3 1 leg99 D-emph 4 leg85 D
+=4 4 leg99 a-emph 2 b 4 rest leg85 b
+=5 2. B)2 2 B
+|
+=1 1 rest
+=2 1 leg99 G-emph 4 leg85 G
+=3 4 leg99 D-emph 2 E 4 rest leg85 E
+=4 4 leg99 b-emph 2 bb 4 rest leg85 bb
+=5 2. e 2 G
+|
+=1 2 rest 4. rest c
+=2 4 leg99 G-emph 2 A 4 rest leg85 A
+=3 4 leg99 E-emph 2 Eb 4 rest leg85 Eb
+=4 4 leg99 bb-emph 2 a 4 rest leg85 a
+# =5 2. rest 2 C#
+=5 2. c 2 C
+|
+il0.5 .05 40
+=1 4. c B 2 rest
+=2 4 leg99 A-emph 2 G# 4 rest leg85 G#
+=3 4 leg99 Eb-emph 2 D 4 rest leg85 D
+=4 4 leg99 a-emph 2 b 4 rest leg85 b
+# =5 1 F
+=5 2. Gb 2 F
+
+3 systems 15 / 18-22-18-20-18-22-18-20-18 \
+ / 18-20-18-20-18-20-18-20-18 / 18-25-18-25-18-20-18-20-18 15 /
+pagenum
+innerhead Canon  at five semitones
+leftfoot (c) 2009 Peter J Billam
+/
+5 bars | 60 | 60 | 60 | 60 | 60 |
+|
+=1 1 rest
+=2 4 leg99 G#-emph 2 Gn 4 rest leg85 G
+=3 4 leg99 D-emph 2 E 4 rest leg85 E
+=4 4 leg99 b-emph 2 bb 4 rest leg85 bb
+=5 2. E 2 D
+|
+=1 2. rest 2 c
+=2 4 leg99 G-emph 2 A 4 rest leg85 A
+=3 4 leg99 E-emph 2 Eb 4 rest leg85 Eb
+=4 4 leg99 bb-emph 2 a 4 rest leg85 a
+=5 1 C
+|
+=1 2 c 2. B
+=2 4 leg99 A-emph 2 G# 4 rest leg85 G#
+=3 4 leg99 Eb-emph 2 D 4 rest leg85 D
+=4 4 leg99 a-emph 2 b 4 rest leg85 b
+# =5 1 F
+=5 2. rest 2 D
+|
+=1 1 rest
+=2 4 leg99 G#-emph 2 Gn 4 rest leg85 G
+=3 4 leg99 D-emph 2 E 4 rest leg85 E
+=4 2. leg99 b-emph 2 b(1
+=5 1 leg180 E
+|
+il0.5 .05 45
+=1 1 rest
+=2 4 leg99 G-emph 2 A 4 rest leg85 A
+=3 2. leg99 E-emph 2 E(1
+=4 2 b)1 2. f#(1
+=5 1 e
+/
+5 bars | 7 6 6 6 6 6 6 6 6 6 | 60 | 60 | 8 6 6 6 6 6 6 6 6 6 | 60 |
+|
+=1 leg180 vol65 8 rest' 4. a a~ a
+=2 2. leg99 A-emph 2 A(1
+=3 2 E)1 bass 2. b(1
+=4 4 f#)1 1 c#(1
+=5 1 leg99 E
+|
+=1 4. a~ a A 8 a(1
+=2 2 A)1 2. E(1
+=3 4 b)1 1 f#(1
+=4 1 c#)1
+=5 2. E_ 2 E
+|
+=1 4 a)1 4. A a 4 A(2
+=2 4 E)1 1 B_(1
+=3 1 f#)1
+=4 1 d(1
+=5 2. F# 2 F_#
+|
+=1 8 A)2 4. a A a
+=2 1 B_)1
+=3 1 g(1
+=4 1 d)1 4 eb(1
+=5 1 <G(4 G_(2>
+|
+il0.5 .05 50
+=1 leg180 vol65 4. Bb bb 2 Bb
+=2 1 C(1
+=3 1 g)1 4 g#(1
+=4 1 eb)1(1
+=5 1 <G)4 G_)2>
+/
+5 bars | 60 | 60 | 60 | 60 | 40 ||
+|
+=1 2 bb Bb 4 bb(1
+=2 1 C)1 4 C#(1
+=3 1 g#)1(1
+=4 1 eb)1
+=5 1 <G#(4 G_#(2>
+|
+=1 4 bb)1 2 Bb bb
+=2 1 C#)1(1
+=3 1 g#)1
+=4 1 e(1
+=5 1 <G#)4 G_#)2>
+|
+=1 leg180 vol60 2 B b 4 vol55 B(1
+=2 1 C#)1(1
+=3 1 a(1
+=4 1 e)1(1
+=5 1 <A(4 A_(2>
+|
+=1 2 B)1 2. vol50 b
+=2 1 C#)1(1
+=3 1 a)1(1
+=4 1 e)1(1
+=5 1 <A)4(4 A_)2(2>
+|
+=1 1 vol40 B
+=2 1 C#)1
+=3 1 a)1
+=4 1 e)1
+=5 1 <A)4 A_)2>
+
+midi pause 2.0
+

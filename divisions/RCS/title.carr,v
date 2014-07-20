@@ -1,0 +1,52 @@
+head	1.1;
+access;
+symbols;
+locks
+	peter:1.1;
+comment	@# @;
+
+
+1.1
+date	95.08.05.08.21.38;	author peter;	state Exp;
+branches;
+next	;
+
+
+desc
+@title page of continuo arrangement
+@
+
+
+1.1
+log
+@squeezed
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 1.6i
+.ce 100
+\f3\s+9\s+9Divisions on an Italian Ground\s-9\s-9\fP
+.sp 1.0i
+\f2\s+9by Robert Carr\s0\fP
+.sp 0.5i
+\f3\s+2From The Delightful Companion, 1646\s0\fP
+.sp 0.7i
+\f2\s+9Continuo by Peter Billam\s0\fP
+.sp 0.5i
+\f3\s+2For Flute or Alto Recorder and Guitar\s0\fP
+.sp 0.7i
+\(co Peter J Billam, 1980
+\s-1This score may be freely photocopied and redistributed, provided
+that it is not resold for profit, and that no copyright notice is removed
+from it.  All other rights, such as those of performance, recording
+and broadcast, remain reserved by the arranger.\s0
+.sp 0.7i
+Peter Billam, 5a Short St, Glebe, Hobart \s-2TAS\s0 7000, Australia
+.sp 0.3i
+\f2\s-2This printing 6 August 1995.\s0\fP
+@

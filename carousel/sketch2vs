@@ -1,0 +1,58 @@
+#! /usr/bin/perl
+#
+# converts vocal-line sketch to vocal-score (piano-reduction) format
+#
+#########################################################################
+#        This Perl script is Copyright (c) 1999, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                http://www.pjb.com.au     #
+#########################################################################
+
+foreach $actnum ('1','2','3') {
+	$skfile = "sk$actnum";
+	$vsfile = "vs$actnum";
+	open S, "<$skfile" || die "can't open $skfile: $!\n";
+	open V, ">$vsfile" || die "can't open $vsfile: $!\n";
+	$isys = 0; $pagenum = 1; $firstbaronline = 'yes';
+	print V <<EOT;
+4 systems /20 45 23-30-23/20 45 23-30-23/20 45 23-30-23/20 45 23-30-23/
+pagenum 1
+title October at the Carousel, Act $actnum
+innerhead Peter Billam
+leftfoot (c) 1999 Peter J Billam
+EOT
+	while (<S>) {
+		if (/^\//) { $isys++; }
+		if ($isys > 4) {
+			$isys = 1;
+			$pagenum++;
+			$firstbaronline = 'yes';
+			print V <<EOT;
+
+4 systems /20 45 23-30-22/20 45 22-30-22/20 45 22-30-22/20 45 22-30-22/
+pagenum $pagenum
+innerhead Act $actnum, Vocal Score, October at the Carousel, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+EOT
+		}
+		if (/^\d+ bars/) { print V "/\n$_"; $firstbaronline = 'yes';
+		} elsif (/^\|/)  { print V;
+		} elsif (/^=1/)  { print V;
+		} elsif (/^I/)   { print V;
+		} elsif (/^i0.4(.*)$/)   { print V "i0.6$1\n";
+		} elsif (/^i/)   { print V;
+		} elsif (/^r0.4(.*)$/) {
+			if ($firstbaronline) {
+				print V "r0.6 $1\n=2 treble \n=3 bass \n"; $firstbaronline = 0;
+			} else { print V "r0.6 $1\n=2 \n=3 \n";
+			}
+		}
+	}
+	close V; close S;
+}

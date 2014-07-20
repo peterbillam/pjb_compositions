@@ -1,0 +1,78 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	99.01.23.10.27.53;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Constructs 1-line-per-system vocal sketch
+@
+
+
+1.1
+log
+@debugged, but still no page numbers
+@
+text
+@#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1999, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                                          #
+#      P J B Computing specialises in Internet Commerce, and offers Web #
+# Functionality in Perl, HTML and Java.           http://www.pjb.com.au #
+#########################################################################
+
+$libretto = 'libretto';
+$sketch   = 'sketch';
+$nsystems = 12;
+$spacing  = '0.4';
+
+open (L,   $libretto) || die "can't open $libretto: $!\n";
+open (S, "> $sketch") || die "can't open $sketch: $!\n";
+
+$system = 1; print S "\n$nsystems systems /", "22/" x $nsystems, "\n";
+while (<L>) {
+   if ($system > $nsystems) {
+      print S "$nsystems systems /", "22/" x $nsystems, "\n";
+      $system = 1;
+   }
+   s/\\f[23P]//g;
+   if (/^Act.*Scene One/ && $system>1) {
+      print S "$nsystems systems /", "22/" x $nsystems, "\n";
+      $system = 2;
+      print S "/\n1 bars |1|\n|\n=1 cro blank\nIl$spacing $_\n";
+   } elsif (/^Act/) {
+      print S "/\n1 bars |1|\n|\n=1 cro blank\nIl$spacing $_\n";
+      $system++;
+   } elsif (/^\.IP ([\w\\ ]+) /) {
+      print S "/\n1 bars |1|\n|\n=1 cro blank\ni$spacing $1\n";
+      $startedline = 1;
+   } elsif (/^\w/ || /^\(/) {
+      s/\(/\\(/g;
+      s/\)/\\)/g;
+      s/\\ / /g;
+      if (! $startedline) {
+         print S "/\n1 bars |1|\n|\n=1 cro blank\n";
+      }
+      print S "r$spacing                  $_";
+      $startedline = 0;
+      $system++;
+   }
+}
+close S; close L;
+@

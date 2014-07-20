@@ -1,0 +1,256 @@
+5 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19 / 19 25 19 25 19 /
+# see ~/muz/201202/03_1400.wav and pages 44-45 of book AJ
+pagenum 
+innerhead III, Flute Trio, Peter Billam
+title I I I
+leftfoot (c) 2011 Peter J Billam
+midi channel 0 patch 73 pan 50 reverb 75
+midi channel 1 patch 73 pan 05 reverb 75
+midi channel 2 patch 73 pan 95 reverb 75
+/
+4 bars | 13/16 13 | 8/16 8 | 13/16 13 | 13 |
+| 3.023
+=1 treble 13/16 cha0 vol90 leg97 8. rest 8 [d# 8. e] 8. [d# 8 dn]
+=2' treble 13/16 cha1 vol90 leg97 8. rest 8 rest 8. A# 4 B 16 rest
+=3 treble 13/16 cha2 vol90 leg97 2 G 4 G# 16 rest
+| 1.860
+=1 8/16 4 c# 16 rest 8. cn
+=2 8/16 8. rest 8 [f 8. gb]
+=3 8/16 2 A
+| 3.023
+=1 13/16 2 c# 4 d 16 rest
+=2 13/16 4 f 16 rest 8. e 4 f 16 rest
+=3' 13/16 8. [Bb 8 A 8. Bb] 8. [A 8 G#]
+| 3.023
+=1 2 d# 4 e 16 rest
+=2 8. rest 8 [b 8. c~] 8. [b 8 bb]
+=3 4 Gn 16 rest 8. F# 4 G 16 rest
+/
+4 bars | 8/16 8 | 13/16 13 | 8/16 8 | 13/16 13 |
+| 1.860
+il0.7 .04 5
+=1 8/16 2 f
+=2 8/16 4 a 16 rest 8. g#
+=3 8/16 8. rest 8 [c# 8. d]
+| 3.023
+=1 13/16 8. [gb 8 f 8. gb] 8. [f 8 e]
+=2 13/16 2 a 4 a# 16 rest
+=3 13/16 4 db 16 rest 8. c 4 db 16 rest
+| 1.860
+=1 8/16 4 eb 16 rest 8. d
+=2 8/16 2 b
+=3 8/16 8. rest 8 [G 8. Ab]
+| 3.023
+=1 13/16 2 d# 4 e 16 rest
+=2 13/16 8. [c~ 8 b 8. c~] 8. [b 8 bb]
+=3 13/16 4 G 16 rest 8. F# 4 G 16 rest
+/
+4 bars | 13 | 8/16 8 | 13/16 13 | 13 |
+| 3.023
+=1 2 f 4 f# 16 rest
+=2 4 a 16 rest 8. g# 4 a 16 rest
+=3 8. rest 8 [c# 8. d] 8. [c# 8 cn]
+| 1.860
+il0.7 .04 10
+=1 8/16 2 g
+=2 8/16 8. rest 8 [d# 8. e]
+=3 8/16 4 B' 16 rest 8. A#
+| 3.023
+=1 13/16 8. [ab 8 g 8. ab] 8. [g 8 gb]
+=2 13/16 4 eb 16 rest 8. d 4 eb 16 rest
+=3 13/16 2 B 4 c 16 rest
+| 3.023
+=1 4 f 16 rest 8. e 4 f 16 rest
+=2 8. rest 8 [A 8. Bb'] 8. [A 8 Ab]
+=3 2 c# 4 d 16 rest
+/
+4 bars | 8/16 8 | 13/16 13 | 8/16 8 | 13/16 13 |
+| 1.860
+=1 8/16 8. rest 8 [B 8. c]
+=2 8/16 4 G 16 rest 8. F#
+=3 8/16 2 eb
+
+| 3.023
+=1' 13/16 4 B 16 rest 8. A# 4 B 16 rest
+=2  13/16 8 rest 16 [G 8 A G 16 F#] 8 [G 16 A 8 B']
+=3  13/16 8. [e 8 d# 8. e] 8. [d# 8 dn]
+| 1.860
+il0.7 .04 15
+=1 8/16 8. [Gb 8 F 8. Gb]
+=2  8/16 8 [A 16 B' 8 A] 8 [Bb 16 d]
+=3  8/16 4 c# 16 rest 8. cn
+| 3.023
+=1 13/16 4 F 16 rest 8. E 4 F 16 rest
+=2  13/16 8 [eb 16 db 8 eb db 16 c] 8 [db 16 eb 8 f]
+=3' 13/16 8. [Bb 8 A 8. Bb] 8. [A 8 G#]
+
+/
+3 bars | 13 | 8/16 8 | 13/16 13 |
+| 3.023
+=1 8 rest 16 [eb 8 f eb 16 d] 8 [eb 16 f 8 g]
+=2 8. [c 8 B 8. c] 8. [B 8 Bb]
+=3 4 Gn 16 rest 8. F# 4 G 16 rest
+| 1.860
+=1 8/16 8 [f 16 g 8 f] 8 [f# 16 g#]
+=2 8/16 4 A 16 rest 8. G#
+=3 8/16 8. [d 8 c# 8. d]
+| 3.023
+=1 13/16 8 [a 16 b 8 a g# 16 a] 8 [a# 16 c~ 8 c~#]
+=2 13/16 8. [Gb 8 F 8. Gb] 8. [F 8 E]
+=3 13/16 4 db 16 rest 8. c 4 db 16 rest
+
+4 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19 /
+pagenum 
+innerhead III, Flute Trio, Peter Billam
+leftfoot (c) 2011 Peter J Billam
+/
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.860
+il0.9 .04 20
+=1 8/16 8 [b 16 a# 8 b] 8 [c~ 16 d~]
+=2 8/16 4 Eb 16 rest 8. d
+=3 8/16 8. rest 8 [G 8. Ab]
+| 3.023
+=1 13/16 8 [e~b 16 f~ 8 e~b d~ 16 e~b] 8 [e~n 16 f~ 8 g~]
+=2 13/16 8. [c~ 8 b 8. c~] 8. [b 8 bb]
+=3 13/16 4 G 16 rest 8. F# 4 G 16 rest
+| 3.023
+=1 8 [a~ 16 g a bb] 8 [a 16 g] 16 [a bb a g f#]
+=2 8. [a 8 d 8. c#] 8. [d 8 cn]
+=3 8 rest 16 [F 8 G F 16 E] 8 [F 16 G 8 A]
+
+/
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.860
+=1 8/16 8 [g 16 a b c~] 8 [b 16 c~]
+=2 8/16 8. [e 8 d# 8. e]
+=3 8/16 8 [B' 16 A 8 G] [F# 16 G]
+| 3.023
+=1 13/16 8 [b 16 a b c~] 8 [d~ 16 c~] 8 [d~ 16 c~ b a]
+=2 13/16 8 [eb 16 d 8 en f 16 e] 8 [f 16 e 8 f]
+=3 13/16 8. [A 8 G 8. A] 8. [B' 8 A]
+| 3.023
+il0.6 .04 25
+=1 8 [g 16 ab g f] [g ab bb] 8 [c~ 16 bn an g]
+=2 8 [en 16 d 8 eb d 16 c] 8 [d 16 en 8 f]
+=3 8. [Bb 8 c 8. Bb] 8. [A 8 G]
+/
+3 bars | 8/16 8 | 13/16 13 | 8/16 8 |
+| 1.860
+=1 8/16 8. [a 8 bb 8. c~]
+=2 8/16 8 [eb 16 d 8 c] 8 [d 16 en]
+=3 8/16 8 [F 16 E F F#] 8 [G 16 A]
+| 3.023
+=1 13/16 8 [d~b 16 c~ b a] [b a b] 8 [c~# 16 d~# e~ f~]
+=2 13/16 8. [d# 8 c# 8. d#] 8. [e 8 c#]
+=3 13/16 8 [Bb' 16 A 8 G] [F 16 G] 8 [Ab 16 G 8 Ab]
+| 1.860
+=1 8/16 8. [g~b 8 f~ 8. e~]
+=2 8/16 8. [d 16 c# d] [c# d e]
+=3 8/16 8 [A 16 G# 8 A] 8 [A# 16 B']
+/
+3 bars | 13/16 13 | 13 | 8/16 8 |
+| 3.023
+=1 13/16 8 [e~b 16 d~ c~ d~] 16 [e~b ab bb] 8 [c~ 16 bn c~ d~n]
+=2 13/16 8 [gb 16 eb 8 f] [gb 16 f] 8 [gb 16 eb 8 f]
+=3 13/16 8. [c' 8 A 8. G#] 8. [A 8 A#]
+| 3.023
+il0.6 .15 30
+=1 8 [f~ 16 e~ d~ e~] [f~ b c~#] 8 [d~ 16 b c~# d~]
+=2 16 [a c# d e a] [b g a] [b c# d e f]
+=3' 8 [B 16 A 8 B] 8 [A 16 G] 8 [A 16 B 8 A]
+| 1.860
+=1 8/16 8 [c~# 16 b 8 c~#] 8 [b 16 c~#]
+=2 8/16 8 [g 16 f# e f#] [g c# eb]
+=3' 8/16 16 [B Eb En F# A] [B A A#]
+
+5 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19 / 19 25 19 25 19 /
+pagenum 
+innerhead III, Flute Trio, Peter Billam
+leftfoot (c) 2011 Peter J Billam
+/
+3 bars | 13/16 13 | 13 | 8/16 8 ||
+| 3.023
+=1 13/16 16 [e~b g ab bb e~b] [f~ c~# e~b] [f~ gn ab bb bn]
+=2 13/16 8 [f 16 eb 8 f] 8 [eb 16 c#] 8 [eb 16 f 8 eb]
+=3' 13/16 8 [B 16 A# G# A#] [B F Gn] 8 [Ab 16 F G Ab]
+| 3.023
+=1 8 [c~# 16 c~n bb c~] [c~# g a] 8 [bb 16 g a bb]
+=2, 16 [f A Bb c f] [g eb f] [g A Bb c c#]
+=3 8 [G 16 F 8 G] 8 [F 16 Eb] 8 [F 16 G 8 F]
+| 1.860
+=1 8/16 8 [a 16 g 8 a] 8 [g 16 f#]
+=2 8/16 8 [eb 16 d c d] [eb A, B(1]
+=3' 8/16 8 [G 16 F Eb F] 8 G 16 rest
+
+/
+3 bars | 13/16 13 | 8/16 8 | 13/16 13 |
+| 3.023
+il0.6 .15 35
+=1 13/16 cha0 vol90 leg97 8. [e 8 d# 8. e] 8. [d# 8 dn]
+=2' 13/16 cha1 vol90 leg97 8. B')1 8 rest 8. A# 4 B 16 rest
+=3  13/16 8 rest 16 [G 8 A G 16 F#] 8 [G 16 A 8 B']
+
+| 1.860
+=1 8/16 4 c# 16 rest 8. d
+=2 8/16 8. [Gb 8 F 8. Gb]
+=3 8/16 8 [A 16 B' 8 A] 8 [Bb' 16 A]
+| 3.023
+=1 13/16 8 [eb 16 db 8 eb db 16 c] 8 [db 16 eb 8 f]
+=2 13/16 4 F 16 rest 8. E 4 F 16 rest
+=3' 13/16 8. [Bb 8 A 8. Bb] 8. [A 8 G#]
+/
+3 bars | 13 | 8/16 8 | 13/16 13 |
+| 3.023
+=1 8 rest 16 [eb 8 f eb 16 d] 8 [eb 16 f 8 g]
+=2 8. rest 8 [b 8. c~] 8. [b 8 bb]
+=3 4 Gn 16 rest 8. F# 4 G 16 rest
+| 1.860
+=1 8/16 8 [f 16 g 8 f] 8 [f# 16 g#]
+=2 8/16 4 a 16 rest 8. g#
+=3 8/16 8. rest 8 [c# 8. d]
+| 3.023
+il0.6 .15 40
+=1 13/16 8. [gb 8 f 8. gb] 8. [f 8 e]
+=2 13/16 8 [a 16 b 8 a g# 16 a] 8 [a# 16 c~ 8 c~#]
+=3 13/16 4 db 16 rest 8. c 4 db 16 rest
+/
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.860
+=1 8/16 4 eb 16 rest 8. d
+=2 8/16 8 [b 16 a# 8 b] 8 [c~ 16 d~]
+=3 8/16 8. rest 8 [G 8. Ab]
+| 3.023
+=1 13/16 8 [eb 16 f 8 eb d 16 eb] 8 [en 16 f 8 g]
+=2 13/16 8. [c~ 8 b 8. c~] 8. [b 8 bb]
+=3 13/16 4 G 16 rest 8. F# 4 G 16 rest
+| 3.023
+=1 2 f 4 f# 16 rest
+=2 4 a 16 rest 8. g# 4 a 16 rest
+=3 8. rest 8 [c# 8. d] 8. [c# 8 cn]
+/
+3 bars | 8/16 8 | 13/16 13 | 13 | 8/16 8 | 13/16 6 ||
+| 1.860
+=1 8/16 2 g
+=2 8/16 8. rest 8 [d# 8. e]
+=3 8/16 4 B' 16 rest 8. A#
+| 3.023
+il0.6 .15 45
+=1 13/16 8. [ab 8 g 8. ab] 8. [g 8 gb]
+=2 13/16 4 eb 16 rest 8. d 4 eb 16 rest
+=3 13/16 2 B 4 c 16 rest
+| 3.023
+=1 4 f 16 rest 8. e 4 f 16 rest
+=2 8. rest 8 [A 8. Bb'] 8. [A 8 Ab]
+=3 2 c# 4 d 16 rest
+| 1.860
+=1 8/16 8. rest 8 [B 8. c]
+=2 8/16 4 G 16 rest 8. F#
+=3 8/16 2 eb
+| 3.023
+=1 1 B
+=2 1 G
+=3 1 en

@@ -1,0 +1,162 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.06.06.09.37.11;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@possible 4h pattern in 16s and 3v_vl
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@4 systems /17-20-17 25 17-25-17/
+midi channel 0 patch 0 pan 85 chorus 90
+midi channel 1 patch 0 pan 15 chorus 90
+$BN = morse_thue? F_ : F : f : f~ ?
+$BB = [$BN $BN $BN $BN]
+/
+3 bars | 48 |
+| 2.0
+=1' treble8va cha0 4/4 2 g g#
+=1, treble8va cha0 4/4 4 A A# B c
+=2' treble    cha0 4/4 2 G G#
+=2, treble    cha0 4/4 4 A_ A_# B_ C
+=3  treble    cha1 1 blank
+=4' bass      cha1 4/4 leg102 vol75 16 $BB $BB $BB $BB
+|
+=1' 2 a 4 bb a(1
+=1, 2. c#   4 c#(2
+=2' 2 A 4 Bb A(1
+=2, 2. C# 4 C#(2
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+|
+=1' 2 a)1 a
+=1, 4 c#)2 d 2 c#
+=2' 2 A)1 A
+=2, 4 C#)2 D 2 C#
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+/
+3 bars | 48 |
+|
+=1' 2 ab 4 ab g
+=1, 2 cn 4 B Bb
+=2' 2 Ab 4 Ab G
+=2, 2 Cn 4 B_ B_b
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+
+|
+il0.5 .17 5
+=1' 2 g g#
+=1, 4 A A# B c
+=2' 2 G G#
+=2, 4 A_ A_# B_ C
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+|
+=1' 2. a 4 a(1
+=1, 2 c# 4 d c#(2
+=2' 2. A 4 A(1
+=2, 2 C# 4 D C#(2
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+/
+3 bars | 48 |
+|
+=1' 4 a)1 bb 2 a
+=1, 2 c#)2 c#
+=2' 4 A)1 Bb 2 A
+=2, 2 C#)2 C#
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+|
+=1' 2 ab 4 ab g
+=1, 2 cn 4 B Bb
+=2' 2 Ab 4 Ab G
+=2, 2 Cn 4 B_ B_b
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+
+|
+=1' 2 g g#
+=1, 4 A A# B c
+=2' 2 G G#
+=2, 4 A_ A_# B_ C
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+/
+4 bars | 48 | 48 | 48 | 20 |
+|
+il0.5 .17 10
+=1' 2 a 4 bb a(1
+=1, 2. c# 4 c#(2
+=2' 2 A 4 Bb A(1
+=2, 2. C# 4 C#(2
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+|
+=1' 2 a)1 a
+=1, 4 c#)2 d 2 c#
+=2' 2 A)1 A
+=2, 4 C#)2 D 2 C#
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+|
+=1' 2 ab 4 ab g
+=1, 2 cn 4 B Bb
+=2' 2 Ab 4 Ab G
+=2, 2 Cn 4 B_ B_b
+=3  1 blank
+=4' 16 $BB $BB $BB $BB
+
+| 1.0
+=3 2/4 2 vol100 f
+=4 2/4 2 F_
+
+4 systems /17-20-17 30 17-20-17/
+$TB1 = morse_thue? 16 [a A] : 8 rest ?
+$TB2 = morse_thue? 8 rest : 16 [A_ A] ?
+/
+4 bars | 48 | 48 | 48 |
+| 2.0
+=1, vol60 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1
+=2' vol60 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2
+=3  bass vol100 2 <g g~>   <gb g~b>
+=4' bass vol80  2 <F f>  4 <E e> <Eb eb>
+|
+=1, vol60 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1
+=2' vol60 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2
+=3  vol100 2 <f f~> <e e~>
+=4' vol80  4 <D d> <Db db> 2 <C(2 c(1>
+|
+=1, vol60 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1
+=2' vol60 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2
+=3, vol100 4 <eb e~b> <d d~> <c# c~#> <d d~>
+=4' vol80  4 <C)2 c)1> 2. <B_ B>
+|
+=1, vol60 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1
+=2' vol60 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2
+=3  vol100 4 <d# d~#> <e e~> 2 <f f~>
+=4' vol80  2 <C c> 4 <C# c#> <D d>
+
+|
+=1, vol60 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1 $TB1
+=2' vol60 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2 $TB2
+=3  vol100 2 <f# f~#> <g g~>
+=4' vol80  4 <D# d#> <E e> 2 <F f>
+@

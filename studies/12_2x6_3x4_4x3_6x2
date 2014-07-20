@@ -1,0 +1,103 @@
+4 systems 50 / 19-30-19/ 19-30-19/ 19-30-19/ 19-25-19 40/
+pagenum
+title 12.   12=2x6=3x4=4x3=6x2
+innerhead Twenty Studies
+leftfoot (c) 2104  Peter J Billam
+midi channel 0 patch 0
+# as sketched in book AO p.12
+/
+5 bars | 12 | 12 12 12 10 | 12 12 12 10 | 12 12 12 10 | 12 12 12 10 |
+| 1.0
+i1.2  approx. cro=60
+=1 treble cha0 leg99 vol90 4 c
+I0.5 .04 mf .86 p
+=2 bass   cha0 leg99 vol90 4 c-P
+i0.02 .97 sempre ...
+| 4.0
+I0.5 .02 f
+=1 8 rest' vol100 4. c~ vol60 4 <C F#> <C F#>
+I0.8 .40 p
+=2 4 vol60 <c~ f~#> <c~ f~#> 8 rest 4. F#
+I0.2 .52 p
+|
+I0.5 .02 f
+=1 8 rest' vol100 4. c~ vol65 4 <C F#> <C F#>
+I0.8 .40 p
+=2 4 <c~ f~#> <c~ f~#> 8 rest 4. F#
+I0.2 .52 p
+|
+I0.5 .02 f
+=1 8 rest' vol100 4. e~ vol65 4 <C E G#> <C E G#>
+I0.8 .40 p
+=2 4 <c~ e~ g~#> <c~ e~ g~#> 8 rest 4. G#
+|
+I0.5 .02 f
+=1 8 rest' vol100 4. <a a~> vol65 4 <C Eb A> <C Eb A>
+I0.8 .40 p
+=2 4 <c~ e~b a~> <c~ e~b a~> 8 rest 4. F#
+/
+4 bars | 7 6 6 6 6 6 5 5 | 7 6 6 6 6 6 5 5 | 44 | 6 6 6 6 7 6 5 5 |
+|
+il0.9 5
+I0.5 .01 f
+=1' 8 rest' vol100 4. <g# g~#> vol65 4 <C F# Ex> <F# Ex c>
+I0.8 .40 p
+=2 4 <c~ e~n g~#> <g# c~ e~> 8 rest 4. <B_b Bb>
+|
+I0.5 .02 f
+=1' 8 rest' vol100 4. <g# g~#> vol65 4 <C F# Ex> <F# Ex c>
+I0.8 .40 p
+=2 4 <c~ e~n g~#> <g# c~ e~> 8 rest 4. <D_ D>
+|
+=1 vol110 1 <c c~>
+I0.5 f
+=2 vol110 1 <C_ C>
+I0.3 .99 mp
+|
+I0.5 .40 f
+=1 vol60 4 <C F# c'> <C F#> 8 rest' vol115 4. <f# f~#>
+I0.2 .35 p
+=2 vol80 8 rest 4. <C_ C> vol60 4 <c~ f~#> <c~ f~#>
+/
+4 bars | 12 12 12 10 | 6 6 6 6 7 6 5 5 | 6 6 6 6 7 6 5 5 | 6 6 6 6 7 6 5 5 |
+|
+I0.5 .45 f
+=1 vol60 4 <C E G#> <C E G#> 8 rest' vol115 4. <e e~>
+I0.7     p
+I0.2 .35 p
+I0.8 .95 p
+=2 vol80 8 rest 4. <C_ C> vol60 4 <c~ e~ g~#> <c~ e~ g~#>
+I0.3   mp .99 mp
+|
+il0.9 10
+I0.5 .45 f
+=1 vol60 4 <C Eb A> <A_ C Eb> 8 rest' vol115 4. <f# f~#>
+I0.2 .35 p
+I0.8 .01 .95 p
+=2 vol80 8 rest 4. <C_ C> vol60 4 <a c~ e~b> <a c~ e~b>
+|
+I0.5 .45 f
+=1 vol60 4 <A_b Cx D> <A_b C E> 8 rest' vol115 4. <f# f~#>
+I0.8 .01 .95 p
+=2 vol60 8 rest 4. <C_ C> vol60 4 <abl c~ e~> <abl c~x d~>
+I0.3  p
+|
+I0.5 .45 f
+=1 vol60 4 <A_b C E> <A_b Cx D> 8 rest' vol115 4. <Bb bb>
+=2 vol60 8 rest 4. <C_ C> vol60 4 <abl c~x d~> <abl c~ e~>
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+=1 vol120 1 <c c~>
+I0.5 .03 ff
+=2 vol120 1 <C_ C>
+|
+=1 vol123 1 <c c~>
+=2 vol123 1 <C_ C>
+|
+=1 vol127 1 <c(2 c~(1>
+=2 vol127 1 <C_(2 C(1>
+|
+=1 1 <c)2 c~)1>
+=2 1 <C_)2 C)1> 64 blank-*
+midi pause 2.0

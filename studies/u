@@ -1,0 +1,8 @@
+$S = c
+$A = D
+$X = cycle? $S : $A ?
+=1 $X $X $X $X
+$S = c#
+$A = D#
+|
+=1 $X $X $X $X

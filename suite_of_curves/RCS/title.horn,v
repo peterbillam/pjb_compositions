@@ -1,0 +1,74 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	96.09.05.01.57.57;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.09.05.01.55.12;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@title page for horn part
+@
+
+
+1.2
+log
+@more space at top
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.ce 100
+.sp 1.5i
+\f3\s+7Horn part\s0\fP
+.sp 0.5i
+\f3\s+4from\s0\fP
+.sp 0.5i
+\f3\s+9\s+9A Suite of Curves\s-9\s-9\fP
+.sp 0.7i
+\f3\s+4by\s0\fP
+.sp 0.5i
+\f3\s+9Peter Billam\s0\fP
+.sp 0.8i
+\f2\s+2for\s0\fP
+.sp 0.5i
+\f2\s+2Trombone or Horn and Piano\s0\fP
+.sp 0.7i
+Peter Billam, \s-1GPO\s0 Box 669, Hobart \s-1TAS\s0 7001, Australia
+.sp 0.5i
+\s-2This printing 14 December 1994.\s0
+.sp 0.7i
+\(co Peter J Billam, 1990
+@
+
+
+1.1
+log
+@Horn part at top
+@
+text
+@d8 1
+a8 1
+.sp 1.8i
+d10 1
+a10 1
+.sp 0.4i
+d12 1
+a12 1
+.sp 0.3i
+@

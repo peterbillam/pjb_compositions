@@ -1,0 +1,92 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	2001.02.07.04.16.45;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.05.19.09.55.56;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.01.26.07.39.11;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@title page
+@
+
+
+1.3
+log
+@moved text up, used *(DY for date
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 5.1c
+.ce 100
+\f3\s+9\s+9Piano Study\s-9\s-9\fP
+.sp 3.6c
+\f2\s+9Peter Billam\s0\fP
+.sp 2.5c
+\f3\s+2Solo Piano\s0\fP
+.sp 2.5c
+\(co Peter J Billam, 1994
+.sp 0.7c
+\s-1This score is licensed in electronic form to the purchaser, who
+may generate printed copies or photocopies, for their own use, or for
+the use of their pupils.  All other rights, such as those of performance,
+recording and broadcast, remain reserved by the composer, Peter Billam,
+GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
+.sp 0.7c
+\s-2This printing \*(DY.\s0
+.sp 1.2c
+\s+1\f2http://www.pjb.com.au/mus/\fP\s0
+@
+
+
+1.2
+log
+@include pupils in copyright terms
+@
+text
+@d7 1
+a7 1
+.sp 6.3c
+d17 1
+a17 1
+\s-1This score is licensed in Postscript form to the purchaser, who
+d23 1
+a23 1
+\s-2This printing 19 January 1998.\s0
+@
+
+
+1.1
+log
+@copyright adapted to postsrcirt form
+@
+text
+@d17 4
+a20 4
+\s-1This score is licensed in Postscript form to the purchaser,
+who may generate printed copies or photocopies for their own use.
+All other rights, such as those of performance, recording and
+broadcast, remain reserved by the composer, Peter Billam,
+@
+

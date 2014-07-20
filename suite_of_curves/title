@@ -1,0 +1,25 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.ce 100
+.sp 7.0c
+\f3\s+9\s+9A Suite of Curves\s-9\s-9\fP
+.sp 2.8c
+\f2\s+9Peter Billam\s0\fP
+.sp 2.3c
+\f3\s+2for Trombone or Horn and Piano\s0\fP
+.sp 1.1c
+\f3Includes parts for Trombone and Horn\fP
+.sp 2.8c
+\(co Peter J Billam, 1990
+.sp 0.7c
+\s-1This score is offered under the \f2Creative Commons
+Attribution 4.0 International\fP licence; see \f2creativecommons.org\fP
+The copyright owner remains the composer, Peter Billam.\s0
+.sp 0.7c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.6c
+\f2www.pjb.com.au\fP

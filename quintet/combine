@@ -1,0 +1,25 @@
+#! /usr/bin/perl
+# $debug = 1;
+$fh = 'fh00';   # filehandle
+for $file (@ARGV) {
+   print "* file = $file, fh = $fh\n" if $debug;
+   if (!open ($fh, "< $file")) { warn "can't open $file: $!\n"; next; }
+   push (@fhs, $fh);
+   $file{$fh} = $file;
+   $fh++;
+}
+print "* fhs = @fhs\n" if $debug;
+
+$ibar = 1;
+for $fh (@fhs) { while (<$fh>) { last if /^\s*\|/; } } # get into bar 1
+
+for (;;) {   # for each bar
+   $found = 0;
+   print "| $ibar\n";
+   for $fh (@fhs) {   # in each file
+      print "* from $file{$fh}\n" if $debug;
+      while (<$fh>) { last if /^\s*\|/; $found=1; print $_; }
+   }
+   last unless $found;
+   $ibar++;
+}

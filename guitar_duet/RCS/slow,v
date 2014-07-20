@@ -1,0 +1,628 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2007.01.11.00.16.32;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2006.04.28.22.19.35;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2006.04.09.08.48.01;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2006.04.02.09.27.02;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@first 27 bars of a slow movement
+@
+
+
+1.4
+log
+@barnums, several adjustments
+@
+text
+@% start
+6 systems 10 /19 30 19/19 30 19/19 30 19/19 30 19/19 30 19 10/
+pagenum 2
+innerhead Guitar Duet, Peter Billam
+title Guitar Duet
+leftfoot (c) 2006 Peter J Billam
+midi channel 1 patch 24
+% dontstop
+/
+5 bars |3/4 12 | 12 |
+| 3/4 78
+i1.2  approx 78 crochets/min
+=1' treble8vab 3/4 cha1 leg105 vol100 min b cro g
+=1, treble8vab 3/4 cha1 leg105 vol75 qua rest, cro B B qua B
+=2' treble8vab 3/4 cha1 leg105 vol75 qua rest cro G G qua G
+=2, treble8vab 3/4 cha1 leg105 vol95 min G_ cro B_
+|
+=1' vol100 min. f
+=1, vol75 qua rest, cro B B qua B
+=2' vol75 qua rest cro G G qua G
+=2, vol95 min C# cro C#(2
+|
+=1' vol100 min. e
+=1, vol75 qua rest, cro B B qua B
+=2' vol75 qua rest cro G G qua G
+=2, vol95 cro C#)2 min C#
+|
+=1' vol100 min b cro g
+=1, leg99 vol75 qua rest, cro B B qua B
+=2' vol75 qua rest cro G G qua G
+=2, vol95 min G_ cro B_
+| 
+il0.5 .01 5
+=1' vol100 min. f
+=1, vol75 qua rest, cro Bb Bb qua Bb
+=2' vol75 qua rest cro G G qua G
+=2, vol95 min C# cro C#(2
+/
+4 bars | 12 | 12 | 12 | 12 |
+|
+=1' vol100 min e cro d
+=1, leg99 vol75 qua rest, cro Bb Bb qua Bb
+=2' vol75 qua rest cro G G qua G
+=2, vol95 cro C#)2 C# D
+|
+=1' vol100 min. db
+=1, leg99 vol75 qua rest, cro Bb Bb qua Bb
+% =2' vol75 qua rest cro G# G# qua G#
+=2' vol75 qua rest cro G G qua G#
+=2, vol95 min E cro E(2
+|
+=1' vol100 min. c
+=1, leg99 vol75 qua rest, cro Bb Bb qua Bb
+=2' vol75 qua rest cro G# G# qua G#
+=2, vol95 cro E)2 min E
+|
+=1, leg99 vol75 qua rest, cro c c qua c
+=2' vol75 qua rest cro Ab Ab qua Ab
+=2, vol95 min F cro C
+/
+5 bars | 12 | 12 |
+|
+il0.9  10
+=1' vol100 min c~ cro ab
+=1, vol75 qua rest, cro c c qua c
+=2' vol75 qua rest cro Ab Ab qua Ab
+=2, vol95 min A_b cro C
+|
+=1' vol100 min gb cro f
+=1, vol75 qua rest, cro c c qua c
+=2' vol75 qua rest cro Ab Ab qua Ab
+=2, vol95 min D cro D(2
+|
+=1' vol100 cro f# g# a
+=1, vol75 qua rest, cro B B qua B
+=2' vol75 qua rest cro Ab Gb qua F
+=2, vol95 cro D)2 C# B_
+|
+=1' vol100 min c#~ cro a
+=1, vol75 qua rest, cro c# c# qua c#
+=2' vol75 qua rest cro A G qua A
+=2, vol95 min A_ cro C#
+|
+=1' vol100 min g cro f#
+=1, vol75 qua rest, cro c# c# qua c#
+=2' vol75 qua rest cro G A qua G
+=2, vol95 min Eb cro Eb(2
+/
+4 bars | 12 | 12 |
+|
+il0.9  15
+=1' vol100 cro g a bb
+=1, vol75 qua rest, cro c c qua c
+=2' vol75 qua rest cro A G qua F#
+=2, vol95 cro Eb)2 min Eb
+|
+=1' vol100 min a cro g
+=1, vol75 qua rest, cro db db qua db
+=2' vol75 qua rest cro G A qua G
+=2, vol95 min Eb cro Eb(2
+|
+=1' vol100 cro g a bb
+=1, vol75 qua rest, cro c c qua d
+=2' vol75 qua rest cro A G qua F#
+=2, vol95 cro Eb)2 D C
+|
+=1' vol100 min d~ cro bb
+=1, vol75 qua rest, cro d f# qua f#
+=2' vol75 qua rest cro F# Bb qua d
+=2, vol95 min B_b cro D
+/
+5 bars | 12 | 12 |
+|
+=1' vol100 min d~ cro e~b
+=1, vol75 qua rest cro <f#xl g#l> <f#xl g#l> qua <f#xl g#l>
+=2' vol75 qua3 [b a#-I3 b] [a# b-I3 a#] [b a#-I3 b]
+=2, vol95 min d cro eb
+|
+il1.1 .16 20
+=1' vol100 cro. d~ qua c~# cro d~
+=1, vol75 qua3 [gb f-I3, gb] [f gb-I3, f] [gb f-I3, gb]
+=2' vol75 qua rest'' cro <g# b> <g# b> qua <g# b>
+=2, vol95 cro. d qua c# cro d
+|
+=1' vol100 min d~ cro e~b
+=1, vol75 qua rest cro <f#xl g#l> <f#xl g#l> qua <f#xl g#l>
+=2' vol75 qua3 [b a#-I3 b] [a# b-I3 a#] [b a#-I3 b]
+=2, vol95 min d cro d#
+|
+=1' vol100 min e~ cro f~
+=1, vol75 qua3 [ab g-I3, ab] [g ab-I3, g] [ab g-I3, ab]
+=2' vol75 qua rest'' cro <bb d~b> <bb d~b> qua <bb d~b>
+=2, vol95 min e cro f
+|
+=1' vol100 cro. e~ qua d#~ cro e~
+=1, vol75 qua rest cro <abxl bbl> <abxl bbl> qua <abxl bbl>
+=2' vol75 qua3 [db~ c~-I3 db~] [c~ db~-I3 c~] [db~ c~-I3 db~]
+=2, vol95 cro. e qua d# cro e
+/
+% start
+4 bars | 12 | 12 |
+| 3/4 78
+=1' cha1 leg105 vol100 min e~ cro eb~
+=1, vol75 qua3 [ab g-I3, ab] [g ab-I3, g] [ab g-I3, ab]
+=2' cha1 leg105 vol75 qua rest'' cro <bb d~b> <bb d~b> qua <bb d~b>
+=2, vol95 min e cro eb
+|
+il1.1 .16 25
+=1' vol100 min. d~
+=1, vol75 qua3 [g ab g] cro. f# qua f#
+=2' vol75 qua rest'' cro bb bb qua bb
+=2, vol95 min d cro d(2
+|
+=1' vol100 min d~ cro e~b
+=1, vol75 qua rest cro g g qua f#
+=2' vol75 qua rest'' cro bb bb qua bb
+=2, vol95 min d)2 cro rest,
+|
+=1' vol100 cro. d~ qua c~# cro d~
+=1, vol75 qua rest cro g g qua g
+=2' vol75 qua rest'' cro bb bb qua bb
+=2, vol95 cro. d qua c# cro d
+
+/
+5 bars | 12 | 12 |
+|
+=1  vol125 qua e~ cro. E_ vol105 cro B
+=2  vol125 qua3 [E_ E-I3 e'] min <c# g>
+|
+=1  vol105 qua e~ cro. E_ vol90 cro A
+=2' vol105 qua3 [E_ E-I3 e] min <F# cn>
+|
+il0.5 .01 30
+=1' vol90  cro blank min <B_ E B'>
+=1, vol90  qua e~ qua E_(2 min E_)2
+=2  vol90  qua3 [E_ E-I3 e'] vol80 cro rest G
+|
+=1' vol80  cro blank min <E A a>
+=1, vol80  qua e~ qua E_(2 min E_)2
+=2  vol80  qua3 [E_ E-I3 e'] vol65 cro rest f#
+|
+=1, vol65 leg180 qua3 [b a b] [f# b f#] [b e b]
+=2, vol65 leg180 qua rest cro <e f#x> <e a> qua <f# a>
+/
+4 bars | 12 | 12 |
+|
+=1, vol65 leg180 qua3 [e a e] [f# e f#] [e a e]
+=2' vol65 leg180 qua rest cro <f# b> <a bx> qua <f# b>
+=2, vol90 leg100 min B_ cro B
+|
+=1' vol65 leg180 qua3 [b e b] [f# b f#] [b a b]
+=1, vol90 min A cro C#
+=2, vol65 leg180 qua rest cro <f# a> <e a> qua <e f#x>
+|
+il0.6 .05 35
+=1, vol65 leg180 qua3 [b a b] [f# b f#] [b e b]
+=2' vol65 leg180 qua rest cro <ex f#> <e a> qua <f# a>
+=2, vol90 leg100 cro. D qua C# cro D
+|
+=1' vol65 qua3 [e a e] [f# a f#] [a e a]
+=1, vol90 cro. E qua F# cro E
+=2, vol65 qua rest cro <f# c~> <e c~> qua <f# c~>
+/
+5 bars | 12 | 12 |
+|
+=1,  vol125 qua [f# F_#(2] min F_#)2
+=1' cro blank vol90 min <c bb>
+=2, vol125 qua3 [F# f#-I3 f~#(2] min f~#)2
+|
+=1 vol65 qua3 [c~ bb c~] [f# c~ f#] [c~ e c~]
+=2 vol65 qua rest cro <f#x e> <e bb> qua <f#l bb>
+|
+=1 vol65 qua3 [e bb e] [f# e f#] [e bb e]
+=2' vol65 qua rest' cro <f# c~> <bb c~x> qua <f#l c~>
+=2, vol95 min F_# cro F#
+|
+il0.5 .01 40
+=1 vol65 qua3 [c~# e c~#] [g# c~# g#] [c~# a# c~#]
+=2' vol65 qua rest' cro <g#x a#> <e a#> qua <e g#>
+=2, vol95 min E cro G_#
+|
+=1 vol65 qua3 [g# d~ g#] [d~ e d~] [e a# e]
+=2' vol65 qua rest' cro <e a#> <g#l a#xll> qua <g# d~>
+=2, vol95 cro. B_b qua A_b cro B_b
+/
+4 bars | 12 | 12 |
+|
+% =1 min <f ab c~ d~x>
+=1 vol65 qua3 [ab f ab] [f c~ f] [d~ f d~]
+=2' vol65 qua rest' cro <c~x d~> <ab d~> qua <ab c~>
+=2, vol95 cro. C qua B_n cro C
+|
+% =1, min. <f#r g#x c~x d~>
+=1 vol65 qua3 [g# d~ g#] [d~ c~ d~] [g# d~ g#]
+=2' vol65 qua rest' cro <f# c~> <f#xll g#l> qua <f# c~>
+=2, vol95 min D cro c
+|
+% =1 min. <f#r bbx c~ e~b>
+=1 vol65 qua3 [e~b f# e~b] [f# c~ f#] [bb f# bb]
+=2' vol65 qua rest' cro <bb c~x> <bb e~b> qua <c~ e~b>
+=2, vol95 min Bb cro Eb
+|
+il0.5 .01 45
+% =1 min. <f#r bbx c~ e~n>
+=1 vol65 qua3 [f# c~ f#] [e~ f# e~] [bb e~ bb]
+=2' vol65 qua rest' cro <bb e~> <bblr c~xl> qua <f# c~>
+=2, vol95 min En cro d
+/
+5 bars | 12 | 12 |
+|
+% =1 min. <f# a c~ e~n>
+% =1 vol65 qua3 [e~ f# e~] [f# c~ f#] [a f# a]
+% =2' vol65 qua rest' cro <a c~> <a e~> qua <c~ e~>
+% =2, vol95 cro c B A
+=1  vol125 qua e~ cro. E_ vol105 cro A
+=2  vol125 qua3 [E_ E-I3 e'] min <Bb, g>
+|
+% =1 min. <e g bb d~>
+=1 vol65 qua3 [bb e bb] [e d~ e] [g d~ g]
+=2' vol65 qua rest' cro <g d~> <g bb> qua <e bb>
+=2, vol95 cro G F# E
+|
+% =1 min. <dr f a bnx>
+=1 vol65 qua3 [b a b] [f b f] [b d b]
+=2' vol65 qua rest' cro <d f> <d a> qua <f a>
+=2, vol95 cro D C# B_n
+|
+% =1 min. <Br ebx f ab>
+=1 vol65 qua3 [B f B] [eb B eb] [B f B]
+=2' vol65 qua rest' cro <eb ab> <f ab> qua <eb ab>
+=2, vol95 cro A_# B_ C#
+|
+il0.5 .01 50
+% =1 min. <Bbxr c eb f#>
+=1, vol65 qua3 [f# Bb f#] [Bb eb Bb] [c Bb c]
+=2' vol65 qua rest' cro <c eb> <c f#> qua <ebl f#xll>
+=2, vol95 cro Eb D C
+/
+4 bars | 12 | 12 |
+|
+% =1, min. <G Bbrxl c#ll f>
+=1, vol65 qua3 [Bb f Bb] [g Bb g] [Bb f Bb]
+=2' vol65 qua rest' cro <c# g> <c# f> qua <c# g>
+=2  vol95 cro B_b A_ G_
+|
+=1  vol125 qua a cro. A_ vol105 cro G_
+=2  vol125 qua3 [A_ A-I3 a'] min <B f>
+|
+=1' vol95 min a cro b(1
+=1, vol70 qua rest cro <B d#> <B d#> qua <B d#>
+=2' vol95 min. F_
+|
+=1' vol95 cro b)1 min c~#
+=1, vol70 qua rest cro <B f> <B f> qua <B f>
+=2  vol95 min F
+
+/
+5 bars | 12 | 12 |
+|
+il1.1 .15 55
+=1' cha1 leg105 vol100 min b cro g
+=1, cha1 leg105 vol75 qua rest, cro B B qua B
+=2' cha1 leg105 vol75 qua rest cro G G qua G
+=2, cha1 leg105 vol95 min G_ cro B_
+|
+=1' vol100 min. f
+=1, vol75 qua rest, cro B B qua B
+=2' vol75 qua rest cro G G qua G
+=2, vol95 min C# cro C#(2
+|
+=1' vol100 min. e
+=1, vol75 qua rest, cro B B qua B
+=2' vol75 qua rest cro G G qua G
+=2, vol95 cro C#)2 min C#
+|
+=1' vol100 min b cro g
+=1, vol75 qua rest, cro B B qua B
+=2' vol75 qua rest cro G G qua G
+=2, vol95 min G_ cro B_
+|
+=1' vol100 min. f
+=1, vol75 qua rest, cro Bb Bb qua Bb
+=2' vol75 qua rest cro G G qua G
+=2, vol95 min C# cro C#(2
+/
+4 bars | 12 | 12 |
+|
+il0.9 .15 60
+=1' vol100 min e cro d
+=1, vol75 qua rest, cro Bb Bb qua Bn
+=2' vol75 qua rest cro G G qua G
+=2, vol95 cro C#)2 D E
+|
+=1' vol100 min g cro f
+=1, vol75 qua rest, cro c# c# qua d
+=2' vol75 qua rest' cro B B qua B
+=2, vol95 cro F G A
+|
+=1' vol100 cro a ab g
+=1, vol75 qua rest, cro f eb qua eb
+=2' vol75 qua rest' cro eb B qua B
+=2, vol95 cro B F G
+|
+=1' vol100 cro gb f e
+=1, vol75 qua rest, cro c c qua c
+=2' vol75 qua rest cro Bb Ab qua Ab
+=2, vol95 cro C D A_b
+/
+5 bars | 12 | 12 |
+|
+=1' vol100 min e~ cro c~
+=1, vol75 qua rest, cro e e qua e
+=2' vol75 qua rest cro c c qua c
+=2, vol95 min C cro E
+|
+il0.9 .15 65
+=1' vol100 min e~ cro c~
+=1, vol75 qua rest, cro e e qua e
+=2' vol75 qua rest' cro c c qua c
+=2, vol95 min F# cro A
+|
+=1' vol100 min e~ cro c~
+=1, vol75 qua rest, cro e e qua e
+=2' vol75 qua rest' cro c c qua c
+=2, vol95 min C cro E
+|
+=1' vol100 min. e~
+=1, vol75 qua rest, cro e e qua e
+=2' vol75 qua rest' cro c c qua c
+=2, vol95 min F# cro A
+|
+=1' vol100 min e~ cro c~#
+=1, vol75 qua rest, cro e e qua e
+=2' vol75 qua rest' cro c# c# qua c#
+=2, vol95 min G cro B
+/
+4 bars | 12 | 12 | 12 |
+|
+=1' vol100 cro d~ g a
+=1, vol75 qua rest, cro d d qua d
+=2' vol75 qua rest'' cro e e qua e
+=2, vol95 min Bb cro Bb
+|
+il0.9 .15 70
+=1' vol100 min bb cro bn
+=1, vol75 qua rest cro <dxl el> <dxl el> qua <dxl el>
+=2' vol75 qua3 [g f#-I3 g] [f# g-I3 f#] [g f#-I3 g]
+=2, vol95 min Bb cro Bn
+|
+=1' vol100 cro. bb qua a cro bb
+=1, vol75 qua3 [d c#-I3, d] [c# d-I3, c#] [d c#-I3, d]
+=2' vol75 qua rest'' cro <e g> <e g> qua <e g>
+=2, vol95 cro. Bb qua A cro Bb
+|
+=1' vol100 min bb cro bn
+=1, vol75 qua rest cro <dxl el> <dxl el> qua <dxl el>
+=2' vol75 qua3 [g f#-I3 g] [f# g-I3 f#] [g f#-I3 g]
+=2, vol95 min Bb cro Bn
+/
+5 bars | 12 | 12 |
+|
+=1' vol100 min c~ cro g
+=1, vol75 qua rest cro d d qua d
+=2' vol75 qua rest'' cro f f qua f
+=2, vol100 min. c
+|
+=1' vol100 min. a(1
+=1, vol75 qua rest cro d d qua d
+=2' vol75 qua rest'' cro f f qua f
+=2, vol100 min B cro B(2
+|
+il0.9 .15 75
+=1' vol100 min. a)1
+=1, vol75 qua rest cro d d qua d
+=2' vol75 qua rest'' cro f f qua f
+=2, vol100 cro B)2 min B
+|
+=1' vol100 min bb cro f
+=1, vol75 qua rest cro db db qua db
+=2' vol75 qua rest'' cro f f qua f
+=2, vol100 min Bb cro F
+|
+=1' vol100 min. g(1
+=1, vol75 qua rest cro Bb Bb qua Bb
+=2' vol75 qua rest' cro d d qua d
+=2, vol100 min E cro D(2
+/
+4 bars | 12 | 12 | 12 | 12 ||
+|
+=1' vol100 min. g)1
+=1, vol75 qua rest cro Bb Bb qua Bb
+=2' vol75 qua rest' cro d e qua e
+=2, vol100 cro D)2 min C#
+|
+=1' vol100 min. g
+=1, vol75 qua rest cro Bn G qua G
+=2' vol75 qua rest cro e e qua B
+=2, vol100 min B_ cro F_#(2
+|
+il0.9 .15 80
+=1' vol100 min. g
+=1, vol75 qua rest cro E E qua E(2
+=2' vol75 qua rest cro G G qua G(1
+=2, vol100 cro F_#)2 min E_(2
+|
+=1' vol100 min. g
+=1, vol75 qua E)2 cro. E cro E-fermata
+=2' vol75 qua G)1 cro. G cro G-fermata,
+=2, vol100 min. E_)2
+
+
+
+
+% stop
+@
+
+
+1.3
+log
+@sketch up to bar 55
+@
+text
+@d8 1
+a8 1
+% stop
+d33 1
+d48 2
+a49 1
+=2' vol75 qua rest cro G# G# qua G#
+d63 1
+d91 1
+d119 1
+d136 1
+a136 1
+=1, vol75 qua rest'' cro <abxl bbl> <abxl bbl> qua <abxl bbl>
+d148 1
+d163 1
+d173 1
+d206 2
+a207 2
+=1,  vol125 qua [f~# F_#(2] min F_#)2
+=1' cro blank vol90 min <F# e>
+d217 1
+d243 1
+d252 5
+a256 3
+=1 vol65 qua3 [e~ f# e~] [f# c~ f#] [a f# a]
+=2' vol65 qua rest' cro <a c~> <a e~> qua <c~ e~>
+=2, vol95 cro c B A
+d271 1
+a271 2
+=2' vol95 cro rest G F
+=2, vol95 min. A_b
+d273 1
+d284 1
+a284 1
+=2 vol95 cro B_b A_ G_
+d286 2
+a287 2
+=1  vol125 qua f~ cro. F_ vol105 cro A
+=2  vol125 qua3 [F_ F-I3 f'] min <B d#>
+d289 1
+a289 1
+=1' vol95 min a cro b
+d293 1
+a293 1
+=1' vol95 min c~# cro b
+d295 2
+a296 1
+=2 vol95 min F
+d298 1
+a298 1
+5 bars |3/4 12 | 12 |
+d300 1
+d317 1
+a317 1
+=1, leg99 vol75 qua rest, cro B B qua B
+d320 1
+a320 1
+| 
+d325 126
+@
+
+
+1.2
+log
+@first try at bars 28-32
+@
+text
+@a1 1
+
+d8 1
+a8 1
+% dontstop
+d15 2
+a16 2
+=2' treble8vab 8/8 cha1 leg105 vol75 qua rest cro G G qua G
+=2, treble8vab 8/8 cha1 leg105 vol95 min G_ cro B_
+d135 1
+d137 2
+a138 2
+|
+=1' vol100 min e~ cro eb~
+d140 1
+a140 1
+=2' vol75 qua rest'' cro <bb d~b> <bb d~b> qua <bb d~b>
+d160 151
+a310 21
+=1' vol95  min. blank
+=1, vol100 qua [e~ E_] cro. g qua f#
+=2' vol110 qua3 [E_ E-I3 e] min e~
+=2, vol100 cro blank min Bb
+|
+=1' vol90  min f# cro g(1
+=1, vol90  cro. c qua B cro B(2
+=2' vol75  qua rest E cro. e qua e~
+=2, vol95  min. blank
+|
+=1' vol90  cro g)1 cro. g qua f#
+=1, vol90  qua [B)2 Bb] min Bb
+=2' vol75  cro. E_ qua E cro e
+=2, vol95  min. blank
+|
+=1' vol80  min. f#
+=1, vol80  qua [Bb A] min A
+=2' vol75  cro. blank qua E cro e
+=2, vol95  min. blank
+
+
+d314 1
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d161 1
+a161 1
+=1, vol100 qua [e~ e] cro. g qua f#
+d172 1
+a172 1
+=2' vol75  qua E_ cro E qua e cro e~
+d176 2
+a177 2
+=1, vol80  min. A
+=2' vol75  min. blank
+@

@@ -1,0 +1,1759 @@
+3 systems 10 /17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-23-17-22-17-22-17 /
+title We Who Mourn
+pagenum 2
+innerhead Peter Billam
+leftfoot (c) 2007 Peter J Billam
+midi channel 1 patch 52 pan 41 reverb 100
+midi channel 2 patch 52 pan 87 reverb 100
+midi channel 3 patch 52 pan 5 reverb 100
+midi channel 4 patch 52 pan 95 reverb 100
+midi channel 5 patch 52 pan 23 reverb 100
+midi channel 6 patch 52 pan 69 reverb 100
+
+/
+5 bars | 3/2  24 | 24 | 28 | 28 | 24 |
+| 3/2 4.0
+i0.5 .07 4 sec/bar
+=1 treble     3/2 cha1 leg95 vol80 smb. rest
+=2 treble     3/2 cha2 leg95 vol80 min. rest G#
+r0.60 .55 We
+=3 treble     3/2 cha3 leg95 vol80 smb. F#
+r0.60 .07 We
+=4 treble8vab 3/2 cha4 leg95 vol80 smb. d(1
+r0.60 .07 We
+=5 treble8vab 3/2 cha5 leg95 vol80 min. B(1 min B)1 cro c
+r0.60 .07 We .82 who
+=6 bass       3/2 cha6 leg95 vol80 smb. rest
+|
+=1' min rest rest B
+r0.6 .65 We
+=2 smb. A
+r0.6 .01 who
+=3 smb. Fn(1
+r0.6 .01 who
+=4 min d)1(1 min. d)1 cro eb
+r0.6 .80 who
+=5 smb. A
+r0.6 .01 mourn
+=6 min rest min. d cro eb
+r0.2 .33 We .80 who
+|
+=1 smb. c
+r0.6 .01 who
+=2 smb Ab(2 cro Ab)2 G
+r0.6 .01 mourn , .82 who
+=3 min. Fn)1 cro En min D(1
+r0.6 .48 who  mourn ,
+=4 smb. c
+r0.6 .01 mourn
+=5 cro Ab G smb F(1
+r0.6 .01 we  who  mourn
+=6 smb c min rest
+r0.2 .01 mourn
+|
+=1 smb B cro A{'1 G#}'1
+r0.6 .01 mourn , .66 who
+=2 smb. F
+r0.6 .01 mourn
+=3 smb D)1 min rest
+=4' min B cro A{'1 G#}'1 min A
+r0.6 .01 we .33 who .66 mourn
+=5 min. F)1 rest
+=6' cro d c# smb B(2
+r0.2 .01 we  who  mourn
+|
+il0.7 .08 5
+=1 vol90 min. F# G#
+r0.6 .05 ga .29 - .53 ther
+=2 vol90 smb. rest
+=3 vol90 smb. D(1
+r0.6 .05 we 
+=4 vol90 min. B(1 min B)1 cro c
+r0.6 .05 we .81 who
+=5 vol90 smb. rest
+=6 vol90 min B)2 smb rest
+/
+4 bars | 20 | 24 | 24 | 16 |
+|
+=1' smb A min B
+r0.6 .01 here .66 in
+=2 smb. F
+r0.6 .01 we
+=3 smb. D)1
+=4 smb. A(2
+r0.6 .01 mourn
+=5 smb. rest
+=6 min rest min. B cro c#
+r0.2 .33 ga .59 - .81 ther
+|
+=1 smb. c#
+r0.6 .01 song
+=2 min. F# cro G# A c
+r0.6 .01 ga .27 - .50 ther .66 here .86 in
+=3 cro Db C{2 Db}2 Eb F{2 F#}2
+r0.4 .03 gather .50 here .67 in
+=4 smb. A)2
+=5 cro rest Eb F min. F#
+r0.6 .16 we .33 ga  - .50 ther
+=6 smb. A
+r0.2 .01 here
+|
+=1 vol100 min. rest cro eb{1 f}1 gb
+r0.6 .52 here .85 in
+=2 min. c# cro rest vol100 min c#
+r0.6 .01 song , .67 in
+=3 vol100 min. F# cro G#{2 min A}2
+r0.6 .01 song , .52 in
+=4 vol100 cro eb f min. f# cro f#
+r0.6 .01 gather .33 here .86 in
+=5 vol100 cro G#{2 A}2 c min c# cro d#
+r0.6 .01 here .34 in .50 song .85 in
+=6 vol100 smb. f#
+r0.2 .02 in
+|
+=1 vol100 smb. gn
+r0.6 .01 song ,
+=2 vol100 smb. d
+r0.6 .01 song ,
+=3 vol100 smb. Bb
+r0.6 .01 song ,
+=4 vol100 smb. g
+r0.6 .01 song ,
+=5 vol100 smb. e
+r0.6 .01 song ,
+=6 vol100 smb. e
+r0.2 .01 song ,
+/
+4 bars | 6 6 6 8 6 6 | 8 8 6 6 6 8 | 24 | 4 4 5 4 5 4 4 4 4 4 5 4 |
+|
+il0.7 .08 10
+=1 vol50 smb. rest
+=2 vol50 smb. rest
+=3 vol50 min. rest cro E vol60 min F(2
+r0.5 .49 we .66 ga .86 -
+=4 vol50 smb d vol60 min db(2
+r0.5 .01 we .66 ga .86 -
+=5 vol50 smb Bb vol60 min Bb(1
+r0.4 .01 we .66 ga .86 -
+=6 vol50 smb g vol60 min f(1
+r0.2 .01 we .66 ga .86 -
+|
+=1 smb. rest
+=2 smb. rest
+=3 cro F)2 cro F min. Eb vol50 cro Db
+r0.5 .16 ther .35 here .81 to
+=4 cro db)2 cro db min. c vol50 cro Bb
+r0.5 .16 ther .35 here .81 to
+=5 cro Bb)1 cro Bb min. Bb vol50 cro Bb
+r0.4 .16 ther .35 here .81 to
+=6 cro f)1 cro f min. f vol50 cro f
+r0.2 .16 ther .35 here .81 to
+|
+=1 smb. rest
+=2 smb. rest
+=3 smb. Db
+r0.5 .01 mourn ;
+=4 smb. A
+r0.5 .01 mourn ;
+=5 smb. A
+r0.4 .01 mourn ;
+=6 smb. f
+r0.2 .01 mourn ;
+
+| 4.0
+=1 vol80 min d cro A min c qua [G# G#]
+r0.6 .03 All .35 the .53 life .83 of  the
+=2 vol80 min. A min G# cro rest
+r0.5 .04 we .50 mourn ;
+=3 vol80 min. F(2 qua [F)2 G F E] [D E]
+r0.5 .04 All .83 the
+=4 vol80 qua [d e d c#] [B c#] min d cro rest
+r0.4 .04 All .33 the .50 life ,
+=5 vol80 min. rest cro rest cn B
+r0.5 .67 All .84 the
+=6 vol80 smb. rest
+
+3 systems /17-22-17-20-17-20-17-24-17-20-17 \
+ /17-20-17-20-17-24-17-20-17-22-17 \
+ /17-20-17-20-17-20-17-25-17-20-17 /
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+/
+3 bars | 4 4 5 4 5 4 5 4 5 4 5 4 | 5 5 4 5 5 5 5 4 4 4 5 4 \
+ | 4 4 5 4 4 5 4 4 4 4 4 4 |
+|
+=1' min. A min rest qua [G# A#]
+r0.5 .01 world , .82 all  the
+=2' min. rest min G# cro D
+r0.5 .50 All .83 the
+=3  smb. F
+r0.6 .01 life
+=4 qua [d e d c#] [B c#] [d eb d cn] [B c#]
+r0.4 .01 all .33 the .50 life .83 of
+=5 min A qua [D E] min F qua [B' A#]
+r0.5 .01 life .33 of  the .50 world , .83 all  the
+=6 smb. rest
+|
+il0.7 .08 15
+=1 cro. B qua c# cro d min d{1 cro e}1
+r0.5 .01 life .25 of .33 the .52 world ,
+=2' min F# cro rest A(2 qua [A)2 B] [A G#]
+r0.6 .01 life .52 of .83 the
+=3 qua [F# G# F# E] [F# G#] cro A rest rest
+r0.6 .01 of .33 the .52 world ,
+=4, cro d{1 c#}1 B qua [B c# B A] [B c#]
+r0.4 .01 all .33 the .52 world , .83 of
+=5 min G# qua [G# F#] min Fn cro rest
+r0.5 .01 life .33 of  the .52 world ,
+=6 min. rest cro rest f e
+r0.2 .67 All .84 the
+|
+=1 cro f{1 e}1 d c G# A#
+r0.5 .03 all .35 the .52 life .66 of .83 the
+=2 min. A rest
+r0.6 .01 world ,
+=3 min. rest qua [F G F E] [D E]
+r0.6 .52 all .83 the
+=4 qua [d e d c#] [B' A] min G# cro rest
+r0.5 .03 all .33 the .51 world ,
+=5 smb. blank
+=6' min d cro A min c cro G#
+r0.2 .03 life .33 of .53 all .83 the
+/
+3 bars | 5 5 5 5 5 4 4 4 5 4 4 4 | 5 5 5 5 5 4 4 4 5 4 4 4 \
+ | 4 4 4 4 4 5 4 5 4 5 4 4 |
+|
+=1' min B cro rest min. rest
+r0.6 .01 world ,
+=2' min Bn cro F# min A cro A
+r0.6 .02 all .35 the .52 leaf .83 and
+=3 min F# cro D qua [D E D C#] [D E]
+r0.5 .01 leaf .35 and .52 flesh .83 of
+=4' qua [G# A# G# F#] [G# A#] min B cro An
+r0.6 .02 all .35 the .52 leaf .83 and
+=5 min D cro E min Fn cro F
+r0.4 .01 all .35 the .52 leaf .83 and
+=6 min. Bn min A cro G#
+r0.3 .01 world , .52 all .83 the
+|
+=1 min rest cro c# min d cro A
+r0.6 .38 A .54 bil .69 - .81 lion
+=2 min Bn' cro F# min A cro rest
+r0.6 .01 flesh .38 of .52 earth ,
+=3 min D cro D qua [D{'1 E D C# D E]
+r0.5 .01 earth , .38 a .54 bil .80 -
+=4' qua [G# A# G# F#] [G# A#] min B cro rest
+r0.6 .01 flesh .38 of .52 earth ,
+=5 min D cro E min Fn cro F
+r0.4 .01 flesh .38 of .52 earth , .84 a
+=6' min F# cro F# min. Fn
+r0.3 .01 leaf .36 and .52 flesh
+|
+=1 min c cro Ab min B' cro B'
+r0.6 .02 years .33 of .51 sun .83 and
+=2 min. rest min rest cro F
+r0.6 .83 A
+=3 min D}'1 cro D qua [Eb F Eb D] [Eb D]
+r0.5 .10 - .31 lion .51 years .83 of
+=4 smb. rest
+=5 qua [F G F E] [F G] min Ab cro Ab
+r0.4 .03 bil .20 - .33 lion .51 years .83 of
+=6 min. F F(1
+r0.3 .01 of .50 earth ,
+/
+3 bars | 4 4 4 4 4 5 5 5 4 5 5 4 | 4 5 4 5 4 5 5 5 4 5 4 4 \
+ | 4 4 4 4 4 5 4 5 5 4 4 4 |
+|
+il0.6 .08 20
+=1 min. db(1 qua [db)1 eb db c] [db eb]
+r0.6 .01 breath , .83 a
+=2' qua [G A G F] [G A] min Bb cro Ab
+r0.6 .01 bil .19 - .32 lion .48 years .83 of
+=3 min Db cro Eb min. En
+r0.6 .01 sun .33 and .48 breath
+=4 min rest qua [Bb, c] min db cro Ab
+r0.5 .33 a .48 bil .70 - .83 lion
+=5 min Bb' cro F min Ab cro rest
+r0.6 .01 sun .33 and .48 breath .
+=6 cro F)1 rest f e{1 eb}1 db
+r0.3 .33 A .48 bil .69 - .81 lion
+|
+=1 min f cro f e{1 d#}1 c#
+r0.6 .01 bil .19 - .32 lion .50 years .83 of
+=2' qua [G A G F] [E F] min Ab cro rest
+r0.6 .01 sun .33 and .50 breath ,
+=3  min. rest min rest cro Ab
+r0.6 .83 a
+=4, qua [Bb c Bb A] [Bb c] [db eb db c] [Bb c]
+r0.5 .01 years .33 of .50 sun .83 and
+=5 min. rest min rest cro Db
+r0.6 .83 a
+=6 cro c{2 G}2 A min. Bb
+r0.3 .01 years .33 of .50 sun
+|
+=1 min B' cro f e{1 d#}1 c#
+r0.6 .03 breath , .33 a .50 bil .69 - .81 lion
+=2 smb. rest
+=3 cro G{2 F}2 Eb min Db cro Ab
+r0.4 .03 bil .20 - .34 lion .51 years .84 of
+=4  min c# qua [G A] [Bb, c c# d#] cro e
+r0.5 .03 breath , .34 of .52 sun .83 and 
+=5' qua [Eb F G A] cro B min A# cro A#
+r0.6 .03 bill .20 - .33 lion .51 years .83 of
+=6 min. Bn c#
+r0.3 .03 and .51 breath ,
+
+3 systems /17-20-17-20-17-24-17-22-17-20-17 \
+ /17-20-17-20-17-25-17-20-17-20-17 \
+ /17-20-17-20-17-24-17-24-17-20-17 /
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+/
+3 bars | 5 4 4 4 4 5 5 4 5 5 4 4 | 7 7 8 7 7 7 | 21 24 |
+|
+=1 min B' cro f min e cro d#
+r0.6 .01 years .33 of .50 sun .83 and
+=2 min. rest min rest cro G#
+r0.6 .83 of
+=3 cro G{2 F}2 D# qua [C# D# E F#] cro G#
+r0.4 .01 sun .33 and .50 breath , .83 of
+=4 min. eb rest
+r0.7 .01 breath ,
+=5' qua [B c# B A] [G A] min. Bb
+r0.6 .01 sun .33 and .50 breath ,
+=6 min. d# e
+r0.2 .01 sun .50 and
+|
+=1 smb. c#
+r0.6 .01 breath, 
+=2 smb. A
+r0.6 .01 breath ,
+=3 min A cro G min. F
+r0.5 .01 sun .33 and .50 breath ,
+=4 smb. rest
+=5 smb. rest
+=6 smb. f
+r0.2 .01 breath ,
+|
+il0.6 .08 25
+=1 min. c# B(1
+r0.6 .02 and .50 love
+=2 min. F# min G# cro F#
+r0.6 .02 and .50 love .83 and
+=3 min. F# G#(1
+r0.6 .02 and .50 love
+=4 min. d# cro d#(1 cro. d#)1 qua c#(1
+r0.6 .02 and .50 love , .90 and
+=5 min. c# B(1
+r0.6 .02 and .50 love
+=6 smb. rest
+/
+4 bars | 8 8 7 | 7 8 7 | 7 7 8 | 21 |
+|
+=1 smb B)1 min B
+r0.6 .66 and
+=2 smb G# min rest
+r0.6 .01 love , 
+=3 cro G#)1 F# G#{'1 F#}'1 min E
+r0.6 .16 and .33 love .66 and
+=4 cro c#)1 cro. d#{1 c#}1 min c#
+r0.6 .17 love, .66 and
+=5 smb B)1 min B
+r0.5 .66 and
+=6 smb. rest
+|
+=1' smb A min rest
+r0.6 .01 food
+=2' smb rest min A
+r0.6 .66 and
+=3  smb F# min D
+r0.6 .01 food .66 and
+=4  min c# cro d{1 c# min B}1
+r0.6 .01 food .33 and
+=5' smb A min A
+r0.5 .01 food .66 and
+=6 smb. rest
+|
+=1' min. rest min A# cro B(2
+r0.6 .50 and .83 death   ;
+=2 smb G# cro rest  Gn
+r0.6 .01 fear .83 and
+=3 smb D# cro rest  D#
+r0.6 .01 fear .83 and
+=4' smb B cro rest  B
+r0.6 .01 fear .83 and
+=5 smb G# cro rest  Gn
+r0.5 .01 fear .83 and
+=6' smb rest cro rest  B
+r0.2 .83 and
+|
+=1 smb. B)2
+=2 smb. F#
+r0.6 .01 death ,
+=3 min. D min C#{'1 cro B_}'1(2
+r0.6 .01 death , .50 and
+=4' min. B min A{'1 cro G}'1(2
+r0.6 .01 death , .50 and
+=5 smb. F#(2
+r0.6 .01 death ;
+=6 smb. B(2
+r0.2 .01 death ;
+/
+3 bars | 8 7 7 7 7 7 | 4 4 5 4 5 4 4 4 4 4 5 4 | 4 4 5 4 5 4 5 4 5 4 5 4 |
+|
+il0.6 .08 30
+=1 smb. rest
+=2 min. E D
+r0.3 .01 and .50 death ,
+=3 cro B_)2 min A_(1 min. A_)1
+r0.3 .17 death ;
+=4' cro G)2 min F#(1 min. F#)1
+r0.6 .17 death ;
+=5 smb. F#)2
+=6 smb. B)2
+
+|
+=1 vol80 min d cro A min c qua [G# G#]
+r0.6 .03 All .35 the .53 life .83 of  the
+=2 vol80 min. A min G# cro rest
+r0.6 .04 and .50 death ;
+=3 vol80 min. F(2 qua [F)2 G F E] [D E]
+r0.5 .04 All .83 the
+=4 vol80 qua [d e d c#] [B c#] min d cro rest
+r0.5 .04 All .33 the .50 life ,
+=5 vol80 min. rest cro rest cn B
+r0.6 .67 All .84 the
+=6 vol80 smb. rest
+|
+=1' min A cro A min rest qua [G# A#]
+r0.6 .01 a .18 - .33 ges , .82 all  the
+=2' min. rest min G# cro D
+r0.5 .50 All .83 the
+=3  smb. F
+r0.6 .01 life
+=4 qua [d e d c#] [B c#] [d eb d cn] [B c#]
+r0.5 .01 all .33 the .50 life .83 of
+=5 min A qua [D E] cro F F qua [B' A#]
+r0.5 .01 life .33 of  the .55 ages , .83 all  the
+=6 smb. rest
+
+3 systems /17-20-17-20-17-20-17-24-17-23-17 \
+ /17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-24-17-20-17-20-17 /
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+/
+3 bars | 5 5 4 5 5 5 5 4 4 4 5 4 | 4 4 4 4 4 4 5 5 4 5 5 4 \
+ | 5 5 5 5 5 5 4 4 5 4 5 4 |
+|
+=1 cro. B qua c# cro d min d cro e
+r0.6 .01 life .25 of .33 the .52 a .66 - .83 ges ,
+=2' min F# cro rest A(2 qua [A)2 B] [A B]
+r0.6 .01 life .51 All .83 the
+=3 qua [F# G# F# E] [F# G#] cro A rest rest
+r0.6 .01 of .33 the .52 ages ,
+=4, cro d{1 c#}1 B qua [B c# B A B c#]
+r0.5 .01 all .33 the .52 a .80 -
+=5 min G# qua [G# F#] min Fn cro F
+r0.5 .01 life .33 of  the .52 a .68 - .83 ges ,
+=6 min. rest cro rest f e
+r0.2 .67 All .84 the
+|
+=1 min f cro c min eb cro B'
+r0.6 .02 e .18 - .32 very .50 dawn .83 and
+=2 min c cro Ab min B cro F
+r0.6 .01 life .32 of .50 all .83 the
+=3 qua [F G F E] [F G] min F cro rest
+r0.6 .02 e .18 - .32 very .50 dawn
+=4 min d cro rest min. rest
+r0.6 .01 ges ,
+=5' min Ab cro Ab qua [Ab Bb Ab G] [Ab Bb]
+r0.5 .02 e .18 - .32 very .50 dawn .83 and
+=6' cro d c Bb min. Ab(1
+r0.2 .03 life .17 of .33 the .50 a .85 -
+|
+il0.6 .08 35
+=1 min d cro e f{1 e}1 d
+r0.6 .01 e .18 - .32 very .52 birth .83 and
+=2 qua [F# G# F# Fn F# G#] min An cro rest
+r0.6 .02 a .28 - .52 ges ,
+=3 min. rest min rest cro An
+r0.6 .83 and
+=4 min. rest qua [d e d c#] [B c#]
+r0.6 .54 e .68 - .82 very
+=5' min B cro A min D cro D
+r0.5 .02 e .18 - .32 very .52 birth .83 and
+=6 min. Ab)1 B
+r0.2 .20 - .52 ges,
+/
+3 bars | 5 5 5 4 5 4 5 4 4 4 4 4 | 4 4 5 5 5 5 4 5 5 4 4 4 \
+ | 7 7 8 7 7 7 |
+|
+=1 min c cro gb f{1 e}1 d
+r0.6 .02 e .18 - .32 very, .53 e .68 - .82 very
+=2 smb. rest
+=3 cro G#{2 F#}2 E min D cro A
+r0.6 .02 e .18 - .32 very .50 birth , .83 and
+=4 min d qua [G# A#] [B, c# d e] cro f
+r0.6 .01 dawn .33 and .82 very
+r0.4 .53 e .68 -
+=5 qua [E F# G# A#] cro c min B cro B
+r0.6 .02 e .18 - .32 very .52 dawn .83 and
+=6 min. c d
+r0.2 .02 e .27 - .49 very
+|
+=1 min c cro gb min f cro e
+r0.6 .01 dawn .33 and .53 e .68 - .82 very
+=2 min. rest min A cro A
+r0.6 .53 e .69 - .82 very
+=3 cro G#{2 F#}2 E qua [D E Fn Gn] cro A
+r0.4 .02 e .18 - .32 very .52 dawn .81 and
+=4 min. e rest
+r0.6 .01 birth ,
+=5 qua [c d c Bb,] [Ab Bb'] min. Bn'
+r0.4 .02 e .18 - .32 very .52 birth ,
+=6 min e cro e min f cro f
+r0.2 .01 dawn .33 and .53 e .68 - .82 very
+|
+=1 smb. d
+r0.6 .01 birth, 
+=2 smb. Bb
+r0.6 .01 birth
+=3 min A# cro G# min. F#
+r0.5 .01 e .18 - .32 very .50 birth ,
+=4 min d cro d min. d
+r0.5 .01 e .18 - .32 very .50 birth ,
+=5 smb. rest
+=6 smb. f#
+r0.2 .01 birth
+/
+5 bars | 3 3 3 4 3 3 | 4 4 3 3 3 4 | 3 3 3 4 3 3 | 18 | 9 ||
+|
+=1 smb d min db(1
+r0.6 .01 we .66 ga .86 -
+=2 smb G min F(1
+r0.6 .01 we .66 ga .86 -
+=3 min. rest cro E vol60 min Fn(1
+r0.5 .50 we .66 ga .86 -
+=4 smb d vol60 min db(2
+r0.6 .01 we .66 ga .86 -
+=5 smb Bb vol60 min Bb(1
+r0.5 .01 we .66 ga .86 -
+=6 smb g vol60 min fn(1
+r0.2 .01 we .66 ga .86 -
+|
+il0.6 .08 40
+=1 cro db)1 vol70 db min. c cro c
+r0.6 .16 ther .35 here , .83 we
+=2 cro F)1 vol70 F min. F cro F
+r0.5 .16 ther .35 here , .83 we
+=3 cro F)1 cro vol70 F min. Eb vol50 cro Eb
+r0.4 .16 ther .35 here, .83 we
+=4 cro db)2 cro vol70 db min. c vol50 cro c(1
+r0.6 .16 ther .35 here .83 to
+=5 cro Bb)1 cro vol70 Bb min. Bb vol50 cro Bb
+r0.5 .16 ther .35 here .83 to
+=6 cro f)1 cro vol70 f min. f vol50 cro f
+r0.2 .16 ther .35 here .83 to
+|
+=1 smb Bb vol60 min Ab
+r0.6 .01 ga .35 - .65 ther
+=2 smb F vol60 min F
+r0.5 .01 ga .35 - .65 ther
+=3 smb Db vol60 min C
+r0.4 .01 ga .35 - .65 ther
+=4 vol60 min. c)1 Bb'(2
+r0.6 .50 mourn .
+=5 vol60 smb. Bb(2
+r0.6 .01 mourn .
+=6 vol60 smb. f(2
+r0.2 .01 mourn .
+|
+=1 min. Gb F
+r0.6 .01 here .50 to
+=2 min. Eb Db
+r0.5 .01 here .50 to
+=3 min. C C
+r0.4 .01 here .50 to
+=4 smb. Bb)2(2
+=5 smb. Bb)2(2
+=6 smb. f)2(2
+|
+=1 smb. F
+r0.6 .01 mourn .
+=2 smb. Db
+r0.5 .01 mourn .
+=3 smb. Db
+r0.4 .01 mourn .
+=4 smb. Bb)2
+=5 smb. Bb)2
+=6 smb. f)2
+midi pause 3.8
+
+2 systems 10 /17-20-17-20-17-20-17-23-17-25-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-23-17-22-17-27-17-20-17-20-17-20-17 /
+title II
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+midi channel 1 patch 52 pan 62 reverb 100
+midi channel 2 patch 52 pan 26 reverb 100
+midi channel 3 patch 52 pan 86 reverb 100
+midi channel 4 patch 52 pan 2  reverb 100
+midi channel 5 patch 52 pan 50 reverb 100
+midi channel 6 patch 52 pan 98 reverb 100
+midi channel 7 patch 52 pan 14 reverb 100
+midi channel 8 patch 52 pan 74 reverb 100
+midi channel 10 patch 52 pan 38 reverb 100
+
+/
+3 bars | 10/4  40 | 40 |
+| 10/4 112
+i0.5 .07 112 cro/min
+=1 treble     10/4 cha1 leg98 vol70 smb rest cro rest smb rest cro rest
+=2 treble     10/4 cha2 leg98 vol60 smb rest cro rest smb rest cro rest
+=3 treble     10/4 cha3 leg98 vol60 cro rest F# min. F#(1 smb F#)1-dim10 cro rest
+r0.5 .13 We  grieve
+=4 treble     10/4 cha5 leg98 vol60 smb rest cro C# smb C# cro D#
+r0.2 .40 We  grieve .90 to
+=5 treble     10/4 cha4 leg98 vol60 smb rest cro rest min rest cro B_ min C#(1
+r0.2 .70 We  grieve
+=6 treble8vab 10/4 cha6 leg98 vol60 smb rest cro A smb A cro A
+r0.6 .40 We   grieve .90 to
+=7 treble8vab 10/4 cha7 leg98 vol60 smb rest cro rest min rest cro G# min A{1
+r0.6 .70 We  grieve
+=8 bass       10/4 cha8 leg98 vol60 cro rest f# min. f#(2 smb f#)2-dim10 cro rest
+r0.6 .13 We  grieve
+=9 bass       10/4 cha10 leg98 vol60 smb rest cro rest smb rest cro rest
+|
+=1 smb rest cro rest smb rest cro rest
+=2 cro rest F# min. F#(1 smb F#)1-dim10 cro rest
+r0.5 .10 We  grieve
+=3 smb rest cro F# smb E-dim10  cro Dn
+r0.3 .40 to .50 lose .87 what
+=4 smb E   cro Dn    min D cro D min D
+r0.3 .01 lose .40 what  we .70 achieved
+=5 smb C#)1 cro rest  cro Dn{'1 C#}'1 min. B_(1
+r0.2 .50 to .70 lose
+=6 smb B(1  cro B)1(1 B)1 min rest cro A{'1 G#}'1
+r0.5 .01 lose .80 what
+=7 smb G#}1 cro G# smb G#-dim10 cro rest
+r0.5 .40 for .50 love ,
+=8 cro rest f# min. f#(2 smb f#)2-dim10 cro rest
+r0.5 .10 for  love
+=9 smb rest cro rest min. rest min F#-dim10
+r0.4 .80 We
+
+|
+=1 min. rest min c# min. B min A 
+r0.5 .28 What .50 we .80 a .94 -
+=2 cro rest F# min. F#(1 smb F#)1-dim10 cro rest
+r0.5 .10 for  love
+=3 smb C#   cro C# smb C#-dim10 cro rest
+r0.2 .01 we .39 achieved ,
+=4 smb rest cro rest smb rest cro D#
+r0.3 .90 we
+=5 min B_)1 rest cro rest min rest cro B_ min C#(1
+r0.2 .68 what  we
+=6 smb A    cro A smb A-dim10 cro A
+r0.6 .01 we .40 achieved , .90 we
+=7 smb rest cro rest min rest cro G# min A{1
+r0.6 .67 love  of
+=8 cro rest f# min. f#(2 smb f#)2-dim10 cro rest
+r0.6 .10 of .20 word
+=9 smb F#-dim15 cro rest smb rest cro rest
+r0.4 .01 grieve
+|
+=1 smb G#-dim15 cro rest smb rest cro rest
+r0.5  - .01 chieved !
+=2 cro rest F# min. F#(2 smb F#)2-dim10 cro rest
+r0.5 .10 of   word
+=3 smb rest cro F# smb E-dim10  cro Dn
+r0.3 .40 we .50 grieve .90 for
+=4 smb E   cro D    smb D    cro rest
+r0.5 .01 sing .40 for love 
+=5 smb C#)1 cro rest  cro Dn{'1 C#}'1 min. B_(1
+r0.3 .50 a .60 - .70 chieved ;
+=6' smb B(2  cro B)2 rest min B cro A G#
+r0.5 .01 grieve .60 for .80 love  of
+=7 smb G#-dim10 cro G# min G# G#-dim10 cro rest
+r0.5 .01 word .40 and  num .63 - .70 ber ,
+=8 cro rest f# min. f#(2 min f#)2 f#-dim10 cro rest
+r0.5 .10 and .20 num .47 - .70 ber
+=9 smb rest cro rest min. rest min F#-dim10
+r0.4 .80 to
+
+|
+il0.7 .10 5
+=1 min. rest min c# min. B' min A 
+r0.5 .30 We .50 grieve .80 for
+=2 cro rest F# min. F#(1 min F#)1 F#-dim10 cro rest
+r0.5 .10 and  num .47 - .68 ber ,
+=3 smb C#-dim10   cro C# smb C#-dim10 cro D#
+r0.2 .01 love .40 of .50 word
+r0.3 .90 and
+=4 smb rest cro rest smb rest cro F#
+r0.5 .90 of
+=5 min B_)1 min rest cro rest min rest cro B_ min C#(1
+r0.3 .70 we  grieve
+=6 smb A-dim10    cro A smb A-dim10 cro A
+r0.6 .01 word .40 and  num .73 - .87 ber ,
+=7 smb rest cro rest min rest cro G# min A
+r0.6 .70 pen  and
+=8 cro rest f# min. f#(2 smb f#)2-dim10 cro rest
+r0.6 .10 and .20 pen
+=9 smb F#-dim15 cro rest smb rest cro rest
+r0.4 .01 lose
+|
+=1 smb G#-dim15 cro rest smb rest cro rest
+r0.5 .01 love
+=2 cro rest G# min G# cro G# smb G#-dim10 cro rest
+r0.5 .10 and .20 pen .40 and .50 poem .
+=3 smb E-dim10 cro F# smb E-dim10  cro Dn
+r0.3 .01 num .25 - .39 ber, .51 pen .89 and
+=4 smb E   cro D    smb D    cro D
+r0.5 .01 word .40 and num .73 - .88 ber
+=5 smb C#)1-dim10 cro E  cro D C# min. B_
+r0.3 .40 for .50 love .60 of .70 word
+=6' smb B  cro B min B min. rest
+r0.5 .01 pen .40 and .50 poem ,
+=7 smb G#-dim10 cro G# min. G#-dim10 cro A{'1 G#}'1
+r0.5 .01 poem ; .40 of .50 bow .80 and .90 of
+=8 cro rest g# min. g#(2 smb g#)2 cro rest
+r0.5 .10 and .20 poem
+=9 smb rest cro rest min. rest min G#-dim10
+r0.3 .80 what
+
+2 systems 10 /17-20-17-25-17-22-17-23-17-23-17-20-17-20-17-20-17 \
+ /17-20-17-25-17-23-17-23-17-24-17-20-17-23-17-20-17 /
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+|
+=1 smb rest cro G# min G# cro F# G# A#
+r0.5 .40 of .50 num - ber , .80 pen .90 and
+=2 cro rest G# min. G#(2 smb G#)2 cro rest
+r0.5 .10 We  sing
+=3 smb C#(1 cro C#)1(1 min. C#)1 cro rest F#
+r0.2 .01 poem ,
+r0.5 .90 we
+=4 smb E cro E min E cro D# min E
+r0.3 .01 pen .40 and .52 po  -  em , .80 we
+=5 smb rest cro rest cro rest min B_ min C#
+r0.2 .60 and .80 num .93 -
+=6 smb rest cro rest smb rest cro rest
+=7 smb G#    cro G# smb G# cro G#
+r0.6 .01 string .39 and  cloth .87 and
+=8 cro rest g# min. g#(2 smb g#)2 cro rest
+r0.6 .10 of .20 bow
+=9 smb G#-dim15 cro rest smb rest cro rest
+r0.3 .01 we
+
+|
+=1 smb B cro c# smb B cro An
+r0.5 .01 poem . .40 We .50 sing .90 of
+=2 cro rest G# min G# cro rest smb G# cro rest
+r0.5 .10 of  .20 bow , .50 string
+=3 min. F# cro G#{'1 A}'1 G#{'1 F#}'1 E min D#
+r0.5 .01 sing .30 of .50 bow .70 and .80 string
+=4 smb D# cro D# smb D# cro D#
+r0.3 .01 sing .40 of  bow , .90 we
+=5 smb C# cro C# smb C# cro D#
+r0.2 .01 ber , .40 and .50 pen .90 and
+=6 smb rest cro rest min. rest min G#
+r0.6 .80 for
+=7 smb G# cro rest smb rest cro rest
+r0.6 .01 home ;
+=8 cro rest g# min. g#(2 smb g#)2 cro rest
+r0.6 .10 and  string
+=9 smb rest cro rest min. rest min G#-dim10
+r0.3 .80 a .92 -
+
+|
+=1 smb G# cro G# min G# cro F# G# A#
+r0.5 .01 bow .40 and .50 string .70 and cloth and
+=2 cro rest G# min. G#(2 smb G#)2 cro rest
+r0.5 .10 and  cloth ,
+=3 smb rest cro C# smb C# cro F#
+r0.2 .40 and .50 cloth .90 and
+=4 smb E    cro E min E cro D# min E
+r0.3 .01 sing .40 of .50 string .70 and  cloth ,
+=5 smb C# cro rest cro rest min B_ min C#
+r0.2 .01 poem , .60 bow .80 and
+=6 smb G#    cro G# smb G# cro G#
+r0.6 .01 bow .40 and  string .90 and
+=7 smb rest cro rest smb rest cro rest
+=8 cro rest g# min. g#(2 smb g#)2 cro rest
+r0.6 .10 and .20 cloth
+=9 smb G#-dim15 cro rest smb rest cro rest
+r0.3 .01 chieved ,
+
+|
+il0.7 .08 10
+=1 smb B cro c# smb c# cro B
+r0.5 .02 home , .40 of .50 book .90 and
+=2 cro rest G# min G# cro rest smb G# cro rest
+r0.6 .10 and  home, .50 book
+=3 min. F# cro G#{'1 A}'1 G#{'1 F#}'1 E min Eb
+r0.5 .01 home ; .30 we .50 sing .70 of .80 book
+=4 smb D# cro D# smb D# cro C#
+r0.2 .01 ev .23 - .40 ery .50 home .90 and
+=5 smb C# cro C# smb C# cro rest
+r0.3 .01 cloth .40 and .50 home ,
+=6 smb G# cro rest smb rest cro rest
+r0.6 .01 home ;
+=7 smb rest cro rest smb rest cro rest
+=8 cro rest g# min. g#(2 smb g#)2 cro rest
+r0.6 .10 and  home ;
+=9 smb rest cro rest min. rest min Bb-dim10
+r0.3 .80 the
+
+|
+=1' smb A# cro rest smb rest cro Bb
+r0.5 .01 dance .88 and
+=2' smb rest cro Bb smb Bb cro rest
+r0.6 .40 and .50 dance
+=3 smb rest cro Fn smb F cro G
+r0.5 .40 and .50 dance .88 and
+=4 smb C# cro rest cro rest min Eb min F
+r0.2 .01 book ,
+r0.4 .60 ev .72 - .80 ery
+=5 cro rest Db min. Db smb Db cro Eb
+r0.4 .10 every .50 book .88 and
+=6 smb rest cro rest min rest cro c min db
+r0.5 .70 every
+=7 cro rest Bb' min Bb' cro Bb' smb Bb cro c
+r0.6 .10 of .20 book .40 and .50 dance , .88 and
+=8 smb rest cro f smb f cro rest
+r0.5 .40 of .50 book ,
+=9 smb Bb-dim15 cro rest  smb rest cro rest
+r0.3 .01 words
+
+|
+=1 min Bb cro rest min eb min. db min c
+r0.5 .01 poet , .30 of .50 ev .68 - .77 ery
+=2' cro rest Bb min. Bb(2 smb Bb)2 cro rest
+r0.6 .10 and  poet ,
+=3 min. Bb cro rest Bb smb Ab cro Gb
+r0.5 .01 poet , .40 of .50 ev .73 - .89 ery
+=4 smb Ab cro rest min Gb min. Gb
+r0.4 .01 dance .50 and .69 poet ,
+=5 smb F cro rest Gb F min. Eb
+r0.5 .01 dance , .50 every .70 poet ,
+=6 smb eb cro eb eb min rest cro db c
+r0.5 .01 book .40 and  dance , .80 every
+=7 smb c(1 cro c)1 cro c c min. c
+r0.6 .01 poet , .50 every .68 rope ,
+=8 cro rest bb min. bb(2 smb bb)2 cro bb
+r0.5 .10 and .20 dance .88 and
+=9 smb rest cro rest  smb rest cro rest
+
+2 systems 10 /17-20-17-23-17-22-17-23-17-25-17-20-17-23-17-20-17 \
+ /17-23-17-25-17-22-17-23-17-24-17-20-17-20-17-20-17 /
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+/
+4 bars | 9 9 6 6 9 9 9 9 9 6 | 8 8 6 8 9 6 6 9 9 6 \
+ | 6 6 6 6 9 6 6 6 6 6 | 9 8 9 9 8 9 8 9 9 6 |
+|
+=1 smb Bb cro rest min. rest cro Bb Bb
+r0.5 .01 rope , .80 every
+=2 smb rest cro Bb min. Bb min rest
+r0.5 .40 every
+=3 smb F cro rest smb F cro G
+r0.5 .01 rope , .50 ev .73 - .90 ery
+=4 smb rest cro rest cro rest cro Eb Eb min F
+r0.5 .60 every .80 rope ,
+=5 cro rest Db min. Db smb Db cro Eb
+r0.4 .10 every .50 rope
+r0.5 .90 ev -
+=6 smb db cro rest min rest cro c min db
+r0.5 .01 poet , .70 every
+=7' cro rest Bb min. Bb(2 smb Bb)2(2 cro Bb)2
+r0.5 .10 ev - ery
+=8 min. bb cro rest f min f f cro rest
+r0.5 .01 poet , .37 and  te - non
+=9 min. rest min Bb smb Bb cro rest
+r0.3 .30 we .50 wrote ;
+
+|
+=1 min c c cro rest smb c cro d
+r0.5 .01 te - non , .50 ev .75 - .88 ery
+=2 cro rest c min. c min rest cro Bb min c
+r0.5 .10 tenon , .70 every
+=3 smb Ab cro Ab min rest cro G Ab Bb'
+r0.5 te .23 - .39 non .70 and every
+=4 cro rest F min F cro F min F cro G min Ab
+r0.5 .10 every .40 tenon .70 every
+=5 min. F cro rest F min F cro F min F
+r0.5 .01 ery .40 tenon .70 every
+=6 cro c  min c  cro rest c  smb c  cro d
+r0.5 .01 tenon .40 and  ev .73 - .90 ery
+=7 min Ab Ab cro rest smb Ab cro Bb
+r0.5 .01 te - non .50 ev .73 - .90 ery
+=8 smb rest cro rest smb rest cro ab
+r0.6 .90 and
+=9 smb rest cro rest smb rest cro rest
+
+|
+il0.7 .05 15
+=1 smb eb(1 cro eb)1(1 min. eb)1 min c#
+r0.5 .01 boat , .80 for
+=2' smb Bn(2 cro B)2(2 min. B)2 min A#
+r0.5 .01 boat , .80 for
+=3 smb Bn(2 cro B')2(2 min. B')2 min c#
+r0.5 .01 boat , .80 for
+=4 smb G(1 cro G)1(2 min. G)2 min G
+r0.5 .01 boat , .80 for
+=5 smb G(1 cro G)1(1 smb G)1 cro rest
+r0.5 .01 boat ,
+=6 smb eb(1 cro eb)1(1 smb eb)1 cro rest
+r0.5 .01 boat ,
+=7 smb Bn(1 cro B)1(1 smb B)1 cro rest
+r0.5 .01 boat ,
+=8 smb g(1 cro g)1(1 smb g)1 cro rest
+r0.6 .01 boat ,
+=9 smb rest cro rest smb rest cro rest
+
+|
+=1 leg98 min. d# min e min. d# min c#
+r0.5 .01 what .30 we .50 made .80 and
+=2 leg98 min. B  min c# cro d#{1 c# B}1 A#{1 c#}1
+r0.5 .01 what .30 we .50 made .80 and
+=3 leg98 cro d#{1 c# B}1 A#{1 c#}1 min. B  min A#
+r0.5 .01 what .30 we .50 made .80 and
+=4 leg98 min. G# min G# min. G# min G#
+r0.5 .01 what .30 we .50 made .80 and
+=5 smb rest cro rest smb rest cro rest
+=6 smb rest cro rest smb rest cro rest
+=7 smb rest cro rest smb rest cro rest
+=8 smb rest cro rest smb rest cro rest
+=9 smb rest cro rest smb rest cro rest
+
+/
+4 bars | 80 | 6 6 6 6 9 6 6 8 6 6 \
+ | 6 6 9 8 9 6 6 6 6 6 | 6 6 8 6 8 6 6 8 6 8 |
+|
+=1 min d# e cro. d# c# d# e
+r0.5 .01 sang .20 and .35 thought and  built and
+=2, min B  c# cro. B c# B  c#
+r0.5 .01 sang .20 and .35 thought and  built and
+=3  cro c#{1 min B}1 cro A# cro. B' A# B' B'
+r0.5 .01 sang .27 and thought and  built and
+=4 min G# G# cro. G# G# G# G#
+r0.5 .01 sang .20 and .35 thought and  built and
+=5 smb rest cro rest smb rest cro rest
+=6 smb rest cro rest smb rest cro rest
+=7 smb rest cro rest smb rest cro rest
+=8 smb rest cro rest smb rest cro rest
+=9 smb rest cro rest smb rest cro rest
+
+|
+=1 smb d#(1 cro d#)1(1 min d#)1 cro rest min e
+r0.5 .01 wrote . .80 Be .92 -
+=2 smb c#(1 cro c#)1(1 min c#)1 cro rest min c#
+r0.5 .01 wrote . .80 Be .92 -
+=3 smb Bn(1 cro B)1(1  min B)1  cro rest min B'
+r0.5 .01 wrote . .80 Be .92 -
+=4 smb Gn(1 cro G)1(1  min. G)1          min rest
+r0.5 .01 wrote .
+=5 smb rest cro rest   min. rest        min G
+r0.3 .80 Be .92 -
+=6 smb rest cro rest smb rest cro rest
+=7 smb rest cro rest smb rest cro rest
+=8 smb rest cro rest smb rest cro rest
+=9 smb rest cro rest smb rest cro rest
+
+|
+=1 smb d# cro d# min. c# min B
+r0.5 .01 fore .40 the .53 rain .80 and
+=2 smb c#   cro B smb A cro G
+r0.5 .01 fore .40 the .53 rain .87 and
+=3' min. B cro A G(2 min G)2 min. F
+r0.5 .01 fore .30 the .43 rain .73 and
+=4 smb rest cro rest smb rest cro rest
+=5 min G cro F min Eb(2 min. Eb)2 min C#
+r0.3 .01 fore .20 the .33 rain .80 and
+=6 smb rest cro rest smb rest cro rest
+=7 smb rest cro rest smb rest cro rest
+=8 smb rest cro rest smb rest cro rest
+=9 smb rest cro rest smb rest cro rest
+|
+il0.7 .05 20
+=1 min B{1 cro A}1 min G(2 smb G)2 cro G
+r0.5 .01 tide .30 wash .84 these
+=2 smb F(2 cro F)2 smb E cro rest
+r0.5 .01 tide .50 wash
+=3 min. Eb min C#(1 smb C#)1 cro rest
+r0.4 .01 tide
+r0.3 .30 wash
+=5 smb B_ cro rest smb B_ cro C#
+r0.2 .01 tide .50 wash .84 these
+=6 smb rest cro rest min rest cro A min B'
+r0.5 .68 before
+=7 smb rest cro rest smb rest cro A
+r0.5 .87 be -
+=8 smb rest cro rest min rest cro f# min g
+r0.5 .67 before
+=9 smb rest cro f smb e cro rest
+r0.3 .39 before
+
+2 systems 10 /17-22-17-20-17-22-17-24-17-25-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-22-17-23-17-25-17-20-17-20-17-20-17 /
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+/
+3 bars | 80 | 6 6 8 6 8 6 6 8 8 8 | 6 6 8 8 8 6 6 8 6 8 |
+|
+=1 min. F# min e min. d min c
+r0.5 .01 pa .18 - .30 ges .50 from .80 our
+=2 cro rest E F# G A  B A G min F#
+r0.5 .10 these pages from our empty rooms
+=3 cro rest E min. E min E cro rest F# E
+r0.5 .10 these  pa .37 - .50 ges .76 from  our
+=4 smb rest cro E smb D cro C
+r0.3 .40 before .90 the
+=5 smb D cro Cn smb C cro C
+r0.3 .01 pa .23 - .38 ges .50 from .90 our
+=6 smb B cro rest min cn cro  B min A
+r0.5 .01 rain , .50 tide .70 and .80 rain
+=7 smb A cro A min A min rest cro F#
+r0.5  - .01 fore .40 the .50 rain .89 and
+=8 smb f# cro f# smb f# cro rest
+r0.5 .01 rain .40 and .50 tide
+=9 cro rest e min e cro e smb e cro rest
+r0.3 .10 the .20 rain .40 and .50 tide
+|
+=1' smb B cro B min. A cro rest A
+r0.5 .01 em .22 - .38 pty .50 rooms .90 and
+=2 smb G{1 cro F}1 smb Eb cro Eb
+r0.5 .01 and .48 feed .86 them
+=3 smb D# cro rest smb rest cro rest
+r0.4 .01 rooms ,
+=4 min B_ cro B_ min C# C# cro C# min B_
+r0.2 .01 rain .20 and .30 tide .48 wash  these  pa   -
+=5 smb B_ cro B_ smb B_ cro rest
+r0.3 .01 em .21 - .37 pty .50 rooms ,
+=6' min B cro A min G(2 min G)2 cro G A B
+r0.5 .01 wash .18 these  pa .52 - .65 ges .77 from our
+=7 smb G(2 cro G)2 smb G cro A
+r0.5 .01 tide .50 wash .85 these
+=8 smb rest cro rest min. rest cro g g
+r0.5 .72 wash these
+=9 smb rest
+|
+=1 smb A     cro A     min. G min F#
+r0.5  .01 feed .37 them  to .80 the
+=2 smb Eb    cro Eb min Eb Eb cro rest
+r0.5  .01 to .40 the .52 o - cean ,
+=3 smb rest cro rest smb rest  cro D#
+r0.2 .88 we
+=4 smb C#    cro rest smb C#  cro C#
+r0.2 .01 ges .50 from .88 our
+=5 smb rest cro rest smb rest  cro A_
+r0.2 .88 we
+=6' min. B   min B      smb A   cro rest
+r0.5 .01 em .17 - .30 pty .50 rooms
+=7  smb A     cro G     min G cro G min F#
+r0.5 .01 pa .23 - .40 ges .50 from .68 our  rooms
+=8  min. f   min eb     smb c#  cro c#
+r0.5 .01 pa .17 - .30 ges .50 from .90 our
+=9 smb rest
+/
+4 bars | 9 9 9 8 9 6 6 8 8 6 | 9 9 9 8 9 9 9 6 9 6 \
+ | 8 9 6 6 9 6 6 6 6 6 | 8 2 2 2 2 2 2 2 2 6 ||
+|
+=1 smb F# cro F# smb rest cro rest
+r0.5  .02 o .24 - .40 cean ,
+=2 cro rest F# min. F#(2 smb F#)2(2 cro F#)2(2
+r0.3 .10 We  .24 ga .55 -
+=3 smb D# cro C# smb C# cro D#
+r0.2 .01 ga .24 - .38 ther .54 here , .90 we
+=4 min C# cro C# min C# min rest cro B_ min C#
+r0.1 .01 em .12 - .20 pty .32 rooms , .70 we .84 ga .95 -
+=5 smb A_ cro A_ smb A_ cro A_
+r0.2 .01 ga .21 - .37 ther .53 here .90 to
+=6 smb rest cro rest min rest cro G#{'1 min A}'1
+r0.6 .70 We
+=7 cro rest F# min. F#(1 smb F#)1(1-dim10 cro F#)1(2
+r0.5 .10 we  .23 ga .55 -
+=8 smb c# cro c# smb c# cro c#
+r0.6 .01 em .22 - .37 pty .52 rooms , .90 we
+=9 smb rest cro rest min. rest min F#
+r0.4 .80 we
+|
+il0.7 .04 25
+=1 cro rest F# min. F#(2 min. F#)2-dim10 min F#
+r0.5 .10 we .23 ga .60 - .80 ther
+=2 min. F#)2 min F# min. E-dim10  min Dn
+r0.3 .12 - .30 ther .52 here .80 to
+=3 min. E   min Dn    min. D(2    min D)2
+r0.3 .01 ga .17 - .30 ther .52 here 
+=4 smb C# cro rest  cro Dn{'1 C#}'1 min. B_(1
+r0.2 .01 ther .52 here .74 to
+=5' smb B_(1  cro B_)1(1 min. B_)1 min rest
+r0.2 .01 grieve
+=6 smb G# cro G# smb G#-dim10 cro rest
+r0.5 .01 ga .21 - .37 ther .50 here
+=7 cro F#)2 F# min. F#(2 min. F#)2-dim10 cro A{'1 G#}'1
+r0.5 .01 - .09 ther .22 here .83 to
+=8 smb c# cro c# smb c# cro c#
+r0.5 .01 ga .21 - .37 ther .52 here .90 to
+=9 min F# cro F# min F# smb rest cro rest
+r0.4 .01 ga .11 - .17 ther .33 here
+|
+=1 smb F#(2 cro F#)2(2 min. F#)2 min F#
+r0.5 .01 here .80 to
+=2 smb C#(1
+r0.2 .01 grieve .
+=3 cro rest C# min. C#(1 smb C#)1(2 cro C#)2(2
+r0.2 .15 to .25 grieve .
+=4 smb C#(1
+r0.2 .01 grieve .
+=5 smb rest
+=6 cro rest A min. A(1 smb A)1(2 cro A)2(2
+r0.5 .15 to .25 grieve .
+=7 smb F#(2
+r0.5 .01 grieve .
+=8 smb c#(2
+r0.5 .01 grieve .
+=9 smb rest cro rest min. rest min F#
+r0.4 .80 to
+| 10/4 90
+=1 smb F#-dim30
+r0.5 .01 grieve .
+=2 smb C#)1-dim30
+=3 smb C#)2-dim30
+=4 smb C#)1-dim30
+=5 smb rest
+=6 cro A)2 smb rest rest cro rest
+=7 smb F#)2-dim30
+=8 smb c#)2-dim30
+=9 smb F#-dim30
+r0.4 .01 grieve .
+midi pause 3.2
+
+3 systems 10 /17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17-20-17-25-17 \
+ /17-20-17-20-17-25-17-20-17-23-17 /
+title III
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+midi channel 1 patch 52 pan 41 reverb 100
+midi channel 2 patch 52 pan 87 reverb 100
+midi channel 3 patch 52 pan 5 reverb 100
+midi channel 4 patch 52 pan 95 reverb 100
+midi channel 5 patch 52 pan 23 reverb 100
+midi channel 6 patch 52 pan 69 reverb 100
+
+/
+9 bars | 3/4  6 | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 |
+| 3/4 72
+i0.5 .07 72 cro/min
+=1 treble     3/4 cha1 leg95 vol60 cro rest
+=2 treble     3/4 cha2 leg95 vol60 cro rest
+I0.10 .12 pp
+=3 treble     3/4 cha3 leg95 vol60 cro F#
+r0.50 .19 The
+=4 treble8vab 3/4 cha4 leg95 vol60 cro rest
+I0.10 .12 pp
+=5 treble8vab 3/4 cha5 leg95 vol60 cro c
+r0.50 .19 The
+=6 bass       3/4 cha6 leg95 vol60 cro rest
+|
+=1 min. rest
+=2 min. rest
+=3 min. F#-dim15
+r0.50 .01 long
+=4 min. rest
+=5 min. c-dim15
+r0.50 .01 long
+=6 min. rest
+|
+I0.10 .40 mp
+=1 min rest vol80 cro c
+r0.5 .66 The
+=2 min. rest
+=3 min. F#-dim15
+r0.50 .01 light .65 -
+=4 min. rest
+=5 min. c-dim15
+r0.50 .01 light .65 -
+=6 min. rest
+|
+=1 min. Bb'
+r0.50 .01 long
+=2 min. rest
+=3 min. F#-dim15
+r0.50 .01 years
+=4 min rest cro f#
+I0.90 .20 pp
+r0.7 .66 The
+=5 min. c-dim15
+r0.50 .01 years
+=6 min rest cro c~
+I0.01 .20 pp
+r0.1 .66 The
+|
+=1 min. A
+r0.50 .01 light .65 -
+=2 min. rest
+=3 min. rest
+=4 min. f#-dim15
+r0.70 .01 long
+=5 min. rest
+=6 min. c~-dim15
+r0.10 .01 long
+|
+il0.6 .07 5
+=1 min. Bb(1
+r0.50 .01 years
+=2 min. rest
+=3 min. rest
+=4 min. f#-dim15
+r0.70 .01 light .65 -
+=5 min. rest
+=6 min. c~-dim15
+r0.10 .01 light .65 -
+|
+=1 min. Bb)1-dim20
+=2 min. rest
+=3 min rest cro F#
+r0.5 .66 a  -
+=4 min. f#-dim15
+r0.70 .01 years
+=5 min rest cro c
+r0.5 .66 a  -
+=6 min. c~-dim15
+r0.10 .01 years
+|
+=1 min. rest
+=2 min. rest
+=3 min. F#(1
+r0.50 .01 round
+=4 min. rest
+I0.90 .65 mp
+=5 min c cro c
+r0.50 .01 round .66 our
+=6 min. rest
+|
+=1 min. rest
+=2 min. rest
+=3 cro F#)1-dim10 min F#-dim10
+r0.50 .33 our
+=4 vol80 min. c(1
+r0.60 .01 round
+=5 min c-dim10 cro c
+r0.50 .10 lone - ly
+=6 min. rest
+/
+8 bars | 24 | 24 | 24 | 24 | 24 | 24 | 24 | 24 |
+|
+=1 min. rest
+=2 min. rest
+=3 min. F#-dim15
+r0.50 .01 lone .66  -
+=4 cro c)1 min Bb'
+r0.60 .33 our
+=5 min. c-dim15
+r0.60 .05 world
+=6 min rest cro c~
+r0.10 .66 a  -
+|
+il0.3 .07 10
+=1 min. rest
+=2 min. rest
+=3 min. F#-dim15
+r0.5 .01 ly
+=4' min A cro Bb
+r0.60 .01 lone .36 - .65 ly
+=5 min. rest
+=6 min. c~-dim15
+r0.10 .01 round
+|
+I0.06 .70 mf
+=1 min. rest
+I0.06 .70 mf
+=2 min. rest
+=3 min. F#(1
+r0.5 .01 world
+I0.06 .70 mf
+=4 min c-dim10 cro rest
+r0.60 .01 world
+I0.06 .70 mf
+=5 min. rest
+=6 min. c~
+r0.10 .01 our
+|
+=1 vol90 min e cro A
+r0.6 .01 cold .66 and
+=2 vol90 min A cro A
+r0.6 .01 cold .66 and
+=3 min. F#)1-dim15
+=4 min g# cro f#
+r0.70 .01 cold .66 and
+=5 min e cro e
+r0.7 .01 cold .66 and
+=6 min. c~-dim15
+r0.10 .01 world ,
+|
+=1 min eb(1
+r0.6 .01 far ,
+=2' min. Bb(2
+r0.6 .01 far ,
+=3 min. rest
+=4 min. f#
+r0.70 .01 far ,
+=5 min. eb(1
+r0.7 .01 far ,
+=6 min c~ cro c~
+r0.1 .01 cold .66 and
+|
+=1 min. eb)1-dim20
+I0.06 .70 mp
+=2' min. Bb)2-dim20
+I0.06 .70 mp
+=3 min. rest
+I0.06 .70 mp
+=4 min. rest
+I0.06 .70 mp
+=5 min. eb)1-dim20
+I0.06 .65 mf
+=6 min. c~
+r0.1 .01 far ,
+|
+il0.3 .07 15
+=1 min. rest
+=2 min F# cro F#
+r0.5 .01 bear .66 no
+=3' vol70 min D cro C(1
+r0.4 .01 bear .66 no
+=4 vol90 min eb cro eb
+r0.5 .01 bear .66 no
+=5 min. vol90 Bb'
+r0.6 .01 bear
+=6 min vol90 bb cro eb
+r0.1 .01 bear .66 no
+|
+=1 min. rest
+=2 min. F#
+r0.5 .01 song
+=3' min. vol60 C)1
+=4 min. en(1
+r0.5 .01 song
+=5 min. A
+r0.6 .01 no
+=6 min. a(1
+r0.1 .01 song
+|
+I0.26 .01 pp
+=1 min vol60 F# cro F#
+r0.5 .01 bear .66 no
+=2 min. rest
+i0.06 .10  . . dim . .
+=3' min. vol60 C(1
+r0.5 .01 song
+i0.06 .20  . . dim . .
+=4 min. en)1-dim20
+i0.06 .10  . . dim . .
+=5 min. A-dim20
+r0.7 .01 song
+=6 min. a)1(1-dim20
+i0.06 .30  . . dim . .
+|
+=1 min. F#(2
+r0.6 .01 song
+=2 min. rest
+=3 min. C)1(1
+=4 min. rest
+=5 min. rest
+=6 vol70 cro a)1-dim10 min rest
+|
+I0.15 .23 mf
+=1 cro F#)2 min vol70 F#
+r0.6 .33 we
+=2 cro rest min vol70 C
+r0.4 .33 we
+I0.86 .01 mf
+=3 min C)1 cro rest
+I0.06 .01 mf
+=4 cro rest min vol70 f#
+r0.7 .33 we
+I0.06 .01 mf
+=5 cro rest min vol70 c
+r0.6 .33 we
+I0.06 .01 mf
+=6 cro rest min vol70 c~
+r0.1 .33 we
+|
+il0.5 .07 20
+=1 min. vol75 F#
+r0.6 .01 mourn
+=2 min. vol75 D
+r0.4 .01 mourn
+=3 min. vol75 B_
+r0.4 .01 mourn
+=4 min. vol75 f#
+r0.7 .01 mourn
+=5 min. vol75 d
+r0.6 .01 mourn
+=6 min. vol75 b
+r0.1 .01 mourn
+|
+=1 min. G#
+r0.6 .08 a .57 -
+=2 min. D
+r0.4 .08 a .57 -
+=3 min. B_
+r0.4 .08 a .57 -
+=4 min. f#
+r0.7 .08 a .57 -
+=5 min. d
+r0.6 .08 a .57 -
+=6 min. b
+r0.1 .08 a .57 -
+|
+i0.13 .50  . . dim . .
+=1 min. A(2-dim15
+r0.6 .01 lone,
+i0.06 .50  . . dim . .
+=2 min. F#(1-dim15
+r0.5 .01 lone,
+i0.06 .50  . . dim . .
+=3 min. C#(1-dim15
+r0.4 .01 lone,
+=4 min f#-dim15 cro rest
+r0.7 .01 lone,
+=5 min. c#-dim15
+r0.6 .01 lone,
+=6 min. a(2-dim15
+r0.1 .01 lone,
+|
+=1 min. vol60 A)2(2
+=2 min. vol60 F#)1(1
+=3 min. vol60 C#)1(1
+=4 min vol85 f# cro fn
+r0.7 .01 mourn .66 our
+=5 min. rest
+i0.20 .10  . . dim . .
+=6 min. vol60 a)2(2
+|
+=1 min. A)2
+=2 min. F#)1(1
+=3 min. C#)1(1
+=4 min eb cro db
+r0.7 .01 lone .40 - .66 ly
+=5 min. rest
+=6 min. a)2(1
+
+3 systems 6 /17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-25-17-20-17-20-17 \
+ /17-20-17-20-17-23-17-22-17-22-17 6 /
+pagenum
+innerhead III, We Who Mourn, Peter Billam
+leftfoot (c) 2007 Peter J Billam
+|
+il0.3 .07 25
+=1 min. rest
+i0.20 .65 . dim   . .
+=2 min. F#)1(1
+=3 min. C#)1
+=4 min. eb(1-dim10
+i0.90 .65 . dim   . .
+r0.6 .01 world ,
+=5 min. rest
+=6 min. a)1(1
+|
+=1 min. rest
+=2 min. F#)1
+I0.06 .55 p
+=3 min  rest vol60 cro Eb
+r0.5 .66 we
+=4 min. vol70 eb)1-dim10
+I0.06 .55 p
+=5 min rest vol60 cro A
+r0.6 .66 we
+=6 min. a)1
+|
+I0.16 .85 f
+=1 min. rest
+I0.06 .85 f
+=2 min. rest
+=3 min. Eb(1
+r0.5 .01 mourn
+=4 min. rest
+i0.06 .60 . cresc   . .
+=5 min. A(2
+r0.6 .01 mourn
+I0.06 .85 f
+=6 min. rest
+|
+=1 min. vol85 db
+r0.6 .01 mourn
+=2 min. vol85 F#
+r0.6 .01 mourn
+=3 min. Eb)1
+i0.80 .13 . cresc . .
+=4 min. rest
+i0.06 .90 . .
+=5 min. A)2
+=6 min. vol85 d~b
+r0.1 .01 mourn
+|
+=1 min. c(1
+r0.6 .01 deep ,
+=2 min. G(1
+r0.6 .01 deep ,
+=3 min. Eb(1
+r0.5 .01 deep ,
+I0.06 .90 p
+=4 min. rest
+I0.06  f
+=5 min. A
+r0.6 .01 deep ,
+=6 min. c~(2
+r0.1 .01 deep ,
+|
+il0.5 .07 30
+=1 min. c)1-dim15
+=2 min. G)1-dim15
+I0.06 .50 p
+=3 min Eb)1-dim10 cro Eb
+r0.5 .64 will
+=4 min A-dim10 cro A
+r0.7 .01 we .64 will
+=5 min. rest
+=6 min. c~)2-dim15
+|
+=1 min. rest
+I0.06 .50 mp
+=2 min rest vol75 cro Eb
+r0.5 .66 will
+=3 min. Eb(1
+r0.5 .01 soon
+=4 min. A
+r0.7 .01 soon
+I0.06 .50 mp
+=5 min rest vol75 cro A
+r0.7 .66 will
+I0.06 .50 mp
+=6 min rest vol75 cro a
+r0.1 .66 will
+|
+=1 min. rest
+=2 min. Eb
+r0.5 .01 soon
+=3 min. Eb)1
+=4 min. rest
+=5 min. B'
+r0.7 .01 soon
+=6 min. g#
+r0.1 .01 soon
+|
+=1 min. rest
+=2 min. F
+r0.6 .07 be
+=3 min. Eb
+r0.5 .07 be
+=4 min. rest
+=5 min. B'
+r0.6 .07 be
+=6 min. g#
+r0.1 .07 be
+|
+=1 min. rest
+i0.1 .65 . dim   . .
+=2 min. Gb(1
+r0.6 .01 gone ;
+i0.1 .65 . dim   . .
+=3 min. Eb(1
+r0.6 .01 gone ;
+=4 min vol75 gb cro f
+r0.6 .01 we .66 will
+=5 min. Bb(1
+i0.9 .65 . dim   . .
+r0.6 .01 gone ;
+=6 min. f#(1
+i0.01 .90 . dim   . .
+r0.1 .01 gone ;
+|
+il0.3 .07 35
+=1 min. rest
+=2 min. Gb)1(2
+=3 min. Eb)1(2
+=4 min eb cro d
+r0.6 .01 not .55 mourn
+=5 min. Bb)1
+=6 min. f#)1(1
+|
+=1 min. rest
+=2 min. Gb)2
+=3 min. Eb)2
+=4 min. c(1-dim15
+r0.6 .01 long ;
+I.06 .45 pp
+=5 min rest vol60 cro c
+r0.6 .66 the
+I.06 .35 pp
+=6 cro f#)1 rest vol60 f#
+r0.1 .66 the
+|
+=1 min. rest
+=2 min. rest
+=3 min. rest
+=4 min. c)1-dim20
+=5 min. c(1
+r0.6 .01 long ,
+=6 min. f#(1
+r0.1 .01 long
+|
+=1 min. rest
+I0.06 .45 p
+=2 min rest cro Eb
+r0.6 .66 the
+I0.06 .45 p
+=3 min rest cro Eb
+r0.5 .66 the
+I0.06 .40 p
+=4 min rest cro eb
+r0.6 .66 the
+=5 min. c)1
+I0.90 .65 mp
+=6 min. f#)1
+I0.01 .68 p
+|
+=1 min. rest
+=2' min. Bb
+r0.6 .01 long
+=3 min. Eb
+r0.5 .01 long
+=4 min. d
+r0.6 .01 long
+=5 min. Bb'
+r0.6 .01 long
+=6 min. f#
+r0.1 .01 light .65 -
+|
+il0.3 .07 40
+=1 min. rest
+=2' min. Bb
+r0.6 .01 light
+=3 min. Eb
+r0.5 .01 light .65 -
+=4 min. c
+r0.6 .01 light .65 -
+=5 min. Eb
+r0.5 .01 light .65 -
+=6 min. f#
+r0.1 .01 years
+/
+9 bars | 24 | 24 | 20 | 20 | 24 | 20 | 20 | 20 | 20 ||
+|
+=1 min. rest
+=2 min. A
+r0.6 .01 years
+=3 min. En
+r0.5 .01 years
+=4 min. c(1
+r0.6 .01 years
+=5' min. A(2
+r0.6 .01 years
+=6 min f# cro f#
+r0.2 .08 bear .66 no
+|
+I0.16 .75 mf
+=1 min. rest
+I0.06 .75 mp
+=2 min. rest
+I0.06 .75 mp
+=3 min. rest
+I0.06 .40 mp
+=4 min c)1 cro c
+r0.6 .64 will
+=5' min. A)2-dim15
+I0.90 .75 mp
+=6 min. f#(1
+r0.2 .01 song .
+|
+=1 min. eb
+r0.6 .01 bear
+=2 min. Bb(1
+r0.6 .01 bear
+=3 min. D#
+r0.5 .01 bear
+=4 min. c
+r0.6 .01 bear
+=5 min. Bb'
+r0.7 .01 bear
+=6 min. f#)1-dim15
+|
+=1 min. Bb'
+r0.6 .01 no
+=2 min. Bb)1
+=3 min. D#
+r0.5 .01 no
+=4 min. c
+r0.6 .01 no
+=5 min. Bb'
+r0.7 .01 no
+=6 min. rest
+|
+il0.7 .07 45
+=1 min. en(1
+r0.6 .01 song .
+=2 min. A(2
+r0.6 .01 no
+=3 min. E(1
+r0.5 .01 song .
+=4 min c cro c
+r0.6 .01 song , .66 they
+=5 min. A(1
+r0.7 .01 song .
+=6 min. rest
+|
+i0.4 .07 dim   . .
+=1 min. e)1
+=2 min. A)2(2
+i0.06 .70 dim   . .
+=3 min. E)1
+i0.06 .70 dim   . .
+=4 min. c-dim15
+r0.6 .01 bear
+=5 min. A)1
+i0.2  dim   . .
+=6 min. rest
+|
+=1 min. rest
+=2 min. A)2
+=3 min. E
+r0.6 .01 no
+=4 min. e
+r0.6 .01 no
+=5 min. rest
+=6 min. rest
+|
+=1 min. rest
+=2 min. A(2
+r0.6 .01 song .
+=3 min. A(2
+r0.6 .01 song .
+=4 min. e(2
+r0.6 .01 song .
+=5 min. rest
+=6 min. rest
+|
+=1 min. rest
+=2 min. A)2-dim15-fermata
+=3 min. A)2-dim15-fermata
+=4 min. e)2-dim15-fermata
+=5 min. rest
+=6 min. rest
+

@@ -1,0 +1,192 @@
+.nr PS 13
+.nr VS 16
+.nr LL 6.4i
+.pl 11.7i
+.ds LH \s-2%\s0
+.ds CH \&
+.ds RH \f2\s-2November at the Carousel\s0\f1
+.ds LF \f2\s-2\(co Peter J Billam 1999\s0\f1
+.ds RF \f2\s-2www.pjb.com.au\s0\f1
+
+.LP
+.ce 1
+\s+8\f3November at the Carousel\fP\s0
+.sp 2.3c
+.ce 1
+\s+4\f3Orchestra\fP\s0
+.sp 0.8c
+.LP
+.IP \f3Strings\ :\fP 3.5c
+First and second violins, violas, violoncelli, basses.
+.IP \f3Woodwind\ :\fP 3.5c
+Flute (doubling piccolo),
+two oboes (one doubling cor anglais),
+two clarinets in Bb (one doubling Eb),
+two basoons (one doubling contra).
+.IP \f3Brass\ :\fP 3.5c
+Two trumpets, two trombones, two horns in F.
+.IP \f3Saxophones\ :\fP 3.5c
+Saxophone quartet; soprano, alto, tenor and baritone.
+.IP \f3Percussion\ :\fP 3.5c
+Piano,
+one percussionist (snaredrum, triangle, 2 timpani).
+.sp 2.3c
+.LP
+.ce 1
+\s+4\f3Scenes\fP\s0
+.sp 0.81c
+.IP \f3Act\ One\fP 3c
+.RS
+.IP \f3Scene\ One\fP 3c
+Jack Ruby's office at the Carousel Club
+.IP \f3Scene\ Two\fP 3c
+On stage at the Carousel Club
+.IP \f3Scene\ Three\fP 3c
+At table at the Carousel Club
+.IP \f3Scene\ Four\fP 3c
+The same table after closing time
+.RE
+.IP \f3Act\ Two\fP 3c
+.RS
+.IP \f3Scene\ One\fP 3c
+The Grassy Knoll
+.IP \f3Scene\ Two\fP 3c
+The Texas Cinema
+.IP \f3Scene\ Three\fP 3c
+Inside Olsen's Car
+.IP \f3Scene\ Four\fP 3c
+A Corridor in the Police Station
+.IP \f3Scene\ Five\fP 3c
+The Garage in the Police Station
+.RE
+.IP \f3Act\ Three\fP 3c
+.RS
+.IP \f3Scene\ One\fP 3c
+Jack Ruby's trial
+.IP \f3Scene\ Two\fP 3c
+The Warren Commission Hearing
+.RE
+.bp
+
+.LP
+.ce 1
+\s+8\f3November at the Carousel\fP\s0
+.sp 0.5c
+.ce 1
+\s+4\f3Cast\fP\s0
+.sp 0.5c
+
+.IP Rose\ Cheramie 4c
+One of Jack Ruby's working girls, Mezzo.
+.IP Bodyguard 4c
+Works for Jack Ruby, Latin-american, Bass.
+.IP Jack\ Ruby 4c
+The owner of the Carousel Night Club, Tenor.
+.IP Harry\ Olsen 4c
+Dallas Police Officer, Baritone.
+.IP Announcer 4c
+Works at the Carousel Club, Tenor.
+.IP Little\ Lynne 4c
+Lynnette Carlin, stripper at the Carousel Club, Soprano.
+.IP Lee\ Harvey\ Oswald 4c
+Works for the CIA, Tenor.
+.IP Roscoe\ White 4c
+With the Dallas Police since two weeks, formerly CIA, Baritone.
+.IP Richard\ Cain 4c
+Works for the CIA, Mafia, and Chicago police, Tenor.
+.IP Charles\ Nicoletti 4c
+Gangster from Chicago, Bass.
+.IP 'Nick'\ McDonald 4c
+Maurice McDonald, Dallas Police Officer, Baritone.
+.IP George\ Applin 4c
+Cinema-goer, Bass
+.IP Kathy\ Kay\ Coleman 4c
+Olsen's girl friend, formerly stripper at the Carousel, Soprano.
+.IP James\ Hosty 4c
+Works for the FBI, Bass-baritone.
+.IP Reporter 4c
+Tenor
+.IP Jesse\ Curry 4c
+Dallas Police Chief, not in on the conspiracy, Baritone.
+.IP Charles\ Batchelor 4c
+Assistant Police Chief, Dallas Police, Bass.  
+.IP Charles\ Brown 4c
+Dallas Police Officer, not in on the conspiracy, Tenor.
+.IP Ike\ Pappas 4c
+Radio newsman, works for WNEW, based in New York, Bass.
+.IP L.\ C.\ Graves 4c
+Detective in the Dallas Police, Baritone.
+.IP D.\ R.\ Archer 4c
+Detective in the Dallas Police Auto Theft Bureau, Baritone.
+.IP Judge\ Joe\ Brown 4c
+Judge from Dallas, Tenor.
+.IP Melvyn\ Belli 4c
+Lawyer from San Francisco, Bass-Baritone.
+.IP Bill\ Decker 4c
+Dallas County Sherrif, Bass
+.IP Earle\ Warren 4c
+Chief Justice of the Supreme Court, Baritone.
+.IP Gerald\ Ford 4c
+Congressman, Baritone.
+.IP Elmer\ Moore 4c
+Works for the Secret Service, Tenor.
+.bp
+
+.LP
+\&
+.sp 1c
+.SH
+Non-Singing Parts
+
+.LP
+2nd Bodyguard,
+Beverly Oliver \f2(KOAP 86)\fP,
+Abraham Zapruder \f2(KOAP 192)\fP,
+the Black Dog Man \f2(KOAP 192)\fP,
+the Umbrella Man (Louis Steven Witt) \f2(KOAP 188)\fP,
+Gordon Arnold \f2(KOAP 32)\fP,
+Newsman Robert MacNeil \f2(KOAP 49)\fP,
+Secret Service Agents \f2(KOAP 51-57)\fP,
+John Brewer \f2(SLHO 146)\fP,
+Detective Jim R. Leavelle  \f2(SLHO 196)\fP,
+Joe Tonahill \f2(TJR 183)\fP,
+a stenographer,
+police, press, TV.
+.sp 1c
+
+.SH
+Possible Sharings of Minor Singing Parts
+
+.IP \ \ \ \(bu
+Bodyguard, Charles Nicoletti, George Applin, Charles Batchelor, Bill Decker;
+Bass.
+.IP \ \ \ \(bu
+Little Lynne, Kathy Kay Coleman; Soprano.
+Little Lynne's striptease (Act I Scene II)
+should be performed by a separate non-singing artist.
+.IP \ \ \ \(bu
+Announcer, Richard Cain, Charles Brown, Elmer Moore; Tenor.
+.IP \ \ \ \(bu
+Roscoe White, James Hosty, Melvyn Belli; Bass-Baritone.
+.IP \ \ \ \(bu
+Jesse Curry, Earle Warren; Baritone.
+.IP \ \ \ \(bu
+Nick McDonald, D. R. Archer, Gerald Ford; Baritone.
+.sp 1c
+
+.SH
+Frontispiece
+
+.LP
+.nh
+The frontispiece portrait of Jack Ruby,
+and the self-portrait of the composer at the end,
+were both drawn by Peter Billam directly into Postscript,
+using the Postscript line-drawing subroutines
+\f2www.pjb.com.au/comp/free/line_drawing.ps.txt\fP
+and a text editor \f2/usr/bin/vi\fP.
+The portrait of Jack Ruby was taken from his mugshot
+after he had been charged with Oswald's murder.
+The self-portrait of Peter Billam was taken from a
+pencil sketch drawn in the mirror of the Kafé Kara in Hobart
+in February 2000.

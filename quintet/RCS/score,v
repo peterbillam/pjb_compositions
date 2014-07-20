@@ -1,0 +1,3851 @@
+head	1.16;
+access;
+symbols;
+locks
+	pjb:1.16;
+comment	@# @;
+
+
+1.16
+date	2000.05.21.06.17.35;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2000.05.10.08.57.23;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	98.03.03.08.12.05;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	98.02.27.00.00.25;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	98.02.25.22.14.40;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	98.02.25.01.01.56;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	94.12.03.16.37.13;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	94.11.18.18.48.56;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	94.11.18.14.06.38;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	94.11.18.13.45.43;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	94.11.18.10.08.41;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	94.11.18.09.57.48;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	94.11.17.23.27.39;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	94.11.17.17.59.33;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	94.11.17.12.53.31;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	94.11.17.11.50.02;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Score for Quintet for Trombone, Flute, Piano, Bass and Percussion
+@
+
+
+1.16
+log
+@arco in 35
+@
+text
+@3 systems /22 30 22-28-22 30 22 /22 30 22-28-22 30 22 /22 30 22-28-22 30 22 /
+pagenum 2
+title Trombone Quintet
+innerhead Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 3 | 2 | 3 |
+| 1
+=1 treble 3/4 smb rest
+i0.4  8va . . .
+=2 treble 3/4 smq a[ qua A, smq a] cro A_ smq a[ qua A, smq a]
+I0.8        f
+I0.1  Piano
+=3 bass 3/4 min. rest
+I0.2  Bass
+=4 bass 3/4 smb rest
+| 2
+=1 2/4 qua. rest smq A qua G[ smq A G]
+I0.8                     f
+I0.8  Marimba
+=2 2/4 min rest
+=3 2/4 min a
+=4 2/4 min rest
+| 3
+=1 3/4 qua A[ smq G A](2 qua A)2[ smq G A](2 qua A)2[ smq B' A](2
+=2 3/4 smq a[ qua A, smq a] cro A_ smq a[ qua A, smq a]
+=3 3/4 min. rest
+=4 3/4 min. rest
+/
+3 bars | 4 | 3 | 2 |
+| 4
+=1 treble 4/4 smq A)2[ B' A B'] B'[ A qua B'] smq B'[ A qua B'] smq B'[ A qua B']
+i0.4  8va . . .
+=2 treble 4/4 smb rest
+=3 bass 4/4 min A A
+=4 bass 4/4 smb rest
+| 5
+il0.3 5
+=1 3/4 smq A[ B' qua A] smq B'[ qua. A] smq B'[ qua. A]
+=2 3/4 smq a[ qua A, smq a] cro A_ smq a[ qua A, smq a]
+=3 3/4 min. rest
+i0.2 pizz
+I0.2           mf
+=4 3/4 cro rest e~ e~
+| 6
+=1 2/4 smq G[ qua A smq G] smq A[ qua G smq A]
+=2 2/4 min rest
+=3 2/4 min a
+=4 2/4 qua rest cro. e~
+/
+2 bars | 3 | 4 |
+| 7
+=1 treble 3/4 qua. G[ smq B'] qua. A,[ smq c#] qua A,[ smq c# B,]
+i0.4  8va . . .
+=2 treble 3/4 smq a[ qua A, smq a] cro A_ smq a[ qua A, smq a]
+=3 bass 3/4 min. rest
+=4 bass 3/4 cro e~ e~ e~
+| 8
+=1 4/4 qua c#[ smq A, c#(1] qua c#)1[ smq B, c#](1 qua c#)1[ smq e c#](1 c#)1[ f# e f#](1
+=2 4/4 smb rest
+I0.8   mp
+i0.8          cresc . . .
+=3 4/4 qua. rest' smq b e~[ g qua b] smq e~[ g b f#](1 f#)1[ b e~ f#]
+=3 4/4 <smb A A_>
+=4 4/4 min. A cro a
+
+3 systems /22 33 22-30-22 33 22/22 33 22-30-22 33 22/22 33 22-30-22 33 22/
+pagenum 3
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 4 | 3 |
+| 9
+=1 treble smq f#)1[ c# qua f#](1 smq f#)1[ e qua f#](1 smq f#)1[ c# qua e] smq c#[ f# qua c#]
+i0.2       8va . . .
+=2 treble min. rest cro B
+=3 bass qua e~[ smq a~ b] e~[ qua a~ smq b] min e~
+=3 bass smb A_
+=4 bass smb A
+| 10
+il0.3 10
+=1 3/4 smq e[ qua. c#] smq f#[ qua. c#] smq A[ qua B' smq A]
+=2 3/4 smq a[ qua A, smq a] cro A_ smq a[ qua A, smq a]
+I0.2      f
+=3 3/4 min. rest
+=4 3/4 cro. e~ cro e~ qua e~
+/
+3 bars | 43 | 61 | 79 |
+| 11
+=1 treble 2/4 smq c#[ qua B, smq c#] qua. A[ smq B']
+i0.4  8va . . .
+=2 treble 2/4 min rest
+=3 bass 2/4 min a
+i0.3   8va . . .
+=4 bass 2/4 qua g[ a] b[ c~#]
+| 12
+=1 3/4 qua. A[ smq d'] qua A[ smq B' A] qua d[ smq A, d]
+=2 3/4 smq a[ qua A, smq a] cro A_ smq a[ qua A, smq a]
+=3 3/4 min. rest
+i0.2                           . . loc
+=4 3/4 qua g[ f#] cro g g
+| 13
+=1 4/4 qua d[ smq B, d](1 qua d)1[ smq e d](1 d)1[ e d e](1 e)1[ d qua e(1]
+=2 4/4 qua G[ smq A B'](2 B')2[ G A B'](2 B')2[ G A B'] qua F#[ smq A B']
+=3 4/4 smb A
+=4 4/4 min. a cro d
+/
+3 bars | 3 | 2 | 3 |
+| 14
+=1 treble 3/4 smq e)1[ d qua e](1 e)1[ smq d e] B,[ e qua d]
+i0.4  8va . . .
+=2 treble 3/4 smq a[ qua A, smq a] A_ qua. rest smq a[ qua A, smq a]
+=3 treble 3/4 qua F#[ smq A B'] F#[ qua A smq B'] qua E[ smq A B']
+=4 bass 3/4 qua rest cro e~ cro. e~
+| 15
+il0.3 15
+=1 2/4 smq e[ qua. d] smq e[ qua. A,]
+i0.3  loc
+=2 2/4 smq E,[ qua A, smq c#] qua E,[ smq A, c#]
+=3 2/4 min A_
+=4 2/4 cro. A qua e~(1
+| 16
+=1 3/4 smq E[ qua A smq E] D[ qua E smq G] qua. E[ smq D]
+i0.3  8va  .  .  .
+=2 3/4 smq a[ qua A, smq a] qua A_ rest smq a[ qua A, smq a]
+=3 3/4 qua E[ smq A d'] qua E[ smq A d'] E[ qua A smq d']
+=4 3/4 qua e~)1 cro e~ cro. e~
+
+2 systems /22 33 22 36 22-32-22 40 22 /22 33 22 36 22-28-22 42 22 /
+pagenum 4
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+|
+I  Trombone
+=1 tenor 15/16 qua c(1[ qua. c)1](1 qua c)1[(1 qua. c)1] qua B(1[ qua. B)1]
+I0.7   mf
+i0.7          legato    cresc ...
+=2 treble 15/16 smq C[ qua D C](2 cro C)2 smq rest cro rest smq rest
+i0.3  . . . loc
+=3 treble 15/16 qua rest smq A,[ d E,] qua A,[ smq d E, A,] qua d[ smq E, A, d]
+I0.4     f
+=4 bass 15/16 min. <D_ D A>
+i0.8                   con Pedale
+=5 bass 15/16 min. d,
+| 18
+=1 qua A[(1 qua. A)1](1 qua. A)1 qua rest smq rest cro G
+=2 smb rest
+=3 qua A[ smq d' E B'] qua d[ smq E, B, d] qua F,[ smq B, d f]
+=4 min. <D d' a'>
+=5 smb rest
+i0.2    arco . . .
+| 19
+=1 min F qua rest rest qua. rest
+I0.1     tr . . .
+i0.1                   cresc . . .
+=2 smb D
+=3 qua g[ smq A, d g] qua c[ smq d g B,] qua d[ smq f G, d]
+=4 min. < G, g d~ >
+=5 min G cro A qua d'[ smq c]
+/
+2 bars | 1 | 1 |
+| 20
+il0.3 20
+=1 tenor qua eb[(1 qua. eb])1 qua d[(1 qua. d])1 qua c[(1 qua. c])1
+=2 treble min G A_
+I0.8         f
+i0.8               dim . . .
+=3 treble qua c[ smq g A, c] qua g[ smq Bb, c g] qua Bb,[ smq eb g c]
+=4 bass min. <F, f c~>
+=5 bass smq f[ qua g] cro bb min g
+| 21
+=1 qua Bb[(1 qua. Bb])1 cro. A cro rest
+I0.2  tr . . .
+i0.2               cresc . .
+=2 qua c[(1 qua. c])1(1 qua c[)1 qua. c#](1 qua c#)1[(1 qua. c#])1
+=3 qua g[ smq c eb g] qua c[ smq eb g db] qua en[ smq g db E,]
+=4 min <F F_> qua <F F_> rest qua. rest
+=5 min c~ cro bb qua a[ smq g]
+
+2 systems /22 30 22 30 22-38-22 45 22 /22 30 22 30 22 30 22-28-22 50 22 /
+pagenum 5
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+| 22
+=1 tenor qua g(1 cro g])1 cro f# qua e[(1 qua. e])1
+=2 treble qua c#[ smq e a c#] qua e[ smq a c# e] qua a[ smq c# f# a]
+=3 treble min <C# E G B'> qua rest smq rest <A_, G,> rest rest <A_, G,>
+I0.3      ff
+=4 bass min < A_(1 A' e' > qua rest smq <A e'> rest <A e'> <A e'> rest
+=5 bass smq e[ qua d] cro a min g~
+| 23
+=1 qua d#[(1 qua. d#])1 cro. c# cro rest
+=2 qua f#[ smq b c# f#] qua b[ smq c# f# b] qua c#[ smq a b e]
+=3 smb <C# E B' smq. rest> smq <A_, G,> rest rest <A_, G,> qua rest qua. rest qua A_[ qua. A_]
+=4 <smq A e'> smq rest <A e'> <A e'> rest qua rest qua. rest qua rest d'[ smq B]
+=4 smb A_)1
+=5 min d cro A qua d~[ smq b]
+| 24
+=1 qua b[(1 qua. b])1 qua. a[ qua g](1 qua g[)1 qua. d]
+I0.9     f
+=2 qua b[ smq e a b] qua e[ smq a b fn] qua b[ smq f a b]
+I0.1     tr . . . 
+=3 min. A_
+I0.2       ff
+=4 smq A[ qua G] cro E min D
+=5 smq a[ qua g] cro e min d
+/
+3 bars | 1 | 1 | 1 |
+| 25
+il0.7 25
+I          Flute
+=1 treble qua rest qua. rest qua ab[(1 qua. ab])1(1 smq ab[)1 qua g smq d g]
+i0.8            8va . . .
+=2 tenor min. f qua. rest
+=3 treble qua d~[ smq a c~ f] d[ B, d d B,] d[ B, d d B,]
+=4 treble min. <B_ D F A>
+I0.3      ff
+=5 bass min. <G_ G d'>
+i0.3  Ped_        . . . 
+=6 bass min G cro g qua d~[ smq a]
+| 26
+=1 qua. f smq rest smq d  qua f[ qua. A,](2  qua A[)2(2 qua. A])2
+=2 min. rest
+=3 qua d'[ smq A d' A_] qua D[ smq C d' c'] qua d'[ smq C D C]
+=4 min. rest
+=5 min. <G_(1 G(3>
+=6 min g cro f~ qua g~[ smq a~]
+| 27
+=1 qua rest qua. A  qua Bb'[(2 qua. Bb'])2  smq A[ F G qua E(2]
+=2 min. rest
+I0.1     tr . . .
+=3 min. D
+=4 min. rest
+=5 min. <G_)1 G)3>
+=6 min g~ cro f~ qua c~[ smq a]
+
+2 systems /22 35 22 35 22 35 22-38-22 35 22 /21 35 22 35 22 40 22-33-22 30 22 /
+pagenum 6
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+| 28
+i0.2                  . . . loc
+=1 treble min. E)2 qua. rest
+=2 tenor qua d[(1 qua. d])1 qua. c[ qua B](1 qua B[)1 qua. A,]
+I0.8       mf
+=3 treble min. D
+I0.8       f
+I0.2          tr . . .
+=4 treble min. F
+=5 bass min. <G_ G>
+=6 bass smq g[ qua f] cro d min f
+| 29
+=1 min. rest
+=2 qua f[(1 qua. f])1 qua. e[ qua d] qua c#[(1 qua. c#])1
+i0.9    cresc . . .
+I0.05    tr . . .
+=3 min. A_
+I0.05    tr . . .
+=4 min. F_
+=5 min. <G_ G d'>
+=6 min G cro f qua e'[ smq c#]
+| 30
+il0.3 30
+=1 min. rest
+rs0.3               2
+=2 qua. rest qua a(1 qua. a)1[ qua b] qua. c~#[ qua e]
+I0.8    f
+I0.1    tr . . .
+=3 min. E
+I0.75  ff
+I0.05    tr . . .
+=4 min. G_
+I0.1     ff
+=5 qua rest qua. rest qua rest qua. rest qua A[(2 qua. A])2
+=6 min G cro f qua c#[ smq e']
+/
+2 bars | 3.8 | 5 |
+| 31
+=1 treble min. rest
+rs0.3           4
+=2 tenor min. g qua.  rest
+I0.9         ff
+i0.9                  dim . . .
+I0.1          tr . . .
+i0.1                        dim . .
+=3 treble min. E qua. rest
+I0.1          tr . . .
+=4 treble qua B_[(2 qua. B_])2(2 smq B_)2[ C# E G B'] qua <b[(1 b~(3> qua. <b])1 b~)3>
+=5 bass qua rest qua. rest qua A[(2 qua. A])2 qua A[(2 qua. A])2
+I0.6                               mf                  mp
+=6 bass min.. a(2
+I0.1  ff
+i0.1         dim . . .
+| 32
+r                       6
+=1 3/4 smq F#[ G# A B' A G#]  F#[ A G# B' Gn B']  G[ B'b G B'b F# Ab]
+=2 3/4 min. rest
+=3 3/4 smb rest
+=4 3/4 smq <c#[ e> <C#, E,> <c# e> <c# e]> <C#,[ E,> <c# e> <C#, E,> <c# e]> <c#[ e> <C#, E,> <c# e> <c# e]>
+I    p
+=5 3/4 smb rest
+=6 3/4 qua a)2 rest min rest
+I0.1 . . . p
+
+2 systems /22 30 22 40 22-36-22 40 22 /22 30 22 40 22-36-22 40 22 /
+pagenum 7
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 3 | 2 |
+| 33
+=1 treble qua F# smq rest B'[ qua F#] smq G,[ B, d g f# g](1 g)1[ e g B, d c]
+=2 treble smb rest
+=3 treble smq <A_ E[> <A e'> <A_ E> <A e']> <A[ e'> <A_ E> <A e'> <A_ E]> <A[ e'> <A e'> <A_ E> <A e']>
+=4 bass smb rest
+r0.8         *P
+=5 bass smb rest
+| 34
+=1 2/4 qua g[ smq f# qua. g] smq rest f#[ g bb a f#]
+I0.1        tr . . .
+=2 2/4 min D
+=3 2/4 smq <c[ e> <C, E,> <c e> <C, E,]> <c[ e> <c e> <C, E,> <c e]>
+=4 2/4 min rest
+=5 2/4 min rest
+/
+2 bars | 3 | 2 |
+| 35
+il0.7 35
+=1 treble 3/4 qua g smq rest f#[ qua g] smq c#[ d c# qua g smq f#] qua c#[ smq e g a g]
+I0.1              tr . . .
+=2 treble 3/4 min C# cro rest
+=3 treble 3/4 smq <B,[ e,> <B_, E,> <B, e,> <B_, E,]> <B,[ e,> <B, e,> <B_, E,> <B, e,]> <B_,[ E,> <B, e,> <B, e,> <B_, E,]>
+=4 bass 3/4 min. rest
+=5 bass 3/4 min. rest
+i0.2                            arco . . .
+| 36
+=1 2/4 qua b[ smq g d B, c] qua g[ smq c d qua g]
+=2 2/4 min rest
+=3 2/4 smq <e[ g> <e g> <E, G,> <e g]> <E,[ G,> <e g> <e g> <E, G,]>
+=4 2/4 min rest
+=5 2/4 min a~
+I0.2   p
+
+2 systems /22 35 22 40 22-38-22 40 22 /22 35 22 40 22-48-22 40 22 /
+pagenum 8
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1 | 1 |
+| 37
+=1 treble 3/4 qua d[ smq c d qua c] smq eb[ c qua g smq c eb] qua c[ smq d c qua d]
+=2 treble 3/4 smb rest
+=3 treble 3/4 smq <A, f[> <A_, F,> <A, f> <A, f]> <A_, F,[> <A, f> <A, f> <A_, F,]> <A, f[> <A_, F,> <A, f> <A, f]>
+=4 bass 3/4 min. rest
+=5 bass 3/4 min g~ cro rest
+| 38
+=1 qua e[ smq g e qua g] smq f[ g qua f smq ab f] qua. ab[ smq g qua f]
+I0.1                                            tr . . .
+=2 cro rest qua rest cro. F_
+=3 smq <B_b, D,[> <Bb, d> <Bb, d> <B_b, D,]> <Bb, d[> <B_b, D,> <Bb, d> <Bb, d]> <B_b, D,[> <Bb, d> <B_b, D,> <Bb, d]>
+=4 min. rest
+=5 min. rest
+/
+2 bars | 2 | 2 |
+| 39
+=1 treble 2/4 qua c~#[ smq b qua a#] smq rest  a#[ qua b qua. c#]
+I0.1         . . tr . . .
+=2 treble 2/4 min F_#
+=3 treble 2/4 smq <G#, e[> <G_#, E,> <G#, e> <G#, e]> <G_#, E,[> <G#, e> <G_#, E,> <G#, e]>
+=4 bass 2/4 min rest
+=5 bass 2/4 min rest
+| 40
+il0.9 40
+=1 qua a[ smq g# qua. f#]  smq gn[ b g a# g# a#]
+=2 min rest
+=3 smq <c# e[> <E_, C#,> <c# e> <c# e]> <E_, C#,[> <c# e> <E_, C#,> <c# e]>
+=4 min rest
+=5 min rest
+
+2 systems /22 35 22 35 22-45-22 35 22 /22 35 22 35 22-35-22 35 22 /
+pagenum 9
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1.4 | 1 |
+| 41
+i       8va . . .
+=1 treble 3/4 smq F#,[ A#, F#, qua d# smq c#] qua B,[ smq A#, B, fn d#] G#,[ B, G#, qua Bb, smq Gn,]
+=2 treble 3/4 min. rest
+=3 treble 3/4 smq <c# g#[> <G_#, C#,> <c# g#> <G_#, C#,]> <c# g#[> <c# g#> <G_#, C#,> <c# g#]> <c# fn[> <F_n, C#,> <c# f> <F_, C#,]>
+=4 bass 3/4 min. rest
+=5 bass 3/4 cro rest min d~#
+| 42
+=1 2/4 qua Bb,[ smq G, Bb, G, db] A,[ F#, A, Bn, qua e]
+=2 2/4 min rest
+=3 2/4 smq <c#' e'[> <c#' e'> <E_ C#> <c#' e']> <E_ C#[> <c#' e'> <c#' e'> <E_ C#]>
+=4 2/4 min rest
+=5 2/4 min c~#
+/
+2 bars | 3 | 2 |
+| 43
+i     8va . .
+=1 treble 3/4 qua. A#[ smq B' qua D#] E[ smq A qua. G#] qua F#[ smq Fn qua. Bb']
+I0.2                                                                           tr . . .
+=2 treble 3/4 min rest cro Eb
+=3 treble 3/4 smq <c#' f#'[> <c#' f#'> <F_# C#> <c#' f#']> <F_# C#[> <c#' f#'> <c#' f#'> <F_# C#]> <c[# g#> <G_#, C#,> <c# g#> <c# g#]>
+=4 bass 3/4 min. rest
+=5 bass 3/4 min. rest
+| 44
+=1 2/4 qua f[ smq eb f eb d] eb[ Gb, eb f d F,]
+I0.2     . . . tr . . .
+=2 2/4 cro. B_b qua rest
+=3 2/4 smq <A_b,[ C,> <c ab> <c ab> <A_b,] C,> <c ab[> <A_b, C,> <c ab> <c ab]>
+=4 2/4 min rest
+=5 2/4 min rest
+
+2 systems /22 30 22 40 22-48-22 40 22 /22 30 22 40 22-55-22 35 22 /
+pagenum 10
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 3 | 2 |
+| 45
+il0.7 45
+i0.4       . . 8va . .
+=1 treble 3/4 smq f[ db qua f smq db Bb,] f[ A, qua f smq A, c] eb[ F#, eb Bn, f a]
+=2 treble 3/4 min. rest
+=3 treble 3/4 smq <G_, Eb,[> <eb g> <eb g> <G_, Eb,]> <eb g[> <G_, Eb,> <eb g> <eb g]> <A_, C#,[> <c# a> <c# a> <A_, C#,]>
+=4 bass 3/4 min. rest
+=5 bass 3/4 min f~ cro b
+| 46
+=1 2/4 qua bb[ smq ab g bb ab]  qua. g[ smq a d e]
+=2 bass 2/4 min rest
+=3 2/4 smq <c# e c~#[> <E_, C#, E,> <c# e c~#> <c# e c~#]> <E_ A_ E[> <A' e' a'> <E_ A_ E> <A' e' a']>
+=4 2/4 min rest
+=5 2/4 min rest
+/
+2 bars | 3 | 2 |
+| 47
+=1 treble 3/4 qua f#[ smq g A, Bb, f#]  qua. g[ smq c# d c#] qua f#[ qua. Bn smq cn]
+=2 bass 3/4 min. rest
+=3 treble 3/4 smq <cn e c~n[> <E_, Cn, E,> <c e c~> <c e c~]> <E_, B_, E,[> <B, e b> <E_, B_, E,> <B,] e b> <A, e a[> <E_, A_, E,> <A, e a> <E_,] A_, E,>
+=4 bass 3/4 min. rest
+=5 bass 3/4 min. d~
+| 48
+=1 qua. d[ qua c smq d] qua. c[ smq rest d c] cro d qua c#
+=2 min. rest
+=3 smq <A, f a[> <A, f a> <F_, A_, F,> <A,] f a>  <Bb, d bb[> <D_, B_b, D,> <Bb, d bb> <D_,] B_b, D,> <G#, e g#[> <G#, e g#> <E_, G_#, E,> <G#, e g#]>
+=4 min. rest
+=5 min g cro rest
+
+2 systems /22 30 22 55 22-38-22 40 22 /22 40 22 40 22-38-22 40 22 /
+pagenum 11
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+| 49
+i . . 8va . .
+=1 treble 9/16 min B smq rest
+I0.2     Timpani
+=2 bass 9/16 qua G[ smq G G] qua G[ smq G G G]
+I0.8          pp
+=3 treble 9/16 qua rest' qua e qua. f[ qua e]
+=3 treble 9/16 <min c# c~#>
+I0.8          f
+=4 bass 9/16 min <e c~# e~>
+r0.8        *P_
+i0.1              pizzicato
+=5 bass 9/16 min rest smq rest
+|
+il0.3 50
+=1 min rest smq rest
+=2 qua G[ smq G G G] qua G[ smq G G]
+=3 <min e' a' a~'>
+=3 qua rest, qua. rest, cro <E,(4 cn(2 e(1>
+=4 min a~
+=5 qua G[ smq d' c A] qua. G[ smq A]
+| 51
+i0.3 . . loc
+=1 min rest smq rest
+=2 cro d' smq d' qua d'[ smq d' d']
+=3 cro <E,)4(4 c)2(2 e)1(1> smq <E,)4(4 c)2 e)1(1> cro <E,)4 Bb e)1>
+I0.2                               f
+=4 cro rest smq rest cro rest
+=5 cro d smq a qua g[ smq f d]
+/
+3 bars | 1 | 1 | 1 |
+| 52
+I0.3        Trombone
+=1 bass min rest smq rest
+=2 bass qua. d,[ smq d,] qua f[ smq f f f]
+=3 treble cro Bb qua A[ qua. Ab]
+=4 bass min rest smq rest
+=5 bass qua. d,[ smq e] qua f[ smq f d f]
+| 53
+=1 5/8 min G(2 qua G)2
+I0.8 pp
+=2 5/8 cro G qua d'[ G smq d' G]
+=3 5/8 min <G,(1 g(3> qua <G,)1 g)3>
+=4 5/8 cro rest,, qua d,[ G, smq d, G,]
+=4 5/8 <min Bb bb'>
+=5 5/8 cro g qua d~ cro g
+| 54
+=1 min rest qua rest
+=2 qua d'[ G] smq rest G[ qua d' smq G d']
+=3 cro <G, g> cro. <D F Bb'>
+=4 qua d'[ qua. G] smq G[ qua d' smq G d']
+=5 min rest qua rest
+
+2 systems /22 35 22 35 22-35-22 46 22 /22 35 22 45 22-35-22 35 22 /
+pagenum 12
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+| 55
+il0.3 55
+=1 tenor min D qua rest
+=2 bass qua G[ qua. d' smq d'] qua. G[ smq G]
+=3 treble min rest qua rest
+=4 bass qua G[ qua. d'] smq d'[ qua. G] smq G
+=5 bass min rest smq rest g
+| 56
+=1 qua B[ smq c A,] qua d[ B] smq eb[ d]
+=2 qua f'[ smq G f'] qua G[ f'] smq G[ f']
+=3 min rest qua rest
+=4 qua f[ smq g a] c~[ a d~ c~] c~[ bb]
+=5 qua f~[ smq g f~] qua g[ f~] smq g~[ f~]
+| 57
+=1 qua db cro Bb cro rest
+=2 qua G[ qua. f' smq f'] qua G[ smq f' G]
+is0.3           #
+I.01      tr   . . .
+=3 min G(2 qua G)2
+i           cresc . . .
+=4 min <B_b(1 Eb(3> qua <B_b)1 Eb)3>
+=5 qua g~[ qua. f~ smq f~] qua g[ smq f~ g]
+/
+3 bars | 1 | 1 | 1 |
+| 58
+=1 tenor qua. Ab[ smq Ab] qua c,[ Bb] smq c[ Ab]
+=2 bass qua. f[ smq f] qua d,[ f] smq d,[ f]
+I.01    . . .  tr  . . .
+=3 treble min Bb(2 qua Bb)2
+=4 bass min <F'(1 f'(3 c~'(5> qua <F')1 f')3 c~')5>
+=5 bass qua. f~[ smq f~] qua d~[ f~] smq d~[ f~]
+| 59
+=1 qua. c[ smq c] qua Bb[ qua. f smq e]
+I0.8  . . . mp
+=2 qua d[ smq rest d] qua f[ qua. d smq d]
+=3 min <F, c(1 c~(3> qua <c)1 c~)3>
+I0.8  f
+I0.1             mp
+=4 qua. rest smq d[ qua f] qua. d[ smq d]
+=5 min d~ qua rest
+| 60
+il0.3 60
+=1 min d qua rest
+=2 qua f[ d] smq f[ d] qua. f[ smq d]
+=3 min <B b> qua <A, c a>
+=4 qua f[ d] smq f[ d] qua. f[ smq d]
+=5 min rest qua rest
+
+2 systems /22 35 22 40 22-38-22 35 22 /22 35 22 35 22-35-22 48 22 /
+pagenum 13
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+| 61
+=1 tenor min rest qua rest
+=2 bass qua G[ qua. f'] smq f'[ qua G] smq f'[ G]
+=3 treble min <C A' c'> qua <B_ B'>
+I0.5      f
+=4 bass qua G[ qua. f'] smq f'[ qua G] smq f'[ G]
+=5 bass min rest qua rest
+| 62
+=1 min rest qua rest
+=2 qua. f[ smq f] qua d,[ f smq d, f]
+=3 min <B_b Bb'> qua <A_b Ab>
+=4 qua. f[ smq f] qua d,[ f smq d, f]
+=5 min rest qua rest
+| 63
+=1 cro rest qua A, qua. B[ smq c]
+=2 qua. d,[ smq d,] qua f[ qua. d, smq d,]
+=3 min <A,(2 d(4 d~(6> qua <A,)2 d)4 d~)6>
+=4 min <g(2 g~(4> qua <g)2 g~)4>
+=5 qua. g[ smq d~ qua f~] qua. d~[ smq d~]
+/
+3 bars | 1 | 1 | 1 |
+| 64
+=1 tenor qua g[ ab smq g f] qua. ab[ smq g]
+=2 bass qua f[ d smq f d] qua. f[ smq d]
+=3 treble min rest qua rest
+=4 bass min <B_b F Bb> qua <B_b Bb>
+i0.5                                          8vab_     _|
+=5 bass qua f~[ d~ smq f~ d~] qua. f~[ smq g]
+| 65
+il0.5 65
+=1 qua. f[ smq e] cro Bb qua rest
+=2 qua. G[ smq G] qua d'[ G] smq d'[ G]
+=3 min <G_(1 D(3> qua <G_)1 D)3>
+=4 min <C_(1 C(3> qua <C_)1 C)3>
+=5 qua. c,[ smq g] qua d~[ g] smq d~[ g]
+| 66
+=1 qua rest qua. c[ smq A,] qua. B[ smq A,]
+=2 qua d' qua. G[ smq G] qua. d'[ smq d']
+=3 min <A,(2 a(4> qua <A,)2 a)4>
+=4' <min d f a d~>
+=4, cro. rest,, qua. d[ smq f]
+=5 qua g[ qua. g] g~[ qua c~]
+
+2 systems /22 35 22 40 22-50-22 50 22 /22 35 22 40 22-35-22 50 22 /
+pagenum 14
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+| 67
+=1 tenor min Ab qua rest
+=2 bass qua d, qua. f[ smq f] qua d,[ smq f d,]
+=3 treble min <c(2 ab(1 c~(3> qua <c)2 ab)1 c~)3>
+=4 bass <min ab' c~' a~b'>
+=4 bass qua rest cro f qua d,[ smq f d,]
+=5 bass qua d~ cro. f~ qua rest
+| 68
+=1 qua. Bb[ smq c] qua A,[ Bb] smq A,[ c]
+=2 qua. f[ smq d,] qua G[ d'] smq G[ d']
+=3 min <G,(2 c(1 g(3> qua <G,)2 c)1 g)3>
+=4 <min g' c~'>
+=4 qua. fr[ smq d,] qua G[ d'] smq G[ d']
+=5 min rest qua rest
+i0.2    arco . . .
+| 69
+=1 qua Bb qua. f[ smq c] qua. f[ smq G,]
+=2 qua G qua. d'[ smq d'] qua. G[ smq G]
+=3 qua rest qua. <f f~[> smq <c c~]> qua. <d d~[> smq <G,] g>
+I0.2   f . . .
+=4 min <C_ C> qua <D_ D>
+=5 min c qua d
+I0.2  f . . .
+/
+2 bars | 5 | 6 |
+| 70
+il0.3 70
+=1 tenor min Bb qua rest
+=2 bass qua f'[ smq G f' qua G] qua. f[ smq f]
+=3 treble qua. <c c~[> smq <F,] f> qua. <Bb bb> <A, a>
+=4 bass min <E_b Eb> qua <F_ F>
+=5 bass min eb qua f
+| 71
+=1 6/8 qua d[ smq c B] qua f[ smq A, d] qua f smq rest f
+=2 6/8 qua G[ smq d' f'] qua d'[ smq f' G] qua. d'[ smq G]
+=3 6/8 qua <D, d[> smq c A,] qua <F, f[> smq A, d] qua. <F, f[> smq f]
+=4 6/8 cro. <G_ G> smq rest cro <G_ G> smq <G_(2 G(4>
+=5 6/8 qua g[ smq d~ f~] qua d~[ smq f~ g] qua. d~[ smq g]
+
+2 systems /22 40 22 40 22-28-22 50 22 /22 40 22 40 22-28-22 50 22 /
+pagenum 15
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1 | 1 |
+| 72
+=1 tenor qua g[ smq a g] qua d[ smq f g] qua. b[ smq g]
+i0.8                                            cresc . . .
+I0.8                                                                       f
+=2 bass qua d'[ smq f' G] qua f'[ smq G d'] qua. G[ smq d']
+i0.8                                            cresc . . .
+I0.8                                                                      ff
+=3 treble qua <G, g[> smq a g] qua d[ smq f g] qua. <B, b[> smq <G, g]>
+i0.3                                            cresc . . .
+I0.2                                                                      ff
+=4 bass qua. <G_)2 G)4> <G_ G> qua <G_ G> cro <G_ G>
+=5 bass qua d~[ smq f~ g] qua f~[ g] cro G(2
+| 73
+=1 cro. a rest
+=2 qua f'[ smq G d'] qua G[ smq f' G] qua d'[ smq f' G]
+=3 cro. <A, a> rest
+=4 qua <G_ G> smq G[ d'] qua G[ smq f' G] qua d'[ smq f' G]
+=5 cro G)2 qua. c qua A qua. f
+/
+2 bars | 1 | 1 |
+| 74
+=1 tenor qua c[ smq d] qua A,[ smq c] qua. f qua d[ smq Bb]
+=2 bass smq d'[ f' G] qua f[ smq d,] qua G[ smq d'] f'[ G d']
+=3 treble qua c[ smq d] qua A,[ smq c] qua. f qua d[ smq Bb,]
+I0.4      f
+i0.4           cresc . . .
+=4 bass smq d,[ f g] qua f[ smq d,] qua G[ smq d'] f'[ G d']
+=5 bass cro. a qua. g qua f~[ smq d~]
+| 75
+il0.5 75
+=1 smq f[ d Bb] d[ Bb G,] qua Bb[ smq G,] qua G[ smq D]
+=2 smq G[ f' d'] <G f'[> d' G] f'[ d' <G] f'> qua <G f'[> smq d']
+=3 smq f[ d qua c] smq d[ c] d[ f qua bb] smq g[ bb]
+=4 smq G[ f' d'] <G f'[> d' G] f'[ d' <G] f'> qua <G f'[> smq D]
+=5 smq g[ f~ d~] g[ d~ g] f~[ d~ f~] qua g[ smq d]
+I0.2  ff
+
+2 systems /22 40 22 50 22-30-22 50 22 /22 40 22 40 22-30-22 50 22 /
+pagenum 16
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 1 | 1 | 1 |
+| 76
+=1 bass 4/4 smb G(1
+i0.8                dim . . .
+I0.1          tr . . .
+=2 bass 4/4 smb G(1
+i0.9                   dim . . .
+I0.4             tr . . .
+=3 treble 4/4 smb <a c~>
+I0.5          ff                                   . . pp
+i0.5                   dim . . .
+=4 bass 4/4 smb <G_(2 G(4>
+=5 bass 4/4 min. G cro rest
+I0.3          ff
+i0.3                   dim . . .
+| 77
+=1 cro G)1 min. rest
+I0.8      . . pp
+I0.2   tr . . .
+=2 min. G)1 cro rest
+I0.8                     . . pp
+=3 smb c~
+I0.8    mf
+=4 smb <G_)2 G)4>
+I0.8                                                       mp
+=5 smb rest
+i0.2                                   pizz . . .
+| 78
+=1 clefspace smb rest
+I0.2   pp . . .
+=2 clefspace qua G cro G qua G min G
+i0.1   8va . . .
+=3 clefspace min rest d
+I0.8                           p
+=4 treble smb d~r
+=4 treble smb < D A e a e~ >
+=5 clefspace qua g cro g qua g min g
+I0.2   pp . . .
+/
+3 bars | 1 | 1 | 1 |
+| 79
+=1 tenor smb rest
+=2 bass qua G cro G qua G min G
+i0.3   8va . .
+=3 treble min g d
+=4 treble
+=5 bass qua g cro g qua g min g
+| 80
+il0.3 80
+=1 smb rest
+=2 min G qua G cro G qua G
+=3 cro rest A d A
+=4 smb < E A d a d~ >
+=5 min g qua g cro g qua g
+i0.2                   dim . . .
+| 81
+=1 smb rest
+=2 min G qua G cro G qua G
+=3 cro e A B A
+=4 smb rest
+=5 min g rest
+
+3 systems /22 30 22-28-22 35 22 /22 30 22-28-22 40 22 /22 30 22-28-22 50 22 /
+pagenum 17
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1 | 1 |
+| 82
+i0.2         tr . . .
+=1 bass smb G
+I0.9         ppp
+i0.1              8va . . .
+=2 treble qua rest B,[ c# B,] e[ B, d B,]
+I0.5                  pp
+=3 treble smb < E A Br a br e~ >
+I0.8         mf
+i0.9                 con Pedale ...
+=4 bass smb rest
+| 83
+=1 smb rest
+=2 qua a[ B, c# B,] e[ B, c# G,]
+=3 smb rest
+=4 smb rest
+/
+2 bars | 1 | 1 |
+| 84
+I0.3         Crotales (or Triangle)
+=1 treble smb rest
+i0.1         8va . . .
+=2 treble qua rest smq A,[ G,] c,[ G, Bb, G,] d,[ G, Bb, G,] c[ G, A, G,]
+=3 treble smb <D_ Cn G d>
+=4 bass min rest qua rest cro e~ qua f~
+| 85
+il0.3 85
+=1 smb rest
+=2 qua g[ smq f g] d[ g f g] c[ g f g] d'[ G F G]
+=3 min <A_(3 A(1> qua <A_)3 A)1> cro. <B_b Bb'>
+=4 min c~(1 qua c~)1 cro. d~
+/
+2 bars | 1 | 1 |
+| 86
+I0.2         p
+=1 treble qua B cro B qua B min B
+i0.15          8va . . .
+=2 treble smq rest F[ G F] A[ F G F] c'[ F G F] A[ F G F]
+I0.8         p
+=3 treble smb <E_b C Eb c>
+=4 bass cro. e~b a cro c~
+| 87
+=1 qua B cro B qua B min B
+=2 smq eb,[ F, G, F,] Bb,[ F, G, F,] c,[ F, G, F,] Bb,[ F, G, F,]
+=3 smb rest
+=4 min g qua rest cro. c~
+
+2 systems / 22 40 22-30-22 40 22 / 22 40 22-45-22 40 22 /
+pagenum 18
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1 | 1 |
+| 88
+=1 treble min B qua B cro B qua B
+i0.2      8va . . .
+=2 treble smq rest c[ d c] f[ c d c] bb[ c eb c] f[ c eb c]
+I0.6             mp
+=3 treble smb <B_b F c f bb>
+=4 bass cro. ab f cro g
+| 89
+=1 smb B
+=2 smq f,[ F, G, F,]  Bb,[ F, G, F,] c,[ F, Ab, F,] Bb,[ F, Ab, F,]
+=3 smb rest
+=4 min d qua rest cro. eb
+/
+2 bars | 1 | 1 |
+| 90
+il0.3     90
+=1 treble qua B cro B qua B min B
+i0.25       loc
+=2 treble smq eb,[ F, Bb, F,] c,[ F, Bb, F,] f,[ F, Bb, F,] c,[ F, Bb, F,]
+I0.15                mf
+=3 bass smb <eb bb e~b>
+=4 bass min g(1 qua g)1 cro. ab
+| 91
+=1 smb B
+=2 smq bb,[ F, Bb, F,]  db,[ F, Bb, F,] ab,[ F, Bb, F,] db,[ F, Bb, F,]
+i0.1    cresc . . .
+=3 smb rest
+=4 min db(1 qua db,)1 bb cro db
+
+2 systems / 22 33 22 44 22-33-22 60 22 / 22 33 22 33 22-35-22 50 22 /
+pagenum 19
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+4 bars | 9 | 11 | 11 | 11 |
+| 92
+I    Flute
+b0.2                   ,           ,
+=1 treble 10/16 qua. E[ qua E] qua. G[ qua E]
+I0.8        mf                   mp
+i0.2                           l.v. sempre
+=2 treble 10/16 min B(2 qua B)2
+=3 treble 10/16 min <B_b,(2 D,(4 G,(6> qua <B_b,)2 D,)4 G,)6 d' d~'>
+I    f
+=4 bass 10/16 min <C_(1 C(3> qua <C_)1 C)3>
+I0.8    f
+i0.25                *SosPed_
+=5 bass 10/16 min c qua rest
+| 93
+=1 qua. G[ qua c'] Bb,[ smq c, qua Bb,]
+i0.8   dim . . .
+=2 min rest qua rest
+i0.2   Solo . . .
+=3 qua B_b[ smq C D E] qua C[ smq D E G]
+I0.3   pp
+=4 smb rest
+=5 qua. g[ qua c~] d~[ smq c~ qua d~]
+| 94
+b0.2         ,
+=1 qua G,[ smq c Bb, c] d[ qua e smq c d]
+=2 min rest qua rest
+=3 qua C[ smq D E G] qua D,[ smq E, G, Bb,]
+=4 smb rest
+=5 smq f~[ e~] cro d~ smq rest g~[ a~ e~]
+| 95
+il0.3 95
+=1 qua Bb,[ smq c Bb, c] qua e[ smq c qua g]
+=2 min rest qua rest
+=3 qua C[ smq D E G] qua D,[ smq E, G, Bb,]
+i0.3   cresc . . .
+=4 smb rest
+=5 cro. d~ smq g~[ d~ e~ bb]
+/
+4 bars | 1 1 1.1 1.3 1.1 1.1 1.3 1.1 1 | 2 2 2 2.3 | 9.5 | 7 |
+| 96
+=1 treble 9/16 cro f qua. g[ qua c]
+=2 treble 9/16 qua rest cro. B
+=3 treble 9/16 qua D,[ smq F, G, Bb,] F,[ G, Bb, c,]
+I0.3                       mp
+=4 bass 9/16
+=5 bass 9/16 min f~ smq rest
+| 97
+=1 qua. d cro f qua Bb
+=2 qua. rest qua rest cro B
+=3 qua C[ smq D F G] D,[ F, G, Bb,]
+I0.4    p
+=4 smb rest
+=5 qua. g~ qua f~[ d~ c~]
+| 98
+=1 cro c qua. d[ qua G,]
+=2 qua rest cro. B
+=3 smq D[ F G Bb'] qua F,[ smq G, Bb, c]
+i   cresc . .
+=4 smb rest
+=5 cro. bb qua. d~
+| 99
+=1 7/16 qua. e[ qua G, Bb,]
+=2 7/16 cro. rest
+=3 7/16 smq D,[ E, G, Bb,] E[ G c']
+=4 7/16 cro. rest
+=5 7/16 qua bb[ e~ qua. c~]
+
+2 systems / 22 30 22 40 22-30-22 40 22 / 22 30 22 40 22-30-22 40 22 /
+pagenum 20
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+4 bars | 10 | 11 | 11 | 11 |
+| 100
+il 100
+=1 treble qua. e[ qua d c]
+=2 treble cro. rest
+=3 treble smq E,[ G, Bb, c] G,[ Bb, d]
+I0.1                   .  .  .  mf
+=4 bass
+=5 bass cro g qua. bb
+| 101
+=1 9/16 cro a qua. c[ qua d]
+=2 9/16 qua rest cro. B
+b0.01  '
+=3 9/16 smq C[ D F G] qua D[ smq F G A]
+I  mp
+=4 9/16
+=5 9/16 min f smq rest
+| 102
+=1 cro a qua. g[ qua f]
+=2 qua rest cro. B
+=3 qua D[ smq F G A] F[ G A c']
+i               cresc . . .
+=4 min rest smq rest
+i0.8 . . . sempre con Pedale di sostenuto . . .
+=5 min g(1 smq g)1
+| 103
+=1 cro d smq c cro e
+=2 qua. rest qua rest rest B
+=3 qua D[ smq F G A] F[ G A c']
+=4 min rest smq rest
+=5 min a(1 smq a)1
+/
+4 bars | 1 | 1 | 1 | 1 |
+| 104
+=1 treble cro. e smq rest A[ B']
+=2 treble qua rest cro. B
+=3 treble smq E[ G A c'] qua G[ smq A c' d']
+I                        f
+=4 bass
+=5 bass min g(1 smq g)1
+| 105
+il0.3 105
+=1 cro e qua. G[ qua A]
+=2 min rest smq rest
+I0.1  '
+=3 smq D[ E G A] qua E[ smq G A c']
+I  mf
+=4 min rest smq rest
+=5 min g smq rest
+| 106
+=1 qua d[ smq c qua d] smq d[ c qua d]
+=2 min rest smq rest
+=3 qua F[ smq G A c'] G,[ A, c d]
+i0.3               cresc . . .
+=4 min rest smq rest
+=5 qua. g qua g~[ g g~]
+i0.1                 cresc . . .
+| 107
+=1 7/16 qua. d[ smq c] qua g[ smq e]
+=2 7/16 cro. rest
+=3 7/16 smq E,[ G, Bb, c,] G,[ Bb, d,]
+=4 7/16
+=5 7/16 cro d~ qua. c~
+I0.2          . . ff
+
+2 systems / 22 33 22 44 22-33-22 44 22 / 22 32 22 44 22-32-22 44 22 /
+pagenum 21
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+4 bars | 10 | 3 4 3 | 2.5 3 | 4 4.5 4 |
+| 108
+=1 treble qua. Bb,[ smq c] qua G,[ smq d]
+=2 treble cro. rest
+=3 treble smq G,[ Bb, c, d,] Bb,[ c, d,]
+I0.4                   ff
+=4 bass
+=5 bass cro f~ qua. e~
+| 109
+=1 9/16 qua g[ smq f g] qua a[ smq d qua f]
+=2 9/16 min rest smq rest
+=3 9/16 qua f[ smq g f] d[ Bb, f qua d]
+=4 9/16
+=5 9/16 cro. d~ qua. c~
+| 110
+il0.9 110
+=1 4/16 qua d~[ smq c~ ab]
+10.9      Solo . . .
+=2 4/16 cro rest
+=3 4/16 cro e
+=4 4/16 qua g[ ab]
+i0.8  . . SosPed__|
+=5 4/16 qua g[ ab]
+i0.3        dim . .
+| 111
+=1 9/16 qua. f[ smq f] qua. ab[ qua f]
+I0.15      Marimba
+=2 9/16 qua A_b[ smq B_b B_b C] B_b[ C C D]
+I0.8  p
+=3 9/16 min < F'(3 d'(1 > smq < F')3 d'(1 >
+=4 9/16 min < ab(2 d~(1 > smq < ab)2 d~)1 >
+=5 9/16 cro. Bb qua. ab
+/
+3 bars | 1 | 1 | 1 |
+| 112
+=1 treble cro bb qua. c[ qua d]
+=2 treble smq B_b[ C C D] qua C[ smq D D F]
+=3 treble min < F'(2 c'(1> smq < F')2 c')1>
+=4 bass min < ab(2 d~(4 > smq < ab)2 d~)4 >
+=5 bass cro. f qua. bb
+| 113
+=1 qua. c~[ smq bb f] ab[ d f bb]
+=2 smq B_b[ C C D] qua C[ smq D D F]
+=3 min < F(2 Bb'(1 > smq < F)2 Bb')1 >
+=4 min < ab d~ > smq rest
+=5 cro. ab qua. d~
+| 114
+=1 qua c~[ smq bb g f] d~[ c~ bb g]
+=2 smq C[ D D F] qua D[ smq F F G]
+=3 min < D(2 c'(1 > smq < D)2(2 c')1(1 >
+=4 min < G(2 f'(1 > smq < G)2(2 f')1(1 >
+=5 cro f~ smq c~ cro f~
+
+2 systems / 22 30 22 40 22-30-22 40 22 / 22 30 22 40 22-30-22 40 22 /
+pagenum 22
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 11 | 11 | 11 |
+| 115
+i0.6 8va . . .
+il0.8           115
+=1 treble smq d[ c Bb, G,] qua f[ smq d c Bb,]
+=2 treble qua B_b[ smq C C D] C[ D D F]
+=3 treble min < D')2(3 c')1(1 > smq < D')3 c')1 >
+i                         cresc . . .
+=4 bass min < G')2(2 f')1(1 > smq < G)2 f')1 >
+=5 bass cro. c~ qua. bb
+| 116
+=1 smq d[ c Bb, Ab,] qua f[ smq d c Bb,]
+=2 smq C[ D D F] qua D[ smq F F Ab]
+=3 min < C(1 Bb'(3 > smq < C)1 Bb')3 >
+=4 min < Ab(1 f'(3 > smq < Ab)1 f')3 >
+=5 cro. ab qua. d
+| 117
+=1 qua f[ smq d c Bb] g[ f d] rest
+=2 smq C[ D D F] qua D[ smq F F G]
+=3 min <C Bb' d'(1> smq <rest d')1>
+=4 min <F(2 g'(1> smq <F)2 g')1>
+=5 cro. f qua. c
+/
+2 bars | 10 | 12 |
+| 118
+i0.6 . . 8va . .
+=1 treble smq eb[ c Bb, G,] qua f[ smq eb c Bb,]
+=2 treble qua Eb[ smq F F G] F[ G G Bb']
+=3 treble min <C Eb Bb'> smq rest
+=4 bass min <G f'> smq rest
+=5 bass cro eb qua f(1[ qua. f)1]
+| 119
+=1 12/16 qua f[ smq eb c] ab[ f eb c]  qua f[ smq c eb]
+=2 12/16 smq B_b[ C C Eb] C[ Eb Eb F] C[ Eb Eb F]
+=3 12/16 min. <B_b Eb Bb'>
+I  f
+=4 12/16 min ab cro ab
+=5 12/16 min Ab cro Ab
+
+2 systems / 22 33 22 33 22-33-22 44 22 / 22 33 22 33 22-33-22 44 22 /
+pagenum 23
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 7 | 9 | 9 |
+| 120
+il0.7 120
+i      . . . 8va . . .
+=1 treble 6/16 qua g[ smq f c qua eb]
+=2 treble 6/16 smq Eb[ qua F F smq G]
+=3 treble 6/16 cro. <B_b Cx Eb Fx Bb'>
+=4 bass 6/16 cro. g
+=5 bass 6/16 cro. G
+| 121
+=1 9/16 qua ab[ smq f d c]  qua bb[ smq ab f]
+=2 9/16 smq C[ D D F] qua D[ smq F F Ab]
+=3 9/16 min <B_b Cx D(1 F(3> smq <B_b Cx D)1(1 F)3(3>
+=4 9/16 min <B_b(1 ab'(3>  smq <B_b)1(4 ab')3>
+=5 9/16 min Bb smq rest
+| 122
+=1 qua d[ smq c Bb, G,]  qua f[ smq d c]
+=2 smq D[ F F G] qua F[ smq G G Bb']
+=3 cro. <B_b Cx D)1 F)3> qua. <B_b Cx D F>
+=4 cro. <B_b)4 g'> qua. <B_b ab'> 
+=5 cro. g qua. ab
+/
+2 bars | 15 | 9 |
+| 123
+i0.6 . . 8va . .
+=1 treble 14/16 smq e[ d c Bb,] qua g[ smq e d c] qua e[ smq d c Bb,]
+=2 treble 14/16 qua C[ smq D D E] qua D[ smq E E G] D[ E E G]
+=3 treble 14/16 smq G_[ B_b C D] B_b[ C E] B_b[ C D E]  C[ D G]
+I0.2      mf                                                              f
+i0.2                             cresc . . .
+=4 bass 14/16 min. C
+=5 bass 14/16 min g qua. rest smq c~[ bb a]
+| 124
+=1 9/16 smq A[ G E D] qua c'[ smq A D E]
+=2 9/16 qua E[ smq G G A] D[ E E G]
+=3 9/16 min <C Dx E(1 A(3> smq <C Dx E)1 A)3>
+=4 9/16 min <gx(2 a> smq <gx)2 a>
+=5 9/16 min g(1 smq g)1
+
+2 systems / 22 33 22 33 22-36-22 33 22 / 22 33 22 33 22 33 22-39-22 44 22 /
+pagenum 24
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+3 bars | 6 | 9 | 9 |
+| 125
+il0.7 125
+i0.4                                       . . loc
+=1 treble 4/16 cro Bb
+=2 treble 4/16 smq D[ E E G]
+=3 treble 4/16 cro <C Dx E G>
+=4 bass 4/16 cro <g bb>
+r0.7           *P_
+=5 bass 4/16 cro d(1
+| 126
+=1 9/16 smq a[ g f d] qua g[ smq f d c]
+I0.1                          tr . . .
+=2 9/16 qua. F cro. F
+=3 9/16 min <G_(5 C Dx(1 F(3> smq <G_)5 C Dx)1 F)3>
+=4 9/16 qua a[ smq bb bb c~] bb[ c~ c~ d~]
+=5 9/16 cro. d)1 qua. rest
+| 127
+=1 qua Bb'[ smq G F D]  G[ F D C]
+I0.8   mp
+=2 min rest smq rest
+=3 cro. <D F> qua. <C Dx F>
+=4 smq bb'[ c~' c~'] qua. bb' a'
+=4 min g smq rest,
+=5 min c(2 smq c)2(2
+/
+3 bars | 5 | 7 | 6 |
+| 128
+=1 treble qua G[ smq E D C] E[ D qua C]
+I0.2          Trombone
+=2 tenor qua rest qua. rest qua rest c
+I0.8                                p
+i0.8                                    ma distinto
+I0.1         tr . . .
+=3 treble min E smq rest
+=4 treble cro <C Dx E> qua. <C Dx E[> qua <C Dx E]>
+=5 bass <cro g' bb'>  qua. <g' a'x[> qua <g' bb']>
+=5 bass min C, smq rest,
+=6 bass min c)2 smq rest
+i0.1                        arco . . .
+| 129
+=1 6/8 min. C(2
+=2 6/8 cro e qua A cro. c
+=3 6/8 smq C,[ E, F#, E, F#, A,] F#,[ A, c, E, F#, A,]
+=4 6/8 cro. <C E> cro. F#
+=5 6/8 qua F#[ f#'] cro F# qua F#[ f#']
+b0.1                       ,
+=6 6/8 cro. f# qua c~[ e~ c~]
+| 130
+il0.3 130
+=1 5/8 min C)2 qua rest
+=2 5/8 min rest smq B[ B]
+=3 5/8 smq F#[ A c' C] E[ qua F# smq A] B'[ B_]
+=4 5/8 qua rest min f#
+=5 5/8 cro F# qua F#[ f#' F#](2
+=6 5/8 cro f# qua c~[ e~ c~]
+
+2 systems /22 33 22 33 22 44 22-33-22 44 22 /22 33 22 33 22 44 22-36-22 44 22 /
+pagenum 25
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+4 bars | 5 | 5.5 | 5.5 | 7 |
+| 131
+=1 treble 4/8 min rest
+=2 tenor 4/8 qua e[ smq B qua. d] qua rest
+=3 treble 4/8 smq D[ E D E] qua A[ E]
+=4 treble 4/8 min <F#, f#>
+=5 bass 4/8 qua F#)2 F#[ f#' F#]
+=6 bass 4/8 min a
+| 132
+=1 9/16 min rest smq rest
+=2 9/16 cro B smq rest qua c smq rest G,
+I0.1       tr . . .
+=3 9/16 min A_ smq rest
+=4 9/16 smq rest e~[ qua e smq e~] cro E
+=5 9/16 cro F# smq rest cro rest
+=6 9/16 min a smq rest
+| 133
+=1 min rest smq rest
+is0.2       5              4
+=2 qua. c# G, rest
+I0.1    tr . . .
+=3 min B_b smq rest
+=4 smq e~[ qua e smq e~] cro rest smq rest
+=5 cro rest e smq f#
+i0.1  8va . .
+=6 cro. g smq f#[ e B,]
+| 134
+=1 6/8 min. rest
+is0.1            3
+=2 6/8 qua. c[ smq G#, qua B] qua rest qua. rest smq c#
+=3 6/8 qua C cro rest cro. rest
+=4 6/8 cro. <e e~>             smq rest d  c#[ C#, qua c#]
+=5 6/8 cro rest'  smq d'[ d~' qua d']  qua. rest smq c#(2
+=5 6/8 min. F#,
+=6 6/8 qua f#[ smq g# f# qua g#] f#[ smq b qua. a]
+/
+2 bars | 75 | 66 |
+| 135
+il0.4 135
+=1 treble min. rest
+=2 tenor cro f smq c#[ c#] cro e smq rest c#
+i0.9     cresc . . .
+=3 treble qua rest smq G[ A] B'[ A B' c#'] B,[ c# e A,]
+=4 treble cro. G' cro B' qua A'
+=4 treble qua rest,, cro. B_, cro C#,
+=5 bass cro rest' min a'
+=5 bass min. c#,)2
+i0.1     8va . . .
+=6 bass cro. g qua f[ eb Bb,]
+| 136
+=1 min. rest
+is0.3                                  1                                                        4
+=2 qua. e[ qua d smq d] qua f rest smq B[ d]
+=3 smq c[ d c] d[ e d] f[ ab c] d[ f d]
+=4 cro. <E Ab> <D Ab>
+i0.5            cresc . . .
+=5 cro.  c~     b
+i0.1  loc
+=6 cro. e d
+
+2 systems /22 35 22 44 21 46 22-38-22 35 22 /22 35 22 44 22 44 22-39-22 44 22 /
+pagenum 26
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 32 27 27 | 35 35 30 |
+| 137
+=1 treble 9/8 smb rest qua rest
+=2 tenor 9/8 cro a rest qua d[ smq B] qua e[ B] smq rest qua c#
+=3 treble 9/8 smq f[ g f g] smq3 a[ A, a] smq B,[ d] min B, qua Bb,
+bs0.7                                             3
+=4' treble 9/8 min. A smq rest qua. G qua G
+=4, treble 9/8 cro. Eb min. D,
+=5' bass 9/8 smb b' qua bb'(4
+=5, 9/8 cro. f(2> cro f)2 qua e(2 cro. e)2
+=6 bass 9/8 cro. f(1 cro f)1 qua e(1 cro. e)1
+| 138
+=1 smb rest qua rest
+=2 cro g qua rest e rest Bb qua. rest qua Bb,[ smq d]
+bs0.01          3
+=3 smq3 E_[ E B_b] smq Bb'[ E] qua e smq3 B_b,[ Bb, G,] smq g[ Bb] qua bb smq3 E,[ e G,] smq g[ e] qua e~
+bs0.5                                                                                                      3
+bs0.3                                                   3
+=4 cro. <Bb e> <Bb g> e
+=5 cro. <bb)4 e~> <bb g~> <e~ g~>
+=6 min db(1 qua db)1 min c
+/
+2 bars | 0.23 0.23 0.23 .4 .4 .4 .6 .4 .4 | 2.6 |
+| 139
+=1 treble smb rest qua rest
+=2 tenor qua. e rest qua d cro f qua rest g[(1 a]
+i0.8          cresc . . .
+=3 treble cro. e~ rest qua3 B_b[ smq3 B_b] G[ G_ G] qua3 F[ smq3 F]
+=4 treble cro. <Ab' d'> smq3  D,[ Ab, D,]  Bb,[ D, Bb,]  Ab,[ Bb, Ab,] d[ D, d] qua G[(2 An](4
+I0.8           f
+i0.8                 cresc . . .
+* Change the cro d~ to a whiteblob !
+=5 bass cro. d~ cro rest min f
+=6 bass min e cro. d,(1 cro d,)1
+| 140
+il 140
+i0.3                8va . . 
+=1 6/8 cro. rest qua G,[ smq B, A, eb g]
+=2 6/8 min b)1 cro rest
+I0.8  f
+=3 6/8 smq3 eb[ Eb, eb] B,[ b B,] g[ G, g] A,[ a A,] eb[ Eb, eb] G_[ G G_]
+I0.8  ff
+=4 6/8 cro. <G)2(2 Ax)4(4 B'(1 eb'(3> cro <G)2 Ax)4 B')1 eb')3> qua <B, g,>
+=5 6/8 min e~b cro <g e~b>
+=6 6/8 min a cro rest
+
+2 systems /22 33 22 44 22 44 22-40-22 33 22 /22 33 22 44 22 44 22-40-22 44 22 /
+pagenum 27
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1 | 1 |
+| 141
+i0.6     8va . .
+=1 treble cro. g# f#
+I0.9        f
+=2 tenor qua c#'[ smq E' c#' qua E'] smq c#'[ qua E' c#'] smq rest
+I0.8        mf
+=3 treble smq3 E[ e' E] qua3 C#[ smq3 C#] e,[ E, e,] C#,[ c#, C#,] qua3 F#[ smq3 F#] E[ e' E]
+=4 treble cro. <G#, g#> <F#, f#>
+=5 bass qua e[ smq c~# e qua c~#] smq e[ qua c~# e smq c~#]
+=6 bass min a# cro b
+| 142
+=1 cro. e d
+=2 smq cn[ qua A, c] smq rest qua e[ smq G, e qua G,]
+I0.8  f
+=3 smq3 c'[ C c'] A_[ A A_] c'[ C c'] G,[ g G,] qua3 e[ smq3 e] D[ d' D]
+=4 cro. <E, e> <D, d>
+=5 smq a[ qua c~ a smq c~]  qua g[ smq e~ g qua e~]
+=6 min c~ cro rest
+/
+2 bars | 1 | 1 |
+| 143
+i0.3        8va . .
+=1 treble min. c
+=2 tenor smq rest qua Bb,[ d smq Bb,] qua d[ smq Bb, d qua Bb,]
+=3 treble smq3 c'[ C c'] qua3 D,[ smq3 D,] Bb,[ B_b, Bb,] C,[ c C,] qua3 Bb,[ smq3 Bb,] D[ d' D]
+=4 treble min. <C c'>
+=5 bass smq bb[ qua d~ bb smq d~] qua bb[ smq d~ bb qua d~]
+=6 bass min. d~
+| 144
+=1 min rest cro B
+=2 qua f#[ smq A, f# qua A,] smq e[ qua c# e smq c#]
+=3 smq3 B'[ B_ B']  F#,[ f# F#,] qua3 A[ smq3 A] E[ e' E] qua3 B'[ smq3 B']  C#,[ c# C#,]
+i0.2                                   tr . . .
+=4 <min. B_ cro B'(1> min B')1
+=5 qua a[ smq f~# a qua f~#]  smq c~#[ qua e~ c~# smq e~]
+=6 min e~ cro f~#
+
+2 systems /22 33 22 33 22 40 22-44-22 40 22 /22 33 22 33 22 40 22-44-22 40 22 /
+pagenum 28
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1 | 1 |
+| 145
+il0.6 145
+i0.3          . . 8va . . 
+=1 treble cro. A G
+=2 tenor smq e[ qua c# e] smq rest qua f[ smq A, f qua A,]
+=3 treble smq3 A[ A_ A] qua3 E,[ smq3 E,] c#[ C#, c#] Fn,[ f F,] a[ A, a] G,[ g G,]
+I0.2         tr . . .                              tr . . .
+=4 treble cro. A qua G(2 cro G)2
+=5 bass smq c~#[ qua e~ c~# smq e~]  qua a[ smq f~ a qua f~]
+=6 bass min g~ cro a
+| 146
+i0.3                                                                 . . loc
+=1 min d cro c
+=2 qua f[ smq A, f qua A,] smq rest qua Bb[ d smq Bb]
+=3 qua3 d[ smq3 d] F,[ f F,] qua3 a[ smq3 a] c[ c~ c]  qua3 d[ smq3 A,] qua C
+I0.05                   tr . . .                                 tr . .
+=4 qua d(1 cro. d)1 cro c
+i0.55                                           cresc . . .
+=5 qua a[ smq f~ a qua f~] smq f[ qua d~ f smq d~]
+=6 min c~ cro d~
+/
+2 bars | 1 | 1.1 |
+| 147
+=1 treble cro. bb a
+=2 tenor qua Bb[ smq d e qua f] smq g[ qua a b smq g]
+I0.2         tr
+=3 bass qua. ab[ qua c~ smq ab] qua d~[ smq f d~ qua f]
+I0.1         tr . . .
+=4 treble cro Bb,(2 qua Bb,)2 cro f qua A
+I0.5                                  ff
+=5 bass smq ab[ qua c~ ab smq c~] qua f[ smq d~ f qua d~]
+=6 bass min d cro rest
+| 148
+=1 min g cro rest
+=2 smq a[ qua b c~# smq a] qua f[ smq ab gb qua bb]
+=3 qua e~b[ smq g e~b qua g] smq ab[ qua bb c~ smq d~b]
+=4 qua3 A_[ smq3 A]  F[ f' F] f[ B, b] B[ b eb] e~b[ eb e~b] eb[ c~ f]
+=5 qua g[ smq e~b g qua e~b] qua d~b[ smq c~ bb qua f]
+=6 cro. g(1 cro g)1 qua f
+
+2 systems /22 40 22 40 22 40 22-30-22 33 22 /22 33 22 33 22 33 22-30-22 40 22 /
+pagenum 29
+innerhead Trombone Quintet, Peter Billam
+leftfoot (c) 1994 Peter J Billam
+/
+2 bars | 1 | 1 |
+| 149
+=1 treble 3/4 qua f[ smq ab gb] cro bb qua bb[ smq d~b c~]
+=2 tenor 3/4 min bb qua bb[ Bb]
+I0.9            sfp
+i0.9                        cresc . . .                      >          >
+I0.5             tr . .
+=3 bass 3/4 min e~b qua e~b[ bb]
+I0.9            sfp
+i0.9                        cresc . . .                      >          >
+=4 treble 3/4 min. f~
+=5 bass 3/4 min. eb
+=6 bass 3/4 min eb cro rest
+| 150
+il0.7          150
+=1 4/4 min f~ cro rest F(2
+I0.8       ff                   p                   mp
+i0.8              dim . . .
+=2 4/4 smb B_b(2
+I0.7 ff
+i0.7                             dim . . .
+I0.1      tr . . .
+=3 4/4 min. Bb cro rest
+=4 4/4 smb <Eb Bb eb>
+I0.6  ff
+=5 4/4 smb <Bb eb bb>
+i0.8     *P_
+=6 4/4 smb eb
+i0.2    pizz
+I0.2             ff
+/
+3 bars | 1 | 1 | 1 ||
+| 151
+=1 treble qua F)2 cro Ab qua F[  Ab] cro F qua Ab(2
+=2 tenor cro B_b)2 min. rest
+I0.3        . . . pp
+=3 treble smb rest
+=4 treble smb <F(1 Ab(3>
+I0.7       mp                                  mf
+=5 bass smb rest
+i0.8                       8va basso
+I0.8                                            mf
+=6 bass smb rest
+i0.1                      arco
+I0.1                               mf
+| 152
+=1 qua Ab)2 cro F qua Ab cro F Ab(1
+i0.8                    dim . . .
+=2 smb rest
+=3 smb rest
+i0.85                   8va
+=4 min rest' <Eb eb' e~b'>
+=4 smb Cr
+=4 <smb F_(2 B_b(4 F)1 Ab)3> <Eb(5 eb'(7 e~b'(9>
+=5 smb <B_b(2 Bb(4>
+=6 smb Bb(1
+i0.2                     dim . . .
+| 153
+=1 cro Ab)1 min. F
+I0.8    . . p . .                      . . pp
+=2 smb rest
+=3 smb rest
+=4 smb Cr
+=4 smb <F_)2 B_b)4 Eb)5 eb)7 e~b)9>
+=5 smb <B_b)2 Bb)4>
+i0.8                                       _*
+=6 smb Bb)1
+@
+
+
+1.15
+log
+@rythms adding up in 137 piano
+@
+text
+@d341 1
+d616 2
+a617 1
+=4 <min d f a d~ cro. rest> qua. d,[ smq f]
+d1292 1
+a1292 1
+=5' bass 9/8 smb b' qua bb'(2
+d1303 1
+a1303 1
+=5 cro. <bb)2 e~> <bb g~> <e~ g~>
+@
+
+
+1.14
+log
+@added xs to cure tone-chords
+@
+text
+@d62 1
+a62 1
+i0.8       cresc . . .
+d124 1
+a124 1
+i0.3  8va . . .
+d135 1
+a135 1
+| 17
+d635 2
+a636 2
+=4 < min g' c~' >
+=4 qua. f[ smq d,] qua G[ d'] smq G[ d']
+d643 1
+a643 1
+I0.2  f . . .
+d739 1
+a739 1
+=1 smb rest
+d741 1
+a741 1
+=2 qua G cro G qua G min G
+d743 1
+a743 1
+=3 min rest d
+d745 3
+a747 2
+=4 treble smb < D A e a d~x e~ >
+=5 qua g cro g qua g min g
+d786 1
+a786 1
+=3 treble smb < E A Bx a bx e~ >
+d905 1
+a905 1
+4 bars | 9.2 | 8.3 | 9.5 | 7 |
+d1260 1
+a1260 1
+=4 treble cro. G' cro B' A'
+d1287 5
+a1291 3
+bs0.7                                            3
+=4 treble 9/8 <min. A cro. Eb,> min D, qua. G qua G
+=5 bass 9/8 <min b' cro. f(2> cro f)2 qua e(2 cro e)2 qua bb'(2
+d1298 1
+a1298 1
+bs0.5                                                                                                    3
+d1440 1
+a1440 1
+=2 4/4 smb B_b(1
+d1474 2
+a1475 1
+=4 <smb F_(2 B_bx(4 C F)1 Ab)3> <Eb(5 eb'(7 e~b'(9>
+d1484 2
+a1485 1
+=4 smb <F_)2 B_bx)4 C Eb)5 eb)7 e~b)9>
+@
+
+
+1.13
+log
+@minor; mostly capitalising dynamics
+@
+text
+@d166 1
+a166 1
+=1 tenor qua e[(1 qua. eb])1 qua d[(1 qua. d])1 qua c[(1 qua. c])1
+d729 1
+a729 1
+i0.2   tr . . .
+d745 1
+a745 1
+=4 treble smb < D A e a d~ e~ >
+d785 1
+a785 1
+=3 treble smb < E A B a b e~ >
+d1096 1
+a1096 1
+=5 bass cro eb qua f[ qua. f]
+d1116 1
+a1116 1
+=3 treble 6/16 cro. <B_b C Eb F Bb'>
+d1122 1
+a1122 1
+=3 9/16 min <B_b C D(1 F(3> smq <B_b C D)1(1 F)3(3>
+d1128 1
+a1128 1
+=3 cro. <B_b C D)1 F)3> qua. <B_b C D F>
+d1145 2
+a1146 2
+=3 9/16 min <C D E(1 A(3> smq <C D E)1 A)3>
+=4 9/16 min <g(2 a> smq <g)2 a>
+d1160 1
+a1160 1
+=3 treble 4/16 cro <C D E G>
+d1168 1
+a1168 1
+=3 9/16 min <G_(5 C D(1 F(3> smq <G_)5 C D)1 F)3>
+d1175 1
+a1175 1
+=3 cro. <D F> qua. <C D F>
+d1189 2
+a1190 2
+=4 treble cro <C D E> qua. <C D E[> qua <C D E]>
+=5 bass <cro g' bb'>  qua. <g' a'[> qua <g' bb']>
+d1193 1
+a1193 1
+i0.1                        arco
+d1312 1
+a1312 1
+=6 bass min e cro. d,[ cro d,]
+d1321 1
+a1321 1
+=4 6/8 cro. <G)2(2 A)4(4 B'(1 eb'(3> cro <G)2 A)4 B')1 eb')3> qua <B, g,>
+d1471 1
+a1471 1
+=4 <smb F_(2 B_b(4 C F)1 Ab)3> <Eb(5 eb'(7 e~b'(9>
+d1480 1
+a1480 1
+=4 smb <F_)2 B_b)4 C Eb)5 eb)7 e~b)9>
+@
+
+
+1.12
+log
+@beams up to bar 87
+@
+text
+@d2 1
+a2 1
+pagenum 3
+d10 1
+a10 1
+i0.4 8va . . .
+d12 1
+a12 1
+i0.8      f
+d19 1
+a19 1
+i0.8                     f
+d33 1
+a33 1
+i0.4 8va . . .
+d42 2
+a43 1
+i0.2 pizz   mf
+d54 1
+a54 1
+i0.4 8va . . .
+d61 2
+a62 1
+i0.8  mp  cresc . . .
+d68 1
+a68 1
+pagenum 4
+d75 1
+a75 1
+i0.4 8va . . .
+d84 1
+a84 1
+I0.4      f
+d94 1
+a94 1
+i0.3    8va . . .
+d111 1
+a111 1
+i0.4 8va . . .
+d124 1
+a124 1
+i0.3 8va
+d130 1
+a130 1
+pagenum 5
+d138 2
+a139 1
+i0.7  mf    legato    cresc ...
+d141 1
+a141 1
+i0.3 . . . loc
+d156 2
+a157 1
+i0.2     tr . . .     cresc . . .
+d168 2
+a169 1
+i0.8         f    dim . . .
+d175 2
+a176 1
+i0.2  tr . .    cresc . .
+d182 2
+a183 2
+2 systems /22 30 22 30 22-38-22 35 22 /22 30 22 30 22 30 22-28-22 45 22 /
+pagenum 6
+d189 1
+a189 1
+=1 tenor qua g[(1 qua. g])1(1 smq g)1 cro f# qua e[(1 qua. e])1
+d191 4
+a194 4
+=3 treble min <C# E G B> qua rest smq rest <A_, G,> rest rest <A_, G,>
+i0.3      ff
+=4 bass min < A_ A' e' > qua rest smq <A e'> rest <A e'> <A e'> smq. rest
+=5 bass smq e qua d cro a min g~
+d198 3
+a200 2
+=3 smb <C# E B smq. rest> smq <A_, G,> rest rest <A_, G,> qua rest qua. rest qua A_[ qua. A_]
+=4 smb <A_ smq A e'> smq rest <A e'> <A e'> rest qua rest qua. rest qua rest d'[ smq B]
+d206 1
+a206 1
+i0.1     tr . . . 
+d221 3
+a223 3
+i0.3      ff
+=5 bass min. <G_ G d>
+i0.9  Ped_           . . . 
+d235 1
+a235 1
+i0.3     tr . . .
+d241 2
+a242 2
+2 systems /22 35 22 35 22 35 22-38-22 35 22 /22 35 22 35 22 40 22-33-22 30 22 /
+pagenum 7
+d251 1
+a251 1
+i0.8       mf
+d253 2
+a254 2
+i0.8       f
+i0.2          tr . . .
+d262 1
+a262 1
+i0.1    tr . . .
+d264 1
+a264 1
+i0.1    tr . . .
+d266 1
+a266 1
+=5 min. <G_ G d>
+d274 1
+a274 1
+i0.1    tr . . .
+d276 2
+a277 2
+I0.85  ff
+i0.05    tr . . .
+d290 2
+a291 1
+i0.1          tr . .      dim . .
+d293 1
+a293 1
+i0.1          tr . . .
+d296 1
+a296 1
+i0.6                                                    mf                  mp
+d306 1
+a306 1
+i    p
+d308 2
+a309 2
+=6 3/4 qua a rest min rest
+i0.1 . . . p
+d312 1
+a312 1
+pagenum 8
+d326 1
+a326 1
+i0.2        tr . . .
+d336 1
+a336 1
+i0.2              tr . . .
+d349 2
+a350 2
+2 systems /22 35 22 40 22-38-22 40 22 /22 35 22 40 22-38-22 40 22 /
+pagenum 9
+d358 1
+a358 1
+=3 treble 3/4 smq <A, f[> <A_, F,> <A, f> <A, f]> <A_ F[> <A, f> <A, f> <A_ F]> <A, f[> <A_, F,> <A, f> <A, f]>
+d363 1
+a363 1
+i0.1                                            tr . . .
+d365 1
+a365 1
+=3 smq <B_b D[> <Bb, d> <Bb, d> <B_b, D,]> <Bb, d[> <B_b, D,> <Bb, d> <Bb, d[> <B_b, D,[> <Bb, d> <B_b, D,> <Bb, d]>
+d372 1
+a372 1
+i0.1         . . tr . . .
+d385 2
+a386 2
+2 systems /22 35 22 35 22-35-22 35 22 /22 35 22 35 22-35-22 35 22 /
+pagenum 10
+d395 1
+a395 1
+=3 treble 3/4 smq <c# g#[> <G_#, C#,> <c# g#> <G_#, C#,]> <c# g#[> <c# g#> <G_#, C#,> <c# g#]> <c# fn[> <F_n, C#,> <c# fn> <F_n, C#,]>
+d409 1
+a409 1
+i0.2                                                                            tr . . .
+d411 1
+a411 1
+=3 treble 3/4 smq <[c#' f#'> <c#' f#'> <F_# C#> <c#' f#']> <F_#[ C#> <c#' f#'> <c#' f#'> <F_# C#]> <c[# g#> <G_#, C#,> <c# g#> <c# g#]>
+d416 1
+a416 1
+i0.2     . . . tr . . .
+d422 2
+a423 2
+2 systems /22 30 22 40 22-38-22 40 22 /22 30 22 40 22-38-22 40 22 /
+pagenum 11
+d430 2
+a431 2
+i0.3       . . 8va . .
+=1 treble 3/4 smq f[ db qua f smq db Bb,] [f A, qua f smq A, c] [eb F#, eb Bn, f a]
+d433 1
+a433 1
+=3 treble 3/4 smq <G_, Eb,[> <eb g> <eb g> <G_, Eb,]> <eb g[> <G_, Eb,> <eb g> <eb ]> <A_, C#[> <c# a> <c# a> <A_, C#,]>
+d438 2
+a439 2
+=2 2/4 bass min rest
+=3 2/4 smq <c# e c~#> <E_, C#, E,> <c# e c~#> <c# e c~#> <E_ A_ E> <A' e' a'> <E_ A_ E> <A' e' a'>
+d446 1
+a446 1
+=2 treble 3/4 min. rest
+d453 1
+a453 1
+=3 smq <A, f a[> <A, f a> <F_, A_, F,> <A,] f a>  <Bb, d bb[> <D_, B_b, D,> <Bb, d bb> <D_,] B_b, D,> <G#, e g#[> <G#, e g#> <E_, G_#, E,> <G#,] e g#>
+d457 2
+a458 2
+2 systems /22 30 22 45 22-38-22 40 22 /22 30 22 40 22-38-22 40 22 /
+pagenum 12
+d468 1
+a468 1
+i0.8          pp
+d476 1
+a476 1
+| 50
+d481 1
+a481 1
+=3 qua rest, qua. rest, cro <E,(1 cn(3 e(2>
+d487 2
+a488 2
+=2 cro d smq d qua d[ smq d d]
+=3 cro <E,)1(1 c)3(3 e)2(2> smq <E,)1(1 c)3 e)2(2> cro <E,)1 Bb e)2>
+d497 1
+a497 1
+=2 bass qua. d[ smq d] qua f[ smq f f f]
+d504 2
+a505 2
+=2 5/8 cro G qua d[ G smq d G]
+=3 5/8 min <G,(1 g(2> qua <G,)1 g)2>
+d512 2
+a513 2
+=3 cro <G, g> cro. <D F Bb>
+=4 qua d'[ qua. G] smq G[ qua 'd smq G d']
+d516 2
+a517 2
+2 systems /22 35 22 35 22-35-22 46 22 /22 35 22 35 22-35-22 35 22 /
+pagenum 13
+d527 1
+a527 1
+=4 bass qua G[ qua. d] smq d[ qua. G] smq G
+d538 2
+a539 2
+is0.3          #
+I.01        tr  . . .
+d542 1
+a542 1
+=4 min <B_b(1 Eb(3> qua <B_b)1 Ebi)3>
+a548 1
+is0.3             #
+d560 1
+a560 1
+=4 qua. rest smq d[ qua f] qua. d[ smq d}
+d571 1
+a571 1
+pagenum 14
+d579 1
+a579 1
+=3 treble min <C A' c'> qua <B_ B>
+d586 1
+a586 1
+=3 min <B_b Bb> qua <A_b Ab>
+d602 1
+a602 1
+i0.3                   8vab_     _|
+d618 2
+a619 2
+2 systems /22 35 22 40 22-35-22 50 22 /22 35 22 40 22-35-22 50 22 /
+pagenum 15
+d628 2
+a629 2
+=4 bass <min ab c~ a~b>
+=4 bass qua rest, cro f qua d,[ smq f d,]
+d634 1
+a634 1
+=3 min <G,(2 c(1 g)3> qua <G,)2 c)1 g)3>
+d660 1
+a660 1
+=4 6/8 cro. <G_ G> smq rest cro <G_ G> smq <G_ G>
+d664 1
+a664 1
+pagenum 16
+d677 4
+a680 4
+i0.7                                            cresc . . .
+I0.6                                                                      ff
+=4 bass qua. <G_ G> <G_ G> qua <G_ G> cro <G_ G>
+=5 bass qua d~[ smq f~ g] qua f~[ g cro G](2
+d699 2
+a700 2
+=1 smq f[ d Bb] d[ Bb G,] qua Bb[ smq G,[ qua G[ smq D]
+=2 smq G[ f' d'] <G f'[> d' G] f'[ d <G] f'> qua <G f'[> smq d']
+d707 1
+a707 1
+pagenum 17
+d713 1
+a713 1
+=1 bass 4/4 smb G(2
+d716 1
+a716 1
+=2 bass 4/4 smb G(2
+d727 1
+a727 1
+=1 cro G)2 min. rest
+d730 1
+a730 1
+=2 min. G)2 cro rest
+d745 1
+a745 1
+=4 treble smb < D A e a e~ >
+d753 1
+a753 1
+i    8va . .
+d773 1
+a773 1
+pagenum 18
+d784 3
+a786 3
+I0.8                  pp
+=3 treble smb < E B b e~ >
+I0.9         mf
+d791 1
+a791 1
+=2 qua a[ B, c# B,] e[ B, c G,]
+d797 1
+a797 1
+I0.3         Crotales <or Triangle>
+d807 1
+a807 1
+=3 min <A_(2 A(1> qua <A_)2 A)1> cro. <B_b Bb>
+d815 1
+a815 1
+=2 treble smq rest F[ G F] [A F G F] c'[ F G F] [A F G F]
+d825 2
+a826 2
+2 systems / 22 40 22-30-22 40 22 / 22 40 22-30-22 40 22 /
+pagenum 19
+d828 1
+a828 1
+leftfoot (c) 1994 Peter J Billam XXX
+d833 3
+a835 3
+i0.2        8va . . .
+=2 treble smq rest c d c f c d c bb c eb c f c eb c
+i0.8          mp
+d840 1
+a840 1
+=2 smq f, F, G, F,  Bb, F, G, F,  c, F, Ab, F,  Bb, F, Ab, F,
+d846 1
+a846 1
+il0.5 90
+d849 2
+a850 2
+=2 treble smq eb, F, Bb, F,  c, F, Bb, F,  f, F, Bb, F,  c, F, Bb, F,
+i0.15                mf
+d852 1
+a852 1
+=4 bass min g qua g cro. ab
+d855 2
+a856 2
+=2 smq bb, F, Bb, F,  db, F, Bb, F,  ab, F, Bb, F,  db, F, Bb, F,
+i0.2    cresc . . .
+d858 1
+a858 1
+=4 min db qua db, bb cro db
+d861 1
+a861 1
+pagenum 20
+d868 3
+a870 3
+r0.2                   ,           ,
+=1 treble 10/16 qua. E qua E qua. G qua E
+i0.8        mf                   mp
+d872 5
+a876 5
+=2 treble 10/16 min B qua B
+=3 treble 10/16 min <B_b, D, G,> qua <B_b, D, G, d' d~'>
+i    f
+=4 bass 10/16 min <C_ C> qua <C_ C>
+i0.8    f
+d880 1
+a880 1
+=1 qua. G qua c' Bb, smq c, qua Bb
+d884 2
+a885 2
+=3 qua B_b smq C D E qua C smq D E G
+i0.3   pp
+d887 1
+a887 1
+=5 qua. g qua c~ d~ smq c~ qua d~
+d889 2
+a890 2
+r0.2         ,
+=1 qua G, smq c Bb c  d qua e smq c d
+d892 1
+a892 1
+=3 qua C smq D E G qua D, smq E, G, Bb,
+d894 1
+a894 1
+=5 smq f~ e~ cro d~ smq rest g~ a~ e~
+d897 1
+a897 1
+=1 qua Bb, smq c Bb c qua e smq c qua g
+d899 1
+a899 1
+=3 qua C smq D E G qua D, smq E, G, Bb,
+d902 1
+a902 1
+=5 cro. d~ smq g~ d~ e~ bb
+d906 1
+a906 1
+=1 treble 9/16 cro f qua. g qua c
+d908 2
+a909 2
+=3 treble 9/16 qua D, smq F, G, Bb, F, G, Bb, c,
+i0.3                       mp
+d915 2
+a916 2
+=3 qua C smq D F G D, F, G, Bb,
+i0.4    p
+d918 1
+a918 1
+=5 qua. g~ qua f~ d~ c~
+d920 1
+a920 1
+=1 cro c qua. d qua G,
+d922 1
+a922 1
+=3 smq D F G Bb qua F, smq G, Bb, c
+d927 1
+a927 1
+=1 7/16 qua. e qua G, Bb,
+d929 1
+a929 1
+=3 7/16 smq D, E, G, Bb, E G c'
+d931 1
+a931 1
+=5 7/16 qua bb e~ qua. c~
+d934 1
+a934 1
+pagenum 21
+d941 1
+a941 1
+=1 treble qua. e qua d c
+d943 2
+a944 2
+=3 treble smq E, G, Bb, c G, Bb, d
+i0.1                             mf
+d948 1
+a948 1
+=1 9/16 cro a qua. c qua d
+d950 3
+a952 3
+i0.01  '
+=3 9/16 smq C D F G qua D smq F G A
+i  mp
+d956 1
+a956 1
+=1 cro a qua. g qua f
+d958 1
+a958 1
+=3 qua D smq F G A F G A c'
+d962 1
+a962 1
+=5 min g smq g
+d966 1
+a966 1
+=3 qua D smq F G A F G A c'
+d968 1
+a968 1
+=5 min a smq a
+d972 1
+a972 1
+=1 treble cro. e smq rest A B
+d974 2
+a975 2
+=3 treble smq E G A c' qua G smq A c' d'
+i                        f
+d977 1
+a977 1
+=5 bass min g smq g
+d980 1
+a980 1
+=1 cro e qua. G qua A
+d982 3
+a984 3
+i0.1  '
+=3 smq D E G A qua E smq G A c'
+i  mf
+d988 1
+a988 1
+=1 qua d smq c qua d smq d c qua d
+d990 2
+a991 2
+=3 qua F smq G A c' G, A, c d
+i                 cresc . . .
+d993 2
+a994 2
+=5 qua. g qua g~ g g~
+i0.2                 cresc . . .
+d996 1
+a996 1
+=1 7/16 qua. d smq c qua g smq e
+d998 1
+a998 1
+=3 7/16 smq E, G, Bb, c, G, Bb, d,
+d1001 1
+a1001 1
+i0.2          . . ff
+d1004 1
+a1004 1
+pagenum 22
+d1010 1
+a1010 1
+=1 treble qua. Bb smq c qua G, smq d
+d1012 2
+a1013 2
+=3 treble smq G, Bb, c, d, Bb, c, d,
+i                   ff
+d1017 1
+a1017 1
+=1 9/16 qua g smq f g qua a smq d qua f
+d1019 1
+a1019 1
+=3 9/16 qua f smq g f d Bb f qua d
+d1024 1
+a1024 1
+=1 4/16 qua d~ smq c~ ab
+d1028 1
+a1028 1
+=4 4/16 qua g ab
+d1030 1
+a1030 1
+=5 4/16 qua g ab
+d1033 1
+a1033 1
+=1 9/16 qua. f smq f qua. ab qua f
+d1035 4
+a1038 4
+=2 9/16 qua A_b smq B_b B_b C B_b C C D
+i0.8  p
+=3 9/16 min < F' d' > smq < F' d' >
+=4 9/16 min < ab d~ > smq < ab d~ >
+d1043 4
+a1046 4
+=1 treble cro bb qua. c qua d
+=2 treble smq B_b C C D qua C smq D D F
+=3 treble min < F' c'> smq < F' c'>
+=4 bass min < ab d~ > smq < ab d~ >
+d1049 3
+a1051 3
+=1 qua. c~ smq bb f ab d f bb
+=2 smq B_b C C D qua C smq D D F
+=3 min < F Bb > smq < F Bb >
+d1055 4
+a1058 4
+=1 qua c~ smq bb g f  d~ c~ bb g
+=2 smq C D D F qua D smq F F G
+=3 min < D c' > smq < D c' >
+=4 min < G f' > smq < G f' >
+d1062 1
+a1062 1
+pagenum 23
+d1070 3
+a1072 3
+=1 treble smq d c Bb G, qua f smq d c Bb
+=2 treble qua B_b smq C C D C D D F
+=3 treble min < D' c' > smq < D' c' >
+d1074 1
+a1074 1
+=4 bass min < G' f' > smq < G f' >
+d1077 4
+a1080 4
+=1 smq d c Bb Ab, qua f smq d c Bb
+=2 smq C D D F qua D smq F F Ab
+=3 min < C Bb > smq < C Bb >
+=4 min < Ab f' > smq < Ab f' >
+d1083 4
+a1086 4
+=1 qua f smq d c Bb  g f d rest
+=2 smq C D D F qua D smq F F G
+=3 min <C Bb d'> smq <rest d'>
+=4 min <F g'> smq <F g'>
+d1092 3
+a1094 3
+=1 treble smq eb c Bb G, qua f smq eb c Bb
+=2 treble qua Eb smq F F G F G G Bb
+=3 treble min <C Eb Bb> smq rest
+d1096 1
+a1096 1
+=5 bass cro eb qua f qua. f
+d1098 4
+a1101 4
+=1 12/16 qua f smq eb c  ab f eb c  qua f smq c eb
+=2 12/16 smq B_b C C Eb C Eb Eb F C Eb Eb F
+=3 12/16 min. <B_b Eb Bb>
+i  f
+d1106 1
+a1106 1
+pagenum 24
+d1113 4
+a1116 4
+i    . . . 8va . . .
+=1 treble 6/16 qua g smq f c qua eb
+=2 treble 6/16 smq Eb qua F F smq G
+=3 treble 6/16 cro. <B_b Eb Bb>
+d1120 4
+a1123 4
+=1 9/16 qua ab smq f d c  qua bb smq ab f
+=2 9/16 smq C D D F qua D smq F F Ab
+=3 9/16 min <B_b D F> smq <B_b D F>
+=4 9/16 min <B_b ab'>  smq <B_b ab'>
+d1126 4
+a1129 4
+=1 qua d smq c Bb, G,  qua f smq d c
+=2 smq D F F G qua F smq G G Bb
+=3 cro. <B_b D F> qua. <B_b D F>
+=4 cro. <B_b g'> qua. <B_b ab'> 
+d1135 5
+a1139 4
+=1 treble 14/16 smq e d c Bb qua g smq e d c qua e smq d c Bb,
+=2 treble 14/16 qua C smq D D E qua D smq E E G D E E G
+=3 treble 14/16 smq G_ B_b C D  B_b C E  B_b C D E  C D G
+i0.2      mf                    cresc . . .                            f
+d1141 1
+a1141 1
+=5 bass 14/16 min g qua. rest smq c~ bb a
+d1143 5
+a1147 5
+=1 9/16 smq A G E D qua c' smq A D E
+=2 9/16 qua E smq G G A D E E G
+=3 9/16 min <C E A> smq <C E A>
+=4 9/16 min g smq g
+=5 9/16 min g smq g
+d1150 1
+a1150 1
+pagenum 25
+d1159 2
+a1160 2
+=2 treble 4/16 smq D E E G
+=3 treble 4/16 cro <C E G>
+d1163 1
+a1163 1
+=5 bass 4/16 cro d
+d1165 2
+a1166 2
+=1 9/16 smq a g f d qua g smq f d c
+i0.1                          tr . . .
+d1168 3
+a1170 3
+=3 9/16 min <G_ C F> smq <G_ C F>
+=4 9/16 qua a smq bb bb c~ bb c~ c~ d~
+=5 9/16 cro. d qua. rest
+d1172 2
+a1173 2
+=1 qua Bb' smq G F D  G F D C
+i0.8   mp
+d1175 4
+a1178 3
+=3 cro. <D F> qua. <C F>
+=4 <min g smq bb'> smq c~' c~' qua. bb' a'
+=5 min c smq c
+d1182 1
+a1182 1
+=1 treble qua G smq E D C E D qua C
+d1185 3
+a1187 2
+i0.8                                p ma distinto
+i0.1         tr . . .
+d1189 5
+a1193 4
+=4 treble cro <C E> qua. <C E> qua <C E>
+=5 bass <min C, cro g' bb'> qua. <g'>   qua <g' bb'>
+=6 bass min c smq rest
+i0.2                    arco
+d1195 1
+a1195 1
+=1 6/8 min. C
+d1197 1
+a1197 1
+=3 6/8 smq C, E, F#, E, F#, A, F#, A, c, E, F#, A,
+d1199 3
+a1201 2
+=5 6/8 qua F# f#' cro F# qua F# f#'
+=6 6/8 cro. f# qua c~ e~ c~
+d1204 3
+a1206 3
+=1 5/8 min C qua rest
+=2 5/8 min rest smq B B
+=3 5/8 smq F# A c' C E qua F# A smq B B_
+d1208 2
+a1209 2
+=5 5/8 cro F# qua F# f#' F#
+=6 5/8 cro f# qua c~ e~ c~
+d1212 1
+a1212 1
+pagenum 26
+d1219 2
+a1220 2
+=2 tenor 4/8 qua e smq B qua. d qua rest
+=3 treble 4/8 smq D E D E qua A E
+d1222 1
+a1222 1
+=5 bass 4/8 qua F# F# f#' F#
+d1227 1
+a1227 1
+i0.1      tr . . .
+d1229 1
+a1229 1
+=4 9/16 smq rest e~ qua e smq e~ cro E
+d1236 1
+a1236 1
+i0.1    tr . . .
+d1238 1
+a1238 1
+=4 smq e~ qua e smq e~ cro rest smq rest
+d1241 1
+a1241 1
+=6 cro. g smq f# e B,
+d1245 1
+a1245 1
+=2 6/8 qua. c smq G#, qua B qua rest qua. rest smq c#
+d1247 4
+a1250 3
+=4 6/8 cro. <e e~>             smq rest d  c# C#, qua c#
+=5 6/8 <min. F# cro rest>  smq d' d~' qua d'  qua. rest smq c#
+=6 6/8 qua f# smq g# f# qua g# f# smq b qua. a
+d1256 1
+a1256 1
+=2 tenor cro f smq c# c# cro e smq rest c#
+d1258 7
+a1264 5
+=3 treble qua rest smq G A B A B c#' B, c# e A,
+=4 treble qua G cro B_, qua B' C#, A
+=5 bass <min. c#, cro rest> min a'
+i   8va . . .
+=6 bass cro. g qua f eb Bb,
+d1268 2
+a1269 2
+=2 qua. e qua d smq d qua f rest smq B d
+=3 smq c d c d e d f ab c d f d
+d1276 2
+a1277 2
+2 systems /22 35 22 44 22 46 22-38-22 35 22 /22 35 22 44 22 44 22-39-22 44 22 /
+pagenum 27
+d1284 3
+a1286 2
+=2 tenor 9/8 cro a rest qua d smq B qua e B smq rest qua c#
+=3 treble 9/8 smq f g f g smq3 a A, a smq B d min B qua Bb
+d1288 2
+a1289 2
+=5 bass 9/8 <min b' cro. f> cro f qua e cro e qua bb'
+=6 bass 9/8 cro. f cro f qua e cro. e
+d1292 5
+a1296 2
+=2 cro g qua rest e rest Bb qua. rest qua Bb smq d
+=3 smq3 E_ E B_b smq Bb E qua e smq3 B_b, Bb, G, smq g Bb qua bb smq3 E, e G, smq g e qua e~
+d1298 2
+a1299 2
+=5 cro. <bb e~> <bb g~> <e~ g~>
+=6 min db qua db min c
+d1301 1
+a1301 1
+2 bars | 0.8 1.1 1.1 | 2.6 |
+d1304 1
+a1304 1
+=2 tenor qua. e rest qua d cro f qua rest g a
+d1306 4
+a1309 3
+=3 treble cro. e~ rest qua3 B_b smq3 B_b G G_ G qua3 F smq3 F
+=4 treble cro. <Ab' d'> smq3  D, Ab, D,  Bb, D, Bb,  Ab, Bb, Ab,  d D, d qua G An
+i0.8           f         cresc . . .
+d1311 2
+a1312 2
+=5 bass <cro. d~ rest> cro d~ min f
+=6 bass min e cro. d cro d
+d1316 6
+a1321 6
+=1 6/8 cro. rest qua G, smq B, A, eb g
+=2 6/8 min b cro rest
+i0.8  f
+=3 6/8 smq3 eb Eb, eb B b B g G, g A, a A, eb Eb, eb G_ G G_
+i0.8  ff
+=4 6/8 cro. <G B eb'> cro <G B eb'> qua <B, g,>
+d1326 1
+a1326 1
+pagenum 28
+d1334 4
+a1337 4
+i0.9        f
+=2 tenor qua c#' smq E' c#' qua E' smq c#' qua E' c#' smq rest
+i0.8        mf
+=3 treble smq3 E e' E qua3 C# smq3 C# e, E, e, C#, c#, C#, qua3 F# smq3 F# E e' E
+d1339 1
+a1339 1
+=5 bass qua e smq c~# e qua c~# smq e qua c~# e smq c~#
+d1343 3
+a1345 3
+i0.1  f
+=2 smq cn qua A c smq rest qua e smq G, e qua G,
+=3 smq3 c' C c' A_ A A_ c' C c' G, g G, qua3 e smq3 e D d' D
+d1347 1
+a1347 1
+=5 smq a qua c~ a smq c~  qua g smq e~ g qua e~
+d1352 1
+a1352 1
+i       8va . .
+d1354 2
+a1355 2
+=2 tenor smq rest qua Bb d smq Bb qua d smq Bb d qua Bb
+=3 treble smq3 c' C c' qua3 D, smq3 D, Bb, B_b, Bb, C, c C, qua3 Bb smq3 Bb D d' D
+d1357 1
+a1357 1
+=5 bass smq bb qua d~ bb smq d~ qua bb smq d~ bb qua d~
+d1361 2
+a1362 2
+=2 qua f# smq A f# qua A smq e qua c# e smq c#
+=3 smq3 B' B_ B  F#, f# F#,  qua3 A smq3 A  E e' E  qua3 B smq3 B  C#, c# C#,
+d1364 2
+a1365 2
+=4 <min. B_ cro B> min B
+=5 qua a smq f~# a qua f~#  smq c~# qua e~ c~# smq e~
+d1369 1
+a1369 1
+pagenum 29
+d1375 1
+a1375 1
+il0.8 145
+d1378 5
+a1382 5
+=2 tenor smq e qua c# e smq rest qua f smq A f qua A
+=3 treble smq3 A A_ A  qua3 E, smq3 E, c# C#, c# Fn, f F, a A, a  G, g G,
+i0.2         tr . . .                            tr
+=4 treble cro. A qua G cro G
+=5 bass smq c~# qua e~ c~# smq e~  qua a smq f~ a qua f~
+d1387 4
+a1390 4
+=2 qua f smq A f qua A smq rest qua Bb d smq Bb
+=3 qua3 d smq3 d  F, f F, qua3 a smq3 a  c c~ c  qua3 d smq3 A,  qua C
+i0.15                    tr . . .                                         tr . .
+=4 qua d cro. d cro c
+d1392 1
+a1392 1
+=5 qua a smq f~ a qua f~ smq f qua d~ f smq d~
+d1398 7
+a1404 7
+=2 tenor qua Bb smq d e qua f smq g qua a b smq g
+i0.2         tr
+=3 bass qua. ab qua c~ smq ab  qua d~ smq f d~ qua f
+i0.2         tr . . .
+=4 treble cro Bb qua Bb cro f qua A
+i0.5                                  ff
+=5 bass smq ab qua c~ ab smq c~ qua f smq d~ f qua d~
+d1408 5
+a1412 5
+=2 smq a qua b c~# smq a qua f smq ab gb qua bb
+=3 qua e~b smq g e~b qua g smq ab qua bb c~ smq d~b
+=4 qua3 A_ smq3 A  F f' F  f B, b  B b eb  e~b eb e~b  eb c~ f
+=5 qua g smq e~b g qua e~b  qua d~b smq c~ bb qua f
+=6 cro. g cro g qua f
+d1414 2
+a1415 2
+2 systems /22 40 22 40 22 40 22-30-22 33 22 /22 33 22 33 22 33 22-30-22 33 22 /
+pagenum 30
+d1421 8
+a1428 6
+=1 treble 3/4 qua f smq ab gb cro bb qua bb smq d~b c~
+=2 tenor 3/4 min bb qua bb Bb
+i0.9            sfp       cresc . . .                      >          >
+i0.6            tr . .
+=3 bass 3/4 min e~b qua e~b bb
+i0.9            sfp       cresc . . .                      >          >
+d1433 8
+a1440 6
+il1.1 150
+=1 4/4 min f~ cro rest F
+i0.8       ff    dim . . .    p                   mp
+=2 4/4 smb B_b
+i0.7 ff                         dim . . .
+i0.1      tr . . .
+d1443 1
+a1443 1
+i0.6  ff
+d1447 2
+a1448 1
+i0.2    pizz ff
+d1452 3
+a1454 3
+=1 treble qua F cro Ab qua F  Ab cro F qua Ab
+=2 tenor cro B_b min. rest
+i0.3        . . . pp
+d1456 2
+a1457 2
+=4 treble smb <F Ab>
+i0.7       mp                                  mf
+d1459 2
+a1460 1
+i0.8                       8va basso   mf
+d1462 2
+a1463 1
+i0.1                arco   mf
+d1465 1
+a1465 1
+=1 qua Ab cro F qua Ab cro F Ab
+d1470 4
+a1473 3
+=4 <smb F_ B_b F Ab min rest> <Eb eb' e~b'>
+=5 smb <B_b Bb>
+=6 smb Bb
+d1476 2
+a1477 2
+=1 cro Ab min. F
+i0.8    . . p . .                      . . pp
+d1480 2
+a1481 2
+=4 smb <F_ B_b Eb eb e~b>
+=5 smb <B_b Bb>
+d1483 1
+a1483 1
+=6 smb Bb
+@
+
+
+1.11
+log
+@mixed beams, to muscript 1.6
+@
+text
+@d108 1
+a108 1
+=1 treble 3/4 smq e)1[ d qua e](1 e)1[ smq d e] B'[ e qua d]
+d155 1
+a155 1
+=3 qua g[ smq A, d g] qua c[ smq d g B'] qua d[ smq f G, d]
+d157 1
+a157 1
+=5 min G cro A qua d[ smq c]
+d398 1
+a398 1
+| 43 XXX
+d403 1
+a403 1
+=3 treble 3/4 smq [<c#' f#'>] [] <F_# C#> [] <F_# C#> [] [] <F_# C#> [<c# g#>] <G_#, C#,> [] []
+d407 1
+a407 1
+=1 2/4 qua f smq eb f eb d  eb Gb, eb f d F,
+d410 1
+a410 1
+=3 2/4 smq <A_b, C,> [<c ab>] [] <A_b, C,> [] <A_b, C,> [] []
+d423 1
+a423 1
+=1 treble 3/4 smq f db qua f smq db Bb  f A, qua f smq A, c  eb F#, eb Bn f a
+d425 1
+a425 1
+=3 treble 3/4 smq <G_, Eb,> [<eb g>] [] <G_, Eb,> [] <G_, Eb,> [] [] <A_, C#,> <c# a> <c# a> <A_, C#,>
+d429 1
+a429 1
+=1 2/4 qua bb smq ab g bb ab  qua. g smq a d e
+d431 1
+a431 1
+=3 2/4 smq [<c# e c~#>] <E_, C#, E,> [] [] <E_ A_ E> [<A' e' a'>] <E_ A_ E> []
+d437 1
+a437 1
+=1 treble 3/4 qua f# smq g A, Bb, f#  qua. g smq c# d c#  qua f# qua. Bn smq cn
+d439 1
+a439 1
+=3 treble 3/4 smq <cn e c~n> <E_, Cn, E,> [<c e c~>] [] [<E_, B_, E,>] <B, e b> [] <B, e b> <A, e a> [<E_, A_, E,>] <A, e a> []
+d443 1
+a443 1
+=1 qua. d qua c smq d qua. c smq rest d c cro d qua c#
+d445 1
+a445 1
+=3 smq [<A, f a>] [] <F_, A_, F,> []  [<Bb, d bb> <D_, B_b, D,>] [] [<G#, e g#>] [] <E_, G_#, E,> []
+d459 1
+a459 1
+=2 bass 9/16 qua G smq G G qua G smq G G G
+d461 3
+a463 2
+=3 treble 9/16 <min c# c~# qua rest> qua e qua. f qua e
+i0.8          f
+d471 3
+a473 2
+=2 qua G smq G G G qua G smq G G
+=3 <min e a a~ qua rest> qua. rest cro <E, cn e>
+d475 1
+a475 1
+=5 qua G smq d c A qua. G smq A
+d479 3
+a481 3
+=2 cro d smq d qua d smq d d
+=3 cro [<E, c e>] smq [] cro <E, Bb e>
+i0.2                               f
+d483 1
+a483 1
+=5 cro d smq a qua g smq f d
+d489 2
+a490 2
+=2 bass qua. d smq d qua f smq f f f
+=3 treble cro Bb qua A qua. Ab
+d492 1
+a492 1
+=5 bass qua. d smq e' qua f smq f d f
+d495 5
+a499 4
+i0.8 pp
+=2 5/8 cro G qua d G smq d G
+=3 5/8 min <G, g> qua <G, g>
+=4 5/8 <min Bb bb' cro rest> qua d G smq d G
+d503 1
+a503 1
+=2 qua d' G smq rest G qua d smq G d
+d505 1
+a505 1
+=4 qua d qua. G smq G qua d smq G d
+d517 1
+a517 1
+=2 bass qua G qua. d smq d qua. G smq G
+d519 1
+a519 1
+=4 bass qua G qua. d smq d qua. G smq G
+d522 2
+a523 2
+=1 qua B smq c A qua d B smq eb d
+=2 qua f' smq G f' qua G f' smq G f'
+d525 2
+a526 2
+=4 qua f smq g a c~ a d~ c~ c~ bb
+=5 qua f~ smq g f~ qua g f~ smq g~ f~
+d529 4
+a532 2
+=2 qua G qua. f' smq f' qua G smq f' G
+=3 min G qua G
+d534 2
+a535 2
+=4 min <B_b Eb> qua <B_b Eb>
+=5 qua g~ qua. f~ smq f~ qua g smq f~ g
+d539 7
+a545 5
+=1 tenor qua. Ab smq Ab qua c Bb smq c Ab
+=2 bass qua. f smq f qua d f smq d f
+=3 treble min Bb qua Bb
+=4 bass min <F' f' c~'> qua <F' f' c~'>
+=5 bass qua. f~ smq f~ qua d~ f~ smq d~ f~
+d547 7
+a553 7
+=1 qua. c smq c qua Bb qua. f smq e
+i0.8  . . . mp
+=2 qua d smq rest d qua f qua. d smq d
+=3 min <F, c c~> qua <c c~>
+i0.8  f
+i0.1             mp
+=4 qua. rest smq d qua f qua. d smq d
+d558 1
+a558 1
+=2 qua f d smq f d qua. f smq d
+d560 1
+a560 1
+=4 qua f d smq f d qua. f smq d
+d571 1
+a571 1
+=2 bass qua G qua. f' smq f' qua G smq f' G
+d573 2
+a574 2
+i      f
+=4 bass qua G qua. f' smq f' qua G smq f' G
+d578 1
+a578 1
+=2 qua. f smq f qua d f smq d f
+d580 1
+a580 1
+=4 qua. f smq f qua d f smq d f
+d583 5
+a587 5
+=1 cro rest qua A qua. B smq c
+=2 qua. d smq d qua f qua. d smq d
+=3 min <A, d d~> qua <A, d d~>
+=4 min <g g~> qua <g g~>
+=5 qua. g smq d~ qua f~ qua. d~ smq d~
+d591 2
+a592 2
+=1 tenor qua g ab smq g f qua. ab smq g
+=2 bass qua f d smq f d qua. f smq d
+d596 1
+a596 1
+=5 bass qua f~ d~ smq f~ d~ qua. f~ smq g
+d599 5
+a603 5
+=1 qua. f smq e cro Bb qua rest
+=2 qua. G smq G qua d G smq d G
+=3 min <G_ D> qua <G_ D>
+=4 min <C_ C> qua <C_ C>
+=5 qua. c, smq g qua d~ g smq d~ g
+d605 5
+a609 5
+=1 qua rest qua. c smq A qua. B smq A
+=2 qua d' qua. G smq G qua. d smq d
+=3 min <A, a> qua <A, a>
+=4 <min d f a d~ cro. rest> qua. d smq f
+=5 qua g qua. g g~ qua c~
+d619 4
+a622 3
+=2 bass qua d qua. f smq f qua d smq f d
+=3 treble min <c ab c~> qua <c ab c~>
+=4 bass <min ab c~ a~b qua rest> cro f qua d smq f d
+d625 5
+a629 4
+=1 qua. Bb smq c qua A Bb smq A c
+=2 qua. f smq d qua G d smq G d
+=3 min <G, c g> qua <G, c g>
+=4 < min g c~ qua. f > smq d qua G d smq G d
+d633 4
+a636 4
+=1 qua Bb qua. f smq c qua. f smq G,
+=2 qua G qua. d smq d qua. G smq G
+=3 qua rest qua. <f f~> smq <c c~> qua. <d d~> smq <G, g>
+i0.2  f . . .
+d639 1
+a639 1
+i0.2  f . . .
+d645 2
+a646 2
+=2 bass qua f' smq G f' qua G qua. f smq f
+=3 treble qua. <c c~> smq <F, f> qua. <Bb bb> <A, a>
+d650 3
+a652 3
+=1 6/8 qua d smq c B qua f smq A d qua f smq rest f
+=2 6/8 qua G smq d f' qua d' smq f' G qua. d smq G
+=3 6/8 qua <D, d> smq c A, qua <F, f> smq A, d qua. <F, f> smq f
+d654 1
+a654 1
+=5 6/8 qua g smq d~ f~ qua d~ smq f~ g qua. d~ smq g
+d663 9
+a671 6
+=1 tenor qua g smq a g qua d smq f g qua. b smq g
+i0.8                                            cresc . . .            f
+=2 bass qua d' smq f' G qua f' smq G d qua. G smq d
+i0.8                                            cresc . . .            ff
+=3 treble qua <G, g> smq a g qua d smq f g qua. <B b> smq <G, g>
+i0.8                                            cresc . . .            ff
+d673 1
+a673 1
+=5 bass qua d~ smq f~ g qua f~ g cro G
+d676 1
+a676 1
+=2 qua f' smq G d qua G smq f' G qua d smq f' G
+d678 2
+a679 2
+=4 qua <G_ G> smq G d qua G smq f' G qua d smq f' G
+=5 cro G qua. c qua A qua. f
+d683 7
+a689 6
+=1 tenor qua c smq d qua A smq c qua. f qua d smq Bb
+=2 bass smq d' f' G qua f smq d qua G smq d f' G d
+=3 treble qua c smq d qua A, smq c qua. f qua d smq Bb
+i0.4    f    cresc . . .
+=4 bass smq d f g qua f smq d qua G smq d f' G d
+=5 bass cro. a qua. g qua f~ smq d~
+d692 6
+a697 6
+=1 smq f d Bb d Bb G, qua Bb smq G, qua G smq D
+=2 smq G f' d <G f'> d G f' d <G f'> qua <G f'> smq d
+=3 smq f d qua c smq d c d f qua bb smq g bb
+=4 smq G f' d' <G f'> d G f' d <G f'> qua <G f'> smq D
+=5 smq g f~ d~ g d~ g f~ d~ f~ qua g smq d
+i ff
+d706 1
+a706 1
+=1 bass 4/4 smb G
+d708 2
+a709 2
+i0.1          tr . . .
+=2 bass 4/4 smb G
+d711 1
+a711 1
+i0.4             tr . . .
+d713 3
+a715 2
+i          ff      dim . . .                  . . pp
+=4 bass 4/4 smb <G_ G>
+d717 2
+a718 1
+i0.3          ff      dim . . .
+d720 2
+a721 2
+=1 cro G min. rest
+i0.8      . . pp
+d723 2
+a724 2
+=2 min. G cro rest
+i0.8                     . . pp
+d726 3
+a728 3
+i0.8    mf
+=4 smb <G_ G>
+i0.8                                                       mp
+d733 1
+a733 1
+i0.2   pp . . .
+d737 1
+a737 1
+i0.8                           p
+d740 1
+a740 1
+i0.2   pp . . .
+d774 1
+a774 1
+i0.9         ppp
+d776 2
+a777 2
+=2 treble qua rest B, c# B e B d B
+i0.8                  pp
+d779 2
+a780 1
+i0.9         mf     con Pedale ...
+d784 1
+a784 1
+=2 qua a B c# B e B c G,
+d792 2
+a793 2
+i      8va . . .
+=2 treble qua rest smq A, G, c, G, Bb, G, d, G, Bb, G, c G, A, G,
+d799 3
+a801 3
+=2 qua g smq f g d g f g c g f g d' G F G
+=3 min <A_ A> qua <A_ A> cro. <B_b Bb>
+=4 min c~ qua c~ cro. d~
+d805 1
+a805 1
+i0.2         p
+d807 3
+a809 3
+i0.2         8va . . .
+=2 treble smq rest F G F  A F G F  c' F G F  A F G F
+i0.8         p
+d814 1
+a814 1
+=2 smq eb, F, G, F, Bb, F, G, F, c, F, G, F, Bb, F, G, F,
+d821 1
+a821 1
+leftfoot (c) 1994 Peter J Billam
+@
+
+
+1.10
+log
+@spacing of bar 111
+@
+text
+@d1 5
+a5 2
+* page 1
+3 systems / 22 30 22-28-22 30 22 / 22 30 22-28-22 30 22 / 22 30 22-28-22 30 22 /
+a8 1
+bl1.0 Peter Billam - Trombone Quintet
+d11 1
+a11 1
+=2 treble 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+d18 1
+a18 1
+=1 2/4 qua. rest smq A qua G smq A G
+d25 2
+a26 2
+=1 3/4 qua A smq G A qua A smq G A qua A smq B A
+=2 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+d32 1
+a32 1
+=1 treble 4/4 smq A B A B B A qua B smq B A qua B smq B A qua B
+d39 2
+a40 2
+=1 3/4 smq A B qua A smq B qua. A smq B qua. A
+=2 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+d45 1
+a45 1
+=1 2/4 smq G qua A smq G smq A qua G smq A
+d52 1
+a52 1
+=1 treble 3/4 qua. G smq B qua. A, smq c# qua A, smq c# B
+d54 1
+a54 1
+=2 treble 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+d58 1
+a58 1
+=1 4/4 qua c# smq A, c# qua c# smq B c# qua c# smq e c# c# f# e f#
+d61 2
+a62 1
+=3 4/4 (smb A A_ qua. rest) smq b  e~ g qua b  smq e~ g b f#  f# b e~ f#
+d64 5
+a68 2
+* page 2
+3 systems / 22 33 22-30-22 33 22 / 22 33 22-30-22 33 22 / 22 33 22-30-22 33 22 /
+d72 1
+a72 1
+=1 treble smq f# c# qua f# smq f# e qua f# smq f# c# qua e smq c# f# qua c#
+d75 2
+a76 1
+=3 bass (smb A_ qua e~) smq a~ b e~ qua a~ smq b min e~
+d80 3
+a82 3
+=1 3/4 smq e qua. c# smq f# qua. c# smq A qua B smq A
+=2 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+i      f
+d88 1
+a88 1
+=1 treble 2/4 smq c# qua B smq c# qua. A smq B
+d93 1
+a93 1
+=4 bass 2/4 qua g a b c~#
+d95 2
+a96 2
+=1 3/4 qua. A smq d' qua A smq B A qua d smq A, d
+=2 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+d99 1
+a99 1
+=4 3/4 qua g f# cro g g
+d101 2
+a102 2
+=1 4/4 qua d smq B d qua d smq e d d e d e e d qua e
+=2 4/4 qua G smq A B B G A B B G A B qua F# smq A B
+d108 1
+a108 1
+=1 treble 3/4 smq e d qua e e smq d e B e qua d
+d110 2
+a111 2
+=2 treble 3/4 smq a qua A, smq a A_ qua. rest smq a qua A, smq a
+=3 treble 3/4 qua F# smq A B F# qua A smq B qua E smq A B
+d115 1
+a115 1
+=1 2/4 smq e qua. d smq e qua. A,
+d117 1
+a117 1
+=2 2/4 smq E, qua A, smq c# qua E, smq A, c#
+d119 1
+a119 1
+=4 2/4 cro. A qua e~
+d121 1
+a121 1
+=1 3/4 smq E qua A smq E D qua E smq G qua. E smq D
+d123 8
+a130 5
+=2 3/4 smq a qua A, smq a qua A_ rest smq a qua A, smq a
+=3 3/4 qua E smq A d' qua E smq A d' E qua A smq d'
+=4 3/4 qua e~ cro e~ cro. e~
+* page 3
+2 systems / 22 33 22 36 22-32-22 40 22 / 22 33 22 36 22-28-22 42 22 /
+d135 1
+a135 1
+=1 tenor 15/16 qua c qua. c qua c qua. c qua B qua. B
+d137 1
+a137 1
+=2 treble 15/16 smq C qua D C cro C smq rest cro rest smq rest
+d139 3
+a141 3
+=3 treble 15/16 qua rest smq A, d E, qua A, smq d E, A, qua d smq E, A, d
+i    f
+=4 bass 15/16 min. (D_ D A)
+d145 1
+a145 1
+=1 qua A qua. A qua. A qua rest smq rest cro G
+d147 2
+a148 2
+=3 qua A smq d' E B qua d smq E, B d qua F, smq B d f
+=4 min. (D d' a')
+d153 1
+a153 1
+i0.2      tr . . .    cresc . . .
+d155 3
+a157 3
+=3 qua g smq A, d g qua c smq d g B qua d smq f G, d
+=4 min. ( G, g d~ )
+=5 min G cro A qua d smq c
+d162 1
+a162 1
+=1 tenor qua eb qua. eb qua d qua. d qua c qua. c
+d165 3
+a167 3
+=3 treble qua c smq g A, c qua g smq Bb c g qua Bb smq eb g c
+=4 bass min. ( F, f c~ )
+=5 bass smq f qua g cro bb min g
+d169 1
+a169 1
+=1 qua Bb qua. Bb cro. A cro rest
+d171 9
+a179 6
+=2 qua c qua. c qua c qua. c# qua c# qua. c#
+=3 qua g smq c eb g qua c smq eb g db qua en smq g db E,
+=4 min ( F F_ ) qua ( F F_ ) rest qua. rest
+=5 min c~ cro bb qua a smq g
+* page 4
+2 systems / 22 30 22 30 22-38-22 35 22 / 22 30 22 30 22 30 22-28-22 45 22 /
+d183 3
+a185 3
+=1 tenor qua g qua. g smq g cro f# qua e qua. e
+=2 treble qua c# smq e a c# qua e smq a c# e qua a smq c# f# a
+=3 treble min (C# E G B) qua rest smq rest (A_, G,) rest rest (A_, G,)
+d187 1
+a187 1
+=4 bass min ( A_ A' e' ) qua rest smq (A e') rest (A e') (A e') smq. rest
+d190 5
+a194 5
+=1 qua d# qua. d# cro. c# cro rest
+=2 qua f# smq b c# f# qua b smq c# f# b qua c# smq a b e
+=3 smb (C# E B smq. rest) smq (A_, G,) rest rest (A_, G,) qua rest qua. rest qua A_ qua. A_
+=4 smb (A_ smq A e') smq rest (A e') (A e') rest qua rest qua. rest qua rest d smq B
+=5 min d cro A qua d~ smq b
+d196 3
+a198 3
+=1 qua b qua. b qua. a qua g qua g qua. d
+i0.9     f
+=2 qua b smq e a b qua e smq a b fn qua b smq f a b
+d201 3
+a203 3
+i0.2       ff
+=4 smq A qua G cro E min D
+=5 smq a qua g cro e min d
+d209 1
+a209 1
+=1 treble qua rest qua. rest  qua ab qua. ab  smq ab qua g smq d g
+d212 2
+a213 2
+=3 treble qua d~ smq a c~ f d B d d B d B d d B
+=4 treble min. (B_ D F A)
+d215 1
+a215 1
+=5 bass min. (G_ G d)
+d217 1
+a217 1
+=6 bass min G cro g qua d~ smq a
+d219 1
+a219 1
+=1 qua. f smq rest smq d  qua f qua. A,  qua A qua. A
+d221 1
+a221 1
+=3 qua d' smq A d' A_ qua D smq C d' c' qua d' smq C D C
+d223 2
+a224 2
+=5 min. (G_ G)
+=6 min g cro f~ qua g~ smq a~
+d226 1
+a226 1
+=1 qua rest qua. A  qua Bb qua. Bb  smq A F G qua E
+d228 1
+a228 1
+10.3     tr . . .
+d231 7
+a237 4
+=5 min. (G_ G)
+=6 min g~ cro f~ qua c~ smq a
+* page 5
+2 systems / 22 35 22 35 22 35 22-38-22 35 22 / 22 35 22 35 22 40 22-33-22 30 22 /
+d242 2
+a243 2
+=1 treble min. E qua. rest
+=2 tenor qua d qua. d qua. c qua B qua B qua. A
+d249 2
+a250 2
+=5 bass min. (G_ G)
+=6 bass min smq g qua f cro d min f
+d253 1
+a253 1
+=2 qua f qua. f qua. e qua d qua c# qua. c#
+d259 2
+a260 2
+=5 min. (G_ G d)
+=6 min G cro f qua e' smq c#
+d265 2
+a266 2
+=2 qua. rest qua a qua. a qua b qua. c~# qua e
+i0.8    f
+d269 1
+a269 1
+i0.85  ff
+d272 3
+a274 3
+i0.1     ff
+=5 qua rest qua. rest qua rest qua. rest qua A qua. A
+=6 min G cro f qua c# smq e'
+d281 2
+a282 1
+i0.9         ff      dim . .
+d286 6
+a291 4
+=4 treble qua B_ qua. B_ smq B_ C# E G B qua (b b~) qua. (b b~)
+=5 bass qua rest qua. rest qua A qua. A qua A qua. A
+=6 bass min. a
+i0.1  ff   dim . . .
+d294 1
+a294 1
+=1 3/4 smq F# G# A B A G#  F# A G# B Gn B  G Bb G Bb F# Ab
+d297 1
+a297 1
+=4 3/4 smq [ (c# e) (C#, E,) (c# e) (c# e) ] (C#, E,) (c# e) (C#, E,) (c# e) []
+d302 5
+a306 2
+* page 6
+2 systems / 22 30 22 40 22-36-22 40 22 / 22 30 22 40 22-36-22 40 22 /
+d310 1
+a310 1
+=1 treble qua F# smq rest B qua F# smq G, B, d g f# g  g e g B d c
+d312 1
+a312 1
+=3 treble smq (A_ E) [ (A e') (A_ E) (A e') ] [] (A_ E) (A e') []
+d317 1
+a317 1
+=1 2/4 qua g smq f# qua. g smq rest f# g bb a f#
+d320 1
+a320 1
+=3 2/4 smq (c e) (C, E,) (c e) (C, E,) (c e) (c e) (C, E,) (c e)
+d327 1
+a327 1
+=1 treble 3/4 qua g smq rest f# qua g smq c# d c# qua g smq f#  qua c# smq e g a g
+d330 1
+a330 1
+=3 treble 3/4 smq [ (B, e,) (B_, E,) ] [] (B, e,) [] [] (B, e,) []
+d334 1
+a334 1
+=1 2/4 qua b smq g d B c qua g smq c d qua g
+d336 1
+a336 1
+=3 2/4 smq (e g) (e g) (E, G,) (e g) (E, G,) (e g) (e g) (E, G,)
+d339 6
+a344 3
+i0.2   p
+* page 7
+2 systems / 22 35 22 40 22-38-22 40 22 / 22 35 22 40 22-38-22 40 22 /
+d348 1
+a348 1
+=1 treble 3/4 qua d smq c d qua c  smq eb c qua g smq c eb  qua c smq d c qua d
+d350 1
+a350 1
+=3 treble 3/4 smq [(A, f) (A_, F,) (A, f) (A, f)] (A_ F) (A, f) (A, f) (A_ F) []
+d354 1
+a354 1
+=1 qua e smq g e qua g  smq f g qua f smq ab f  qua. ab smq g qua f
+d357 1
+a357 1
+=3 smq (B_b D) (Bb, d) [(Bb, d) (B_b, D,)] [] (Bb, d) [] [] (Bb, d)
+d363 1
+a363 1
+=1 treble 2/4 qua c~# smq b qua a# smq rest  a# qua b qua. c#
+d366 1
+a366 1
+=3 treble 2/4 smq [(G#, e) (G_#, E,)] (G#, e) [] [] (G#, e)
+d371 1
+a371 1
+=1 qua a smq g# qua. f#  smq gn b g a# g# a#
+d373 1
+a373 1
+=3 smq [(c# e) (E_, C#,)] (c# e) [] [] (c# e)
+d376 5
+a380 2
+* page 8
+2 systems / 22 35 22 35 22-35-22 35 22 / 22 35 22 35 22-35-22 35 22 /
+d385 1
+a385 1
+=1 treble 3/4 smq F#, A#, F#, qua d# smq c# qua B smq A#, B, fn d# G#, B, G#, qua Bb, smq Gn,
+d387 1
+a387 1
+=3 treble 3/4 smq [(c# g#) (G_#, C#,)] [] (c# g#) [] (c# g#) [(c# fn) (F_n, C#,)] []
+d391 1
+a391 1
+=1 2/4 qua Bb, smq G, Bb, G, db  A, F#, A, Bn, qua e
+d393 1
+a393 1
+=3 2/4 smq [(c#' e')] [] (E_ C#) [] (E_ C#) [] [] (E_ C#)
+d398 1
+a398 1
+| 43
+d400 1
+a400 1
+=1 treble 3/4 qua. A# smq B qua D# E smq A qua. G# qua F# smq Fn qua. Bb
+d403 1
+a403 1
+=3 treble 3/4 smq [(c#' f#')] [] (F_# C#) [] (F_# C#) [] [] (F_# C#) [(c# g#)] (G_#, C#,) [] []
+d410 1
+a410 1
+=3 2/4 smq (A_b, C,) [(c ab)] [] (A_b, C,) [] (A_b, C,) [] []
+d413 5
+a417 2
+* page 9
+2 systems / 22 30 22 40 22-38-22 40 22 / 22 30 22 40 22-38-22 40 22 /
+d425 1
+a425 1
+=3 treble 3/4 smq (G_, Eb,) [(eb g)] [] (G_, Eb,) [] (G_, Eb,) [] [] (A_, C#,) (c# a) (c# a) (A_, C#,)
+d431 1
+a431 1
+=3 2/4 smq [(c# e c~#)] (E_, C#, E,) [] [] (E_ A_ E) [(A' e' a')] (E_ A_ E) []
+d439 1
+a439 1
+=3 treble 3/4 smq (cn e c~n) (E_, Cn, E,) [(c e c~)] [] [(E_, B_, E,)] (B, e b) [] (B, e b) (A, e a) [(E_, A_, E,)] (A, e a) []
+d445 1
+a445 1
+=3 smq [(A, f a)] [] (F_, A_, F,) []  [(Bb, d bb) (D_, B_b, D,)] [] [(G#, e g#)] [] (E_, G_#, E,) []
+d448 5
+a452 2
+* page 10
+2 systems / 22 30 22 45 22-38-22 40 22 / 22 30 22 40 22-38-22 40 22 /
+d461 1
+a461 1
+=3 treble 9/16 (min c# c~# qua rest) qua e qua. f qua e
+d463 1
+a463 1
+=4 bass 9/16 min (e c~# e~)
+d471 1
+a471 1
+=3 (min e a a~ qua rest) qua. rest cro (E, cn e)
+d478 1
+a478 1
+=3 cro [(E, c e)] smq [] cro (E, Bb e)
+d492 1
+a492 1
+=1 5/8 min G qua G
+d495 2
+a496 2
+=3 5/8 min (G, g) qua (G, g)
+=4 5/8 (min Bb bb' cro rest) qua d G smq d G
+d501 1
+a501 1
+=3 cro (G, g) cro. (D F Bb)
+d504 5
+a508 2
+* page 11
+2 systems / 22 35 22 35 22-35-22 46 22 / 22 35 22 35 22-35-22 35 22 /
+d529 1
+a529 1
+=4 min (B_b Eb) qua (B_b Eb)
+d537 1
+a537 1
+=4 bass min (F' f' c~') qua (F' f' c~')
+d543 1
+a543 1
+=3 min (F, c c~) qua (c c~)
+d552 1
+a552 1
+=3 min (B b) qua (A, c a)
+d555 5
+a559 2
+* page 12
+2 systems / 22 35 22 40 22-38-22 35 22 / 22 35 22 35 22-35-22 48 22 /
+d565 1
+a565 1
+=3 treble min (C A' c') qua (B_ B)
+d572 1
+a572 1
+=3 min (B_b Bb) qua (A_b Ab)
+d578 2
+a579 2
+=3 min (A, d d~) qua (A, d d~)
+=4 min (g g~) qua (g g~)
+d587 1
+a587 1
+=4 bass min (B_b F Bb) qua (B_b Bb)
+d594 2
+a595 2
+=3 min (G_ D) qua (G_ D)
+=4 min (C_ C) qua (C_ C)
+d600 2
+a601 2
+=3 min (A, a) qua (A, a)
+=4 (min d f a d~ cro. rest) qua. d smq f
+d603 5
+a607 2
+* page 13
+2 systems / 22 35 22 40 22-35-22 50 22 / 22 35 22 40 22-35-22 50 22 /
+d613 2
+a614 2
+=3 treble min (c ab c~) qua (c ab c~)
+=4 bass (min ab c~ a~b qua rest) cro f qua d smq f d
+d619 2
+a620 2
+=3 min (G, c g) qua (G, c g)
+=4 ( min g c~ qua. f ) smq d qua G d smq G d
+d626 1
+a626 1
+=3 qua rest qua. (f f~) smq (c c~) qua. (d d~) smq (G, g)
+d628 1
+a628 1
+=4 min (C_ C) qua (D_ D)
+d637 2
+a638 2
+=3 treble qua. (c c~) smq (F, f) qua. (Bb bb) (A, a)
+=4 bass min (E_b Eb) qua (F_ F)
+d643 2
+a644 2
+=3 6/8 qua (D, d) smq c A, qua (F, f) smq A, d qua. (F, f) smq f
+=4 6/8 cro. (G_ G) smq rest cro (G_ G) smq (G_ G)
+d646 5
+a650 2
+* page 14
+2 systems / 22 40 22 40 22-28-22 50 22 / 22 40 22 40 22-28-22 50 22 /
+d658 1
+a658 1
+=3 treble qua (G, g) smq a g qua d smq f g qua. (B b) smq (G, g)
+d660 1
+a660 1
+=4 bass qua. (G_ G) (G_ G) qua (G_ G) cro (G_ G)
+d665 2
+a666 2
+=3 cro. (A, a) rest
+=4 qua (G_ G) smq G d qua G smq f' G qua d smq f' G
+d680 1
+a680 1
+=2 smq G f' d (G f') d G f' d (G f') qua (G f') smq d
+d682 1
+a682 1
+=4 smq G f' d' (G f') d G f' d (G f') qua (G f') smq D
+d685 5
+a689 2
+* page 15
+2 systems / 22 40 22 50 22-30-22 50 22 / 22 40 22 40 22-30-22 50 22 /
+d699 1
+a699 1
+=3 treble 4/4 smb (a c~)
+d701 1
+a701 1
+=4 bass 4/4 smb (G_ G)
+d712 1
+a712 1
+=4 smb (G_ G)
+d723 1
+a723 1
+=4 treble smb ( D A e a e~ )
+d740 1
+a740 1
+=4 smb ( E A d a d~ )
+d749 5
+a753 2
+* page 16
+3 systems / 22 30 22-28-22 35 22 / 22 30 22-28-22 40 22 / 22 30 22-28-22 50 22 /
+d763 1
+a763 1
+=3 treble smb ( E B b e~ )
+d774 1
+a774 1
+I0.3         Crotales (or Triangle)
+d778 1
+a778 1
+=3 treble smb (D_ Cn G d)
+d784 1
+a784 1
+=3 min (A_ A) qua (A_ A) cro. (B_b Bb)
+d794 1
+a794 1
+=3 treble smb (E_b C Eb c)
+d801 1
+a801 1
+* page 17
+d803 3
+d813 1
+a813 1
+=3 treble smb (B_b F c f bb)
+d828 1
+a828 1
+=3 bass smb (eb bb e~b)
+d836 1
+a836 1
+* page 18
+d838 3
+d850 1
+a850 1
+=3 treble 10/16 min (B_b, D, G,) qua (B_b, D, G, d' d~')
+d852 1
+a852 1
+=4 bass 10/16 min (C_ C) qua (C_ C)
+d909 1
+a909 1
+* page 19
+d911 3
+d979 1
+a979 1
+* page 20
+d981 3
+d1014 2
+a1015 2
+=3 9/16 min ( F' d' ) smq ( F' d' )
+=4 9/16 min ( ab d~ ) smq ( ab d~ )
+d1022 2
+a1023 2
+=3 treble min ( F' c') smq ( F' c')
+=4 bass min ( ab d~ ) smq ( ab d~ )
+d1028 2
+a1029 2
+=3 min ( F Bb ) smq ( F Bb )
+=4 min ( ab d~ ) smq rest
+d1034 2
+a1035 2
+=3 min ( D c' ) smq ( D c' )
+=4 min ( G f' ) smq ( G f' )
+d1037 1
+a1037 1
+* page 21
+d1039 3
+d1049 1
+a1049 1
+=3 treble min ( D' c' ) smq ( D' c' )
+d1051 1
+a1051 1
+=4 bass min ( G' f' ) smq ( G f' )
+d1056 2
+a1057 2
+=3 min ( C Bb ) smq ( C Bb )
+=4 min ( Ab f' ) smq ( Ab f' )
+d1062 2
+a1063 2
+=3 min (C Bb d') smq (rest d')
+=4 min (F g') smq (F g')
+d1071 2
+a1072 2
+=3 treble min (C Eb Bb) smq rest
+=4 bass min (G f') smq rest
+d1077 1
+a1077 1
+=3 12/16 min. (B_b Eb Bb)
+d1081 1
+a1081 1
+* page 21
+d1083 3
+d1093 1
+a1093 1
+=3 treble 6/16 cro. (B_b Eb Bb)
+d1099 2
+a1100 2
+=3 9/16 min (B_b D F) smq (B_b D F)
+=4 9/16 min (B_b ab')  smq (B_b ab')
+d1105 2
+a1106 2
+=3 cro. (B_b D F) qua. (B_b D F)
+=4 cro. (B_b g') qua. (B_b ab') 
+d1121 1
+a1121 1
+=3 9/16 min (C E A) smq (C E A)
+d1124 1
+a1124 1
+* page 22
+d1126 3
+d1136 2
+a1137 2
+=3 treble 4/16 cro (C E G)
+=4 bass 4/16 cro (g bb)
+d1144 1
+a1144 1
+=3 9/16 min (G_ C F) smq (G_ C F)
+d1151 2
+a1152 2
+=3 cro. (D F) qua. (C F)
+=4 (min g smq bb') smq c~' c~' qua. bb' a'
+d1163 2
+a1164 2
+=4 treble cro (C E) qua. (C E) qua (C E)
+=5 bass (min C, cro g' bb') qua. (g')   qua (g' bb')
+d1171 1
+a1171 1
+=4 6/8 cro. (C E) cro. F#
+d1182 5
+a1186 2
+* page 23
+2 systems / 22 33 22 33 22 44 22-33-22 44 22 / 22 33 22 33 22 44 22-36-22 44 22 /
+d1193 1
+a1193 1
+=4 treble 4/8 min (F#, f#)
+d1219 2
+a1220 2
+=4 6/8 cro. (e e~)             smq rest d  c# C#, qua c#
+=5 6/8 (min. F# cro rest)  smq d' d~' qua d'  qua. rest smq c#
+d1231 1
+a1231 1
+=5 bass (min. c#, cro rest) min a'
+d1239 1
+a1239 1
+=4 cro. (E Ab) (D Ab)
+d1244 5
+a1248 2
+* page 24
+2 systems / 22 35 22 44 22 46 22-38-22 35 22 / 22 35 22 44 22 44 22-39-22 44 22 /
+d1255 2
+a1256 2
+=4 treble 9/8 (min. A cro. Eb,) min D, qua. G qua G
+=5 bass 9/8 (min b' cro. f) cro f qua e cro e qua bb'
+d1262 2
+a1263 2
+=4 cro. (Bb e) (Bb g) e
+=5 cro. (bb e~) (bb g~) (e~ g~)
+d1272 1
+a1272 1
+=4 treble cro. (Ab' d') smq3  D, Ab, D,  Bb, D, Bb,  Ab, Bb, Ab,  d D, d qua G An
+d1275 1
+a1275 1
+=5 bass (cro. d~ rest) cro d~ min f
+d1285 2
+a1286 2
+=4 6/8 cro. (G B eb') cro (G B eb') qua (B, g,)
+=5 6/8 min e~b cro (g e~b)
+d1288 5
+a1292 2
+* page 25
+2 systems / 22 33 22 44 22 44 22-40-22 33 22 / 22 33 22 44 22 44 22-40-22 44 22 /
+d1302 1
+a1302 1
+=4 treble cro. (G#, g#) (F#, f#)
+d1310 1
+a1310 1
+=4 cro. (E, e) (D, d)
+d1320 1
+a1320 1
+=4 treble min. (C c')
+d1328 1
+a1328 1
+=4 (min. B_ cro B) min B
+d1331 5
+a1335 2
+* page 26
+2 systems / 22 33 22 33 22 40 22-44-22 40 22 / 22 33 22 33 22 40 22-44-22 40 22 /
+d1377 5
+a1381 1
+2 systems / 22 40 22 40 22 40 22-30-22 33 22 / 22 33 22 33 22 33 22-30-22 33 22 /
+d1402 1
+a1402 1
+=4 4/4 smb (Eb Bb eb)
+d1404 1
+a1404 1
+=5 4/4 smb (Bb eb bb)
+d1415 1
+a1415 1
+=4 treble smb (F Ab)
+d1427 2
+a1428 2
+=4 (smb F_ B_b F Ab min rest) (Eb eb' e~b')
+=5 smb (B_b Bb)
+d1436 2
+a1437 2
+=4 smb (F_ B_b Eb eb e~b)
+=5 smb (B_b Bb)
+@
+
+
+1.9
+log
+@more stems, text positions
+@
+text
+@d921 1
+a921 1
+4 bars | 10 | 11 | 6 | 11 |
+@
+
+
+1.8
+log
+@positioning  in bars 88,90
+@
+text
+@d841 1
+a841 1
+=3 smq D F G Bb qua F smq G Bb c
+d859 2
+a860 2
+=3 treble smq E G Bb c G Bb d
+i                         mf
+d1021 5
+a1025 5
+=1 6/16 treble qua g smq f c qua eb
+=2 6/16 treble smq Eb qua F F smq G
+=3 6/16 treble cro. (B_b Eb Bb)
+=4 6/16 bass cro. g
+=5 6/16 bass cro. G
+d1122 1
+a1122 1
+=2 9/16 cro B smq rest qua c smq rest G
+d1154 2
+a1155 2
+=4 treble qua G cro B_, qua B C#, A
+=5 bass (min. c# cro rest) min a
+d1157 1
+a1157 1
+=6 bass cro. g qua f eb Bb
+d1193 1
+a1193 1
+=4 treble cro. (Ab' d') smq3  D, Ab, D,  Bb, D, Bb,  Ab, Bb, Ab,  d D, d qua G A
+d1259 1
+a1259 1
+i0.2         tr . . .
+d1268 1
+a1268 1
+i0.15                    tr . . .
+d1270 1
+d1282 1
+d1299 1
+d1301 1
+d1306 1
+a1306 1
+il1.0 150
+d1327 1
+a1327 1
+i0.7       mp
+d1334 1
+a1334 1
+i0.2                    dim . . .
+d1337 1
+d1344 1
+a1344 1
+i0.2    . . p . .                      . . pp
+@
+
+
+1.7
+log
+@piano LH bar 78 is treble not bass
+@
+text
+@d755 1
+a755 1
+i      8va . . .
+d770 1
+a770 1
+i       loc
+d772 1
+a772 1
+i0.8      mf
+@
+
+
+1.6
+log
+@smq in bass at end of 74
+@
+text
+@d674 1
+a674 1
+=4 smb ( D A e a e~ )
+d684 1
+a684 1
+=4 bass
+@
+
+
+1.5
+log
+@two stems in bar 71
+@
+text
+@d630 1
+a630 1
+=5 bass cro. a qua. g qua f~ d~
+@
+
+
+1.4
+log
+@stems in 61, 65, 8vab in 64
+@
+text
+@d600 1
+a600 1
+=3 6/8 qua (D, d) smq c A qua (F, f) smq A d qua. (F, f) smq f
+@
+
+
+1.3
+log
+@more stems up to bar 55
+@
+text
+@d527 1
+a527 1
+=4 bass qua G qua. f smq f qua G smq f G
+d548 1
+d556 1
+a556 1
+=5 qua. c smq g qua d~ g smq d~ g
+@
+
+
+1.2
+log
+@stems in bars 9-16
+@
+text
+@d10 1
+a10 1
+i0.8            f
+d162 1
+a162 1
+=3 qua g smq c eb g qua c smq eb g db qua en smq g db E
+d244 1
+a244 1
+=6 min G cro f qua e smq c#
+d258 1
+a258 1
+=6 min G cro f qua c# smq e
+d266 1
+a266 1
+i0.1          tr . . .
+d279 1
+a279 1
+i  p
+d325 1
+a325 1
+=3 treble 3/4 smq [(A, f) (A_ F) (A, f) (A, f)] (A_ F) (A, f) (A, f) (A_ F) []
+d332 1
+a332 1
+=3 smq (B_b D) (Bb, d) [(Bb, d) (B_b D)] [] (Bb, d) [] [] (Bb, d)
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d62 1
+a62 1
+3 systems / 22 30 22-28-22 30 22 / 22 30 22-28-22 30 22 / 22 30 22-28-22 30 22 /
+d88 2
+a89 2
+=1 3/4 qua. A smq d qua A smq B A qua d smq A d
+=2 3/4 smq a qua A smq a cro A_ smq a qua A smq a
+d117 1
+a117 1
+=3 3/4 qua E smq A d' qua E smq A d' E qua A smq d
+d120 1
+a120 1
+2 systems / 22 30 22 36 22-28-22 40 22 / 22 30 22 36 22-28-22 42 22 /
+@

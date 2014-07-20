@@ -1,0 +1,92 @@
+midi channel 1 patch 74 pan 90
+midi channel 2 patch 74 pan 50
+midi channel 3 patch 74 pan 10
+| 3.0
+=1 treble cha1 leg99 4. f# 8 [g# f# e] 4. f#
+=2' treble cha2 leg99 8 [A B c#] 4. B 8 [A B c#]
+#=3  bass   cha3 leg99 4 gb 8 f 4 d# 8 f 4 gb 8 f
+=3 bass cha3 leg99 1 blank
+#=3 bass cha3 leg99 4 e~ 8 e~b 4. c~# 4 e~n 8 e~b
+|
+=1 8 [g# f# e] 4. f# 8 [g# f# e]
+=2' 4. B 8 [A B c#] 4. B
+#=3 4. d~ 4 e~ 8 e~b 4. c~#
+|
+=1 4. f# 8 [g# f# e] 4. f#
+=2' 8 [A B c#] 4. B 4 A 8 B
+#=3 4. e~b d~ 4 e~b 8 d~
+
+|
+#=1 4 A 8 Ab 4 F# 8 G# 4 An 8 Ab
+=1 4 g 8 f# 4. e 4 g 8 f#
+=2' 4. A 8 [B A G] 4. A
+=3 8 [c~ d~ e~] 4. d~ 8 [c~ d~ e~]
+|
+=1 4. f 4 g 8 f# 4. e
+=2' 8 [B A G] 4. A 8 [B A G]
+=3 4. d~ 8 [c~ d~ e~] 4. d~
+|
+=1 4. f# fn 4 f# 8 fn
+=2' 4. A 8 [B A G] 4. A
+=3 8 [c~ d~ e~] 4. d~ 4 c~ 8 d~
+
+|
+=1 8 [eb f g] 4. f 8 [eb f g]
+#=2 4 c 8 B 4 A 8 B 4 c 8 Bn
+=2 4 Bb 8 A 4. G 4 Bb 8 A
+=3' 4. c~ 8 [d~ c~ bb] 4. c~
+|
+=1 4. f 8 [eb f g] 4. f
+=2 4. G# 4 Bb 8 A 4. Gn
+=3' 8 [d~ c~ bb] 4. c~ 8 [d~ c~ bb]
+|
+=1 8 [eb f g] 4. f 4 eb 8 f
+=2 4. A G# 4 A 8 G#
+=3' 4. c~ 8 [d~ c~ bb] 4. c~
+
+|
+=1' 4. eb 8 [f eb c#] 4. eb
+=2 8 [F# G# Bb] 4. G# 8 [F# G# Bb]
+=3 4 c~# 8 c~n 4. bb 4 c~# 8 c~n
+|
+=1' 8 [f eb c#] 4. eb 8 [f eb c#]
+=2 4. G# 8 [F# G# Bb] 4. G#
+=3 4. b 4 c~# 8 c~n 4. bb
+|
+=1' 4. eb 8 [f eb c#] 4. eb
+=2 8 [F# G# Bb] 4. G# 4 F# 8 G#
+=3 4. c~ b 4 c~ 8 b
+
+|
+=1 1 blank
+=2' 4. F# 8 [G# F# E] 4. F#
+=3 8 [a b c~#] 4. b 8 [a b c~#]
+|
+=1 1 blank
+=2' 8 [G# F# E] 4. F# 8 [G# F# E]
+=3 4. b 8 [a b c~#] 4. b
+|
+=1 1 blank
+=2' 4. F# 8 [G# F# E] 4. F#
+=3 8 [a b c~#] 4. b 4 a 8 b
+
+|
+=1 1 blank
+=2 1 blank
+=3' 4. a 8 [b a g] 4. a
+|
+=1 1 blank
+=2 1 blank
+=3' 8 [b a g] 4. a 8 [b a g]
+|
+=1 1 blank
+=2 1 blank
+=3' 4. a 8 [b a g] 4. a(1
+|
+=1 1 d#
+=2 1 F#(2
+=3 1 a)1(1
+|
+=1 1 c#
+=2 1 F#)2
+=3 1 a)1

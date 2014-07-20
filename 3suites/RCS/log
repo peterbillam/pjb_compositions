@@ -1,0 +1,104 @@
+19981202 140934 II_1 pjb Second Sonata, 1st mvt
+19981203 144229 II_1 pjb first 3 pages
+19981208 222313 II_1 pjb added extra page, fixed the 3vc bit
+19981215 101712 II_1 pjb many octave changes, add last bars
+19981215 103658 Makefile pjb makefile for 3sonatas
+19981215 104517 II_2 pjb 2nd sonata, 2nd mvt
+19981215 131140 II_2 pjb add last bars
+19981227 113123 II_1 pjb changes as to 27dec98
+19981227 120130 II_2 pjb lots of changes to 27dec, new bars 22-24
+19981227 144823 II_3 pjb 2nd sonata, 3rd mvt, for keyboard
+19981228 144757 II_3 pjb another dozen bars
+19981229 194913 II_3 pjb add up to low bass 8vab A_
+19981231 214024 III pjb collected sketches for IIIrd sonata
+19990101 202723 III pjb now up to 3 pages
+19990102 181612 III pjb four and a half pages, all of book S
+19990103 190359 III pjb virtually no changes
+19990106 164848 II_1 pjb mostly thinned; some changed chords
+19990201 094310 Makefile pjb add III_3
+19990201 100258 III_3 pjb Third Sonata, 3rd mvt.  Fast.
+19990202 090538 III_3 pjb add to bar 17
+19990205 101214 III_3 pjb added to bar 23
+19990207 084436 III_3 pjb added up to bar 50
+19990208 115722 III_3 pjb add up to 65, nearly 2/3 way through
+19990208 125221 III_3 pjb add up to 71, about to recap
+19990209 123802 III_3 pjb squeezed 2 bars to 3, trills up to bar 13
+19990210 125022 III_3 pjb trills OK on first page
+19990214 214344 III_3 pjb changes after runthrough. more shapely
+19990214 214919 III_3 pjb correct a stem
+19990703 165421 III_3 pjb musical tweaks, and extend by 34 bars
+19990727 165554 III_1 pjb Third Sonata, 1st mvt. Flowing
+19990731 143148 III_1 pjb most bars on p1 changed
+19990801 125437 III_1 pjb 11 bars changed on 1st page
+19990811 182614 III_1 pjb a change every bar, and up to bar 67 added
+19990913 155533 III_1 pjb changes in most bars
+19991008 211409 III_3 pjb first 3 pages, about one change per bar
+19991024 122303 III_2 pjb Third sonata, 2nd mvt, Broad. see book Y
+19991024 122348 Makefile pjb add III_2
+19991102 171212 III_2 pjb added up to end
+19991111 141055 II_2 pjb moved from II/3, squeezed, changes as 11nov99
+19991112 173616 III_3 pjb new last bit, mods as to 12nov99
+19991117 191809 II_3 pjb moved to II_2; new sketch of 1st page
+19991123 220132 III_1 pjb better shaped solo part
+19991129 191324 III_1 pjb more pattern in solo part
+19991129 191353 III_2 pjb fill some blanks, more pattern in solo part
+19991129 191431 III_3 pjb mostly small practicality mods
+19991129 212408 II_1 pjb chop 1st half-line, arpeggiate some chords
+19991129 212439 II_2 pjb smaller font, minor changes
+19991209 144344 III_2 pjb changes as per 9dec1999, squeezed
+19991231 183028 II_3 pjb two new pages with new attempt
+20000104 213311 II_3 pjb add up to 2 systs of 3rd new page, about 90 sec
+20000108 214812 II_3 pjb add up to top of 4th new page
+20000119 174358 II_3 pjb another rewrite; first 2 pages
+20000125 213916 II_3 pjb added up to 64, top of 4th page
+20000127 220932 II_3 pjb added up to end ...
+20000205 194259 III_3 pjb use trb, tr#, some mods eg 1st bar
+20000218 203611 III_2 pjb a few changes, esp 51-53
+20000303 194800 III_1 pjb innerhead, pagenums changed
+20000303 195532 III_2 pjb innerhead, pagenums, spacing of bar 57
+20000303 202715 III_3 pjb lots of mods, incl cro qua rythms at 54ff
+20000303 211849 Makefile pjb roll III_1 III_2 III_3 into three
+20000316 185654 Makefile pjb add one.a4 to dev
+20000316 193427 one pjb First Sonata, for the solo line
+20000317 135826 one pjb added bars 15-22
+20000317 143235 one pjb fix missing bars 15-16 and wrong 21-22
+20000324 160824 one pjb add up to bar 34
+20000325 193925 one pjb added up to bar 39
+20000328 074148 one pjb add up to end, bar 50
+20000402 152645 one pjb fill in to end of 2nd movement
+20000404 165650 part pjb Solo part from 3rd sonata (or suite ?)
+20000406 155637 part pjb squeezed 2nd mvt onto 14 lines
+20000410 175409 one pjb put in last mvt cullings from books V and Z
+20000412 160610 one pjb re-order last mvt into 8 then 5 then 3
+20000415 170251 three pjb 3rd sonata; III_1 III_2 & III_3 in one..
+20000415 191318 two pjb 2nd sonata: II_1 II_2 & II_3 in one
+20000418 160554 one pjb add seven extra lines on 2nd page of Dancing
+20000420 213149 one pjb add another 6 lines and squeeze
+20000424 193453 two pjb various changes; now a Suite
+20000424 193550 one pjb some changes, shorter bars in 3, tidied up
+20000428 141552 one pjb two notes, some spacing
+20000428 194457 one pjb a rest, page numbers
+20000428 194603 two pjb a typo, pagenums, spacing
+20000428 194640 three pjb a few notes, and roll in the solo part
+20000428 194742 Makefile pjb softgoods, samples, p2 and us stuff
+20000501 093132 one pjb some notes in Dancing 46/47, some spacing
+20000515 090521 two pjb some notes around 1/54, 3/65
+20000523 095317 three pjb bars 9 and 24
+20000601 144313 Makefile pjb add title.one.bass and title.one.alto
+20000609 131935 one.bass pjb Suite One in bass clef
+20000708 163556 three pjb unscrunch stave in pagenum20sys2
+20000826 202402 one pjb add all timesigs
+20000826 205620 one.bass pjb add all timesigs
+20000826 205658 one.alto pjb Suite number One, for Viola
+20000827 101034 two pjb add all timesigs
+20000827 110401 three pjb add all timesigs
+20050602 205141 one pjb respaced 1st mvt
+20050604 085301 one pjb respaced 2nd mvt
+20050604 134620 one.alto pjb respaced according to one
+20070923 114109 three pjb muscript syntax unpdated to 2.8
+20070925 173515 three pjb upgrade syntax to 2.8; minor spacing
+20080914 094912 three pjb improve quality of note-spacing
+20090401 132835 Makefile pjb a4 and us dist, and consistentised
+20090401 132900 3suites_1_alto pjb viola version of 3suites_1
+20090401 132919 3suites_1_bass pjb cello version of 3suites_1
+20090401 133004 3suites_1 pjb formerly one; first suite, for flute or vln

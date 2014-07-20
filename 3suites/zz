@@ -1,0 +1,585 @@
+4 systems 15 /19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/
+pagenum 17
+innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+midi channel 0 patch 73
+midi channel 1 patch 0
+/
+5 bars | 9/8 9 | 1 1 1 1 1 1 1.3 1 1 | 6/8 6 | 1 1 1 1 1.3 1 | 6 |
+| 9/8 1.8
+il1.0 Wild
+=1 treble 9/8 channel0 cro. b-tr qua c~[ b a] cro. b-tr
+i0.8                 non legato
+=2 treble 9/8 channel1 cro. f-trb qua f[ rest' gb] d~[ rest' gb]
+i0.8                 non legato
+=3 treble 9/8 channel1 cro. d-trb qua d[ rest eb] Ab,[ rest eb]
+midi pause 4
+|
+=1 cro. b-tr qua a[ b c~] cro. b-tr
+=2 cro. f#-tr qua f#[ rest' e] g[ f# e]
+=3 cro. d#-tr cro c qua rest cro d# qua rest
+| 6/8 1.2
+=1 6/8 cro. c~#-tr qua d~[ e g]
+=2 6/8 cro. g-trb a-trb
+=3 6/8 cro. e-tr A-trb
+|
+=1 cro. c~#-tr qua d~[ f# g#]
+=2 cro. g#-tr b-tr
+=3 cro. f-trb B-tr
+|
+il1.0 .25 5
+=1 cro. c~#-tr qua d~[ a f]
+=2 cro. a(2-trb cro a)2 qua rest
+=3 cro. f(2-trb cro f)2 bass qua rest
+/
+4 bars |6|6|1.4 2 1.4 1.4 2 1.4|9/8 1.3 1 1.2 1.3 1.3 1.3 1 1 1|
+|
+=1 treble qua B,[ c# d](1 qua d)1 rest cn(1
+i0.5     legato
+=2 treble cro G# qua F# Fn[ Gn Ab]
+i0.5     legato, sin Ped.
+=3 bass   cro. rest cro Ab qua f
+|
+=1 qua c)1[ d eb](1 qua eb)1 rest c#
+=2 cro An qua G qua F#[ G# A]
+=3 cro eb qua c~ cro. a
+|
+=1 qua d[ smq e f# qua g] qua bb[ smq f# g qua e]
+=2 cro. rest qua E[ G Bb'](1
+=3 qua E[ Bb g'] cro. rest
+| 9/8 1.8
+=1 9/8 qua c#[ d# e](1 e)1[ rest dn](1 d)1[ e f]
+=2 9/8 cro Bb')1 qua Ab qua G[ An Bb'] cro Bn' qua A
+=3 9/8 cro E qua c# cro A# qua g cro f qua d~
+/
+4 bars |1 1.5 1.3 1 1.7 1 1 1.7 1.5|9|.8 .8 .8 1 1.3 1.2 1 1 1|6/8 .8 .8 .8 1 1.3 1|
+|
+il0.7      10
+=1 treble qua f[ smq g a qua bb] qua d~b[ smq a bb qua g] qua e[ g bb]
+=2 treble cro. rest qua F[ G db'] qua Bb,[ smq c db e f]
+=3 bass qua G,[ db bb] cro. rest rest treble
+|
+=1 cro. d~-trb qua e~b[ d~ c~] cro. d~-trb
+i0.8   non legato
+=2 cro. g#-tr qua g#[ rest' a] b[ rest' a]
+i0.8   non legato
+=3 cro. f-trb qua f[ rest' gb] f[ rest' gb]
+|
+=1 cro. d~-trb qua c~[ d~ e~b] cro. d~-trb
+=2 cro. a-trb qua a[ g f#] bb[ a g]
+=3 cro. f#-tr cro eb qua rest cro f# qua rest
+| 6/8 1.2
+=1 6/8 cro. e~-tr qua f~[ g bb]
+=2 6/8 cro. a#-tr c~-trb
+=3 6/8 cro. g-trb c-trb
+/
+4 bars |1 1 1 1.1 1.2 1|1 1 1 1.1 1.4 1|1 1 1.3 1 1 1 1 1.3 1 1 1 1|1.2 1.4 1.4 1.2 1.2 1.3 1 1 1 1.2 1|
+|
+=1 treble cro. e~-tr qua f~[ a b]
+=2 treble cro. b-tr d~-trb
+=3 treble cro. g#-tr d-trb
+|
+il1.1 .25 15
+=1 cro. e~-tr qua f~[ c~ ab]
+=2 cro. c~-trb qua rest rest C
+=3 cro. g#-tr cro. rest
+|
+=1 cro. d(1 qua d)1 rest' e
+I0.05 .05 p
+i0.05 .15 legato
+=2, smq A_b[ C F Ab G C] D[ F Ab c B F]
+=3 min. blank
+|
+=1 qua f[ d B,] cro F qua rest
+=2, smq B_[ D F A G# D] F[ Ab d f e Ab]
+=3 min. blank
+
+4 systems /19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/19 35 19-35-19 10/
+pagenum 18
+innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+3 bars |1 1.2 1.4 1.4 1 1 1.4 1 1.3 1.4 1.4|1 1.3 1 1.3 1 1 1 1 1.2 1 1.2 1|12|
+|
+=1  treble min. rest
+=2, treble smq Eb[ F Ab Bb Bn f] g[ ab f ab bb bn]
+=3  bass   min. rest
+|
+=1 qua eb[ smq f gb a bb] qua e~b[ smq a bb f gb] 
+=2 qua. blank smq F,[ Gb, Bb,] cro. <Eb c'>
+=3 smq Gb(2[ c(4 eb'(3] qua. blank cro. <Gb)2 c)4 eb')3>
+|
+il0.4    20
+=1 qua eb[ rest' f] gb[ rest' f]
+=2 qua. blank smq G#,[ A, c#] qua. d# smq cn[ dn eb]
+=3 smq A,[ d#, f#,] qua. blank smq c,[ eb c~] qua. blank
+/
+3 bars |12|12|12|
+|
+=1 treble qua b[ smq eb f# qua g] qua a[ rest' a]
+=2 treble cro. g  qua. rest smq B,[ c eb]
+=3 bass   cro. rest smq eb,[ a, e~b,] qua. blank
+|
+=1 qua bb[ smq c~ d~b qua c~] qua bb[ rest'' c~]
+=2 qua g[ a bb] qua g[ smq a bb a bb]
+=3 min f cro F
+|
+=1 qua d~b[ smq e~ f~ qua e~] qua f~[ e~ g]
+=2 qua d~b[ rest'' bb] qua bb[ smq c~ d~b c~ d~b]
+=3 min rest cro F(3
+=3 min. F_,(2
+/
+3 bars |12|12|12|
+|
+=1 treble qua bb[ smq c~ d~b qua c~] qua d~b rest' bb
+=2 treble qua e~[ e~b d~b] qua e[ smq g ab g ab]
+=3 bass   min. F)3
+=3 min. F_)2
+|
+il0.5  25
+=1 qua g[ smq f# g qua f#] qua e[ rest Bb,]
+=2 qua bb[ a g] qua Bb,[ smq c# d c# d]
+=3 min. <D d'>
+|
+=1 qua c#[ rest g] qua b[ smq d~# e~ qua d~#]
+=2 qua c#[ smq d# e d# e] qua g[ f# e]
+=3' min rest cro B(3
+=3, min. B_(2
+/
+3 bars |12|12|12|
+|
+=1 treble qua c~#[ d~# e~] qua c~#[ smq d~# e~ d~# e~]
+i0.5                     dim  .   .   .
+=2 treble qua e[ smq f# g f# g] cro. bb
+=3' bass   min B)3 cro rest'
+=3, min B_)2 cro rest,
+|
+=1 cro. f~(1 qua f~)1[ rest'' e~]
+I0.05 .05 p
+i0.05 .15 legato
+=2, smq A_b[ C F Ab G C] D[ F Ab c B F]
+=3 min. blank
+|
+=1 qua f~[ smq a b c~# d~] cro. f
+=2, smq B_[ D F A G# D] F[ Ab d f e Ab]
+=3 min. blank
+
+4 systems /19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/
+pagenum 19
+innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+3 bars |12|1 1.3 1 1.3 1.3 1.1 .8 .8 1.2 1 1.2 1|12|
+|
+il0.4    30
+=1 treble min. rest
+=2, treble smq Eb[ F Ab Bb Bn f] g[ ab f ab bb bn]
+=3 bass   min. rest.
+|
+=1 qua rest smq f[ gb a bb] qua e~b[ smq a bb f gb] 
+=2 qua c~ smq rest F[ Gb Bb'] cro. <Eb c'>
+=3 smq Gb(2[ c(4 eb'(3] qua. blank cro. <Gb)2 c)4 eb')3>
+|
+=1 qua eb[ rest' f] gb[ rest' f]
+=2 qua. blank smq G#,[ A, c#] qua. d# smq c[ d eb]
+=3 smq A[ d#' f#'] qua. blank smq c[ eb' c~'] qua. blank
+/
+5 bars |12|7|7|7|7|
+|
+=1 treble qua g[ smq eb f# qua b] qua c~# rest smq c~#[ d~#]
+=2 treble cro. g  qua. rest smq db[ g bb]
+=3 bass   cro. rest smq bb[ d~b g~] qua. rest' treble
+|
+=1 min. g~
+=2 cro. c~#(1-tr qua c~#)1 rest G
+=3 cro. a#(1-tr cro a#)1 qua rest'' bass
+|
+il0.5   35
+=1 cro. rest cro rest qua f
+=2 min. <B_b(1 G(3>
+I0.3        p
+=3 qua rest G[ G] G[ G G]
+|
+=1 cro.  e cro rest qua c#
+=2 min. <B_b)1(1 G)3(3>
+=3 qua G[ G G] G[ G G]
+|
+=1 cro. d cro Bb' qua A
+=2 min. <B_b)1 G)3>
+=3 qua G[ G G] E[ d' e']
+/
+5 bars |6|6|6|6|6|
+|
+=1 treble min. G
+=2 treble cro. rest qua e'[ d' E]
+=3 bass qua f'[ db' F] cro G qua A
+|
+=1 cro. rest cro rest qua ab
+=2 qua Db[ F db'] cro Bb, qua c
+=3 cro. Bb(2 qua Bb)2[ Bb Bb]
+|
+il0.5    40
+=1 cro. g cro rest qua e
+=2 min. db
+=3 qua Bb[ Bb Bb] cro db' qua c
+|
+=1 cro. f cro db qua c
+=2 cro Db qua C cro B_b qua C#(2
+=3 cro. Bb qua G,[ f g]
+|
+=1 min. Bb
+=2 cro C#)2 qua D# E[ G# e'](1
+=3 qua g#[ e G#,] cro Bb qua c
+/
+5 bars |6|6|6|6|6|
+|
+=1 treble qua rest g#[ a#] b[ gn B,]
+=2 treble min. e)1
+=3 bass   cro. c# cro d#, qua en
+|
+=1 min. e
+=2 cro C# qua D# cro. E
+=3 qua rest g[ b] a#[ g# c#,](2
+|
+il0.4    45
+=1 min. rest
+=2 qua Ab_[ B_b Ab] G[ B_n' G_]
+=3 cro c#)2 qua d# cro. e
+|
+=1 qua rest B,[ c#] Bb,[ d bb]
+=2 min. E
+=3 qua rest c#[ d'] e[ f# g]
+|
+=1 qua rest e[ f#] g[ a bb]
+=2 cro G qua F# cro E qua F#
+=3 qua c#,[ b c~#,] d~,[ bb d,]
+
+4 systems /19 35 19-45-19/19 35 19-35-19/19 35 19-40-19/19 35 19-35-19/
+pagenum 20
+innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+5 bars |6|1 1.5 2 1 1 1|6|6|1.5 2 1.5 1 1 1|
+|
+=1 treble qua [bn B, c#] [Bb, d bb]
+=2 treble min. G
+=3 bass   qua rest [e f#] [g a bb]
+|
+=1 qua e~b[ smq b c~ g a] cro. bb
+=2 qua g[ A, G,] F#,[ A#, f#]
+=3 cro c~ qua d~ e~b[ d~ c~]
+|
+il0.8  50
+=1 cro. a(1 qua a)1 cro f#
+=2 cro eb qua d cro c qua d
+=3 qua a[ g~ a~] a~#[ f~# a#]
+|
+=1 cro. g(1 qua g)1 rest' a
+=2 qua eb[ d c] g[ A, G,]
+=3 qua an[ g~ a~] c~[ d~ e~b]
+|
+=1 qua c~[ smq g ab e f] cro. d
+=2 qua d[ e f] g[ a bb]
+=3 qua rest f~[ ab] cro e~ qua rest
+/
+5 bars |6|6|5|1.65 2 2|6|6|
+|
+=1 treble cro. c# cro rest qua A#
+=2 treble cro. bn e
+=3 bass   qua rest e[ f#] g[ a bb]
+|
+=1 cro B, qua  a cro b qua c~
+=2 min. d
+=3 qua rest f~[ d~] f~[ d~ f~]
+|
+il0.6           55
+=1 cro. ab cro rest qua B,
+=2 qua D[ F D] F[ D F]
+=3 min. blank
+|
+=1 cro c qua g cro ab qua b
+=2 qua D[ F D] F[ D F]
+=3 qua rest d,[ e] f[ g ab]
+|
+=1 cro. c~(1 qua c~)1 cro rest
+=2' cro rest' qua d cro c~ qua b
+=2, qua Ab[ F Ab] F[ Ab F]
+|
+=1  cro e~b qua d~ cro. rest
+=2' cro. Br blank
+=2, qua Ab[ F Ab] F[ Ab F]
+=3 cro. blank cro d, qua c~
+/
+5 bars |6|6|6|6|7|
+|
+=1 treble cro. rest cro rest qua b
+=2 treble qua Ab[ F Ab] F[ Ab F]
+=3 bass   cro d~, qua e~b cro rest qua eb
+|
+il0.6          60
+=1 min. c~
+=2 cro rest qua Bb, cro a qua bb
+=3 qua gb[ eb gb] eb[ gb eb]
+|
+=1 cro rest qua c#(1 c#)1 cro d#
+=2 cro c# qua A F#[ A F#]
+=3 qua f#[ d# f#] cro d~# qua c~#(1
+|
+=1 cro c~# qua c~n cro e qua c
+=2 qua A[ F# A] F#[ A F#]
+=3 cro c~#)1 qua c~n(1 cro c~)1 qua e
+|
+=1 qua A,[ smq B, c qua B,] qua c[ d eb]
+=2 qua A[ G# F#] qua A,[ smq B, c qua B,]
+=3 cro F# qua e' cro F# qua G
+/
+3 bars |12|12|1 1 1 1 1.3 1 .8 .8 1 1 1.2 1|
+|
+=1 treble qua a[ smq b c~ qua b] qua c~[ b a]
+=2 treble qua c[ d eb] c[ smq d eb d eb]
+=3 bass   cro eb qua g cro g~ qua a
+|
+il0.5       65
+=1 qua c[ smq d eb d eb] qua f# cro rest'
+=2 cro. a qua c~[ smq d~ e~b d~ e~b]
+=3 cro g~ qua f~ cro bb qua f#
+|
+=1 qua c~[ smq f# g qua c] eb[ smq a b qua g]
+=2 cro a~ smq D[ Eb] qua G,[ eb a]
+=3 qua Eb[ A g'] c~[ g smq d, eb]
+
+4 systems /19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/
+pagenum 21
+innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+3 bars |12|.8 .8 1 1 1.3 1 .8 .8 1 1 1.3 1|12|
+|
+=1 treble qua bb[ smq e f qua db] f[ smq c db qua bb]
+=2 treble cro bb smq E[ F] qua G,[ f g]
+=3 bass   qua G[ db' bb']  d~b[ bb smq c, db,]
+|
+=1 qua e~b[ smq g ab qua f] ab[ smq a# b qua a#]
+=2 cro b smq D[ Eb] qua F,[ eb ab]
+=3 qua Ab,[ f a#] b[ ab smq d eb]
+|
+=1 qua d~[ smq g# a qua b] f rest' smq f#[ g#]
+=2 cro f smq e[ f] qua A'[ smq C# D qua B_]
+=3 qua An[ B c#] d,[ f# g#]
+/
+4 bars |.8 .8 1 1.3 1.3 1.3 1 1 1.3 1 1 1|1.3 1.3 1 1 1.2 1 .8 .8 1 1 1.3 1|9/8 1 1 1 1.2 1.4 1.2 1.2 1.4 1|1 1 1 1.2 1.4 1.2 1.2 1.2 1|
+|
+il0.9     70
+=1 treble qua d~[ smq g# b qua c~#] qua d~ rest' e~b
+=2 treble cro F# qua Fn Eb[ F smq A# B']
+=3 bass   qua a#[ b] smq g[ g#] a#[ b] d~[ e~b qua g]
+|
+=1 smq c~[ d~b] qua e~b smq f[ gb] qua b[ qua c~# smq b c~#]
+=2 qua An,[ c c#] d#[ e f]
+=3 cro f# treble qua A_ G,[ smq A#, B, qua d]
+| 9/8 1.8
+=1 9/8 cro. d~-trb qua e~b[ d~ c~] cro. d~-trb
+=2 9/8 cro. g#-tr qua g#[ rest' a] b[ rest' a]
+=3 9/8 cro. f-trb qua f[ rest' gb] f[ rest' gb]
+|
+=1 cro. d~-trb qua c~[ d~ e~b] cro. d~-trb
+=2 cro. a-trb qua a[ g f#] bb[ a g]
+=3 cro. f#-tr cro eb qua rest cro f# qua rest
+/
+5 bars |6/8 1 1 1 1.3 1.5 1|6|1 1 1 1.2 1.5 1|1 1 1.3 1 1 1 1 1.3 1 1 1 1|1.2 1 1 1.4 1 1 1.2 1 1 1 1.3 1|
+| 6/8 1.2
+=1 treble 6/8 cro. e~-tr qua f~[ g bb]
+=2 treble 6/8 cro. a#-tr c~-trb
+=3 bass   6/8 cro. g-trb c-trb
+|
+il1.2         75
+=1 cro. e~-tr qua f~[ a b]
+=2 cro. b-tr d~-trb
+=3 cro. g#-tr d-trb
+|
+=1 cro. e~-tr qua f~[ c~ ab]
+=2 cro. c~-trb rest
+=3 cro. g#-tr rest
+|
+=1 cro. d(1 qua d)1[ rest' e]
+=2, smq A_b[ C F Ab G C] D[ F Ab c B F]
+=3 min. blank
+|
+=1 qua f[ d B,] cro. F
+=2, smq B_[ D F A G# D] F[ Ab d f e Ab]
+=3 min. blank bass
+/
+3 bars |1 1.2 1.4 1.4 1 1 1.4 1 1.3 1.4 1.4|12|12|
+|
+=1 treble min. rest
+=2, treble smq Eb[ F Ab Bb Bn f] g[ ab f ab bb bn]
+=3 bass   min. rest
+|
+il0.8 80
+=1 qua eb[ smq f gb a bb] qua e~b[ smq a bb f gb] 
+=2 qua. blank smq F,[ Gb, Bb,] cro. <Eb c'>
+=3 smq Gb(2[ c(4 eb'(3] qua. blank cro. <Gb)2 c)4 eb')3>
+|
+=1 qua eb[ rest' f] gb[ f eb]
+=2 qua. blank smq G#,[ A, c#] qua. d# smq cn[ dn eb]
+=3 smq A,[ d#, f#,] qua. blank smq c,[ eb c~] qua. blank
+
+4 systems /19 35 19-30-19 10/19 30 19-30-19 10/19 30 19-35-19/19 35 19-35-19 25/
+pagenum 22
+innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+3 bars |12|12|12|
+|
+=1 treble qua c~[ smq f# g d eb] qua A rest a
+=2 treble cro. g  qua. rest smq B,[ c eb]
+=3 bass   cro. rest smq eb,[ a, e~b,] qua. blank
+|
+=1 qua bb[ smq c~ d~b qua c~] qua d~b[ rest'' c~]
+=2 qua g[ a bb] qua g[ smq a bb a bb]
+=3 min f cro F
+|
+=1 qua d~b[ smq e~ f~ qua e~] qua f~[ e~ g]
+=2 qua d~b[ rest'' c~] qua bb[ smq c~ d~b c~ d~b]
+=3 min rest cro F(3
+=3 min. F_,(2
+/
+3 bars |12|12|12|
+|
+il0.8       85
+=1 treble qua bb[ smq c~ d~b qua c~] qua bb[ rest' e]
+=2 treble qua e~[ e~b d~b] qua e[ smq g ab g ab]
+=3 bass min. F)3
+=3 min. F_)2
+|
+=1 qua e[ smq f# g qua f#] qua e[ rest' g]
+=2 qua bb[ a g] Bb,[ smq c# d c# d]
+=3 min. <D_ D>
+|
+=1 qua b[ rest' g] b,[ smq d~# e~ qua d~#]
+=2 qua c#[ smq d# e d# e] cro g qua f#
+=3' min rest cro B(3
+=3, min. B_(2
+i1.2 8vab . . .
+/
+3 bars |12|12|12|
+|
+=1 treble qua c~#[ d~# e~] c~#[ smq d~# e~ d~# e~]
+=2 treble qua e[ smq f# g f# g] qua f#[ g c~]
+=3' bass min B)3 cro rest'
+=3, min B_)2 cro rest,
+i1.2                                 . . . |
+|
+=1 cro. f~(1 qua f~)1 rest' f~
+=2, smq A_b[ C F Ab G C] D[ F Ab c B F]
+=3 min. blank
+|
+il1.1          90
+=1 smq e~[ f~ qua c~# smq a b] cro. f
+=2, smq B_[ D F A G# D] F,[ Ab, d f e Ab,]
+=3 min. blank
+/
+3 bars |12|12|12|
+|
+=1 treble min. rest
+=2, treble smq Eb[ F Ab Bb Bn f] g[ ab f ab bb bn]
+=3 bass   min. rest.
+|
+=1 qua rest smq [f gb a bb] qua e~b[ smq a bb f gb] 
+=2 qua c~ smq rest F[ Gb Bb'] cro. <Eb c'>
+=3 smq Gb(2[ c(4 eb'(3] qua. blank cro. <Gb)2 c)4 eb')3>
+|
+=1 qua eb[ rest' f] gb[ f eb]
+=2 qua. blank smq G#,[ A, c#] qua. d# smq c[ d eb]
+=3 smq A[ d#' f#'] qua. blank smq c[ eb' c~'] qua. blank
+
+4 systems /19 35 19-35-19 10 /19 25 19-35-19/19 35 19-35-19/19 35 19-35-19/
+pagenum 23
+innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+4 bars |10|6|6|6|
+|
+=1 treble qua c~[ smq d eb qua f#] qua g rest smq c~#[ d~#]
+=2 treble cro. g  qua. rest smq db[ g bb]
+=3 bass   cro. rest smq bb[ d~b g~] qua. rest' treble
+|
+il0.6         95
+=1 cro. g~(1 cro g~)1 qua rest'
+=2 cro. c~#(1-tr cro d~)1 qua rest
+=3 cro. a#(1 cro a#)1 qua rest'' bass
+|
+=1 qua B,[ c# d](1 cro d)1 qua cn(1
+=2 cro G# qua F# Fn[ Gn Ab]
+=3 cro. rest cro Ab qua f
+|
+=1 qua c)1[ d eb](1 cro eb)1 qua f#
+=2 cro An qua G qua F#[ G# A]
+=3 cro eb qua c~ cro. a
+/
+3 bars | 1.5 1.6 2 1.5 2 1.5| 9/8 1.7 1.5 1.7 1.7 1.7 1.7 1.5 1.5 1.5| .75 .75 .75 .75 .8 1.2 .75 .75 .8 .8 1.2 .75 .75 .75 1 .8 1 .8|
+|
+=1 treble qua g[ smq c# d e f#] qua g[ smq d e f# g]
+=2 treble cro. rest qua E[ G Bb'](2
+=3 bass   qua E[ Bb g'] cro. rest
+| 9/8 1.8
+=1 9/8 qua c#[ d# e](1 cro e)1 qua dn(1 d)1[ e f]
+=2 9/8 cro Bb')2 qua Ab qua G[ An Bb'] cro Bn' qua A
+=3 9/8 cro E qua c# cro A# qua g cro f qua d~
+|
+il0.7      100
+=1 qua bb[ smq e f g a] qua bb[ smq f g a bb] qua e[ g bb]
+=2 cro. rest qua F[ G db'] Bb,[ smq c db c db]
+=3 qua G,[ db bb] cro. rest rest treble
+/
+4 bars | 9 | 9 | 6/8 6 | 6.5 |
+|
+=1 treble cro. b-tr qua c~[ b a] cro. b-tr
+=2 treble cro. f-trb qua f[ g# f#] d~[ rest' gn]
+=3 treble cro. d-trb qua d[ rest eb] G#,[ rest' d#]
+|
+=1 cro. b-tr qua a[ b c~] cro. b-tr
+=2 cro. f#-tr qua f#[ e d#] g[ f# e]
+=3 cro. d#-tr cro d# qua c cro d# qua rest
+| 6/8 1.2
+=1 6/8 cro. c~#-tr qua d~[ e g]
+=2 6/8 cro. g-trb a-trb
+=3 6/8 cro. e-tr A-trb
+|
+=1 cro. c~#-tr qua d~[ f# g#]
+=2 cro. g#-tr b-tr
+=3 cro. f-trb B-tr
+/
+7 bars |6.5|6|6|1.1 1.4 1.4 1.4 1.4 1|6|6|6||
+|
+il1.4 105
+=1 treble min. c~#(1-tr
+=2 treble min. c#(2-tr#
+=3 treble min. a-trb
+|
+=1 min. c~#)1-tr
+=2 min. c#)2-tr#
+=3 min. A(2-trb
+|
+=1 min. c#(1-tr
+=2 min. C#(2-tr#
+=3 min. A)2-trb bass
+|
+=1 min. c#)1(1-tr
+=2 min. C#)2(2-tr#
+=3 qua rest  F#[ F#] F#[ F# F#]
+|
+=1 min. c#)1(1-tr
+=2 min. C#)2(2-tr#
+=3 min F_# cro F_#
+|
+il1.0 110
+=1 min. c#)1
+=2 min. C#)2
+=3 min. A_(1
+I0.8 8vab . . .
+|
+=1 min. rest
+=2 min. rest
+=3 min. A_)1
+I0.5                      . . . |

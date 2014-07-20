@@ -1,0 +1,583 @@
+% start
+
+10 systems 20 /19/19/19 35/ 19/19 35/ 19 35 19 35/19/19/19/19 15/
+pagenum 3
+innerhead Peter Billam
+title Five Rounds
+leftfoot (c) 1986 Peter J Billam
+midi channel 1 patch 52 pan 05
+midi channel 2 patch 52 pan 35
+midi channel 3 patch 52 pan 65
+midi channel 4 patch 52 pan 95
+% stop
+/
+5 bars ||: 4/4 4 | 6 | 6 | 6 | 6 |
+| 2/4 152
+bl1.2 .01 A.B.C.
+il0.2 .18 1
+=1 treble 4/4 cha2 qua [A B'] [c d]
+r0.2 .28 A .46 B .64 C .82 D
+| 4/4 152
+=1 cro e A e A
+r0.2 .04 E .28 A .52 E .76 A
+|
+il0.2 .45 2
+=1 cro d A d A
+r0.2 .04 D .28 A .52 D .76 A
+|
+=1 cro c A c A
+r0.2 .04 C .28 A .52 C .76 A
+|
+=1 cro B' rest B' d
+r0.2 .04 B .52 B .76 D
+/
+4 bars | 24 | 3 3 3 4 3 3 4 4 | 24 | 24 |
+|
+=1 cro e c e c
+r0.2 .06 E .30 C .53 E .76 C
+|
+=1 cro. g qua rest cro d qua [e f]
+r0.2 .04 G .52 D .76 E  F
+|
+=1 cro g c g c
+r0.2 .04 G .28 C .52 G .76 C
+|
+=1 cro f c f c
+r0.2 .04 F .28 C .52 F .76 C
+/
+5 bars | 24 | 24 | 24 | 12 16 | 10 :||
+|
+=1 cro e c e c
+r0.2 .06 E .30 C .53 E .76 C
+|
+=1 cro d rest d f
+r0.2 .04 D .52 D .76 F
+|
+=1 cro g e g e
+r0.2 .04 G .28 E .52 G .76 E
+|
+=1 min g(1 qua [g)1 e] [d c]
+r0.2 .04 G .60 E .74 D .85 C
+|
+=1 min B
+r0.2 .04 B
+
+/
+7 bars ||: 8 | 24 | 6 6 6 8 | 24 | 24 |
+|
+bl1.2 .01 By Doze Is All Blog Dub
+=1 treble qua [E{'1 F}'1]
+r0.6 .27 By
+|
+=1 cro G C C C
+r0.6 .01 doze is  all  blog
+|
+=1 cro C rest rest qua [F{'1 G}'1]
+r0.6 .01 dub ,
+r0.5 .75 By
+|
+=1 cro A D D D
+r0.5 .01 doze is  all  blog
+|
+=1 cro D rest rest G
+r0.5 .01 dub , .75 It
+|
+=1 cro F G D G
+r0.5 .01 hurts my  back to
+|
+=1 cro F G D G
+r0.5 .01 lie  in  bed, when
+/
+7 bars | 24 | 24 | 24 | 24 | 24 | 24 | 18 :||
+|
+=1 cro E G C G
+r0.5 .10 I .25 get  up .75 it
+|
+=1 cro E G C rest
+r0.5 .01 hurts my  head ,
+|
+=1 cro F A D A
+r0.4 .01 when I cough it
+|
+=1 cro F A D D
+r0.4 .01 hurts me too, and
+|
+=1 cro G G B' G
+r0.4 .01 when I sneeze I
+|
+=1 cro B' G G G
+r0.4 .01 give it  all  to
+|
+=1 cro c rest rest
+r0.4 .01 you !
+
+/
+9 bars | 2# 3/4 8 | 9 12 | 6 6 8 | 3 3 3 3 4 6 \
+ | 9 12 | 9 12 | 3 3 3 4 3 3 | 6 6 8 | 3 3 3 4 :||
+| 1/4 84
+bl1.2 .01 The Carbon Cycle
+il0.2 .18 1
+=1, treble 2# 3/4 cha2 leg90 cro d
+r0.6 .50 A
+il0.1 .18 1
+=2 treble 2# 3/4 cha1 leg90 qua [D E]
+r0.3 .45 And 
+| 3/4 84
+=1, cro. d{1 qua c}1 cro B
+r0.6 .01 thousand
+il0.1 .55 2
+=2 min F qua [F E]
+r0.3 .01 leaves breathe
+% =1 min rest qua [D E]
+|
+il0.1 .55 2
+=1 min A cro A
+r0.6 .01 leaves .66 to
+=2 min D qua [F G]
+r0.3 .01 out .66 what
+% =1 min F qua [F E]
+% =2 min rest cro d
+|
+=1' cro A{2 min B}2
+r0.6 .01 one
+=2 min A qua [A{'1 smq G F}'1]
+r0.3 .01 lungs breathe
+% =1 min D qua [F G]
+% =2, cro. d{1 qua c}1 cro B
+|
+=1 min c cro rest
+r0.6 .01 lung ,
+=2 cro. E qua rest [E F]
+r0.3 .05 in ; .62 what
+% =1 min A qua [A{'1 smq G F}'1]
+% =2 min A cro A
+|
+=1 cro. c{1 qua B,}1 cro A
+r0.6 .15 one
+=2 min G qua [G F]
+r0.3 .01 lungs breathe
+% =1 cro. E qua rest [E F]
+% =2' cro A{2 min B}2
+|
+=1 cro. A qua A cro A
+r0.6 .01 lung .50 to   a
+=2 min E cro rest
+r0.3 .05 out
+% =1 min G qua [G F]
+% =2 min c cro rest
+|
+=1 min A qua [B, c]
+r0.6 .10 thousand
+=2 min A qua [F E]
+r0.3 .01 leaves breathe
+% =1 min E cro rest
+% =2 cro. c{1 qua B,}1 cro A
+| 2/4 84
+=1 cro. d qua rest
+r0.6 .01 leaves
+=2 min D
+r0.3 .15 in .
+% =1 min A qua [F E]
+% =2 cro. A qua A cro A
+
+
+/
+4 bars ||: 32 | 32 |
+| 4/4 120
+midi pause 3.0
+bl1.2 .01 The Energy Cycle
+il0.2 .01 1
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+r0.5 .04 Sun .21 - .37 shine ,
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+r0.5 .02 Sun .21 - .37 shine ,
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+r0.4 .04 Sun .21 - .37 shine ,
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+r0.4 .02 Sun .21 - .37 shine , .85 The
+/
+3 bars | 32 | 32 |
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+r0.3 .02 e - ner - gy .39 that  drives  all  living
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+r0.3 things comes from the sun, is fixed by
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+r0.3 plants, held briefly .63 in .75 life, .87 then
+/
+3 bars | 32 | 32 |
+|
+=1 leg70 qua c c c B' A A A G
+r0.3 .01 ra - di - ates .39 away .65 into .85 deep
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+r0.3 .02 space, like a .63 waterwheel
+|
+=1 leg70 qua rest F F rest rest F F F
+r0.3 .15 like .28 a .63 waterwheel
+/
+4 bars | 32 | 32 | 20 | 20 :||
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+r0.3 .15 like .28 a .63 waterwheel
+|
+=1 leg70 qua rest G G rest rest G G G
+r0.3 .15 like .28 a .63 waterwheel
+|
+il0.2 .01 2
+=1 min blank smb rest
+|
+=1 min blank smb rest
+
+% start
+4 systems 15 /19 30 19 /19 30 19 30 19 \
+ / 19 30 19 30 19 / 19 30 19 30 19 30 19 10 /
+pagenum
+innerhead Five Rounds, Peter Billam
+leftfoot (c) 1986 Peter J Billam
+/
+9 bars | 4/4 24 | 24 | 6 6 6 11 | 24 | 24 | 24 \
+ | 5/4 3 3 3 3 3 3 3 5.5 5.5 5.5 || 4/4 28 | 28 |
+| 4/4 80
+bl1.5 .01 In Girum Imus Nocte
+=1 treble 4/4 cha1 leg90 smb D{1
+r0.6 .21 in
+=2' treble 4/4 cha2 leg90 smb rest
+|
+=1 smb E}1
+=2' smb rest
+|
+=1 min. F{'1 qua [G A]
+r0.6 .01 gi .80 -
+=2' smb rest
+|
+=1 smb G
+r0.6 .60 -
+=2' smb rest
+|
+=1 smb Gb
+r0.6 .60 -
+=2' smb rest
+|
+=1 smb F}1
+r0.6 .60 -
+=2' smb rest
+| 5/4 80
+=1 5/4 min.. Eb qua rest [G{2 A]
+r0.6 .10 rum .80 i
+=2 5/4 smb rest cro rest
+| 4/4 80
+=1' 4/4 cha1 leg90 min Bb}2 Bb
+r0.6 .01 - .50 mus
+=2 4/4 cha2 leg90 smb D{1
+r0.3 .24 in
+|
+=1' min rest Bb{2
+r0.6 .50 i .90 -
+=2 smb E}1
+/
+6 bars | 4/4 8 8 8 10 | 32 | 4 4 4 4 4 4 7.5 5 | 4 4 4 4 4 5 5 5 \
+ | 5/4 4 4 4 4 7.5 7.5 4 5 5 5 || 4/4 32 |
+|
+=1' cro Bb}2 min. A
+r0.6 .01 - .25 mus
+=2 min. F{'1 qua [G A]
+r0.6 .01 gi .80 -
+=3 treble cha3 leg90 smb rest
+|
+=1 cro rest min. A{2
+r0.6 .25 i .90 -
+=2 smb G
+r0.6 .60 -
+=3 smb rest
+|
+=1' min Bb}2 cro Bb qua [Ab{2 Bb]
+r0.6 .40 mus .77 i
+=2 smb Gb
+r0.6 .60 -
+=3 smb rest
+|
+=1 min Bn}2 cro B qua [c#{1 B]
+r0.6 .05 - .40 mus .75 i
+=2 smb F}1
+r0.6 .60 -
+=3 smb rest
+| 5/4 80
+=1 5/4 min A(2 qua [A)2 Bb'}'1] min cn(1
+r0.6 .10 - .60 mus
+=2 5/4 min.. Eb qua rest [G{2 A]
+r0.6 .10 rum .81 i
+=3 5/4 min. rest min rest
+| 4/4 80
+=1 4/4 cha1 leg90 cro c)1 rest rest d(1
+r0.6 .75 noc  -
+=2' 4/4 cha2 leg90 min Bb}2 Bb
+r0.6 .01 - .50 mus
+=3 4/4 cha3 leg90 smb D{1
+r0.3 .20 in
+/
+6 bars | 32 | 8 8 8 10 | 32 | 4 4 4 4 4 4 7.5 5 | 8 8 8 10 \
+ | 5/4 4 4 4 4 7.5 7.5 4 5 5 5 ||
+|
+=1 cro d)1 min. c#
+r0.6   - .25 cte
+=2' min rest Bb{2
+r0.7 .55 i .90 -
+=3 smb E}1
+|
+=1 min rest cn(1
+r0.6 .50 noc .90 -
+=2' cro Bb}2 min. A
+r0.7 .25 mus
+=3 min. F{'1 qua [G A]
+r0.2 .05 gi .80 -
+|
+=1 cro c)1 min. B
+r0.6 .25 te
+=2 cro rest min. A{2
+r0.7 .30 i .90 -
+=3 smb G
+r0.2 .60 -
+|
+=1 min rest d(1
+r0.6 .46 noc
+=2' min Bb}2 cro Bb qua [Ab{2 Bb]
+r0.7 .40 mus .75 i
+=3 smb Gb
+r0.2 .60 -
+|
+=1 cro d)1 min. c#(1
+r0.6 .20 -
+=2 min Bn}2 cro B qua [c#{1 B]
+r0.6 .05 - .43 mus .75 i
+=3 smb F}1
+r0.2 .60 -
+| 5/4 80
+=1 5/4 cro c#)1 min. cn qua [Bb' A]
+r0.6 .20 - .80 te .90 et
+=2 5/4 min A(2 qua [A)2 Bb'}'1] min cn(1
+r0.6 .10 - .60 mus
+=3 5/4 min.. Eb qua rest [G{2 A]
+r0.2 .08 rum .85 i  -
+
+/
+6 bars | 4/4 4 4 4 5 4 4 4 4 | 4 5 4 4 4 4 4 4 \
+ | 4 4 4 4 4 5 4 4 | 4 4 4 5 4 4 4 4 \
+ | 3.5 3.5 3.5 3.5 4 4 7 4 | 3.5 3.5 3.5 3.5 3.5 4 4 4 |
+| 4/4 80
+=1 treble 4/4 cha1 leg65 qua G G G G cro rest qua G G
+r0.6 .01 consumimur .75 consumimur
+=2 treble 4/4 cha2 leg90 cro c)1 rest rest d(1
+r0.6 .78 noc
+=3' treble 4/4 cha3 leg90 min Bb}2 Bb
+r0.6 .01 - .50 mus
+=4 treble 4/4 cha4 leg90 smb D{1
+r0.2 .15 in
+|
+=1 qua G G cro rest qua G G G G
+r0.6 .45 consumimur
+=2 cro d)1 min. c#
+r0.6 - .25 cte
+=3' min rest Bb{2
+r0.6 .50 i
+=4 smb E}1
+|
+=1 cro rest qua G G G G cro rest
+r0.6 .20 consumimur
+=2 min rest cn(1
+r0.6 .50 noc .90 -
+=3' cro Bb}2 min. A
+r0.6 .01 - .25 mus
+=4 min. F{'1 qua [G A]
+r0.2 .01 gi .80 -
+|
+=1 qua G G G G cro rest qua F G
+r0.6 consumimur .75 consumi
+=2 cro c)1 min. B
+r0.6 .25 te
+=3 cro rest min. A{2
+r0.6 .28 i .90 -
+=4 smb G
+r0.2 .60 -
+|
+=1 smb Ab(2
+r0.6 .60 -
+=2 min rest d(1
+r0.6 .45 noc
+=3' min Bb}2 cro Bb qua [Ab{2 Bb]
+r0.6 .40 mus .80 i
+=4 smb Gb
+r0.2 .60 -
+|
+=1 cro Ab)2 min G qua G G
+r0.6 .22 mur .70 consu -
+=2 cro d)1 min. c#(1
+r0.5 .20 -
+=3 min Bn}2 cro B qua [c#{1 B]
+r0.6 .05 - .40 mus .75 i
+=4 smb F}1
+r0.2 .60 -
+
+3 systems 20 / 19 30 19 30 19 30 19 / 19 30 19 30 19 30 19 \
+ / 19 30 19 30 19 30 19 30/
+pagenum
+innerhead Five Rounds, Peter Billam
+leftfoot (c) 1986 Peter J Billam
+
+/
+5 bars | 5/4 4 4 4 4 7 7 5 5 7 5 || 4/4 5 5 5 6 5 5 5 5 \
+ | 5 6 5 5 5 5 5 5 | 5 5 5 5 5 6 5 5 | 5 5 5 6 5 5 5 5 |
+| 5/4 80
+% =1 5/4 min G(2 qua [G)2 A] [Bb,{1 c}1] d eb
+=1 5/4 min. G qua [Bb,{1 c}1] d eb
+r0.6 .10 mi .33 - .60 mur .81 igni
+=2 5/4 cro c#)1 min. cn qua [Bb' A]
+r0.8 .20 -
+r0.6 .80 te .90 et
+=3 5/4 min A(2 qua [A)2 Bb'}'1] min cn(1
+r0.6 .10 - .60 mus
+=4 5/4 min.. Eb qua rest [G{2 A]
+r0.2 .01 rum .80 i
+
+| 4/4 80
+=1 4/4 cha1 leg90 smb D{1
+r0.6 .15 in
+=2 4/4 cha2 leg65 qua G G G G cro rest qua G G
+r0.6 .05 consumimur .75 consumimur
+=3 4/4 cha3 leg90 cro c)1 rest rest d(1
+r0.6 .75 noc
+=4' 4/4 cha4 leg90 min Bb}2 Bb
+r0.2 .01 - .50 mus
+|
+=1 smb E}1
+=2 qua G G cro rest qua G G G G
+r0.6 .45 consumimur
+=3 cro d)1 min. c#
+r0.6 - .25 cte
+=4' min rest Bb{2
+r0.2 .50 i
+|
+=1 min. F{'1 qua [G A]
+r0.6 .05 gi .80 -
+=2 cro rest qua G G G G cro rest
+r0.6 .18 consumimur
+=3 min rest cn(1
+r0.6 .50 noc .90 -
+=4' cro Bb}2 min. A
+r0.2 .01 - .25 mus
+|
+=1 smb G
+r0.6 .60 -
+=2 qua G G G G cro rest qua F G
+r0.6 .01 consumimur .75 consu  -
+=3 cro c)1 min. B
+r0.6 .25 te
+=4 cro rest min. A{2
+r0.2 .29 i .80 -
+
+/
+5 bars | 4 4 4 4 4 4 7 5 | 8 8 8 10 | 5/4 4 4 4 4 7 7 5 5 7 5 \
+ || 4/4 5 5 5 6 5 5 5 5 | 5 5 5 6 5 5 5 5 |
+|
+=1 smb Gb
+r0.6 .60 -
+=2 smb Ab(2
+r0.6  - .02 mi .60 -
+=3 min rest d(1
+r0.6 .45 noc
+=4' min Bb}2 cro Bb qua [Ab{2 Bb]
+r0.2 .01 - .40 mus .80 i
+|
+=1 smb F}1
+=2 cro Ab)2 min G qua G G
+r0.6 .24 mur .70 consu -
+=3 cro d)1 min. c#(1
+r0.6 .20 -
+=4 min Bn}2 cro B qua [c#{1 B]
+r0.2 .05 - .50 mus .79 i
+| 5/4 80
+=1 5/4 min.. Eb qua rest [G A]
+r0.6 .06 rum .80 i
+=2 5/4 min. G qua [Bb,{1 c}1] d eb
+r0.6 .10 mi .33 - .60 mur .80 igni
+=3 5/4 cro c#)1 min. cn qua [Bb' A]
+r0.6 .20 - .77 te .90 et
+=4 5/4 min A(2 qua [A)2 Bb'}'1] min cn(1
+r0.3 .10 - .60 mus
+
+| 4/4 80
+=1' 4/4 min. Bb cro A(2
+r0.6 .20 - .75 mus
+=2 4/4 leg90 smb D{1
+r0.6 .15 in
+=3 4/4 qua G G G G cro rest qua G G
+r0.6 .07 consumimur .77 consumimur
+=4 4/4 cro c)1 rest min d(1
+r0.3 .55 noc
+|
+=1 min A)2 cro rest eb(1
+r0.6 .74 noc  -
+=2 min. E}1 cro rest
+=3 qua G G cro rest qua G G G G
+r0.6 .48 consumimur
+=4 cro d)1{1 min c#}1 qua [cn B]
+r0.3 .10 - .74 te  et
+/
+5 bars | 4 4 4 5 4 5 4 4 | 4 5 4 5 4 4 4 4 \
+ | 4 4 4 4 4 5 4 4 | 4 4 4 5 4 4 4 4 | 5/4 4 4 4 4 4 6 6 7 6 4 ||
+|
+=1 min eb)1 d
+r0.6 .20 - .50 te
+=2 min. F{'1 qua [G A]
+r0.6 .05 gi .80 -
+=3 cro rest qua G G G G cro rest
+r0.6 .25 consumimur
+=4 leg60 qua A A A A cro rest qua A A
+r0.2 .01 consumimur .75 consumimur
+|
+=1 cro rest min. eb(1
+r0.6 .25 noc .90 -
+=2 cro G min A cro G
+r0.6 .60 -
+=3 qua G G G G cro rest qua F G
+r0.6 .01 consumimur .75 consu  -
+=4' qua A A cro rest qua B B B B
+r0.2 .50 consumimur
+|
+=1 cro eb)1 min d cro D
+r0.6 .25 te  .75 et
+=2 smb F}'1
+r0.6 .01 rum
+=3 smb Ab(2
+r0.6 .01 mi .60 -
+=4' cro rest qua B B B B cro rest
+r0.2 .23 consumimur
+|
+=1 leg60 qua Eb E E E cro rest qua En E
+r0.6 consumimur .74 consumimur
+=2 cro F G min A
+r0.6 .08 imus .50 noc .85 -
+=3 cro Ab)2 min G qua G G
+r0.6 .25 mur .75 consu -
+=4 cro rest qua A B' cro c B
+r0.2 .26 consumimur
+| 5/4 80
+=1 5/4 qua E E E F cro. G qua A Bb c
+r0.6 .21 consumi - .63 mur   igni.
+=2 5/4 cro Bb Bb qua Bb, c d eb f gb
+r0.6 .09 te .22 et .40 consumimur  igni.
+% =3 5/4 min G(2 qua [G)2 A] [Bb,{1 c}1] d eb
+=3 5/4 min. G qua [Bb,{1 c}1] d eb
+r0.6 .08 mi .33 - .60 mur .82 igni.
+=4 5/4 qua c d cro. d{1 qua c}1 qua [Bb' A] G F#
+r0.2 .05 consumi .38 - .60 mur .82 igni.

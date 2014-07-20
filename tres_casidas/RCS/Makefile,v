@@ -1,0 +1,85 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	98.09.18.01.21.01;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makes a4 and us-letter versions
+@
+
+
+1.1
+log
+@change to muscript1.7 for accents
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript1.7
+
+all : tres.a4 tres.us $(SD)/tres.a4
+
+tres.a4 : title.a4 p2.a4 p3.a4 llanto.a4 rosa.a4 palomas.a4 p21.a4 ../blurb/compositions.a4
+	cat title.a4 p2.a4 p3.a4 llanto.a4 rosa.a4 palomas.a4 p21.a4 > tres.a4
+	cat ../blurb/compositions.a4 >> tres.a4
+	cat $(FD)/perlheader tres.a4 > $(FD)/tres.a4
+tres.us : title.us p2.us p3.us llanto.us rosa.us palomas.us p21.us ../blurb/compositions.us
+	cat title.us p2.us p3.us llanto.us rosa.us palomas.us p21.us > tres.us
+	cat ../blurb/compositions.us >> tres.us
+	cat $(FD)/perlheader tres.us > $(FD)/tres.us
+
+llanto.a4 : llanto ${MUSCRIPT}
+	${MUSCRIPT} llanto > llanto.a4
+rosa.a4 : rosa ${MUSCRIPT}
+	${MUSCRIPT} rosa > rosa.a4
+palomas.a4 : palomas ${MUSCRIPT}
+	${MUSCRIPT} palomas > palomas.a4
+
+llanto.us : llanto ${MUSCRIPT}
+	${MUSCRIPT} -letter llanto > llanto.us
+rosa.us : rosa ${MUSCRIPT}
+	${MUSCRIPT} -letter rosa > rosa.us
+palomas.us : palomas ${MUSCRIPT}
+	${MUSCRIPT} -letter palomas > palomas.us
+
+title.a4 : title
+	cat /home/pjb/mus/blurb/banner.ps > title.a4
+	groff -p -t -e -ms title >> title.a4
+title.us : title.a4
+	echo '%!' > title.us
+	echo '8.4 0 translate 1 0.94074 scale' >> title.us
+	cat title.a4 >> title.us
+p2.a4 : p2
+	cat /home/pjb/mus/blurb/banner.ps > p2.a4
+	groff -p -t -e -ms p2 >> p2.a4
+p2.us : p2.a4
+	echo '%!' > p2.us
+	echo '8.4 0 translate 1 0.94074 scale' >> p2.us
+	cat p2.a4 >> p2.us
+p3.a4 : p3
+	cat /home/pjb/mus/blurb/banner.ps > p3.a4
+	groff -p -t -e -ms p3 >> p3.a4
+p3.us : p3.a4
+	echo '%!' > p3.us
+	echo '8.4 0 translate 1 0.94074 scale' >> p3.us
+	cat p3.a4 >> p3.us
+p21.a4 : p21
+	cat /home/pjb/mus/blurb/banner.ps > p21.a4
+	groff -p -t -e -ms p21 >> p21.a4
+p21.us : p21.a4
+	echo '%!' > p21.us
+	echo '8.4 0 translate 1 0.94074 scale' >> p21.us
+	cat p21.a4 >> p21.us
+
+$(SD)/tres.a4 : tres.a4 tres.us
+	./make_samples
+@

@@ -1,0 +1,64 @@
+.nr PS 14
+.nr VS 16
+.nr LL 6.4i
+.pl 11.5i
+.ds LF \f2\s-2\(co Peter J Billam 1999\s0\f1
+.ds RF \f2\s-2www.pjb.com.au\s0\f1
+.LP
+.ce 1
+\s+8\f3November at the Carousel\fP\s0
+.sp 2.3c
+.ce 1
+\s+4\f3Orchestra\fP\s0
+.sp 0.8c
+.LP
+.IP \f3Strings\ :\fP 3.5c
+First and second violins, violas, violoncelli, basses.
+.IP \f3Woodwind\ :\fP 3.5c
+Flute (doubling piccolo),
+two oboes (one doubling cor anglais),
+two clarinets in Bb (one doubling Eb),
+two basoons (one doubling contra).
+.IP \f3Brass\ :\fP 3.5c
+Two trumpets, two trombones, two horns in F.
+.IP \f3Saxophones\ :\fP 3.5c
+Saxophone quartet; soprano, alto, tenor and baritone.
+.IP \f3Percussion\ :\fP 3.5c
+Piano,
+one percussionist (snaredrum, triangle, 2 timpani).
+.sp 2.3c
+.LP
+.ce 1
+\s+4\f3Scenes\fP\s0
+.sp 0.81c
+.IP \f3Act\ One\fP 3c
+.RS
+.IP \f3Scene\ One\fP 3c
+Jack Ruby's office at the Carousel Club
+.IP \f3Scene\ Two\fP 3c
+On stage at the Carousel Club
+.IP \f3Scene\ Three\fP 3c
+At table at the Carousel Club
+.IP \f3Scene\ Four\fP 3c
+The same table after closing time
+.RE
+.IP \f3Act\ Two\fP 3c
+.RS
+.IP \f3Scene\ One\fP 3c
+The Grassy Knoll
+.IP \f3Scene\ Two\fP 3c
+The Texas Cinema
+.IP \f3Scene\ Three\fP 3c
+Inside Olsen's Car
+.IP \f3Scene\ Four\fP 3c
+A Corridor in the Police Station
+.IP \f3Scene\ Five\fP 3c
+The Garage in the Police Station
+.RE
+.IP \f3Act\ Three\fP 3c
+.RS
+.IP \f3Scene\ One\fP 3c
+Jack Ruby's trial
+.IP \f3Scene\ Two\fP 3c
+The Warren Commission Hearing
+.RE

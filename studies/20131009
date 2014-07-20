@@ -1,0 +1,22 @@
+6 systems /19-25-19/
+title Two-part Invention
+midi channel 0 patch 0
+/
+2 bars | 16 | 96 |
+| .7
+=1 treble cha0 leg100 4 rest
+=2 bass   cha0 leg100 8 rest 16 [e f#]
+| 3.15
+=1' 8 [B Bb] [Ab G] 8. [F# 16 E] 16 [D E G# An Bn c#]
+=2  16 [g fn g ab] [f# g# an gn] [a bb g# a#] 4 bn-P 16 [Gn-* An]
+/
+1 bars | 96 |
+|
+=1' 8. [d 16 c#] 8 [B Bb] 8. [A 16 G] 16 [F G Bn cn] [d e]
+=2  16 [Bb G# Bb Bn] [A B c Bb] [c c# Bn c#] 4 d'-P 16 [B_n-* C#]
+| 2.45
+=1 16 [f eb d eb] [db c c# B] [A# B' An G# 8 A#]
+=2 8 [Eb F] 16 [G A 8 B] [c#, 16 d d# e f#]
+| 3.15
+=1' 8. [B 16 Bb] 8 [Ab G] 8. [F# 16 E] 16 [D E G# An Bn c#]
+=2  16 [g fn g ab] [f# g# an gn] [a bb g# a#] 4 bn-P 16 [Gn-* F#]

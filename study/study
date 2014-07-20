@@ -1,0 +1,337 @@
+6 systems 10 /20-35-20 /20-35-20 /20-35-20 /20-31-20 /20-35-20 /20-31-20 7 /
+title Piano Study
+pagenum 2
+innerhead Peter Billam
+leftfoot (c) Peter J Billam 1994
+midi channel 1 patch 0 pan 20
+midi channel 2 patch 0 pan 80
+/
+3 bars | 1.2 1 1.5 1 1 1 1 1 .9 .9 .9 1 1 \
+ | 1 1 1.3 1 1 1 1 1 | 1 1 1.3 1 1 1 1.2 1.4 1 1 1 1 1 |
+| 2.6
+b0.1 .81 '
+=1 treble 13/8 cha1 leg95 cro Eb-s2 qua Eb  [Db, db,]  [Eb, eb, Eb,]  cro. db,  qua [Eb, eb,]
+i0.15 .10 cresc . .
+I0.15 .60 mp
+=2 bass 13/8 cha2 leg95 qua rest min eb-s1,  cro. Bn cro. Bb cro ab,
+b0.4 .71 *P
+| 1.6
+=1 8/8 qua [db, d~b, db,]  [eb, Eb,]  [db, Db, db,]
+I0.55 .10 mf
+=2 8/8 cro. g, cro f#, a, qua f#,
+| 2.6
+=1 13/8 qua [Bb, bb, Bb,] [db, Db,]  [Bb' B_b' Bb'] cro. Db'  cro Bb'
+i0.6 .68 cresc . .
+=2 13/8 cro eb qua f cro gb cro. gn cro ab, qua [en, f, bb,]
+/
+3 bars | 1.1 1.1 1.2 1 1.2 .9 .9 1.2 .9 .9 1.2 1 .9 \
+ | 1 1 1.1 1 1.3 1 1 1 | 1 1 1.5 1 1.3 1.5 1 1.3 1.3 1 1.3 1.3 1 |
+|
+=1 cro Gb, Gb,  qua Bb,  [Gb, gb, Gb,]  cro. Bb,  qua [Gb, gb]
+I0.4 .36 f
+=2 qua [en, gb, ab,] cro bb  cro. A_b  cro c~, qua ab, cro eb,
+b0.85 .44 *P_
+| 1.6
+il 5
+=1 8/8 qua [Bb, bb, Bb,] [gb, Gb,] cro Bb, qua Bb,
+I0.4     f
+i0.5 .70 dim . .
+=2 8/8 cro en, qua ab, cro. d~b, cro bb,
+b0.5 .14 *P
+| 2.6
+=1 13/8 qua [Eb, eb, Eb,] [Bb' B_b'] cro Eb' qua Eb' [B_b' Bb' B_b'] cro Eb'
+=2 13/8 cro f, qua G cro Ab  qua F cro eb cro. ab,  qua [Gb eb']
+b0.5 .08 *P .29 *P .52 *P .87 *P
+/
+3 bars | 1.2 1 1.2 1.2 1.3 1.4 .9 .9 \
+ | 1 1 1.4 1.3 1.3 1 1 1.3 1 1 1 1 1 | 1 1 1.2 1 1.3 1 1.3 1 .9 .9 .9 1.3 1 |
+| 1.6
+=1 8/8 qua B_b rest B_b  rest Eb [B_b' Bb' B_b']
+I0.3 .08 f
+i0.4 .38 dim . .
+=2 8/8 qua rest' cro Bb' eb'  cro. c'
+=2 8/8 smb C
+b0.4 .21 *P
+| 2.6
+b0.1 .45 '
+=1 13/8 cro C' qua C'  [B_b' Bb'] [C' c' C'] cro. Bb,  qua [C' c']
+I0.4 .03 pp
+i0.4 .55 cresc . .
+=2 13/8 qua rest cro c qua [d' F'] cro eb qua F# cro. G cro en
+b0.4 .31 *P .47 *P .70 *P
+|
+=1 qua [Ab, ab, Ab,]  [c' C']  [Ab' A_b' Ab']  cro. C'  cro Ab'
+I0.3 .03 f
+=2 cro F qua d cro Bb cro. d, cro. eb qua [bb ab]
+/
+3 bars | 1.1 1.1 1.4 1.4 1.1 1.1 1.1 1 \
+ | .9 .9 .9 1 1.3 1 1 1 .9 .9 .9 1 1 | 1 1.2 1 1 1.2 1 1 1 1 1 1 1 1 |
+| 1.6
+il0.4     10
+=1 8/8 cro. rest qua [D Ab] [C' c' C']
+i0.3 .47 dim . . .
+=2 8/8 qua [c~, c, c~,] cro ab, cro. f,
+| 2.6
+=1 13/8 cro. G# qua [B_ B']  [G#, g# G#,] cro. B,  qua [G#, g#]
+I0.3 .05 pp
+i0.3 .23 rit . . .76 tempo
+=2 13/8 smb e
+b0.1 .13 *P_
+|
+=1 qua [f#, f~#, f#,] [b, B,] [f#, F#, f#,] cro. B,  qua [f#' F#']
+i0.3 .11 acc . . .81 tempo
+i0.2 .47 rit . .
+=2 cro e, qua [a  d~, a]  min. <d#, c~#,> cro a,
+b0.1 .21 *P .46 *P
+/
+3 bars | 8 | .9 .9 .9 1 1 1 1 1 .9 .9 .9 1 1 | 8 |
+| 1.6
+=1 8/8 qua [B'-s2 B_-s2,  B']  [F#, f#,] [B, b, B,]
+i0.7  cresc . .
+=2 8/8 cro. <e, d~,> cro <e, d~,> cro. a,
+b0.1 .14 *P
+| 2.6
+=1 13/8 cro. f#,  qua [c, c~,]  [f# f~#, f#,] cro. c~,  qua [f#, f~#,]
+i0.75 .15 cresc . .
+I0.75 .37 f . .
+=2 13/8 qua cro. a, cro d~,  cro. <e~b ab,> cro. bb, cro bb,
+b0.1 .43 *P
+| 1.6
+i0.85  8va    . . . |
+=1 8/8 qua tra+12 [c, c~, c,] tra0 [f~#, f#,] [c~, c, c~,]
+I0.6   ff
+i0.4 .28 rit . .     dim . .
+=2 8/8 smb <a e~>
+b0.1 .15 *P
+/
+3 bars | 13 | 1 1 1 1 1 1 1 1 .9 .9 .9 1 1 | 1 1 1.3 1 1 1 1 1 |
+| 2.6
+=1 13/8 qua [d, d~, d,]  [c~, c,]  [d' D' d']  cro. c,  qua [d' D']
+i0.4 .04 tempo .38 dim . . .
+=2 13/8 cro G qua e cro f  cro. Ab cro An qua f# cro g
+I0.4 .09 mp
+i0.4 .28 cresc . . .
+b0.4 .88 *P
+|
+=1 qua [F-s2 F_-s2, F] [D d']  [F, f F,]  cro. d  qua [F, f]
+i0.1 .39 cresc . .
+=2 smb. g
+=2 min Bb, qua rest cro. Bn, min c, qua rest
+b0.4 .43 *P .66 *P
+| 1.6
+=1 8/8 qua [d, d~, d,] [f, F,] [d' D' d']
+I0.5 .11 f
+i0.5 .65 dim . .
+=2 8/8 cro ab, qua c~ cro an, cro. bb,
+b0.1 .49 *P .70 *P
+
+6 systems / 20-31-20 / 20-31-20 / 20-31-20 / 20-31-20 / 20-31-20 / 20-31-20 5/
+pagenum 3
+innerhead Piano Study, Peter Billam
+leftfoot (c) Peter J Billam 1994
+/
+3 bars | 1 1 1 1 1 1 1 1 1.3 1 1 1 1 \
+ | 1 1 1 1 1 1 1.3 1 | 1 1 1 1 1.3 1 1.3 1 1 1 1 1.3 1 |
+| 2.6
+=1 13/8 qua [A, a A,] [f F,] cro A qua A  cro. F  cro A
+i0.4 .03 dim . .
+=2 13/8 cro c~, qua eb, cro g,  qua [d, a, g,]  [b, eb, c~,]  [g, a,]
+| 1.6
+il 20
+=1 8/8 qua cro. <B' d'> qua [g A,] [eb f eb]
+=2 8/8 qua [f~ f f~] cro a f~ qua f~
+| 2.6
+=1 13/8 cro c' qua c'  [F, f,]  [c, c~, c,]  min f qua c~,
+I0.6 .10 . . mf
+i0.6 .57 cresc . . .
+=2 13/8 qua [a c~ a]  [d~ g]   [bb g  bb]   cro d qua [bb d~ ab]
+/
+3 bars | 13 | 8 | 1 1.4 1 1 1 1 1 1 .9 .9 .9 1 1 |
+| 2.6
+b0.1 .80 '
+=1 qua [f, f~, f,] [b, B,]  [f' F' f'] cro. B'  qua [f' F']
+I0.55 .06 f .64 mf
+i0.45 .24 dim . .
+=2 cro. <ab, db,> smb <g dn> cro <a, d,>
+| 1.6
+=1 8/8 qua [B' B_' B']  [F, f,]  [B, b, B,]
+=2 8/8 smb g#
+=2 8/8 cro. d#, cro c#, cro. d#,
+| 2.6
+b0.1  '                                             '
+=1 13/8 qua [c#' C# c#']  [B, b,]  [c#, c~#, c#,]  cro. b,  qua [c#, c~#,]
+I0.5 .03 p
+i0.5 .53 cresc . .
+=2 13/8 cro. F#' cro d#, cro. e,  A' cro f
+b0.1 .48 *P .70 *P
+/
+3 bars | 1 1 1 1 1 1 1 1.3 .9 .9 .9 1 1 \
+ | 1 1.3 1 1 1.3 1 1 1 | 1 1 1.3 1 1 1 1 1.2 1 1 1 1 1 |
+|
+il0.7 25
+b0.1 .78 '
+=1 qua [d, d~, d,] [bb, Bb,] [d' D' d'] cro. Bb'  qua [d' D']
+I    mf
+=2 min <Ab' f'> qua rest cro. c <G' e'> cro c
+| 1.6
+=1 8/8 qua [Bb' B_b' Bb'] [D' d'] [Bb, bb, Bb,]
+=2 8/8 min <Ab, f,> qua rest cro. c'
+| 2.6
+=1 13/8 qua [g G, g] [Bb, bb,] [g, g~, g,] [bb, Bb, bb,] [g, g~,]
+=2 13/8 cro. eb, cro d, cro. en f cro c~
+/
+3 bars | 1 1.3 1 1 1.2 1 1 1 | 1 1 1 1 1 1 1 1.3 .9 .9 .9 1 1 \
+ | 1.2 1.2 1.2 1 1.2 1 1 1.2 .9 .9 .9 1 1 |
+| 1.6
+=1 8/8 qua [bb b~b bb] [g~ g] [bb, Bb, bb,]
+I0.75 .05 f
+=2 8/8 cro. d~b, cro d~n, cro e~b, qua f
+| 2.6
+=1 13/8 qua [f, f~, f,] [bb, Bb,] [f' F' f']  cro. Bb,  qua [f' F']
+i0.6 .42 dim . .
+I0.6 .76 mp
+=2 13/8 cro. g cro e~b cro. <g d~b> <g c,> cro ab
+|
+il 30
+=1 cro Ab  Ab qua Bb,  [Ab, ab, Ab,]  cro. Bb,  qua [Ab, ab,]
+=2 smb e~b
+=2 qua [gb qua ab gb] cro bb min. f cro d~n
+/
+3 bars | 1 1 1 1 1.3 1 1 1 | 1 1 1 1 1.3 1 1 1.3 1 1 1.3 1 1 \
+ | 1 1 1.3 1 1.2 1.3 1 1.3 .9 .9 .9 1.3 1 |
+| 1.6
+=1 8/8 qua [Bb, bb, Bb,] [ab, Ab,] cro Bb' qua Bb'
+I0.4    mf
+i0.4 .56 dim . .
+=2 8/8 min. d~b cro bb
+| 2.6
+=1 13/8 cro. blank cro blank min. eb' cro rest'
+=1, 13/8 qua [Db db Db] cro Bb cro. F cro Gb qua Gn cro Ab
+=2 13/8 min f qua bb  [d~b db d~b]  cro. bb  qua [d~b db]
+|
+=1 cro en qua db cro Ab' qua c, [Gb' A',] cro. Eb  qua [Ab' Gb']
+=2 qua [gb Gb, gb] [Bb, bb] cro gb qua gb cro. bb  cro gb
+/
+3 bars | 9 | 13.3 | 1 1 1.3 1 1 1 1 1 |
+| 1.6
+=1 8/8 qua [B_b' Bb' B_b']  cro Eb cro. rest
+I0.4 .02 p
+i0.6 .46 cresc . .
+=2 8/8 min rest qua eb, [bb, Bb, bb,]
+| 2.6
+il0.7 35
+=1 13/8 cro gb qua Ab, cro gn-emph cro. F F# cro ab
+I0.6     f
+i0.7 .46 cresc . . .
+=2 13/8 qua [eb e~b eb] [bb, Bb,] [eb' Eb' eb'] [Bb, bb, Bb,] [eb' Eb']
+| 1.6
+=1 8/8 cro. <Bb, bb,> cro G d qua eb
+I0.4 .02 ff
+i0.6 .20 poco accell ...
+=2 8/8 qua [c C c] [Bb, bb] [c, c~ c,]
+
+6 systems / 20-31-20 / 20-31-20 / 20-31-20 / 20-31-20 / 20-31-20 / 20-31-20 10/
+pagenum 4
+innerhead Piano Study, Peter Billam
+rightfoot (c) Peter J Billam 1994
+/
+3 bars | 1 1 1 1 1.3 1.3 1 1.2 .9 .9 .9 1 1 | 1 1 1.3 1 1 1 1 1.3 .9 .9 .9 1 1 | 1 1 1 1 1.3 1 1 1 |
+| 2.6
+=1 13/8 cro. d cro Bb qua [F, Ab, f] min eb qua Ab
+I0.6 .08 f
+=2 13/8 qua [ab, Ab, ab,]  [c, c~,]  cro ab, qua ab,  cro. c~, cro ab,
+b0.1 .91 *P
+|
+=1 qua [B_ B' B_] G# rest smb rest
+i0.2  dim . . .
+=2 min <Eb E_b> qua g# [b, B, b,] cro. g#,  qua [b, B,]
+| 1.6
+=1 8/8 cro. rest cro rest cro. fn
+=2 8/8 qua [g#, G#, g#,]  [B, b,]  [g#, g~#, g#,]
+/
+3 bars | 13 | 1 1 1 1 1.3 1 1.3 1 | .9 .9 .9 1 1 1 1 1 .8 .8 .8 1 1 |
+| 2.6
+il 40
+=1 13/8 cro. d# smb c# qua [A B']
+=2 13/8 qua [b B, b] [f# f~#] [b b~ b] cro. f~#  cro b
+| 1.6
+=1 8/8 qua  [F#, f#, F#,] [c' C']  [F#' F_#' F#']
+I0.2 .02 f
+=2 8/8 smb <D D_>
+b0.4 .24 *P
+| 2.6
+=1 13/8 qua [D' d' D']  [c' C]  cro D qua D  cro. C'  cro D
+I0.4 .07 f
+=2 13/8 min. <F F_>  qua d rest  cro. rest  qua rest d
+/
+3 bars | 14 | 8.3 | 13.3 |
+|
+=1 cro. Gb qua rest D [C c' C] cro. <F D> qua [C c']
+I0.2 .29 f
+=2 qua [c~, c, c~,]  d, rest  smb <Ab A_b>
+b0.7 .48 *P
+| 1.6
+=1 8/8 qua [D' d' D'] F min rest
+I0.5 .04 f
+=2 8/8 min <A_n An> qua f  [d~ d d~]
+b0.85 .20 *P
+| 2.6
+il0.4 45
+=1 13/8 cro. <Eb' c'> cro rest min. rest cro <B, d,>
+i0.75 .28 dim . . .
+=2 13/8 cro. f  qua [a A,] [f' F f']  cro. A  qua [f' F']
+b0.1 .12 *P
+/
+3 bars | 13 | 8.2 | 13 |
+|
+=1 min <Ab, eb,> qua rest cro. <An, d,> cro. <Ab,(2 eb,(1> cro <Ab,)2 eb,)1>
+=2 qua [c C c] [F f']  [c, c~ c,]  cro. f  qua [c, c~]
+| 1.6
+=1 8/8 cro. rest cro rest cro. <Ebl(2 An>
+I0.5 .04 mp
+=2 8/8 qua [f, f~, f,]  [c~, c,]  [f, F, f,]
+| 2.6
+=1 13/8 smb <Eb)2 Ab>
+i0.5 .10 dim . . .
+=2 13/8 qua [B, b B,] [f' F] [B B_ B] cro. F  qua [B B_]
+/
+3 bars | 1 1.3 1 1 1 1.3 1 1 \
+ | 1 1.3 1 1 1.3 1 1 1.2 .9 .9 1.3 .9 .9 | .9 .9 1 1 1 .9 1.3 .9 .9 .9 .9 .9 |
+| 1.6
+i0.15 .15 cresc . .
+=1 8/8 cro. <F_# D#> cro <F_# E> cro. <G_ E>
+=2 8/8 qua [C# C_# C#] [B_ B] [C# c# C#]
+| 2.6
+il0.4 50
+=1 13/8 cro A_b qua E cro F D qua F cro. G cro F
+=2 13/8 qua [Bb' B_b' Bb'] [D d'] [Bb, bb Bb,] [d' D d'] [Bb, bb]
+|
+=1 qua cro. <E G> cro <F Ab> cro. rest <Ab c'-emph> cro <Ab c'>
+I0.8 .62 f
+=2 qua [d, d~ d,] [bb Bb,] [d' D d'] [Bb, bb Bb,] [d' D]
+b0.4 .03 *P
+/
+4 bars | 1 1.6 1 1 1.4 1 1 1 \
+ | .9 .9 .9 1 1 1 1 1.3 .9 .9 .9 1 1 \
+ | 1.45 1 1.4 1.3 1 .9 .9 1.1 .9 .9 .9 1 1 \
+ | .9 .9 .9 1.1 1.1 .9 .9 .9 ||
+| 1.6
+=1 8/8 cro. db cro F cro. En
+i0.4 .13 dim  e  rit . .
+=2 8/8 qua [Bb' B_b' Bb'] [G, g,] [Bb, bb, Bb,]
+| 2.6
+=1 13/8 smb <A_b Eb>
+I0.3    pp
+b0.1 .20 , .80 ,
+=2 13/8 cro. f  qua [Bb, bb] [f f~ f] cro. bb  qua [f f~]
+b0.1 .11 *P
+|
+=1 qua [A_b Ab A_b] min Eb qua rest cro. F#(1 cro F#)1
+i0.7 .40 dim . . .
+=2 cro. rest  qua rest eb cro. bb  eb qua [db d~b]
+b0.1 .69 *P
+| 1.6
+=1 8/8 cro. <F# A> cro <G# B'> cro. <Gb' eb'>
+i0.8 .02 dim  e  rit
+=2 8/8 cro. <eb d~b> cro <eb d~b> cro. <db ab>
+b0.2 .17 *P .45 *P .73 *P

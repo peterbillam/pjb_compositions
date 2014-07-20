@@ -1,0 +1,2187 @@
+head	1.8;
+access;
+symbols;
+locks
+	pjb:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2009.12.28.04.47.24;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.12.28.02.23.59;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.12.27.22.57.11;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.12.27.10.26.02;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.12.27.05.07.50;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.12.26.22.47.46;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.12.26.09.38.39;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.12.26.07.43.22;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@running on from make4 output, spaced and paged
+@
+
+
+1.8
+log
+@roughly 4-hands to the end :-)
+@
+text
+@midi off
+4 systems 8 / 18-20-18-22-18-22-18/ 18-20-18-22-18-22-18 \
+ / 18-20-18-30-18-22-18/ 18-20-18-22-18-30-18/
+title Double canon  at four semitones
+pagenum
+midi channel 1 patch 0 pan 95
+midi channel 2 patch 0 pan 65
+midi channel 3 patch 0 pan 35
+midi channel 4 patch 0 pan 5
+/
+4 bars | 12 | 48 | 12 12 12 11 | 44 |
+| 0.35
+il0.4 .03 in open score
+=1 treble cha1 4 rest
+I0.1 .04 p
+=2 treble cha2 8 vol80 [A_b A_b]
+=3 bass   cha4 4 rest
+=4 bass   cha3 8 vol80 [f f]
+I0.1 .03 p
+| 1.4
+=1 1 rest
+=2 8 [A_b A_b A_b A_b] [A_b A_b A_b A_b]
+=3 1 rest
+=4 8 [f f f f] [f f f f]
+|
+=1 2. rest 8 vol80 [C C]
+I0.8 .66 p
+=2 8 [A_b A_b A_b A_b] [A_b A_b] vol105 4 E-.
+I0.6 .74 f
+=3 2. rest 8 vol80 [a a]
+I0.9 .70 p
+=4 8 [f f f f] [f f] vol105 4 F#-.
+I0.1 .67 f
+|
+=1 8 [C C C C] [C C C C]
+=2 4 G#-. F#-. B-. A-.
+=3 8 [a a a a] [a a a a]
+=4 4 c-. A-. e-. d#-.
+/
+3 bars | 3 2.5 3 3 3 3 3 4 3 2 3 3 3 3 3 2 | 48 | 48 |
+|
+I0.1 .72 f
+=1 8 [C C C C] [C C] vol105 4 G#-.
+=2 4 c 8. [B 16 A,] 4 G vol80 8 [E E]
+I0.9 .70 p
+=3 8 [a a a a] [a a] vol105 4 Bb-.
+I0.9 .68 f
+=4 4 g 8. [f# 16 e] 4 d# vol80 8 [c~# c~#]
+I0.01 .70 p
+|
+il0.5 .15 5
+=1 4 c-. Bb-. d#-. c#-.
+=2 vol80 8 [E E E E] [E E E E] 
+=3 4 e-. c#-. ab-. g-.
+=4 vol80 8 [c~# c~# c~# c~#] [c~# c~# c~# c~#]
+|
+I0.2 .66 p
+=1 4 e 8. [d# 16 c#,] 4 B vol80 8 [G# G#]
+I0.1 .47 f
+=2 8 [E E E E] vol105 4 g 8. [f# 16 e]
+I0.1 .65 p
+=3 4 b 8. [bb 16 ab] 4 g vol80 8 [f~ f~]
+=4 8 [c~# c~# c~# c~#] vol105 4 D 8. [C# 16 B_]
+I0.01 .45 f
+/
+4 bars | 48 | 12 12 10 12 | 44 | 12 12 12 10 |
+|
+=1 vol80 8 [G# G# G# G#] [G# G# G# G#]
+I0.1 .90 p
+=2 1 d
+=3 vol80 8 [f~ f~ f~ f~] [f~ f~ f~ f~]
+I0.1 .90 p
+=4 1 A_#
+|
+I0.6 .47 f
+=1 8 [G# G# G# G#] vol105 4 b 8. [a# 16 g#]
+=2 vol80 8 D 4 rest 8 D rest [D D] rest
+=3 8 [f~ f~ f~ f~] vol105 4 Gb 8. [F 16 Eb]
+I0.9 .40 f
+=4 vol80 8 b 4 rest 8 b rest [b b] rest
+|
+I0.2 .90 p
+=1 1 f#
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 1 D treble
+I0.9 .80 p
+=4 8 rest [b b] rest 8 b 4 rest 8 b
+|
+il0.5 .05 10
+=1 vol80 8 F# 4 rest 8 F# rest [F# F#] rest
+=2 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=3 vol80 8 Eb 4 rest 8 Eb rest [Eb Eb] rest
+=4 8 rest [g g#] rest 8 a 4 rest 8 a
+/
+4 bars | 48 | 48 | 42 | 48 |
+|
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=3 8 rest [Eb Eb] rest 8 Eb 4 rest 8 Eb
+=4 8 bb 4 rest 8 bb 8 rest [bb bb] rest
+|
+=1 8 rest [D# D#] rest 8 E 4 rest 8 E
+=2 8 A 4 rest 8 A#  8 rest [A#' B'] rest
+=3 8 rest [B_ C] rest 8 C# 4 rest 8 C#
+=4 8 f~ 4 rest 8 f~ 8 rest [f~# g~] rest
+|
+=1 8 F 4 rest 8 F 8 rest [F F] rest
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 8 D 4 rest 8 D 8 rest [D D] rest
+=4 8 rest [b b] rest 8 b 4 rest 8 b
+|
+=1 8 c# 4 rest 8 d 8 rest [d eb] rest
+=2 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=3 8 A 4 rest 8 A 8 rest [A# B'] rest
+=4 8 rest [g g#] rest 8 a 4 rest 8 a
+
+3 systems 8 /18-22-18-22-18-30-18 \
+ / 18-30-18-22-18-22-18/ 18-30-18-22-18-22-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 48 | 48 | 42 | 48 |
+|
+il0.5 .05 15
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=3 8 rest [Eb Eb] rest 8 Eb 4 rest 8 Eb
+=4 8 bb 4 rest 8 bb 8 rest [bb bb] rest
+|
+=1 8 rest [Eb Eb] rest 8 En 4 rest 8 E
+=2 8 A 4 rest 8 A  8 rest [A#' B'] rest
+=3 8 rest [B_ C] rest 8 C# 4 rest 8 C#
+=4 8 f~ 4 rest 8 f~ 8 rest [f~# g~] rest
+|
+=1 8 F 4 rest 8 F 8 rest [F F] rest
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 8 D 4 rest 8 D 8 rest [D D] rest
+=4 8 rest [b b] rest 8 b rest vol105 4 B_-.
+I0.3 .60 f
+|
+=1 8 c# 4 rest 8 c# 8 rest [d eb] rest
+I0.1 .65 f
+=2 8 rest [G_ G_#] rest B_ rest vol105 4 f-.
+=3 8 A 4 rest 8 A 8 rest [A# B'] rest
+=4 4 F-. rest vol80 8 g# rest rest g#
+I0.1 .40 p
+/
+4 bars | 6 6 6 6 6 11 6 5 | 48 | 12 12 12 11 | 48 |
+|
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 4 c~#-. vol80 8 rest B_ rest [B_ B_] rest
+I0.9 .25 p
+=3 8 rest [Eb Eb] rest 8 Eb rest bass vol105 4 Eb-.
+I0.8 .67 f
+=4 8 g# 4 rest 8 g# rest [g# g# d#]
+|
+il0.5 .05 20
+I0.4 .64 f
+=1 8 rest [B_ C] rest Eb rest vol105 4 a-.
+=2 8 A_ 4 rest 8 A_ rest [A_ A_ A]
+=3 4 A-. rest vol80 8 c~ rest rest c~
+I0.9 .35 p
+=4 8 [gb f f gb] [f gb gb f]
+|
+I0.2 .35 p
+=1 4 f~-. vol80 8 rest Eb rest [Eb Eb] rest
+=2 8 [Eb D D] rest D 4 rest 8 D
+=3 8 c~ 4 rest 8 c~ rest [c~ c~ g]
+=4 8 [a bb bb a] bb rest vol105 4 F-.
+I0.3 .70 f
+|
+=1 8 C# 4 rest 8 C# rest [C# C# c#']
+I0.3 .22 f
+I0.1 .73 p
+=2 8 rest D# vol105 4 f#-. d~#-. vol80 8 rest F#
+=3 8 [bb a a bb] [a bb bb a]
+I0.2 .35 p
+=4 4 d#-. rest vol80 8 f~# rest vol105 4 G-.
+I0.3 .70 f
+/
+4 bars | 24 21 | 6 6 6 7 6 11 6 5 | 12 12 11 12 | 48 |
+|
+=1 8 [G F# F#] rest F# 4 rest 8 F#
+I0.3 .22 f
+I0.1 .73 p
+=2 4 rest vol105 g#-. e~-. vol80 8 [E D]
+I0.1 .70 f
+=3 8 [c~# d~ d~ c~#] d~ rest vol105 4 A-.
+I0.2 .30 p
+=4 4 e-. vol80 8 rest e~ [d~ c~ c~] rest
+|
+I0.5 .17 f
+I0.2 .73 p
+=1 8 rest G vol105 4 bb-. g~-. vol80 8 rest Bb
+=2 8 [E D D E] [D E E D]
+I0.1 .30 p
+I0.1 .75 f
+=3 4 g-. rest treble vol80 8 Bb rest bass vol105 4 B-.
+=4 8 [bb c~ c~ bb] [c~ bb bb c~]
+|
+il0.6 .01 25
+I0.5 .17 f
+I0.2 .73 p
+=1 4 rest vol105 c~-. g~#-. vol80 8 [G# F#]
+=2 8 [D E E D] 4 rest 8 [B c]
+I0.2 .33 p
+=3 4 g#-. treble vol80 8 rest G# [F# E E] rest
+=4 8 [c~ bb bb c~] 4 rest 4 b
+|
+=1 8 [G# F# F# G#] [F# G# G# F#]
+=2 8 [c# d c# cn] [B c c# d]
+=3 8 [D E E D] [E D D E]
+=4 8 [bb a g#] 4 bn 8 [bb a g#]
+
+3 systems 8 /18-25-18-30-18-25-18 \
+ / 18-25-18-25-18-25-18/ 18-30-18-35-18-25-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1 8 [F# G# G# F#] 4 rest 8 [d# e]
+=2 8 [db c B c] [c# d] [A_ A_]
+=3 8 [E D D E] 4 rest 4 D
+=4 4 b 8 [bb a] [ab g f# f#]
+|
+=1 8 [f gb f e] [d# e f gb]
+=2 8 [A_ A_ A_ A_] [A_ A_ A_ A_]
+=3 8 [D C# Cn] 4 Eb 8 [D C# Cn]
+=4 8 [f# f# f# f#] [f# f# f# f#]
+|
+=1 8 [f e d# e] [f gb] [C# C#]
+=2 8 [A_ A_ A_ A_] [A_ A_] vol105 4 F-.
+I0.8 .76 f
+=3 4 Eb bass 8 [d~ c~#] [c~n b bb bb]
+=4 8 [f# f# f# f#] [f# f#] vol105 4 G-.
+I0.1 .71 f
+|
+il0.5 .05 30
+=1 8 [C# C# C# C#] [C# C# C# C#]
+=2 4 A-. G-. c-. Bb-.
+=3 8 [bb bb bb bb] [bb bb bb bb]
+=4 4 c#-. Bb-. f-. e-.
+/
+4 bars | 3 3 3 3 3 3 3 5.5 3 3 3 3 3 3 3 2 | 43 \
+ | 3 2.5 3 2.5 3 2.5 3 5.5 3 2 3 2 3 3 3 3 | 6 6 6 6 6 6 6 5 |
+|
+I0.2 .73 f
+=1 8 [C# C# C# C#] [C# C#] vol105 4 A-.
+=2 4 db 8. [c 16 Bb] 4 Ab vol80 8 [F F]
+I0.9 .71 p
+=3 8 [bb bb bb bb] [bb bb] vol105 4 B-.
+I0.9 .71 f
+I0.1 .68 p
+=4 4 ab 8. [g 16 f]  4 e vol80 8 [d~ d~]
+|
+=1 4 c#-. B-. e-. d-.
+=2 vol80 8 [F F F F] [F F F F]
+=3 4 f-. d-. a-. g#-.
+=4 vol80 8 [d~ d~ d~ d~] [d~ d~ d~ d~]
+|
+I0.2 .70 p
+=1 4 f 8. [e 16 d] 4 c vol80 8 [A A]
+I0.2 .43 f
+=2 8 [F F F F] vol105 4 ab 8. [g 16 f]
+I0.2 .63 p
+=3 4 c~ 8. [b 16 a] 4 g# vol80 8 [f~# f~#]
+=4 8 [d~ d~ d~ d~] vol105 4 Eb 8. [D 16 C]
+I0.2 .43 f
+|
+=1 vol80 8 [A A A A] [A A A A]
+=2 1 eb
+=3 vol80 8 [f~# f~# f~# f~#] [f~# f~# f~# f~#]
+=4 1 B_
+/
+4 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 | 12 12 12 11 | 45 | 48 |
+|
+il0.8 .08 35
+I0.7 .44 f
+=1 8 [A A A A] vol105 4 c~ 8. [b 16 a]
+I0.1 .03 p
+=2 vol80 8 [Eb C C Eb] [C Eb Eb C]
+=3 8 [f~# f~# f~# f~#] vol105 4 G 8. [F# 16 E]
+I0.8 .43 f
+=4 vol80 4 rest eb eb c
+I0.1 .05 p
+|
+I0.2 .93 p
+=1 1 g
+=2 vol80 8 [A, a a~ a] [A' Eb Eb C]
+=3 1 Eb
+=4 vol80 8 [e~b c~ c~ e~b] [c~ a A, a]
+|
+=1 vol80 8 [G E E G] [E G G E]
+=2 4 Db C C Db
+I0.1 .13 p
+=3 vol80 4 rest g g e
+=4 8 rest 4 a a a 8 a
+|
+=1 8 [c#, c~# c~~# c~#] [c#' G G E]
+=2 8 rest 4 B_b B_b B_b 8 B_b
+=3 8 [g~ e~ e~ g~] [e~ c~# c#, c~#]
+=4 4 G e Bb rest
+
+4 systems 8 /18-32-18-28-18-22-18/ 18-22-18-22-18-22-18 \
+ / 18-22-18-22-18-22-18/ 18-22-18-22-18-22-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 48 | 48 | 42 | 12 12 12 11 |
+|
+=1 4 F E E F
+=2 8 [Bb G, G, Bb] [G, Bb Bb G,]
+=3 8 rest 4 c~# c~# c~# 8 c~#
+=4 4 rest bb bb g
+|
+il0.5 .05 40
+=1 8 rest 4 D D D 8 D
+=2 8 [G#, g# g~# g#] [G#' D] 4 B_
+=3 4 B g# d rest
+=4 8 [b d~ d~ b] [b g# G#, g#]
+|
+=1 8 [d B, B, d] [B, d d B,]
+=2 2. B_ vol105 4 A_-.
+I0.8 .63 f
+=3 4 rest d~ d~ b
+=4 2. Gn vol105 4 F#-.
+I0.1 .63 f
+|
+=1 vol80 8 [c, c~ c~~ c~] [c' F#] 4 Eb
+=2 4 A-. rest rest vol80 4 A(2
+I0.9 .70 p
+=3 vol80 8 [e~b f~# f~# e~b] [e~b c~ c, c~]
+=4 4 f#-. rest rest vol80 4 fn(1
+I0.1 .66 p
+/
+4 bars | 6 5 5 6 5 7 5 5 | 44 | 6 5 5 6 5 7 5 5| 6 5 7 6 5 7 5 5|
+|
+I0.2 .66 f
+=1 2. Eb vol105 4 Db-.
+=2 4. A)2 4 G# 8 A 4 G#(1
+I0.1 .66 f
+=3 2. B vol105 4 Bb-.
+=4 4. f)1 4 gb 8 f 4 e(1
+|
+I0.2 .66 p
+=1 4 db-. rest rest vol80 4 db(1
+=2 2. G#)1 vol105 4 A_-.
+I0.8 .66 f
+=3 4 bb-. rest rest vol80 4 a(1
+I0.9 .66 p
+=4 2. e)1 vol105 4 F#-.
+I0.1 .66 f
+|
+il0.5 .15 45
+=1 4. db)1 4 c 8 db 4 c(1
+=2 4 A-. rest rest vol80 4 Bb(1
+I0.9 .66 p
+=3 4. a)1 4 bb 8 a 4 g#(1
+=4 4 f#-. rest rest vol80 4 fn(1
+I0.1 .66 p
+|
+I0.2 .66 f
+=1 2. c)1 vol105 4 C#-.
+=2 4 Bb)1 8 A 4 Bb' 8 A 4 Ab(2
+I0.1 .66 f
+=3 2. g#)1 vol105 4 Bb-.
+=4 2 f)1  4 d  4 d#(1
+/
+4 bars | 6 5 7 6 5 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+I0.2 .66 p
+=1 4 c#-. rest rest vol80 4 d(1
+=2 4 Ab)2 8 G 4 Ab 8 G [F F]
+I0.1 .66 p
+=3 4 bb-. rest rest vol80 4 a(1
+=4 2. d#)1 treble 8 [B_ B_]
+|
+=1 4 d)1 8 c# 4 d 8 c# 4 cn(1
+=2 8 [F F F F] [F F A A]
+=3 2 a)1 4 f# 4 g(1
+=4 8 [B_ B_ B_ B_] [B_ B_ Eb Eb]
+|
+=1 4 c)1 8 B 4 c 8 B [A A]
+=2 8 [A A A A] [A A F# F#]
+=3 2. g)1 treble 8 [Eb Eb]
+=4 8 [Eb Eb Eb Eb] [Eb Eb C C]
+|
+il0.7 .15 50
+=1 8 [A A A A] [A A] [c# c#]
+=2 8 [F# F# G G] [G G A A]
+=3 8 [Eb Eb Eb Eb] [Eb Eb G G]
+=4 8 [C C C# C#] [C# C# D# D#]
+/
+4 bars | 6 6 6 6 6 6 6 5 |
+|
+=1 8 [c# c# c# c#] [c# c# A#, A#,]
+=2 8 [A, A, Bb Bb] [Bb Bb c c]
+=3 8 [G G G G] [G G E E]
+=4 8 [D# D# E E] [E E F# F#]
+|
+=1 8 [A# A# B' B']  [B B c# c#]
+=2 8 [c# c# c# c#] [d d d# d#]
+=3 8 [E E F F] [F F G G]
+=4 8 [G G G G] [G# G# A A]
+|
+=1 8 [c#, c#, d d] [d d e e]
+=2 8 [e e f f] [f# f# g g]
+=3 8 [G G G# G#] [G# G# A# A#]
+=4 8 [A# A# B' B'] [c c c# c#]
+|
+=1 8 [f f f f] [f# f# g g]
+=2 8 [g g g# g#] [g# a a# b]
+=3 8 [B B B B] [c c c# c#]
+=4 8 [c# c# d d] [d d# e f]
+
+4 systems 5 /18-22-18-22-18-22-18/ 18-22-18-22-18-22-18 \
+ / 18-22-18-25-18-22-18/ 18-22-18-30-18-25-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 6 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5| 12 12 11 12 | 6 5 5 5 5 6 6 5|
+|
+il0.7 .05 55
+=1 8 [g# g# a a] [a# a# b b]
+=2 8 [b c~ c~ c~#] 4 d~ vol105 A_b
+I0.8 .60 f
+=3 8 [d d d# d#] [e e f f]
+=4 8 [f f#] 4 g bass vol105 2 A_b
+I0.3 .40 f
+|
+=1 8 [b b c~ c~] [c~ c~# d~ d~#]
+=2 4 F C A E
+=3 8 [f f f# f#] [f# g g# a]
+=4 2 F C
+|
+=1 8 [d~# e~ e~ f~] 4 g~b vol105 C
+I0.8 .60 f
+=2 4 c rest rest vol80 8 [F# F#]
+I0.9 .60 p
+=3 8 [a a#] 4 b bass vol105 2 C
+I0.7 .42 f
+=4 2 A E
+|
+=1 4 A E c# G#
+=2 8 [F# F# G G] [G G Ab Ab]
+=3 2 A E
+=4 2 c vol80 4 rest treble 8 [D# D#]
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 11 6 5 |
+|
+I0.2 .65 p
+=1 4 e rest rest vol80 8 [Bb Bb]
+=2 8 [Ab, Ab, Bb Bb] [Bb Bb c c]
+=3 2 c# G#
+=4 8 [D# D# E E] [E E F# F#]
+|
+il0.5 .05 60
+=1 8 [Bb Bb Bn B] [B B c c]
+=2 8 [c# c# c# c#] [d d d# d#]
+=3 2 e vol80 4 rest treble 8 [G G]
+I0.9 .50 p
+=4 8 [G G G G] [G# G# A A]
+|
+=1 8 [c, c, d d] [d d e e]
+=2 8 [e e f f] [f# f# g g]
+=3 8 [G  G  G# G#] [G# G# A# A#]
+=4 8 [A# A# B' B'] [B  B  c  c#]
+|
+=1 8 [f f f f] [f# f# g g]
+=2 8 [g# g# a a] [bb bb] vol105 4 Eb
+I0.9 .65 f
+=3 8 [B B B B] [c c c# c#]
+=4 8 [c# d d d#] [d# e] bass vol105 4 F
+I0.2 .65 f
+/
+4 bars | 6 6 6 6 6 6 6 5 \
+ | 3 3 3 3 3 3 3 6 3 3 6 5 3 3 3 2 \
+ | 6 6 6 6 6 6 6 5 | 3 3 3 3 3 3 3 6 3 2 3 2 3 3 3 4 |
+|
+=1 8 [g# g# a a] [bb bb bn b]
+=2 4 G-. F-. Bb-. Ab-.
+=3 8 [d d d# d#] [d# d# e f]
+=4 4 B-. G#-. eb-. d-.
+|
+=1 8 [c~ c~ c~# c~#] [d~ d~] vol105 4 G
+I0.8 .75 f
+=2 4 B 8. [A# 16 G#] 4 F# vol80 8 [Eb Eb]
+I0.8 .75 p
+=3 8 [f f# f# g] [g ab] bass vol105 4 A
+I0.8 .75 f
+=4 4 gb 8. [f 16 eb] 4 d vol80 8 [c~ c~]
+I0.1 .75 p
+|
+il0.5 .15 65
+=1 4 B-. A-. d-. c-.
+=2 vol80 8 [Eb Eb Eb Eb] [Eb Eb Eb Eb]
+=3 4 eb-. c-. g-. f#-.
+=4 vol80 8 [c~ c~ c~ c~] [c~ c~ c~ c~]
+|
+I0.2 .70 p
+=1 4 eb 8. [d 16 c,] 4 Bb vol80 8 [G G]
+I0.1 .45 f
+=2 8 [Eb Eb Eb Eb] vol105 4 gb 8. [f 16 eb]
+I0.2 .65 p
+=3 4 bb 8. [a 16 g] 4 f# vol80 8 [e~ e~]
+=4 8 [c~ c~ c~ c~] vol105 4 Db 8. [C 16 B_b]
+I0.3 .40 f
+/
+4 bars | 44 | 22 24 | 48 | 24 22 |
+|
+=1 vol80 8 [G G G G] [G G G G]
+I0.1 .95 p
+=2 1 c#
+=3 vol80 8 [e~ e~ e~ e~] [e~ e~ e~ e~]
+I0.1 .90 p
+=4 1 A_
+|
+I0.5 .40 f
+=1 8 [G G G G] vol105 4 bb 8. [a 16 g]
+=2 vol80 8 C# 4 rest 8 C# rest [C# C#] rest
+=3 8 [e~ e~ e~ e~] vol105 4 F 8. [E 16 D]
+I0.8 .40 f
+=4 vol80 8 bb 4 rest 8 bb rest [bb bb] rest
+|
+I0.2 .90 p
+=1 1 f
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=3 1 C# treble
+=4 8 rest [bb bb] rest 8 bb 4 rest 8 bb
+|
+il0.5 .15 70
+=1 vol80 8 F 4 rest 8 F rest [F F] rest
+=2 8 rest [B_b B_b] rest 8 B_n 4 rest 8 B_
+I0.1 .01 p
+=3 vol80 8 D 4 rest 8 D rest [D D] rest
+=4 8 rest [f# g] rest 8 g# 4 rest 8 g#
+
+4 systems 4 /18-22-18-22-18-30-18/ 18-22-18-25-18-22-18 \
+ / 18-22-18-22-18-22-18/ 18-22-18-22-18-22-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 8 rest [F F] rest 8 F 4 rest 8 F
+=2 8 C 4 rest 8 C 8 rest [C C] rest
+=3 8 rest [D D] rest 8 D 4 rest 8 D
+=4 8 a 4 rest 8 a 8 rest [a a] rest
+|
+=1 8 rest [D D] rest 8 Eb 4 rest 8 Eb
+=2 8 G# 4 rest 8 A 8 rest [A' Bb'] rest
+=3 8 rest [A_# B_] rest 8 C 4 rest 8 C
+=4 8 e~ 4 rest 8 e~ 8 rest [f~ f~#] rest
+|
+=1 8 E 4 rest 8 E 8 rest [E E] rest
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=3 8 C# 4 rest 8 C# 8 rest [C# C#] rest
+=4 8 rest [bb bb] rest 8 bb 8 rest vol105 4 B_b
+I0.3 .60 f
+|
+=1 8 c 4 rest 8 c# 8 rest [c# d] rest
+I0.1 .70 f
+=2 8 rest [F_# G_] rest B_b rest vol105 4 e-.
+=3' 8 G# 4 rest 8 G# 8 rest [A Bb] rest
+=4 4 E-. rest vol80 8 g rest rest g
+I0.1 .40 p
+/
+4 bars | 6 6 6 6 6 11 6 5 | 48 | 48 | 48 |
+|
+il0.5 .05 75
+=1 8 rest [F F] rest 8 F 4 rest 8 F
+=2 4 c~-. vol80 8 rest B_b rest [B_b B_b] rest
+I0.7 .25 p
+=3 8 rest [D D] rest 8 D 8 rest bass vol105 4 D
+I0.8 .70 f
+=4 8 g 4 rest 8 g rest [g g d]
+|
+I0.2 .65 f
+=1 8 rest [A_# B_] rest D rest vol105 4 g#-.
+=2 8 G_# 4 rest 8 G_# rest [G_# G_# G#]
+=3 4 G#-. rest vol80 8 b rest rest b
+I0.9 .45 p
+=4 8 [f e e f] [e f f e]
+|
+I0.2 .35 p
+=1 4 e~-. vol80 8 rest D rest [D D] rest
+=2 8 [D C# C#] rest C# 4 rest 8 C#
+=3 8 b 4 rest 8 b rest [b b f#]
+=4 8 [g# a a g#] a rest vol95 4 E-.
+I0.2 .60 mf
+|
+=1 8 C 4 rest 8 C rest [C C c']
+=2 8 rest [D D] rest D rest vol95 4 A-.
+I0.9 .70 mf
+=3 8 [a g# g# a] [g# a a g#]
+=4 1 F
+/
+4 bars | 48 | 48 | 48 | 6 6 6 6 6 6 6 10 |
+|
+=1 8 [Gb F F] rest F 4 rest 8 F
+=2 1 G#
+I0.9 .93 p
+I0.1 .66 mf
+=3 8 [c~ d~b d~b c~] d~b rest vol95 4 G#-.
+I0.1 .03 p
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+|
+il0.5 .05 80
+I0.2 .65 f
+=1 8 rest [F# F#] rest F# rest vol95 4 db-.
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=3 1 A treble
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+|
+I0.2 .95 p
+=1 1 c
+=2 8 [Cn E E C] [E C C E]
+=3 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+I0.9 .01 p
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+I0.4 .70 mf
+|
+=1 vol80 8 [Ab F F Ab] [F Ab G F]
+I0.1 .60 f
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=3 8 rest [G G] rest G 4 rest 8 G bass
+=4 1 F
+/
+5 bars | 6 6 5 6 5 6 6 5 | 6 6 5 6 5 6 6 6 \
+ | 48 | 5 5 6 5 6 5 5 5| 12 ||
+|
+=1 8 [E G# G# E] [G# E E G#]
+=2 1 G#
+I0.9 .92 p
+I0.1 .74 f
+=3 8 rest 4 e e 8 e 4 vol95 4 G#-.
+I0.3   p
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+|
+I0.2 .65 f
+=1 8 rest [F# F#] rest F# rest vol95 4 db-.
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=3 1 A treble
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+|
+il0.5 .05 85
+I0.2 .95 p
+=1 1 c
+=2 8 [Cn E E C] [E C C E]
+I0.1 .01 p
+=3 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+I0.4 .70 mf
+|
+=1 vol80 8 [Ab F F Ab] [F Ab G F]
+I0.1 .70 f
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=3 8 rest [G G] rest G 4 rest 8 G
+=4 1 F
+I0.4 .90 f
+|
+=1 2. rest
+=2 vol105 4 f~-. 2 rest
+=3 2. rest
+=4 vol105 4 F_-. 2 rest
+
+midi on
+
+4 systems 8 / 18-20-18 22 18-22-18/ 18-20-18 22 18-22-18 \
+ / 18-20-18 30 18-22-18/ 18-20-18 22 18-30-18/
+title Double canon  at four semitones
+pagenum
+midi channel 1 patch 0 pan 95
+midi channel 2 patch 0 pan 65
+midi channel 3 patch 0 pan 35
+midi channel 4 patch 0 pan 5
+/
+4 bars | 12 | 48 | 12 12 12 11 | 44 |
+| 0.35
+il0.4 .03 arranged for four hands
+=1 treble cha1 4 rest
+=2 treble cha2 8 4 rest
+=3 bass   cha3 8 vol80 [<f ab> <f ab>]
+I0.5 .01 p
+=4 bass   cha4 4 rest
+| 1.4
+=1 1 rest
+=2 1 rest
+=3 8 [<f ab> <f ab> <f ab> <f ab>] [<f ab> <f ab> <f ab> <f ab>]
+=4 1 rest
+|
+=1 1 rest
+I0.1 .70 f
+=2 2. rest vol105 4 E-.
+=3 8 [<f ab> <f ab> <f ab> <f ab>] [<f ab> <f ab> <a c~> <a c~>]
+=4 2. rest vol105 4 F#-.
+I0.1 .67 f
+|
+=1 1 rest
+=2 4 G#-. F#-. B-. A-.
+=3 8 [<a c~> <a c~> <a c~> <a c~>] [<a c~> <a c~> <a c~> <a c~>]
+=4 4 c-. A-. e-. d#-.
+/
+3 bars | 3 2.5 3 3 3 3 3 4 3 2 3 3 3 3 3 2 | 48 | 48 |
+|
+I0.1 .72 f
+=1 2. rest vol105 4 G#-.
+=2 4 c 8. [B 16 A,] 4 G vol80 8 [<C# E> <C# E>]
+I0.9 .70 p
+=3 8 [<a c~> <a c~> <a c~> <a c~>] [<a c~> <a c~>] vol105 4 Bb-.
+I0.9 .68 f
+=4 4 g 8. [f# 16 e] 4 d# rest
+I0.01 .70 p
+|
+il0.5 .15 5
+=1 4 c-. Bb-. d#-. c#-.
+=2 vol80 8 [<C# E> <C# E> <C# E> <C# E>] [<C# E> <C# E> <C# E> <C# E>] 
+=3 4 e-. c#-. ab-. g-.
+=4 1 rest
+|
+I0.2 .66 p
+=1' 2 rest' 4 g 8. [f# 16 e]
+=1, 4 e 8. [d# 16 c#,] 4 B rest, 
+I0.1 .47 f
+=2 8 [<C# E> <C# E> <C# E> <C# E>] 4 rest 8 [<F Ab> <F Ab>]
+I0.1 .65 p
+=3 4 b 8. [bb 16 ab] 4 g vol80 rest
+=4 2 rest vol105 4 D 8. [C# 16 B_]
+I0.01 .45 f
+/
+4 bars | 48 | 12 12 10 12 | 44 | 6 6 6 6 6 6 5 8 |
+|
+=1 1 d
+=2 vol80 8 [<F Ab> <F Ab> <F Ab> <F Ab>] [<F Ab> <F Ab> <F Ab> <F Ab>]
+=3 1 rest
+I0.1 .90 p
+=4 1 A_#
+|
+I0.6 .47 f
+=1 2 rest vol105 4 b 8. [a# 16 g#]
+=2 8 [<F Ab> <F Ab> <F Ab> <F Ab>] 2 rest
+I0.9 .40 f
+=3 vol80 8 <b d~> 4 rest 8 <b d~> rest [<b d~> <b d~>] rest
+=4 2 rest vol105 4 Gb 8. [F 16 Eb]
+|
+I0.2 .90 p
+=1 1 f#
+=2 1 rest
+I0.9 .80 p
+=3 8 rest [<b d~> <b d~>] rest 8 <b d~> 4 rest 8 <b d~>
+=4 1 D
+|
+il0.5 .05 10
+=1 vol80 8 F# 4 rest 8 F# rest [F# F#] rest
+=2 vol80 8 Eb 4 rest 8 Eb rest [Eb Eb] rest
+=3 8 rest [<g b> <g# b>] rest 8 <a c~> 4 rest 8 <a c~> treble
+=4 1 rest
+/
+4 bars | 48 | 48 | 42 | 48 |
+|
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 8 rest [Eb Eb] rest 8 Eb 4 rest 8 Eb
+=3 8 <B_bl Db> 4 rest 8 <B_bl Db> 8 rest [<B_bl Db> <B_bl Db>] rest
+=4 1 rest
+|
+=1 8 A 4 rest 8 A#  8 rest [A#' B'] rest
+=2 8 F 4 rest 8 F 8 rest [F# G] rest
+=3 8 rest [<B_ Eb> <C Eb>] rest 8 <C#l En> 4 rest 8 <C# E>
+=4 1 rest
+|
+=1 1 rest
+=2 8 F 4 rest 8 F 8 rest [F F] rest
+=3 8 [D D D D] [D D D D]
+=4 8 rest [b b] rest 8 b 4 rest 8 b
+|
+=1 8 c# 4 rest 8 d 8 rest [d eb] rest
+=2 8 A 4 rest 8 A 8 rest [A# B'] rest
+=3 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=4 8 rest [g g#] rest 8 a 4 rest 8 a
+
+3 systems 8 /18-22-18 22 18-30-18 \
+ / 18-30-18 22 18-22-18/ 18-30-18 22 18-22-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 48 | 48 | 42 | 48 |
+|
+il0.5 .05 15
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 8 rest [Eb Eb] rest 8 Eb 4 rest 8 Eb
+=3 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=4 8 bb 4 rest 8 bb 8 rest [bb bb] rest
+|
+=1 8 A 4 rest 8 A  8 rest [A#' B'] rest
+=2 8 F 4 rest 8 F 8 rest [F# G] rest
+=3 8 rest [Eb Eb] rest 8 En 4 rest 8 E
+=4 8 rest [b c~] rest 8 c~# 4 rest 8 c~#
+|
+
+=1 8 F 4 rest 8 F 8 rest [F F] rest
+=2 8 [D D D D] [D D D D]
+=3 8 rest [B_ B_] rest 8 B_ 4. rest bass
+=4 2. rest 4 B_-.
+I0.3 .60 f
+|
+I0.2 .65 f
+=1, 8 <A c#> 4. rest 4 rest 4 f-.
+=2, 4. rest 8 <A c#> 8 rest [<A# d> <B eb>] rest
+=3 8 rest [g g#] rest <g# b> rest rest g#
+=4 4 F-. 2. rest vol80
+/
+4 bars | 6 6 6 6 6 6 6 5 | 48 | 12 12 12 11 | 48 |
+|
+=1 4 c~#-. 2. rest
+=2 8 rest [<D#l F#> <D# F#>] rest 8 <D#l F#> 4 rest 8 F#
+=3 8 g# 4 rest 8 <g# b> rest [<g# b> <g# b> d#]
+=4 2. rest 4 Eb-.
+I0.1 .62 f
+|
+il0.5 .05 20
+I0.4 .64 f
+=1 2. rest vol105 4 a-.
+=2 8 rest [B_ C] rest <C Eb> 4 rest 8 <C A>
+=3 8 [<f# a> fn f <f# a>] [fn <f# a> <f# a> fn]
+=4 4 A-. 2. rest
+|
+I0.2 .35 p
+=1 4 f~-. vol80 2. rest
+=2 8 [<C Eb> D D <C Eb>] [D <C Eb> <C Eb> D]
+=3 8 [a bb bb a] bb 4 rest 8 g
+=4 2. rest vol105 4 F-.
+I0.3 .70 f
+|
+I0.3 .17 f
+I0.2 .80 p
+=1 4 rest vol105 4 f#-. d~#-. vol80 8 rest c#
+=2 8 [C# D# rest, C#] [F# C# C# F#]
+=3 8 [bb a a bb] [a bb bb a]
+=4 4 d#-. rest rest vol105 4 G-.
+I0.3 .70 f
+/
+4 bars | 24 21 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 7 | 48 |
+|
+I0.4 .18 f
+=1 4 rest vol105 g#-. e~-. rest
+=2 8 [G F# F# E] [F# rest E F#]
+=3 8 [c~# d~ d~ c~#] [d~ c~n c~ d~]
+=4 4 e-. rest rest A-.
+I0.1 .70 f
+|
+I0.5 .15 f
+=1 8 4 rest bb-. g~-. rest
+=2' 8 [E D D E] [Bb E E Bb]
+=3 8 [bb c~ c~ bb] [<c~x d~> bb bb <c~x d~>]
+=4 4 g-. rest rest vol105 4 B-.
+I0.1 .70 f
+|
+il0.6 .01 25
+I0.5 .17 f
+I0.2 .73 p
+=1 4 rest vol105 c~-. g~#-. vol80 8 [B c]
+=2 8 rest [E E G#] [F# rest, G# F#]
+=3 8 [<c~x d~> bb bb <c~x d~>] rest' [e~ e~] rest
+I0.2 .63 p
+=4 4 g#-. rest rest b
+|
+=1 8 [c# d c# cn] [B c c# d]
+=2 8 [G# F# F# G#] [F# G# G# F#]
+=3 8 [d~ e~ e~ d~] [e~ d~ d~ e~]
+=4 8 [bb a g#] 4 bn 8 [bb a g#]
+
+3 systems 8 /18-25-18 30 18-25-18 \
+ / 18-25-18 25 18-25-18/ 18-30-18 35 18-25-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1 8 [db c B c] [c# d] [d# e]
+=2 8 [F# G# G# F#] 4 rest 4 D
+=3 8 [e~ d~ d~ e~] 4 rest 8 [<f# a> <f# a>]
+=4 4 b 8 [bb a] [ab g] 4 rest 
+|
+=1 8 [f gb f e] [d# e f gb]
+=2 8 [D C# Cn] 4 Eb 8 [D C# Cn]
+=3 8 [<f# a> <f# a> <f# a> <f# a>] [<f# a> <f# a> <f# a> <f# a>]
+=4 1 rest
+|
+=1 8 [f e d# e] [f gb] 4 rest
+I0.8 .76 f
+=2 4 Eb 8 [D C#] [Cn B_] vol105 4 F-.
+=3 8 [<f# a> <f# a> <f# a> <f# a>] [<f# a> <f# a> <bbl d~b> <bb d~b>]
+=4 2. rest vol105 4 G-.
+I0.1 .71 f
+|
+il0.5 .05 30
+=1 1 rest
+=2 4 A-. G-. c-. Bb-.
+=3 8 [<bbl d~b> <bb d~b> <bb d~b> <bb d~b>] \
+ [<bb d~b> <bb d~b> <bb d~b> <bb d~b>]
+=4 4 c#-. Bb-. f-. e-.
+/
+4 bars | 3 3 3 3 3 3 3 5.5 3 3 3 3 3 3 3 2 | 43 \
+ | 3 2.5 3 2.5 3 2.5 3 5.5 3 2 3 2 3 3 3 3 | 6 6 6 6 6 6 6 5 |
+|
+I0.2 .73 f
+=1 2. rest vol105 4 A-.
+=2 4 db 8. [c 16 Bb] 4 Ab vol80 8 [<D F> <D F>]
+I0.9 .71 p
+=3 8 [<bb d~b> <bb d~b> <bb d~b> <bb d~b>] [<bb d~b> <bb d~b>] vol105 4 B-.
+I0.9 .71 f
+I0.1 .68 p
+=4 4 ab 8. [g 16 f]  4 e rest
+|
+=1 4 c#-. B-. e-. d-.
+=2 vol80 8 [<D F> <D F> <D F> <D F>] [<D F> <D F> <D F> <D F>]
+=3 4 f-. d-. a-. g#-.
+=4 1 rest
+|
+I0.2 .70 p
+=1' 2 blank vol105 4 ab 8. [g 16 f]
+=1 4 f 8. [e 16 d] 4 c 4 blank
+I0.2 .43 f
+=2 8 [<D F> <D F> <D F> <D F>] 4 rest 8 [<F# A> <F# A>]
+I0.2 .63 p
+=3 4 c~ 8. [b 16 a] 4 g# 4 rest
+=4 2 rest vol105 4 Eb 8. [D 16 C]
+I0.2 .43 f
+|
+=1 1 eb
+=2 vol80 8 [<F# A> <F# A> <F# A> <F# A>] [<F# A> <F# A> <F# A> <F# A>]
+=3 1 rest
+=4 1 B_
+/
+4 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 | 12 12 12 11 | 45 | 48 |
+|
+il0.8 .08 35
+I0.7 .44 f
+=1 2 rest vol105 4 c~ 8. [b 16 a]
+I0.1 .03 p
+=2 vol80 8 [<F# A> <F# A> <F# A> <F# A>] rest [Eb Eb] rest
+=3' 8 [e~b c~ c~ e~b] c~ 4 rest' 8 c~
+=3, vol80 4 rest, eb eb c
+=4  2 rest vol105 4 G 8. [F# 16 E]
+I0.1 .43 f
+|
+I0.2 .93 p
+=1 1 g
+=2 vol80 8 [A, a a~ a] [A' Eb Eb C]
+=3 vol80 8 [e~b c~ c~ e~b] [c~ a A, a]
+=4 1 Eb
+|
+=1 vol80 8 [G E E G] [E G G E]
+=2 4 Db C C Db
+=3 8 rest 4 a a a 8 a
+=4 vol80 4 rest g g e
+|
+=1 8 [c#, c~# c~~# c~#] [c#' G G E]
+=2 8 [G E E G] [E C#] rest C#
+=3 8 rest 4 bb bb bb 8 bb
+=4 4 G e Bb 8 c# rest
+
+4 systems 8 /18-32-18 28 18-22-18/ 18-22-18 22 18-22-18 \
+ / 18-22-18 22 18-22-18/ 18-22-18 22 18-22-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 48 | 48 | 42 | 12 12 12 11 |
+|
+=1 8 [Bb G, G, Bb] [G, Bb Bb G,]
+=2 4 F E E F
+=3 8 rest 4 c~# c~# c~# 8 c~#
+=4 4 rest bb bb g
+|
+il0.5 .05 40
+=1 8 [G#, g# g~# g#] [G#' D] 4 B_
+=2 8 rest [D D] 4 D D 8 D
+=3 8 b 4 rest 8 b [b g#] rest g#
+=4 4 B g# d 8 G# rest
+|
+=1 8 [d B, B, d] [B, d d B,]
+=2 4 rest D D B_
+I0.8 .63 f
+=3 2. b vol105 4 a-.
+=4 2. Gn vol105 4 F#-.
+I0.1 .63 f
+|
+=1 vol80 8 [c, c~ c~~ c~] [c' F#] 4 Eb
+=2 4 A-. rest rest vol80 4 A(2
+I0.9 .70 p
+=3 vol80 8 [e~b f~# f~# e~b] [e~b c~ c, c~]
+=4 4 f#-. rest rest vol80 4 fn(1
+I0.1 .66 p
+/
+4 bars | 6 5 5 6 5 7 5 5 | 44 | 6 5 5 6 5 7 5 5| 6 5 7 6 5 7 5 5|
+|
+I0.2 .66 f
+=1 2. Eb vol105 4 Db-.
+=2 4. A)2 4 G# 8 A 4 G#(1
+I0.1 .66 f
+=3 2. B vol105 4 Bb-.
+=4 4. f)1 4 gb 8 f 4 e(1
+|
+I0.2 .66 p
+=1 4 db-. rest rest vol80 4 db(1
+=2 2. G#)1 vol105 4 A_-.
+I0.8 .66 f
+=3 4 bb-. rest rest vol80 4 a(1
+I0.9 .66 p
+=4 2. e)1 vol105 4 F#-.
+I0.1 .66 f
+|
+il0.5 .15 45
+=1 4. db)1 4 c 8 db 4 c(1
+=2 4 A-. rest rest vol80 4 Bb(1
+I0.9 .66 p
+=3 4. a)1 4 bb 8 a 4 g#(1
+=4 4 f#-. rest rest vol80 4 fn(1
+I0.1 .66 p
+|
+I0.2 .66 f
+=1 2. c)1 vol105 4 C#-.
+=2 4 Bb)1 8 A 4 Bb' 8 A 4 Ab(2
+I0.1 .66 f
+=3 2. g#)1 vol105 4 Bb-.
+=4 2 f)1  4 d  4 d#(1
+/
+4 bars | 6 5 7 6 5 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+I0.2 .66 p
+=1 4 c#-. rest rest vol80 4 d(1
+=2 4 Ab)2 8 G 4 Ab 8 G [F F]
+I0.1 .66 p
+=3 4 bb-. rest rest vol80 4 a(1
+=4 2. d#)1 treble 8 [B_ B_]
+|
+=1 4 d)1 8 c# 4 d 8 c# 4 cn(1
+=2 8 [F F F F] [F F A A]
+=3 2 a)1 4 f# 4 g(1
+=4 8 [B_ B_ B_ B_] [B_ B_ Eb Eb]
+|
+=1 4 c)1 8 B 4 c 8 B [A A]
+=2 8 [A A A A] [A A F# F#]
+=3 2. g)1 treble 8 [Eb Eb]
+=4 8 [Eb Eb Eb Eb] [Eb Eb C C]
+|
+il0.7 .15 50
+=1 8 [A A A A] [A A] [db db]
+=2 8 [F# F# G G] [G G A A]
+=3 8 [Eb Eb Eb Eb] [Eb Eb G G]
+=4 8 [C C C# C#] [C# C# D# D#]
+/
+4 bars | 6 6 6 6 6 6 6 5 |
+|
+=1  8 [db db db db] [db db c c]
+=2' 8 [A A Bb Bb] [Bb Bb Bb Bb]
+=3  8 [G G G G]   [G G F# F#]
+=4  8 [D# D# E E] [E E E E]
+|
+=1 8 [c# c# c# c#] [d d d# d#]
+=2 8 [A# A# B' B']  [B B c# c#]
+=3 8 [G G G G] [G# G# A A]
+=4 8 [E E F F] [F F G G]
+|
+=1 8 [e e f f] [f# f# g g]
+=2 8 [c#, c#, d d] [d d e e]
+=3 8 [A# A# B' B'] [c c c# c#]
+=4 8 [G G G# G#] [G# G# A# A#]
+|
+=1 8 [g g g# g#] [g# a a# b]
+=2 8 [f f f f] [f# f# g g]
+=3 8 [c# c# d d] [d d# e f]
+=4 8 [B B B B] [c c c# c#]
+
+4 systems 5 /18-22-18 22 18-22-18/ 18-22-18 22 18-22-18 \
+ / 18-22-18 25 18-22-18/ 18-22-18 30 18-25-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 6 6 6 6 6 6 6 5\
+ | 6 6 6 6 6 6 6 5| 12 12 11 12 \
+ | 6 5 6 6 5 6 6 5|
+|
+il0.7 .05 55
+=1 8 [b c~ c~ c~#] 4 d~ 8 [b b]
+=2 8 [g# g# a a] [a# a# f f]
+=3' 4 blank g 2 blank
+=3 8 [f f# d# d#] [e e] vol105 4 A_b
+I0.5 .65 f
+=4 8 [d d] 4 rest bass vol105 2 A_b
+I0.3 .40 f
+|
+=1 8 [b b c~ c~] [c~ c~# d~ d~#]
+=2 8 [f f f# f#] [f# g g# a]
+=3 4 F C A E
+=4 2 F C
+|
+=1 8 [d~# e~ e~ f~] 4 g~b vol105 C
+I0.8 .60 f
+=2 8 [a a#] 4 b rest 8 [F# F#]
+=3 4 c 2. rest
+I0.7 .42 f
+=4 2 A <C E>
+|
+=1 4 A 8 [G G] 4 c# G#
+=2 8 [F# F#] 4 E 8 [G G Ab Ab]
+=3 2. rest 8 [D# D#]
+=4 2 <A c'> E
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 7 6 5 |
+|
+I0.2 .65 p
+=1 4 e rest rest vol80 8 [Bb Bb]
+=2 8 [Ab, Ab, Bb Bb] [Bb Bb c c]
+=3 8 [D# D# E E] [E E F# F#]
+=4 2 c# G#
+|
+il0.5 .05 60
+=1 8 [c# c# c# c#] [d d d# d#]
+=2 8 [Bb Bb Bn B] [B B c c]
+=3 8 [G G G G] [G# G# A A]
+=4 2 e vol80 4 rest treble 8 [G G]
+I0.1 .55 p
+|
+=1 8 [e e f f] [f# f# g g]
+=2 8 [c, c, d d] [d d e e]
+=3 8 [A# A# B' B'] [B  B  c  c#]
+=4 8 [G  G  G# G#] [G# G# A# A#]
+|
+=1 8 [g# g# a a] [bb bb g g]
+=2 8 [f f f f] [f# f# c# c#]
+=3 8 [c# d d eb] [<c eb> <c en>] vol105 4 Eb
+I0.7 .68 f
+=4 8 [B B B B] 4 rest bass vol105 4 F
+I0.2 .65 f
+/
+4 bars | 6 6 6 6 6 6 6 5 \
+ | 3 3 3 3 3 3 3 6 3 3 3 3 3 3 3 2 \
+ | 6 6 6 6 6 6 6 5 \
+ | 3 3 3 3 3 3 3 6 3 2 3 2 3 3 3 4 |
+|
+=1 8 [g# g# a a] [bb bb bn b]
+=2 8 [d d d# d#] [d# d# e f]
+=3 4 G-. F-. Bb-. Ab-.
+=4 4 B-. G#-. eb-. d-.
+|
+=1 8 [c~ c~ c~# c~#] [d~ d~] 4 rest
+I0.8 .75 f
+=2 8 [f f# f# g] [g ab] vol105 4 G
+=3 4 B 8. [A# 16 G#] 4 F# vol80 8 [<C Eb> <C Eb>]
+=4 4 gb 8. [f 16 eb] 4 d vol105 4 A
+|
+il0.5 .15 65
+=1 1 rest
+=2 4 B-. A-. d-. c-.
+=3 vol80 8 [<C Eb> <C Eb> <C Eb> <C Eb>] [<C Eb> <C Eb> <C Eb> <C Eb>]
+=4 4 eb-. c-. g-. f#-.
+|
+I0.2 .70 p
+=1 2 rest vol105 4 gb 8. [f 16 eb]
+I0.1 .45 f
+=2 4 eb 8. [d 16 c,] 4 Bb vol80 8 [<E G> <E G>]
+I0.2 .65 p
+=3 8 [<C Eb> <C Eb> <C Eb> 16 <C Eb> G_] 4 F_# rest bass
+=4 vol105 4 bb 8. a 16 rest 4 Db 8. [C 16 B_b]
+I0.3 .40 f
+/
+4 bars | 44 | 22 24 | 48 | 24 22 |
+|
+=1 1 c#
+=2 vol80 8 [<E G> <E G> <E G> <E G>] [<E G> <E G> <E G> <E G>]
+=3 1 rest
+=4 1 A_
+|
+I0.5 .40 f
+=1 2 rest vol105 4 bb 8. [a 16 g]
+=2 8 [<E G> <E G> <E G> <E G>] 2 rest
+=3 vol80 8 <a#l c~#> 4 rest 8 <a#l c~#> rest [<a#l c~#> <a#l c~#>] rest
+=4 2 rest vol105 4 F 8. [E 16 D]
+I0.3 .40 f
+|
+=1 1 f
+=2 1 rest
+=3 8 rest [<a#l c~#> <a#l c~#>] rest 8 <a#l c~#> 4 rest 8 <a#l c~#>
+=4 1 C#
+|
+il0.5 .15 70
+=1 vol80 8 F 4 rest 8 F rest [F F] rest
+I0.1 .01 p
+=2 vol80 8 D 4 rest 8 D rest [D D] rest
+=3 8 rest [bb bb] rest 8 bn 4 rest 8 b
+=4 8 rest [f# g] rest 8 g# 4 rest 8 g#
+
+4 systems 4 /18-22-18 22 18-30-18/ 18-22-18 25 18-22-18 \
+ / 18-22-18 22 18-22-18/ 18-22-18 22 18-22-18/
+pagenum
+innerhead Double canon  at four semitones
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 8 rest [F F] rest 8 F 4 rest 8 F
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 8 c~ 4 rest 8 c~ 8 rest [c~ c~] rest
+=4 8 a 4 rest 8 a 8 rest [a a] rest
+|
+=1 8 E 4 rest 8 E 8 rest [F F#] rest
+=2 8 G# 4 rest 8 A 8 rest [A' Bb'] rest
+=3 8 rest [d~ d~] rest 8 e~b 4 rest 8 e~b
+=4 8 rest [a# b] rest 8 c~ 4 rest 8 c~
+|
+=1 8 E 4 rest 8 E 8 rest [E E] rest
+=2 8 [C# C# C# C#] [C# C# C# C#]
+=3 8 rest [bb bb] rest 8 bb 4.  rest
+=4 2. rest vol105 4 B_b
+I0.3 .60 f
+|
+I0.2 .70 f
+=1  8 <G# c'> 4. rest 4 rest vol105 4 e-.
+=2' 4. rest 8 <G#l c#> 8 rest [<A c#> <Bb d>] rest
+=3  8 rest [f# g] rest <g bb> 4 rest 8 g
+=4  4 E-. 2. rest
+I0.1 .40 p
+/
+4 bars | 6 6 6 6 6 6 6 5 | 48 | 48 | 48 |
+|
+il0.5 .20 75
+=1 4 c~-. 2. rest
+=2 8 rest [<D F> <D F>] rest 8 <D F> 4 rest 8 F
+=3 8 g 4 rest 8 <g bb> rest [<g bb> <g bb> d]
+=4 2. rest vol105 4 D-.
+I0.2 .70 f
+|
+I0.2 .60 f
+=1 2. rest vol105 4 g#-.
+=2 2 rest vol80 8 <B_ D> rest rest <B_ G#>
+I0.9 .45 p
+=3 8 [<f ab> e e <f ab>] [e <f ab> <f ab> e]
+=4 4 G#-. 2. rest
+|
+=1 4 e~-. 2. rest
+=2 8 [<B_ D> C# C# <B_ D>] [C# <B_ D> <B_ D> C#]
+=3 8 [g# a a g#] a 4 rest 8 f#
+=4 2. rest vol95 4 E-.
+I0.2 .65 mf
+|
+=1 2. rest vol95 4 A-.
+I0.9 .65 mf
+=2 8 [Cn D D C] [D C C c']
+=3 8 [a g# g# a] [g# a a g#]
+=4 1 F
+/
+4 bars | 48 | 48 | 48 | 6 6 6 6 6 6 6 10 |
+|
+=1 1 Ab
+=2 8 [<E Gb> F F E] [F E E F]
+=3 8 [c~ d~b d~b c~] d~b 4. rest treble
+=4 2. rest vol95 4 G#-.
+I0.2 .66 mf
+|
+il0.5 .05 80
+I0.2 .65 f
+=1 2. rest vol95 4 db-.
+=2 8 [E F# F# E] [F# E] 4 rest
+=3 8 rest [<Dbl Ebxl> <Dbl Ebxl>] rest [<Dbl Ebxl> rest Eb <Dbl Ebxl>]
+=4 1 A 2. rest
+|
+=1 1 c
+=2 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+=3 8 [C E E C] [E C C E]
+I0.9 .01 p
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+I0.4 .70 mf
+|
+I0.2 .60 f
+=1 2. rest vol95 4 A-.
+=2 vol80 8 [Ab G G Ab] [G Ab G G]
+=3 8 rest [<D F> <D F>] rest <D F> 4 rest 8 F
+=4 1 F
+/
+5 bars | 6 6 5 6 5 6 6 5 \
+ | 6 9 6 6 5 6 7 6 \
+ | 48 | 5 5 6 5 6 5 5 5| 12 ||
+|
+=1 1 G#
+=2 8 [E G# G# E] [G# E E G#]
+=3 1 rest
+=4 8 rest 4 e e 8 e 4 vol95 4 G#-.
+I0.2 .72 mf
+|
+I0.2 .63 mf
+=1 2. rest vol95 4 db-.
+=2 8 [E F# F# E] [F# E] 4 rest
+=3 8 rest [<Dbl Ebxl> <Dbl Ebxl>] rest [<Dbl Ebxl> rest Eb <Dbl Ebxl>]
+=4 1 A 2. rest
+|
+il0.5 .05 85
+=1 1 c
+=2 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+=3 8 [Cn E E C] [E C C E]
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+I0.4 .70 mf
+|
+I0.2 .70 f
+=1 2. rest vol95 4 A-.
+=2 vol80 8 [Ab G G Ab] [G Ab G G]
+=3 8 rest [<D F> <D F>] rest <D F> 4 rest 8 F
+=4 1 F
+I0.4 .90 f
+|
+=1 vol105 4 f~-. 2 rest
+=2 2. rest
+=3 2. rest
+=4 vol105 4 F_-. 2 rest
+midi off
+@
+
+
+1.7
+log
+@4-hands roughly up to bar 70
+@
+text
+@d1 1
+d592 1
+a592 1
+I0.2 .65 mf
+a667 1
+midi off
+d669 1
+d1191 1
+a1191 1
+=1 1 rest
+d1193 3
+a1195 3
+=2 vol80 8 <D F> 4 rest 8 <D F> rest [<D F> <D F>] rest
+=3 8 rest [<f#l bb> <g bb>] rest 8 <g#l bn> 4 rest 8 <g# b>
+=4 1 rest
+d1205 2
+a1206 2
+=2 8 C 4 rest 8 C 8 rest [C C] rest
+=3 8 rest [D D] rest 8 D 4 rest 8 D
+d1209 1
+a1209 1
+=1 8 rest [D D] rest 8 Eb 4 rest 8 Eb
+d1211 2
+a1212 2
+=3 8 rest [A_# B_] rest 8 C 4 rest 8 C
+=4 8 e~ 4 rest 8 e~ 8 rest [f~ f~#] rest
+d1215 3
+a1217 3
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=3 8 C# 4 rest 8 C# 8 rest [C# C#] rest
+=4 8 rest [bb bb] rest 8 bb 8 rest vol105 4 B_b
+d1220 5
+a1224 5
+=1 8 c 4 rest 8 c# 8 rest [c# d] rest
+I0.1 .70 f
+=2 8 rest [F_# G_] rest B_b rest vol105 4 e-.
+=3' 8 G# 4 rest 8 G# 8 rest [A Bb] rest
+=4 4 E-. rest vol80 8 g rest rest g
+d1227 1
+a1227 1
+4 bars | 6 6 6 6 6 11 6 5 | 48 | 48 | 48 |
+d1229 10
+a1238 12
+il0.5 .05 75
+=1 8 rest [F F] rest 8 F 4 rest 8 F
+=2 4 c~-. vol80 8 rest B_b rest [B_b B_b] rest
+I0.7 .25 p
+=3 8 rest [D D] rest 8 D 8 rest bass vol105 4 D
+I0.8 .70 f
+=4 8 g 4 rest 8 g rest [g g d]
+|
+I0.2 .65 f
+=1 8 rest [A_# B_] rest D rest vol105 4 g#-.
+=2 8 G_# 4 rest 8 G_# rest [G_# G_# G#]
+=3 4 G#-. rest vol80 8 b rest rest b
+d1240 2
+a1241 1
+=4 8 [f e e f] [e f f e]
+d1243 4
+a1246 5
+I0.2 .35 p
+=1 4 e~-. vol80 8 rest D rest [D D] rest
+=2 8 [D C# C#] rest C# 4 rest 8 C#
+=3 8 b 4 rest 8 b rest [b b f#]
+=4 8 [g# a a g#] a rest vol95 4 E-.
+d1249 3
+a1251 3
+=1 8 C 4 rest 8 C rest [C C c']
+=2 8 rest [D D] rest D rest vol95 4 A-.
+I0.9 .70 mf
+d1257 5
+a1261 7
+=1 8 [Gb F F] rest F 4 rest 8 F
+=2 1 G#
+I0.9 .93 p
+I0.1 .66 mf
+=3 8 [c~ d~b d~b c~] d~b rest vol95 4 G#-.
+I0.1 .03 p
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+d1265 4
+a1268 4
+=1 8 rest [F# F#] rest F# rest vol95 4 db-.
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=3 1 A treble
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+a1269 1
+I0.2 .95 p
+d1271 2
+a1272 2
+=2 8 [Cn E E C] [E C C E]
+=3 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+d1277 4
+a1280 4
+=1 vol80 8 [Ab F F Ab] [F Ab G F]
+I0.1 .60 f
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=3 8 rest [G G] rest G 4 rest 8 G bass
+d1283 2
+a1284 1
+5 bars | 6 6 5 6 5 6 6 5 | 6 6 5 6 5 6 6 6 \
+d1287 5
+a1291 7
+=1 8 [E G# G# E] [G# E E G#]
+=2 1 G#
+I0.9 .92 p
+I0.1 .74 f
+=3 8 rest 4 e e 8 e 4 vol95 4 G#-.
+I0.3   p
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+d1293 5
+a1297 5
+I0.2 .65 f
+=1 8 rest [F# F#] rest F# rest vol95 4 db-.
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=3 1 A treble
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+a1299 1
+I0.2 .95 p
+d1301 2
+a1302 3
+=2 8 [Cn E E C] [E C C E]
+I0.1 .01 p
+=3 vol80 8 Ab 4 rest 8 Ab rest [Ab Ab] rest
+d1306 4
+a1309 4
+=1 vol80 8 [Ab F F Ab] [F Ab G F]
+I0.1 .70 f
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=3 8 rest [G G] rest G 4 rest 8 G
+d1313 2
+a1314 2
+=1 2. rest
+=2 vol105 4 f~-. 2 rest
+@
+
+
+1.6
+log
+@4-hands up to bar 40
+@
+text
+@d339 1
+a339 1
+=1 2. Eb vol105 4 C#-.
+d346 1
+a346 1
+=1 4 c#-. rest rest vol80 4 c#(1
+d355 1
+a355 1
+=1 4. c#)1 4 cn 8 c# 4 cn(1
+d983 1
+a983 1
+=2 2. B_ vol105 4 A_-.
+d985 1
+a985 1
+=3 4 rest d~ d~ b
+d999 1
+a999 1
+=1 2. Eb vol105 4 C#-.
+d1006 1
+a1006 1
+=1 4 c#-. rest rest vol80 4 c#(1
+d1015 1
+a1015 1
+=1 4. c#)1 4 cn 8 c# 4 cn(1
+d1049 1
+a1049 1
+=1 8 [A A A A] [A A] [c# c#]
+d1056 19
+a1074 19
+=1 8 [c# c# c# c#] [c# c# A#, A#,]
+=2 8 [A, A, Bb Bb] [Bb Bb c c]
+=3 8 [G G G G] [G G E E]
+=4 8 [D# D# E E] [E E F# F#]
+|
+=1 8 [A# A# B' B']  [B B c# c#]
+=2 8 [c# c# c# c#] [d d d# d#]
+=3 8 [E E F F] [F F G G]
+=4 8 [G G G G] [G# G# A A]
+|
+=1 8 [c#, c#, d d] [d d e e]
+=2 8 [e e f f] [f# f# g g]
+=3 8 [G G G# G#] [G# G# A# A#]
+=4 8 [A# A# B' B'] [c c c# c#]
+|
+=1 8 [f f f f] [f# f# g g]
+=2 8 [g g g# g#] [g# a a# b]
+=3 8 [B B B B] [c c c# c#]
+=4 8 [c# c# d d] [d d# e f]
+d1081 3
+a1083 1
+4 bars | 6 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5| 12 12 11 12 | 6 5 5 5 5 6 6 5|
+d1086 6
+a1091 5
+=1 8 [g# g# a a] [a# a# b b]
+=2 8 [b c~ c~ c~#] 4 d~ vol105 A_b
+I0.8 .60 f
+=3 8 [d d d# d#] [e e f f]
+=4 8 [f f#] 4 g bass vol105 2 A_b
+d1095 2
+a1096 2
+=2 4 F C A E
+=3 8 [f f f# f#] [f# g g# a]
+d1101 2
+a1102 3
+=2 4 c rest rest vol80 8 [F# F#]
+I0.9 .60 p
+=3 8 [a a#] 4 b bass vol105 2 C
+d1104 1
+a1104 1
+=4 2 A E
+d1106 4
+a1109 4
+=1 4 A E c# G#
+=2 8 [F# F# G G] [G G Ab Ab]
+=3 2 A E
+=4 2 c vol80 4 rest treble 8 [D# D#]
+d1112 1
+a1112 1
+ | 6 6 6 6 6 11 6 5 |
+d1117 2
+a1118 2
+=3 2 c# G#
+=4 8 [D# D# E E] [E E F# F#]
+d1121 16
+a1136 16
+=1 8 [Bb Bb Bn B] [B B c c]
+=2 8 [c# c# c# c#] [d d d# d#]
+=3 2 e vol80 4 rest treble 8 [G G]
+I0.9 .50 p
+=4 8 [G G G G] [G# G# A A]
+|
+=1 8 [c, c, d d] [d d e e]
+=2 8 [e e f f] [f# f# g g]
+=3 8 [G  G  G# G#] [G# G# A# A#]
+=4 8 [A# A# B' B'] [B  B  c  c#]
+|
+=1 8 [f f f f] [f# f# g g]
+=2 8 [g# g# a a] [bb bb] vol105 4 Eb
+I0.9 .65 f
+=3 8 [B B B B] [c c c# c#]
+=4 8 [c# d d d#] [d# e] bass vol105 4 F
+d1140 3
+a1142 2
+ | 3 3 3 3 3 3 3 6 3 3 6 5 3 3 3 2 \
+ | 6 6 6 6 6 6 6 5 | 3 3 3 3 3 3 3 6 3 2 3 2 3 3 3 4 |
+d1145 2
+a1146 2
+=2 4 G-. F-. Bb-. Ab-.
+=3 8 [d d d# d#] [d# d# e f]
+d1149 1
+a1149 1
+=1 8 [c~ c~ c~# c~#] [d~ d~] vol105 4 G
+d1151 3
+a1153 6
+=2 4 B 8. [A# 16 G#] 4 F# vol80 8 [Eb Eb]
+I0.8 .75 p
+=3 8 [f f# f# g] [g ab] bass vol105 4 A
+I0.8 .75 f
+=4 4 gb 8. [f 16 eb] 4 d vol80 8 [c~ c~]
+I0.1 .75 p
+d1156 4
+a1159 4
+=1 4 B-. A-. d-. c-.
+=2 vol80 8 [Eb Eb Eb Eb] [Eb Eb Eb Eb]
+=3 4 eb-. c-. g-. f#-.
+=4 vol80 8 [c~ c~ c~ c~] [c~ c~ c~ c~]
+d1162 1
+a1162 1
+=1 4 eb 8. [d 16 c,] 4 Bb vol80 8 [G G]
+d1164 1
+a1164 1
+=2 8 [Eb Eb Eb Eb] vol105 4 gb 8. [f 16 eb]
+d1166 2
+a1167 2
+=3 4 bb 8. [a 16 g] 4 f# vol80 8 [e~ e~]
+=4 8 [c~ c~ c~ c~] vol105 4 Db 8. [C 16 B_b]
+d1172 3
+a1174 5
+=1 vol80 8 [G G G G] [G G G G]
+I0.1 .95 p
+=2 1 c#
+=3 vol80 8 [e~ e~ e~ e~] [e~ e~ e~ e~]
+I0.1 .90 p
+d1178 5
+a1182 5
+=1 8 [G G G G] vol105 4 bb 8. [a 16 g]
+=2 vol80 8 C# 4 rest 8 C# rest [C# C#] rest
+=3 8 [e~ e~ e~ e~] vol105 4 F 8. [E 16 D]
+I0.8 .40 f
+=4 vol80 8 bb 4 rest 8 bb rest [bb bb] rest
+a1183 1
+I0.2 .90 p
+d1185 3
+a1187 3
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=3 1 C# treble
+=4 8 rest [bb bb] rest 8 bb 4 rest 8 bb
+d1190 1
+a1190 2
+=1 vol80 8 F 4 rest 8 F rest [F F] rest
+=2 8 rest [B_b B_b] rest 8 B_n 4 rest 8 B_
+d1192 3
+a1194 2
+=3 vol80 8 D 4 rest 8 D rest [D D] rest
+=4 8 rest [f# g] rest 8 g# 4 rest 8 g#
+@
+
+
+1.5
+log
+@4-hands up to bar 26
+@
+text
+@d843 1
+a843 1
+4 bars | 24 21 | 6 6 6 6 6 6 6 5 | 12 12 11 12 | 48 |
+d864 1
+a864 1
+=3 8 [<c~x d~> bb bb <c~x d~>] rest [e~ e~] rest
+d880 4
+a883 4
+=1 8 [F# G# G# F#] 4 rest 8 [d# e]
+=2 8 [db c B c] [c# d] [A_ A_]
+=3 8 [E D D E] 4 rest 4 D
+=4 4 b 8 [bb a] [ab g f# f#]
+d886 3
+a888 3
+=2 8 [A_ A_ A_ A_] [A_ A_ A_ A_]
+=3 8 [D C# Cn] 4 Eb 8 [D C# Cn]
+=4 8 [f# f# f# f#] [f# f# f# f#]
+d890 1
+a890 2
+=1 8 [f e d# e] [f gb] [C# C#]
+=2 8 [A_ A_ A_ A_] [A_ A_] vol105 4 F-.
+d892 3
+a894 2
+=3 4 Eb bass 8 [d~ c~#] [c~n b bb bb]
+=4 8 [f# f# f# f#] [f# f#] vol105 4 G-.
+d898 1
+a898 1
+=1 8 [C# C# C# C#] [C# C# C# C#]
+d900 2
+a901 1
+=3 8 [bb bb bb bb] [bb bb bb bb]
+d908 2
+a909 2
+=1 8 [C# C# C# C#] [C# C#] vol105 4 A-.
+=2 4 db 8. [c 16 Bb] 4 Ab vol80 8 [F F]
+d911 1
+a911 1
+=3 8 [bb bb bb bb] [bb bb] vol105 4 B-.
+d914 1
+a914 1
+=4 4 ab 8. [g 16 f]  4 e vol80 8 [d~ d~]
+d917 1
+a917 1
+=2 vol80 8 [F F F F] [F F F F]
+d919 1
+a919 1
+=4 vol80 8 [d~ d~ d~ d~] [d~ d~ d~ d~]
+d922 2
+a923 1
+=1 4 f 8. [e 16 d] 4 c vol80 8 [A A]
+d925 1
+a925 1
+=2 8 [F F F F] vol105 4 ab 8. [g 16 f]
+d927 2
+a928 2
+=3 4 c~ 8. [b 16 a] 4 g# vol80 8 [f~# f~#]
+=4 8 [d~ d~ d~ d~] vol105 4 Eb 8. [D 16 C]
+d931 3
+a933 3
+=1 vol80 8 [A A A A] [A A A A]
+=2 1 eb
+=3 vol80 8 [f~# f~# f~# f~#] [f~# f~# f~# f~#]
+d940 1
+a940 1
+=1 8 [A A A A] vol105 4 c~ 8. [b 16 a]
+d942 5
+a946 5
+=2 vol80 8 [Eb C C Eb] [C Eb Eb C]
+=3 8 [f~# f~# f~# f~#] vol105 4 G 8. [F# 16 E]
+I0.8 .43 f
+=4 vol80 4 rest eb eb c
+I0.1 .05 p
+d951 2
+a952 2
+=3 1 Eb
+=4 vol80 8 [e~b c~ c~ e~b] [c~ a A, a]
+d956 2
+a957 3
+I0.1 .13 p
+=3 vol80 4 rest g g e
+=4 8 rest 4 a a a 8 a
+d960 3
+a962 3
+=2 8 rest 4 B_b B_b B_b 8 B_b
+=3 8 [g~ e~ e~ g~] [e~ c~# c#, c~#]
+=4 4 G e Bb rest
+d971 2
+a972 2
+=1 4 F E E F
+=2 8 [Bb G, G, Bb] [G, Bb Bb G,]
+d977 4
+a980 4
+=1 8 rest 4 D D D 8 D
+=2 8 [G#, g# g~# g#] [G#' D] 4 B_
+=3 4 B g# d rest
+=4 8 [b d~ d~ b] [b g# G#, g#]
+@
+
+
+1.4
+log
+@add 4-hand version; arrange first page
+@
+text
+@d326 1
+a326 1
+=4 2. G  vol105 4 F#-.
+d791 2
+a792 2
+=2 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=3 8 rest [Eb Eb] rest 8 Eb 4 rest 8 Eb
+d795 4
+a798 4
+=1 8 rest [Eb Eb] rest 8 En 4 rest 8 E
+=2 8 A 4 rest 8 A  8 rest [A#' B'] rest
+=3 8 rest [B_ C] rest 8 C# 4 rest 8 C#
+=4 8 f~ 4 rest 8 f~ 8 rest [f~# g~] rest
+d800 1
+d802 3
+a804 3
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 8 D 4 rest 8 D 8 rest [D D] rest
+=4 8 rest [b b] rest 8 b rest vol105 4 B_-.
+d807 13
+a819 15
+=1 8 c# 4 rest 8 c# 8 rest [d eb] rest
+I0.1 .65 f
+=2 8 rest [G_ G_#] rest B_ rest vol105 4 f-.
+=3 8 A 4 rest 8 A 8 rest [A# B'] rest
+=4 4 F-. rest vol80 8 g# rest rest g#
+I0.1 .40 p
+/
+4 bars | 6 6 6 6 6 11 6 5 | 48 | 12 12 12 11 | 48 |
+|
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 4 c~#-. vol80 8 rest B_ rest [B_ B_] rest
+I0.9 .25 p
+=3 8 rest [Eb Eb] rest 8 Eb rest bass vol105 4 Eb-.
+I0.8 .67 f
+=4 8 g# 4 rest 8 g# rest [g# g# d#]
+d823 4
+a826 5
+=1 8 rest [B_ C] rest Eb rest vol105 4 a-.
+=2 8 A_ 4 rest 8 A_ rest [A_ A_ A]
+=3 4 A-. rest vol80 8 c~ rest rest c~
+I0.9 .35 p
+=4 8 [gb f f gb] [f gb gb f]
+d829 4
+a832 4
+=1 4 f~-. vol80 8 rest Eb rest [Eb Eb] rest
+=2 8 [Eb D D] rest D 4 rest 8 D
+=3 8 c~ 4 rest 8 c~ rest [c~ c~ g]
+=4 8 [a bb bb a] bb rest vol105 4 F-.
+d835 4
+a838 4
+=1 8 C# 4 rest 8 C# rest [C# C# c#']
+I0.3 .22 f
+I0.1 .73 p
+=2 8 rest D# vol105 4 f#-. d~#-. vol80 8 rest F#
+d840 1
+a840 2
+I0.2 .35 p
+=4 4 d#-. rest vol80 8 f~# rest vol105 4 G-.
+d843 1
+a843 1
+4 bars | 24 21 | 6 6 6 7 6 11 6 5 | 12 12 11 12 | 48 |
+d845 5
+a849 4
+=1 8 [G F# F#] rest F# 4 rest 8 F#
+I0.3 .22 f
+I0.1 .73 p
+=2 4 rest vol105 g#-. e~-. vol80 8 [E D]
+a850 3
+=3 8 [c~# d~ d~ c~#] d~ rest vol105 4 A-.
+I0.2 .30 p
+=4 4 e-. vol80 8 rest e~ [d~ c~ c~] rest
+d852 6
+a857 8
+I0.5 .17 f
+I0.2 .73 p
+=1 8 rest G vol105 4 bb-. g~-. vol80 8 rest Bb
+=2 8 [E D D E] [D E E D]
+I0.1 .30 p
+I0.1 .75 f
+=3 4 g-. rest treble vol80 8 Bb rest bass vol105 4 B-.
+=4 8 [bb c~ c~ bb] [c~ bb bb c~]
+d862 9
+a870 9
+=1 4 rest vol105 c~-. g~#-. vol80 8 [G# F#]
+=2 8 [D E E D] 4 rest 8 [B c]
+I0.2 .33 p
+=3 4 g#-. treble vol80 8 rest G# [F# E E] rest
+=4 8 [c~ bb bb c~] 4 rest 4 b
+|
+=1 8 [G# F# F# G#] [F# G# G# F#]
+=2 8 [c# d c# cn] [B c c# d]
+=3 8 [D E E D] [E D D E]
+d985 1
+a985 1
+=4 2. G  vol105 4 F#-.
+@
+
+
+1.3
+log
+@horiz spacing
+@
+text
+@d14 1
+d18 1
+d26 1
+d28 1
+d30 1
+d32 1
+d41 1
+d44 1
+d46 1
+d48 1
+d56 1
+d58 1
+d60 1
+d63 1
+d68 1
+d71 1
+d74 1
+d78 1
+d81 1
+d85 1
+d138 1
+d141 1
+d145 1
+d151 1
+d153 1
+d157 1
+d161 1
+d164 1
+d169 1
+d172 2
+d176 1
+d178 1
+d183 2
+d186 1
+d188 1
+d191 2
+d195 2
+d200 3
+a202 1
+il0.5 .05 25
+d205 1
+d233 1
+d236 1
+d247 1
+d250 1
+d252 2
+d261 1
+d263 1
+d265 1
+d268 1
+d278 1
+d280 1
+d283 1
+d285 1
+d287 1
+d295 1
+d299 1
+a299 1
+=1 vol80 8 [c#, c~# c~~# c~#] [c#' G G E]
+d301 1
+a301 1
+=3 vol80 8 [g~ e~ e~ g~] [e~ c~# c#, c~#]
+d318 1
+a318 1
+=2 vol80 8 [G#, g# g~# g#] [G#' D] 4 B_
+d320 1
+a320 1
+=4 vol80 8 [b d~ d~ b] [b g# G#, g#]
+d324 1
+d327 1
+d331 1
+d334 1
+d338 1
+d341 1
+d345 1
+d348 1
+d350 1
+d352 1
+d357 1
+d360 1
+d362 1
+d365 1
+d371 1
+d374 1
+d426 1
+d429 1
+d437 1
+d439 1
+d441 1
+d452 1
+d462 1
+d472 1
+d475 1
+d487 3
+a489 1
+=2 4 B 8. [Bb 16 G#,] 4 F# vol80 8 [Eb Eb]
+d491 3
+a493 1
+=4 4 f# 8. [fn 16 eb] 4 d vol80 8 [c~ c~]
+d501 1
+d503 3
+a505 1
+=2 8 [Eb Eb Eb Eb] vol105 4 f# 8. [fn 16 eb]
+d507 2
+a508 1
+=4 8 [c~ c~ c~ c~] vol105 4 C# 8. [Cn 16 B_b]
+d513 1
+d516 1
+d519 1
+d523 1
+d526 1
+d532 1
+a532 1
+il0.5 .05 70
+d535 1
+d560 1
+d563 1
+d567 1
+d574 1
+d576 1
+d579 1
+d583 1
+d586 1
+d591 1
+d595 1
+d603 2
+d606 1
+d610 668
+a1277 1
+=1 8 rest [F# F#] rest F# rest vol95 4 c#-.
+d1282 1
+d1286 1
+d1288 1
+d1291 1
+d1301 2
+d1304 1
+d1307 1
+d1314 1
+d1317 1
+d1320 1
+d1323 1
+d1327 1
+@
+
+
+1.2
+log
+@most of the important horiz spacing
+@
+text
+@d10 1
+a10 1
+4 bars | 12 | 48 |
+d33 1
+a33 1
+3 bars | 3 3 3 3 3 3 3 4 3 2 3 3 3 3 3 2 | 48 | 48 |
+d51 1
+a51 1
+4 bars | 48 | 48 | 44 | 48 |
+d74 1
+a74 1
+4 bars | 48 | 48 | 48 | 48 |
+d101 1
+a101 1
+4 bars | 48 | 48 | 48 | 48 |
+d124 1
+a124 1
+4 bars | 6 6 6 6 6 11 6 5 | 48 | 48 | 48 |
+d147 1
+a147 1
+4 bars | 48 | 6 6 6 7 6 11 6 5 | 48 | 48 |
+d175 1
+a175 1
+4 bars | 48 | 48 | 48 | 48 |
+d178 1
+a178 1
+=2 8 [c# cn B c] [c# d] [A_ A_]
+d180 1
+a180 1
+=4 4 b 8 [bb a] [ab gn f# f#]
+d198 2
+a199 2
+4 bars | 3 3 3 3 3 3 3 5.5 3 3 3 3 3 3 3 2 | 45 \
+ | 3 3 3 3 3 3 3 5.5 3 2 3 2 3 3 3 3 | 48 |
+d221 1
+a221 1
+4 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 | 48 | 45 | 48 |
+d223 1
+a223 1
+il0.7 .08 35
+d249 1
+a249 1
+4 bars | 48 | 48 | 48 | 48 |
+d271 2
+d279 1
+a279 1
+=1 4 c#-. rest rest vol80 4 c#(2
+d284 2
+a285 2
+il0.5 .05 45
+=1 4. c#)2 4 cn 8 c# 4 cn(1
+d294 2
+d312 1
+a312 1
+il0.5 .05 50
+d317 2
+d345 1
+a345 1
+4 bars | 48 | 48 | 48 | 48 |
+d368 2
+a369 1
+4 bars | 48 | 48 | 48 | 6 6 6 6 6 11 6 5 |
+d406 1
+a406 1
+il0.5 .05 65
+d417 1
+a417 1
+4 bars | 48 | 48 | 48 | 48 |
+d513 2
+a514 1
+5 bars | 48 | 48 | 48 | 48 | 12 ||
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 2
+a2 1
+4 systems 8 /18-22-18-22-18-22-18/
+d33 1
+a33 1
+3 bars | 48 | 48 | 48 |
+d40 1
+a40 1
+il0.5 .05 5
+d51 1
+a51 1
+4 bars | 48 | 48 | 48 | 48 |
+d73 2
+d96 3
+a98 1
+3 systems 8 /18-22-18-22-18-30-18/ 18-30-18-22-18-22-18/ 18-30-18-22-18-22-18/
+a99 1
+pagenum
+d123 2
+d146 2
+d170 3
+a172 1
+3 systems 8 /18-25-18-30-18-25-18/ 18-25-18-25-18-25-18/ 18-25-18-30-18-25-18/
+a173 1
+pagenum
+d197 3
+d202 1
+a202 1
+=2 4 db 8. [c 16 Bb] 4 G# vol80 8 [F F]
+d220 2
+d244 1
+a244 1
+4 systems 8 /18-30-18-25-18-22-18/ 18-22-18-22-18-22-18 \
+d246 1
+a247 1
+pagenum
+d334 3
+a336 1
+4 systems 8 /18-22-18-22-18-22-18/
+a337 1
+pagenum
+d361 2
+d384 4
+d409 2
+d433 3
+a435 1
+4 systems 8 /18-22-18-22-18-22-18/
+a436 1
+pagenum
+d459 2
+d482 2
+@

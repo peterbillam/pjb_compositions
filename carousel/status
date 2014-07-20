@@ -1,0 +1,46 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 2000, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                http://www.pjb.com.au     #
+#########################################################################
+unshift (@INC, $ENV{PLIB} || '/home/plib');
+
+my $total_bars = 0;
+my $total_bars_with_something = 0;
+
+foreach $file ('vs1','vs2','vs3') {
+	my $bars_so_far = 0;
+	my $bars_with_something = 0;
+	my $this_bar_has_something = 0;
+	if (! open (F, $file)) { warn "can't open $file: $!\n"; next; }
+	while (<F>) {
+		if (/^\s*\|/) {
+			$bars_so_far ++;
+			$bars_with_something += $this_bar_has_something;
+			$this_bar_has_something = 0;
+		} elsif (/^\s*=[23]\s+treble\s*$/) {
+		} elsif (/^\s*=[23]\s+bass\s*$/) {
+		} elsif (/^\s*=[23]\s*$/) {
+		} elsif (/^\s*=[23]\s/) {
+			$this_bar_has_something = 1;
+		} elsif (/^i0\.\d.*23[23]$/) {
+			$this_bar_has_something = $this_bar_has_something || 0.5;
+		}
+	}
+	close F;
+	printf ("$file has %3d bars out of %4d with something, %g %%\n",
+		$bars_with_something,$bars_so_far,100*$bars_with_something/$bars_so_far);
+	$total_bars += $bars_so_far;
+	$total_bars_with_something += $bars_with_something;
+}
+printf ("Total: %3d bars out of %d with something, %g %%\n",
+	$total_bars_with_something, $total_bars,
+	100*$total_bars_with_something/$total_bars);
+exit

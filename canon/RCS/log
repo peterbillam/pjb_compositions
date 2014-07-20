@@ -1,0 +1,145 @@
+20090531 200224 canon pjb First sketch at an "Art Of Canon"
+20090531 215937 canon pjb attempt at three voices invertible
+20090531 221604 canon pjb 12 bars, inverted 3 ways
+20090624 184147 canon pjb +2st grows to about 16 bars; fairly spikey...
+20090628 114126 12 pjb At Twelve Semitones
+20090629 153329 12 pjb try to fit to the augmented entry
+20090629 202121 12 pjb last 16 bars probably in place
+20090705 160415 12 pjb much tweaking of last page
+20090708 155942 12 pjb tentatively joined end bit to beginning bit
+20090709 132943 12 pjb more-or-less reconciled the join
+20090709 153719 README pjb Overview and notes for ArtOfCanon
+20090713 191733 1 pjb Canon at One Semitone and 24 beats
+20090717 112431 1 pjb more adjusting of 4-6
+20090810 202754 1 pjb try also a two-bar canon...
+20091019 151644 1 pjb more or less to bar 12 of 2nd couble-canon
+20091020 150806 1 pjb up to bar 15 ?
+20091024 182545 1 pjb new try at double-canon starting from end
+20091025 200942 1 pjb backwards to The Join at 21-22
+20091028 071154 1 pjb push back to bar 19
+20091028 130210 1 pjb ready to fill in 16-18 2nd try
+20091029 213504 1 pjb 15-18 try but too unstable
+20091031 192831 1 pjb back to 16; some adjustments
+20091102 111300 1 pjb push back to 13
+20091102 165058 1 pjb push the join back to bar 10
+20091104 133508 1 pjb introduce take III, try to resolve join
+20091105 180651 1 pjb scrappy but half-plausible
+20091121 210423 2 pjb Canon at 2 semitones
+20091128 213858 12 pjb somewhat desquirmed 23,25,27
+20091130 083149 2 pjb connected; but only 96 secs
+20091207 104729 make3 pjb auto canon generation for 3
+20091208 150452 make3 pjb roll in prototype ending from 3x
+20091209 214612 make3 pjb almost joins up...
+20091210 163154 make3 pjb ditch old ending
+20091210 163250 3 pjb Canon at Three Semitones and nine beats
+20091214 124443 make4 pjb first try at generating 4-semitone canon
+20091214 190103 make4 pjb changed to double canon at 2 bars
+20091216 202359 make4 pjb 4-bar repeat mt gives 17 bars
+20091217 103449 make4 pjb deconflicted 11-17
+20091219 210139 make4 pjb round to a recap at bar 31 ...
+20091220 105127 make4 pjb tweak 11,13,15
+20091223 180417 make4 pjb to 51; but lost way around 45 with tri-battute
+20091223 181243 make4 pjb swapped =3 and =4, so lowest voice at bottom
+20091224 162510 make4 pjb up to bar 80
+20091224 171813 make4 pjb through to end at bar 88 (123s) ?
+20091225 104947 2 pjb horiz spacing
+20091225 132301 3 pjb add piano version; squeeze and space
+20091225 142346 1 pjb horiz spacing
+20091226 184322 4 pjb running on from make4 output, spaced and paged
+20091226 203839 4 pjb most of the important horiz spacing
+20091227 094746 4 pjb horiz spacing
+20091227 160750 4 pjb add 4-hand version; arrange first page
+20091227 212602 4 pjb 4-hands up to bar 26
+20091228 095711 4 pjb 4-hands up to bar 40
+20091228 132359 4 pjb 4-hands roughly up to bar 70
+20091228 154724 4 pjb roughly 4-hands to the end :-)
+20100105 153828 make5 pjb generates inner (canonical) voices for 5
+20100105 155114 5 pjb output of make5, down 2 semitones
+20100105 213604 5 pjb slow progress to adding free voices
+20100107 083527 5 pjb still no convincing free voices
+20100109 164941 5 pjb convincified bass rythm
+20100109 210301 5 pjb poor efforts at top voice
+20100110 185410 5 pjb first hint of a viable top voice?
+20100111 113617 5 pjb slightly improved top voice
+20100111 145401 5 pjb first plausible candidate?
+20100111 151620 5 pjb divided into pages and systems
+20100111 173930 5 pjb released version
+20100213 200544 make6 pjb script to construct canon at 6 semitones
+20100214 193715 make6 pjb plausible version; will move to 6 now
+20100215 112514 6 pjb Canon at Six Semitones, as published
+20100218 161636 make7 pjb script to generate canon at 7 semitones
+20100218 191239 make7 pjb set up to do the augmented canon
+20100219 102644 make7 pjb corrected pitch of entries
+20100224 154121 make7 pjb about to abandon augmented canon :-(
+20100224 163245 make7 pjb set up for 7/2 passacaglia
+20100225 195211 make7 pjb add sketch of downfall
+20100303 192414 t7 pjb uses midisox to generate the canon for 7
+20100304 200053 t7 pjb more ideas; sort of variation form developing
+20100306 182843 t7 pjb plausible attempt at triplet variation
+20100306 201400 t7 pjb first 32 bars and last 10 plausible
+20100308 163110 t7 pjb longer plausible bits
+20100310 163908 t7 pjb first half-plausible version, 167 sec
+20100311 132453 t7 pjb extended 42-43 by a bar
+20100311 172551 7 pjb Canon at 7 semitones, first page canonised
+20100311 205034 7 pjb canonised 2nd page up to bar 33
+20100312 151054 7 pjb canonised up to bar 51
+20100312 172655 7 pjb notes to end, bar 60
+20100313 120035 7 pjb horiz spacing, and note changes 24, 58-59
+20100313 164029 7 pjb published version
+20100328 195329 8 pjb Canon at Eight Semitones; five plausible bars
+20100405 104236 8 pjb possibly up to bar 14
+20100405 115944 8 pjb completed but unsure
+20100406 132107 8 pjb omitted last note ; plausible ; spaced
+20100413 115536 make9 pjb generates the canon for 9
+20100414 190349 make9 pjb two steps backwards
+20100415 181157 make9 pjb first 27 bars, more plausible, but trite
+20100421 140149 make9 pjb first 2 bars self-extract from the DATA
+20100421 203755 make9 pjb is this near-plausible for 72 bars ?
+20100423 154740 make9 pjb slightly more plausible; problem at 55/56
+20100423 181257 make9 pjb reduced stress in 55/56
+20100423 183209 make9 pjb down 5 semitones
+20100423 194740 make9 pjb more tweaks round 49, 51, 54-end
+20100423 203301 make9 pjb much tweaked; should connect to 9a
+20100423 203719 make9 pjb plausible ?
+20100424 162019 make9 pjb now very plausible
+20100424 175432 9 pjb Canon at 9 semitones; from output of make9
+20100424 202448 9 pjb tweak 79-81
+20100425 120658 9 pjb refine accidentals
+20100426 163406 9 pjb sketck up to 101
+20100427 155046 9 pjb somewhat desemitoned last page
+20100428 131324 9 pjb improve join 108-109. Now: ending?
+20100428 160952 9 pjb plausible ending ?
+20100428 193639 Makefile pjb Makefile for Canons
+20100429 171036 9 pjb correct a few accidentals
+20100430 132341 9 pjb 5 systems per page looks practical
+20100430 205746 9 pjb publishedversion
+20100516 200955 make10 pjb try mt2 2 1 at 3 beats
+20100517 131849 make10 pjb about 8 bars; boring, but within searchable distance
+20100529 175833 10 pjb Canon at Ten Semitones
+20100601 205957 10 pjb now for string orch... up to 16 bars ?
+20100603 202250 10 pjb plausible up to end at 27 bars ?
+20100604 125452 10 pjb minor adjustments
+20100605 120101 10 pjb squeezed to 3 pages
+20100605 184443 10 pjb indicated instruments
+20100605 201812 10 pjb plausible release candidate ?
+20100606 124004 10 pjb first released version
+20100612 203227 11 pjb Canon at Eleven Semitones
+20100613 180251 11 pjb many small changes; extend to 7 bars
+20100613 213504 11 pjb stretch out to 10 bars...
+20100620 111326 make11 pjb perl script to make 4-voice canon at 11 semitones
+20100621 125041 11_loop pjb constructs NSD-valid loops for canon at 11 st
+20100623 205725 make11 pjb plausible half-note skeleton all way through
+20100624 140717 make11 pjb ongoingly plausibilised
+20100624 182933 make11 pjb attempt interestification of first page
+20100625 133858 make11 pjb some steps towards a plausible first 14 bars
+20100626 133827 make11 pjb bars 9-13 somewhat more interesting
+20100627 173636 make11 pjb much striving and fumbling 30-end
+20100628 110534 make11 pjb tweak last ten bars some more
+20100628 194952 make11 pjb bars 32-44 almost plausible
+20100629 195351 make11 pjb unfinished gap now about 15-27
+20100701 210737 make11 pjb gap now perhaps just 17-24
+20100702 155624 make11 pjb a bridgehead around bar 20
+20100703 163251 make11 pjb plausible ?
+20100703 191553 11 pjb first plausible version, modified from make11
+20100704 140908 11 pjb some squeezing and reaccidentalisation
+20100705 195224 11 pjb spacing: could release now...

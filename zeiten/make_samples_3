@@ -1,0 +1,38 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                    http://www.pjb.com.au #
+#########################################################################
+
+$sd = '/home/pjb/www/mus/samples';
+
+# zeiten_3 ...
+$message = 'Sample only.  Purchase the score for SAT, SAA and TTB at www.pjb.com.au/mus !';
+open (I, "wechsel.a4") || die "can't open wechsel.a4: $!\n";
+open (O, "> $sd/zeiten_3.a4") || die "can't open $sd/zeiten_3.a4: $!\n";
+
+# output first two systems of SAT ...
+while (<I>) { last if /% system 3 staves/; print O; }
+while (<I>) { if (/leftshow$/) { print O; last; } }
+while (<I>) { last if /^% system 3$/;   print O; }
+print O "115 80 /Times-Italic 11 ($message) leftshow\n";
+
+# skip to start of TTB ...
+print O "0 -481 translate\n";   # about 2/3 page downwards
+while (<I>) { last if /^%%Page: 5 5/; }
+while (<I>) { last if /^% system 1 staves/; }
+# output first system of TTB ...
+while (<I>) { last if /^% system 2 staves/; print O; }
+while (<I>) { if (/leftshow$/) { print O; last; } }
+while (<I>) { last if /^% system 2$/;   print O; }
+
+print O "pgsave restore\nshowpage\n%%EOF\n";
+close I;
+close O;

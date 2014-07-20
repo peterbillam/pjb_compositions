@@ -1,0 +1,28 @@
+6 systems /19-25-19/
+midi channel 0 bank 5,5 patch 0 pan 80
+midi channel 1 bank 5,5 patch 0 pan 20
+midi channel 2 bank 5,5 patch 2 pan 80
+midi channel 3 bank 5,5 patch 2 pan 20
+/
+4 bars | 48 |
+| 1.8
+=1 treble cha0 4. rest 8 [c B c] 4 eb 8 db
+=2 bass   cha1 4 B 8 c# 4. d 8 [B A# B]
+|
+=1 8 [c B c] [eb d eb] 4. ab
+=2' 4 f# 8 g# 4 a 8 b 4 c~ 8 d~
+=2, 4. d 4. B 8 [Bb A Ab]
+|
+=1 8 [g c c#] 4. d 4 eb 8 db
+=2' 4. e~b rest' f
+=2, 4 G 8 A 4. A# 8 [B A# B]
+|
+=1 8 [c B c] 4 eb 8 db 4 c 8 Bb
+=2' 4 f# 8 g# 4 a 8 b 4 c~ 8 d~
+=2, 4. d 4. B 8 [Bb A Ab]
+|
+=1 8 [B c c#] [d d# e] 4. f
+=2' 4 e~b 8 f~ 4. g~b rest'
+=2, 4 G 8 A 4. A# 8 [B A# B]
+|
+=1 8 [e g f#] 2. g

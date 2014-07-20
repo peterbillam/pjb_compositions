@@ -1,0 +1,908 @@
+head	1.9;
+access;
+symbols;
+locks
+	pjb:1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2013.04.26.08.49.57;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.25.11.15.56;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.20.11.02.54;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.20.05.28.43;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.18.10.18.59;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.18.09.07.41;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.10.11.04.55;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.10.09.49.28;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.07.06.18.51;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@We Knew
+@
+
+
+1.9
+log
+@chords in place to end ?
+@
+text
+@4 systems 10 /17-25-17-20-17-20-17 /17-25-17-20-17-20-17 \
+ /17-25-17-20-17-20-17 /17-25-17-20-17-20-17 /
+title IV
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2013 Peter J Billam
+midi channel 1 patch 52 pan 10 reverb 100
+midi channel 2 patch 52 pan 58 reverb 100
+midi channel 3 patch 52 pan 74 reverb 100
+midi channel 4 patch 52 pan 90 reverb 100
+midi channel 5 patch 52 pan 42 reverb 100
+
+# AM 3
+# (solo voice, 3 voices in 2-note phrases upbeat->downbeat, 5/4 an 4/4
+
+# 20130409 hmm... echo at cro of morse_thue? 8 d~ c~# b a# : c# d~ a# b ?
+# A rest-free 2-voice texture shared among 3 voices so as to be sustained,
+# each smb on min off
+# and then the lowest note of the four can go  a# g# gn f  (fractally) or sim
+# but how does that fit with the words ?
+
+# 20130410
+/
+3 bars | 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 3.6
+=1 treble8vab cha1 vol110 leg85  1 rest
+=2 bass       cha2 vol70 leg100 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 bass       cha3 vol70 leg100 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 bass       cha4 vol70 leg100 2 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+=1 8 rest F 4 d 2. c# 4 rest
+r0.6 .08 And we  knew ,
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [b a# ab g]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [b a#]
+i.2 .33 5
+|
+=1 2 rest rest d#
+r0.6 .67 we
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+i.2 .67 9
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [ab g] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+=1 1 e 2 rest
+r0.6 .01 knew ,
+=2 8 [b a# ab g] 4 rest 8 [b a# ab g] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [b a#] [ab g] 4 rest 8 [a# b]
+|
+il0.7 .03 5
+=1 2 rest rest 8 rest E G F
+r0.6 .75 for  gener -
+i.2 .01 13
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+=1 2 1 f 4 e Bb
+r0.6 .03 a .33 - .65 tions .83 we
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [b a# ab g]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest bb
+i0.2 .33 17
+|
+=1 1 d 2 rest
+r0.6 .01 knew .
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+i.4 .66 21
+=3 4 rest 8 [bb ab g f] 4 rest 8 [bb ab g f]
+=4 8 [f g] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+|
+=1 2 rest rest 8 rest F 4 G
+r0.6 .75 but what
+=2 8 [f g ab bb] 4 rest 8 [f g ab bb] 4 rest
+=3 4 rest 8 [f g ab bb] 4 rest 8 [bb ab g f]
+=4 8 [g f] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+|
+=1 1. E
+r0.6 .01 use ?
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+i0.6 .01 25
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+il0.7 .03 10
+=1 2 rest 4 e c#-emph 8 d 4 f#-emph 8 fn
+r0.6 .33 Some .52 leather - .75 lunged ad
+=2 8 [c~# b a# g#] 4 rest 8 [g# a# b c~#] 4 rest
+=3 4 rest 8 [c~# b a# g#] 4 rest 8 [c~# b a# g#]
+=4 8 [g g#] 4 rest 8 [g# a#] [b c~#] 4 rest 8 [c~# b]
+i0.2 .33 29
+|
+=1 4 e-emph 8 c 4. Ab 8 rest 4 eb 8 B [d' F#]
+r0.6 .01 - ven - turer , .58 fist .73 on  steering
+=2 8 [d~ c~ a# f#] 4 rest 8 [f# g# an b] 4 rest
+=3 4 rest 8 [d~ c~ a# f#] 4 rest 8 [b g# an b]
+i0.8 .66 33
+=4 8 [a# g#] 4 rest 8 [f# g#] [an b] 4 rest 8 [f# g#]
+i0.2 .66 U
+|
+=1 2. c 8 rest 4 e c# 8 A#
+r0.6 .01 wheel , .58 he .75 held .91 the
+=2 8 [ab g f e] 4 rest 8 [ab g f e] 4 rest
+=3 4 rest 8 [ab g f e] 4 rest 8 [f g ab bb]
+=4 4 bb rest 8 [ab g] [f e] 4 rest 8 [f g]
+|
+=1 4 gb f 2 rest 8 rest A [c' B']
+r0.6 .03 levers , .75 he .83 didn't
+=2 8 [c~ b a g#] 4 rest 8 [b c~ g# a] 4 rest treble
+i0.2 .01 37 g# a b c~ .76 D E F# G
+=3 4 rest 8 [b c~ g# a] 4 rest treble 8 [C D E F#]
+=4 4 ab 4 rest 8 [b c~] [g# a] 4 rest treble 8 [C D]
+i0.2 .01 D
+|
+=1 8 [db c eb dn] 4 f 8 en 4 f# 8 g 4 g#
+r0.6 .01 listen  to  the .33 shouting .58 from .74 the back
+=2' 8 [C# D Eb F] 4 rest 8 [c B A G#] 4 rest
+i0.2 .33 41 .76 c d e f#
+=3 4 rest 8 [C# D Eb F] 4 rest 8 [c d eb f]
+=4 8 [E F#] 4 rest 8 [c' B'] [A G#] 4 rest 8 [c d]
+i0.2 .33 D
+|
+il0.7 .03 15
+=1 1 c 2 rest
+r0.6 .01 seat ,
+=2' 8 [c d eb f] 4 rest 8 [c B A G#] 4 rest
+i0.2 .01 f f# g# a .67 45
+=3 4 rest 8 [c d eb f] 4 rest 8 [B' c' G# A]
+=4 4 eb 4 rest 8 [c B] [A G#] 4 rest 8 [B c]
+i0.2 .66 U
+|
+=1 2 rest rest 4. d 8 Bb
+r0.6 .01 .66 We .87 could
+=2' 8 [A G# F# Fn] 4 rest 8 [A G# c' B'] 4 rest
+=3 4 rest 8 [A G# F# Fn] 4 rest 8 [G# A Bb' c']
+=4 4 A 4 rest 8 [A G#] [F# Fn] 4 rest 8 [G# A]
+|
+=1 1 f# 2 rest
+r0.6 .01 see ,
+=2 8 [eb d c B] 4 rest 8 [eb f f# g#] 4 rest
+=3 4 rest 8 [eb d c B] 4 rest 4 eb 8 [f f#]
+i0.2 .01 49 f# g# a b
+=4 8 [B, c] 4 rest 8 [eb f] [f# g#] 4 rest eb
+i0.2 .01 D
+|
+=1 2. a 8 B 4 g# 8 f# 4 c
+r0.6 .01 eve .23 - .50 ry - bo - dy .83 could
+=2 8 [a g# f# fn] 4 rest 8 [d eb f f#] 4 rest
+=3 4 rest 8 [a g# f# fn] 4 rest 8 [f eb d c]
+i0.2 .33 53 .67 f f# g# a
+=4 8 [f f#] 4 rest  8 [d eb] [f f#] 4 rest 8 [f eb]
+i0.2 .33 U
+|
+=1 1 eb 2 rest
+r0.6 .01 see ,
+=2' 8 [B A G# F#] 4 rest 8 [F# G# Eb Fn] 4 rest bass
+r0.6 .67 57
+=3' 4 rest 8 [B A G# F#] 4 rest 8 [C D Eb Fn]
+=4 8 [d c] 4 rest 8 [F# G#] [Eb Fn] 4 rest 8 [C D]
+i0.2 .67 U
+|
+il0.7 .03 20
+=1 8 rest 4. d 2. c# 4 rest
+r0.6 .10 we  knew ,
+=2 8 [c~ bb ab g] 4 rest 8 [bn a# ab g] 4 rest
+=3 4 rest bass 8 [c~ bb ab g] 4 rest 8 [a# bn g ab]
+=4 8 [Eb F] 4 rest bass 8 [b a#] [ab g] 4 rest 8 [a# b]
+r0.5 f gb g# a
+|
+=1 2 rest rest 8 rest D F E
+r0.6 .75  We saw it
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+i0.4 .01 61
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+i0.2 .01 D
+|
+=1 2 db c rest
+r0.6 .01 co .17 - .33 ming ,
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+=3 4 rest 8 [bb ab g f] 4 rest 8 [bb ab g f]
+i0.2 .33 65
+=4 8 [g ab] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+i0.2 .33 U
+|
+=1 2 rest rest 8 rest D F E
+r0.6 .75  we kept on
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [b a# ab g]
+i0.8 .67 69
+=4 8 [g f] 4 rest 8 [a# b] [g ab] 4 rest 8 [b a#]
+i0.2 .67 D
+|
+=1 2 db c rest
+r0.6 .01 dri .17 - .33 ving ,
+=2 8 [f g ab bb] 4 rest 8 [f g ab bb] 4 rest
+=3 4 rest 8 [f g ab bb] 4 rest 8 [bb ab g f]
+=4 8 [ab g] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+|
+il0.7 .03 25
+=1 1 blank
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+i0.8 .01 73
+=3 4 rest 8 [bb ab g f] 4 rest 8 [f g ab bb]
+=4 8 [g f] 4 rest 8 [f g] [ab bb] 4 rest 8 [f g]
+i0.2 .01 D
+|
+=1 4 rest 2. d 2 c#
+r0.6 .17 and .67 it
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+i0.8 .33 77
+=3 4 rest 8 [bb ab g f] 4 rest 8 [bb ab g f]
+=4 8 [ab bb] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+i0.2 .33 U
+|
+=1 1. g
+r0.6 .01 came . . .
+=2 8 [b a d~# c~#] 4 rest 8 [a b c~# d~#] 4 rest
+i0.8 .67 81
+=3 4 rest 8 [b a d~# c~#] 4 rest 8 [b a g f]
+=4 8 [g f] 4 rest 8 [a b] [c~# d~#] 4 rest 8 [b a]
+i0.2 .67 D
+
+# communal pronunciation of:
+#   bar27 We | work(ed)? so | hard,
+#   | we | wove the | rope,
+#   | we | brewed the | poison,
+#   | and | all the | time we | knew it | was for | us !
+# the mt? Up : Dn ? moving from 3 pulses/bar to 2 pulses/bar
+# 128-81 = 47;  47/2 = 14 bars: 3 or 4 bars per line;
+# perhaps 3+3+3+5 bars, at 1 or 2 syllables per bar
+# bifurcating into 3 octaves
+# <bass f g a b   g a b c~#>
+# <bass f gb g# a treble B_ C D Eb>
+# <bass db eb f g treble Db Eb F G>
+# could +2 here and hence
+
+# <bass B c d eb   treble B_ C D Eb,  F Gb G# A>
+# <bass  G A B c#,  g a b c~#,   treble G A B c#>
+# could +2 more here
+
+# bass G is a bit too low...
+# and if that's only 7 chords, can turtle them...
+
+# <bass d eb f gb,   g# a b c~,  treble D Eb F Gb>
+# <bass db eb f g alto treble Db Eb F G>
+
+# when in the two of 121 state, either group can move +-2
+# when in the 222 state, can move -1,2,3 if ascending, +1,2,3 if descending
+# especially the +3.
+# a fair amount of freedom-of-movement...
+# The 222->121,121 doesn't have to move symmetrically, either, but also +-2
+
+# <bass f g a b> 222
+# -1 ?
+# <bass ab bb c~ d~> +3
+# -1 ?
+# <bass g# a b   c~ treble D Eb F Gb> 121
+# <bass g# a b   c~ treble E F G Ab>   0 +2
+# <bass a# b c~# d~ treble E F G Ab> +2 0
+# <bass gb ab bb c~ treble Gb Ab Bb c> 222
+# -1 ?
+# <bass a b c~# d~# treble A B c# d#> +3
+# -1 ?
+# <bass g g# a# b   treble G G# A# B  c# d e f> 121
+# <bass g g# a# b   treble G G# A# B  d# e f# g> 0 +2
+# <bass a bb c~ d~b treble A Bb c db  d# e f# g> +2 0
+# <bass f g a b     treble F G A B    f g a b> 222
+# plainly we've ended up too high, let's say 7 semitones too high
+
+|
+# 222
+=2 1 <f g a b>
+r0.8 .03 We
+|
+# -1
+=2 1 <e f# g# a#>
+r0.8 .03 work .67 so
+=3 1 blank
+i0.2 .01 U
+|
+# +3
+il0.7 .03 30
+=2 1 <g a b c~#>
+r0.8 .03 hard ,
+=3 1 blank
+i0.2 .33 U
+|
+# -1
+=2 1 <gb ab bb c~> treble
+r0.5 .03 we
+=3 1 blank
+i0.2 .67 D
+|
+# 121 ???
+=2 1 <B_b B_n C# D>
+r0.5 .07 wove .67 the
+=3 1 <e f g g#>
+|
+# 0 +2
+=2 1 <C C# Eb En>
+r0.5 .03 rope , .67 we
+=3 1 <e f g g#>
+i0.2 .01 D
+|
+# +2 0
+=2 1 <C C# Eb En>
+r0.5 .03 brewed .67 the
+=3 1 <f# g a bb>
+i0.2 .33 U
+|
+# 222
+il0.7 .03 35
+=2 1 <D E F# G#>
+r0.5 .03 poi .55 -
+=3 1 <d e f# g#>
+i0.2 .67 U
+|
+# -1
+=2 1 <C# Eb F G>
+r0.5 .03 son , .67 and
+=3 1 <c# eb f g>
+|
+# +3
+=2 1 <E F# G# Bb>
+r0.5 .03 all .67 the
+=3 1 <e f# g# bb>
+i0.2 .01 D
+|
+# -1
+=2 1 <Eb F G A>
+r0.5 .03 time .67 we
+=3 1 <eb f g a>
+i0.2 .33 U
+|
+# 121
+=2 1 <Gn G# A# B>
+=2 1 <C# D E F>
+r0.5 .03 knew .67 it
+=3 1 <c# d e f>
+i0.2 .67 D
+|
+# 0 +2
+il0.7 .03 40
+=2 1 <An Bb cn db>
+=2 1 <C# D E F>
+r0.5 .03 was .34 for
+=3 1 <c# d e f>
+|
+# +2 0
+=2 1 <An Bb cn db>
+=2 1 <D# En F# G>
+r0.5 .03 us ! .67 for
+=3 1 <d# en f# g>
+i0.2 .01 D
+|
+# 222
+=2 1 <B c# d# f>
+=2 1 <B_ C# D# F>
+=3 1 <B c# d# f>
+r0.5 .01 us !
+i0.2 .33 U
+@
+
+
+1.8
+log
+@cut out old stuff; try to sketch chords to end
+@
+text
+@d51 1
+d86 1
+d124 1
+d163 1
+d201 1
+d275 1
+d279 3
+d284 1
+d286 3
+d292 3
+d298 1
+d303 1
+d305 1
+d309 1
+d311 1
+d314 1
+d316 1
+d318 1
+d322 1
+d327 1
+d329 1
+d333 1
+d335 1
+d340 1
+d342 1
+d345 1
+d348 1
+d354 1
+d356 1
+d362 2
+@
+
+
+1.7
+log
+@possible plan for the second stanza
+@
+text
+@d244 83
+a326 263
+
+midi off
+
+4 systems 10 /17-20-17-20-17-20-17 /17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17 /17-20-17-20-17-25-17 /
+/
+2 bars | 1 |
+# should pattern 4/4 and 5/4
+| 4/4  3.0
+=1 treble     cha1 2.. blank 8 B_
+=2 treble     cha2 2.. blank 8 B_
+=3 treble8vab cha3 1 blank 4 B 2 f 1 e
+r0.6 .03 And we knew,
+=4 bass       cha4 2.. blank 8 b
+|
+# should pattern 4 note and 8 rest note
+# or also pattern chord-first or chord-second
+=1 4 D  2 blank 4 B_
+=2 4 C  2 blank 4 B_
+=3 1 blank 2 gb 1 f
+=4 4 f# 2 blank 4 b
+| 3.75
+=1 4 D# 2. blank 4 B_
+=2 4 C# 2. blank 4 B_
+=3 2 blank 4 A# B c# 2 f 4 e 2 G# 1 d
+r0.6 .03  for generations we knew;
+=4 4 g  2. blank 4 b
+| 3.0
+=1 4 E  2 blank 8 rest B_
+=2 4 C  2 blank 8 rest B_
+=3 1 blank 4 A# 2 d 1 f#
+r0.6 .03  but what use ?
+=4 4 g# 2 blank 8 rest b
+|
+=1 4 F  2 blank 4 B_
+=2 4 Eb 2 blank 4 B_
+=3 1 blank
+=4 4 a  2 blank 4 b
+|
+=1 4 F# 2 blank 8 rest B_
+=2 4 D  2 blank 8 rest B_
+=3 1 blank
+r0.6 .03 Some leather-lunged adventurer,
+=4 4 a# 2 blank 8 rest b
+|
+=1 4 F  2 blank 8 rest B_
+=2 4 B_ 2 blank 8 rest B_
+=3 1 blank
+r0.6 .03  fist on steering wheel;
+=4 4 a  2 blank 8 rest b
+|
+=1 4 E  2 blank 4 B_
+=2 4 B_ 2 blank 4 B_
+=3 1 blank
+r0.6 .03  he held the levers,
+=4 4 g  2 blank 4 b
+|
+=1 4 Eb 2 blank 4 B_
+=2 4 B_ 2 blank 4 B_
+=3 1 blank
+r0.6 .03 He didn't listen to the shouting from the back seat.
+=4 4 f  2 blank 4 b
+
+midi off
+
+
+r0.6 .03 We could see;
+r0.6 .03  everyone could see;
+r0.6 .03 We knew.
+r0.6 .03 We saw it coming, he kept on driving, and it came.
+
+r0.6 .03 How clever !
+r0.6 .03 We wove the rope and tied the noose.
+r0.6 .03 How hard we worked 
+r0.6 .03  to build the cars that killed us,
+r0.6 .03 We brewed that poison
+r0.6 .03  and all the time we knew it was for us !
+r0.6 .03 How clever !
+
+
+3 systems 10 /17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17-25-17 \
+ /17-20-17-20-17-25-17-23-17 /
+
+#======================================================
+#2 Anger - We killed it knowingly, pretending not to know  (five voices)
+#------------- IV ---------------
+
+# more unison-rhythms; more detache, more slogan-chanting
+# nah; more solo ranting over... hmm... slogans
+# see bottom of book AM3
+# =1 treble 8 G# A 2 ee 4 d 2 rest 8 [A# B'] 2 f 4 e
+# =2' bass  2 c 4 f# 2. f# :|
+# =2, bass  2. F# 2 c 4 F# :|
+# |
+# =1 2 rest 4 ab 2. g(1 2 g)1 4 d 2 G# 4 G# 2 A
+# =2' 2 c 4 f# 2. f# :|                     2 <B f'>
+# =2, 2. F# 2 c 4 F# :|
+#
+# perhaps counterpointy, if that's angry enough... :
+# =1' 8 [G_# A_]
+# |
+# =1' 2. Eb 2 D_ 8 [G_# A_]
+# =2  4 rest 8 {A# B] 2 f e
+# |
+# =1' 2, F 1 E
+# =2  4 rest 8 [c# d'] 2. ab 2 g
+
+# And we knew,              # We knew for generations,
+# but what use ?
+# A leather-lunged adventurer,
+# fist on steering wheel,
+# held the levers,
+# didn't listen to the shouting from the back seat.
+# We could see;
+# everyone could see;
+# We knew.
+# We saw it coming, he kept on driving, and it came.
+#
+# How clever !
+# We wove the rope and tied the noose.
+# How hard we worked !
+# to build the cars that killed us,
+# to brew the poison.
+# All the time we knew it was for us !
+# Clever ...
+# How clever !
+
+
+
+# book AL p 6
+/
+5 bars | 4/4  24 | 24 | 24 | 24 | 24 |
+| 4/4 2.4
+i0.5 .07 72 cro/min
+=1 treble     4/4 cha1 leg85 vol90 1 rest
+=2 treble     4/4 cha2 leg85 vol90 1 rest
+r0.7 .03 And we knew !
+=3 treble     4/4 cha3 leg85 vol90 1 F#
+=4 treble8vab 4/4 cha4 leg85 vol90 1 rest
+=5 treble8vab 4/4 cha5 leg95 vol90 1 c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 but what use ?
+=3 2. F#-dim15
+=4 2. rest
+=5 2. c-dim15
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 but what use ?
+=3 2. F#-dim15
+=4 2. rest
+=5 2. c-dim15
+|
+=1 2 rest vol80 cro c
+=2 2. rest
+r0.7 .03 A leather-lunged adventurer,
+=3 2. F#-dim15
+=4 2. rest
+=5 2. c-dim15
+|
+=1 2. Bb'
+=2 2. rest
+r0.7 .03 fist on steering wheel,
+=3 2. F#-dim15
+=4 2 rest cro f#
+=5 2. c-dim15
+|
+=1 2. A
+=2 2. rest
+r0.7 .03 held the levers,
+=3 2. rest
+=4 2. f#-dim15
+=5 2. rest
+|
+il0.6 .07 5
+=1 2. Bb(1
+=2 2. rest
+r0.7 .03 didn't listen to the shouting from the back seat.
+=3 2. rest
+=4 2. f#-dim15
+=5 2. rest
+|
+=1 2. Bb-dim20)1
+=2 2. rest
+r0.7 .03 We could see;
+=3 2 rest cro F#
+=4 2. f#-dim15
+=5 2 rest cro c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 everyone could see.
+=3 2. F#(1
+=4 2. rest
+=5 2 c cro c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 We knew.
+=3 cro F#-dim10)1 2 F#-dim10
+=4 vol80 2. c(1
+=5 2 c-dim10 cro c
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 We saw it coming, he kept on driving, and it came.
+=3 2. F#-dim15
+=4 cro c)1 2 Bb'
+=5 2. c-dim15
+|
+il0.3 .07 10
+=1 2. rest
+=2 2. rest
+r0.7 .03 How clever !
+=3 2. F#-dim15
+=4' 2 A cro Bb
+=5 2. rest
+|
+=1 2. rest
+=2 2. rest
+r0.7 .03 We wove the rope and tied the noose.
+=3 2. F#(1
+=4 2 c-dim10 cro rest
+=5 2. rest
+|
+=1 vol90 2 e cro A
+=2 vol90 2 A cro A
+r0.7 .03 How hard we worked !
+=3 2. F#-dim15)1
+=4 2 g# cro f#
+=5 2 e cro e
+|
+=1 2 eb(1
+=2' 2. Bb(2
+r0.7 .03 We built the cars that killed us.
+=3 2. rest
+=4 2. f#
+=5 2. eb(1
+|
+=1 2. eb-dim20)1
+=2' 2. Bb-dim20)2
+r0.7 .03 We brewed the poison,
+=3 2. rest
+=4 2. rest
+=5 2. eb-dim20)1
+|
+il0.3 .07 15
+=1 2. rest
+=2 2 F# cro F#
+r0.7 .03 yet all the time we knew it was for us.
+=3' vol70 2 D cro C(1
+=4 vol90 2 eb cro eb
+=5 2. vol90 Bb'
+|
+=1 2. rest
+=2 2. F#
+r0.7 .03 Clever ...
+=3' 2. vol60 C)1
+=4 2. en(1
+=5 2. A
+@
+
+
+1.6
+log
+@all four voices sketched to 97 sec, first stanza
+@
+text
+@d215 1
+a215 1
+i0.8 .67 83
+d221 22
+a242 4
+#   We worked so hard,
+#   we wove the rope,
+#   we brewed the poison,
+#   and all the time we knew it was for us !
+@
+
+
+1.5
+log
+@through to "driving", but rough at "we knew"
+@
+text
+@d162 2
+a163 2
+=2 8 [b a# ab g] 4 rest 8 [b a# ab g] 4 rest
+=3 4 rest bass 8 [b a# ab g] 4 rest 8 [a# b g ab]
+d198 1
+a198 1
+=2 1 blank
+d200 2
+a201 1
+=4 1 blank
+d206 1
+a206 1
+=2 blank
+d208 2
+a209 1
+=4 1 blank
+d214 11
+a224 4
+=2 blank
+i0.8 .33 83
+=4 1 blank
+i0.2 .33 D
+@
+
+
+1.4
+log
+@sketched up to "we could see"
+@
+text
+@d116 1
+a116 1
+=2' 8 [C D E F#] 4 rest 8 [c B A G#] 4 rest
+d118 1
+a118 1
+=3 4 rest 8 [C D E F#] 4 rest 8 [c d eb f]
+d138 2
+a139 3
+i0.2 .01 D
+=2 8 [eb d gb f] 4 rest 8 [f# g# a b] 4 rest
+=3 4 rest 8 [eb d gb f] 4 rest 8 [G# A Bb' c']
+d141 1
+a141 1
+=4 8 [B, c] 4 rest 8 [f# g#] [a b] 4 rest blank
+d146 2
+a147 1
+=2 1 blank
+d149 1
+a149 1
+=4 1 blank
+d154 1
+a154 1
+=2 1 blank
+d156 2
+a157 1
+=4 1 blank
+d162 3
+a164 1
+=2 1 blank bass
+d171 2
+a172 2
+=3 4 rest bass 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 4 blank 4 rest bass 8 [a# b] [g ab] 4 rest 8 [a# b]
+@
+
+
+1.3
+log
+@tune to 70 sec; still seems plausiblyfiable
+@
+text
+@d6 1
+a6 1
+leftfoot (c) 2012 Peter J Billam
+d24 1
+a24 1
+3 bars | 32 |
+a79 1
+i.2 .01 25
+d81 1
+d87 3
+a89 3
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+d94 5
+d102 3
+d108 5
+d116 5
+d124 5
+d132 3
+d138 6
+d147 4
+d154 59
+a212 1
+
+@
+
+
+1.2
+log
+@best try yet
+@
+text
+@d95 2
+a96 2
+=1 2. c 4. e 4 c# 8 A#
+r0.6 .01 wheel , .50 he .75 held the
+d98 20
+a117 1
+=1 4 gb f rest 4 rest 2 rest
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 2
+a2 2
+4 systems 10 /17-20-17-20-17-20-17 /17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17 /17-20-17-20-17-25-17 /
+d13 1
+d15 91
+d112 1
+a112 1
+=3 treble8vab cha3 1 blank
+d120 1
+a120 1
+=3 1 blank
+d122 4
+a125 4
+|
+=1 4 D# 2 blank 4 B_
+=2 4 C# 2 blank 4 B_
+=3 1 blank
+d127 2
+a128 2
+=4 4 g  2 blank 4 b
+|
+d131 1
+a131 1
+=3 1 blank
+@

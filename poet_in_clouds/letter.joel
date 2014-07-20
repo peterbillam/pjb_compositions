@@ -1,0 +1,43 @@
+.\" task     = Personal Letter
+.\" name     = The Musical Director
+.nr PS 13
+.nr VS 16
+.nr LL 6.4i
+.pl 11.6i
+.fp 1 NI
+.fp 2 NR
+.fp 3 NB
+.IP \  4i
+Peter Billam
+.br
+5a Short St
+.br
+Glebe \s-1TAS\s0 7000
+.br
+Australia
+.br
+
+\*(DY
+.sp 1.8i
+.LP
+Dear Joel
+
+.PP
+Greetings.
+Following on our phone conversation of five minutes ago,
+I enclose a copy of "The Poet in the Clouds",
+together with the letter that accompanies it when I mail it out
+to Musical Directors.
+.PP
+Please feel free to consider it for use as a centerfold item
+in the ANCA magazine "Sing Out".
+I look forward to hearing your reviewer's reactions !
+.PP
+I would also be very pleased to receive from you
+the addresses of the choirs you mentioned
+that might be interested in such a work,
+and indeed any other choirs you think might fall into this category
+now that you have had a chance to inspect it.
+
+.PP
+With best wishes,

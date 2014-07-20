@@ -1,0 +1,181 @@
+19970803 170435 libretto pjb Libretto of Carousel Club
+19970804 141639 libretto pjb back to Times Roman
+19970804 142202 libretto pjb .SH syntax corrected
+19970804 143935 libretto pjb no ... at beginning of line
+19970805 135548 libretto pjb filled out Warren hearing from KOAP
+19970807 061158 libretto pjb filled out with more authentic quotes
+19970817 104408 libretto pjb filled out first stuff from CONS
+19970817 104708 cast pjb The Carousel Club; Dramatis Personnae
+19970817 105142 scenes pjb Carousel Club - Acts and Scenes
+19970817 112008 summary pjb Carousel Club - summary of plot
+19970817 121143 libretto pjb filled out lots of Warren scene
+19970817 121831 summary pjb deleted Dramaits Personnae
+19980406 201010 libretto pjb added whole of first two scenes
+19980430 170637 scenes pjb I/4 in club, II/2 and II/3 switched
+19980430 170921 scenes pjb added cinema scene
+19980430 170950 scenes pjb corrected scene numbers in II
+19980430 173144 summary pjb I/4 at table, added Cinema, car before corridor
+19980921 101326 references pjb Source material for October at Carousel
+19980921 115340 libretto pjb revise first half
+19980921 115403 cast pjb added minor chars in cinema scene
+19980923 162455 libretto pjb car scene tightened up a bit
+19981029 084350 references pjb add TJR
+19981029 120727 libretto pjb rework car scene, touch commission scene
+19981029 132353 cast pjb add Graves
+19981029 134837 libretto pjb some cosmetics
+19981212 202646 cast pjb added Charles Brown (transfer car driver)
+19981212 225039 libretto pjb most changes as at dec98
+19981214 164237 cast pjb add Elmer Moore
+19981214 173220 libretto pjb add Moore; tidying up
+19981214 173626 cast pjb remove Tom Howard
+19990113 172310 cast pjb beverly oliver non-singing
+19990113 174353 cast pjb possible role-sharings
+19990113 180117 libretto pjb lots of detail adjustments
+19990123 151758 libretto pjb group into lines for sketch a bit better
+19990123 154351 make_sketch pjb Constructs 1-line-per-system vocal sketch
+19990123 212754 make_sketch pjb debugged, but still no page numbers
+19990124 081226 libretto pjb rose tastes in louisiana not houston
+19990124 083821 cast pjb add Hosty, Applin
+19990124 084926 references pjb list of references for Carousel
+19990125 080801 cast pjb add reporter
+19990125 083357 cast pjb squeeze, add various voices
+19990125 083444 cast pjb announcer is baritone
+19990126 210120 libretto pjb protect quote at BOL
+19990202 135003 Makefile pjb Makefile for October at the Caropuusel
+19990202 142500 libretto pjb some extra conspiracy about not shooting Lee
+19990202 142811 cast pjb ref for Brewer
+19990202 151705 libretto pjb headers and footers for extra gloss
+19990202 202448 Makefile pjb add make .print
+19990203 135001 libretto pjb rose doesnt mention score, 1 ruby change
+19990207 100604 Makefile pjb add scenes.a4
+19990207 100640 scenes pjb add orchestra, eliminate cast of each scene
+19990214 071629 libretto pjb no J.D. in act1/sc2, minor changes
+19990214 072717 cast pjb announcer is tenor
+19990224 201943 libretto pjb more tweaks to conspiracy scene
+19990302 203535 cast pjb Nicoletti and Applin are basses
+19990302 205214 libretto pjb small changes, eg the closer _I_ go
+19990302 205758 scenes pjb one clarinet doubles Eb
+19990302 213542 libretto pjb more detail in cinema scene moves
+19990505 204330 libretto pjb more Kathy lines, some small changes later
+19990506 081429 cast pjb Gerald Ford is a congressman
+19990620 170835 cast pjb many changes in voice. refs omitted
+19990620 174946 libretto pjb add 1 warren line; minor changes
+19990629 201435 Makefile pjb sketch no longer made from libretto
+19990629 205732 sketch pjb Vocal sketch of opera, 62 pp, single line
+19990630 170837 sketch pjb completed page 2
+19990702 153544 sketch pjb pages 3 and 4
+19990703 173833 sketch pjb page 5
+19990705 104221 sketch pjb pages 6,7,8; half-way through I/2
+19990707 115503 sketch pjb pages 9,10; beginning of I/3
+19990709 061929 sketch pjb pages 11,12,13
+19990711 151147 sketch pjb pages 14,15,16; beginning of I/4
+19990712 123651 sketch pjb pages 17,18,19
+19990718 085327 sketch pjb fill gaps on p20,21; add p22,23. End of Act I
+19990727 132649 sketch pjb pages 24-29; into II/3 now
+19990729 075036 sketch pjb pages 30,31,32
+19990803 133317 sketch pjb pages 33-36
+19990805 072704 sketch pjb pages 37-41; finished II/3 ! into II/4 now
+19990809 124517 sketch pjb pages 42-46; into II/5
+19990810 155137 sketch pjb pages 47,48. End of Act II
+19990813 111820 sketch pjb pages 49-51; into III/2
+19990815 121855 sketch pjb pages 52-54
+19990816 174455 sketch pjb pages 55-58
+19990817 195220 sketch pjb pages 59-63, all there now.
+20000204 160347 title pjb Title Page of November At The Carousel
+20000204 160421 sketch pjb opps - its November not October
+20000204 160503 libretto pjb oops - its November not October
+20000310 190336 vs1 pjb Vocal score of Act One
+20000609 203713 vs1 pjb mods up to Olsen's entry
+20000612 201437 vs1 pjb mods to end of I/2, p28
+20000614 134619 vs1 pjb mods up to end of act 1
+20000614 210747 vs2 pjb Vocal score of Act Two
+20000615 144249 vs2 pjb mods up to end; status = 11.2%
+20000615 195452 vs3 pjb Vocal score of Act Three, with mods, status 38%
+20000805 101744 vs1 pjb rhythmicise 3 pages, up to 'tough'
+20000805 161711 vs1 pjb rhythmicise 7 pages, up to 'cop'
+20000808 172730 vs1 pjb rhythmicise 11 pages, up to 'do they shoot him too'
+20000808 210514 vs1 pjb rhythmicise 16 pages, up to Exit Rose
+20000810 203115 overture pjb Overture of November at the Carousel
+20000814 203818 overture pjb up to bar 19, could connect to I/1
+20000815 160532 vs1 pjb rhythmicised 20 pages, all of I/1
+20000816 182915 vs1 pjb rhythmicise up to striptease, 28 pages, to end of I/2
+20000825 150213 vs1 pjb rhythms & chords to p33, 'cameras'
+20000826 194922 vs1 pjb rhythms & chords to p37, 'expected'
+20000829 171218 vs1 pjb rhythms & chords to p46, to end of I/3
+20000916 094811 vs1 pjb a few changes in I/3
+20000917 105855 vs1 pjb rhythms & chords to p50, to 'very professional'
+20000917 201234 vs1 pjb rhythms & chords to p65
+20000918 094550 vs1 pjb rhythms & chords to end
+20001024 200128 vs3 pjb rhythmicise first four pages
+20001024 200225 libretto pjb juggle words in Ruby's story for patter rhythm
+20001025 194902 vs3 pjb rhythmicise 13 pages and some chords
+20001029 185446 vs3 pjb rhythmicise 20 pages, incl Ruby's story
+20001101 092153 vs3 pjb rhythmicise 30 pages, up to 'sober enough'
+20001102 143711 vs3 pjb rhythmicise 39 pages, up to 'helpless'
+20001106 095755 vs2 pjb rhythmicise 18 pages, up to 'they know nothing'
+20001107 145923 vs2 pjb rhythmicise 25 pages, to 'in charge of security'
+20001109 085638 vs2 pjb up to p43, incl trio, up to 'you come at his left side'
+20001109 155304 vs2 pjb up to end of II/3, much shifting around
+20001118 174347 vs2 pjb rhythmicised ! chords up to p21
+20001124 203613 vs2 pjb chords up to p35
+20001129 094055 vs2 pjb chords to p53, end of II/3 !
+20001204 200036 vs2 pjb chords to end; status 71 %
+20001216 161700 vs3 pjb filled out chords for first ten pages
+20001218 075254 vs3 pjb chords to p20
+20001219 081130 vs3 pjb chords to p30, 'sober enough to you ?'
+20001219 174455 vs3 pjb chords to end; status 78 %
+20001229 210451 extract_samples pjb Script to extract the Free Samples from vs*
+20010106 093131 vs1 pjb more mods to the samples
+20010106 152228 vs2 pjb minor mods to samples
+20010106 200340 vs3 pjb another round of mods to the samples
+20010114 131715 vs1 pjb another round of mods to the samples
+20010114 134811 vs2 pjb another round of sample mods
+20010114 151747 vs3 pjb vs2 pjb another round of sample mods
+20010121 162600 vs1 pjb another iteration
+20010121 182824 vs2 pjb another iteration, to send to Rosemary
+20010121 201418 vs3 pjb another iteration, to send to Rosemary
+20010215 215652 samples pjb concatenation of samples s1 s2 s3
+20010221 095415 addresses pjb Addresses of Opera Houses
+20010221 214205 samples pjb another iteration, mostly on I/2
+20010222 185650 samples pjb last tweaks before mailout
+20010222 194125 vs1 pjb changes from samples rolled in
+20010222 200826 vs2 pjb changes rolled in from mailout samples
+20010222 202509 vs3 pjb changes rolled in from samples
+20010222 203037 Makefile pjb scrapped individual sample scenes
+20010826 124728 overture pjb a few minor changes
+20010826 195135 vs1 pjb another iteration of the first 13 pages
+20010828 090557 vs1 pjb up to p28, end of I/2
+20010830 161119 vs1 pjb up to p46, end of I/3
+20010903 135901 vs1 pjb up to p69, end of act I
+20010903 194705 vs1 pjb switch to using x in smb chords as per 2.0e
+20011231 131743 vs2 pjb another iteration of the first 27 pages
+20020103 130657 vs2 pjb up to p53, end of II/3
+20020107 101447 vs2 pjb up to p75, end of act II
+20020121 162735 vs3 pjb up to p9, end of III/1
+20020203 193628 vs3 pjb up to p37, "We have it here"
+20020208 141023 vs3 pjb up to end of opera
+20020403 212034 vs1 pjb another iteration of pages 1 to 5
+20020406 144634 vs1 pjb up to page 15
+20020409 145532 samples pjb latest versions
+20020413 151305 vs1 pjb up to p28, first two scenes
+20020423 130754 vs1 pjb up to p46, first 3 scenes
+20020501 155040 vs1 pjb rewritten to end of Act 1
+20020501 190150 overture pjb revise with +4st rises, 2 extra bars
+20020501 190548 vs1 pjb roll in 1 bar from end of overture
+20020528 133432 samples pjb another iteration of I/2
+20020530 144233 vs1 pjb another iteration of I/1
+20020605 153244 vs1 pjb another rewrite of I/2
+20020614 171852 vs1 pjb rewrite I/1, up to p46
+20020623 151746 libretto pjb remove 'happy at least' line in I/4
+20020625 085647 vs1 pjb rewritten again to end of Act 1
+20021128 072428 vs2 pjb rewrite to p22 'you have to do it'
+20021128 072521 samples pjb another iteration of II/3
+20021217 081635 vs2 pjb rewrite to p52, end of II/4
+20030102 170920 vs2 pjb rewritten again to end of Act II
+20031008 090605 vs3 pjb rewrite III/1
+20031009 205422 vs3 pjb rewrite up to p20 "I would like to request"
+20031011 205851 vs3 pjb rewrite up to p30, 'sober enough to you'
+20031013 194354 vs3 pjb rewrite up to p37, 'we have it here'
+20031017 093250 vs3 pjb rewritten again to end of Act III
+20031018 174811 vs3 pjb bug fixes after proof-read
+20031207 201812 overture pjb prune three bars

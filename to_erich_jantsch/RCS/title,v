@@ -1,0 +1,81 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	2012.06.20.01.23.06;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.09.16.12.50.26;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@title page of score of Erich Jactsch
+@
+
+
+1.2
+log
+@updated to on-line copyright conditions
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 5.7c
+.ce 100
+\f3\s+9\s+9\s+7To Erich Jantsch\s-7\s-9\s-9\fP
+.sp 3.6c
+\f2\s+9\s+2for SAATTB recorders\s-2\s-9\fP
+.sp 2.6c
+\f2\s+9\s+7by Peter Billam\s-7\s-9\fP
+.sp 2.6c
+\(co Peter J Billam, 1988
+.sp 0.9c
+\s-1This score may be freely photocopied, and redistributed
+in paper form.  It may be freely performed to live audiences;
+performing rights are waived.  It may not be redistributed in
+electronic form, and all other rights, such as those of recording
+and broadcast, remain reserved by the composer, Peter Billam.\s0
+.sp 0.9c
+\f2\s-2This edition \*(DY.\s0\fP
+.sp 0.9c
+\f2www.pjb.com.au\fP
+@
+
+
+1.1
+log
+@date is 1988
+@
+text
+@d2 1
+d8 1
+a8 1
+.sp 2.5i
+d10 17
+a26 11
+\f3\s+9\s+9To Erich Jantsch\s-9\s-9\fP
+.sp 1.3i
+\f3\s+9Peter Billam\s0\fP
+.sp 1.5i
+\f2\s+2for \s-1SAATTB\s0 Recorders\s0\fP
+.sp 0.6i
+\(co Peter J Billam, 1988. \ All rights reserved.
+.sp 0.4i
+Peter Billam, \s-1GPO\s0 Box 669, Hobart \s-1TAS\s0 7001, Australia
+.sp 0.9i
+\s-2\f2This printing 16 September 1996.\fP\s0
+@

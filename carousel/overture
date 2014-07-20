@@ -1,0 +1,154 @@
+3 systems 10 /20 25 20 25 20 25 20/20 25 20 25 20 25 20/20 25 20 35 20 25 20 10/
+pagenum 1
+title November at the Carousel, Overture
+innerhead Peter Billam
+leftfoot (c) 2000 Peter J Billam
+midi channel 1 patch 71 Clarinet
+midi channel 2 patch 48 Strings
+midi channel 3 patch 60 Horn
+midi channel 4 patch 59 Muted
+midi channel 5 patch 70 Bassoon
+midi channel 6 patch 64 Soprano Sax
+midi channel 7 patch 65 Alto Sax
+midi channel 8 patch 0  Piano
+midi channel 10 patch 56 Trp
+midi channel 11 patch 57 Trmb
+midi channel 12 patch 32 Acoustic Bass
+/
+2 bars |8|8|
+| 4/4 4.2
+i0.5          Quiet but powerful   mm = 63
+=1 treble   leg100 channel2 qua [C B_] [C D] [<C Eb> <B_ D>] [<C Eb> <D F#>]
+i0.1              clarinets, strings
+=2 treble  
+=3 bass     channel3 min. <eb g> cro <f# a>
+i0.9              horns, bassoons
+=4, bass channel2 min C C
+=4' cro c c c c
+=4 smb C_r
+|
+=1' qua [<C Eb G> <B_ D F#>] [<C Eb G> <D F# A>] \
+ [<Eb G B> <D F# A>] [<Eb G B> <F# A c>]
+i0.1       t9 t10 z44 z36 v37 v43
+=3 min. <eb g> cro <d f#>
+=4' cro c c c c
+=4, min C C
+=4 smb C_r
+/
+2 bars |8|8|
+|
+=1, qua <[G B d> <F# A c>] <G B d>[ <A c eb>] \
+ [<B d f#> <c eb g>] [<d f# a> <eb g b(1>]
+=2 channel6 qua rest A(2 min A)2 cro G
+i0.8 .06 soprano sax
+=3 min. <eb g> cro <f# a>
+=4' cro c c c c
+=4, min C C
+=4 smb C_r
+|
+=1 smb b)1
+=1  qua [E D#] [E F#] [<E G> <D# F>#] [<E G> <F# A#>]
+=2 min B' E
+=3  min. <g b> cro <f# a#>
+=4, min E E
+=4' cro e e e e
+=4  smb E_r
+/
+3 bars |8|8|8|
+|
+il0.8           5
+=1' qua [<E G B> <D# F# A#>] [<E G B> <F# A# c#>] \
+ [<G B d#> <A# c# e>] [<B d# f#> <c# e g>]
+=2' cro rest' min c# cro B
+=2  smb G
+=3  min. <g b> cro <a# c~#>
+=4' cro e e e e
+=4, min E E
+=4, min. E_r cro F_#
+|
+=1  smb g#
+=1' dsq blank qua [G# Gn] [G# A#] [<G# B> <Gn Bb>] [<G#l Bn> <A# d>]
+=2  cro d# Gn qua rest F [G Ab]
+=3  min. <b d~#> cro <d~n f~>
+=4' cro g# g# g# g#
+=4, min G# G#
+=4, min. G_#r cro A_#
+|
+=1' qua [<G# B d#> <A# dn f>] min. g#
+=1, cro blank qua [<B d> <A# c#>] [<B d> <c# f>] [<B d f#> <c# f ab>]
+=2' qua [B D(2] min D)2 cro C#(2
+=3  cro <d~ f~#> <c~#l f~n> <d~ f~#> <f~nl a~b>
+=4' cro b b b b
+=4, min B B
+=4, min. B_r cro C#(2
+
+3 systems 10 /20 25 20 30 20 25 20/20 25 20 30 20 25 20/20 25 20 30 20 25 20 10/
+pagenum 2
+innerhead Overture, November at the Carousel, Peter Billam
+leftfoot (c) 2000 Peter J Billam
+/
+2 bars |8|8|
+| 4/4 5.2
+i0.9    qua = 88
+=1' channel8 leg100 cro. g# qua f# cro. g# qua f#
+=1, channel8 cro G# A# min B
+i0.3       Cool, sustained
+=2' channel8 leg100 cro. E qua F# cro. G# qua F#
+=2, min C#)2 cro D E
+=4, min. C#)2 leg100 cro rest,
+=4  channel8 cro a a# b c~
+=4  channel2 cro a a# b c~
+|
+=1, qua [<G# g#> <c# c~#>] [<B b> <A#(2 a#>(1] \
+ [<A#)2 a#)1> <d# d~#>] [<c# c~#> <cn c~n>]
+=2 cro E F F# G
+=4 channel8 cro c~# d~ d~# e~
+=4 channel2 cro c~# d~ d~# e~
+/
+3 bars |8|8|6|
+|
+il0.9 .18 10
+=1' treble cro. c~ qua bb cro. c~ qua bb
+=1, cro c d cro. c qua Bb
+=2' treble cro. Ab qua Bb cro F# G#
+=3  bass
+=4  bass channel8 cro f~ d~ d~# e~
+=4  bass channel2 cro f~ d~ d~# e~
+|
+=1, qua [<c c~> <G g>] [<G# g#> <A(2 a(1>] [<A)2 a)1> <E e>] cro <F f>
+=2' cro F E D D
+=4  cro d~ c~# b a
+| 4/4 4.6
+=1 channel10 smb <B b-I{sf}>
+=2 channel4 min rest <F Ab>
+i0.9                    stopped horns
+=4 channel11 transpose0 smb <B b-I{sf}>
+i0.1  pno, brass, clrs
+/
+5 bars |4|4|4|4|4|
+|
+=1 treble smb <d# d~#-I{sf}>
+i0.2               cello, sax
+=2 treble channel7 cro rest min G cro c'
+=3 bass
+=4 bass   smb <D# d#-I{sf}>
+|
+=1 smb <A a-I{sf}>
+i0.7          stopped horns
+=2 channel4 min rest <D# F#-I{sf}>
+=4 smb <A_ A-I{sf}>
+|
+=1 smb <c# c~#-I{sf}>
+i0.2          saxes
+=2 channel7 cro rest min <F# A> cro <E G#>
+=4 smb <c# C#-I{sf}>(2
+|
+=1 smb <G g-I{sf}>
+i0.2          stopped horns
+=2 channel4 min rest <C# E>
+=4 smb <G_ G-I{sf}>
+|
+=1 smb <B b-I{sf}>
+i0.2          saxes
+=2 channel7 cro rest min <E G> cro <D F#>
+=4 smb <B B_-I{sf}>(2

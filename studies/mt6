@@ -1,0 +1,21 @@
+$CHORD == G, : c#, : d, : e' : g' : bb'
+$N = morse_thue? $CHORD ?
+| 1.3
+=1 bass
+=1  16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+$CHORD == G, : c, : d, : e' : g' : a'
+$N = morse_thue? $CHORD ?
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N

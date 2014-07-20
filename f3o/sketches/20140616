@@ -1,0 +1,70 @@
+4 systems 15 /19-25-19-25-19/
+
+title 20140616   see ~/muz/201406/14_1905a_ro.mid
+midi channel 0 patch 73 pan 20
+midi channel 1 patch 73 pan 50
+midi channel 2 patch 73 pan 80
+
+
+/
+2 bars | 48 | 48 |
+| 1.8
+=1 treble cha0 leg100 vol90 1 blank
+=2 treble cha1 leg100 vol90 1 blank
+=3 treble cha2 leg100 vol90 1 blank
+=1 2 blank 1 rest
+=2' 16 [G{2 A}2 c{2 B}2] [G{2 A}2 c{2 B}2] [Gb{2 Ab}2 c{2 B}2] [F{2 Gn}2 c{2 B}2]
+i0.5 .03 perhaps could do Beethoven's Op.59 trick of brillian solo becomes background figuration ?
+=3 4 rest 4. E 4 Eb 8 D
+|
+=1 2 blank 1 rest
+=2' 16 [E{2 F#}2 c{2 B}2] [Eb{2 Fn}2 c{2 B}2] [D{2 En}2 c{2 B}2] [Eb{2 F}2 c{2 B}2]
+=3 4. A 8 Ab 2 G
+|
+=1 4 rest 4. d 4 d# 8 e
+=2' 16 [E{2 F#}2 c{2 B}2] [Fn{2 G}2 c{2 B}2] [F#{2 G#}2 c{2 B}2] [Gn{2 A}2 c{2 B}2]
+=3 2 blank 1 rest
+|
+=1 2. f 4 rest
+=2, 16 [G{1 A}1 db{1 c}1] [G{1 A}1 dn{1 c#}1] [G{1 A}1 eb{1 d}1] [G{1 A}1 en{1 d#}1]
+=3 2 blank 1 rest
+|
+=1 4 rest 4. f 4 f# 8 g
+=2, 16 [Ab{1 Bb}1 d{1 c}1] [Ab{1 Bb}1 d#{1 c#}1] \
+ [Ab{1 Bb}1 e{1 dn}1] [Ab{1 Bb}1 f{1 eb}1]
+=3 2 blank 1 rest
+|
+=1 2. d 4 db
+=2, 16 [An{1 Bb}1 f#{1 e}1] [A{1 Bb}1 g{1 fn}1] \
+ [A{1 Bb}1 f#{1 e}1] [A{1 Bn}1 fn{1 eb}1]
+=3 2 blank 1 rest
+|
+=1 2. c 4 rest
+=2, 16 [Bb f#{1 e}1 Bb] [fn{1 eb}1 Bb en{1] \
+ [d}1 Bb eb{1 db}1] [Bb dn Bn{1 A}1]
+=3 2 blank 1 rest
+|
+midi off
+=1 2 blank 1 rest
+=2  16 [d Bb{1 Ab,}1 d] [An,{1 G,}1 d Ab,{1] \
+ [F#}1 db' G{2 F#}2] [db' G#{2 F#}2 c']
+=3 2 blank 1 rest
+
+4 systems 5 /19-25-19-25-19/
+
+|
+=1 2 blank 1 rest
+=2' 16 [G{2 A}2 c{2 B}2] [G{2 A}2 c{2 B}2] [Gb{2 Ab}2 c{2 B}2] [F{2 Gn}2 c{2 B}2]
+=3 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2' 16 [E{2 F#}2 c{2 B}2] [Eb{2 Fn}2 c{2 B}2] [D{2 En}2 c{2 B}2] [Eb{2 F}2 c{2 B}2]
+=3 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2' 16 [E{2 F#}2 c{2 B}2] [Fn{2 G}2 c{2 B}2] [F#{2 G#}2 c{2 B}2] [Gn{2 A}2 c{2 B}2]
+=3 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2, 16 [G{1 A}1 db{1 c}1] [G{1 A}1 dn{1 c#}1] [G{1 A}1 eb{1 d}1] [G{1 A}1 en{1 d#}1]
+=3 2 blank 1 rest

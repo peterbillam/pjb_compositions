@@ -1,0 +1,439 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.06.19.11.47.37;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@To Erich Jantsch, typed in in a great hurry
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
+          / 19-22-19-22-19-22-19-22-19-22-19 /
+title To Erich Jantsch
+pagenum
+innerhead Peter Billam
+leftfoot (c) 1988 Peter J Billam
+midi channel 1 patch 74 pan 26
+midi channel 2 patch 74 pan 10
+midi channel 3 patch 74 pan 58
+midi channel 4 patch 74 pan 42
+midi channel 5 patch 74 pan 90
+midi channel 6 patch 74 pan 74
+/
+4 bars | 12/8 48 | 48 | 48 | 48 |
+| 2.0
+=1 treble8va 12/8 cha1 1. rest
+=2 treble    12/8 cha2 1 rest 4 rest c
+=3 treble    12/8 cha3 1 rest 2 Bb'
+=4 treble    12/8 cha4 2. rest Ab
+=5 treble    12/8 cha5 1. E
+=6 bass8va   12/8 cha6 1. rest
+|
+=1 8 [g f] [g f] [g{1 f}1 eb] [g f eb] g rest
+=2 8 d 4. rest 1 rest
+=3 8 A 4. rest 1 rest
+=4 8 A 4. rest 1 rest
+=5 8 D 4. rest 1 rest
+=6 4. G 8 A 4. G 8 A 4 G rest
+|
+=1 8 [g f] [g{1 f}1 eb] [g f] [g f eb] g rest
+=2 1. rest
+=3 1. rest
+=4 1. rest
+=5 1. rest
+=6 4. A 8 B 4. A 8 B 4 c# rest
+|
+=1 8 [g f] [g f] [g{1 f}1 d] [g f d] g rest
+=2 1. rest
+=3 1. rest
+=4 1. rest
+=5 1. rest
+=6' 4. d 8 B 4 d 8 [A B] 4 F A
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+il0.7 .08 5
+=1 8 [f d] [g{1 f}1 d c] [f d] g 4 f 8 d
+=2 1. rest
+=3 1. rest
+=4 1. rest
+=5 1. rest
+=6' 4. d 8 c 4 d 8 [A c] 4 F rest
+|
+=1 8 g 4 f d 8 ab 4 f d 8 [g a]
+=2 1. rest
+=3 1. rest
+=4 1. rest
+=5 1. rest
+=6' 4. Bb 8 c 4. Bb 8 c 4 Bb rest
+|
+=1 4 bb 8 [e f#] 4 bb d bb 8 [e f#]
+=2 8 [d~ c~] [d~ c~] [d~{1 c~}1 a] [d~ c~ a] d~ rest'
+=3 1. rest
+=4 1. rest
+=5 4. rest F# c Bb
+=6 4. c 8 d' 4. c 8 d 4 e rest
+|
+=1 4 g# B g# 8 [B c#] [g c#] 4 e
+=2 8 [c~# b] 4 f# 8 [g# b] 4 c~ 4. rest 8 f
+=3 1. rest
+=4 1. rest
+=5' 4. F# Bn G# rest
+=6 4. f# 8 e 4 f# 8 [e f#] 4 B c#
+
+2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
+          / 19-22-19-22-19-22-19-22-19-22-19 /
+pagenum
+innerhead To Erich Jantsch, 1988, Peter Billam
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 8 [e d] [e d] 4 B F# rest rest
+=2 8 [e f# g#] 4. b 8 [f# g# b] 4. d~
+=3 1. rest
+=4 1. rest
+=5' 4. rest F# B G#
+=6 4. d' 8 B 4. d' 8 e 4 f# rest
+|
+il0.7 .08 10
+=1 8 [e d] [e d] 4 B G rest rest
+=2 8 [e f# a] 4. b 8 [gn a b] 4. d~
+=3 1. rest
+=4 1. rest
+=5 4. A B' 4 e d E
+=6 4. d' 8 B 4. d' 8 e 4 g 8 [e g]
+|
+bl0.4 .78 ,
+=1 8 [g f] [g f] [a g] 4 f d 8 [g f]
+=2 8 [fn g a] 4. b 8 [f g a] 4. d~
+=3 1. rest
+=4 1. rest
+=5 4. rest d F A
+=6 4 B d f 8 [d f] 4 A B
+|
+=1 8 [g f] [g{1 f}1 e] [g f eb] g rest [g f]
+=2 8 [b a] [b a] 4 g 8 [b a] 4 g c#
+=3 8 [c# d#] [c# d#] 4. c# 8 d# [c# d#] 4 c#
+=4 8 [f g] [f g] 4. f 8 g [f g] 4 f
+=5 4. G B' A rest
+=6 4 c# a 1 d#
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 8 [d# c#] [d# c# B] [d# c# B] 4 A rest
+=2 8 [b a] [b a] 4 f# 8 [b a] 4 f# d#
+=3 8 [c# d#] [c# d#] 4. c# 8 d# [c# B] 4 rest
+=4 8 [a f#] [a f#] 4. a 8 f# [a f#] 4 rest
+=5 4. rest f# c# B
+=6 1 d# 8 [B c#] [B c#]
+|
+=1 8 [a f#] [a f# e] [a f# e] 4 c# rest
+=2 2 c# 4 d 2 c# 4 rest
+=3 8 [c# e] [c# e] 4 a 2. rest
+=4 2 rest 4. B 8 c# [e g] 4 rest
+=5 4. A B 4 e c# G
+=6 1 A 2 rest
+|
+il0.9 .12 15
+=1 8 [b a] [b a g] [b a g] 4 e rest
+=2 2 d 4 e 2 d 4 rest
+=3 8 [g e] [g e] [B' A] 4 B 2 rest
+=4 2 rest 4. A 8 B' 4 d rest
+=5 4 E D 1 B
+=6 1 G 8 rest [A G A]
+|
+=1 4 f 8 [d B] [G A] [G A] [c d] 4 c
+=2 2 d 4 f 2 g 4 f
+=3 8 [f d] [f d] [G A] 4 G 2 rest
+=4 2 rest 4 rest 4. G 8 A [c d]
+=5 2 rest 4 rest c A G
+=6 1 F 2 rest
+
+2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
+          / 19-22-19-22-19-22-19-22-19-22-19 /
+pagenum
+innerhead To Erich Jantsch, 1988, Peter Billam
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1' 4 B 8 [A G] 4 F 8 [G A] 4 B 8 [A G]
+=2 2 eb 4 f 2 e 4 rest
+=3 8 [G A] [G A] 4. G 8 A 8 [G A] 4 G
+=4 8 [eb f] [eb f] 4. eb 8 f 8 [eb f] 4 eb
+=5' 4 F 2. B 4 rest B
+=6 2. a 4 g f eb
+|
+=1' 4 F 8 G 4 Bb 8 G 4 F 8 G 4 Bb 8 G
+=2 2 eb 4 G 2 Bb 4 c
+=3' 8 [G Bb] [G Bb] 4. G 8 Bb [G Bb] 4 rest
+=4 8 [eb f] [eb f] 4. eb 8 f [eb c] 4 rest
+=5' 4 Bb F 1 G
+=6 2. c 4 eb f g
+|
+=1 4. F G F rest
+=2 2 Bb' 4 G Bb' rest 8 [Bb c]
+=3 2 rest 4 rest 8 [G Bb'] c 4 eb 8 Bb
+=4 8 [eb c G, Bb] 2 F rest
+=5 2. G 4 rest G Bb
+=6 2. bb 4 g f eb
+|
+il0.7 .06 20
+=1 4 F 8 [G A] 4 c 8 [A G] 4 F 8 [G A]
+=2 4. eb 8 d 4. c 8 d 4. eb 8 d
+=3 4 A rest rest 8 [F A] c 4 eb 8 A
+=4 8 [eb c A, c] 2 F rest
+=5 4. c 8 d 4. eb 8 d 4. c 8 d
+=6 2. c 4 eb f g
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 4 c 8 A 4 G 8 A 4 c 8 A 4 c 8 A
+=2 4. c 8 d 4. f 8 d 4. c 8 d
+=3 4 G rest rest 8 [F A] [c d] 4 A
+=4 8 [d c A, c] 2 G rest
+=5 4. f 8 d 4. c 8 d 4. f 8 d
+=6 2. a 4 g f d
+|
+=1 4. c A c rest
+=2 4. f g f rest
+=3 4 c rest rest 8 [F A] 4 c d
+=4 8 [c' A G A] 2 F 4 rest 8 [G A]
+=5 4. c 8 d 4. f 8 d 4. c 8 A
+=6 4 c d f g f d
+|
+=1 4 c 8 [A G] 4 E 8 [G A] 4 c 8 [A G]
+=2 4 g 8 e 4 d 8 e 4 g a 8 [g e]
+=3 2 e 4 d 2 c 4 d
+=4 2 c 4 d 2 e 4 d
+=5 4 c d c A G A
+=6 2 c 4 rest 4 d e g
+|
+=1 4 E 8 F# 4 A 8 F# 4 E 8 F# 4 A 8 F#
+=2 8 [f# e d e] [f# e d e] [f# e d e]
+=3 2 e 4 d 2 c 4 d
+=4 2 c 4 d 2 e 4 d
+=5 4 c A F# A c A
+=6 2 f# 4 e d 2 c
+
+2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
+          / 19-22-19-22-19-22-19-22-19-22-19 /
+pagenum
+innerhead To Erich Jantsch, 1988, Peter Billam
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+il0.7 .06 25
+=1 4 E 8 [F# G#] 4 Bb 8 [G# F#] 4 E 8 [F# G#]
+=2 2 f# 4 e 2 f# 4 e
+=3 8 [e d c B] c rest [c d] [c B c d]
+=4 4 c rest 8 Ab rest rest Bb Ab rest rest Bb
+=5 Ab c d c Ab c
+=6 4 d e 2. f# 4 e
+|
+=1' 4 Bn 8 [G# F#] 4 E 8 [F# G#] 4 B 8 [G# F#]
+=2 2 f# 4 e 2 G# 4 rest
+=3 8 [e f# e d] [B d B] rest [e d] 4 rest
+=4 8 [Bn d B G#,] F# rest rest G# [B' G# F# G#]
+=5 4 d Bn G# F# E rest
+=6 2. d 4 e 2 f#(1
+|
+=1 4. E 8 F# 4. A 8 F# 4. E 8 F#
+=2' 8 A 4 B 8 A 2 rest 8 A 4 B 8 A
+=3 8 [B d e f#] [a f# e d] [B d B] rest
+=4 8 [F# rest B' d'] [e d] 4 rest rest 8 [F# A]
+=5 4 rest F# A F# rest A
+=6 4 f)1 e 2. d 4 e
+|
+=1 4. A 8 F# 4. E 8 F# 4. A 8 F#
+=2 8 F# 4 A 8 F 2 rest 8 F# 4 A 8 B'
+=3 8 e 4. rest 2 rest 8 rest [d B d]
+=4' 8 [B A F# A] [F# rest B d] [B A F# A]
+=5 4 rest F# A F# rest A
+=6 2. f# 4 e 2 d
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 4 E 8 G 4 A 8 G 4 E 8 G 4 A 8 G
+=2 4 d rest 1 rest
+=3 8 [B rest e d] [B d] 4 rest 8 [e g b g]
+=4 8 [G B' d' B'] [G rest G B'] [d e g e]
+=5 4 G e B d A E
+=6 1. e
+|
+il0.7 .30 30
+=1' 8 [B D B] rest [B D B G] [f G B D]
+=2 8 G 4 A 8 G 2 rest 8 G 4 A 8 G
+=3 8 f 4. rest 8 rest [d f d] [B d B] rest
+=4 8 d 4. rest 2 rest 8 rest [B' G B']
+=5 4 rest F A F rest A
+=6 4 f 1 rest 4 G
+|
+=1 8 c 4. rest 1 rest
+=2 8 F 4 G 8 F 2 rest 8 F 4 G 8 A
+=3 8 [f g f d] [c d c d] f rest rest d
+=4 8 [A c' A F] [A rest A c'] [d c A, c]
+=5 4 rest F A F rest A
+=6 4 G 8 [F G] [A c A G] 2 F
+|
+=1' 8 [Bb D Bb] rest [Bb D Bb G] [f G Bb D]
+=2 8 G 4 Bb' 8 G 2 rest 8 G 4 Bb' 8 d
+=3 8 [c d f g] [bb c~ rest' g] [f d c d]
+=4 8 [Bb rest d f] [g a g eb] d rest rest F
+=5' 4 rest G Bb G rest Bb
+=6 1. rest
+
+2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
+          / 19-22-19-22-19-22-19-22-19-22-19 /
+pagenum
+innerhead To Erich Jantsch, 1988, Peter Billam
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 vol80 8 [Ab D Ab] rest rest [Ab D Ab] [D F] [f d]
+=2 vol125 leg100 1 c(1 4.. c)1{1 16 d}1{1
+i0.9 .03 cantabile . . .
+=3 vol80 8 c rest rest d [c d c] rest 4. rest 8 d
+=4' vol80 8 [D F Ab F] [D rest, D F] [A Bb A F]
+=5 vol80 4 [Ab f c d Bb F
+=6' vol85 4 Bb 8 [F B] [c d] c Bb] 4 F rest
+|
+=1 8 [G Eb G] rest rest [G D G] [C F] [f d]
+=2 1 c}1(1 4 c)1{1 16 [d 8 c 16 Bb]
+=3 8 [c eb c d] [f d c d] c rest f rest
+=4' 8 G 4. rest 8 rest [Bb G F] [G F G Bb]
+=5 4 rest G F G rest F
+=6' 4 Bb 8 [F B] [c d] [c B] 4 G rest
+|
+il0.7 .30 35
+=1 8 [F C F] 4. rest 8 [D G C] [F A c']
+=2 1 c}1(1 4. c)1{2 16 [A G}2]
+=3 2 rest 8 rest [e A,] rest 2 rest
+=4' 8 [c Bb G F] G rest rest A [G F G] rest
+=5 4 G F G A c G
+=6 4 c 8 [Bb c] [d f] [d' c] 4 A rest
+|
+=1 8 [G Eb G] 4. rest 8 rest [G D] [En G c']
+=2 1 rest 4 G A
+=3 2 rest 8 rest [e A,] rest 2 rest
+=4' 8 [G Bb c A] G rest rest E [G A G] rest
+=5 4 F G A c E G
+=6 4 c 8 [Bb c] [d g] [e d] 4 c rest
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 8 [Bb' G Bb'] 4. rest 4 rest 8 F# [A, c d]
+=2 4. c{1 8 Bb 1 A}1
+=3 2 rest 8 rest [d A,] rest 2 rest
+=4 2 rest 4. rest 8 F# A 4. rest
+=5 4 Bb c E F# A D
+=6 4 c 8 [Bb c] [d e] [f# a] [f# e] [d d]
+|
+=1 8 [G Bb' G] 4. rest rest 8 [A, Bn e]
+=2 4. c{1 8 d 1 e}1
+=3 2 rest 8 rest [c# A,] rest 2 rest
+=4 2 rest 4. rest 8 G A 4. rest
+=5 4 rest G A G rest A
+=6 4 c rest 2 rest 8 rest [e e e]
+|
+=1' 8 [c Bb  G] 4. rest rest 8 rest [Bn G#]
+=2 4 f{1 1 e}1 4 rest
+=3 2 rest 8 rest [d B] rest 2 rest
+=4 2 rest 4. rest 8 G# B' 4. rest
+=5 4 rest G F E rest F#
+=6 8 eb 4. rest 2 rest 8 rest [ab ab ab]
+|
+il0.7 .30 40
+=1 8 [Gn Bb' G] 4. rest rest 4 rest 8 F#
+=2 4 f{1 1 eb}1 8 [d en]
+=3 2 rest 8 rest [d# B] rest 2 rest
+=4 2 rest 4. rest 8 A B' 4. rest
+=5 4 rest d# c# d# rest B
+=6 8 bb 4. rest 2 rest 8 rest [bn b b]
+
+2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
+          / 19-22-19-22-19-22-19-22-19-22-19 /
+pagenum
+innerhead To Erich Jantsch, 1988, Peter Billam
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 8 [Fn A F] 4. rest rest 4 rest 8 D
+=2 8 [f g a] 4. c~(1 8 [c~)1 a c~] [d~ c~ a]
+=3 vol120 leg100 8 [a g f] d c d] 4. f 8 [e d c]
+i0.9 .03 cantabile . . .
+=4 2 rest 4. rest 8 A 8 c 4. rest
+=5 4 rest f d f rest c
+=6 8 c~ 4 rest 4. rest rest 8 [d d d]
+|
+=1 8 [C F C] 4. rest rest 4 rest 8 E
+=2 2. f rest
+=3 8 [G A c'] 4. d(1 8 [d)1 c d] [e d c]
+=4 2 rest 4. rest 8 A 8 c 4. rest
+=5 4 rest a f a rest d
+=6 8 f 4 rest 4. rest rest 8 [e e e]
+|
+=1 8 [D G D] 4. rest rest 4 rest 8 D
+=2 8 [f g a] 4. bn(1 8 [b)1 a b] [d~ c~ bb]
+=3 4. B 8 [d f g] 4. d 8 [Bb c d]
+=4 2 rest 4. rest 8 B 8 d 4. rest
+=5 4 rest b g b rest e
+=6 8 g 4 rest 4. rest rest 8 [e e e]
+|
+=1 8 [C F C] 4. rest rest 4 rest 8 G
+=2 2. a rest
+=3 4. c 8 [d f g] 4. a 8 [e g bb]
+=4 2 rest 4. rest 8 d 8 c 4. rest
+=5 4 rest c~ a c~ rest g
+=6 8 f 4 rest 4. rest rest 8 [g g g]
+/
+4 bars | 60 | 60 | 60 | 60 ||
+|
+il0.7 .30 45
+=1' 8 [F B F] 4. rest rest 4 rest 8 E
+=2 8 [g a b] 4. c~# 8 [d~ c~n f] [bb g d]
+=3 8 [bn a g] [f G, f] 4 d 8 c 4. Bb
+=4' vol120 leg100 4 B{2 2 A}2 4 rest G E
+i0.9 .03 cantabile . . .
+=5 4 rest a f g rest G
+=6 8 a 4 rest 4. rest rest 8 [bb bb bb]
+|
+=1' 8 [D c D] 4. rest rest 4 rest 8 G
+=2 4 a 8 c [d f g] 4 a 8 f [g e d]
+=3' 163-s [A Bn A-I5 G A] 2. blank
+=3 4. blank 4 d 8 c [f c d] 4 e 8 rest
+=4 4 F 2 d 4 rest c Bb
+=5 4 rest A F G rest G
+=6 8 a 4 rest 4. rest rest 8 [e e e]
+|
+=1' 8 [F eb F] 4. rest rest 4 rest 8 E
+=2 4 db 8 eb [f g a] 4 c~ 8 c 4. blank
+=2 2. blank 165-s [dn e d-I5 c d]
+=3 8 [a g f] 4 d 8 f [d c d] [bb a g]
+=4 4 A 2 f 4 rest d c
+=5 vol120 leg100 2 G 4 A 2. d
+i0.9 .03 cantabile . . .
+=6 8 d# 4 rest 4. rest rest 8 [e' d' c]
+|
+=1 8 [D f#' D] 4. rest rest 8 [fn d B]
+=2 163-s [e f# e-I5 d e] 2. blank
+=2 4. blank 4 f# 8 g# 4. a# 8 [b gn fn]
+=3 8 [e d c] [Bb f# e] [d c g#] [fn Bn d]
+=4 4 Bb 2. ab 4 rest d
+=5 4 c Bb Ab 2 f# 4 fn
+=6 8 [Bb, c, d, e] [f# c, d e] 4 d Bn
+@

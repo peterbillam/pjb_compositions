@@ -1,0 +1,16 @@
+19940801 160516 study 1.2 +1 -1 bar 7 spacing
+19941119 100212 study 1.3 +43 -25 some changes, pagenumbers, (c)
+19941119 102118 study 1.4 +6 -6 Aha ! \ at end of text gives postscript error !
+19941119 104145 study 1.5 +16 -15 minor
+19980119 100414 score pjb piano study music on way to muscript 1.5
+19980126 183912 title pjb copyright adapted to postsrcirt form
+19980128 155709 score pjb down to 21-point staves
+19980519 195556 title pjb include pupils in copyright terms
+19980921 161400 score pjb stems correct, but spacing still needs work
+19980922 090935 score pjb lots of spacing adjustments
+20010207 151120 Makefile pjb Makefile for Piano Study
+20010207 151342 study pjb re-renamed from score, mods for muscript1.8
+20010207 151510 study pjb re-renamed from score, mods for muscript1.8
+20010207 151553 title_free pjb Title for free version
+20010207 151645 title pjb moved text up, used *(DY for date
+20080915 182108 study pjb modernised muscript syntax

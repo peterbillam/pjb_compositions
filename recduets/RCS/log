@@ -1,0 +1,15 @@
+19960604 202058 title pjb Title page for Two Recorder Duets
+19960605 232630 headers+footers pjb page numbers, co notices, titles
+19960610 183028 headers+footers pjb allegro & andante
+19980305 140747 title pjb standardised format with the other www pieces
+19980306 124532 score pjb Two Recorder Duets
+19980307 114245 score pjb tiny spacing adjustments
+19980307 114334 make_samples pjb munges first two systs of each duet onto 1 page
+19980307 115427 score pjb added lively adn sweet
+19980310 083000 title pjb added or other melody instruments
+19980310 140012 score pjb tiny spacing adjust
+19980916 134622 make_samples pjb rightfoot positioned correctly on us paper
+19991214 094034 make_samples pjb system 3 staves, not system 3 barlines
+20010209 133915 Makefile pjb Makefile for recduets, using a42us etc
+20010209 134002 recduets pjb old 'score'; also uses -tr not ~
+20120706 213619 recduets pjb neatened horizontal spacing somewhat

@@ -1,0 +1,688 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2013.11.25.10.29.49;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.11.25.05.16.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@morse-thue; will split into lesson,toccata
+@
+
+
+1.2
+log
+@toccata to 64 bars and plausible ?
+@
+text
+@6 systems 25/19-20-19/19-35-19/19-35-19/19-40-19/ 19-40-19/ 19-30-19/
+title 12:  The Morse-Thue Sequence
+pagenum
+# AJ34, thence mt_piece
+midi channel 0 patch 0
+/
+2 bars | 7/4 28 | 28 |
+# Eyes Wide Shut
+# also Debussy Preludes Book II number 10, Canope, bar 11
+# A Bb Bb A Bb A-fermata A Bb Bb A A Bb-fermata
+| 6.0
+=1 treble 7/4 cha0 vol100 leg100 \
+ 4 a~ leg85 b~b leg100 b~b leg85 a~ leg100 b~b leg85 2 a~
+=2 bass   7/4 cha0 vol100 leg100 \
+ 4 A_ leg85 B_b leg100 B_b leg85 A_ leg100 B_b leg85 2 A_
+midi off
+|
+=1 leg100 4 a~ leg85 b~b leg100 b~b leg85 a~ leg100 a~ 2 b~b
+=2 leg100 4 A_ leg85 B_b leg100 B_b leg85 A_ leg100 A_ 2 B_b
+#midi on
+/
+2 bars | 4/4 64 | 64 |
+| 2.5
+=1' 4/4 vol70 8 rest' 16 [d B] 8 [d B] 8 [d 16 B d] 8 [B 16 d B]
+=1, 4/4 vol80 4 F 8 [A F] 4 A F
+=2' 4/4 vol90 2 d~ 4 b d~
+=2, 4/4 vol99 2 a f
+|
+=1' vol70 8 [d 16 B d] 8 [B d] 8 [B 16 d B] 8 [d B]
+=1, vol80 4 A 8 [F A] 4 F 8 [A F]
+=2' vol90 2 b d~
+=2, vol99 2 f a
+/
+2 bars | 64 | 64 |
+|
+=1' vol70 8 [d 16 B d] 8 [B d] 8 [B 16 d B] 8 [d 16 B d]
+=1, vol80 4 A 8 [F A] 4 F A
+=2' vol90 2 b 4 d~ b
+=2, vol99 2 f a
+|
+=1' vol70 8 [B 16 d B] 8 [d B] 8 [d 16 B d] 8 [B 16 d B]
+=1, vol80 4 F 8 [A F] 4 A F
+=2' vol90 2 d~ 4 b d~
+=2, vol99 2 a f
+/
+2 bars | 64 | 64 |
+|
+=1' 16 [B d d B] [d B B d] [d B B d] [B d d B]
+=1, 8 [F A A F] [A F F A]
+=2' 4 d~ b b d~
+=2, 2 a f
+|
+=1' 16 [d B B d] [B d d B] [B d d B] [d B B d]
+=1, 8 [A F F A] [F A A F]
+=2' 4 b d~ d~ b
+=2, 2 f a
+/
+2 bars | 64 | 64 |
+|
+=1' 16 [d B B d] [B d d B] [B d d B] [d B B d]
+=1, 8 [A F F A] [F A A F]
+=2' 4 b d~ d~ b
+=2, 2 f a
+|
+=1' 16 [B d d B] [d B B d] [d B B d] [B d d B]
+=1, 8 [F A A F] [A F F A]
+=2' 4 d~ b b d~
+=2, 2 a f
+/
+2 bars | 4/4 64 | 64 |
+| 2.5
+=1' 4/4 vol80 2 G 4 F# G
+=1, 4/4 vol70 4 C 8 [Db C] 4 Dbl C
+=2' 4/4 vol80 2 g 4 f# g
+=2' 4/4 vol60 8 [A_ 16 B_b A_] 8 [B_b A_] 8 [B_b 16 A_ B_b] 8 [A_ 16 B_b A_]
+|
+=1' vol80 2 F#r G
+=1, vol70 4 Dblr 8 [C Db] 4 C 8 [Db C]
+=2' vol80 2 f#r g
+=2' vol60 8 [B_b 16 A_ B_b] 8 [A_ B_b] 8 [A_ 16 B_b A_] 8 [B_b A_]
+
+
+/
+2 bars | 64 | 64 |
+|
+=1' vol80 2 F#r 4 G F#
+=1, vol70 4 Dblr 8 [C Db] 4 C Db
+=2' vol80 2 f# 4 g f#
+=2' vol60 8 [B_b 16 A_ B_b] 8 [A_ B_b] 8 [A_ 16 B_b A_] 8 [B_b 16 A_ B_b]
+|
+=1' vol80 2 G 4 F# G
+=1, vol70 4 C 8 [Db C] 4 Dbl 8 [C Db]
+=2' vol80 2 g 4 f# g
+=2' vol60 8 [A_ 16 B_b A_] 8 [B_b A_] 8 [B_b 16 A_ B_b] 8 [A_ 16 B_b A_]
+
+midi on
+
+/
+3 bars | 14/16 2 | 14 | 14 |
+| 1/8 .22
+=1, bass 14/16 cha0 vol120 leg99 16 [f~# f#]
+I0.3 .02 ff
+=2  bass8vab   14/16 cha0 vol120 leg85 8 rest
+| 14/16 1.54
+=1' 8 rest 16 [Bb A] 8 rest 16 c 8 rest 16 Bn 8 rest 16 [e c]
+=2' 16 [F# f#] 8 rest 16 [F# f#] rest 16 [F# f#] rest 16 [f# F#] 8 rest
+|
+=1 8 rest 16 B 8 rest 16 [c# d'] 8 rest 16 [d e] 8 rest 16 fn
+=2' 16 [G# f#] rest 16 [G# f#] 8 rest 16 [G# f#] 8 rest 16 [g# G#] rest
+
+/
+2 bars | 14 | 14 |
+|
+=1 8 rest 16 d# 8 rest 16 [f f#] 8 rest 16 [f# g#] 8 rest 16 a
+=2, 16 [A a] rest 16 [A a] 8 rest 16 [A a] 8 rest 16 [a A] rest
+|
+=1 8 rest 16 [eb d] 8 rest 16 f 8 rest 16 en 8 rest, 16 [eb' A]
+=2, 16 [B a] 8 rest 16 [B a] rest 16 [B a] rest 16 [b B] 8 rest
+
+/
+2 bars | 14 | 14 |
+|
+il0.6 .05 5
+=1' 8 rest 16 Bb 8 rest 16 [A c] 8 rest 16 [e Bn] 8 rest 16 c
+=2' 16 [F# f#] rest 16 [F# f#] 8 rest 16 [F# f#] 8 rest 16 [f# F#] rest
+|
+=1 8 rest 16 [B c#] 8 rest 16 d 8 rest 16 e 8 rest 16 [d f]
+=2' 16 [G# f#] 8 rest 16 [G# f#] rest 16 [G# f#] rest 16 [g# G#] 8 rest
+/
+2 bars | 14 | 14 |
+|
+=1 8 rest 16 [eb f] 8 rest 16 f# 8 rest 16 g# 8 rest, 16 [f# a]
+=2, 16 [A a] 8 rest 16 [A a] rest 16 [A a] rest 16 [a B] 8 rest
+|
+=1 8 rest 16 eb 8 rest 16 [d f] 8 rest 16 [en d#] 8 rest 16 g#
+=2, 16 [B b] rest 16 [B b] 8 rest 16 [c c~] 8 rest 16 [c~ c] rest
+
+/
+2 bars | 14 | 14 |
+|
+=1 16 rest [d~ d] 8 rest 16 [d~ d] 8 rest 16 [d~ d] rest 16 [d d~]
+=2 8. d 16 [e 8. f] 16 [A 8. G#] A#
+|
+il0.6 .01 10
+=1 8 rest 16 [d~ e] 16 rest 16 [d~ e] 16 rest 16 [d~ e] 8 rest 16 [d d~]
+=2 16 [B 8. c] 8. A 8. G# 16 [A# 8. B]
+
+6 systems /19-30-19/
+
+/
+2 bars | 14 | 14 |
+|
+=1 8 rest 16 [d~ e] 16 rest 16 [d~ e] 16 rest 16 [d~ e] 8 rest 16 [e e~]
+=2' 16 [c 8. A] 8. Bb 8. Bn 16 [Bb 8. Ab]
+|
+=1 16 rest [e~ e] 8 rest 16 [e~ e] 8 rest 16 [e~ f#] rest 16 [f~# f#]
+=2 8. Bn 16 [Bb 8. Ab] 16 [An 8. Ab] G
+
+/
+2 bars | 14 | 14 |
+|
+=1' 8 rest 16 [Bb A] 8 rest 16 c 8 rest 16 Bn 8 rest 16 [e c]
+=2' 16 [F# f#] 8 rest 16 [F# f#] rest 16 [F# f#] rest 16 [f# F#] 8 rest
+|
+=1 8 rest 16 B 8 rest 16 [c# d'] 8 rest 16 [d e] 8 rest 16 fn
+=2' 16 [G# f#] rest 16 [G# f#] 8 rest 16 [G# f#] 8 rest 16 [g# G#] rest
+
+/
+2 bars | 14 | 14 |
+|
+il0.6 .05 15
+=1 8 rest 16 eb 8 rest 16 [f f#] 8 rest 16 [f# g#] 8 rest 16 a
+=2, 16 [A a] rest 16 [A a] 8 rest 16 [A a] 8 rest 16 [a A] rest
+|
+=1 8 rest 16 [e d#] 8 rest 16 gb 8 rest 16 f 8 rest treble vol70 16 [a g]
+I0.8 .85 p
+=2, 16 [B a] 8 rest 16 [B a] 16 rest 16 [B a] 16 rest 16 [b B] 8 rest
+
+
+/
+2 bars | 14 | 14 |
+| 1.54
+=1, treble vol70 \
+ 16 [g G] 16 rest 16 [g G] 8 rest 16 [g G] 8 rest 16 [G g] 16 rest
+I0.1 .14 p
+=2 treble vol70 8 rest-P 16 C# 8 rest 16 [B_ D#] 8 rest 16 [C# E] 8 rest 16 D#
+|
+=1, 16 [g A] 8 rest 16 [g A] 16 rest 16 [g A] 16 rest 16 [A a] 8 rest
+=2  8 rest 16 [C# E] 8 rest, 16 D# 8 rest 16 E 8 rest 16 [C# F]
+/
+2 bars | 14 | 14 |
+|
+=1, 16 [b B] 8 rest 16 [b B] 16 rest 16 [b B] 16 rest 16 [B b] 8 rest
+=2  8 rest 16 [C#-P E] 8 rest, 16 D# 8 rest 16 E 8 rest 16 [C# F]
+|
+il0.6 .15 20
+=1, 16 [b c#] 16 rest 16 [b c#] 8 rest 16 [b c#] 8 rest 16 [c# c~#] 16 rest
+=2  8 rest 16 F# 8 rest 16 [E G] 8 rest 16 [F# A] 8 rest 16 E
+/
+2 bars | 14 | 14 |
+|
+=1, 16 [g G] 8 rest 16 [g G] 16 rest 16 [g G] 16 rest 16 [G g] 8 rest
+=2 8 rest 16 [C#-P E] 8 rest 16 B_ 8 rest 16 D# 8 rest 16 [C# E]
+|
+=1, 16 [g A] 16 rest 16 [g A] 8 rest 16 [g A] 8 rest 16 [A a] 16 rest
+=2  8 rest 16 C# 8 rest, 16 [B_ D#] 8 rest 16 [C# F] 8 rest 16 D#
+
+/
+2 bars | 14 | 14 |
+|
+=1, 16 [b B] 16 rest 16 [b B] 8 rest 16 [b B] 8 rest 16 [c# b] 16 rest
+=2  8 rest 16 F#-P 8 rest 16 [E G] 8 rest 16 [F# A] 8 rest 16 G
+|
+=1, 16 [c~# c#] 8 rest 16 [c~# c#] 16 rest 16 [c~# c#] 16 rest 16 [d d~] 8 rest
+=2  8 rest 16 [Eb G] 8 rest 16 F 8 rest 16 G 8 rest 16 [F A]
+/
+2 bars | 14 | 14 |
+|
+I0.8    f
+il0.9 .41 25
+=1 treble vol100 16 [e~ 8. f~#] 8. g~ 8. b 16 [a# 8. c~]
+I0.1 .06 p
+=2' treble 8 rest-P 16 [E e] 16 rest 16 [E e] 16 rest 16 [E e] 8 rest 16 [E e]
+|
+=1 8. c~# 16 [b 8. d~] 16 [c~# 8. a#] 8. b
+=2' 16 rest 16 [F# e] 8 rest 16 [F# e] 8 rest 16 [F# e] 16 rest 16 [E e]
+/
+2 bars | 14 | 14 |
+|
+=1 8. c~# 16 [b 8. d~] 16 [a# 8. c~#] 8. a#
+=2' 16 rest 16 [F# e] 8 rest 16 [F# e] 8 rest 16 [F# e] 16 rest 16 [F# f#]
+|
+=1 16 [b 8. c~] 8. d~b 8. c~ 16 [bb 8. a]
+=2' 8 rest 16 [F# f#] 16 rest 16 [F# f#] 16 rest 16 [G# f#] 8 rest 16 [G# g#]
+/
+2 bars | 14 | 14 |
+|
+I0.7     p
+=1, vol70 16 [g G] 16 rest 16 [g G] 8 rest 16 [g G] 8 rest 16 [G g] 16 rest
+I0.1 .14 p
+=2 vol70 8 rest-P 16 C# 8 rest 16 [B_ D#] 8 rest 16 [C# E] 8 rest 16 D#
+|
+il0.9 .09 30
+=1, 16 [g A] 8 rest 16 [g A] 16 rest 16 [g A] 16 rest 16 [A a] 8 rest
+=2  8 rest 16 [C# F] 8 rest 16 D# 8 rest 16 E 8 rest 16 [C# F]
+/
+2 bars | 14 | 14 |
+|
+=1, 16 [b B] 8 rest 16 [b B] 16 rest 16 [b B] 16 rest 16 [B b] 8 rest
+=2  8 rest 16 [C#-P F] 8 rest 16 D# 8 rest 16 E 8 rest 16 [C# F]
+|
+=1, 16 [a B] 16 rest 16 [a B] 8 rest 16 [a B] 8 rest 16 [a A] 16 rest
+=2  8 rest 16 F# 8 rest 16 [E G] 8 rest 16 [E F#] 8 rest 16 G
+
+/
+2 bars | 14 | 14 |
+|
+# recap three octaves up
+=1, vol60 8 rest 16 bb 8 rest 16 [a c~] 8 rest 16 [e~ bn] 8 rest 16 c~
+i0.9 .03 sempre piano . . .
+=2' vol60 16 [F#-Una f#] rest 16 [F#-P f#] \
+ 8 rest 16 [F# f#] 8 rest 16 [f# F#] rest
+|
+=1, 8 rest 16 [b c~#] 8 rest 16 d~ 8 rest 16 e~ 8 rest 16 [d~ f~]
+=2' 16 [G# f#] 8 rest 16 [G# f#] rest 16 [G# f#] rest 16 [g# G#] 8 rest
+/
+2 bars | 14 | 14 |
+|
+il0.9 .01 35
+=1, 8 rest 16 [e~b f~] 8 rest 16 f~# 8 rest 16 g~# 8 rest, 16 [f~# a~]
+=2, 16 [A a] 8 rest 16 [A a] rest 16 [A a] rest 16 [a B] 8 rest
+|
+=1, 8 rest 16 e~b 8 rest 16 [d~ f~] 8 rest 16 [e~n d~#] 8 rest 16 g~#
+=2, 16 [B b] rest 16 [B b] 8 rest 16 [c c~] 8 rest 16 [c~ c] rest
+
+/
+2 bars | 14 | 14 |
+|
+=1, 8 rest' 16 [bb a] 8 rest' 16 c~ 8 rest' 16 bn 8 rest' 16 [e~ c~]
+=2' 16 [F# f#] 8 rest 16 [F# f#] rest 16 [F# f#] rest 16 [f# F#] 8 rest
+|
+=1, 8 rest' 16 b 8 rest' 16 [c~# d~] 8 rest' 16 [d~ e~] 8 rest' 16 f~n
+=2, 16 [G# f#] rest 16 [G# f#] 8 rest 16 [G# f#] 8 rest 16 [g# G#] rest
+/
+2 bars | 14 | 14 |
+|
+=1, 8 rest' 16 e~b 8 rest' 16 [d~ f~] 8 rest' 16 [e~n d~#] 8 rest' 16 f~#
+=2, 16 [A a] rest 16 [A a] 8 rest 16 [A a] 8 rest 16 [a B] rest
+|
+il0.9 .03 40
+=1, 8 rest' 16 [e~b f~] 8 rest' 16 f~# 8 rest' 16 g~# 8 rest' 16 [f~# a~]
+=2, 16 [B b] 8 rest 16 [B b] rest 16 [c c~] rest 16 [c~ c] 8 rest
+/
+2 bars | 14 | 14 |
+|
+=1, 8 rest 16 [d~ d] 16 rest 16 [d~ d] \
+ 16 rest 16 [d~ d] 8 rest 16 [d d~]
+=2 16 [d-* 8. e] 8. f 8. a 16 [g# 8. a#]
+|
+=1, 16 rest [d~ e] 8 rest 16 [d~ e] 8 rest 16 [d~ e] rest 16 [d d~]
+=2 8. b 16 [c~ 8. a] 16 [g# 8. a#] b
+/
+2 bars | 14 | 14 |
+|
+=1 16 rest 16 [d~ e] 8 rest 16 [d~ e] 8 rest 16 [d~ e] 16 rest 16 [e e~]
+=2 8. c~ 16 [a 8. bb] 16 [bn 8. bb] ab
+|
+=1 8 rest 16 [e~ e] 16 rest 16 [e~ e] 16 rest 16 [e~ f#] 8 rest 16 [f~# f#]
+=2 16 [bn 8. bb] 8. ab 8. an 16 [ab 8. g]
+
+/
+2 bars | 14 | 14 |
+|
+il0.6 .03 45
+=1 8 rest 16 bb 8 rest 16 [a c~] 8 rest 16 [bn e~] 8 rest 16 c~
+=2' 16 [F#-P f#] 16 rest 16 [F# f#] 8 rest 16 [F# f#] 8 rest 16 [f# F#] 16 rest
+|
+=1 8 rest 16 [b c~#] 8 rest 16 d~ 8 rest 16 d~ 8 rest 16 [e~ f~n]
+=2' 16 [G# f#] 8 rest 16 [G# f#] 16 rest 16 [G# f#] 16 rest 16 [g# G#] 8 rest
+
+/
+2 bars | 14 | 14 |
+|
+=1 8 rest 16 [e~b f~] 8 rest 16 f~# 8 rest 16 f~# 8 rest 16 [g~# a~]
+=2, 16 [A-P a] 8 rest 16 [A a] 16 rest 16 [A a] 16 rest 16 [a A] 8 rest
+|
+=1 8 rest 16 e~ 8 rest 16 [d~n f#] 8 rest 16 [d f#] rest vol125 16 [F# F_#]
+I0.6 .83 ff
+=2, 16 [B a] 16 rest 16 [B a] 8 rest 16 [B a] 8 rest 16 B 8 rest-*
+# now recap...
+
+/
+2 bars | 14 | 14 |
+|
+=1' bass vol125 8 rest 16 [Bb A] 8 rest 16 c 8 rest 16 Bn 8 rest 16 [e c]
+I0.7 .01 ff
+=2' bass8vab vol125 \
+ 16 [F# f#] 8 rest 16 [F# f#] rest 16 [F# f#] rest 16 [f# F#] 8 rest
+|
+il0.6 .05 50
+=1 8 rest 16 B 8 rest 16 [c# d'] 8 rest 16 [d e] 8 rest 16 fn
+=2' 16 [G# f#] rest 16 [G# f#] 8 rest 16 [G# f#] 8 rest 16 [g# G#] rest
+
+/
+2 bars | 14 | 14 |
+|
+=1 8 rest 16 d# 8 rest 16 [f f#] 8 rest 16 [f# g#] 8 rest 16 a
+=2, 16 [A a] rest 16 [A a] 8 rest 16 [A a] 8 rest 16 [a A] rest
+|
+=1 8 rest 16 [eb d] 8 rest 16 f 8 rest 16 en 8 rest, 16 [eb' A]
+=2, 16 [B a] 8 rest 16 [B a] rest 16 [B a] rest 16 [b B] 8 rest
+
+/
+2 bars | 14 | 14 |
+|
+=1' 8 rest 16 Bb 8 rest 16 [A c] 8 rest 16 [e Bn] 8 rest 16 c
+=2' 16 [F# f#] rest 16 [F# f#] 8 rest 16 [F# f#] 8 rest 16 [f# F#] rest
+|
+=1 8 rest 16 [B c#] 8 rest 16 d 8 rest 16 e 8 rest 16 [d f]
+=2' 16 [G# f#] 8 rest 16 [G# f#] rest 16 [G# f#] rest 16 [g# G#] 8 rest
+/
+2 bars | 14 | 14 |
+|
+il0.6 .05 55
+=1 8 rest 16 [eb f] 8 rest 16 f# 8 rest 16 g# 8 rest, 16 [f# a]
+=2, 16 [A a] 8 rest 16 [A a] rest 16 [A a] rest 16 [a B] 8 rest
+|
+=1 8 rest 16 eb 8 rest 16 [d f] 8 rest 16 [en d#] 8 rest 16 g#
+=2, 16 [B b] rest 16 [B b] 8 rest 16 [c c~] 8 rest 16 [c~ c] rest
+
+/
+2 bars | 14 | 14 |
+|
+=1 16 rest [d~ d] 8 rest 16 [d~ d] 8 rest 16 [d~ d] rest 16 [d d~]
+=2 8. d 16 [e 8. f] 16 [A 8. G#] A#
+|
+=1 8 rest 16 [d~ e] 16 rest 16 [d~ e] 16 rest 16 [d~ e] 8 rest 16 [d d~]
+=2 16 [B 8. c] 8. A 8. G# 16 [A# 8. B]
+
+6 systems /19-30-19/
+
+/
+2 bars | 14 | 14 |
+|
+=1 8 rest 16 [d~ e] 16 rest 16 [d~ e] 16 rest 16 [d~ e] 8 rest 16 [e e~]
+=2' 16 [c 8. A] 8. Bb 8. Bn 16 [Bb 8. Ab]
+|
+il0.6 .21 60
+=1 16 rest [e~ e] 8 rest 16 [e~ e] 8 rest 16 [e~ f#] rest 16 [f~# f#]
+=2 8. Bn 16 [Bb 8. Ab] 16 [An 8. Ab] G
+
+/
+2 bars | 14 | 14 |
+|
+=1' 8 rest 16 [Bb A] 8 rest 16 c 8 rest 16 Bn 8 rest 16 [e c]
+=2' 16 [F# f#] 8 rest 16 [F# f#] rest 16 [F# f#] rest 16 [f# F#] 8 rest
+|
+=1 8 rest 16 B 8 rest 16 [c# d'] 8 rest 16 [d e] 8 rest 16 fn
+=2' 16 [G# f#] rest 16 [F# f#] 8 rest 16 [F# f#] 8 rest 16 [f# G#] rest
+
+/
+2 bars | 14 | 14 ||
+|
+=1 8 rest 16 d# 8 rest 16 [f# a] 8 rest 16 [f# g#] 8 rest 16 a
+=2' 16 [F# f#] rest 16 [F# f#] 8 rest 16 [G# f#] 8 rest 16 [f# F#] rest
+|
+=1 8 rest 16 [e d#] 8 rest 16 f# 8 rest 16 c~ 8 rest treble 8 f#-emph
+=2' 16 [F# f#] 8 rest 16 [G# f#] 16 rest 16 [F# f#] 16 rest 16 [f# F#] 8 rest
+
+
+
+
+
+midi off
+
+
+6 systems /19-25-19/
+$C1 = G,
+$C2 = c#,
+$C3 = d,
+$C4 = e'
+$C5 = g'
+$C6 = bb'
+$N = morse_thue? $C1 : $C2 : $C3 : $C4 : $C5 : $C6 ?
+| 1.3
+=1 bass
+=1  16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+$C1 = G,
+$C2 = c,
+$C3 = d,
+$C4 = e'
+$C5 = g'
+$C6 = a'
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+|
+=1 16 $N $N $N $N $N $N  $N $N $N $N $N $N
+8 systems /15-17-15/
+title Arpeggiation
+# tends to sound like the top note is the (variable-length) downbeat
+midi channel 1 patch 0 pan 25
+midi channel 2 patch 0 pan 75
+$S = d
+$A = D
+$T = d
+$B = D
+$RHN = morse_thue? $S : $A ?
+$LHN = morse_thue? $B : $T ?
+$RBT = morse_thue? 8 rest 16 [$RHN $RHN] : 8 rest 16 [$RHN $RHN] ?
+$LBT = morse_thue? 16 [$LHN $LHN] 8 rest : 16 [$LHN $LHN] 8 rest ?
+$BAR = {
+=1' $RBT $RBT $RBT $RBT
+=2' $LBT $LBT $LBT $LBT
+}
+$BAR1ST = {
+=1' $RBT $RBT 2 blank
+=2' $LBT $LBT 2 blank
+}
+/
+$BAR2ND = {
+=1' 2 blank $RBT $RBT
+=2' 2 blank $LBT $LBT
+}
+4 bars | 48 |
+| 1.8
+=1' treble cha1 $RBT $RBT $RBT $RBT
+=2' bass   cha2 $LBT $LBT $LBT $LBT
+|
+$BAR
+|
+$BAR
+|
+$BAR
+|
+il0.5 .3 5
+$BAR
+
+|
+$BAR
+|
+$BAR
+|
+$BAR
+
+|
+$S = c#
+$A = D#
+$T = c#
+$B = D#
+$BAR
+|
+il0.5 .3 10
+$BAR
+|
+$BAR
+|
+$BAR
+|
+$S = c
+$A = E
+$T = c
+$B = E
+$BAR
+|
+$BAR
+|
+$S = B
+$A = E
+$T = c#
+$B = E
+il0.5 .3 15
+$BAR
+|
+$S = B
+$A = D#
+$T = c#
+$B = F
+$BAR
+
+# -------------
+$S = Bb
+$A = E
+$T = c
+$B = F#
+|
+#=1' 8 rest 16 [E Bb] 8 rest 16 [Bb E] 8 rest 16 [A Eb] 8 rest 16 [Eb A]
+#=2' 16 [c F#] 8 rest 16 [F# c] 8 rest 16 [G B] 8 rest 16 [B G] 8 rest
+$BAR1ST
+$S = A
+$A = Eb
+$T = B
+$B = G
+$BAR2ND
+
+|
+$S = Bb
+$A = D
+$T = c
+$B = F#
+#=1' 8 rest 16 [D Bb] 8 rest 16 [Bb D] 8 rest 16 [Bb C] 8 rest 16 [C Bb]
+#=2' 16 [c F#] 8 rest 16 [F# c] 8 rest 16 [F# d] 8 rest 16 [F# d] 8 rest
+$BAR1ST
+$S = Bb
+$A = C
+$T = d
+$B = F#
+$BAR2ND
+|
+=1' 8 rest 16 [C# B] 8 rest 16 [B C#] 8 rest 16 [Bb Cn] 8 rest 16 [C Bb]
+=2' 16 [eb F] 8 rest 16 [F eb] 8 rest 16 [F# en] 8 rest 16 [e F#] 8 rest
+|
+il0.5 .3 20
+=1' 8 rest 16 [B C#] 8 rest 16 [C# B] 8 rest 16 [cn D] 8 rest 16 [D c]
+=2' 16 [G f] 8 rest 16 [f G] 8 rest 16 [G# e] 8 rest 16 [e G#] 8 rest
+|
+
+#----------------- 20120610
+# rabbit? [  5  ] : [ 3 ] ?
+# therefore rabbit? 13/16 : 8/16 ?
+# smq=200mS
+# e.g. bass 13/16 16 [G f a c~# f~] [e~b a f] [G f a c~# f~]
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@a95 1
+#midi off
+d179 1
+d183 2
+a184 1
+=1, treble vol70 16 [g G] 8 rest 16 [g G] rest 16 [g G] rest 16 [G g] 8 rest
+d186 1
+a186 1
+=2 treble vol70 8 rest-P 16 [C# E] 8 rest 16 B_ 8 rest 16 D# 8 rest 16 [C# D#]
+d188 2
+a189 2
+=1, 16 [g A] rest 16 [g A] 8 rest 16 [g A] 8 rest 16 [A a] 16 rest
+=2  8 rest 16 D# 8 rest, 16 [C# F] 8 rest 16 [C# E] 8 rest 16 F
+d193 2
+a194 2
+=1, 16 [b B] rest 16 [b B] 8 rest 16 [b B] 8 rest 16 [B b] 16 rest
+=2  8 rest-P 16 D# 8 rest, 16 [C# F] 8 rest 16 [C# E] 8 rest 16 F
+d197 2
+a198 2
+=1, 16 [b c#] 8 rest 16 [b c#] rest 16 [b c#] rest 16 [c# c~#] 8 rest
+=2  8 rest 16 [F# G] 8 rest 16 E 8 rest 16 F# 8 rest 16 [E G]
+d202 2
+a203 2
+=1, 16 [g G] rest 16 [g G] 8 rest 16 [g G] 8 rest 16 [G g] rest
+=2 8 rest-P 16 C# 8 rest 16 [B_ E] 8 rest 16 [C# D#] 8 rest 16 E
+d205 2
+a206 2
+=1, 16 [g A] 8 rest 16 [g A] rest 16 [g A] rest 16 [A a] 8 rest
+=2  8 rest 16 [D# E] 8 rest, 16 B_ 8 rest 16 C# 8 rest 16 [B_ E]
+d211 2
+a212 2
+=1, 16 [b B] 8 rest 16 [b B] rest 16 [b B] rest 16 [c# b] 8 rest
+=2  8 rest-P 16 [F# G] 8 rest, 16 E 8 rest 16 F# 8 rest 16 [E G]
+d214 2
+a215 2
+=1, 16 [c~# c#] rest 16 [c~# c#] 8 rest 16 [c~# c#] 8 rest 16 [d d~] rest
+=2  8 rest 16 Fn 8 rest 16 [D# G] 8 rest 16 [D# F] 8 rest 16 G 
+d221 1
+a221 1
+=1 treble vol100 8. e~ 16 [f~# 8. g~] 16 [b 8. a#] 8. c~
+d223 1
+a223 1
+=2' treble 16 rest-P [E e] 8 rest 16 [E e] 8 rest 16 [E e] 16 rest [E e]
+d225 2
+a226 2
+=1 16 [c~# 8. d~] 8. b 8. a# 16 [c~n 8. c~#]
+=2' 8 rest 16 [F# e] rest 16 [F# e] rest 16 [F# e] 8 rest 16 [E e]
+d230 2
+a231 2
+=1 16 [d~ 8. b] 8. c~ 8. d~b 16 [c~ 8. bb]
+=2' 8 rest 16 [F# e] rest 16 [F# e] rest 16 [F# e] 8 rest 16 [F# f#]
+d233 2
+a234 2
+=1 8. d~b 16 [c~ 8. a#] 16 [b 8. a#] 8. an
+=2' 16 rest [F# f#] 8 rest 16 [F# f#] 8 rest 16 [G# f#] 16 rest [G# g#]
+d239 1
+a239 1
+=1, treble vol70 16 [g G] 8 rest 16 [g G] rest 16 [g G] rest 16 [G g] 8 rest
+d241 1
+a241 1
+=2 treble vol70 8 rest-P 16 [C# E] 8 rest 16 B_ 8 rest 16 D# 8 rest 16 [C# D#]
+d244 2
+a245 2
+=1, 16 [g A] rest 16 [g A] 8 rest 16 [g A] 8 rest 16 [A a] 16 rest
+=2  8 rest 16 D# 8 rest 16 [C# F] 8 rest 16 [C# E] 8 rest 16 F
+d249 2
+a250 2
+=1, 16 [b B] rest 16 [b B] 8 rest 16 [b B] 8 rest 16 [B b] 16 rest
+=2  8 rest-P 16 D# 8 rest, 16 [C# F] 8 rest 16 [C# E] 8 rest 16 F
+d252 2
+a253 2
+=1, 16 [a B] 8 rest 16 [a B] rest 16 [a B] rest 16 [a A] 8 rest
+=2  8 rest 16 [F# G] 8 rest 16 E 8 rest 16 F# 8 rest 16 [E G]
+d327 82
+a408 4
+=1 8 rest 16 e~ 8 rest 16 [d~n f#] 8 rest 16 [d f#] rest 16 [F# F_#]
+I0.8 .85 ff
+=2, 16 [B a] 16 rest 16 [B a] 8 rest 16 [B a] 8 rest 16 B 8 rest
+i0.6 .85 now recap...
+@

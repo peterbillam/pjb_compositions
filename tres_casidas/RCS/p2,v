@@ -1,0 +1,194 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	98.01.02.10.14.08;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	94.12.13.19.28.21;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	94.12.13.19.15.07;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@copyright acknowledgements for three songs
+@
+
+
+1.3
+log
+@editorial shifted to page 3
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 2.0c
+.ce 3
+\f3\s+9Tres Casidas del Diva\*'n del Tamarit\s-9\fP
+.br
+.sp 1.2c
+\f3music by Peter Billam, \(co 1997 Peter Billam
+.sp 0.3c
+poems by Federico Garci\*'a Lorca, 1898 \- 1936\fP
+.sp 1.8c
+.nr PS 11
+.nr VS 13
+.IP \  4.5c
+\f3\s+2Casida del llanto\s0\fP
+.sp 0.4c
+.IP \  4.5c
+He cerrado mi balco\*'n
+.br
+porque no quiero oi\*'r el llanto,
+.br
+pero por detra\*'s de los grises muros
+.br
+no se oye otra cosa que el llanto.
+.IP \  4.5c
+Hay muy pocos a\*'ngeles que canten,
+.br
+hay muy pocos peros que ladren,
+.br
+mil violines caben en la palma de mi mano.
+.IP \  4.5c
+Pero el llanto es un perro inmenso,
+.br
+el llanto es un a\*'ngel inmenso,
+.br
+el llanto es un violi\*'n inmenso,
+.br
+las la\*'grimas amordazan al viento,
+.br
+y no se oye otra cosa que el llanto.
+.sp 2.0c
+.IP \  4.5c
+\f3\s+2Casida de la rosa\s0\fP
+.sp 0.4c
+.IP \  4.5c
+La rosa
+.br
+no buscaba la aurora:
+.br
+casi eterna en su ramo,
+.br
+buscaba otra cosa.
+.IP \  4.5c
+La rosa
+.br
+no buscaba ni ciencia ni sombra:
+.br
+confi\*'n de carne y suen\*~o,
+.br
+buscaba otra cosa.
+.IP \  4.5c
+La rosa
+.br
+no buscaba la rosa.
+.br
+Inmo\*'vil por el cielo
+.br
+buscaba otra cosa.
+@
+
+
+1.2
+log
+@spaced slightly higher on page
+@
+text
+@d2 1
+d8 3
+a10 3
+.sp 1.2i
+.ce 2
+\f3\s+9Three Songs\s-9\fP
+d12 12
+a23 2
+.sp 0.5i
+\f3\s+4music by Peter Billam\s0\fP
+d25 29
+a53 4
+.sp 0.7i
+.LP
+\f2From the 228'th chorus of "Mexico City Blues"\fP
+by Jack Kerouac,
+d55 1
+a55 1
+\(co 1959 Jack Kerouac
+d57 3
+a59 1
+\(co 1993 Peter Billam
+d61 1
+a61 22
+The poem comes from "Mexico City Blues", by Jack Kerouac,
+published in 1990 by Grove Weidenfeld.
+.LP
+.sp 0.4i
+\f2"All You Who Sleep Tonight"\fP
+by Vikram Seth,
+.br
+\(co 1990 Vikram Seth
+.br
+\(co 1993 Peter Billam
+.br
+Permission has been kindly granted by Sheil Land Associates
+for performance of this song in Australia,
+provided that any programme accompanying the performance
+acknowledges the book from which it comes \-
+"All You Who Sleep Tonight", by Vikram Seth,
+published in 1990 by Faber and Faber,
+as well as the author's literary agents, Sheil Land Associates.
+.LP
+.sp 0.4i
+\f2"In my craft or sullen art"\fP
+by Dylan Thomas,
+d63 1
+a63 1
+\(co The Trustees for the Copyrights of the late Dylan Thomas, 1993
+d65 3
+a67 1
+\(co 1993 Peter Billam
+d69 1
+a69 6
+Permission has been kindly granted by David Higham Associates
+for performance or recording of this song.
+.LP
+.sp 0.8i
+.ce 100
+Peter Billam, 5 Scott St, Glebe, Hobart \s-2TAS\s0 7000, Australia
+d71 1
+a71 1
+fax 0061-002-369410
+d73 1
+a73 2
+.sp 0.3i
+\s-2This printing 14 December 1994.\s0
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d7 1
+a7 1
+.sp 1.4i
+@

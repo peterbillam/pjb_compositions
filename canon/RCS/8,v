@@ -1,0 +1,289 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2010.04.06.03.21.07;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.04.05.01.59.44;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.04.05.00.42.36;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.03.28.08.53.29;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Canon at Eight Semitones; five plausible bars
+@
+
+
+1.4
+log
+@omitted last note ; plausible ; spaced
+@
+text
+@6 systems 10 /19-35-19/19-34-19 /19-34-19/19-34-19/19-34-19/19-34-19 7/
+title Canon  at eight semitones
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2009 Peter J Billam
+/
+2 bars | 3 2 3 2 2 2 2 2 2 2 2 2 3 2 3 2 2 2 2 2 2 2 2 2 4 4 6 4 4 4 5 3 \
+ | 3 2 3 2 2 2 2 2 3 3 3 3 3 2 3 2 2 2 2 2 2 2 2 2 6 4 6 6 4 4 4 3 |
+| 8/4 8.8
+midi channel 1 patch 0 reverb 99 pan 50
+midi channel 2 patch 0 reverb 99 pan 30
+=1  treble 8/4 cha1 leg99 vol90 2. rest rest 16 rest, [G_ A_ B_b] 83 [F E-I3 D#(2]
+=2' bass   8/4 cha1 vol70 4 leg90 <G Bx c# f-ten> leg40 <G Bx c# f-.> rest \
+ 4 leg90 <G Bx c# f-ten> leg40 <G Bx c# f-.> rest rest rest
+|
+=1 2 D#)2(2 83 [D)2 E-I3 D(2] 4 D)2 2 rest 16 rest [Eb F Gb] 83 [db' c'-I3 B'(2]
+=2 4 leg90 <eb gx a c~#-ten> leg40 <ebl gx a c~#-.> rest 4 leg90 <ebl gx a c~#-ten> leg40 <ebl gx a c~#-.> rest rest rest
+
+/
+1 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 \
+ 5 5 5 5 6 7 6 6 6 6 7 6 7 7 6 5 |
+|
+=1  2 B')2(1 83 [B)1 c-I3 B(1] 4 B)1 \
+ rest 16 rest [G Eb A_] rest, [G_ A_ B_b] [F En Eb D]
+=2' 4 leg90 <G Bx c# f-ten> leg40 <G Bx c# f-.> rest \
+ 4 leg90 <G Bx c# f-ten> leg40 <G Bx c# f-.> rest rest rest
+
+/
+1 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7 6 7 6 7 6 7 7 6 7 7 6 |
+|
+=1 2 vol+10 F#(2 83 [F#)2 G-I3 vol-10 F(2] 4 F)2 4 rest \
+ 16 rest [eb' B' Fn] rest [Eb F Gb] [db' c' B' Bb']
+=2 4 leg90 vol-10 <eb gx a c~#-ten> leg40 vol+10 <ebl gx a c~#-.> rest 4 leg90 <ebl gx a c~#-ten> leg40 <ebl gx a c~#-.> rest rest rest
+
+/
+1 bars | 5 5 5 5 5 5 5 5 6 5 5 5 5 5 5 5 6 6 7 6 6 6 7 6 5 5 5 5 5 5 5 4 |
+|
+il0.5 .04 5
+=1  2 vol+10 dn(1 83 [d)1 eb-I3 vol-10 d(1] 4 d)1 \
+ 16 rest [G A Bb'] [c d f en] 4 d 8 [c# d(1]
+=2 4 leg90 <f# bbl c~x d~-ten> leg40 <f# bbl c~x d~-.> rest \
+ leg90 <g bbl d~x e~-ten> leg40 <g bbl d~x e~-.> rest \
+ 8 rest 4. leg90 <g# b d~ f~#> treble
+
+/
+1 bars | 5 5 5 5 6 5 6 6 5 5 6 5 6 5 6 5  7 7 7 7 7 7 6 7 6 5 5 5 6 5 5 5 |
+|
+=1 83 [d)1 e-I3 d(1] [d)1 g#-I3 f#] [a# b-I3 bb(1] [b)1 gb-I3 eb] \
+ 16 rest [eb fn gb] [ab bb d~b c~] 4 bb 8 [an bb(1]
+=2' 4 leg90 <Dr F#xl G#l Bb-ten> leg40 <D F#xl G#l Bb-.> rest \
+ leg90 <Eb Gbl Bb-ten cx> leg40 <Eb Gbl Bb-. cx> rest \
+ 8 rest 4. leg90 <En Gnl Bb d> bass
+
+/
+1 bars | 5 5 6 5  5 5 5 6 5 5 6 6 5 5 6 5  6 5 6 5 5 5 5 5 6 5 6 5 6 5 5 5 |
+|
+=1 83 [bb)1 c~-I3 bb(1] [bb)1 e~-I3 d~] [f~# g~-I3 f~#(1] [f~#)1 d~-I3 bn] \
+ 83 rest [g#-I3 f#] 8 [e f#] 83 [d' G#-I3 A#] 16 [B' F_# 8 E]
+=2 8 [F#-P e'] [a# f~#] 4 a~# 8 [G#-P f#'] 4 d~ 2. blank
+I0.5 .01 P .36 _* P .98 _*
+
+6 systems 5 /19-34-19/19-30-19/19-34-19/19-30-19/19-30-19/19-34-19 5/
+pagenum
+innerhead Canon  at eight semitones
+leftfoot (c) 2010 Peter J Billam
+
+/
+2 bars | 6 6 7  6 6 7  5 5 5 6 6 7  7 7 7  6 6 7  7 10 7  7 8 6 \
+ | 5 6 10 5   5 7 8 5  5 4 6 5 4 4 4 4  5 10 10 5  5 7 8 5  5 4 4 4 4 5 3 3 |
+|
+=1 8 [D_-P C] [F#, d] 4 f# 8 [E_ D] \
+ 83 [Bb e~-I3 d~] 8 [c~ d~] 83 [bb e-I3 f#] 16 [g D, 8 c]
+=2' 2 blank 8 rest vol100 D 2. vol110 <C_-P C> 2 blank
+I0.25 .21 f
+|
+=1' 16 rest [C F_# F#] 83 [D F_#-I3 F#] 2 C \
+ 16 [Bb D B_b Ab] 83 [E B_b-I3 Bb] 2 D
+=2  2 rest 8 rest Bb 2. <A_b-P Ab> 8 rest F_# 4 E_(2-P
+
+/
+1 bars | 6 5 5 6  5 4 5 5  4 4 4 4  4 4 4 4  6 6 6 5  5 5 5 5 4 4 4 4 4 3 4 3 |
+|
+il0.5 .36 10
+=1 16 rest [Ab D d'] 83 [Bb' D-I3 d'] 2 Ab \
+ 16 [gb Bb Gb, en] 83 [c Gb,-I3 gb] 2 Bb
+=2 2. E_)2(1 E_)1 8 rest D 4 C(2-P
+
+/
+2 bars | 96 | 96 |
+|
+I0.3 .69 3
+=1' 2 rest 4 rest 2 rest 43 vol110 Bb{2 83 A}2(2 2 A)2(2
+I0.25 forte
+=2' 4 <Ab-* c dx gb-ten> <Ab c dx gb-.> rest \
+ <Ab c dx gb-ten> <Ab c dx gb-.> 2. blank
+=2, 1. C)2 2 rest,,
+
+|
+I0.7 .67 3
+I0.3 .32 3
+=1  4 A)2 rest 43 Bb'{2 83 A}2(2 2 A)2 43 vol110 gb{1 83 f}1(1 2 f)1(1
+=2 4 <er abx bbl d~-ten> <e abxl bbl d~-.> rest \
+ <e abxl bbl d~-ten> <e abxl bbl d~-.> 4 rest vol100 8 rest 4. <f anl bnxl d~bl>
+i0.2 .71 dim  .  .  .
+
+/
+1 bars | 4 4 4 4 4 3 4 4 4 4 4 4 4 3 4 3 6 6 5 6 5 6 5 5   4 4 4 4 6 6 5 7 |
+|
+I0.7 .26 3
+=1 4 f)1 rest 43 gb{1 83 f}1(1 2 f)1 4. rest vol100 <Db F Gx A>
+=2 4 <gr b c~#x e~b-ten> <gr b c~#x e~b-.> rest \
+ 4 rest treble 16 rest [G# A# B'] [eb d db c] 4 En 16 rest [Bb' Gb C] bass
+/
+1 bars | 4 4 4 4 5 5 6 5  5 6 5 5 6 5 6 5 5 6 5 5 6 5 6 5 4 4 4 4 6 5 6 4 |
+|
+=1 4 <Eb G Ax B'-ten> <Eb G Ax B'-.> rest \
+ rest 16 rest [e f# g] [b bb a g#] 4 c 16 rest [f# d G#,]
+=2 4 rest 16 rest [b g c#,(1] [c#)1 B c# d'] [a ab g f#] 4 c 4. G F#
+
+/
+2 bars | 3 2 3 3  4 6.5 4 5 \
+ 5 5 7 4  6.5 6.5 4 6.5 \
+ 4 3 4 3  3 3 3 3  3 2 3 2 3 2 3 2 \
+ | 11 11 11 10 10 10 10 9 9 ||
+|
+il0.5 .05 15
+=1 4 rest 16 rest [G Eb A_(2] [A_)2 G_ A_ B_b] [F En Eb D] 4 A_b bass 4. eb d
+=2 1 F(2 F)2
+I0.2 .98 p
+|
+=1 1 c#(2 c#)2
+=2' 4 vol70 <A eb g-ten> <A eb g-.> rest \
+ 2. vol50 <A(2 eb(3 g(1> 2 <A)2 eb)3 g)1-fermata>
+I0.2 .31 ppp
+@
+
+
+1.3
+log
+@completed but unsure
+@
+text
+@d1 1
+a1 1
+6 systems 15 / 19-35-19 /
+d6 4
+a11 3
+/
+2 bars | 72 |
+| 8/4 8.8
+d17 1
+a17 1
+=2 4 leg90 <eb gx a c~#-ten> leg40 <eb gx a c~#-.> rest 4 leg90 <eb gx a c~#-ten> leg40 <eb gx a c~#-.> rest rest rest
+d19 3
+d27 3
+d33 1
+a33 1
+=2 4 leg90 vol-10 <eb gx a c~#-ten> leg40 vol+10 <eb gx a c~#-.> rest 4 leg90 <eb gx a c~#-ten> leg40 <eb gx a c~#-.> rest rest rest
+d35 2
+d38 3
+a40 3
+il0.5 .14 5
+=1' 2 vol+10 dn(2 83 [d)2 eb-I3 vol-10 d(2] 4 d)2 \
+ 16 rest [G, A, Bb,] [c d f en] 4 d 8 [c# d(1]
+d44 3
+d54 2
+d60 10
+a69 1
+I0.5  P .34 _* P .97 _*
+d74 1
+a74 1
+
+d79 3
+d83 1
+a83 1
+il0.5 .14 10
+d86 1
+a86 1
+=2 2. E_)2(2 E_)2 8 rest D 4 C(2-P
+d88 2
+d91 1
+d97 1
+d99 2
+d103 2
+a104 1
+ <e abxl bbl d~-ten> <e abxl bbl d~-.> 4 rest vol100 8 rest 4. <f anl bnxl e~b>
+d106 2
+d109 2
+a110 1
+=1 4 f)1 rest 43 gb{1 83 f}1(1 2 f)1 4. rest vol100 <Db F Gx B'>
+d112 3
+a114 1
+ treble 4 rest 16 rest [G# A# B'] [eb d db c] 4 En 16 rest [Bb' Gb C]
+d117 2
+a118 2
+ rest 16 rest [e f# g] [b bb a ab] 4 c 16 rest [f# d G#,]
+=2 4 rest bass 16 rest [b g c#,] rest [B c# d'] [a ab g gb] 4 c G 2 F#
+d121 4
+a124 2
+2 bars | 3 3 3 3 4 6 4 4  4 5 7 4  4 6 4 5  3 3 3 3  3 3 3 3  2 2 2 2 2 2 2 2\
+ | 12 12 11 12 11 11 10 10 10 ||
+d126 2
+a127 2
+il0.5 .14 15
+=1 4 rest 16 rest [G Eb A_] rest [G_ A_ B_b] [F En Eb D] 4 A_b bass eb 2 d
+d129 1
+d132 3
+a134 2
+=2' 4 vol70 <A eb g-ten> <A eb g-.> rest 2 <A(2 eb(3 g(1> 2. <A)2 eb)3 g)1>
+=2, 2. blank 2 blank 2. vol50 F_
+@
+
+
+1.2
+log
+@possibly up to bar 14
+@
+text
+@d74 1
+a74 1
+=1 4 f)1 rest 43 gb{1 83 f}1(1 2 f)1 2. blank vol100
+d80 13
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 1
+a6 1
+midi channel 1 patch 0 reverb 99 pan 70
+d12 1
+a12 1
+=2' bass   8/4 cha2 vol70 4 leg90 <G Bx c# f-ten> leg40 <G Bx c# f-.> rest \
+d25 1
+a25 1
+ 16 rest [eb' B' F] rest [Eb Fn Gb] [db' c' B' Bb']
+d30 2
+a31 1
+=1' 2 vol+10 dn(2 83 [d)2 eb-I3 vol-10 d(2] 4 d)2 1 blank
+d36 2
+a37 1
+=1 1 blank
+d39 41
+a79 2
+ leg90 <Eb Gbl Bb-ten cx> leg40 <Eb Gb Bb-. cx> rest \
+ 8 rest 4. leg90 <En Gbl Bb d>
+@

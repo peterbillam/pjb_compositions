@@ -1,0 +1,121 @@
+7 systems 8 /17-20-17/17-20-17/ 17-20-17/ 17-20-17 \
+  / 17-20-17/ 17-20-17/ 17-35-17/
+pagenum
+innerhead 20:  Two Pianos
+title two fast lines; will be reused in 20_two_pianos
+midi channel 0 patch 0 pan 85 chorus 90
+midi channel 1 patch 0 pan 15 chorus 90
+
+midi off
+
+/
+4 bars | 45 |
+| 1.0
+=1' treble cha0 9/16 leg110 16 [B A G# Bb A] [Gn G# Bb A]
+=2' bass cha0 9/16 leg110 16 [F G G# F# Gn] [A G# F# Gn]
+|
+=1' 16 [Bb G# Gn A G#] [F# Gn A G#]
+=2' 16 [F# G# A Gn G#] [Bb A Gn G#]
+|
+=1' 16 [A G F# G# Gn] [Fn F# G# Gn]
+=2' 16 [G A Bb G# A] [Bn Bb G# A]
+|
+=1' 16 [G# F# Fn Gn F#] [E Fn G F#]
+=2' 16 [G# Bb Bn A Bb] [c Bn A Bb]
+/
+4 bars | 45 | 45 | 45 | 45 ||
+|
+=1' 16 [G F E F# Fn] [Eb En F# Fn]
+=2' 16 [A B c Bb Bn] [c# cn Bb Bn]
+|
+=1' 16 [F# E Eb Fn En] [D Eb F En]
+=2' 16 [Bb c c# Bn cn] [d c# B cn]
+|
+=1' 16 [F Eb D En Eb] [C# D En Eb]
+=2' 16 [B c# d cn c#] [eb d cn c#]
+|
+=1' 16 [E D C# Eb D] [Cn C# Eb D]
+=2' 16 [c d eb c# d] [en eb c# d]
+
+midi pause 1.0
+/
+3 bars | 45 | 45 | 45 ||
+|
+=1' 16 [d c B c# cn] [Bb Bn c# cn]
+=2' 16 [D E F Eb En] [F# Fn Eb En]
+|
+=1' 16 [B A G# Bb A] [Gn G# Bb A]
+=2' 16 [Eb F F# En Fn] [G F# E Fn]
+|
+=1' 16 [G# F# Fn Gn F#] [E Fn G F#]
+=2' 16 [E F# G Fn F#] [G# Gn Fn F#]
+#|
+#=1' 16 [F Eb D En Eb] [C# D En Eb]
+#=2' 16 [F G G# F# Gn] [A G# F# Gn]
+
+
+midi pause 1.0
+/
+3 bars | 45 | 45 | 45 |
+|
+=1, 16 [d c B c# cn] [Bb Bn c# cn]
+=2' 16 [F# G# A Gn G#] [Bb A Gn G#]
+|
+=1, 16 [c# B Bb cn Bn] [A Bb c Bn]
+=2' 16 [A B c Bb Bn] [c# cn Bb Bn]
+|
+=1' 16 [c Bb A Bn Bb] [G# A Bn Bb]
+=2' 16 [c d eb c# d] [en eb c# d]
+/
+2 bars | 45 | 45 ||
+|
+=1' 16 [B A G# Bb A] [Gn G# Bb A]
+=2, 16 [eb f f# en fn] [g f# e fn]
+|
+=1' 16 [Bb G# Gn A G#] [F# Gn A G#]
+=2, 16 [f# g# a gn g#] [bb a gn g#]
+
+midi pause 1.0
+midi on
+/
+4 bars | 45 | 45 | 45 | 45 |
+| 1.125
+i0.7 .03 7 semitones down, could finish on C# and lead to the one-note drone...
+=1' treble cha0 leg110 16 [D E F Eb En] [F# Fn Eb En]
+=2 bass   cha1 leg110 16 [d~ c~ b c~# c~n] [bb bn c~# c~n]
+|
+=1' 16 [F G G# F# Gn] [A G# F# Gn]
+=2 16 [b a g# bb a] [gn g# bb a]
+|
+=1' 16 [G# Bb Bn A Bb] [c Bn A Bb]
+=2 16 [g# f# fn gn f#] [e fn g f#]
+|
+=1' 16 [B c# d cn c#] [eb d cn c#]
+=1, 16 [B A G# Bb A] [Gn G# Bb A]
+=2, 16 [f eb d en eb] [c# d en eb]
+/
+4 bars | 45 | 45 | 45 | 8 ||
+|
+=1' 16 [c d eb c# d] [en eb c# d]
+=1, 16 [Bb G# Gn A G#] [F# Gn A G#]
+=2' 16 [e d c# eb d] [cn c# eb d]
+|
+=1' 16 [eb f f# en fn] [g f# e fn]
+=1, 16 [A G F# G# Gn] [Fn F# G# Gn]
+=2' 16 [c# eb en d eb] [f en d eb]
+=2, 16 [c# B Bb cn Bn] [A Bb c Bn]
+|
+=1' 16 [f# g# a gn g#] [bb a gn g#]
+=1, 16 [G# F# Fn Gn F#] [E Fn G F#]
+=2' 16 [e f# g fn f#] [g# gn fn f#]
+=2, 16 [Bb G# Gn A G#] [F# Gn A G#]
+#|
+#=1' 16 [f g g# f# gn] [a g# f# gn]
+#=1, 16 [A G F# G# Gn] [Fn F# G# Gn]
+#=2' 16 [g a bb g# a] [bn bb g# a]
+#=2, 16 [B A G# Bb A] [Gn G# Bb A]
+|
+=1' 2 g
+=1, 2 G
+=2' 2 g
+=2, 2 G

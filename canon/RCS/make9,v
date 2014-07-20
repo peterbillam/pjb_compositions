@@ -1,0 +1,737 @@
+head	1.12;
+access;
+symbols;
+locks
+	pjb:1.12; strict;
+comment	@# @;
+
+
+1.12
+date	2010.04.24.06.20.19;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2010.04.23.10.37.19;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2010.04.23.10.33.01;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2010.04.23.09.47.40;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2010.04.23.08.32.09;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.04.23.08.12.57;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.04.23.05.47.40;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.04.21.10.37.55;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.04.21.04.01.49;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.04.15.08.11.57;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.04.14.09.03.49;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.04.13.01.55.36;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@generates the canon for 9
+@
+
+
+1.12
+log
+@now very plausible
+@
+text
+@#! /usr/bin/perl
+
+# grep 'i=1$' readme | grep 'c=3 d=2'
+# grep 'i=1$' readme | grep 'c=4 d=3'
+# grep 'h=9 i=8' readme          to modulate up 7st
+
+# a=0 b=0 c=2 d=3 e=5 f=6 g=9 h=9 i=8
+# a=0 b=0 c=2 d=3 e=5 f=7 g=9 h=9 i=8
+# a=0 b=0 c=2 d=4 e=5 f=6 g=9 h=9 i=8
+# a=0 b=0 c=2 d=4 e=5 f=7 g=9 h=9 i=8
+# a=0 b=0 c=4 d=3 e=7 f=6 g=10 h=10 i=9
+# a=0 b=0 c=4 d=8 e=7 f=10 g=9 h=9 i=8
+# a=0 b=0 c=4 d=3 e=7 f=6 g=9 h=9 i=8
+# a=0 b=0 c=4 d=9 e=8 f=7 g=9 h=9 i=8
+
+# grep 'h=10 i=9' readme
+
+my $patch = '0';
+
+my @@voice3 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	$ibar += 1;
+	$voice3[$ibar] = $_;
+}
+
+print <<EOT;
+4 systems 15 / 19-25-19-28-19 /
+title Canon  at nine semitones
+midi channel 1 patch $patch reverb 99 pan 85
+midi channel 2 patch $patch reverb 99 pan 50
+midi channel 3 patch $patch reverb 99 pan 15
+/
+3 bars | 9/16 108 | 108 | 108 |
+| .15 .12 .13 .14 .11 .13 .15 .11 .13
+=1  treble 9/16 cha1 leg95 1 rest
+=2' treble 9/16 cha2 leg95 1 rest
+EOT
+system "echo '=3 bass 9/16 cha3 leg95 $voice3[1]' | 8va";
+print <<EOT;
+|
+=1 1 rest
+EOT
+system "echo '=2 $voice3[1]' | transpose -3 -A";
+system "echo '=3 $voice3[2]' | 8va";
+
+
+$ibar = 3; while (1) {
+	#last if $ibar > 9;
+	if (4 == $ibar) { print "/\n3 bars | 108 | 108 | 108 |\n"; }
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.9 .20 $ibar\n"; }
+
+	my $s1 = $voice3[$ibar-2];
+	my $s2 = $voice3[$ibar-1];
+	my $s3 = $voice3[$ibar];
+	if ($ibar>10 and ! $s3) { last; }
+	if ($ibar > 186) { last; }
+	system "echo \"=1 $s1\" | transpose -A +6";
+	system "echo \"=2 $s2\" | transpose -A -3";
+	system "echo \"=3 $s3\" | 8va";
+	# print "=3 $voice3[$ibar]\n";
+
+	$ibar += 1;
+}
+exit 0;
+
+__END__
+16 [D Eb D] rest D rest [D F# Bb]
+8 Eb 16 rest [En Eb En] 8 Eb 16 rest
+8. [E F F#]
+16 [G F# G] rest F# rest [Fn F# Fn]
+8 F# 16 rest [G F# G] [G# Gn F#]
+4 A_ 8 A_ [A_ 16 A_]
+16 [G_# A_' G_#] rest 8 G_# 16 rest 8 G_#
+16 [B_ C B_] rest B_ rest [B_ C B_]
+1 C
+
+16 [D Eb D] rest D rest [D F# Bb]
+8 Eb 16 rest [En Eb En] 8 Eb 16 rest
+8. [E F F#]
+16 [G F# G] rest F# rest [Fn F# Fn]
+8 F# 16 rest [G F# G] [G# Gn F#]
+4 A_ 8 A_ [A_ 16 A_]
+16 [G_# A_' G_#] rest 8 G_# 16 rest 8 G_#
+16 [B_ C B_] rest B_ rest [B_ C B_]
+1 C
+
+16 leg95 rest D rest [Eb En Eb] [D Eb D]
+# 20
+16 leg95 [Eb En Eb] [En F E] [Eb rest Eb]
+16 leg95 rest E rest [F E F] [E rest F]
+16 leg95 [F# rest F#] [G F# G] [F# G F#]
+16 leg95 [G G# Gn] [G# A G#] [Gn rest G#]
+16 leg95 rest A rest [Bb Bn Bb] [A Bn Bb]
+16 leg95 [B c B] [c B c] rest 8 B
+16 leg95 [B rest B] [c c# cn] [B rest B]
+16 leg95 [Bb rest Bb] [Bn Bb Bn] [Bb Bn Bb]
+
+16 [B rest B] [c B c] [B eb g]
+16 [c B c] [c# cn c#] 8 cn 16 rest
+8. [c# d eb]
+16 [e eb en] rest eb rest [d eb d]
+8 eb 16 rest [en eb en] [f e eb]
+4 F# 8 F# [F# 16 F#]
+16 [F F# Fn] rest 8 F 16 rest 8 F
+16 [G# A G#] rest G# rest [G# A G#]
+1 A
+
+16 [B c B] rest B rest [B c B]
+8 c 16 rest [c# cn c#] 8 cn 16 rest
+8. [c# d eb]
+16 [e eb en] rest eb rest [d eb d]
+8 eb 16 rest [en eb en] [f e eb]
+4 F# 8 F# [F# 16 F#]
+16 [F F# Fn] rest 8 F 16 rest 8 F
+16 [G# A G#] rest G# rest [G# A G#]
+# 45
+1 A
+
+8. B 16 [B A# B] rest 8 B
+16 [F Gb F] rest F rest [F F# G#]
+16 [Bb c Bb] rest Bb rest [Bb c Bb]
+8. E 16 [E F E] 16 rest 8 E
+# 50
+4. A 16 [A G# F#]
+16 [Eb En Eb] rest Eb rest [Eb F Gb]
+8. Ab 16 [Ab G Ab] rest 8 Ab
+4. D 16 [D C# D]
+16 [E F E] [F F# Fn] [E F E]
+
+16 [F F# Fn] rest F rest [F F# Fn]
+8 F# 16 rest [G F# G] 8 F# 16 rest
+8. [G G# A]
+16 [Bb A Bb] rest A rest [G# A G#]
+8 A 16 rest [Bb A Bb] [Bn Bb A]
+4 C 8 C [C 16 C]
+16 [B_ C' B_] rest 8 B_ 16 rest 8 B_
+16 [D Eb D] rest D rest [D Eb D]
+1 Eb
+
+16 [F F# Fn] rest F rest [F A c#]
+8 F# 16 rest [G F# G] 8 F# 16 rest
+8. [G G# A]
+16 [Bb A Bb] rest A rest [G# A G#]
+8 A 16 rest [Bb A Bb] [Bn Bb A]
+4 C 8 C [C 16 C]
+16 [B_ C' B_] rest 8 B_ 16 rest 8 B_
+16 [D Eb D] rest D rest [D Eb D]
+1 Eb
+
+16 leg95 rest Eb rest [En F E] [Eb En Eb]
+# from 20
+16 leg95 [E F E] [F F# Fn] [E rest E]
+# 75
+16 leg95 rest F rest [F# Fn F#] [Fn rest F]
+# 6 leg95 rest F rest [F# Fn F#] [Fn F# G]
+
+# 8. F# 16 [F# Fn F#] rest 8 F#
+16 [Gb F Gb] 16 rest 8 Gb 16 [Gb F G#]
+4. A 16 [A Bb c]
+8. d 16 [d eb d] rest 8 d
+16 [G# Bb G#] rest G# rest [G# Bb G#]
+4. c# 16 [c# B Bb]
+8. G 16 [G F# G] rest 8 G
+# 16 [F# G F#] rest F# rest [F# G F#]
+# 4. C 16 [C B_ C]
+
+
+quit
+
+# riddled with SD's ...
+#16 leg95 [A# rest A#] [B c B] [A# rest A#]
+#16 leg99 [B{1 c B] 8 [db 16 c] [B c B}1]
+#16 leg95 [A# rest A#] [B c B] [A# rest A#]
+#16 leg95 [B rest B] [c db c] [B rest B]
+#16 leg99 [c{1 db c] 8 [dn 16 c#] [cn db c}1]
+#16 leg95 [B rest B] [c db c] [B rest B]
+#16 leg95 [A# B A#] [B c B] [A# rest A#]
+#16 leg99 [B{1 rest B] 8 [db 16 c] [B c B}1]
+#16 leg95 [A# rest A#] [B c B] [A# rest A#]
+
+16 [G A G] [G rest G] [G A G]
+8. c 16 [c B c] 8. c
+4. F# 16 [F# G A]
+16 [B c# B] [B rest B] [B c# B]
+8. F 16 [F Gb F] 8. F
+4. Bb 16 [Bb A G]
+16 [E F E] [E rest E] [E F E]
+8. A 16 [A G# A] 8. A
+4. Ab 16 [Ab Gb F]
+
+16 leg95 [G rest G] [G# A G#] [Gn G# Gn]
+16 leg95 [G G# Gn] [G# A G#] [Gn rest G#]
+16 leg95 [A rest A] [Bb A Bb] [A rest Bb]
+16 leg95 [B rest B] [c B c] [B c B]
+16 leg95 [c c# cn] [c# d c#] [cn rest c#]
+16 leg95 [d rest d] [eb en eb] [d en eb]
+16 leg95 [e f e] [f e f] [e rest eb]
+16 leg95 [e rest e] [f f# fn] [e rest e]
+16 leg95 [eb rest eb] [en eb en] [eb en eb]
+
+16 [e f# e] [e rest e] [e f# e]
+8. a 16 [a g# a] 8. a
+4. eb 16 [eb en f#]
+16 [g# bb g#] [g# rest g#] [g# bb g#]
+8. d 16 [d eb d] 8. d
+4. g 16 [g f# e]
+16 [c# d c#] [c# rest c#] [c# d c#]
+8. f# 16 [f# fn f#] 8. f#
+4. f 16 [f eb d]
+
+quit
+
+# a=0 b=0 c=2 d=4 e=5 f=7 g=9 h=9 i=8
+16 leg95 [A# rest A#] [B c B] [A# B A#]
+16 leg95 [A# B A#] [B c B] [A# rest B]
+16 leg95 [c rest c] [db c db] [c rest c#]
+16 leg95 [d rest d] [eb d eb] [d eb d]
+16 leg95 [d# e d#] [e f e] [d# rest e]
+16 leg95 [f rest f] [f# g f#] [fn g f#]
+16 leg95 [g ab g] [ab g ab] [g rest f#]
+16 leg95 [g rest g] [ab an ab] [g rest g]
+16 leg95 [f# rest f#] [g f# g] [f# g f#]
+
+# riddled with SD's again ...
+#16 leg95 [f rest f] [f# g f#] [fn rest f]
+#16 leg99 [f#{1 g f#] 8 [g# 16 gn] [f# g f#}1]
+#16 leg95 [f rest f] [f# g f#] [fn rest f]
+#16 leg95 [f# rest f#] [g g# gn] [f# rest f#]
+#16 leg99 [g{1 g# gn] 8 [a 16 g#] [gn g# gn}1]
+#16 leg95 [f# rest f#] [g g# gn] [f# rest f#]
+#16 leg95 16 [f f# fn] [f# g f#] [fn rest f]
+#16 leg99 f# 8 rest 8 [g#{1 16 gn] [f# g f#}1]
+#16 leg95 a 8 rest 16 [a# b a#] [an rest a]
+
+16 a 8 rest 4. a
+# a=0 b=7 c=8 d=10  x2
+16 [a bb a] 4. a
+16 e 8 rest 4. e
+16 [f gb f] 8 [gn 16 f#] [fn gb f]
+16 g 8 rest 4. g
+16 [a bb a] 4. a
+16 e 8 rest 4. e
+16 [f gb f] 8 [gn 16 f#] [fn gb f]
+16 g 8 rest 4. g
+@
+
+
+1.11
+log
+@plausible ?
+@
+text
+@d159 2
+a160 2
+# 16 leg95 rest F rest [F# Fn F#] [Fn rest F#]
+16 leg95 rest F rest [F# Fn F#] [Fn F# G]
+d162 9
+a170 8
+#8. G 16 [G F# G] rest 8 G
+#4. C# 16 [C# D E]
+8. G# 16 [G# A G#] rest 8 G#
+16 [D E D] rest D rest [D E D]
+4. G 16 [G Fn E]
+8. Db 16 [Db C Db] rest 8 Db
+16 [F# G F#] rest F# rest [F# G F#]
+4. C 16 [C B_ C]
+@
+
+
+1.10
+log
+@much tweaked; should connect to 9a
+@
+text
+@d159 2
+a160 1
+16 leg95 rest F rest [F# Fn F#] [Fn rest F#]
+@
+
+
+1.9
+log
+@more tweaks round 49, 51, 54-end
+@
+text
+@d99 1
+a99 1
+16 leg95 [B c B] [c B c] [B rest Bb]
+d161 8
+a168 11
+8. G 16 [G F# G] rest 8 G
+4. C# 16 [C# D E]
+16 [F# G# F#] rest F# rest [F# G# F#]
+8. C 16 [C C# Cn] rest 8 C
+4. F 16 [F E D]
+16 [B_ C' B_] rest B_ rest [B_ C' B_]
+
+quit
+# left-over...
+8. G# 16 [G# Gn G#] 8. G#
+4. G 16 [G F E]
+@
+
+
+1.8
+log
+@down 5 semitones
+@
+text
+@d124 2
+a125 2
+8. B 16 [B Bb Bn] 8. B
+16 [F F# Fn] rest F rest [F F# G#]
+d127 1
+a127 1
+8. E 16 [E F E] 8. E
+d130 2
+a131 2
+16 [Eb En Eb] rest Eb rest [Eb En Eb]
+8. G# 16 [G# Gn G#] 8. G#
+d133 1
+a133 1
+16 [Eb En Eb] [En F E] [Eb En Eb]
+d135 9
+a143 9
+16 [E F E] rest E rest [E F E]
+8 F 16 rest [F# Fn F#] 8 Fn 16 rest
+8. [F# G G#]
+16 [A G# A] rest G# rest [Gn G# Gn]
+8 G# 16 rest [A G# A] [Bb A G#]
+4 B_ 8 B_ [B_ 16 B_]
+16 [B_b B_n' B_b] rest 8 B_b 16 rest 8 B_b
+16 [C# D C#] rest C# rest [C# D C#]
+1 D
+d145 9
+a153 9
+16 [E F E] rest E rest [E G# c]
+8 F 16 rest [F# Fn F#] 8 Fn 16 rest
+8. [F# G G#]
+16 [A G# A] rest G# rest [Gn G# Gn]
+8 G# 16 rest [A G# A] [Bb A G#]
+4 B_ 8 B_ [B_ 16 B_]
+16 [B_b B_n' B_b] rest 8 B_b 16 rest 8 B_b
+16 [C# D C#] rest C# rest [C# D C#]
+1 D
+d155 1
+a155 1
+16 leg95 rest D rest [Eb En Eb] [D Eb D]
+d157 3
+a159 2
+16 leg95 [Eb En Eb] [En F E] [Eb rest Eb]
+16 leg95 rest E rest [F E F] [E rest F]
+d161 6
+a166 6
+8. F# 16 [F# Fn F#] 8. F#
+4. C 16 [C C# Eb]
+16 [F G F] rest F rest [F G F]
+8. B_ 16 [B_ C B_] 8. B_
+4. E 16 [E Eb C#]
+16 [B_b B_n' B_b] rest B_b rest [B_b B_n' B_b]
+@
+
+
+1.7
+log
+@reduced stress in 55/56
+@
+text
+@d72 19
+a90 22
+16 [G Ab G] rest G rest [G B d#]
+8 G# 16 rest [A G# A] 8 G# 16 rest
+8. [A A# B]
+#4 A 8 A# [A# 16 B]
+16 [c B c] rest B rest [A# B A#]
+8 B 16 rest [c B c] [db c B]
+4 D 8 D [D 16 D]
+16 [C# D' C#] rest 8 C# 16 rest 8 C#
+16 [E F E] rest E rest [E F E]
+1 F
+
+#16 [G Ab G] rest G rest [G Ab G]
+16 [G Ab G] rest G rest [G B d#]
+8 G# 16 rest [A G# A] 8 G# 16 rest
+8. [A A# B]
+#4 A 8 A# [A# 16 B]
+16 [c B c] rest B rest [A# B A#]
+8 B 16 rest [c B c] [db c B]
+4 D 8 D [D 16 D]
+16 [C# D' C#] rest 8 C# 16 rest 8 C#
+16 [E F E] rest E rest [E F E]
+1 F
+d92 1
+a92 1
+16 leg95 rest G rest [G# A G#] [Gn G# Gn]
+d94 18
+a111 30
+# 16 leg95 [G G# Gn] [G# A G#] [Gn rest G#]
+16 leg95 [G# A G#] [A Bb A] [G# rest G#]
+16 leg95 rest A rest [Bb A Bb] [A rest Bb]
+16 leg95 [B rest B] [c B c] [B c B]
+16 leg95 [c c# cn] [c# d c#] [cn rest c#]
+16 leg95 rest d rest [eb en eb] [d en eb]
+16 leg95 [e f e] [f e f] [e rest eb]
+16 leg95 [e rest e] [f f# fn] [e rest e]
+16 leg95 [d# rest d#] [e d# e] [d# e d#]
+
+16 [e rest e] [f e f] [e g# c~]
+16 [f e f] [f# fn f#] 8 fn 16 rest
+8. [f# g g#]
+16 [a g# a] rest g# rest [gn g# gn]
+8 g# 16 rest [a g# a] [bb a g#]
+4 B 8 B [B 16 B]
+16 [Bb Bn Bb] rest 8 Bb 16 rest 8 Bb
+16 [c# d c#] rest c# rest [c# d c#]
+1 d
+
+16 [e f e] rest e rest [e f e]
+8 f 16 rest [f# fn f#] 8 fn 16 rest
+8. [f# g g#]
+16 [a g# a] rest g# rest [gn g# gn]
+8 g# 16 rest [a g# a] [bb a g#]
+4 B 8 B [B 16 B]
+16 [Bb Bn Bb] rest 8 Bb 16 rest 8 Bb
+16 [c# d c#] rest c# rest [c# d c#]
+# 45
+1 d
+d113 7
+a119 7
+# 16 [c# eb c#] [c# rest c#] [c# eb c#]
+8. e 16 [e eb en] 8. e
+16 [A# B A#] rest A# rest [A# B c#]
+16 [eb f eb] rest eb rest [eb f eb]
+8. A 16 [A Bb A] 8. A
+# 50
+4. d 16 [d c# B]
+d121 2
+a122 28
+8. c# 16 [c# cn c#] 8. c#
+4. G 16 [G F# G]
+16 [G# A G#] [A Bb A] [G# A G#]
+
+16 [A Bb A] rest A rest [A Bb A]
+8 Bb 16 rest [Bn Bb Bn] 8 Bb 16 rest
+8. [B c c#]
+16 [d c# d] rest c# rest [cn c# cn]
+8 c# 16 rest [d c# d] [eb d c#]
+4 E 8 E [E 16 E]
+16 [Eb En' Eb] rest 8 Eb 16 rest 8 Eb
+16 [F# G F#] rest F# rest [F# G F#]
+1 G
+
+16 [A Bb A] rest A rest [A c# f]
+8 Bb 16 rest [Bn Bb Bn] 8 Bb 16 rest
+8. [B c c#]
+16 [d c# d] rest c# rest [cn c# cn]
+8 c# 16 rest [d c# d] [eb d c#]
+4 E 8 E [E 16 E]
+16 [Eb En' Eb] rest 8 Eb 16 rest 8 Eb
+16 [F# G F#] rest F# rest [F# G F#]
+1 G
+
+16 leg95 rest G rest [G# A G#] [Gn G# Gn]
+# from 20
+16 leg95 [G# A G#] [A Bb A] [G# rest G#]
+16 leg95 rest A rest [Bb A Bb] [A rest Bb]
+d125 1
+a125 1
+4. F 16 [F F# G#]
+d128 1
+d130 37
+a166 1
+16 [Eb En' Eb] rest Eb rest [Eb En' Eb]
+d168 1
+@
+
+
+1.6
+log
+@slightly more plausible; problem at 55/56
+@
+text
+@d140 9
+a148 9
+16 [G Ab G] rest G rest [G Ab G]
+8 G# 16 rest [A G# A] 8 G# 16 rest
+8. [A A# B]
+16 [c B c] rest B rest [A# B A#]
+8 B 16 rest [c B c] [db c B]
+4 D 8 D [D 16 D]
+16 [C# D' C#] rest 8 C# 16 rest 8 C#
+16 [E F E] rest E rest [E F E]
+1 F
+d150 9
+a158 9
+16 [G Ab G] rest G rest [G B d#]
+8 G# 16 rest [A G# A] 8 G# 16 rest
+8. [A A# B]
+16 [c B c] rest B rest [A# B A#]
+8 B 16 rest [c B c] [db c B]
+4 D 8 D [D 16 D]
+16 [C# D' C#] rest 8 C# 16 rest 8 C#
+16 [E F E] rest E rest [E F E]
+1 F
+@
+
+
+1.5
+log
+@is this near-plausible for 72 bars ?
+@
+text
+@d38 1
+a38 1
+| .14 .12 .13 .14 .12 .13 .14 .12 .13
+d75 1
+d79 1
+a79 1
+16 [C# D C#] rest 8 C# 16 rest 8 C#
+d87 1
+d91 1
+a91 1
+16 [C# D C#] rest 8 C# 16 rest 8 C#
+d95 5
+a99 3
+16 leg95 [G rest G] [G# A G#] [Gn G# Gn]
+16 leg95 [G G# Gn] [G# A G#] [Gn rest G#]
+16 leg95 [A rest A] [Bb A Bb] [A rest Bb]
+d102 1
+a102 1
+16 leg95 [d rest d] [eb en eb] [d en eb]
+d105 1
+a105 1
+16 leg95 [eb rest eb] [en eb en] [eb en eb]
+d107 2
+a108 3
+#16 [e f e] rest e rest [e f e]
+16 [e f e] rest e rest [e g# c~]
+8 f 16 rest [f# fn f#] 8 fn 16 rest
+d131 1
+a131 1
+16 [eb f eb] [eb rest eb] [eb f eb]
+d140 1
+a140 1
+16 [G Ab G] rest G rest [G, B, d#]
+d146 1
+a146 1
+16 [C# D C#] rest 8 C# 16 rest 8 C#
+d156 1
+a156 1
+16 [C# D C#] rest 8 C# 16 rest 8 C#
+d159 15
+@
+
+
+1.4
+log
+@first 2 bars self-extract from the DATA
+@
+text
+@d59 3
+a61 3
+	if (! $s1) { last; }
+	if ($ibar>40 and !$s3) { last; }
+	if ($ibar > 66) { last; }
+d64 1
+a64 1
+	system "echo \"=3 $voice3[$ibar]\" | 8va";
+d72 88
+@
+
+
+1.3
+log
+@first 27 bars, more plausible, but trite
+@
+text
+@d19 11
+d39 5
+a43 3
+=1  treble 9/16 cha1 leg70 1 rest
+=2' treble 9/16 cha2 leg70 1 rest
+=3 bass 9/16 cha3 leg70 16 [g a g] [g rest g] [g a g]
+a45 2
+=2 16 [E F# E] [E rest E] [E F# E]
+=3 leg95 8. c~ 16 [c~ b c~] 8. c~
+d47 2
+a49 9
+my @@voice3 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	$ibar += 1;
+	$voice3[$ibar] = $_;
+}
+d59 1
+@
+
+
+1.2
+log
+@two steps backwards
+@
+text
+@d30 1
+a30 1
+=3  bass   9/16 cha3 leg70 16 [a# rest a#] [b c~ b] [a# rest a#]
+d33 2
+a34 2
+=2 16 [G rest G] [G# A G#] [Gn rest G]
+=3 16 leg95 [a# b a#] [b c~ b] [a# rest b]
+d77 32
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d11 1
+d13 1
+d18 1
+a18 1
+my $patch = '74';
+d34 1
+a34 1
+=3 leg99 16 [b{1 c~ b] 8 [d~b 16 c~] [b c~ b}1]
+d51 1
+a51 1
+	if (0 == $ibar%5) { print "il0.5 .20 $ibar\n"; }
+d55 2
+a56 2
+	if ($ibar>10 and !$s3) { last; }
+	if ($ibar > 26) { last; }
+d58 1
+a58 1
+	system "echo \"=2' $s2\" | transpose -A -3";
+d67 43
+a109 10
+16 leg95 [A# rest A#] [B c B] [A# rest A#]
+16 leg99 [B{1 c B] 8 [db 16 c] [B c B}1]
+16 leg95 [A# rest A#] [B c B] [A# rest A#]
+16 leg95 [B rest B] [c db c] [B rest B]
+16 leg99 [c{1 db c] 8 [dn 16 c#] [cn db c}1]
+16 leg95 [B rest B] [c db c] [B rest B]
+16 leg95 [A# rest A#] [B c B] [A# rest A#]
+16 leg99 [B{1 c B] 8 [db 16 c] [B c B}1]
+16 leg95 [A# rest A#] [B c B] [A# rest A#]
+
+@

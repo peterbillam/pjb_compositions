@@ -1,0 +1,207 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2013.01.01.09.15.27;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.12.05.02.59.21;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@possible first movement
+@
+
+
+1.2
+log
+@bar-numbers
+@
+text
+@5 systems 20 / 19-25-19 /
+title 1.  Finger exercise
+pagenum
+midi channel 0 patch 0
+/
+4 bars | 24 | 24 | 24 | 24 |
+| 1.3
+=1' treble cha0 leg99 8 [E B E B] [F B F B]
+=2, bass   cha0 leg99 8 [c g c g] [d g d g]
+|
+=1' 8 [G B G B] [A B A B]
+=2, 8 [e g e g] [f g f g]
+|
+=1' 8 [G B G B] [F B F B]
+=2, 8 [e g e g] [d g d g]
+| 1.3
+=1' 8 [E B E B] [E A E A] 
+=2, 8 [c g c g] [c f c f]
+/
+4 bars | 24 | 24 | 36 | 36 |
+|
+il0.7 .05 5
+=1' 8 [E G E G] [E F E F]
+=2, 8 [c e c e] [c d c d]
+|
+=1' 8 [E G E G] [E A E A]
+=2, 8 [c e c e] [c f c f]
+| 1.95
+=1' 8 [E B F B] [G B A B] [G B F B]
+=2, 8 [c g d g] [e g f g] [e g d g]
+| 1.95
+=1' 8 [E B E A] [E G E F] [E G E A]
+=2, 8 [c g c f] [c e c d] [c e c f]
+/
+4 bars | 24 |
+| 1.3
+=1' 8 [F B F B] [G B G B]
+=2, 8 [d g d g] [e g e g]
+|
+il0.8 .05 10
+=1' 8 [A B A B] [G B G B]
+=2, 8 [f g f g] [e g e g]
+|
+=1' 8 [F B F B] [F A F A]
+=2, 8 [d g d g] [d f d f]
+|
+=1' 8 [F G F G] [F A F A]
+=2, 8 [d e d e] [d f d f]
+/
+4 bars | 24 |
+|
+=1' 8 [F B G B] [A B G B]
+=2, 8 [d g e g] [f g e g]
+|
+=1' 8 [F B F A] [F G F A]
+=2, 8 [d g d f] [d e d f]
+| 1.3
+il0.7 .05 15
+=1' 8 [E A E A] [F A F A]
+=2, 8 [c f c f] [d f d f]
+|
+=1' 8 [G A G A] [F A F A]
+=2, 8 [e f e f] [d f d f]
+/
+4 bars | 24 |
+|
+=1' 8 [E A E A] [E G E G]
+=2, 8 [c f c f] [c e c e]
+|
+=1' 8 [E F E F] [E G E G]
+=2, 8 [c d c d] [c e c e]
+|
+=1' 8 [E A F A] [G A F A]
+=2, 8 [c f d f] [e f d f]
+|
+il0.7 .05 20
+=1' 8 [E A E G] [E F E G]
+=2, 8 [c f c e] [c d c e]
+
+5 systems 10 / 19-25-19 /
+pagenum
+innerhead 1.  Finger exercise
+/
+4 bars | 24 | 24 | 24 | 24 |
+| 1.3
+=1' treble cha0 leg99 8 [B E B E] [A E A E]
+=2, bass   cha0 leg99 8 [g c g c] [f c f c]
+|
+=1' 8 [G E G E] [F E F E]
+=2, 8 [e c e c] [d c d c]
+|
+=1' 8 [G E G E] [A E A E]
+=2, 8 [e c e c] [f c f c]
+| 1.3
+=1' 8 [B E B E] [B F B F] 
+=2, 8 [g c g c] [g d g d]
+/
+4 bars | 24 | 24 | 36 | 36 |
+|
+il1.0 .05 25
+=1' 8 [B G B G] [B A B A]
+=2, 8 [g e g e] [g f g f]
+|
+=1' 8 [B G B G] [B F B F]
+=2, 8 [g e g e] [g d g d]
+| 1.95
+=1' 8 [B E A E] [G E F E] [G E A E]
+=2, 8 [g c f c] [e c d c] [e c f c]
+| 1.95
+=1' 8 [B E B F] [B G B A] [B G B F]
+=2, 8 [g c g d] [g e g f] [g e g d]
+/
+4 bars | 24 |
+| 1.3
+=1' 8 [A E A E] [G E G E]
+=2, 8 [f c f c] [e c e c]
+|
+il0.6 .05 30
+=1' 8 [F E F E] [G E G E]
+=2, 8 [d c d c] [e c e c]
+|
+=1' 8 [A E A E] [A F A F]
+=2, 8 [f c f c] [f d f d]
+|
+=1' 8 [A G A G] [A F A F]
+=2, 8 [f e f e] [f d f d]
+/
+4 bars | 24 |
+|
+=1' 8 [A E G E] [F E G E]
+=2, 8 [f c e c] [d c e c]
+|
+=1' 8 [A E A F] [A G A F]
+=2, 8 [f c f d] [f e f d]
+| 1.3
+il0.8 .05 35
+=1' 8 [B F B F] [A F A F]
+=2, 8 [g d g d] [f d f d]
+|
+=1' 8 [G F G F] [A F A F]
+=2, 8 [e d e d] [f d f d]
+/
+5 bars | 24 | 24 | 24 | 24 | 7 ||
+|
+=1' 8 [B F B F] [B G B G]
+=2, 8 [g d g d] [g e g e]
+|
+=1' 8 [B A B A] [B G B G]
+=2, 8 [g f g f] [g e g e]
+|
+=1' 8 [B F A F] [G F A F]
+=2, 8 [g d f d] [e d f d]
+|
+il0.8 .05 40
+=1' 8 [B F B G] [B A B G]
+=2, 8 [g d g e] [g f g e]
+|
+=1 1 E
+=2 1 c
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+d22 1
+d40 1
+d58 1
+d76 1
+d81 1
+d100 1
+d118 1
+d136 1
+d154 1
+@

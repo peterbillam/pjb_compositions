@@ -1,0 +1,160 @@
+#! /usr/bin/perl
+
+my $patch = '0';
+
+my @voice1 = ("=1 bre rest\n");
+my @voice2 = ();
+my @voice3 = ("=3 bre rest\n");
+my @voice4 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	if (/^\|/) { $ibar += 1; next; }
+	chop;
+	if (/^=2/) { $voice2[$ibar] = $_;
+	} elsif (/^=4/) { $voice4[$ibar] = $_;
+	} else { warn "strange DATA line: $_";
+	}
+}
+foreach (@voice2) {
+	my $s = $_;
+	$s =~ s/^=2/=3/;
+	push @voice3, `echo "$s" | transpose -4 -A`;
+}
+foreach (@voice4) {
+	my $s = $_;
+	$s =~ s/^=4/=1/;
+	push @voice1, `echo "$s" | transpose +20 -A`;
+}
+
+print <<EOT;
+3 systems 15 / 19-25-19-25-19-25-19 /
+title Canon  at ten semitones
+midi channel 1 patch $patch reverb 99 pan 65
+midi channel 2 patch $patch reverb 99 pan 5
+midi channel 3 patch $patch reverb 99 pan 95
+midi channel 4 patch $patch reverb 99 pan 95
+/
+3 bars | 8/4 108 | 108 | 108 |
+| 8.0
+=1  treble 8/4 cha1 leg99 $voice1[0]
+=2  treble 8/4 cha2 leg99 $voice2[0]
+=3  treble 8/4 cha3 leg99 $voice3[0]
+=4  treble 8/4 cha4 leg99 $voice4[0]
+EOT
+
+$ibar = 1; while (1) {
+	if (3 == $ibar) { print "/\n3 bars | 108 | 108 | 108 |\n"; }
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.9 .20 $ibar\n"; }
+
+	my $s1 = $voice3[$ibar-2];
+	my $s2 = $voice3[$ibar-1];
+	my $s3 = $voice3[$ibar];
+	if (! $voice3[$ibar]) { last; }
+	if ($ibar > 186) { last; }
+	print "$voice1[$ibar]\n";
+	print "$voice2[$ibar]\n";
+	print "$voice3[$ibar]\n";
+	print "$voice4[$ibar]\n";
+
+	$ibar += 1;
+}
+exit 0;
+
+__END__
+=2 1 rest rest
+=4 1 rest 2 rest G
+|
+=2 2 rest f 4 e d 2 c
+=4 4 F# E 2 D 4 C B_b 2 A_b(2
+|
+=2 4 Bb Ab 2 Gb(2 8 [Gb)2 Ab B c] 2 c#
+=4 8 [A_b)2 B_b C D] 2 Eb 1 rest
+|
+=2 1 rest 4 c~ bb a g
+=4 4 d c B A Ab Gb F Eb
+|
+=2 4 f# e eb db 2 c(1 8 [c)1 db eb fn]
+# =4 2 B_(2 8 [B_)2 C# D# E] 1 F#
+=4 2 D(2 8 [D)2 Eb F G] 1 Ab
+|
+=2 1 gb 2 gb 4 f eb
+=4 2 Ab 4 G F 2 Eb 4 Db B_
+|
+=2 2 db 4 B A 1 blank
+
+quit
+
+=2 1 rest rest
+=4 1 rest 2 rest G
+|
+=2 2 rest f 4 e d 2 c
+=4 4 F# E 2 D 4 C B_b 2 A_b(2
+|
+=2 4 Bb Ab 2 Gb(2 8 [Gb)2 Ab B c] 2 c#
+=4 8 [A_b)2 B_b C D] 2 Eb 1 rest
+|
+=2 1 rest  4 ab gb 4. f 8 e
+=4 4 Bb Ab 4. G 8 F# 4 E D# C# B_
+|
+=2 4 d c# B A 4 Ab G F Eb
+=4 4 B_b A_ G_ F_ 2 E_(2 8 [E_)2 F_ G_ A_]
+|
+=2 2 D(2 8 [D)2 Eb F G] [Ab, Bb, c, db,] 2 eb
+=4 8 [B_b C D Eb] 2 F rest Ab
+|
+=2 2 rest f# 4 e d# 2 c#
+=4 4 Gb F 2 Eb 4 C# B_ 4 A_ 8 [B_ C#]
+|
+=2 4 B A G 8 [A B] [c d e f] 2 g
+=4 8 [D E F# G] 2 A rest 4 db c
+|
+=2 2 rest 4 b bb 4. ab 8 gb 4 f eb
+=4 4. Bb 8 Ab 4 G F E D# C# B_
+
+quit
+
+|
+=2 2 D(2 8 [D)2 Eb F G] [Ab, Bb, c, db,] 2 eb
+=4 8 [B_b C D Eb] 2 F 1 rest
+|
+=2 1 rest 4 ab gb f e
+=4 4 Bb Ab G F# E D# C# B_
+|
+=2 4 d c# B A Ab G F Eb
+=4 4 B_b A_ G_ F_ 2 E_(2 8 [E_)2 F_ G_ A_]
+|
+=2 2 D(2 8 [D)2 Eb F G] [Ab, Bb, c, db,] 2 eb
+=4 8 [B_b C D Eb] 2 F 1 rest
+
+quit
+
+|
+=2 4 B A 1. G#
+=4 bre A_#)2
+|
+=2 2. rest 4 ab gb f eb db
+=4 4 Bb Ab G F Eb D C B_
+|
+=2 4 c Bb A G(2 1 G)2
+=4 bre A_
+
+quit
+
+=2 1 rest
+=4 1.. rest 4 Bb-P
+|
+=2 2 rest 4 ab-P gb f eb db c
+=4 4 Ab G F Eb D C B_ A_(2
+|
+=2 4 Bb A 1. G
+=4 bre A_)2
+|
+=2 2. rest 4 ab gb f eb db
+=4 4 Bb Ab G F Eb D C B_
+|
+=2 4 c Bb A G(2 1 G)2
+=4 bre A_

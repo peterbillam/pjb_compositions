@@ -1,0 +1,81 @@
+4 systems /17-20-17-20-17-20-17/
+title Double canon  at four semitones
+midi channel 1 patch 0 pan 95
+midi channel 2 patch 0 pan 65
+midi channel 3 patch 0 pan 35
+midi channel 4 patch 0 pan 5
+/
+5 bars | 12 | 48 |
+| 0.35
+i0.6 .05 about 86 minims/minute
+=1 treble cha1 4 rest
+=2 treble cha2 8 vol80 [A_b A_b]
+=3 bass   cha3 8 vol80 [f f]
+=4 bass   cha4 4 rest
+| 1.4
+=1 1 rest
+=2 8 [A_b A_b A_b A_b] [A_b A_b A_b A_b]
+=3 8 [f f f f] [f f f f]
+=4 1 rest
+|
+=1 2. rest vol80 8 [C C]
+=2 8 [A_b A_b A_b A_b] [A_b A_b] vol105 4 E-.
+=3 8 [f f f f] [f f] vol105 4 F#-.
+=4 2. rest vol80 8 [a a]
+|
+=1 8 [C C C C] [C C C C]
+=2 4 G#-. F#-. B-. A-.
+=3 4 c-. A-. e-. d#-.
+=4 8 [a a a a] [a a a a]
+|
+=1 8 [C C C C] [C C] vol105 4 Ab-.
+=2 4 c 8. [B' 16 A] 4 G vol80 8 [E E]
+=3 4 g 8. [f# 16 e] 4 d# vol80 8 [c~# c~#]
+=4 8 [a a a a] [a a] vol105 4 Bb-.
+/
+4 bars | 48 | 48 |
+|
+=1 4 c-. Bb-. eb-. c#-.
+=2 vol80 8 [E E E E] [E E E E] 
+=3 vol80 8 [c~# c~# c~# c~#] [c~# c~# c~# c~#]
+=4 4 e-. c#-. ab-. g-.
+|
+=1 4 e 8. [d# 16 c#] 4 B vol80 8 [G# G#]
+=2 8 [E E E E] vol105 4 g 8. [f# 16 e]
+=3 8 [c~# c~# c~# c~#] vol105 4 D 8. [C# 16 B_]
+=4 4 b 8. [bb 16 ab] 4 g vol80 8 [f~ f~]
+|
+=1 8 [G# G# G# G#] [G# G# G# G#]
+=2 1 d
+=3 1 A_#
+=4 8 [f~ f~ f~ f~] [f~ f~ f~ f~]
+|
+=1 8 [G# G# G# G#] vol105 4 b 8. [a# 16 g#]
+=2 vol80 8 D 4 rest 8 D rest [D D] rest
+=3 vol80 8 b 4 rest 8 b rest [b b] rest
+=4 8 [f~ f~ f~ f~] vol105 4 Gb 8. [F 16 Eb]
+|
+=1 1 f#
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=3 8 rest [b b] rest 8 b 4 rest 8 b
+=4 1 D
+|
+=1 vol80 8 F# 4 rest 8 F# rest [F# F#] rest
+=2 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=3 8 rest [g# g#] rest 8 a 4 rest 8 a
+=4 vol80 8 d~# 4 rest 8 d~# rest [d~# d~#] rest
+|
+=1 8 rest [F# F#] rest 8 F# 4 rest 8 F#
+=2 8 Db 4 rest 8 Db 8 rest [C C] rest
+=3 8 bb 4 rest 8 bb 8 rest a vol100 4 C-.
+=4 8 rest [d~# d~#] rest 8 d~# 4 rest 8 d~#
+|
+=1 8 rest [D# D#] rest 8 E 4 rest 8 E
+=2 4 A-. eb-. c-. g-.
+=3 4 F#-. Eb-. Bb-. A-.
+=4 8 rest [c~ c~] rest 8 c~# 4 rest 8 c~#
+|
+=1 8 F 4 rest 8 F 8 rest [E E] rest
+=2 4 f-. ab vol80 8 c# 4 rest 8 c#
+=3 4 a-. rest 8 bb 4 rest 8 bb
+=4 8 d~ 4 rest 8 d~ 8 rest [c~# c~#] rest

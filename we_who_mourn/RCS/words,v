@@ -1,0 +1,665 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2013.07.12.10.52.58;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2012.08.23.02.50.13;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2012.04.23.10.31.43;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2006.12.11.06.59.34;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@evolving text of the words
+@
+
+
+1.4
+log
+@tighten V and VI
+@
+text
+@1 Grief
+ I    1a The life of the world
+ II   1b Human culture
+ III  1c The only known, lonely by light years
+2 Anger
+ IV   2a We knew
+ V    2b The snarling believers
+ VI   2c We pretended not to know
+3 Nostalgia
+ IIIX 3a Maybe some survivor
+ IIX  3b Maybe some other planet
+ IX   3c Maybe nowhere, ever again
+
+1 Mourning    - The grandeur of what we lost  - 6v, 9v, 3v
+2 Anger       - We killed it knowingly pretending not to know  - 5v?
+3 Wistfulness - Maybe out there somewhere ?   - 4v? 3v?
+
+Or five pieces, 8, 5, 3, 2, and 1 voices ?
+
+
+--------------------------- 1a ----------------------
+All the life of the world                    earth
+A billion years of birth and breath
+And love, and food, and fear and death
+Of leaf and tooth                            birth
+
+All the life of all the years of the world
+Is dying here before our eyes
+Dies before our eyes
+
+world hurled furled pearled swirled twirled
+
+We who mourn
+Who mourn the long ages
+Mourn the young born
+
+We who mourn the seas,
+Who mourn the last heart, the last head, the last wing,
+Mourn the last trees
+
+O we who mourn
+We mourn our lonely world,
+We mourn the long ages,
+We mourn the new born
+
+We mourn the seas
+We mourn the trees
+We mourn the blood, the leaves,
+We mourn the last heart, leaf or wing
+
+
+Every harvest, every home
+Every tenon, every
+Every      , every poem
+
+---------------------------- II -----------------------
+II - Human culture
+bow and string
+cloth and skin
+dance and poem
+song
+book boat
+trade craft art
+thought idea
+word number phrase
+house loom
+page tenon
+learned word
+learned thought (nb but this is not transmitted...)
+harvest
+
+---------------------------- III --------------------------
+drifting apart on an ocean of time and space
+suddenly tumbling over the edge of the world
+with only the echo of a scream
+
+The only known,
+lonely by light years
+
+we who mourn mourn alone
+
+We mourn the empty light years,
+We cry the light years we are away
+From our neighbour star
+
+We cry across the empty light years
+around our lonely world
+We mourn not long, but deep,
+For we will die barren, on barren land;
+We too will soon be gone
+
+We who mourn mourn alone,
+Lonely by light years
+The only life known.
+We will not mourn long,
+We mourn deep
+We will soon be gone.
+
+
+----------------- V -----------------
+O why or who will die we leave to you
+who fly, who flew, bomb to target dry of eye
+We who grieve,
+All who mourn,
+We who grieve will not grieve long
+
+For we who grieve who gather here in song
+Our every tear is target for a bomb
+
+Here there is work for the warlords of the world
+The preachers and drovers
+The bombers and bulldozers
+The dealers and gun-runners
+
+While they who rejoice exult
+They bombed the millions and thought it good
+
+
+When the last bulldozer runs out of oil
+as it grinds the last bone to sand in the land of anger
+
+Then the last of the flock wanders lost
+
+                     between
+AK47 and M16
+
+sneering eyes
+snarling believers
+dribbling bigots
+
+Faith in falsehood
+Belief in delusion
+
+Then the last of the snarling believers has run out of bullets,
+or water, or blood
+
+And we who grieve will gather here to mourn
+All those who saw that evil dawn
+And were no longer here by evening
+We mourn the young
+We mourn for man and woman joined
+
+When the only positive emotion is nostalgia
+Just dance, play and sing; don't think about those things.
+
+The snarling believer who wrought all the slaughter exult in their bunkers
+
+While we remain to mourn,
+maybe not long, but deep,
+
+--------------- VI ----------------------
+
+The earth is no longer young
+an old lady
+skinned and left out in the sun
+
+
+----------------- IIIX -----------------------
+For we too will die barren, on barren land,
+We the last in the universe,
+We too will soon be gone
+We bemoan the gloom of this sad goodbye
+
+Born under sun and star
+
+
+
+
+====================== Final Versions =========================
+
+---------- I ------------ 90 cro/min
+We who mourn
+We gather here in song
+We gather here to mourn
+All the life of the world, all the flesh and wood of earth
+A billion years of sun and breath,
+And love and food, and fear and death,
+All the life of the ages, every dawn and every birth
+We gather here to mourn
+
+---------- II ------------ 112 cro/min
+We grieve to lose what we achieved.
+We grieve for love of word and number, pen and poem;
+We sing of bow and string, cloth and home,
+We sing for love of book and dance and poet,
+Of every rope, every tenon, every boat;
+For what we made and sang and thought and built and wrote.
+Before the rain and tide
+Wash these pages from our empty rooms and feed them to the ocean,
+We gather here to grieve.
+
+---------- III ------------ 72 cro/min
+Lonely in the light years around our only world,
+The only known;
+Cold far light years that bear no song of ours.
+We who mourn alone mourn deep.
+We who mourn will not mourn long;
+We too will soon be gone.
+
+---------- III ------------ 72 cro/min
+The long light years
+round our only world,
+cold and far,
+they bear no song.
+
+We mourn alone,
+mourn our lonely world,
+mourn deep,
+will soon be gone.
+
+We will not mourn long;
+the long light years
+will bear no song.
+
+======================================================
+2 Anger - We killed it knowingly, pretending not to know  (five voices)
+
+------------- IV ---------------
+(solo voice, 3 voices in 2-note phrases upbeat->downbeat, 5/4 an 4/4
+
+And we knew,
+ we knew,
+for generations we knew,
+ but what use ?
+Some leather-lunged adventurer,
+ fist on steering wheel;
+ he held the levers,
+He didn't listen to the shouting from the back seat.
+We could see;
+ everyone could see;
+We knew.
+We saw it coming, he kept on driving, it came.
+
+#How clever !
+#We wove the rope and tied the noose.
+#How hard we worked
+# to build the cars that killed us,
+#We brewed that poison
+# and all the time we knew it was for us !
+#How clever !
+
+We worked so hard,
+ we wove the rope,
+ we brewed the poison,
+ and all the time we knew it was for us !
+
+----------------- V ------------------ (five voices)
+(solo voice, 3 voices in 2-note phrases upbeat->downbeat, 4/4 an 3/4
+
+Here is the work of warlords,
+dealers and preachers,
+believers and gun-runners,
+who wrought this slaughter.   # from their bunkers.
+Who will die, we leave to you,
+who flew, who fly, bomb to victim dry of eye.
+
+With the final fighter out of bullets, water or blood,
+when the last of the flock wanders lost,
+when the bulldozer grinding bones to sand runs out of oil,
+
+then we will gather here to mourn
+all those who saw that evil dawn
+and were no longer here by evening.
+# We mourn man and woman joined;
+# mourn their young.
+While we remain, we mourn deep; not long.
+
+----------------- VI ------------------ (four voices)
+(solo voice, 3 voices in 2-note phrases upbeat->downbeat, 3/4 an 2/4
+
+ VI   2c We pretended not to know
+
+Who me ? I didn't know !
+They all agree !
+No-one told me...
+
+No-one told me eighty years ago,
+forty nor twenty,
+ten nor five;
+only business as usual.
+# There was no danger, just business as usual.
+
+No-one told me !
+All agree !
+I didn't know,
+not me...
+
+======================================================
+3 Wistfulness - Maybe out there somewhere ?   - 4v? 3v?
+
+---- Nostalgia ------------- IIIX --------------
+ IIIX 3a Maybe some survivor  (three voices ?)
+
+----------------- IIX ------------------
+ IIX  3b Maybe some other planet  (two voices ?)
+
+----------------- IX ------------------
+ IX   3c Maybe nowhere, ever again  (one voice ?)
+
+=====================OLD VERSIONS===================
+
+---  IV first version ---
+
+We knew for generations,
+but what use ?
+The leather-lunged adventurer,
+fist on steering wheel,
+held the levers,
+didn't listen to the shouting from the back seat.
+We could see;
+everyone could see.
+We knew.
+We saw it coming, we kept on driving, and it came.
+
+How hard we work ! how clever !    # VI ?
+We wove the rope and tied the noose.
+How hard we work ! how clever !
+We built the cars that killed us,
+we brewed the poison;
+and all the time we knew
+it was for us.
+
+--- V first version ---
+
+We sing, and every note is target for a bomb.
+
+Here is work for the warlords,
+the preachers and dealers,
+and bombers and gun-runners.
+Snarling believers
+who wrought this slaughter
+exult in their bunkers.
+Who will die, we leave to you,
+you who flew, who fly, bomb to target dry of eye;
+
+When the final believer has run out of bullets, or water, or blood,
+and the last of their flock wanders lost,
+when the bulldozer grinding the bones to sand
+runs out of oil,
+
+Then we will gather here to mourn
+all those who saw that evil dawn
+and were no longer here by evening.
+We mourn for man and woman joined;
+we mourn their young.
+
+While we remain, we mourn,
+not long, but deep.
+
+@
+
+
+1.3
+log
+@much adjustment, more compact, numbers of voices
+@
+text
+@d219 1
+d221 8
+a228 6
+We knew for generations,
+but what use ?
+A leather-lunged adventurer,
+fist on steering wheel,
+held the levers,
+didn't listen to the shouting from the back seat.
+d230 1
+a230 1
+everyone could see.
+d232 1
+a232 1
+We saw it coming, he kept on driving, and it came.
+d234 12
+a245 7
+How clever !
+We wove the rope and tied the noose.
+How hard we worked !
+We built the cars that killed us.
+We brewed the poison,
+yet all the time we knew it was for us.
+Clever ...
+d248 1
+d252 4
+a255 6
+bombers and gun-runners,
+snarling believers
+who wrought this slaughter
+from their bunkers.
+Who will die, we must leave to you,
+to you who flew, who fly, bomb to victim dry of eye.
+d257 1
+a257 1
+When the final believer is out of bullets, or water, or blood,
+d259 1
+a259 2
+when the bulldozer grinding the bones to sand
+runs out of oil,
+d264 3
+a266 4
+We mourn man and woman joined;
+mourn their young.
+While we remain, we mourn deep;
+but not long.
+d269 2
+d278 4
+a281 3
+nor forty,
+nor twenty,
+nor ten, nor five;
+d283 2
+a284 4
+There was no danger, just business as usual.
+
+Nobody told me !
+They all agree !
+a287 1
+
+d349 1
+@
+
+
+1.2
+log
+@plausible V and VI ?
+@
+text
+@d216 1
+a216 1
+2 Anger       - We killed it knowingly pretending not to know  - 5v?
+d219 82
+a300 4
+We knew for generations
+Knowledge was useless
+We've known for decades
+We did it anyway
+d310 1
+a310 1
+How hard we work ! how clever !
+d314 1
+a314 1
+we flew the planes and brewed the poison;
+d318 1
+a318 1
+----------------- V ------------------
+d320 1
+a320 2
+We gather here in song,
+our every tear is target for a bomb.
+d325 1
+a325 1
+The snarling believers
+d328 2
+a329 2
+Who will die, we leave to you, who flew,
+who fly, bomb to target dry of eye;
+d331 3
+a333 2
+When the last believer has run out of bullets, or water, or blood,
+when the last bulldozer grinding bones to sand in the land of anger
+a334 1
+and the last of their flock wanders lost,
+d342 2
+a343 14
+While we remain,
+and mourn not long,
+but deep.
+
+----------------- VI ------------------
+ VI   2c We pretended not to know
+
+---- Nostalgia ------------- IIIX --------------
+3 Wistfulness - Maybe out there somewhere ?   - 4v? 3v?
+ IIIX 3a Maybe some survivor
+----------------- IIX ------------------
+ IIX  3b Maybe some other planet
+----------------- IX ------------------
+ IX   3c Maybe nowhere, ever again
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@a0 20
+Here there is work for the warlords of the world
+The preachers and drovers
+The bombers and bulldozers
+The drug-dealers, gun-runners
+
+When the last bulldozer runs out of oil
+as it grinds the last bone to sand in the land of anger
+
+Then the last of the flock wanders lost
+
+                     between
+AK47 and M16
+
+sneering eyes
+snarling believers
+dribbling bigots
+
+Then the last of the snarling believers has run out of bullets,
+or water, or blood
+
+d2 3
+a4 3
+ 1a The life of the world
+ 1b Human culture
+ 1c The only known, lonely by light years
+d6 3
+a8 3
+ 2a We knew
+ 2b The snarling believers
+ 2c We pretended not to know
+d10 10
+a19 7
+ 3a Maybe some survivor
+ 3b Maybe some other planet
+ 3c Maybe nowhere, ever again
+
+1 Mourning    - The grandeur of what we lost  - 6v?
+2 Anger       - We killed it knowingly pretending not to know  - 4v?
+3 Wistfulness - Maybe out there somewhere ?   - 3v ?
+d21 1
+d33 22
+a54 2
+Faith in falsehood
+Belief in delusion
+d56 15
+a70 3
+The earth is no longer young
+an old lady
+skinned and left out in the sun
+d72 1
+d77 22
+a98 1
+Or five pieces, 8, 5, 3, 2, and 1 voices ?
+d100 1
+a100 1
+2:
+d107 29
+a135 2
+We who grieve who gather here in song
+Know every tear is target for a bomb
+d146 1
+a146 4
+O we who mourn
+We mourn our lonely world,
+We mourn the long ages,
+We mourn the new born
+d148 2
+a149 4
+We mourn the seas
+We mourn the trees
+We mourn the blood, the leaves,
+We mourn the last heart, leaf or wing
+d151 1
+a151 3
+We mourn the empty light years,
+We cry the light years we are away
+From our neighbour star
+d153 3
+a155 1
+The snarling believer who wrought all the slaughter exult in their bunkers
+a156 2
+While we remain to mourn,
+maybe not long, but deep,
+d158 1
+a158 1
+vv_vv_vv_
+d164 1
+a164 1
+Born under sun and start
+a165 2
+While they who rejoice exult
+They bombed the millions and thought it good
+a166 4
+1a
+We who mourn
+Who mourn the long ages
+Mourn the young born
+a167 3
+We who mourn the seas,
+Who mourn the last heart, the last head, the last wing,
+Mourn the last trees
+d169 1
+a169 6
+1c
+We cry across the empty light years
+around our lonely world
+We mourn not long, but deep,
+For we will die barren, on barren land;
+We too will soon be gone
+d171 1
+a171 20
+1b - Human culture
+bow and string
+cloth and skin
+dance and poem
+song
+book boat
+trade craft art
+thought idea
+word number phrase
+house loom
+page tenon
+learned word
+learned thought (nb but this is not transmitted...)
+harvest
+
+Every harvest, every home
+Every tenon, every
+Every      , every poem
+
+---------- 1a ------------
+d181 1
+a181 1
+---------- 1b ------------
+d192 87
+a278 3
+---------- 1c ------------
+The only known,
+lonely by light years
+@

@@ -1,0 +1,313 @@
+6 systems /19-25-19/ 19-25-19  /19-25-19/ 19-25-19 /19-25-19/ 19-25-19 /
+pagenum
+title 18. Lines
+innerhead Twenty Studies
+leftfoot (c) 2013 Peter J Billam
+
+midi channel 0 patch 0
+/
+3 bar | 24 | 24 | 24 |
+| 3.0
+=1 treble cha0 vol100 2. blank 4 F# A# d c~ b
+I0.5 .01 pp .76 mf
+i0.6 .25 cresc . .
+=2 bass   cha0 vol60 4 A_-P g b blank 1 blank
+|
+=1 4 bb vol80 C A_b blank 1 blank
+i0.2 .05 dim . .
+I0.4 .76 pp
+=2' 2 blank 4 blank-P 4 db A F G_ G_#
+|
+=1 2. blank 4 F# A# vol100 d c~ bb
+i0.6 .02 simile . .
+=2 4 A_-P g b blank 1 blank
+/
+4 bars | 24 | 24 | 24 | 10 5 5 4 |
+|
+=1 4 ab vol80 B_b G_b blank 1 blank
+=2 2 blank 4 blank-P 4 B G Eb F_ F_#
+|
+il0.3 .10 5
+=1 2. blank 4 E G# vol100 c bb a
+=2 4 G_-P f a blank 1 blank
+|
+=1 4 ab vol80 B_b G_b blank 1 blank
+=2 2 blank 4 blank-P 4 B G Eb F_ G_
+| 1.7
+=1 vol125 cc64=0 16 [A rest, rest, A_(2] 2. A_)2 bass
+I0.4 .01 ff
+=2 cha0 vol125 16 rest-,-* [A_ A] rest 2. rest
+/
+2 bars | 96 | 96 |
+|
+i0.2 .04 agitato
+=1 vol110 8 rest 16 [Eb D] [Eb D] 8 rest 16 [Eb D] 8 rest rest 16 [Eb D]
+I0.5 .01 f
+=2 vol110 16 [C# D] 8 rest rest 16 [C# D] 8 rest 16 [C# D] [C# D] 8 rest
+|
+=1 vol110 16 [Eb D] 8 rest rest 16 [Eb D] 8 rest 16 [Eb D] [Eb D] 8 rest
+=2 vol110 8 rest 16 [C# D] [C# D] 8 rest 16 [C# D] 8 rest rest 16 [C# D]
+/
+2 bars | 96 | 96 |
+|
+il0.3 .03 10
+=1, vol100 16 [c d eb d] 8 rest 16 [d g] 8 rest 16 [en f# d] 8 rest 16 g
+=2' vol100 4 rest 16 [A_ A] 8 rest 16 [D d] 8. rest 16 [C# c#] rest
+|
+=1, 16 [d c# d eb  d] 8 rest 16 [d  eb d] 8 rest 16 [d g d c#]
+=2' 8 rest 8. rest 16 [A_ A] 8. rest 16 [B_b Bb] 4 rest
+/
+2 bars | 96 | 96 |
+|
+=1, 16 [eb en g] rest [e a] rest [e  f# g g# a]  rest [f# gn a]
+=2' 8. rest 16 C  8 rest 16 c 8 rest 8. rest 16 Bb 8. rest
+|
+=1, 16 c~ rest [e f# a] 8 rest 16 [e a] 8 rest 16 [e g f#] 8 rest
+=2' 16 rest c 8. rest 16 [D# c#] 8 rest 16 [E d] 8. rest 16 [F F#]
+/
+2 bars | 96 | 96 |
+|
+=1, 16 rest [f f# g g#] 8 rest 16 [g# a bb bn c~] rest gn rest ab
+=2' 16 d# 4 rest 16 [G e] 8 rest 8. rest 16 A rest A# rest
+|
+il0.6 .26 15
+=1, 8 rest 8. bb 8 rest 16 [a c~ e~b] 8 rest 16 [bb c~ e~b] blank treble
+=2 16 [B, g] 8. rest 16 [Bb, ab] 8. rest 16 [g' A] 8. rest 16 g
+
+6 systems / 19-25-19/
+pagenum
+innerhead 18. Lines
+leftfoot (c) 2013 Peter J Billam
+/
+2 bars | 96 | 96 |
+|
+=1 16 rest [C G Eb C] rest 8 [Eb 16 C] rest 4 <Eb G A_> 8 A bass
+=2 16 a 4 rest 16 g  8. rest 16 g 4. rest
+|
+=1, vol100 16 [c d eb d] 8 rest 16 [d g] 8 rest 16 [en f# d] 8 rest 16 g
+=2' vol100 4 rest 16 [A_ A] 8 rest 16 [D d] 8. rest 16 [C# c#] rest
+/
+2 bars | 96 | 96 |
+|
+=1, 16 [d c# d eb  d] 8 rest 16 [d  eb d] 8 rest 16 [d g d c#]
+=2' 8 rest 8. rest 16 [A_ A] 8. rest 16 [B_b Bb] 4 rest
+|
+=1, 16 [eb en g] rest [e a] rest [e  f# g g# a]  rest [f# gn a]
+=2' 8. rest 16 C  8 rest 16 c 8 rest 8. rest 16 Bb 8. rest
+/
+2 bars | 96 | 96 |
+|
+il0.6 .10 20
+=1, 16 c~ rest [e f# a] 8 rest 16 [e a] 8 rest 16 [e g f#] 8 rest
+=2' 16 rest c 8. rest 16 [D# c#] 8 rest 16 [E d] 8. rest 16 [F F#]
+|
+=1, 16 rest [f f# g g#] 8 rest 16 [g# a bb bn c~] rest gn rest ab
+=2' 16 d# 4 rest 16 [G e] 8 rest 8. rest 16 A rest A# rest
+/
+2 bars | 96 | 96 |
+|
+=1, 8 rest 8. bb 8 rest 16 [a c~ e~b] 8 rest 16 [bb c~ e~b] blank treble
+=2, 16 [B g] 8. rest 16 [c g#] 8. rest 16 [gn c#]  8. rest 16 g
+|
+=1 16 rest [C G Eb C] rest 8 [Eb 16 C] rest 4 <Eb G A_> 8 A
+=2 16 a 4 rest 16 g  8. rest 16 g 4. rest
+/
+1 bars | 37/16 \
+  4 4 5 5 4 4 4 5 4 4 5 4 4 5 4 4 5 4 4 4 4 5 4 4 5 4 4 5 4 4 4 5 5 4 4 5 4 |
+| 4.111
+=1' treble 37/16 leg95 vol95  8 [Bb 16 E D# C#] 4 rest 16 [Ab E D#] 8. rest  16 [Gb E D#] 4 rest 16 rest [Ab E D#] 8. rest 8 [Bb 16 E D# C#] 8. rest
+I0.4 .01 mf
+=2, bass 37/16 leg95 vol95  4 rest 16 rest 8 [bb 16 c~ d~b] 8. rest 16 [ab c~ d~b]  8. rest 8 [gb 16 c~ d~ e~b] 8. rest 16 [ab c~ d~b] 4 rest 16 rest [bb c~ d~b]
+/
+1 bars | 4 4 5 5 4 4 4 5 4 4 5 4 4 5 4 4 5 4 4 4 4 5 4 4 4 5 4 5 4 4 4 5 5 4 4 5 3 |
+|
+il0.6 .16 25
+=1' 8 [An 16 E D# C#] 4 rest 16 [A E D#] 8. rest  16 [A E D#] 4 rest 16 rest [G E D#] 8. rest 8 [G 16 E D# C#] 8. rest
+=2, 4 rest 16 rest 8 [an 16 c~ d~b] 8. rest 16 [a c~ d~b]  8. rest 8 [g 16 c~ d~ e~b] 8. rest 16 [g c~ d~b] 4 rest 16 rest [g c~ d~b]
+
+6 systems / 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19 12/
+pagenum
+innerhead 18. Lines
+leftfoot (c) 2013 Peter J Billam
+/
+1 bars | \
+4 4 5 5 4  4 4 5 4  4 5 4  4 5 4  4 5 4 \
+ 4 4 4 5 5  4 5 4  4 5 4  4 4 5 5 4  4 5 4 |
+|
+=1' 8 [Gb 16 E D# C#] 4 rest 16 [Ab E D#] 8. rest  16 [Bb E D#] 4 rest 16 rest [Ab E D#] 8. rest 8 [Gb 16 E D# C#] 8. rest
+=2, 4 rest 16 rest 8 [gb 16 c~ d~b] 8. rest 16 [ab c~ d~b]  8. rest 8 [bb 16 c~ d~ e~b] 8. rest 16 [ab c~ d~b] 4 rest 16 rest [gb c~ d~b]
+/
+1 bars | \
+ 4 4 5 5 4 4 4 5 4 4 5 4 4 5 4 4 5 4 4 4 4 5 4 4 5 4 4 5 4 4 4 5 5 4 4 5 4|
+|
+=1' 8 [Gn 16 E D# C#] 4 rest 16 [G E D#] 8. rest  16 [G E D#] 4 rest 16 rest [A E D#] 8. rest 8 [A 16 E D# C#] 8. rest
+=2, 4 rest 16 rest 8 [gn 16 c~ d~b] 8. rest 16 [g c~ d~b]  8. rest 8 [a 16 c~ d~ e~b] 8. rest 16 [a c~ d~b] 4 rest 16 rest [a c~ d~b]
+/
+2 bars | 96 | 96 |
+| 1.77
+=1 treble 4/4 8 [a~ 16 a a~] 16 rest [a~ a a~] 16 rest [a~ a a~] 16 rest [a~ a a~]
+I0.5 .03 f
+=2 bass  4/4 vol125 4 rest treble 16 A 8. rest 16 A_ 8. rest 16 A 8. rest bass
+|
+=1 16 rest [a~ a a~] 16 rest [a~ a a~] 16 rest [a~ a a~] 16 rest [a~ a a~]
+=2 16 A 8. rest  treble 16 A 8. rest 16 A_ 8. rest 16 A 8. rest bass
+/
+2 bars | 96 | 96 |
+|
+il0.6 .06 30
+=1' bass vol110 leg90 4 rest 16 [B c d eb] 4 rest 16 [eb d c B]
+=2 bass  vol110 leg90 16 [A Ab Gb F] 4 rest 16 [F F# G# An] 4 rest
+|
+=1' 4 rest 16 [eb d c B] 4 rest 16 [B c d eb]
+=2  16 [F F# G# A] 4 rest 16 [A Ab Gb Fn] 4 rest
+/
+2 bars | 96 | 96 |
+|
+=1, 4 rest 16 [gb f eb d] 4 rest 16 [d eb f gb]
+=2 16 [G# A B c] 4 rest 16 [c B A G#] 4 rest
+|
+=1, 4 rest 16 [f f# g# a] 4 rest 16 [c~ b a g#]
+=2 16 [eb' d' c B] 4 rest 16 [d eb f gb] 4 rest
+/
+2 bars | 96 | 96 |
+|
+=1 vol110 8 rest 16 [A G#-.] [A G#-.] 8 rest  16 [A G#-.] 8 rest rest 16 [A G#-.]
+=2 vol110 16 [G_# A_-.] 8 rest rest 16 [G_# A_-.]  8 rest 16 [G_# A_-.] [G_# A_-.] 8 rest
+|
+il0.6 .16 35
+=1 16 [A G#-.] 8 rest rest 16 [A G#-.]  8 rest 16 [A G#-.] [A Bb-.] 8 rest
+=2 8 rest 16 [A_ B_b-.] [A_ B_b-.] 8 rest  16 [A_ B_b-.] 8 rest rest 16 [A_ B_b-.]
+
+6 systems / 19-25-19/
+pagenum
+innerhead 18. Lines
+leftfoot (c) 2013 Peter J Billam
+/
+1 bars | 37/16 6 5 7 7 6  6 5 7 6  7 7 6  6 7 6  7 7 6 \
+ 6 5 7 7 6  7 7 6  6 7 6  6 5 7 7 6  6 7 5 |
+| 4.111
+=1' bass  37/16 leg95 vol95 4 rest 16 rest 8 [B 16 A G#] 8. rest 16 [c# A G#]  8. rest 8 [eb 16 A G# F#] 8. rest 16 [c# A G#] 4 rest 16 rest [B A G#]
+I0.4 .01 mf
+=2' 37/16 leg95 vol95 8 [B_ 16 F F# G#] 4 rest 16 [C# Fn F#] 8. rest  16 [Eb Fn F#] 4 rest 16 rest [C# Fn F#] 8. rest 8 [B_ 16 Fn F# G#] 8. rest
+/
+1 bars | 6 5 7 7 6  6 5 7 6  7 7 6  6 7 6  7 7 6  \
+ 6 5 7 7 6  7 7 6  6 7 6  6 5 7 7 6  6 7 5 |
+|
+=1' 4 rest 16 rest 8 [c 16 A G#] 8. rest 16 [c A G#]  8. rest 8 [d 16 A G# F#] 8. rest 16 [d A G#] 4 rest 16 rest [d A G#]
+=2' 8 [C 16 F F# G#] 4 rest 16 [C Fn F#] 8. rest  16 [C Fn F#] 4 rest 16 rest [D Fn F#] 8. rest 8 [D 16 Fn F# G#] 8. rest
+/
+1 bars | 6 5 7 7 7  6 5 7 6  7 7 6  6 7 6 \
+  7 7 6  6 5 7 7 6  7 7 6  6 7 6  6 5 7 7 6 6 7 5 |
+|
+=1' 4 rest 16 rest 8 [eb 16 A G#] 8. rest 16 [c# A G#]  8. rest 8 [B 16 A G# F#] 8. rest 16 [c# A G#] 4 rest 16 rest [eb A G#]
+=2' 8 [Eb 16 F F# G#] 4 rest 16 [C# Fn F#] 8. rest  16 [B_ Fn F#] 4 rest 16 rest [C# Fn F#] 8. rest 8 [Eb 16 Fn F# G#] 8. rest
+/
+1 bars | 6 5 7 6 6 6 5 7 6 6 7 6 6 7 6 6 7 6 6 5 7 7 6 6 7 6 6 7 6 6 5 6 7 6 6 7 10 |
+|
+=1' 4 rest 16 rest 8 [e 16 c# cn] 8. rest 16 [f# c# cn]  8. rest 8 [g 16 e d# c#] 8. rest 16 [a e d#] 4 rest 16 rest [bb e d#] treble
+=2' 8 [E 16 A Bb c] 4 rest 16 [F# A Bb] 8. rest  16 [G c db] 4 rest 16 rest [A c db] 8. rest 8 [Bb 16 d# e f#] 8. rest
+/
+2 bars | 96 | 96 |
+| 1.77
+il0.6 .16 40
+=1 treble 1 blank
+=1 16 Eb 8. rest 16 E_b 8. rest 16 Eb 8. rest 16 E_b 8. rest
+=2' leg70 16 rest [E_b Eb E_b] rest [E_b Eb E_b] rest [E_b Eb E_b] rest [E_b Eb E_b]
+| 1.77
+=1 16 eb 8. rest 16 E_b 8. rest 16 Eb 8. rest 16 E_b 8. rest
+=2' 16 rest [E_b Eb E_b] rest [E_b Eb E_b] rest [E_b Eb E_b] rest [E_b Eb E_b]
+/
+3 bars | 2/4 20 | 4/4 7 6 7 6  7 6 6 6  7.5 6 7 6  6 7 6 4 \
+ | 7 7 5 7  6 7 6 5  7 6 7.5 6  7 6 7 4 |
+| 0.86
+=1 2/4 2 vol125 e~b bass
+I0.6 .02 ff
+=2 2/4 2 rest
+| 1.77
+=1, 4/4 16 vol100 [f# g# a g#] 8 rest 16 [g# c~#] 8 rest  16 [bb c~n g#] 8 rest 16 c~#
+I0.4 .03 f
+=2' 4/4 vol100 4 rest 16 [Eb eb] 8 rest 16 [G# g#] 8. rest  16 [Gn gn] rest
+|
+=1 16 [g# gn g# a g#] 8 rest 16 [g# a g#] 8 rest 16 [g# c~# g# gn]
+=2' 8 rest 8. rest 16 [Eb eb] 8. rest 16 [En en] 4 rest
+
+7 systems / 19-25-19/ 19-25-19/ 19-25-19 \
+ / 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19 10/
+pagenum
+innerhead 18. Lines
+leftfoot (c) 2013 Peter J Billam
+/
+2 bars | 96 | 96 |
+|
+il0.6 .26 45
+=1 16 [a bb c~#] blank treble [B_b' Eb'] rest [B_b' Cn' C#' D' Eb']  rest [Cn' C#' Eb']
+=2 8. rest 16 F# 8 rest 16 f#, 8 rest 8. rest 16 e, 8. rest
+|
+=1 16 F#' rest [B_b' C' Eb'] 8 rest 16 [B_b' Eb']  8 rest 16 [B_b' C#' Cn'] 8 rest
+=2 16 rest f# 8. rest 16 [A g'] 8 rest 16 [Bb, g#] 8. rest 16 [Bn c]
+/
+2 bars | 96 | 96 |
+|
+=1 16 rest [B_' C' C#' D'] 8 rest 16 [D' Eb' En' F' F#'] rest C#' rest D'
+=2 16 a 4 rest 16 [c#, bb,] 8 rest 8. rest 16 eb, rest en, rest
+|
+=1 8 rest 8. E' 8 rest 16 [Eb' F#' A'] 8 rest 16 [Fn' A' B'] rest
+=2 16 [f, c~#,] 8. rest 16 [e, d~] 8. rest 16 [c~#, eb,] 8. rest 16 c~#
+/
+2 bars | 96 | 96 |
+|
+=2 16 d~# 4 rest 16 c~#, 8. rest 16 c~#, 4. rest
+=1 16 rest [F#' c#' A' F#'] rest 8 [A' 16 F#'] rest  4 leg100 <D# A c#'> 8 leg70 d# bass
+|
+il0.6 .29 50
+=1, 16 vol100 [f# g# a g#] 8 rest 16 [g# c~#] 8 rest  16 [bb c~n g#] 8 rest 16 c~#
+=2' vol100 4 rest 16 [Eb eb] 8 rest 16 [G# g#] 8. rest  16 [Gn gn] rest
+/
+2 bars | 96 | 96 |
+|
+=1 16 [g# gn g# a g#] 8 rest 16 [g# a g#] 8 rest 16 [g# c~# g# gn]
+=2' 8 rest 8. rest 16 [Eb eb] 8. rest 16 [En en] 4 rest
+|
+=1 16 [a bb c~#] blank treble [B_b' Eb'] rest [B_b' Cn' C#' D' Eb']  rest [Cn' C#' Eb']
+=2 8. rest 16 F# 8 rest 16 f#, 8 rest 8. rest 16 e, 8. rest
+/
+2 bars | 96 | 96 |
+|
+=1 16 F#' rest [B_b' C' Eb'] 8 rest 16 [B_b' Eb']  8 rest 16 [B_b' C#' Cn'] 8 rest
+=2 16 rest f# 8. rest 16 [A g'] 8 rest 16 [Bb, g#] 8. rest 16 [Bn c]
+|
+=1 16 rest [B_' C' C#' D'] 8 rest 16 [D' Eb' En' F' F#'] rest C#' rest D'
+=2 16 a 4 rest 16 [c#, bb,] 8 rest 8. rest 16 eb, rest en, rest
+/
+2 bars | 96 | 96 |
+|
+il0.4 .03 55
+=1 8 rest 8. E' 8 rest 16 [Eb' F#' A'] 8 rest 16 [Fn' A' B'] rest
+=2 16 [f, c~#,] 8. rest 16 [f#, d~] 8. rest 16 [c~#, g,] 8. rest 16 c~#
+|
+=2 16 d~# 4 rest 16 c~#, 8. rest 16 c~#, 4. rest
+=1 16 rest [F#' c#' A' F#'] rest 8 [A' 16 F#'] rest  4 leg100 <D# A c#'> 8 leg70 d#
+/
+4 bars | 5 5 5 5 3 2 2 2 3 2 2 2 3 2 2 2 | 64 | 64 | 16 16 16 13 ||
+| 1.7
+=1, vol125 16 [A rest' rest' a(1] 2. a)1
+I0.2    ff
+=2' cha0 vol125 16 rest [A a] rest 2. rest
+| 3.0
+=1  vol100 4 bb vol80 C A_b blank 1 blank
+I0.2 .01 f .78 p
+i0.1 .12 dim . . .
+=2' vol60 2 blank-P 4 blank 4 db A F G_ A_
+|
+=1 2. blank 4 G# vol100 c e d~ c~#
+I0.5 .78 mf
+i0.7 .02 cresc . . .
+=2 4 B_-P a c~# blank 1 blank
+| .75 .80 .88 2.5
+=1 4 c~ c vol80 E blank 1 blank
+I0.8 .70 pp
+i0.2 .02 dim . . .
+=2 4 blank 2 blank-P 4 ab c E 2 A_-fermata
+=2 1 blank 32 blank-*
+midi pause 2.0
+

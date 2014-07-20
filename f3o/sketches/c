@@ -1,0 +1,73 @@
+5 systems /19 25 19 25 19/
+midi channel 0 patch 73 pan 2
+midi channel 1 patch 73 pan 64
+midi channel 2 patch 73 pan 125
+/
+2 bars | 60 | 60 |
+| 1.2
+=1 treble cha0 vol100 32 [f# g# a b vol110 8 c~] rest \
+ vol105 32 [f# g# a b vol115 8 c~] rest
+=2 treble leg45 cha1 vol110 8 rest g rest rest vol115 g# rest
+=3 treble leg45 cha2 vol110 8 rest e rest rest vol115 e rest
+| 1.2
+=1 vol110 32 [f# g# a b vol120 8 c~] rest vol115 32 [f# g# a b vol125 8 c~] rest
+=2 8 rest vol120 a rest rest vol125 bb rest
+=3 8 rest vol120 f# rest rest vol125 f# rest
+#|
+#=1 4 leg40 e~b e~b e~b e~b
+#=2 8 rest leg50 4 eb Eb eb 8 rest
+#|
+#=1 blank
+|
+=1  vol110 leg55 8 c  vol-15 leg50 c  vol-15 leg45 c  vol-20 leg40 Bb
+=2  vol110 leg55 8 Bb vol-15 leg50 Bb vol-15 leg45 Ab vol-20 leg40 Ab
+=3  vol110 leg55 8 Ab vol-15 leg50 Gb vol-15 leg45 Gb vol-20 leg40 Gb
+|
+=1  vol110 leg55 8 c  vol-15 leg50 c  vol-15 leg45 c  vol-20 leg40 B
+=2  vol110 leg55 8 Bb vol-15 leg50 Bb vol-15 leg45 An vol-20 leg40 A
+=3  vol110 leg55 8 Ab vol-15 leg50 G vol-15 leg45 G vol-20 leg40 G
+| 1.8
+=1 vol70 leg60 4.. rest 16 c# c~# rest c~# c#
+=2 vol70 leg60 4.. rest 16 A  a   rest a   A
+=3 vol105 leg100 2. e~b
+|1.2
+=1 vol70 leg60 8. rest 16 c# c~# rest c~# c#
+=2 vol70 leg60 8. rest 16 A  a   rest a   A
+=3 vol105 leg100 2 g~b
+| 1.8
+=1 vol70 leg60 4.. rest 16 c# c~# rest c~# c#
+=2 vol70 leg60 4.. rest 16 A  a   rest a   A
+=3 vol105 leg100 2. f~
+|1.2
+=1 vol70 leg60 8. rest 16 c# c~# rest c~# c#
+=2 vol70 leg60 8. rest 16 A  a   rest a   A
+=3 vol105 leg100 2 g~b
+| 1.8
+=1 vol70 leg60 4.. rest 16 c  c~ rest c~ c
+=2 vol70 leg60 4.. rest 16 Bb bb rest bb Bb
+=3 vol105 leg100 2. e~b
+| 1.2
+=1  vol110 leg55 8 c  vol-15 leg50 c  vol-15 leg45 c  vol-20 leg40 Bb
+=2  vol110 leg55 8 Bb vol-15 leg50 Bb vol-15 leg45 Ab vol-20 leg40 Ab
+=3  vol110 leg55 8 Ab vol-15 leg50 Gb vol-15 leg45 Gb vol-20 leg40 Gb
+|
+=1  vol110 leg55 8 c  vol-15 leg50 c  vol-15 leg45 c  vol-20 leg40 B
+=2  vol110 leg55 8 Bb vol-15 leg50 Bb vol-15 leg45 An vol-20 leg40 A
+=3  vol110 leg55 8 Ab vol-15 leg50 G vol-15 leg45 G vol-20 leg40 G
+|
+=1  vol110 leg55 8 c  vol-15 leg50 db vol-15 leg45 db vol-20 leg40 db
+=2  vol110 leg55 8 A# vol-15 leg50 A# vol-15 leg45 B  vol-20 leg40 B
+=3  vol110 leg55 8 G# vol-15 leg50 G# vol-15 leg45 G# vol-20 leg40 A
+| 1.2
+=1  vol110 leg55 8 c  vol-15 leg50 d  vol-15 leg45 d  vol-20 leg40 d
+=2  vol110 leg55 8 Bb vol-15 leg50 Bb vol-15 leg45 c  vol-20 leg40 c
+=3  vol110 leg55 8 Ab vol-15 leg50 Ab vol-15 leg45 Ab vol-20 leg40 Bb
+midi off
+| 1.2
+=1 vol100 32 [c~ d~ e~b f~ vol110 8 f~#] rest vol105 32 [c~ d~ e~b f~n vol115 8 f~#] rest
+=2 leg45 vol110 8 rest c~# rest rest vol115 d~ rest
+=3 leg45 vol110 8 rest bb rest rest vol115 bb rest
+| 1.2
+=1 vol110 32 [c~ d~ e~b f~ vol120 8 f~#] rest vol115 32 [c~ d~ e~b f~n vol125 8 f~#] rest
+=2 8 rest vol120 e~b rest rest vol125 e~n rest
+=3 8 rest vol120 c~ rest rest vol125 c~ rest

@@ -1,0 +1,185 @@
+6 systems 8 / 19-33-19/ 19-33-19/ 19-35-19/ 19-40-19/ 19-33-19/ 19-45-19/
+# 20120907
+pagenum
+title 7.  Three against One
+innerhead Twenty Studies
+leftfoot (c) 2013 Peter J Billam
+midi channel 0 patch 0 pan 80
+#midi channel 1 bank 5 patch 0 pan 50
+midi channel 1 patch 0 pan 50
+/
+3 bars | 6 6 7 6 6 5 \
+ | 6 6 6 6 5 6 6 6 5 6 7 5 | 6 6 5 6 5 6 6 5 6 8 8 5 |
+| 1.1
+=1 treble cha1 leg99 8 rest [C# D] [D# E F]
+=2 bass   cha1 leg99 4. c~ b
+| 2.2
+=1 4. <F#r Ex> 4 <D# G> 8 <F#(1 Ex(2> 4. <F)1 Ex)2> 8 rest [<D# G> <E G#>]
+=2 4. <bbxrr c~> 4 <a d~b> 8 <bbxr(2 c~(1> 2. <bxr)2 c~)1>
+|
+=1' 4. <F A> 4 <Gbl Bb> 8 <F(2 A(1> \
+ 4. <F)2(2 A)1(1> 8 [<F)2 A)1> <F#l A#> <Gnl Bn>]
+=2 4. <a d~b> 4 <a# c~> 8 <b(2 d~b(1> 4 b)2 bb an
+=2' 2. blank d~)1
+/
+2 bars | 6 5.5 6 6.5 6 6 6 5.5 6.8 6 6 5 | 72 |
+|
+=1' 4. <Ab c> 8 [<G B> <Gbl Bb> <F An>] 4. G# 8 [Gn Gb F]
+=1, 2. blank 4 E 8 C 4. C#l
+=2' 4. bbrl an bb 8 [a ab gn]
+=2, 4 abl 8 e 4. f 4 gbl  8 d 4. d#
+|
+il0.4 .13 5
+=1 4. <C E> 4 <C#l D#lx> 8 <Cn(2 E(1> 8 E)1 rest F [F# G G#]
+=1, 2. blank C)2
+=2' 4. blank 4 blank 8 g#rl(1 8 gr)1 rest' a [a# b c~]
+=2, 4. <e g#> 4 <f a> 8 f#l(2 2. f)2
+/
+3 bars | 6 6 5 6 5 6 6 5 5 7 7 5 \
+ | 6 6 5 6 5 6 7 7 6 7 6 5| 7 6 6 6 7 6 6 5 5 6 5 6 |
+|
+=1' 4. <D# A> 4 <E Bb> 8 <D#(2 A(1> 4. <D)2 A)1> 8 rest [<E Bb> <F Bn>]
+=2, 4. <g d~b> 4 <f# c~> 8 <g(2 d~b(1> 2. <g)2 d~)1>
+|
+=1' 4. <E c> 4 <D# db> 8 <E(2 c(1> 4. <E)2 c)1> 8 [B Bb A]
+=1, 2. blank 4. blank F
+=2, 4. <g# d~> 4 <a c~#> 8 <ab(2 d~(1> [a)2 gn gb] 4. f
+=2' 2. blank d~)1
+|
+=1' 4. <F#l G#xl> <Fnl Gnxl> <E G#> 4 <D# A> 8 <E(2 G#(1>
+=2' 8 [d~ d~b c~] 4. b bb blank
+=2, 4. e 8 [eb d db] 4. c 4 <dbl bn> 8 <dn(2 bb(1>
+/
+2 bars | 72 | 72 |
+|
+=1' 4. <E)2 G#)1> 4 <Ebl Gn> 8 <D(2 F#(1> [F#)1 G F#] [G F# G]
+=1, 2. blank 4. D)2 C#
+=2, 4. <d)2 bb)1> 4 <d# a> 8 <e(2 bb(1> 2. <e)2(2 b)1(1>
+|
+il0.5 .08 10
+=1' 8 [F# G F#] [G F# G] [F# G F#] [G F# G]
+=1, 4 D C# D C#
+=2' 4. bb)1 4. bn(1 2. bn)1
+=2, 1 e)2
+/
+2 bars | 72 | 72 |
+|
+=1 4. <F# Ex> 4 <D# G> 8 <F#(1 Ex(2> 4. <F)1 Ex)2> 8 rest [<D# G> <E G#>]
+=2 4. <bbxr c~> 4 <a d~b> 8 <bbxr(2 c~(1> 2. <bxr)2 c~)1>
+|
+=1' 4. <F A> 4 <Gbl Bb> 8 <F(2 A(1> \
+ 4. <F)2(2 A)1(1> 8 [<F)2 A)1> <F#l A#> <Gnl Bn>]
+=2 4. <a d~b> 4 <a# c~> 8 <b(2 d~b(1> 4 b)2 bb an
+=2' 2. blank d~)1
+/
+2 bars | 72 | 72 |
+|
+=1' 4. <Ab c> 8 [<G B> <Gbl Bb> <F An>] 4. G# Gn
+=1, 2. blank 4 E 8 C [C# D D#]
+=2' 4. bbrl an bb 8 [a bb bn]
+=2, 4 abl 8 e 4. f 4. f#l  gr
+|
+=1  4. <Exr F#> 4 <D# G> 8 <E G#> rest 4 e(1 8 [e)1 eb d]
+=2  4. <ab c~> 4 <anx b> 8 <bbx c~> 4. rest c
+
+6 systems / 19-30-19/ 19-30-19/ 19-30-19 \
+ / 19-31-19/ 19-43-19/ 19-35-19 8/
+pagenum
+innerhead 7.  Three against One
+leftfoot (c) 2013 Peter J Billam
+
+/
+3 bars | 6 6 6 7 6 6 6 6 6 6 7 5 \
+ | 6 6 6 6 6 7 6 6 6 7 6 5 | 6 6 9 8 6 9 6 6 9 6 6 6 |
+|
+il0.7 .03 15
+=1  8 [c# rest' g(1] [g)1 gb f] 4 e 8 c(1 [c')1 G Gb]
+=2  8 rest 4 <b f~x g~> 4. rest 8 rest 4 <abx(2 bbl(3 d~(1> 4. <ax)2 b)3 d~)1>
+|
+=1  4 F 8 db(1 8 [d)1 c B] 4 Bb' 8 E(2 [E)2 Eb D]
+=2  8 rest 4 <g b d~#> 4. rest \
+ 8 rest, 4 <f#xl(4 g#l(2 c~(1> 4. <fx)4 g)2 c~)1>
+|
+=1' 4 C# 8 G 4 G# 8 D 4 Eb 8 A 4 Bb 8 E
+=2 8 rest 4 <f ax b> 8 rest 4. <e f#x c~> \
+ 4 <gx a c~#> 8 rest, 4 <f#xl g#l c~n>
+/
+3 bars | 6 6 5 6 6 5 6 6 7 6 6 5 \
+ | 6 6 5 6 6 7 6 6 5 6 8 5 | 6 5 5 6 6 7 6 5 5 6 8 5 |
+|
+=1 4. e e~ 4. E F
+=2 8 rest 4 e-P 8 rest 4 E 8 rest [e~b-* d~] [d~b c~ b]
+|
+# hmm... too many times this motiv ?
+=1 4. <F# Ex> 4 <D# G> 8 <F#(1 Ex(2> 4. <F)1 Ex)2> 8 rest [<D# G> <E G#>]
+=2 4. <bbxr c~> 4 <a d~b> 8 <bbxr(2 c~(1> 2. <bxr)2 c~)1>
+|
+il0.7 .10 20
+=1 4. <F A> 4 <F#l A#> 8 <G(2 B'(1> 4. <G)2 B')1> 8 rest [c c#]
+=2 4. <br c~#x> 4 <bb d~> 8 <a'(2 c~#'(1> 2. <a')2 c~')1>
+=2, 2. blank 4. rest, eb
+/
+2 bars | 72 | 72 |
+|
+=1  8 [d' rest G#(2] [G)2 A A#] 4 B 8 d#(1 [d)1 e f]
+=2 8 rest 4 <gbl bbxl c~> 4. rest  8 rest 4 <f(2 a(4 c~#(1> 4. <f)2 a)4 c~#)1>
+|
+=1 8 [f# rest' c] 4 c# 8 g [ab rest' d] 4 eb 8 g
+=2 8 rest 4 <e a# d~> 8 rest' 4. <f b e~b> 4 <gbl c~x d~> 8 rest 4 <f b c~#x>
+
+/
+2 bars | 72 | 72 |
+|
+=1' 2. blank 4. blank 8 [gn gb f]
+=1, 4. <d g#> 4 <db a> 8 <c(2 g#(1> 4. <c)2 g)1> B
+=2' 4. c~ 4 b 8 bb(1 4. b)1 a
+=2, 4. e 4 f 8 e(2 [e)2 eb d] 4. db
+|
+=1' 4. e 8 [eb d db] 4. c 8 [B Bb A]
+=1, 4. Bb A 8 [Ab G Gb] 4. F
+=2' 4. ab g 8 [f# g g#] 4. a
+=2, 8 [c B Bb] 4. A 4. A# 8 [Bn c c#]
+/
+2 bars | 72 | 72 |
+|
+il0.6 .10 25
+=1' 4. <E Ab> 4 <Eb G> 8 <D(2 F#(1> [F)1 G F#] [G F# G]
+=1, 2. blank 4. D)2 C#
+=2, 4. <d bb> 4 <d# a> 8 <e(2 bb(1> 2. <e)2(2 a#)1(1>
+|
+=1' 8 [F# G F#] 4. G(1 2. G)1
+=1, 4. D 8 [C# D C#] [D C# D] [C# D C#]
+=2' 4. a#)1 4. b a# b
+=2, 1 e)2(2
+/
+3 bars | 5 6 5 6 5 6 3 3 3 3 3 3 \
+ | 4 4 4 7 5 5 4 4 4 4 4 7 \
+ | 5 4 5 4 3 3  2 1 2 1 2 1  2 1 2 1 2 1  1 1 1 1 1 1 ||
+|
+=1' 8 [F# G F#] [G F# G] 2. F#
+=1, 4. D C# 2. D
+=2' 2. a# a#
+=2, 1 e)2(2
+|
+=1' 2. blank 4. blank 4 rest' 16 rest' G#
+=1' 4. <Eb(2 G(1> 8 <E)2 G)1> 4 <D(2 F#(1> 2. <D)2(2 F#)1(6>
+=2' 4. <ax(4 b(1> 8 <ax)4 b)1> 4 <bb(4-P c~x(1> 2. <bb)4(4 c~x)1(1>
+=2, 1 e)2(2
+|
+=1  16 [d' g#'] [d~ g~# 8 d~~(3] 2. d~~)3 4. rest'
+=1, 4. <D)2(2 F#)6(6> 2. <D)2 F#)6> 4. rest,
+=2' 4. <bb)4(4 c~x)1(1> 2. <bb)4 c~x)1> 4. blank
+=2, 4. e)2(2 2. e)2 4. rest'-*
+
+# qua-voice split into 0+2
+# qua-voice split into 0+4
+# qua-voice split into 0+even
+# cro-voice split into 0+2
+# cro-voice split into 0+4
+# cro-voice split into 0+even
+# min.-voice drops out and both qua-voice and cro-voice split:
+# min.-voice drops out and cro-voice splits into 0+2
+# min.-voice drops out and cro-voice splits into 0+4
+# min.-voice drops out and cro-voice splits into 0+even
+midi pause 2.0
+

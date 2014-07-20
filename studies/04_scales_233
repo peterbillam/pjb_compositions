@@ -1,0 +1,269 @@
+7 systems 10 /18-27-18/ 18-27-18/ 18-23-18 \
+ / 18-23-18/ 18-22-18/ 18-21-18/ 18-23-18/
+pagenum
+title 4.  The 2+3+3 Chord
+innerhead Twenty Studies
+leftfoot (c) 2013 Peter J Billam
+midi channel 0 patch 0
+/
+4 bars | 8/8 48 | 5/8 30 | 8/8 48 | 48 |
+| 1.76
+I0.2 .20 mf
+=1  treble cha0 8/8 leg100 vol95 4 rest 8 [c db Bb] 4 e 8 c#(1
+I0.3 .001 p
+=2  bass   cha0 8/8 leg100 vol70 2 <fr gx bbl d~b> 8 rest 4. <e g#xl a#l c~#(1>
+| 1.1
+=1, 5/8 4 c#)1 8 [f# g e]
+=2  5/8 2 <er g bx c~#l)1>
+| 1.76
+=1, 8/8 4. <Bb bb> 8 [<A a> <G g>] [<F f> db Bb]
+#=2, 8/8 2 <e g bb d~> 8 rest 4. <f(2 gx bbl d~b(1>
+=2, 8/8 2 <e g bb d~> 8 rest 4. <f(2 gx bbl d~b>
+|
+=1' 4 A 8 B 4 G 8 rest [A B]
+#=2  2 <fr)2 gx bbl d~b)1> 8 rest 4. <fxr g bx c~#l>
+=2  1 <fxr)2 g bx c~#l>
+=2, 2 rest, 8 rest, 4. A
+/
+3 bars | 5/8 30 | 8/8 48 | 5/8 30 | 8/8 48 |
+| 1.1
+il0.7 .10 5
+=1 5/8 4. eb 4 F(2
+=2 5/8 2 <dbrl f gx b> 8 rest
+| 1.76
+=1' 8/8 4 F)2 8 [G Ab F] 4 B 8 G#
+=2 8/8 2 <d f ab c~> 8 rest 4. <ebxr f abxl bnl(1>
+| 1.1
+=1 5/8 8 [A# B' G#] 4 d
+=2 5/8 4. <drr(2 f#xl g#l b)1(1> 4 <d)2 fnl a bx)1>
+| 1.76
+=1, 8/8 8 [<E e> <F f> <D d>] 4 <G# g#> 8 [<F# f#> d G#]
+=2 8/8 2 <d f ab c~> 8 rest, 4. <d f#xl g#l c~>
+/
+5 bars | 6 5 6 7 5 7 5 6 | 5/8 6 5 7 6 5 | 8/8 6 5 7 7 6 6 7 5 \
+ | 6 5 6 6 5 6 5 5 | 5/8 6 5 6 6 5 |
+| 1.76
+=1 4 F# 8 [G# A F#] 4 c 8 A(2
+=2, 2 <d#r f#l a c~#> 8 rest 4. <er f#x a c~n(1>
+| 1.1
+il0.7 .10 10
+=1  5/8 4 A)2 8 [d eb c]
+=2, 5/8 2 <ebrl g ax c~)1>
+| 1.76
+=1, 8/8 4 <Gb gb> 8 [<F f> <F# f#> <G# g#>] [<A a> <c c~> <db d~b>]
+=2, 8/8 2 <d#r f#l bbx c~> 8 rest 4. <d#r(2 f#l a c~#(1>
+|
+=1, 4 <eb e~b> 8 <G g> 4 <A a> 4 <B b> 8 <c c~>
+=2, 1 <d#lr)2 gx a c~#)1>
+| 1.1
+=1, 5/8 4 <c# c~#> 8 <F f> 4 <G g>
+=2, 5/8 2 <c#r ebl gx a> 8 rest
+
+/
+4 bars | 8/8 48 | 5/8 30 | 8/8 48 | 48 |
+| 1.76
+I0.3 .06 p
+=1' 8/8 vol70  2 <B_brl Db F Gx> 8 rest 4. <A_# C#l E G#>
+I0.01 .20 mf
+=2  8/8 vol100 4 rest 8 [c db' Bb] 4 e 8 c#(2
+| 1.1
+il0.5 .10 15
+=1' 5/8 4. <B_x C# E G> 4 <B_b D Ex G(1>
+=2  5/8 4 c#)2 8 [F# G E]
+| 1.76
+=1' 8/8 2 <B_brl Db F Gx)1> 8 rest 4. <B_nl Db F Gx>
+=2  8/8 4. B_b 8 [C Db] [Eb G F(2]
+|
+=1' 4. <D F Ab c> 4 <Ebrl Fx Ab Bx(1> 4. <D(2 F#l G#xl B)1>
+=2  4 F)2 8 [G G# F] [A# B F#]
+/
+4 bars | 5/8 30 | 8/8 48 | 5/8 30 | 8/8 48 |
+| 1.1
+=1' 5/8 4. <D)2(2 F Ab c(1> 4 <D)2 F#l G#xl c)1>
+=2' 5/8 8 [B c G#] 4 d
+| 1.76
+=1' 8/8 2 <D#r F#l A c#> 8 rest 4. <Ex F#l A cn(1>
+=2  8/8 4 rest 8 [c c# A] 4 F# 8 E
+| 1.1
+il0.5 .30 20
+=1' 5/8 4. <D# Gx A c)1> 4 <D#r(2 F#l Bb cx>
+=2 5/8 4 D# 8 F [F# D#]
+| 1.76
+=1' 8/8 2 <D#r)2 F#l A c#> 8 rest 4. <Eblr Gx A c#'>
+#=2 8/8 4 A 8 F 4 F# G 8 Eb
+=2 8/8 4 A 8 c 4 c# vol85 d# 8 vol70 f
+i0.01 .53 dim .75 . . .
+
+/
+4 bars | 48 | 5/8 30 | 8/8 48 | 48 |
+| 1.76
+=1 vol70 8 rest [e b e] 4 g 8 [G c#']
+I0.1      p
+=2 4. g-P 4 c~# 8 [b e~ b]
+| 1.1
+=1 5/8 8 [Bb f bb] [g db]
+=2 5/8 4 g-P 8 [d~b bb f]
+| 1.76
+=1 8/8 8 rest [e b e] 4 g 8 [c#' G]
+=2 8/8 4. g 4 c~# 8 [b e~ b]
+=2 8/8 8 blank 2.. blank-P
+|
+il0.5 .10 25
+=1 4. B 4 f 8 [g# d~# g#]
+=2 8 [g#-P d~# g~# d~#] 4 b 8 [f~ b]
+/
+4 bars | 5/8 30 | 8/8 48 | 5/8 30 | 8/8 48 |
+| 1.1
+=1 5/8 4 f 8 [b d A,]
+=2 5/8 8 [a-P d~ a~] [f~ b]
+| 1.76
+=1 8/8 8 rest [f# c~# f#] 4 a 8 [A eb']
+=2 8/8 4. a-P 4 e~b 8 [c~# f~# c~#]
+| 1.1
+=1 5/8 8 [c g c~] [a eb]
+=2 5/8 4 a-P 8 [e~b c~ g]
+| 1.76
+=1 8/8 8 rest [f# c~# f#] 4 a 8 [eb' A]
+=2 8/8 4. a 4 e~b 8 [c~# f~# c~#]
+=2 8/8 8 blank 2.. blank-P
+
+7 systems /18-26-18/ 18-27-18/ 18-26-18/ \
+  18-24-18/ 18-22-18/ 18-22-18/ 18-20-18 15/
+pagenum
+innerhead 4.  The 2+3+3 Chord
+leftfoot (c) 2013 Peter J Billam
+/
+5 bars | 6 6 6 7 6 7 7 5 | 5/8 6 6 7 6 5 | 8/8 7 6 7 6 6 7 6 5 \
+ | 6 6 6 6 6 7 7 5 | 5/8 6 6 6 6 5 |
+| 1.76
+il0.5 .01 30
+=1 vol70 8 rest [g d~ g] 4 bb 8 [Bb e]
+=2 4. bb-P 4 e~ 8 [c~#-P g~# c~#]
+| 1.1
+=1, 5/8 8 [d g d~] [bb e]
+=2 5/8 4 bb-P 8 [e~ d~ g]
+| 1.76
+=1 8/8 4. d 4 g# 8 [c~ fn c~]
+=2 8/8 8 [b f~# b~ f~#] 4 d~ 8 [g~# d~]
+=2 5/8 2 blank-P 8 blank 4. blank-P
+| 1.76
+=1 vol70 8 rest [a e~ a] 4 c~ 8 [f# c]
+=2 4. c~-P 4 f~# 8 [e~b-P bb e~b]
+| 1.1
+=1 5/8 8 [en A, e] [c' F#]
+=2 5/8 4 c~-P 8 [f~# e~ a]
+
+/
+4 bars | 8/8 48 | 5/8 30 | 8/8 48 | 48 |
+| 1.76
+il0.5 .01 35
+I0.2 .20 mf
+=1 8/8 vol95 4 rest 8 [c# d B] 4 f 8 d(1
+I0.3 .001 p
+=2 8/8 vol70 2 <f#rrlx g#l-* d~> 8 rest 4. <fnrl a bx d~(1>
+| 1.1
+=1, 5/8 4 d)1 8 [g g# f]
+=2 5/8 2 <fr abl c~x d~)1>
+| 1.76
+=1, 8/8 4. <B b> 8 [<A# a#> <G# g#>] [<F# f#> d B]
+=2, 8/8 2 <fr g#x b e~b> 8 rest 4. <f#lr(2 g#xl b d~>
+|
+=1  4 Bb 8 c 4 Ab 8 rest [Bb c]
+=2 1 <f#xr)2 g# c~x d~l>
+=2, 2 rest, 8 rest, 4. Bb
+/
+3 bars | 5/8 30 | 8/8 48 | 5/8 30 | 8/8 48 |
+| 1.1
+=1 5/8 4. er 4 F#(2
+=2 5/8 2 <drr f#xl g#l c~> 8 rest
+| 1.76
+il0.7 .10 40
+=1' 8/8 4 F#)2 8 [G# A F#] 4 c 8 A
+=2 8/8 2 <d#r f#l a c~#> 8 rest 4. <er f#x a c~n(1>
+| 1.1
+=1 5/8 8 [B' c' A] 4 eb
+=2 5/8 4. <eblr(2 g ax c~)1(1> 4 <eb)2 gbll bblx c~)1>
+| 1.76
+=1, 8/8 8 [<F f> <F# f#> <Eb eb>] 4 <A a> 8 [<G g> eb A]
+=2 8/8 2 <d#r f#l a c~#> 8 rest 4. <d#l gx al c~#l>
+/
+5 bars | 6 5 7 6 7 6 5 6 | 5/8 6 5 7 7 5 \
+ | 8/8 6 5 6 6 7 7 6 5 | 6 5 7 6 5 6 5 5 | 5/8 6 5 7 6 5 |
+| 1.76
+=1 4 G 8 [A Bb' G] 4 c# 8 Bb(1
+=2, 2 <er gl bb d~> 8 rest 4. <fr gx bbl d~b(1>
+| 1.1
+=1 5/8 4 Bb)1 8 [eb en c#]
+=2, 5/8 2 <elrr abxl bbl d~bl)1>
+| 1.76
+il0.7 .10 45
+=1, 8/8 4 <G g> 8 [<F# f#> <G g> <A a>] [<Bb bb> <c# c~#> <d d~>]
+=2, 8/8 2 <er g b c~#x> 8 rest 4. <e(2 g bb d~(1>
+|
+=1, 4 <e e~> 8 <G# g#> 4 <Bb bb> 4 <c c~> 8 <c# c~#>
+=2, 1 <elr)2 abl bbxl d~)1>
+| 1.1
+=1, 5/8 4 <d d~> 8 <F# f#> 4 <G# g#>
+=2, 5/8 2 <dxr e abxl bbl> 8 rest
+
+/
+4 bars | 8/8 48 | 5/8 30 | 8/8 48 | 48 |
+| 1.76
+I0.3 .06 p
+=1' 8/8 vol70 2 <B_lr D F#l G#xl> 8 rest 4. <B_ Dl Fn A>
+I0.01 .20 mf
+=2 8/8 vol105 4 rest 8 [c# d' B] 4 f 8 d(1
+| 1.1
+=1' 5/8 4. <C Dx F Ab> 4 <B_ Ebl Fx Ab(1>
+=2 5/8 4 d)1 8 [G G# F]
+| 1.76
+il0.5 .10 50
+=1' 8/8 2 <B_lr D F#l Ab)1> 8 rest 4. <C Dx F#l G#lx>
+=2 8/8 4. B_ 8 [C# D] [E G# F#(2]
+|
+=1' 4. <D#r F#l A c#> 4 <Ex F#l A cn(1> 4. <D#(2 Gl Axl c)1>
+=2 4 F#)2 8 [G# A F#] [B c Gn]
+/
+4 bars | 5/8 30 | 8/8 48 | 5/8 30 | 8/8 48 |
+| 1.1
+=1' 5/8 4. <D#r)2(2 F#l A c#(1> 4 <D#)2 Gl Axl c#)1>
+=2' 5/8 8 [c c# A] 4 d#
+| 1.76
+=1' 8/8 2 <E G Bb d> 8 rest 4. <F Gx A#l c#(1>
+=2' 8/8 4 rest 8 [c# d Bb] 4 G 8 F
+| 1.1
+=1' 5/8 4. <Er G#l A#xl c#l)1> 4 <Er(2 Gnl Bx c#>
+=2 5/8 4 E 8 F# [E Eb]
+| 1.76
+il0.5 .30 55
+=1' 8/8 1 <Er)2 G Bb d>
+i0.01 .53 dim .75 . . .
+=2 8/8 4 D 8 C 4 B_b vol85 G_# 8 vol70 F_#
+
+/
+5 bars | 26 | 48 | 26 | 48 | 26 ||
+|
+=1 1 vol70 <B_b Dx E>
+=2 1 vol85 E_(1-P
+| 1.83
+=1 8 rest vol+5 [D vol+5 E vol+5 G] vol+5 [Bb vol+5 d vol+5 g vol+5 d~]
+I0.20 .05 p
+i0.20 .45 cresc .75 . . .
+=2 1 E_)1(1
+|
+=1 1 vol127 d~~
+I0.30 .05 ff
+=2 1 E_)1(1
+| 1.9
+=1 1 blank
+I0.30 .01 p
+i0.40 .45 dim .75 . . .
+=2 8 rest [d~ vol-5 c~ vol-5 bb] vol-5 g vol-5 [c vol-5 G vol-5 C]
+=2 1 E_)1
+| 3.5
+=1 1 blank
+I0.40 .05 ppp
+=2 1 vol-5 C_
+=2 1 blank 16 blank-,-*
+midi pause 2.0
+

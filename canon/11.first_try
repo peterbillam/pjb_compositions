@@ -1,0 +1,94 @@
+5 systems 10 /19-45-19/19-45-19/19-45-19/19-45-19/19-45-19 10/
+pagenum
+title Canon  at eleven semitones
+innerhead Peter Billam
+leftfoot (c) 2010 Peter J Billam
+# or: 73,71,70,70 or: 40,41,42,42 or 73,71,0,0
+midi channel 1 patch 73 reverb 99 pan 90 vibrato 0
+midi channel 2 patch 0 reverb 99 pan 65 vibrato 0
+midi channel 3 patch 0 reverb 99 pan 35 vibrato 0
+midi channel 4 patch 0 reverb 99 pan 10 vibrato 0
+/
+2 bars | 4/4 48 | 48 |
+| 4/4 75
+=1' treble 4/4 cha1 leg100 vol100 1 rest'
+=1, treble 4/4 cha2 leg100 vol100 1 rest,
+=2' bass   4/4 cha3 leg100 vol100 2 rest' 8. db 16 rest' 8. rest' 16 db
+=2, bass   4/4 cha4 leg100 vol100 8. D 16 rest, 8. rest, 16 D 8 E rest, 8 rest, 16 [D E]
+|
+=1' cha1 2 rest' 8. B 16 rest' 8. rest' 16 B
+=1, cha2 8. C 16 rest, 8. rest, 16 C 8 D rest, 8 rest, 16 [C D]
+=2' cha3 8 eb rest' 8 rest' 16 [db eb] 8 f rest' 16 rest' [db eb f]
+=2, cha4 8 F# rest, 16 rest, [D E F#] 8 G# rest, 16 [D E F# G#]
+/
+2 bars | 48 | 48 |
+|
+=1' cha1 8 c# rest' 8 rest' 16 [B c#] 8 d# rest' 16 rest' [B c# d#]
+=1, cha2 8 E rest, 16 rest, [C D E] 8 F# rest, 16 [C D E F#]
+=2' cha3 8 g rest' 16 [db eb f g] 8 [a 16 rest' ab] 8 [g 16 rest' f#]
+=2, cha4 8 [Bb 16 rest, A] 8 [Abl 16 rest, G] 8 [Gb 16 rest, F] 8 [E 16 rest, Eb]
+|
+=1' cha1 8 f rest' 16 [B c# eb f] 8 [g 16 rest' gb] 8 [f 16 rest' en]
+=1, cha2 8 [Ab 16 rest, G] 8 [Gb 16 rest, F] 8 [E 16 rest, Eb] 8 [D 16 rest, Db]
+=2' cha3 8 [f 16 rest' e] 8 [eb 16 rest' d] 8. c# 16 rest' 8. rest' 16 c#
+=2, cha4 8. D 16 rest, 8. rest, 16 D 8 E rest, 8 rest, 16 [D E]
+
+|
+il0.7 .60 5
+=1' cha1 8 [eb 16 rest' d] 8 [db 16 rest' c] 8. B 16 rest' 8. rest' 16 B
+=1, cha2 8. C 16 rest, 8. rest, 16 C 8 D rest, 8 rest, 16 [C D]
+=2' cha3 8 d# rest' 8 rest' 16 [c# d#] 8 e rest' 16 rest' [c# d# e]
+=2, cha4 8 F rest, 16 rest, [D E F] 8 G rest, 16 [D E F G]
+|
+=1' cha1 8 c# rest' 8 rest, 16 [B c#] 8 d rest' 16 rest' [B c# d]
+=1, cha2 8 Eb rest, 16 rest, [C D Eb] 8 F rest, 16 [C D Eb F]
+=2' cha3 8 f# rest' 16 [c# d# e f#] 2 g
+=2, cha4 2 G# 8 [A# B leg50 fn] leg99 B
+
+|
+=1' cha1 8 e rest' 16 [B c# d e] 2 f
+=1, cha2 2 F# 8 [G# A leg50 eb] leg99 A
+=2' cha3 leg99 8 [a bb leg50 e~] leg99 [bb bn leg50 g~b] leg99 \
+ 16 rest' [f~ e~ leg50 bb]
+=2, cha4 leg99 8 [c leg50 g] leg99 \
+ 16 rest, leg99 [gb f leg50 B] leg99 [eb d leg50 A leg99 db] [c A 8 Bb]
+|
+=1' cha1 8 [g ab leg50 d~] leg99 [ab an leg50 e~] leg99 \
+ 16 rest' [e~b d~ leg50 ab]
+=1, cha2 8 [Bb leg50 f] leg99 \
+ 16 rest, leg99 [e eb leg50 A] leg99 [db c leg50 G leg99 Bn] [Bb G 8 Ab]
+=2' cha3 leg99 16 [d~ d~b leg50 g# leg99 c~] \
+ [b g# 8 a] leg50 e~b leg99 [a bb leg50 c~]
+=2, cha4 leg50 8 e leg99 [A# B leg50 c#] leg99 [F# leg50 G] leg99 4 Eb
+
+|
+=1' cha1 leg99 16 [c~ b leg50 f# leg99 bb] [a f# 8 g] \
+ leg50 c~# leg99 [g ab leg50 bb]
+=1, cha2 8 leg50 d leg99 [G# A leg50 B] leg99 [E leg50 F] leg99 4 Db
+=2' cha3 leg99 8 [f leg50 f#] leg99 4 d leg99 8. c# 16 rest' 8. rest' 16 c#
+=2, cha4 leg99 8. D 16 rest, 8. rest, 16 D 8 E rest, 8 rest, 16 [D E]
+|
+il0.7 .20 10
+=1' cha1 leg99 8 [d# leg50 e] leg99 4 c 8. B 16 rest' 8. rest' 16 B
+=1, cha2 8. leg99 C 16 rest, 8. rest, 16 C 8 D rest, 8 rest, 16 [C D]
+=2' cha3 8 eb rest' 8 rest' 16 [db eb] 8 f rest' 16 rest' [db eb f]
+=2, cha4 8 F# rest, 16 rest, [D E F#] 8 G# rest, 16 [D E F# G#]
+
+5 systems 10 /19-45-19/19-45-19/19-45-19/19-45-19/19-45-19 10/
+pagenum
+innerhead Canon  at eleven semitones, Peter Billam
+leftfoot (c) 2010 Peter J Billam
+/
+2 bars | 48 | 48 |
+|
+=1' cha1 8 c# rest' 8 rest' 16 [B c#] 8 d# rest' 16 rest' [B c# d#]
+=1, cha2 8 E rest, 16 rest, [C D E] 8 F# rest, 16 [C D E F#]
+=2' cha3 8 g rest' 16 [db eb f g] 8. g# 16 rest' 8. rest' 16 g#
+=2, cha4 8. A 16 rest, 8. rest, 16 A 8 B rest, rest, 16 [A B]
+|
+=1' cha1 8 f rest' 16 [B c# eb f]  8. gb 16 rest' 8. rest' 16 gb
+=1, cha2 8. G 16 rest, 8. rest, 16 G 8 A rest, rest, 16 [G A]
+=2' cha3 8 a# rest' rest' 16 [ab bb] 8 c~ rest' 16 rest' [ab bb c~]
+=2, cha4 8 c# rest, 16 rest, [A B c#] 2 d
+
+

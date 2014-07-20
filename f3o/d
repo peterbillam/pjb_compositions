@@ -1,0 +1,89 @@
+
+midi off
+# just not possible to make this kind of rhythm other than euro-celtic-dance
+/
+3 bars | 1 |
+|
+=1 blank
+
+/
+4 bars | 3/4 36 | 36 | 36 | 36 |
+| 3.0
+=1' treble 6/8 cha0 vol70 16 4 rest 16 rest E 4 A(2 16 [A)2 F#]
+=2' treble 6/8 cha1 vol70 leg90 2. rest
+=3' treble 6/8 cha2 vol70 leg90 2. rest
+|
+=1  leg90 4 e(1 16 [e)1 c] 4 f#(1 16 [f#)1 c]
+=2'
+=3'
+|
+=1  leg90 8. [e 8 f# 16 g#] 4 a(1 16 [a)1 g#]
+=2 
+=3'
+|
+=1  leg90 4 a(1 16 [a)1 b] 4. c~(1
+=2 
+=3'
+|
+=1 2. c~)1(1
+=2 4 rest 16 rest  G 4 eb(1 16 [eb)1 A,]
+=3
+|
+=1 2. c~)1
+=2 4 g(1 16 [g)1 c] 4 a(1 16 [a)1 eb]
+=3
+|
+=1
+=2 4 g(1 16 [g)1 eb] 4 g(1 16 [g)1 a]
+=3
+|
+=1
+=2 2. b
+=3
+
+# midi off
+midi pause 2.0
+/
+4 bars | 3/4 36 | 36 | 36 | 36 |
+| 4.5
+=1' treble cha0 vol90 leg99 4. F# 8 G# 4 A
+=2' treble cha1 vol80 leg90 2 E       leg99 4 G
+=3' treble cha2 vol70 leg90 2 C  leg99 4 Eb
+|
+=1  leg99 4. G# 8 Bb 4 c
+=2' leg90 2 F# leg99 8 [F# G#]
+=3' leg90 2 D  leg99 4 En
+|
+=1  cha0 leg99 4. B 8 c# 4 d
+=2  cha1 leg90 2 A   leg99 4 c
+=3' cha2 leg99 4. Fn 8 G [An Ab]
+|
+=1, cha0 leg90 4. c# leg99 8 d# [f e]
+=2  cha1 leg90 2 B 8 [c B]
+=3' cha2 leg90 2 Gn 8 [Ab G]
+/
+6 bars | 2/4 24 | 24 | 24 | 24 | 3/4 36 | 12 ||
+| 3.0
+=1 2/4 cha0 leg99 8 [eb d c Bb]
+=2' 2/4 cha1 leg99 2 Bb
+=3' 2/4 cha2 leg99 4. Gb 8 F
+|
+=1 cha0 leg90 2 c(1
+=2' cha1 leg90 4. A 8 Ab
+=3' cha2 leg90 2 E
+|
+=1' cha0 leg90 8 [c)1 leg99 B A G]
+=2' cha1 leg99 2 G
+=3' cha2 leg99 4. Eb 8 D
+|
+=1' cha0 leg99 2 A
+=2' cha1 leg99 4 F# 8 [E D#]
+=3' cha2 leg99 2 C#
+| 4.05
+=1  3/4 cha0 leg90 2 G# leg99 4 A
+=2' 3/4 cha1 leg90 4 E 8 [F E] leg99 4 Eb
+=3' 3/4 cha2 leg90 2. Cn
+|
+=1' cha0 leg90 2 F#-fermata
+=2' cha1 leg90 2 En-fermata
+=3' cha2 leg90 2 C-fermata

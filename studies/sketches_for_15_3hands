@@ -1,0 +1,632 @@
+6 systems /19-25-19/
+title 15:  For Three Hands
+midi channel 0 patch 0
+/
+3 bars | 25 | 21/16 92 | 13/16 52 |
+| 2.0
+=1 treble cha0 vol100 1 <D d>
+=2 bass   cha0 vol90  1 rest
+| 2.1
+=1 21/16 vol80 16 [Eb D E En D# E D E] [F E F Gb F] [Gb F Gb Gn F# G F G]
+=2 21/16 2 blank 2 d~(1 8 d~)1(1 8. d~)1(1
+| 1.3
+=1' 13/16 16 [Ab G A An G# A G A] [Bb A B Bn A#]
+=2 13/16 8. d~)1 2 c~# 8 b(1
+/
+2 bars | 21/16 92 | 92 |
+| 2.1
+=1, 21/16 16 [B A# B c B c B c] [db c d dn c#] [d c d eb d e d e]
+=2 21/16 4. b)1 2 a 4.. ab(1
+| 2.1
+=1, 16 [en d# e f e f e f] [gb f g gn f#] [g f g ab g a g a]
+=2 16 ab)1 2 gb f 4 e(1
+/
+2 bars | 13/16 52 | 21/16 92 |
+| 1.3
+=1 13/16 16 [bb a b bn a# b a b] [c~ b c~ d~b c~]
+=2 13/16 4 e)1 2 d 16 c(2
+| 2.1
+=1 21/16 vol80 16 [d~b c~ d~ d~n c~# d~ c~ d~] [e~b d~ e~ e~n d~#] [e~ d~ e~ f~ e~ f~ e~ f~]
+=2 21/16 4.. c)2 2 Bn 4. Bb(2
+/
+2 bars | 13/16 52 | 21/16 92 |
+| 1.3
+=1 13/16 16 [g~b f~ g~ g~n f~# g~ f~ g~] [a~b g~ a~ a~n g~#]
+=2 13/16 8 Bb)2 2 Ab 8. G(2
+| 2.1
+=1 21/16 16 [a~ g~# a~ b~b a~ b~b a~ b~] [b~n a~# b~ c~~ b~] [c~~ b~ c~~ d~~b c~~ d~~ c~~ d~~]
+=2 21/16 8. G)2(2 8 G)2 2 F Eb
+/
+2 bars | 21/16 92 | 13/16 52 |
+|
+=1 1 d~~
+=2 1 D
+
+midi off
+
+12 systems /19/
+# G A G -> G G A G
+# so all tunes with repeated notes can be derived from (a unique) tune without
+# by repeating notes like the regexp +
+# motifs beginning and ending on the same note self-fractalise very easily
+#  GGAG GGAG AABA GGAG  GGAG GGAG AABA GGAG
+#  AABA AABA BBcB AABA  GGAG GGAG AABA GGAG
+# which, on a piano, needs some ties...
+midi channel 0 patch 0
+/
+2 bars | 96 | 96 |
+| 1.8
+il0.7 .03 20121001
+=1 treble cha0 16 [C, C#,] [Eb D] [C#, D,] 8 En 16 [Eb, En,] [Gb F] [D, Eb,] [F En]
+|
+=1 16 [C#, D,] [E Eb] [D, Eb,] 8 F 16 [En, F,] [G F#] [Eb, En,] [F# Fn]
+|
+=1 16 [Eb, En,] [F# Fn] [E, F,] 8 G 16 [F#, G,] [A G#] [Fn, F#,] [G# Gn]
+|
+=1 16 [D, Eb,] [F En] [Eb, En,] 8 F# 16 [Fn, F#,] [G# Gn] [E, Fn,] [G F#]
+
+
+4 systems 10 /19-25-19 25 19/ 19-25-19 25 19/
+title 12.  Morse-Thue Sequences
+midi channel 0 patch 0
+midi channel 1 patch 0
+/
+2 bars | 96 |
+| 2.5
+=1' treble cha0 cc11=100 vol60 8 rest [<B G> <G B>] rest [<G B> rest \
+ rest <G B>] [<G B> rest rest <G B>] rest [<B G> <G B>] rest
+i0.8 .03 leggerio
+=2 bass cha0 vol60 8 [<a c~#> rest' rest' <a c~#>] rest [<a c~#> <a c~#>] rest \
+ rest [<a c~#> <a c~#>] rest [<a c~#> rest' rest' <a c~#>]
+=3 bass cha1 cc11=100 vol100 leg100 smb blank bre rest
+|
+=1' 8 [<G B> rest rest <G B>] rest [<B G> <G B>] rest \
+ rest [<B G> <G B>] rest [<G B> rest rest <G B>]
+=2 8 rest [<a c~#> <a c~#>] rest [<a c~#> rest' rest' <a c~#>] \
+ [<a c~#> rest' rest' <a c~#>] rest [<a c~#> <a c~#>] rest
+=3 smb blank bre rest
+/
+2 bars | 96 |
+|
+=1' 8 [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest \
+ rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>]
+=2 8 rest [<bb d~> <bb d~>] rest [<bb d~> rest' rest' <bb d~>] \
+ [<bb d~> rest' rest' <bb d~>] rest [<bb d~> <bb d~>] rest
+=3 1 rest 2 f-emph 4 Bb eb-emph
+|
+=1' 8 rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>] \
+ [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest
+=2 8 [<bb d~> rest' rest' <bb d~>] rest [<bb d~> <bb d~>] rest \
+ rest [<bb d~> <bb d~>] rest [<bb d~> rest' rest' <bb d~>]
+=3' 8 d 4 Ab-emph 8 c 4 Bb-emph 8 [E G(2-emph] \
+ [G)2 Ab] 4 Eb-emph 8 D 4 B_b-emph 8 C
+/
+2 bars | 96 |
+|
+il0.7 .01 5
+=1' 8 [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest \
+ rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>]
+=2 8 rest [<b d~#> <b d~#>] rest [<b d~#> rest' rest' <b d~#>] \
+ [<b d~#> rest' rest' <b d~#>] rest [<b d~#> <b d~#>] rest
+=3  1 B_ 2 A 4 db gb(1-emph
+|
+=1, 8 rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>] \
+ [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest
+=2 8 [<c~ e~> rest' rest' <c~ e~>] rest [<c~ e~> <c~ e~>] rest \
+ rest [<c~ e~> <c~ e~>] rest [<c~ e~> rest' rest' <c~ e~>]
+=3  4 gb)1 f c-emph 8 [Bb Gb(2-emph] \
+ [G)2 A] 4 Ab-emph 8 D 4 F-emph 8 E
+/
+2 bars | 96 |
+|
+=1, 8 rest [<B d#> <B d#>] rest [<B d#> rest rest <B d#>] \
+ [<c e> rest rest <c e>] rest [<c e> <c e>] rest
+=2 8 [<c~# f~> rest' rest' <c~# f~>] rest [<c~# f~> <c~# f~>] rest \
+ rest [<d~ f~#> <d~ f~#>] rest [<d~ f~#> rest' rest' <d~ f~#>]
+=3 1 C# 2 F# 4 G# A(2-emph
+|
+=1, 8 [<B eb> rest rest <B eb>] rest [<Bb d> <Bb d>] rest \
+ rest [<A db> <A db>] rest [<Ab c> rest rest <Ab c>]
+=2 8 rest [<c~# f~> <c~# f~>] rest [<c~n e~> rest' rest' <c~ e~>] \
+ [<b e~b> rest' rest' <b e~b>] rest [<bb d~> <bb d~>] rest
+#=3 4 A)2 B c-emph 8 [Bb E(2-emph] \
+# [E)2 G] 4 Gb-emph 8 C 4 Eb-emph 8 D
+=3 4 A)2 B 2 c-emph 4 B Gb-emph 8 C 4 F-emph 8 E
+
+4 systems /19-25-19 25 19/
+/
+2 bars | 96 |
+| 2.5
+=1' treble cha0 vol60 8 [<G B> rest rest <G B>] rest [<B G> <G B>] rest \
+ rest [<B G> <G B>] rest [<G B> rest rest <G B>]
+=2 bass cha0 vol60 8 rest [<a c~#> <a c~#>] rest [<a c~#> rest' rest' <a c~#>] \
+ [<a c~#> rest' rest' <a c~#>] rest [<a c~#> <a c~#>] rest
+=3 bass cha1 leg100 2 D#-emph 4 rest 8 E rest \
+ rest F rest rest C# rest rest D#
+|
+il0.5 .03 10
+=1' 8 rest [<B G> <G B>] rest [<G B> rest rest <G B>] \
+ [<G B> rest rest <G B>] rest [<B G> <G B>] rest
+=2 8 [<a c~#> rest' rest' <a c~#>] rest [<a c~#> <a c~#>] rest \
+ rest [<a c~#> <a c~#>] rest [<a c~#> rest' rest' <a c~#>]
+=3 8 rest rest E rest rest F rest rest \
+ C# rest rest D# rest rest E rest
+/
+2 bars | 96 |
+|
+=1' 8 rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>] \
+ [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest
+=2 8 [<bb d~> rest' rest' <bb d~>] rest [<bb d~> <bb d~>] rest \
+ rest [<bb d~> <bb d~>] rest [<bb d~> rest' rest' <bb d~>]
+=3 8 rest F rest rest D rest rest E \
+ rest rest F rest rest Gb rest rest
+|
+=1' 8 [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest \
+ rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>]
+=2 8 rest [<bb d~> <bb d~>] rest [<bb d~> rest' rest' <bb d~>] \
+ [<bb d~> rest' rest' <bb d~>] rest [<bb d~> <bb d~>] rest' treble
+=3 4 D 8 rest E rest rest F rest \
+ rest Gb rest rest E rest rest F
+/
+2 bars | 96 |
+
+|
+=1' 8 rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>] \
+ [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest
+=2 8 [<B_ D#> rest, rest, <B_ D#>] rest [<B_ D#> <B_ D#>] rest \
+ rest [<B_ D#> <B_ D#>] rest [<B_ D#> rest, rest, <B_ D#>]
+=3 8 rest rest F# rest rest G rest rest \
+ Eb rest rest Fn rest rest F# rest
+|
+=1, 8 [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest \
+ rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>]
+=2 8 rest [<C E> <C E>] rest [<C E> rest, rest, <C E>] \
+ [<C E> rest, rest, <C E>] rest [<C E> <C E>] rest
+=3 8 rest G rest rest E rest rest F# \
+ rest rest G rest rest Ab rest rest
+/
+2 bars | 96 |
+|
+il0.5 .03 15
+=1, 8 [<B d#> rest rest <B d#>] rest [<B d#> <B d#>] rest \
+ rest [<c e> <c e>] rest [<c e> rest rest <c e>]
+=2 8 rest [<C# F> <C# F>] rest [<C# F> rest, rest, <C# F>] \
+ [<D F#> rest, rest, <D F#>] rest [<D F#> <D F#>] rest
+=3 4 F 8 rest G rest rest G# rest \
+ rest A rest rest 4. Bb 8 Ab
+|
+=1, 8 rest [<B eb> <B eb>] rest [<Bb d> rest rest <Bb d>] \
+ [<A db> rest rest <A db>] rest [<Ab c> <G Bn>] rest
+=2 8 [<C# F> rest, rest, <C# F>] rest [<Cn E> <C E>] rest \
+ rest [<B_ Eb> <B_ Eb>] rest [<A_# D> rest, rest, <B_ Eb>]
+=3 8 rest rest 4 An 8 G 4 Ab 8 F# \
+ 4 G 8 Fn 4 Gb 8 E 4 Eb
+
+4 systems /19-25-19 25 19/
+/
+2 bars | 96 |
+|
+=1, 8 [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest \
+ rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>]
+=2 8 rest [<B_b D> <B_b D>] rest [<B_b D> rest, rest, <B_b D>] \
+ [<B_b D> rest, rest, <B_b D>] rest [<B_b D> <B_b D>] rest
+=3 2 F Gb Gb Ab
+|
+=1, 8 rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>] \
+ [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest
+=2 8 [<B_b D> rest, rest, <B_b D>] rest [<B_b D> <B_b D>] rest \
+ rest [<B_b D> <B_b D>] rest [<B_b D> rest, rest, <B_b D>]
+=3 2 F# G# G# A#
+/
+2 bars | 96 |
+|
+=1, 8 rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>] \
+ [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest
+=2 8 [<B_ D#> rest, rest, <B_ D#>] rest [<B_ D#> <B_ D#>] rest \
+ rest [<B_ D#> <B_ D#>] rest [<B_ D#> rest, rest, <B_ D#>]
+=3 2 F# G G A
+|
+il0.5 .03 20
+=1, 8 [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest \
+ rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>]
+=2 8 rest [<B_ D#> <B_ D#>] rest [<B_ D#> rest, rest, <B_ D#>] \
+ [<B_ D#> rest, rest, <B_ D#>] rest [<B_ D#> <B_ D#>] rest
+=3 2 G A A B
+/
+2 bars | 96 |
+|
+=1, 8 rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>] \
+ [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest
+=2 8 [<C E> rest, rest, <C E>] rest [<C E> <C E>] rest \
+ rest [<C E> <C E>] rest [<C E> rest, rest, <C E>]
+=3 2 F# G G Ab
+|
+=1, 8 [<B d#> rest rest <B d#>] rest [<B d#> <B d#>] rest \
+ rest [<B d#> <B d#>] rest [<B d#> rest rest <B d#>]
+=2 8 rest [<Db F> <Db F>] rest [<Db F> rest, rest, <Db F>] \
+ [<Db F> rest, rest, <Db F>] rest [<Db F> <Db F>] rest
+=3 2 G G# G# A
+/
+2 bars | 96 |
+|
+=1, 8 [<c e> rest rest <c e>] rest [<c e> <c e>] rest \
+ rest [<db f> <db f>] rest [<db f> rest rest <db f>]
+=2 8 rest [<D F#> <D F#>] rest [<D F#> rest, rest, <D F#>] \
+ [<Eb G> rest, rest, <Eb G>] rest [<Eb G> <Eb G>] rest
+=3 2 G# A A B
+|
+=1, 8 rest [<c e> <c e>] rest [<B eb> rest rest <B eb>] \
+ [<Bb d> rest rest <Bb d>] rest [<A c#> <A c#>] rest
+=2 8 [<D Gb> rest, rest, <D Gb>] rest [<Db F> <Db F>] rest \
+ rest [<C E> <C E>] rest [<B_ D#> rest, rest, <B_ D#>]
+=3 4 c Bb A Ab G Gb F Eb
+
+4 systems /19-25-19 25 19/
+/
+2 bars | 96 |
+|
+il0.5 .03 25
+=1, 8 rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>] \
+ [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest
+=2 8 [<B_b D> rest, rest, <B_b D>] rest [<B_b D> <B_b D>] rest \
+ rest [<B_b D> <B_b D>] rest [<B_b D> rest, rest, <B_b D>]
+=3 smb blank bre rest
+|
+=1, 8 [<Ab c> rest rest <Ab c>] rest [<Ab c> <Ab c>] rest \
+ rest [<Ab c> <Ab c>] rest [<Ab c> rest rest <Ab c>]
+=2 8 rest [<B_b D> <B_b D>] rest [<B_b D> rest, rest, <B_b D>] \
+ [<B_b D> rest, rest, <B_b D>] rest [<B_b D> <B_b D>] rest
+=3 1 blank
+/
+2 bars | 96 |
+|
+=1, 8 [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest \
+ rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>]
+=2 8 rest [<B_ D#> <B_ D#>] rest [<B_ D#> rest, rest, <B_ D#>] \
+ [<B_ D#> rest, rest, <B_ D#>] rest [<B_ D#> <B_ D#>] rest
+|
+=1, 8 rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>] \
+ [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest
+=2 8 [<B_ D#> rest, rest, <B_ D#>] rest [<B_ D#> <B_ D#>] rest \
+ rest [<B_ D#> <B_ D#>] rest [<B_ D#> rest, rest, <B_ D#>]
+=3 1 blank
+/
+2 bars | 96 |
+|
+=1, 8 [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest \
+ rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>]
+=2 8 rest [<C E> <C E>] rest [<C E> rest, rest, <C E>] \
+ [<C E> rest, rest, <C E>] rest [<C E> <C E>] rest
+|
+il0.5 .03 30
+=1, 8 rest [<B d#> <B d#>] rest [<B d#> rest rest <B d#>] \
+ [<B d#> rest rest <B d#>] rest [<B d#> <B d#>] rest
+=2 8 [<Db F> rest, rest, <Db F>] rest [<Db F> <Db F>] rest \
+ rest [<Db F> <Db F>] rest [<Db F> rest, rest, <Db F>]
+=3 1 blank
+/
+2 bars | 96 |
+|
+=1, 8 rest [<c e> <c e>] rest [<c e> rest rest <c e>] \
+ [<db f> rest rest <db f>] rest [<db f> <db f>] rest
+=2 8 [<D F#> rest, rest, <D F#>] rest [<D F#> <D F#>] rest \
+ rest [<Eb G> <Eb G>] rest [<Eb G> rest, rest, <Eb G>]
+|
+=1, 8 [<c e> rest rest <c e>] rest [<B eb> <B eb>] rest \
+ rest [<Bb d> <Bb d>] rest [<A db> rest rest <Ab c>]
+=2 8 rest [<D Gb> <D Gb>] rest [<Db F> rest, rest, <Db F>] \
+ [<C E> rest, rest, <C E>] rest [<B_ D#> <C E>] rest
+=3 1 blank
+
+4 systems /19-25-19 25 19/
+/
+2 bars | 96 |
+|
+=1, 8 [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest \
+ rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>]
+=2 8 rest [<B_ D#> <B_ D#>] rest [<B_ D#> rest, rest, <B_ D#>] \
+ [<B_ D#> rest, rest, <B_ D#>] rest [<B_ D#> <B_ D#>] rest
+|
+=1, 8 rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>] \
+ [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest
+=2 8 [<C E> rest, rest, <C E>] rest [<C E> <C E>] rest \
+ rest [<C E> <C E>] rest [<C E> rest, rest, <C E>]
+/
+2 bars | 96 |
+|
+il0.5 .03 35
+=1, 8 rest [<B d#> <B d#>] rest [<B d#> rest rest <B d#>] \
+ [<c e> rest rest <c e>] rest [<c e> <c e>] rest
+=2 8 [<C# F> rest, rest, <C# F>] rest [<C# F> <C# F>] rest \
+ rest [<D F#> <D F#>] rest [<D F#> rest, rest, <D F#>]
+|
+=1, 8 [<db f> rest rest <db f>] rest [<dnl gb> <d gb>] rest \
+ rest [<db f> <c e>] rest [<B eb> rest rest <Bbl dn>]
+=2 8 rest [<D# G> <D# G>] rest [<E Ab> rest, rest, <E Ab>] \
+ [<Eb G> rest, rest, <Dnl Gb>] rest [<Db F> <C En>] rest
+/
+2 bars | 96 |
+|
+=1, 8 rest [<A c#> <A c#>] rest [<A c#> rest rest <A c#>] \
+ [<A c#> rest rest <A c#>] rest [<A c#> <A c#>] rest
+=2 8 [<B_ D#> rest, rest, <B_ D#>] rest [<B_ D#> <B_ D#>] rest \
+ rest [<B_ D#> <B_ D#>] rest [<B_ D#> rest, rest, <B_ D#>]
+|
+=1, 8 [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest \
+ rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>]
+=2 8 rest [<C E> <C E>] rest [<C E> rest, rest, <C E>] \
+ [<C E> rest, rest, <C E>] rest [<C E> <C E>] rest
+/
+2 bars | 96 |
+|
+=1, 8 [<B d#> rest rest <B d#>] rest [<B d#> <B d#>] rest \
+ rest [<c e> <c e>] rest [<c e> rest rest <c e>]
+=2 8 rest [<C# F> <C# F>] rest [<C# F> rest, rest, <C# F>] \
+ [<D F#> rest, rest, <D F#>] rest [<D F#> <D F#>] rest
+|
+il0.5 .03 40
+=1, 8 rest [<db f> <db f>] rest [<dnl gb> rest rest <d gb>] \
+ [<db f> rest rest <c e>] rest [<B eb> <Bbl dn>] rest
+=2 8 [<D# G> rest, rest, <D# G>] rest [<E Ab> <E Ab>] rest \
+ rest [<Eb G> <Dnl Gb>] rest [<Db F> rest, rest, <C En>]
+
+4 systems /19-25-19 25 19/
+/
+2 bars | 96 |
+|
+=1, 8 rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>] \
+ [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest
+=2 8 [<C E> rest, rest, <C E>] rest [<C E> <C E>] rest \
+ rest [<C E> <C E>] rest [<C E> rest, rest, <C E>]
+|
+=1, 8 [<B d#> rest rest <B d#>] rest [<B d#> <B d#>] rest \
+ rest [<B d#> <B d#>] rest [<B d#> rest rest <B d#>]
+=2 8 rest [<Db F> <Db F>] rest [<Db F> rest, rest, <Db F>] \
+ [<Db F> rest, rest, <Db F>] rest [<Db F> <Db F>] rest
+/
+2 bars | 96 |
+|
+=1, 8 [<c e> rest rest <c e>] rest [<c e> <c e>] rest \
+ rest [<db f> <db f>] rest [<db f> rest rest <db f>]
+=2 8 rest [<D F#> <D F#>] rest [<D F#> rest, rest, <D F#>] \
+ [<Eb G> rest, rest, <Eb G>] rest [<Eb G> <Eb G>] rest
+|
+=1, 8 rest [<d f#> <d f#>] rest [<eb g> rest rest <eb g>] \
+ [<d f#> rest rest <dbl fn>] rest [<c en> <B d#>] rest
+=2 8 [<E G#> rest, rest, <E G#>] rest [<F A> <F A>] rest \
+ rest [<E G#> <Ebl Gn>] rest [<D Gb> rest, rest, <Db F>]
+/
+2 bars | 96 |
+|
+il0.5 .03 45
+=1, 8 [<Bb d> rest rest <Bb d>] rest [<Bb d> <Bb d>] rest \
+ rest [<Bb d> <Bb d>] rest [<Bb d> rest rest <Bb d>]
+=2 8 rest [<C E> <C E>] rest [<C E> rest, rest, <C E>] \
+ [<C E> rest, rest, <C E>] rest [<C E> <C E>] rest
+|
+=1, 8 rest [<B d#> <B d#>] rest [<B d#> rest rest <B d#>] \
+ [<B d#> rest rest <B d#>] rest [<B d#> <B d#>] rest
+=2 8 [<Db F> rest, rest, <Db F>] rest [<Db F> <Db F>] rest \
+ rest [<Db F> <Db F>] rest [<Db F> rest, rest, <Db F>]
+/
+2 bars | 96 |
+|
+=1, 8 rest [<c e> <c e>] rest [<c e> rest rest <c e>] \
+ [<db f> rest rest <db f>] rest [<db f> <db f>] rest
+=2 8 [<D F#> rest, rest, <D F#>] rest [<D F#> <D F#>] rest \
+ rest [<D# G> <D# G>] rest [<D# G> rest, rest, <D# G>]
+|
+=1, 8 [<d f#> rest rest <d f#>] rest [<eb g> <eb g>] rest \
+ rest [<d f#> <dbl fn>] rest [<c en> rest rest <B d#>]
+=2 8 rest [<E G#> <E G#>] rest [<F A> rest, rest, <F A>] \
+ [<E G#> rest, rest, <Ebl Gn>] rest [<D Gb> <Db F>] rest
+
+4 systems /19-25-19 25 19/
+/
+2 bars | 96 |
+|
+=1, 8 rest [<B d#> <B d#>] rest [<B d#> rest rest <B d#>] \
+ [<c e> rest rest <c e>] rest [<c e> <c e>] rest
+=2 8 [<C# F> rest, rest, <C# F>] rest [<C# F> <C# F>] rest \
+ rest [<D F#> <D F#>] rest [<D F#> rest, rest, <D F#>]
+=3 1 F rest
+|
+il0.6 .03 50
+=1, 8 [<c# f> rest rest <c# f>] rest [<d f#> <d f#>] rest \
+ rest [<d# g> <e ab>] rest [<d# g> gb fn e]
+=2' 8 rest [<D# G> <D# G>] rest [<E G#> rest, rest, <E G#>] \
+ [<F A> rest, rest, <Gbl Bb>] rest [<E Ab> <D#l Gn>] rest
+/
+2 bars | 96 |
+|
+=1, 8 [<B d#> rest rest <B d#>] rest [<B d#> <B d#>] rest \
+ rest [<c e> <c e>] rest [<c e> rest rest <c e>]
+=2 8 rest [<C# F> <C# F>] rest [<C# F> rest, rest, <C# F>] \
+ [<D F#> rest, rest, <D F#>] rest [<D F#> <D F#>] rest
+=3 1 rest
+|
+=1, 8 rest [<c# f> <c# f>] rest [<d f#> rest rest <d f#>] \
+ [<d# g> rest rest <e ab>] [g gb] 4 fn
+=2' 8 [<D# G> rest, rest, <D# G>] rest [<E G#> <E G#>] rest \
+ rest [<F A> <Gbl Bb>] rest [<F A> rest, rest, <Ebl Gn>]
+/
+2 bars | 96 |
+|
+=1, 8 [<c e> rest rest <c e>] rest [<c e> <c e>] rest \
+ rest [<db f> <db f>] rest [<db f> rest rest <db f>]
+=2 8 rest [<D F#> <D F#>] rest [<D F#> rest, rest, <D F#>] \
+ [<Eb G> rest, rest, <Eb G>] rest [<Eb G> <Eb G>] rest
+=3 1 rest
+|
+=1, 8 rest [<d f#> <d f#>] rest [<d# g> rest rest <d# g>] \
+ [<e g#> rest rest <fn a>] [g# gn f# fn]
+=2' 8 [<E G#> rest, rest, <E G#>] rest [<F A> <F A>] rest \
+ rest [<F# A#> <Gn B>] rest [<F#l A#> rest, rest, <Eb G>]
+/
+2 bars | 96 |
+|
+il0.6 .03 55
+=1, 8 rest [<c e> <c e>] rest [<c e> rest rest <c e>] \
+ [<db f> rest rest <db f>] rest [<db f> <db f>] rest
+=2 8 [<D F#> rest, rest, <D F#>] rest [<D F#> <D F#>] rest \
+ rest [<Eb G> <Eb G>] rest [<Eb G> rest, rest, <Eb G>]
+=3 1 rest
+|
+=1, 8 [<d f#> rest rest <d f#>] rest [<d# g> <d# g>] rest \
+ rest [<e g#> <fn a> g#] [gn f# fn e]
+=2' 8 rest [<E G#> <E G#>] rest [<F A> rest, rest, <F A>] \
+ [<F#l A#> rest, rest, <Gn B>] rest [<F#l A#> <E G#>] rest
+
+4 systems /19-25-19 25 19/
+/
+2 bars | 96 |
+|
+=1, 8 [<B d#> rest rest <B d#>] rest [<c e> <c e>] rest \
+ rest [<c# f> <dnl f#>] rest [g f# fn e]
+=2 8 rest [<C# F> <C# F>] rest [<D F#> rest, rest, <D F#>] \
+ [<D# G> rest, rest, <E G#>] [A G# Gn F#]
+=3 1 rest
+|
+=1, 8 rest [<B d#> <B d#>] rest [<c e> rest rest <c e>] \
+ [<c# f> rest rest <dnl f#>] [g f# fn e]
+=2 8 [<C# F> rest, rest, <C# F>] rest [<D F#> <D F#>] rest \
+ rest, [<D# G> <E G#> Fn] [E D# Dn C#]
+=3 1 rest
+/
+2 bars | 96 |
+|
+=1, 8 rest [<A# d> <A# d>] rest [<B d#> rest rest <B d#>] \
+ [<c e> rest rest <db f>] [gb f e d#]
+=2 8 [<C E> rest rest <C E>] rest, [<C# F> <C# F>] rest, \
+ rest, [<D F#> <Eb G>] rest, [Ab G F# Fn]
+=3 1 rest
+|
+il0.6 .03 60
+=1, 8 [<A# d> rest rest <A# d>] rest [<B d#> <B d#>] rest \
+ rest [<c e> <db f> dn] [eb d db c]
+=2 8 rest, [<C E> <C E>] rest, [<C# F> rest rest <C# F>] \
+ [<D F#> rest, rest, <D# G>] [Gb Fn E Eb]
+=3 1 rest
+/
+2 bars | 96 |
+|
+=1, 8 rest [<A c#> <A c#>] rest [<A# d> rest rest <A# d>] \
+ [<B d#> rest rest <cn e>] [f e eb dn]
+=2 8 [<B_ D#> rest rest <B_ D#>] rest, [<C E> <C E>] rest, \
+ rest, [<C# F> <Dnl F#>] rest, [G F# Fn E]
+=3 1 rest
+|
+=1, 8 [<A c#> rest rest <A c#>] rest [<A# d> <A# d>] rest \
+ rest [<B d#> <cn e> db] [dn db c B]
+=2 8 rest, [<B_ D#> <B_ D#>] rest, [<C E> rest rest <C E>] \
+ [<C# F> rest, rest, <Dnl Gb>] [F E Eb D]
+=3 1 rest
+/
+2 bars | 96 | 96 ||
+|
+=1, 8 [<G# c> rest rest <G# c>] rest [<A c#> <A c#>] rest \
+ rest [<A# d> <B d#> e] [eb dn db cn]
+=2 8 rest [<A_# D> <A_# D>] rest [<B_ D#> rest, rest, <B_ D#>] \
+ [<C E> rest, rest, <C# F>] [Gb F E Eb]
+=3 1 rest
+|
+=1, 8 rest [<G B> <G B>] rest [<Ab c> rest rest <Ab c>] \
+ [<G B> rest g G] 4 g~ rest
+=2 8 [<A_ C#> rest, rest, <A_ C#>] rest [<B_b D> <B_b D>] rest \
+ rest, [<A_ C#> <A_ C#>] rest 2 rest
+=3 1. blank 4 G_ rest
+
+6 systems 25/19-20-19/19-35-19/19-35-19/19-40-19/ 19-40-19/ 19-30-19/
+
+/
+2 bars | 7/4 28 | 28 |
+# Eyes Wide Shut
+# also Debussy Preludes Book II number 10, Canope, bar 11
+# A Bb Bb A Bb A-fermata A Bb Bb A A Bb-fermata
+| 6.0
+=1 treble 7/4 cha0 vol100 leg100 \
+ 4 a~ leg85 b~b leg100 b~b leg85 a~ leg100 b~b leg85 2 a~
+=2 bass   7/4 cha0 vol100 leg100 \
+ 4 A_ leg85 B_b leg100 B_b leg85 A_ leg100 B_b leg85 2 A_
+midi off
+|
+=1 leg100 4 a~ leg85 b~b leg100 b~b leg85 a~ leg100 a~ 2 b~b
+=2 leg100 4 A_ leg85 B_b leg100 B_b leg85 A_ leg100 A_ 2 B_b
+
+midi on
+
+/
+2 bars | 4/4 64 | 64 |
+| 2.5
+=1' 4/4 vol70 8 rest' 16 [d B] 8 [d B] 8 [d 16 B d] 8 [B 16 d B]
+=1, 4/4 vol80 4 F 8 [A F] 4 A F
+=2' 4/4 vol90 2 d~ 4 b d~
+=2, 4/4 vol99 2 a f
+|
+=1' vol70 8 [d 16 B d] 8 [B d] 8 [B 16 d B] 8 [d B]
+=1, vol80 4 A 8 [F A] 4 F 8 [A F]
+=2' vol90 2 b d~
+=2, vol99 2 f a
+/
+2 bars | 64 | 64 |
+|
+=1' vol70 8 [d 16 B d] 8 [B d] 8 [B 16 d B] 8 [d 16 B d]
+=1, vol80 4 A 8 [F A] 4 F A
+=2' vol90 2 b 4 d~ b
+=2, vol99 2 f a
+|
+=1' vol70 8 [B 16 d B] 8 [d B] 8 [d 16 B d] 8 [B 16 d B]
+=1, vol80 4 F 8 [A F] 4 A F
+=2' vol90 2 d~ 4 b d~
+=2, vol99 2 a f
+/
+2 bars | 64 | 64 |
+|
+=1' 16 [B d d B] [d B B d] [d B B d] [B d d B]
+=1, 8 [F A A F] [A F F A]
+=2' 4 d~ b b d~
+=2, 2 a f
+|
+=1' 16 [d B B d] [B d d B] [B d d B] [d B B d]
+=1, 8 [A F F A] [F A A F]
+=2' 4 b d~ d~ b
+=2, 2 f a
+/
+2 bars | 64 | 64 |
+|
+=1' 16 [d B B d] [B d d B] [B d d B] [d B B d]
+=1, 8 [A F F A] [F A A F]
+=2' 4 b d~ d~ b
+=2, 2 f a
+|
+=1' 16 [B d d B] [d B B d] [d B B d] [B d d B]
+=1, 8 [F A A F] [A F F A]
+=2' 4 d~ b b d~
+=2, 2 a f
+/
+2 bars | 4/4 64 | 64 |
+| 2.5
+=1' 4/4 vol80 2 G 4 F# G
+=1, 4/4 vol70 4 C 8 [Db C] 4 Dbl C
+=2' 4/4 vol80 2 g 4 f# g
+=2' 4/4 vol60 8 [A_ 16 B_b A_] 8 [B_b A_] 8 [B_b 16 A_ B_b] 8 [A_ 16 B_b A_]
+|
+=1' vol80 2 F#r G
+=1, vol70 4 Dblr 8 [C Db] 4 C 8 [Db C]
+=2' vol80 2 f#r g
+=2' vol60 8 [B_b 16 A_ B_b] 8 [A_ B_b] 8 [A_ 16 B_b A_] 8 [B_b A_]
+
+
+/
+2 bars | 64 | 64 |
+|
+=1' vol80 2 F#r 4 G F#
+=1, vol70 4 Dblr 8 [C Db] 4 C Db
+=2' vol80 2 f# 4 g f#
+=2' vol60 8 [B_b 16 A_ B_b] 8 [A_ B_b] 8 [A_ 16 B_b A_] 8 [B_b 16 A_ B_b]
+|
+=1' vol80 2 G 4 F# G
+=1, vol70 4 C 8 [Db C] 4 Dbl 8 [C Db]
+=2' vol80 2 g 4 f# g
+=2' vol60 8 [A_ 16 B_b A_] 8 [B_b A_] 8 [B_b 16 A_ B_b] 8 [A_ 16 B_b A_]
+

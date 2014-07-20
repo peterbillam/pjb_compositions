@@ -1,0 +1,30 @@
+#! /usr/bin/perl
+while (<>) {
+	if (/offers innovative/) { last; }
+	print;
+}
+print <<'EOT';
+This material from\f2November at the Carousel\fP is offered under
+generous copyright conditions:
+.nr PS 11
+.nr VS 13
+.IP \ \ \ \ \ \(bu
+You may not redistribute the piece in electronic form
+.IP \ \ \ \ \ \(bu
+You may print out or photocopy as many copies as you wish
+.IP \ \ \ \ \ \(bu
+You may give these copies to whoever you want
+.IP \ \ \ \ \ \(bu
+All other rights, such as those of live performance, recording and broadcast,
+remain reserved by Peter Billam.
+.nr PS 10
+.nr VS 12
+.LP
+.nh
+Feel free to visit\ \ .\ \ .\ \ .
+
+.LP
+.ce 1
+.sp 0.1c
+\f2\s+4http://www.pjb.com.au/mus\s0\fP
+EOT

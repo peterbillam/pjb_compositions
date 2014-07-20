@@ -1,0 +1,764 @@
+4 systems /19 24 19 24 19 24 19/19 24 19 24 19 24 19/19 24 19 24 19 24 19/19 24 19 24 19 24 19/
+pagenum 4
+title Große Zeiten
+innerhead Gedicht Erich Kästner, Musik Peter Billam
+leftfoot Gedicht (c) 1960 Erich Kästner,  Musik (c) 2000 Peter Billam
+midi channel 1 patch 52 pan 09
+midi channel 2 patch 52 pan 37
+midi channel 3 patch 52 pan 63
+midi channel 4 patch 52 pan 91
+/
+6 bars | 1.5|4/4 4|4|4|4|4|
+| .65
+i0.4 .17 Gehend
+=1 treble cro cha1 G
+r0.5 .12 Die
+=2 treble cro cha2 rest
+=3 treble8vab cro cha3 rest
+=4 bass   cro cha4 rest
+| 2.6
+=1 4/4 min. A cro G
+r0.5 .10 Zeit .76 ist
+=2 4/4 cro rest D min Eb
+r0.4 .30 Die  Zeit
+=3 4/4 cro rest B min c
+r0.5 .30 Die  Zeit
+=4 4/4 smb rest
+|
+=1 min A cro G{2 F#}2
+r0.5 .02 viel .55 zu
+=2 cro rest D min Eb
+r0.4 .25 ist    viel
+=3 cro rest B min c
+r0.5 .25 ist    viel
+=4 smb rest
+|
+=1 smb Eb
+r0.5 .01  groß
+=2 smb rest
+=3 cro rest B min c(1
+r0.5 .25 zu   groß,
+=4 cro rest g min a
+r0.1 .25 zu   groß,
+|
+il0.2 .10 5
+=1 smb rest
+=2 cro rest min. D
+r0.5 .25 so
+=3 smb c)1
+=4 cro rest min. f#
+r0.1 .25 so
+|
+=1 cro rest min. c
+r0.5 .25 so
+=2 min. Eb cro F#
+r0.5 .01 groß .75 ist
+=3 min. rest cro d
+r0.5 .75 so
+=4 min. g cro rest
+r0.1 .01 groß,
+/
+5 bars |6/4 6|6|4/4 4|6/4 6|4/4 4|
+| 3.9
+=1 treble 6/4 smb B min G
+r0.6 .08 groß .69 ist
+=2 treble 6/4 smb G min rest
+r0.6 .08 sie.
+=3 treble8vab 6/4   smb eb(1
+r0.7 .08 groß,
+=4 bass  6/4  min g min. g cro a
+r0.1 .08 so .40 groß .83  ist
+|
+=1 smb Ab cro rest D
+r0.6 .01 sie.
+r0.5 .81 Sie
+=2 cro rest min F Eb cro rest
+r0.6 .19 so .50 groß
+=3 smb eb)1 min rest
+=4 smb bn cro rest b
+r0.1 .01 sie. .80 Sie
+| 2.6
+=1 4/4 min. F cro E
+r0.5 .06 wächst .78 zu
+=2 4/4 cro rest E min D
+r0.3 .28 Sie  wächst
+=3 4/4 cro rest c# min B,
+r0.4 .28 Sie  wächst
+=4 4/4 min. a cro g#
+r0.1 .06 wächst .78 zu
+| 3.9
+il0.2 .15 10
+i0.4 .85 ?
+=1 6/4 smb G# cro rest Gn
+r0.6 .05 rasch. .85 Es
+=2 6/4 cro rest F min Gb cro F E
+r0.5 .21 zu  rasch. .69 Es wird
+=3 6/4 cro rest c# min d cro c# B,(1
+r0.5 .21 zu  rasch. .69 Es wird
+=4 6/4 smb f# min rest
+r0.1   rasch.
+| 2.6
+=1 4/4 min. G# cro A#
+r0.6 .08 wird .77 ihr
+=2 4/4 min rest cro rest F
+r0.6 .77 ihr
+=3 4/4 cro B,)1 c min c#
+r0.4 .29 ihr  schlecht
+=4 4/4 cro rest e min f
+r0.1 .29 ihr  schlecht
+/
+5 bars |1 1 1.4|6|4|4|6|
+| 1.85
+=1 treble 3/4 min B(1 qua B)1 G
+r0.5 .13 schlecht .85 be -
+=2 treble 3/4 min F(1 qua F)1 F
+r0.5 .13 schlecht .85 be -
+=3 treble8vab 3/4  min. d
+r0.5 .14 be .59 -
+=4 bass  3/4  cro rest g# a
+r0.1 .37 bekom .90 -
+| 3.9
+=1 6/4 cro d min. c# cro rest Ab
+r0.6 .07 kommen. .81 Man
+=2 6/4 min G G cro rest E
+r0.6 .07 kom - men.
+r0.5 .82 Man
+=3 6/4 min. en{1 cro d}1 min c#
+r0.6 .07 kom .40 - .69 men.
+=4 6/4 smb. bb
+r0.1 .07 men.
+| 2.6
+=1 4/4 min. Bb' cro Ab
+r0.5   nimmt            ihr
+=2 4/4 smb E
+r0.5   nimmt
+=3 4/4 cro rest cn cro db c
+r0.5         Man nimmt ihr
+=4 4/4 smb rest
+|
+il0.2   15
+=1 min. Bb cro G
+r0.5    täg      -       lich
+=2 cro rest D# E E
+r0.5           ihr   täglich
+=3 min. db cro db
+r0.5    täg      -      lich
+=4 cro rest g ab bb
+r0.3          Man nimmt ihr
+| 3.9
+=1 6/4 smb en cro rest Bb
+r0.5     Maß                           und
+=2 6/4 smb G cro E{1 F}1
+r0.5     Maß                       und
+=3 6/4 smb db
+r0.5     Maß
+=4 6/4 min. bn a#
+r0.3     Maß              und
+/
+5 bars |1 1 1.4|4|4|4|4|
+| 1.85
+=1 treble 3/4 min db(1 qua db)1 c
+r0.5         denkt               bek  -
+=2 treble 3/4 min E(1 qua E)1 F
+r0.5         denkt               bek  -
+=3 treble8vab  3/4 min rest cro d
+r0.5                          bek  -
+=4 bass   3/4 min g# cro g#
+r0.3         denkt          bek  -
+| 2.6
+=1 4/4 cro e d# rest d#
+r0.5     lommen :           So
+=2 4/4 cro Gb Gb min rest
+r0.5     lommen :
+=3 4/4 min c# cro c# c#
+r0.5     lom   -   men :  So
+=4 4/4 min a a
+r0.3     lom   -   men :
+|
+=1 min. e cro c#
+r0.5    groß                 als
+=2 min A# G#
+r0.5    groß          als
+=3 min. c# cro e
+r0.5    groß                 als
+=4 min g# a#
+r0.3    groß          als
+|
+il0.4       20
+=1 min. g cro eb(1
+r0.5   heu         -         te
+=2 min Gn Eb
+r0.5   heu     -    te
+=3 min. cn cro c(2
+r0.5   heu         -         te
+=4 min an a(2
+r0.3   heu     -    te
+|
+=1 cro eb)1 rest A c
+r0.5                    war    die
+=2 cro rest min F# cro F#
+r0.5           war             die
+=3 cro c)2 min. rest
+=4 cro a)2 min. rest
+
+4 systems /19 24 19 24 19 24 19/19 24 19 24 19 24 19/19 24 19 24 19 24 19/19 24 19 24 19 24 19/
+pagenum 5
+innerhead Große Zeiten, Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Erich Kästner,  Musik (c) 2000 Peter Billam
+/
+5 bars |5|4|4|4|4|
+| 3.25
+=1 treble 5/4 min. B cro rest G
+r0.5          Zeit                        noch
+=2 treble 5/4 min. Fn min E
+r0.5          Zeit                 noch
+=3 treble8vab   5/4 smb d cro d
+r0.5          Zeit                        noch
+=4 bass   5/4 min. a min bb
+r0.3          Zeit                 noch
+| 2.6
+=1 4/4 smb Ab(2
+r0.5       nie.
+=2 4/4 smb F(2
+r0.5       nie.
+=3 4/4 smb d(1
+r0.5       nie.
+=4 4/4 min c~{2 b}2(2
+r0.3       nie.
+|
+=1 min Ab)2 rest
+=2 min. F)2 cro rest
+=3 min. d)1 cro rest
+=4 cro b)2 rest min  G
+r0.3                   Sie
+|
+il0.2   25
+=1 cro rest G# min B'(2
+r0.5            Sie     wuchs.
+=2 min. rest cro F
+r0.5                          Sie
+=3 smb rest
+=4 smb G#(1
+r0.3   wuchs.
+|
+=1 min B')2 cro rest B
+r0.5                          Sie
+=2 smb Gb
+r0.5   wuchs.
+=3 cro rest c# min d(1
+r0.5           Sie    wuchs.
+=4 smb G#)1
+/
+4 bars |4|1 1 1 1.75 1.75|5|1 1 1 1 1.4|
+|
+=1 treble min. f cro rest
+r0.5       wächst.
+=2 treble cro rest G min Ab
+r0.5            Sie   wächst.
+=3 treble8vab min. d)1 cro rest
+=4 bass   min rest cro B c(2
+r0.3                        Sie   wächst.
+| 3.25
+=1 5/4 min. G qua Bb' A db c
+r0.5      Schon               geht  sie  aus  den
+=2 5/4 cro rest min Eb qua Eb Eb Eb Eb
+r0.5                  Schon   geht  sie  aus  den
+=3 5/4 min rest cro c qua c db A Bb
+r0.5                     Schon geht sie aus den
+=4 5/4 cro c)2 min c cro. f# qua f#
+r0.3         Schon     geht                sie
+|
+=1 min e cro Bb rest E
+r0.5   Fu     -      gen.          Was
+=2 min D En cro rest
+r0.5   Fu    -     gen.
+=3 cro Bb{1 c c#}1 min d
+r0.5   Fu        -         gen.
+=4 smb g cro g
+r0.3   aus                         den
+|
+il0.2    30
+=1 smb c qua rest Ab
+r0.5     tut                           der
+=2 cro rest min F cro. E qua F
+r0.5           Was          tut       der
+=3 smb rest
+=4 min ab ab cro rest
+r0.3   Fu      -      gen.
+/
+6 bars |1 1 1 1.4|4|4|1 1.4 1|3|3|
+| 2.6
+=1 treble 4/4 min. db qua rest Bb,
+r0.5         Mensch            da -
+=2 treble 4/4 cro E F min E(1
+r0.5       Mensch da - ge   -
+=3 treble8vab 4/4 smb rest
+=4 bass   4/4 min bb cro. bb qua bb
+r0.3        Was             tut   der
+|
+=1 cro dn f# min rest
+r0.5     gegen ?
+=2 cro E)1 min. E
+r0.5          gen ?
+=3 smb c(1
+r0.5    Er
+=4 smb bb
+r0.3    Mensch ?
+|
+=1 cro rest eb g rest
+r0.5         Er  ist
+=2 smb rest
+=3 min c)1 qua c rest cro eb(1
+r0.5                    ist  gut
+=4 cro rest a a rest
+r0.3         Er  ist
+|
+=1 min. A cro rest
+r0.5     gut .
+=2 min. G cro rest
+r0.5     gut .
+=3 min. eb)1 cro rest
+=4 min. c~ cro rest
+r0.3     gut .
+| 1.85
+il0.2 .20 35
+=1 3/4 min. rest
+=2 3/4 min. Ab 
+r0.5 .09 Rings
+=3 3/4 min. B
+r0.5 .09 Rings
+=4 3/4 min rest cro f
+r0.3 .68 Rings
+|
+=1 smb rest
+=2 min D cro F
+r0.5 .03 in .67 den
+=3 min B cro B
+r0.5 .03 in .67 den
+=4 cro gb c# d'(2
+r0.3 .03 in .33 den .67 Was -
+/
+6 bars |.7 1.3 .5 .5 .5 .5 .5 .5 |5|4|4|1 1 1 1.6|4|
+| 2.6
+=1 treble 4/4 smb rest
+=2 treble 4/4 qua Gb F min Gb cro B'
+r0.5         Wasserköp    -    fen
+=3 treble8vab 4/4 cro G# A# Bn' G#
+r0.5         Was - serköpfen
+=4 bass   4/4 qua d)2 d min d cro d
+r0.5              - serköp  -  fen
+| 3.25
+=1 5/4 cro rest min. A cro F
+r0.5           steigt           die
+=2 5/4 smb rest cro rest
+=3 5/4 min rest cro B c# d(1
+r0.5              steigt die Flut
+=4 5/4 smb d cro rest
+r0.3     steigt
+| 2.6
+=1 4/4 smb d
+r0.5      Flut
+=2 4/4 min rest D
+r0.4           steigt
+=3 4/4 smb d)1
+=4 4/4 cro B min. g#(1
+r0.5   die  Flut
+|
+il0.2 .01 40
+=1' cro rest min. B
+r0.5 .25 Und
+=2 cro B_ min. G#
+r0.3  die  Flut
+=3 smb rest
+=4 cro g#)1 min. rest
+r0.3     
+|
+=1 cro A# min E cro rest
+r0.5 .01 Ebbe
+=2 smb rest
+r0.5     
+=3 cro rest min c# qua cn G#(2
+r0.5         Und    Eb - be
+=4 smb rest
+r0.3     
+|
+=1 min E cro A# rest
+r0.5 .01 wird .50 es
+=2 smb rest
+r0.5     
+=3 smb G#)2(2
+=4 smb rest
+
+4 systems /19 24 19 24 19 24 19 \
+ /19 27 19 27 19 27 19/19 24 19 24 19 24 19/19 24 19 24 19 24 19/
+pagenum 6
+innerhead Große Zeiten, Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Erich Kästner,  Musik (c) 2000 Peter Billam
+/
+5 bars |4|4|4|1 1 1.5 1|.7 .7 .7 .7 .5 .5 .5 .5 .5|
+|
+=1 treble smb rest
+=2 treble cro rest min Db cro C
+r0.4 .27 im .74 Ge   -
+=3 treble8vab smb G#)2
+=4 bass   smb rest
+r0.5      
+|
+=1 cro d e cro. f qua d
+r0.5 .01 im .25 Gehirn .85 der
+=2 cro E G min A{1
+r0.5 .01 hirn  der  Klu .99 -
+=3 cro A# A# cro. B qua B
+r0.4 .01 im .25 Gehirn .85 der
+=4 smb rest
+|
+il0.2    45
+=1 min c# cro e rest
+r0.5 .01 Klu   -   gen.
+=2 smb G#}1
+r0.5 .45 -
+=3 smb A#
+r0.4 .01 Klu .60 -
+=4 smb rest
+r0.5     
+|
+=1 min rest qua rest cro. Ab
+r0.5 .59 Der
+=2 min Gn qua rest cro. F
+r0.5 .01 gen. .59 Der
+=3 min A# qua rest cro. B
+r0.5 .01 gen. .59 Der
+=4 min rest qua rest cro. eb
+r0.1 .59 Der
+| 2.925
+=1 9/8 qua  [d rest  c] cro. gb cro Bb qua rest
+r0.5      Op  -  timist   -   fink
+=2 9/8 qua [F rest, Ab] cro. Eb cro Gb qua rest
+r0.5      Op  -  timist   -   fink
+=3 9/8 qua  [d rest' d] cro. db cro eb qua rest
+r0.5      Op  -  timist   -   fink
+=4 9/8 qua [ab rest' f] cro. an cro c~ qua rest
+r0.1      Op  -  timist   -   fink
+/
+4 bars |4|4|6|6|
+| 2.6
+=1 treble 4/4 min. eb qua A rest
+r0.5        schlägt                im
+=2 treble 4/4 min. A qua G rest
+r0.5        schlägt                im
+=3 treble8vab 4/4 min g cro. eb qua rest
+r0.5        schlägt       im
+=4 bass  4/4 min c~ cro. b qua rest
+r0.1        schlägt       im
+|
+=1 cro3 B' eb-I3  rest cro G rest
+r0.7 .01 Blätter - wald.
+I0.01 .18 3
+=2 min3 G cro3 G min Eb
+r0.6 .01 Blät - terwald.
+I0.01 .18 3
+=3 min3 eb cro3 B min c
+r0.7 .01 Blät - terwald.
+=4 cro3 a a-I3  rest cro a rest
+r0.1 .01 Blätter - wald.
+| 3.9
+il0.3   50
+=1 6/4 cro rest B' min. g cro eb
+r0.5           Die      gu        -        ten
+=2 6/4 cro rest G min G G
+r0.5           Die      gu     -     ten
+=3 6/4 cro rest en min. eb cro c
+r0.5      Die      gu        -        ten
+=4 6/4 min g g a
+r0.1      Die      gu     -     ten
+|
+=1 min A cro c rest B c
+r0.5   Leu     -    te,             die   ihm
+=2 min. En min Eb cro Eb
+r0.5   Leu         -         te           ihm
+=3 min. c min A cro A
+r0.5   Leu         -         te           ihm
+=4 min f# cro f# rest cro g g
+r0.1   Leu     -    te,             die   ihm
+/
+5 bars |4|6|5|4|4|
+| 2.6
+=1 treble 4/4 min. f# cro e
+r0.5          Fut    -    ter
+=2 treble 4/4 min. En cro F#
+r0.5          Fut    -    ter
+=3 treble8vab 4/4 min. A cro A
+r0.5          Fut    -    ter
+=4 bass  4/4 min. c cro c
+r0.3          Fut    -    ter
+| 3.9
+=1 6/4 min c cro eb rest c rest
+r0.5     ga   -   ben,         sind
+=2 6/4 min F# F# min rest
+r0.5     ga   -   ben,
+=3 6/4 min Bb Bb min rest
+r0.5     ga   -   ben,
+=4 6/4 min f# cro f# rest a rest
+r0.3     ga   -   ben,         sind
+| 3.25
+=1 5/4 cro a rest eb rest G
+r0.5     glück   -   lich,      daß
+=2 5/4 cro G rest G min rest
+r0.5     glück   -   lich,
+=3 5/4 cro eb min eb rest
+r0.6     glücklich,
+=4 5/4 cro a min c~ g
+r0.3     glücklich,       daß
+| 2.6
+il0.4     55
+=1 4/4 cro B' A cro. B' qua c#
+r0.5      sie  ein   Vo - gel
+=2 4/4 cro G G cro. G qua G
+r0.5      sie  ein   Vo - gel
+=3 4/4 cro eb eb cro. eb qua eb
+r0.5      sie  ein   Vo - gel
+=4 4/4 cro b b cro. b qua b
+r0.3      sie  ein   Vo - gel
+|
+=1 min. e cro Bb
+r0.5   ha        -       ben.
+=2 min Ab min Ab
+r0.5   ha    -    ben.
+=3 min db min en
+r0.5   ha    -    ben.
+=4 min. bb cro bb
+r0.3   ha        -       ben.
+/
+5 bars |4|4|5|4|4|
+|
+=1 treble min rest d
+r0.5                      Der
+=2 treble cro rest min. G
+r0.5               Der
+=3 treble8vab cro rest min. dn
+r0.5               Der
+=4 bass  cro rest min bb cro rest
+r0.3               Der
+|
+=1 min e Bb'(2
+r0.5   Zu    -    kunft
+=2 min D E
+r0.5   Zu    -    kunft
+=3 min Bb Bb
+r0.5   Zu    -    kunft
+=4 smb G
+r0.3   Zu    -
+| 3.25
+=1 5/4 cro Bb')2 rest rest A Bn'
+r0.5                               werden
+=2 5/4 min F# min. G
+r0.5      wer    -    den
+=3 5/4 min Bb min. Bb
+r0.5      wer    -    den
+=4 5/4 smb c cro rest
+r0.3      kunft
+| 2.6
+il0.2    60
+=1 min c cro B' d A
+r0.5   sacht      die   Füße
+=2 cro rest min G F
+r0.5        sacht       die
+=3 cro rest min A min B'
+r0.5        sacht       die
+=4 cro eb eb eb f f
+r0.3   werden  die   Füße
+|
+=1 4/4 smb eb(1
+r0.5       kalt.
+=2 4/4 min G G
+r0.5       Fü      -     ße
+=3 4/4 smb B'(1
+r0.5       Fü    -
+=4 4/4 smb eb(1
+r0.3       kalt.
+
+4 systems /19 23 19 23 19 23 19/19 28 19 28 19 28 19/19 24 19 24 19 24 19/19 24 19 24 19 24 19/
+pagenum 7
+innerhead Große Zeiten, Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Erich Kästner,  Musik (c) 2000 Peter Billam
+/
+5 bars |4|5|4|3|5|
+|
+=1 treble min. eb)1 cro rest
+=2 treble min. G cro rest
+r0.5        kalt.
+=3 treble8vab cro B')1 c d eb(1
+r0.5          -    ße   kalt. Wer
+=4 bass  min. eb)1 cro rest
+| 3.25
+=1 5/4 min g f# cro d
+r0.5     Wer          war   -   nen
+=2 5/4 smb rest cro rest
+r0.5        
+=3 5/4 min eb)1 en cro f#
+r0.5                     war    -    nen
+=4 5/4 smb rest cro rest
+r0.3        
+| 2.6
+=1 4/4 min. eb cro rest
+r0.5     will,
+=2 4/4 smb rest
+r0.5   
+=3 4/4 min. g cro rest
+r0.5     will,
+=4 4/4 smb rest
+| 1.85
+=1 3/4 min en cro rest
+r0.5     den
+=2 3/4 min. rest
+r0.5   
+=3 3/4 min ab cro rest
+r0.5     den
+=4 3/4 min c~ cro rest
+r0.2     den
+| 2.6
+=1 4/4 cro f c# qua rest cro A qua B'
+r0.5     straft   man      mit    Ver  -
+=2 4/4 cro G F qua rest cro F qua F
+r0.5     straft   man      mit    Ver  -
+=3 4/4 cro c# c# d d
+r0.5     straft   man   mit    Ver  -
+=4 4/4 cro b b b b
+r0.2     straft   man   mit    Ver  -
+/
+4 bars |4|4|2 2 2.8|4|
+|
+=1 treble cro d G# rest cro B
+r0.5        achtung.              Die
+=2 treble cro F# F# cro rest G#
+r0.5        achtung.              Die
+=3 treble8vab min d cro d rest
+r0.5        ach - tung.
+=4 bass  min b cro b rest
+r0.3        ach - tung.
+|
+=1 min. g# cro e
+r0.5   Dumm     -     heit
+=2 min. A# cro G#
+r0.5   Dumm     -     heit
+=3 min. c# cro c#
+r0.5   Dumm     -     heit
+=4 min. e cro e
+r0.3   Dumm     -     heit
+| 3.9
+I0.1                                                    3
+=1 6/4 min. d# cro B' cro3 c eb d
+r0.5  wird                    zum   E  -  pi  -  de  -
+I0.01                                                    3
+=2 6/4 min An F# cro3 G G G
+r0.5  wird        zum               E  -  pi  -  de  -
+I0.01                                                    3
+=3 6/4 min. c# cro d# cro3 eb eb eb
+r0.6  wird                    zum   E  -  pi  -  de  -
+I0.01                                                    3
+=4 6/4 min. f# cro g# cro3 a b c~
+r0.3  wird                    zum   E  -  pi  -  de  -
+| 3.0
+il0.4    70
+=1 4/4 min f# cro rest F#
+r0.5     mie.                 So
+=2 4/4 min. F# cro rest
+r0.5     mie.
+=3 4/4 min. eb cro rest
+r0.5     mie.
+=4 4/4 min bb cro rest f#
+r0.3     mie.                 So
+/
+5 bars |4|3|5|4|4|
+|
+i0.3        breiter werden . . .
+=1 treble min. A cro G#
+r0.5        groß                wie
+=2 treble smb E
+r0.5        So
+=3 treble8vab smb c
+r0.5        So
+=4 bass  min. f# cro f#
+r0.3        groß               wie
+| 2.25
+=1 3/4 min. d
+r0.5      Heu   -
+=2 3/4 min E cro E
+r0.5      groß       wie
+=3 3/4 min Bb' cro c#
+r0.5      groß       wie
+=4 3/4 min. g
+r0.3      Heu   -
+| 3.75
+=1 5/4 min A# cro rest B' A#
+r0.5     te                     war  die
+=2 5/4 min E cro E E E
+r0.5     Heu     -     te    war  die
+=3 5/4 min d cro c# c# c#
+r0.5     Heu     -     te    war  die
+=4 5/4 min g cro rest min g(2
+r0.3     te                     war
+| 3.0
+=1 4/4 min. c# cro A#
+r0.5    Zeit                  noch
+=2 4/4 min F F
+r0.5    Zeit              noch
+=3 4/4 min. c# cro d
+r0.5    Zeit                  noch
+=4 4/4 cro g)2 g g g
+r0.3            die  Zeit  noch
+|
+il0.2    75
+=1 min d cro rest F#
+r0.5    nie.                Ein
+=2 min. G cro F#
+r0.5    nie.                Ein
+=3 min. e cro rest
+r0.5    nie.
+=4 min. g cro a
+r0.3    nie.                Ein
+/
+5 bars |4|5|5|4|5||
+|
+=1 treble min. B' cro A#
+r0.5       Volk              ver -
+=2 treble min. D cro F
+r0.5       Volk              ver -
+=3 treble8vab min. B cro c#
+r0.5       Volk              ver -
+=4 bass  min ab ab
+r0.3       Volk       ver   -
+| 3.75
+=1 5/4 min. G# cro rest Gn
+r0.5      sinkt                   in
+=2 5/4 min F# min. D
+r0.5      sinkt      in
+=3 5/4 min d cro Ab min G(2
+r0.5      sinkt      in   gei -
+=4 5/4 min gb cro f min e
+r0.3      sinkt      in   gei -
+|
+=1 cro B' G Ab  rest Bb'
+r0.5   gei - sti - ger       Um -
+=2 min Eb cro Eb min Eb
+r0.5   gei    -    sti - ger
+=3 min G)2 min. F
+r0.5                 sti   -
+=4 min eb eb cro eb
+r0.3   sti    -    ger       Um -
+| 3.0
+=1 4/4 cro Bn' min F min rest
+r0.5     nachtung.
+=2 4/4 min. F cro F B_(1
+r0.2     Um    -  nachtung.
+=3 4/4 smb F
+r0.5     ger
+=4 4/4 min. d cro d(2
+r0.3     nach     -     tung -
+| 3.75
+il0.1   80
+=1 5/4 min rest min. rest
+=2 5/4 min B_)1(1 min. B_)1
+=3 5/4 cro F B' min. F
+r0.5     Umnachtung.
+=4 5/4 min d)2(2 min. d)2

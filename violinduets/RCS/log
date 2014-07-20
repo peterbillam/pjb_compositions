@@ -1,0 +1,10 @@
+19980324 211421 score pjb 3 Violin Duets, 1987
+19980519 183538 title pjb title page of violin duets
+19980819 143740 make_samples pjb perl script to make violinduet samplewss
+19980819 154913 make_samples pjb debug message placement in us version
+19980819 155339 score pjb correct final chord in piece 1 vln 2
+19980819 155758 make_samples pjb less transkation between pieces
+19980819 155842 make_samples pjb even less
+19980819 160621 score pjb spacing for Bb in Duet 3 bar 1
+19990724 172802 title pjb Postscript -> electronic
+20060422 161942 violinduets pjb Three Violin Duets, just revised

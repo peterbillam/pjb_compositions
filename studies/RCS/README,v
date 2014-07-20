@@ -1,0 +1,192 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.12.09.07.46.54;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@The Plan for klavieruebungen, including other names :-)
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@20081215  wozzeck act 1 bar 139-144
+20111203  klavieruebungen - previous exercises collected, plus "One" mt-alberti
+20120114  mt_piece 14/16 mt(llrr llr) energetic
+
+20120325
+
+i = integer
+e = even integer
+
+0i0 = two-voice. Every movement of one or of both voices is allowed,
+     except those completing a 43, or forming a semitone dischord.
+
+one of those voices can be deemed to be two voices in unison,
+which can then divide, yielding 0i2
+0i2 = three-voice. Every movement of the solo-voice or of the duet voices
+     or of all of them is allowed, except those completing a 43,
+     or forming a semitone dischord.
+
+the solo voice can be deemed to be two voices in unison,
+which can then divide, yielding 2i2
+
+If i is even, 2e2, all +/-1 +/-1 +/-1 +/-1 are fine.
+In some of those combinations it reverts back to 0e2 or 0ee
+
+If 232,
+then --++ is a flipflop causing a +/-6st change
+  or ++++ and ----  are parallel movement and are fine
+  or 000+ becomes a 233
+  or -+-+ gives a 414 (canonicalises as 143) and they're all allowed,
+     under the major-seventh-is-ok rule.
+  or 00++ and --00  become a 242
+
+If 242,
+then 0000 is itself dual to it's own +/-6st transposition
+  or 00-0 becomes a 233
+  or -+-+ is  a flipflop +/-3 change
+  or 0++0 and 0++0 and +00+ and -00- lead to 414
+     and are allowed under the major-seventh rule.
+  all +/-1 +/-1+/-1 +/-1 stay in the even-only domain, and are all fine.
+
+If 414 (canonicalises as 143),
+then each pair can explore 3 different heights
+      because or the major-seventh rule, the middle height being a 242
+  or --++ is a flipflop causing a +/-6st change
+
+If 233,
+Then -+00 is a +3st
+  or -0+0 is a flipflop causing a +/-6st change
+  or -00+ is a -3st
+  or ++++ and ----  are parallel movement and are fine
+  or 000- becomes a 232
+  or 00+0 becomes a 242
+  or 00-0 becomes a 224  which enters the even-only domain
+  or 0-00 becomes a 143 (see 414)
+  or --0- becomes a 242
+
+Perhaps this is the organising principle of Klavieruebung II ?
+with the finger-exercises as Klavieruebung I ?
+
+
+20120508
+
+The final two: Improvisation (for two pianos)
+  and Composition (for two pianos, two horns and two trumpets)
+
+For the Improvisation:
+  could even record 2 hands, then overdub the other 2, then midi2muscript :-)
+
+For the Composition:
+  Could: use one piano as a Pedal with a long comb pattern
+    two horns, adding 2 voices thus defining a 3-note chord
+    over which the other piano and the trumpets converse, or dance
+  or with that Amthem1RH_within_Anthem2LH pattern ||:20|18:||  (see AK)
+
+Scales in // and contrary motion
+  RH @@ 2|4|6|8|10 st
+  LH @@ 2|4|6|8|10 st
+  up and down an octave in 12/8 x 2, 4 sec  (100 sec)
+    //: at six different intervals between the two hands,  (600 sec)
+    contrary-motion: unison lower-notes at twelve different notes  (1200 sec)
+
+20120602 voice_leading - very important... the basis of much
+20120606 two_two - albertifiisation of //@@(3,4) + //@@(3,4)
+20120606 duet - good basis to use arpeggiation in a 2-piano piece
+20120616 mt6 - fast mt-arpeggiation
+20120627 uebung - (bass+chord)isation of //@@(3,4) + //@@(3,4)
+20120121 contrary_motion - good n:m arpeggii
+20120522 bank5.mid - good version of contrary_motion
+20120611 arpeggiation - good energetic rhythm even on one (pedal) note
+20120907 3x3x3
+20120928 flight-of-the-bumble-bee
+20121001 fractal tune
+
+20121125
+
+Forget the big 2pno+2trp+2hrn finale ! silly idea...
+end with 20121111 variations.
+Second-last piece perhaps something for a solo line ?
+
+Possible titles
+  Klavieruebungen   too pretentious ?
+  Harmonielehre     not bad; though excludes the simple 5-finger exercises
+  Keyboard Harmony  not bad
+  Piano Study       too like there was only one of them ?
+  Piano Studies
+  Keyboard Study    not bad
+  Keyboard Studies
+
+20121111 The final set of variations (if 'worked examples' isn't a better name)
+
+20121209
+  The various pieces need to cover: (where A means 10)
+  simple 5-finger exercise   01_finger_exercise
+  scales in the major-sixth chords
+    0323 0952 0989
+    0343 0973 09A9
+  scales in the whole-tone chords
+    0424 0A62 0A6A
+    0242 0A62 0A8A
+  scales in the minor-sixth chords
+    0233 0A53 0A89
+    0334 0964 09A8
+    0342 0972 099A
+    0423 0863 0899
+  contrary-motion scales in the whole-tone chords
+    02,02
+    02,04 04,02 04,04
+    02,06 06,06 04,06 06,04 06,06
+    02,08 08,02 04,08 08,04 06,08 08,06 08,08
+    02,0A 0A,02 04,0A 0A,04 06,0A 0A,06 08,0A 0A,08 0A,0A
+  then the 3-notes-against-one passing-noteisation of whole-tone chords
+    1 voice  over 3
+    2 voices over 2
+    3 voices over 1
+  the 0424->0414->0424->0434 and 0323->0333->0343 movements
+  the free-movement-domains of 0 02 03 04 06 08 09 0A against 2 static notes
+  the voice_leading-type possible-chords-given-one-constant-note
+  the safe passing-notes for a chord+tune
+  multirhythms
+  patterns in mt2 mt3 mt4 rabbit leibnitz and comb
+  other fractal tune-shapes
+  fractal textures
+  other fractal rhythms-within-rhythms
+  something for the solo line for keyboard
+  the variations   20121111
+  something for two pianos ?
+
+  Names ?
+  01_finger_exercise
+  02_scales_323
+  03_scales_424
+  04_scales_233
+  05_contrary_motion
+  06_three_against_one
+  07_4i4_3i3
+  08_chords_including_pedal
+  09_passing_notes
+  10_multirhythms
+  11_morse_thue
+  12_rabbit_comb
+  13_rabbit
+  14_fractal_tunes
+  15_fractal_textures
+  16_fractal_rythms_within_rhythms
+  18_line
+  19_variations
+  20_two_pianos
+@

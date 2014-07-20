@@ -1,0 +1,369 @@
+#! /usr/bin/perl
+
+print <<'EOT';
+4 systems /17-20-17-25-17-20-17/
+title Double canon  at four semitones
+midi channel 1 patch 0 pan 95
+midi channel 2 patch 0 pan 65
+midi channel 3 patch 0 pan 35
+midi channel 4 patch 0 pan 5
+/
+5 bars | 12 | 48 |
+| 0.35
+i0.6 .05 with voice-crossings allowed
+=1 treble cha1 4 rest
+=2 treble cha2 8 vol80 [A_b A_b]
+=3 bass   cha4 4 rest
+=4 bass   cha3 8 vol80 [f f]
+| 1.4
+=1 1 rest
+=2 8 [A_b A_b A_b A_b] [A_b A_b A_b A_b]
+=3 1 rest
+=4 8 [f f f f] [f f f f]
+EOT
+
+my @voice2 = ();
+my @voice3 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	if (/^\|/) { $ibar += 1; next; }
+	if (/^=2 (.*)$/) { $voice2[$ibar] = $1; next; }
+	if (/^=4 (.*)$/) { $voice4[$ibar] = $1; next; }
+	warn "ibar=$ibar: strange DATA line $_\n";
+}
+
+$ibar = 3; while (1) {
+	if (6 == $ibar) { print "/\n4 bars | 48 | 48 | 48 | 48 |\n"; }
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.5 .05 $ibar\n"; }
+
+	my $s2 = $voice2[$ibar-2];
+	my $s4 = $voice4[$ibar-2];
+	if ($ibar>10 and !$s2 and !$s3) { last; }
+	print "=2 $voice2[$ibar]\n=4 $voice4[$ibar]\n";
+	if ($ibar > 87) { last; }
+	system "echo \"=1 $s2\" | transpose -A +4";
+	system "echo \"=3 $s4\" | transpose -A +4";
+
+	$ibar += 1;
+}
+exit 0;
+
+__END__
+
+
+|
+=2 2. rest 8 vol80 [A_b A_b]
+=4 2. rest 8 vol80 [f f]
+|
+=2 8 [A_b A_b A_b A_b] [A_b A_b A_b A_b]
+=4 8 [f f f f] [f f f f]
+|
+=2 8 [A_b A_b A_b A_b] [A_b A_b] vol105 4 E-.
+=4 8 [f f f f] [f f] vol105 4 F#-.
+|
+=2 4 G#-. F#-. B-. A-.
+=4 4 c-. A-. e-. d#-.
+|
+=2 4 c 8. [B 16 A,] 4 G vol80 8 [E E]
+=4 4 g 8. [f# 16 e] 4 d# vol80 8 [c~# c~#]
+|
+=2 vol80 8 [E E E E] [E E E E] 
+=4 vol80 8 [c~# c~# c~# c~#] [c~# c~# c~# c~#]
+|
+=2 8 [E E E E] vol105 4 g 8. [f# 16 e]
+=4 8 [c~# c~# c~# c~#] vol105 4 D 8. [C# 16 B_]
+|
+=2 1 d
+=4 1 A_#
+|
+=2 vol80 8 D 4 rest 8 D rest [D D] rest
+=4 vol80 8 b 4 rest 8 b rest [b b] rest
+|
+# 10
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=4 8 rest [b b] rest 8 b 4 rest 8 b
+|
+=2 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=4 8 rest [g g#] rest 8 a 4 rest 8 a
+|
+=2 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=4 8 bb 4 rest 8 bb 8 rest [bb bb] rest
+|
+=2 8 A 4 rest 8 A#  8 rest [A#' B'] rest
+=4 8 f~ 4 rest 8 f~ 8 rest [f~# g~] rest
+
+|
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=4 8 rest [b b] rest 8 b 4 rest 8 b
+|
+# 15
+=2 8 rest [B_ B_] rest 8 C 4 rest 8 C
+=4 8 rest [g g#] rest 8 a 4 rest 8 a
+|
+=2 8 Db 4 rest 8 Db 8 rest [Db Db] rest
+=4 8 bb 4 rest 8 bb 8 rest [bb bb] rest
+|
+=2 8 A 4 rest 8 A  8 rest [A#' B'] rest
+=4 8 f~ 4 rest 8 f~ 8 rest [f~# g~] rest
+|
+=2 8 rest [D D] rest 8 D 4 rest 8 D
+=4 8 rest [b b] rest 8 b rest vol105 4 B_-.
+|
+=2 8 rest [G_ G_#] rest B_ rest vol105 4 f-.
+=4 4 F-. rest vol80 8 g# rest rest g#
+|
+# 20
+=2 4 c~#-. vol80 8 rest B_ rest [B_ B_] rest
+=4 8 g# 4 rest 8 g# rest [g# g# d#]
+|
+=2 8 A_ 4 rest 8 A_ rest [A_ A_] A
+=4 8 [gb f f gb] [f gb gb f]
+|
+=2 8 [Eb D D] rest D 4 rest 8 D
+=4 8 [a bb bb a] bb rest vol105 4 F-.
+|
+=2 8 rest D#, vol105 4 f#-. d~#-. vol80 8 rest F#
+=4 4 d#-. rest vol80 8 f~# rest vol105 4 G-.
+|
+=2 4 blank vol105 g#-. e~-. vol80 8 [E D]
+=4 4 e-. vol80 8 rest e~ [d~ c~ c~] rest
+|
+=2 8 [E D D E] [D E E D]
+=4 8 [bb c~ c~ bb] [c~ bb bb c~]
+|
+=2 8 [D E E D] 4 rest 8 [B c]
+=4 8 [c~ bb bb c~] 4 rest 4 b
+|
+=2 8 [c# d c# cn] [B c c# d]
+=4 8 [bb a g#] 4 bn 8 [bb a g#]
+|
+=2 8 [c# cn B c] [c# d] [A_ A_]
+=4 4 b 8 [bb a] [ab gn f# f#]
+|
+=2 8 [A_ A_ A_ A_] [A_ A_ A_ A_]
+=4 8 [f# f# f# f#] [f# f# f# f#]
+|
+=2 8 [A_ A_ A_ A_] [A_ A_] vol105 4 F-.
+=4 8 [f# f# f# f#] [f# f#] vol105 4 G-.
+|
+=2 4 A-. G-. c-. Bb-.
+=4 4 c#-. Bb-. f-. e-.
+|
+=2 4 db 8. [c 16 Bb] 4 G# vol80 8 [F F]
+=4 4 ab 8. [g 16 f]  4 e vol80 8 [d~ d~]
+|
+=2 vol80 8 [F F F F] [F F F F]
+=4 vol80 8 [d~ d~ d~ d~] [d~ d~ d~ d~]
+|
+=2 8 [F F F F] vol105 4 ab 8. [g 16 f]
+=4 8 [d~ d~ d~ d~] vol105 4 Eb 8. [D 16 C]
+|
+=2 1 eb
+=4 1 B_
+|
+=2 vol80 8 [Eb C C Eb] [C Eb Eb C]
+=4 vol80 4 rest eb eb c
+|
+=2 vol80 8 [A, a a~ a] [A' Eb Eb C]
+=4 vol80 8 [e~b c~ c~ e~b] [c~ a A, a]
+|
+=2 4 Db C C Db
+=4 8 rest 4 a a a 8 a
+|
+=2 8 rest 4 B_b B_b B_b 8 B_b
+#=4 4 bb g g rest
+=4 4 G e Bb rest
+|
+=2 8 [Bb G, G, Bb] [G, Bb Bb G,]
+=4 4 rest bb bb g
+|
+=2 vol80 8 [G#, g# g~# g#] [G#' D] 4 B_
+=4 vol80 8 [b d~ d~ b] [b g# G#, g#]
+|
+=2 2. B_ vol105 4 A_-.
+=4 2. G  vol105 4 F#-.
+|
+=2 4 A-. 2 blank vol80 4 A(2
+=4 4 f#-. 2 blank vol80 4 fn(1
+|
+#=2 8. [A 16 B] 8. [c# 16 B] 8. [A 16 B] 4 cn
+#=4 vol80 8. [g 16 f] 8. [eb 16 db] 4 B rest
+=2 4. A)2 4 G# 8 A 4 G#(1
+=4 4. f)1 4 gb 8 f 4 e(1
+|
+# 45
+=2 2. G#)1 vol105 4 A_-.
+=4 2. e)1 vol105 4 F#-.
+|
+=2 4 A-. 2 blank vol80 4 Bb(1
+=4 4 f#-. 2 blank vol80 4 fn(1
+|
+=2 4 Bb)1 8 A 4 Bb 8 A 4 Ab(1
+=4 2 f)1  4 d  4 d#(1
+|
+=2 4 Ab)1 8 G 4 Ab 8 G [F F]
+=4 2. d#)1 treble 8 [B_ B_]
+|
+=2 8 [F F F F] [F F] [A A]
+=4 8 [B_ B_ B_ B_] [B_ B_ Eb Eb]
+|
+=2 8 [A A A A] [A A] [F# F#]
+=4 8 [Eb Eb Eb Eb] [Eb Eb] [C C]
+|
+=2 8 [F# F# G G] [G G A A]
+=4 8 [C C C# C#] [C# C# D# D#]
+|
+=2 8 [A, A, Bb Bb] [Bb Bb] [c c]
+=4 8 [D# D# E E] [E E] [F# F#]
+|
+=2 8 [c# c# c# c#] [d d d# d#]
+=4 8 [G G G G] [G# G# A A]
+|
+=2 8 [e e f f] [f# f# g g]
+=4 8 [A# A#] [B B] [c c c# c#]
+|
+=2 8 [g g g# g#] [g# a a# b]
+=4 8 [c# c# d d] [d d# e f]
+|
+=2 8 [b c~ c~ c~#] 4 d~ vol105 A_b
+=4 8 [f f#] 4 g bass vol105 2 A_b
+|
+=2 4 F C A E
+=4 2 F C
+|
+=2 4 c 2 rest vol80 8 [F# F#]
+=4 2 A E
+|
+=2 8 [F# F# G G] [G G Ab Ab]
+=4 2 c vol80 4 rest treble 8 [D# D#]
+|
+# 60
+=2 8 [Ab, Ab, Bb Bb] [Bb Bb] [c c]
+=4 8 [D# D# E E] [E E] [F# F#]
+|
+=2 8 [c# c# c# c#] [d d d# d#]
+=4 8 [G G G G] [G# G# A A]
+|
+=2 8 [e e f f] [f# f# g g]
+=4 8 [A# A#] [B B] [B B c c#]
+|
+=2 8 [g# g# a a] [a# a#] vol105 4 Eb
+=4 8 [c# d d d#] [d# e] bass vol105 4 F
+|
+=2 4 G-. F-. Bb-. Ab-.
+=4 4 B-. G#-. eb-. d-.
+
+|
+=2 4 B 8. [Bb 16 G#,] 4 F# vol80 8 [Eb Eb]
+=4 4 f# 8. [fn 16 eb] 4 d vol80 8 [c~ c~]
+|
+=2 vol80 8 [Eb Eb Eb Eb] [Eb Eb Eb Eb]
+=4 vol80 8 [c~ c~ c~ c~] [c~ c~ c~ c~]
+|
+=2 8 [Eb Eb Eb Eb] vol105 4 f# 8. [fn 16 eb]
+=4 8 [c~ c~ c~ c~] vol105 4 C# 8. [Cn 16 B_b]
+|
+=2 1 c#
+=4 1 A_
+|
+=2 vol80 8 C# 4 rest 8 C# rest [C# C#] rest
+=4 vol80 8 bb 4 rest 8 bb rest [bb bb] rest
+|
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=4 8 rest [bb bb] rest 8 bb 4 rest 8 bb
+|
+=2 8 rest [B_b B_b] rest 8 B_n 4 rest 8 B_
+=4 8 rest [f# g] rest 8 g# 4 rest 8 g#
+|
+=2 8 C 4 rest 8 C 8 rest [C C] rest
+=4 8 a 4 rest 8 a 8 rest [a a] rest
+|
+=2 8 G# 4 rest 8 A 8 rest [A' Bb'] rest
+=4 8 e~ 4 rest 8 e~ 8 rest [f~ f~#] rest
+
+|
+=2 8 rest [C# C#] rest 8 C# 4 rest 8 C#
+=4 8 rest [bb bb] rest 8 bb 8 rest vol105 4 B_b
+|
+=2 8 rest [F_# G_] rest B_b rest vol105 4 e-.
+=4 4 E-. rest vol80 8 g rest rest g
+|
+=2 4 c~-. vol80 8 rest B_b rest [B_b B_b] rest
+=4 8 g 4 rest 8 g rest [g g d]
+|
+=2 8 G_# 4 rest 8 G_# rest [G_# G_#] G#
+=4 8 [f e e f] [e f f e]
+|
+=2 8 [D C# C#] rest C# 4 rest 8 C#
+=4 8 [g# a a g#] a rest vol95 4 E-.
+|
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=4 1 F
+|
+# 80
+=2 1 G#
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+|
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+|
+=2 8 [Cn E E C] [E C C E]
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+|
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=4 1 F
+|
+=2 1 G#
+=4 vol80 8 e~ 4 rest 8 e~ rest [e~ e~] rest
+|
+=2 vol80 8 [E C# C# E] [C# E D# C#]
+=4 8 rest [e~b e~b] rest e~b 4 rest 8 e~b
+|
+=2 8 [Cn E E C] [E C C E]
+=4 8 rest 4 c c 8 c 4 vol95 4 E-.
+|
+=2 8 rest [D D] rest D rest vol95 4 A-.
+=4 1 F
+|
+=2 vol105 4 f~-. 2. rest
+=4 vol105 4 F_-. 2. rest
+
+
+quit
+|
+=2 2. G#)1 vol105 4 A_-.
+=4 2. d#)1 vol105 4 F#-.
+|
+=2 4 A-. 2 blank vol80 4 Bb(2
+=4 4 f#-. 2 blank vol80 4 fn(1
+|
+=2 4. Bb)2 4 G# 8 A 4 G#(1
+=4 2 f)1  4 e  4 d#(1
+|
+=2 2. G#)1 vol105 4 A_-.
+=4 2. eb)1 vol105 4 F#-.
+
+|
+=2 8 Db 4 rest 8 Db 8 rest [C C] rest
+=4 8 bb 4 rest 8 bb 8 rest bb vol100 4 C-.
+|
+=2 8 B_b 4 rest 8 B_b rest [B_b B_b] rest
+=4 4 F#-. Eb-. Bb-. A-.
+|
+=2 8 rest [C C] rest C 4 rest 8 C
+=4 4 Ab-. vol80 8 ab rest ab 4 rest 8 ab
+|
+=2 8 rest [B_b B_b] rest B_b 4 rest 8 B_b
+=4 8 rest [g g] rest g 4 rest 8 g
+|
+=2 8 B_b 4 rest 8 B_b rest [B_b B_b] rest
+=4 8 f# 4 rest 8 f# 4 rest vol100 C-.
+|
+=2 2. blank vol105 4 e-.
+=4 4 G-.  Gb-. F-. blank
+|
+=2 4 bb-. a-. d~b-. blank

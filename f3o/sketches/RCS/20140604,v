@@ -1,0 +1,97 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.06.04.03.07.18;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@see book AO p.35
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@4 systems 15 /19-25-19-25-19/
+
+title 20140604   see book AO p.35
+midi channel 0 patch 73 pan 20
+midi channel 1 patch 73 pan 50
+midi channel 2 patch 73 pan 80
+
+
+/
+5 bars | 12 | 48 | 48 | 48 | 48 |
+| 0.83
+=1 treble cha0 leg100 vol90 1 blank
+=2 treble cha1 leg100 vol90 1 blank
+=3 treble cha2 leg100 vol90 1 blank
+=1 4 rest
+=2 4 rest
+=3 4 Ab
+| 3.33
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 Ab(2 8 Ab)2 rest 4 Ab
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 Ab(2 8 Ab)2 rest 4 An
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 4. G 8 rest 4 rest Ab
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 Ab(2 8 Ab)2 rest 4 Ab
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 Ab 4 An G
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 4 Bb' Gb d D(2
+|
+=1 2 blank 1 rest
+=2 4 rest A 2 A(2
+=3 1 D)2(2
+|
+=1 2 blank 1 rest
+=2 8 A)2 rest 4 A 2 A(2
+=3 4. D)2 8 rest 4 rest 4 D
+|
+=1 2 blank 1 rest
+=2 8 A)2 rest 4 Bb' 4. Ab 8 rest
+=3 1 D(2
+|
+=1 2 blank 1 rest
+=2 4 rest A 2 A(2
+=3 2 D)2(2 8 D)2 rest 4 D
+|
+=1 2 blank 1 rest
+=2 8 A)2 rest 4 A 2 A
+=3 1 D(2
+|
+=1 2 blank 1 rest
+=2' 4 Bb Ab Bn G
+=3 2. D)2(2 8 D)2 rest
+|
+=1 2. rest 4 Bn
+=2 4 eb 2. Eb 
+=3 2 blank 1 rest
+
+@

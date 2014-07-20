@@ -1,0 +1,604 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2007.03.11.04.14.46;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2007.03.10.08.49.25;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2007.02.28.09.20.33;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2007.01.28.00.53.57;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@First sketches of third mvt
+@
+
+
+1.4
+log
+@up to bar 48, possible ending
+@
+text
+@% start
+5 systems 20 /19 30 19/19 30 19/19 30 19/19 30 19/19 50 19 10/
+pagenum 2
+innerhead Guitar Duet, Peter Billam
+title III
+leftfoot (c) 2006 Peter J Billam
+midi channel 1 patch 24 pan 20
+midi channel 2 patch 24 pan 80
+% dontstop
+/
+3 bars | 12/16 12 | 12 |
+| 12/16 1.5
+i1.2   mm=148-160
+=1, treble8vab 12/16 cha1 vol100 vib50 qua. rest rest leg100 vol110 \
+ smq [B{1 leg70 vol85 c}1 c#] leg100 vol110 [d#{1 leg70 vol85 e}1 f]
+=2, treble8vab 12/16 cha2 vol100 vib50 qua. rest rest qua rest \
+ smq leg70 vol85 A# leg100 vol110 [B{1 leg70 vol85 cn}1 d]
+|
+=1, smq [g leg100 vol110 d~b{1 leg70 vol85 c~}1] [b{1 leg70 vol85 a}1 g#] \
+ leg100 vol110 [gn{1 leg70 vol85 fn}1 e] \
+ [d# leg100 vol110 A{1 leg70 vol85 Bb}1]
+=2  smq [eb leg100 vol110 bb{1 leg70 vol85 a}1] [g{1 leg70 vol85 f#}1 en] \
+ leg100 vol110 [eb{1 leg70 vol85 d}1 c#] \
+ [B' leg100 vol110 F{2 leg70 vol85 G}2]
+|
+=1, smq leg100 vol110 [c{1 leg70 vol85 db}1 dn] leg100 vol110 \
+ [e{1 leg70 vol85 f}1 g] leg100 vol110 [g#{1 leg70 vol85 a}1 b] \
+ leg100 vol110 [c~{1 leg70 vol85 c~#}1 d~#]
+=2, smq leg100 vol110 [G#{1 leg70 vol85 A#}1 B] leg100 vol110 \
+ [c{1 leg70 vol85 d}1 eb] leg100 vol110 [en{1 leg70 vol85 f#}1 g] \
+ leg100 vol110 [a{1 leg70 vol85 a#}1 b]
+/
+3 bars | 12 | 12 |
+|
+=1 cro. leg85 vol110 e~ smq vol100 [e~ a f#] [e~ a f#]
+=2 qua. leg85 vol110 c~ smq vol100 [c f# e~] [c f# e~] [c f# e~]
+
+|
+il1.1 .18 5
+=1 smq leg100 vol110 [e~{1 leg70 vol85 c~#}1 g#] \
+   leg100 vol110 [e~{1 leg70 vol85 c~#}1 g#] \
+   leg100 vol110 [e~{1 leg70 vol85 c~#}1 g#] \
+   leg100 vol110 [a#{1 leg70 vol85 g#}1 e]
+=2 smq leg100 vol110 [db{1 leg70 vol85 c}1 Bb,] \
+   leg100 vol110 [Ab{'1 leg70 vol85 An}'1 Bn'] \
+   leg100 vol110 [cn{1 leg70 vol85 c#}1 d#] \
+   leg100 vol110 [c#{1 leg70 vol85 cn}1 Bn,]
+|
+=1 smq leg100 vol110 [e~b{1 leg70 vol85 d~}1 c~] \
+   leg100 vol110 [bb{1 leg70 vol85 bn}1 c~#] \
+   leg100 vol110 [d~{1 leg70 vol85 c~#}1 bn] \
+   leg100 vol110 [bb{1 leg70 vol85 ab}1 gb]
+=2 smq [A, eb g] [G, en g] [F# B' d'] [Fn B' eb']
+|
+=1, smq [f eb B] [f eb B] [eb B F] qua [eb smq B]
+=2' smq leg100 vol110 [B{2 leg70 vol85 Bb}2 Ab] \
+    leg100 vol110 [F#{2 leg70 vol85 G}2 An] \
+    leg100 vol110 [Bb{2 leg70 vol85 A}2 G] \
+    leg100 vol110 [Fn{2 leg70 vol85 E}2 Eb]
+|
+=1, smq [G# e c~] cro. g~# smq [e~ g# c]
+=2, smq [E c g#]  cro. e~  smq [c~ e G#,]
+
+|
+=1 cro. E(2 qua. E)2 qua [C smq D]
+=2 qua. C qua rest \
+ smq leg70 vol85 C leg100 vol110 [D{2 leg70 vol85 D#}2 E] \
+ leg100 vol110 [F#{2 leg70 vol85 G}2 A]
+|
+il0.7 .08 10
+=1 smq leg100 vol110 [<G_ D#{'1> vol85 <A_b E> vol70 leg70 <G_ D#}'1>] \
+ leg100 vol110 [<A_b E{'1> vol85 <G_ D#> vol70 leg70 <A_b E}'1>] \
+ leg100 vol110 [<G_ D#{'1> vol85 <A_b E> vol70 leg70 <G_ D#}'1>] \
+ leg100 vol110 [<A_b E{'1> vol85 <G_ D#> vol70 leg70 <A_b E}'1>]
+=2  qua. leg100 vol110 A# B db c
+
+|
+=1 qua. leg100 vol110 B c d c#
+=2 smq leg100 vol110 [<A_ F{'1> vol85 <G_# E> vol70 leg70 <A_ F}'1>] \
+   leg100 vol110 [<G_# E{'1> vol85 <A_ F> vol70 leg70 <G_# E}'1>] \
+   leg100 vol110 [<A_ F{'1> vol85 <G_# E> vol70 leg70 <A_ F}'1>] \
+   leg100 vol110 [<G_# E{'1> vol85 <A_ F> vol70 leg70 <G_# E}'1>]
+
+|
+=1 smq leg100 vol110 [<A_ F{'1> vol85 <B_b Gb> vol70 leg70 <A_ F}'1>] \
+ smq leg100 vol110 [<B_b Gb{'1> vol85 <A_ F> vol70 leg70 <B_b Gb}'1>] \
+ smq leg100 vol110 [<A_ F{'1> vol85 <B_b Gb> vol70 leg70 <A_ F}'1>] \
+ qua. leg100 vol110 d
+=2  qua. leg100 vol110 c c# eb \
+ smq leg100 vol110 [<A_# F#{'1> vol85 <B_ G> vol70 leg70 <A_# F#}'1>]
+|
+=1 qua. leg100 vol110 c# d \
+ smq leg100 vol110 [<B_ G{'1> vol85 <C Ab> vol70 leg70 <B_ G}'1>] \
+ leg100 vol110 [<C Ab{'1> vol85 <B_ G> vol70 leg70 <C Ab}'1>]
+=2 smq leg100 vol110 [<B_ G{'1> vol85 <A_# F#> vol70 leg70 <B_ G}'1>] \
+ smq leg100 vol110 [<A_# F#{'1> vol85 <B_ G> vol70 leg70 <A_# F#}'1>] \
+ qua. leg100 vol110 d# e
+|
+=1 qua. leg100 vol110 f f# \
+ smq leg100 vol110 [<C# A{'1> vol85 <D Bb'> vol70 leg70 <C# A}'1>] \
+ qua. leg100 vol110 g#
+=2 smq leg100 vol110 [<Db A{'1> vol85 <C G#> vol70 leg70 <Db A}'1>] \
+ smq leg100 vol110 [<C G#{'1> vol85 <Db A> vol70 leg70 <C G#}'1>] \
+ qua. leg100 vol110 g \
+ smq vol110 [<Dn A#'{'1> vol85 <Eb B'> vol70 leg70 <D A#'}'1>]
+|
+il0.7 .08 15
+=1, vol70 smq leg180 [a B d] [f# d f#] [b B d] [f# d f#]
+=2, vol70 smq leg180 [B a f#] [d f# d] [B b f#] [d f# d]
+|
+=1, smq leg180 [g B c#] [e c# e] [b B c#] [e c# e]
+=2, smq leg180 [B g e] [c# e c#] [B b e] [c# e c#]
+|
+=1, smq leg180 [a B d] [f# d f#] [b B d] [f# d f#]
+=2, smq leg180 [B a f#] [d f# d] [B b f#] [d f# d]
+|
+=1, smq leg180 [bb Bb d] [f# d f#] [c~ Bb d] [f# d f#]
+=2, smq leg180 [Bb bb f#] [d f# d] [Bb c~ f#] [d f# d]
+|
+=1, vol80 smq leg180 [bb c eb] [g eb g] [c~ c eb] [f d f]
+=2, vol80 smq leg180 [c bb g] [eb g eb] [c c~ g]  [d f d]
+|
+il0.7 .08 20
+=1, smq leg180 [ab c d] [f d f] [c~ c eb] [g eb g]
+=2, smq leg180 [c ab f] [d f d] [c c~ g] [eb g eb]
+|
+=1, smq leg180 [bb c eb] [g eb g] [c~# Bn eb] [g eb g]
+=2, smq leg180 [c bb g] [eb g eb] [Bn c~# g] [eb g eb]
+
+|
+=1, vol90 smq leg180 [b c# e] [g# e g#] [c~# c# d#] [f# d# f#]
+=2, vol90 smq leg180 [c# b g#] [e g# e] [c# c~# f#] [d# f# d#]
+|
+=1, smq leg180 [b c# e] [g# e g#] [d~ cn e] [g# e g#]
+=2, smq leg180 [c# b g#] [e g# e] [cn d~ g#] [e g# e]
+
+|
+=1, vol100 smq leg180 [c~ d f] [g e g] [d~ d f] [e~b c# f]
+=2, vol100 smq leg180 [d c~ a] [e g e] [d d~ a] [c# e~b a]
+|
+il0.7 .18 25
+=1 smq [e~ g# c] qua. E \
+ leg100 vol110 \
+ smq [c{1 leg70 vol85 c#}1 d] leg100 vol110 [e{1 leg70 vol85 f}1 f#]
+=2 smq [c~ e G#,] qua. C \
+ vol100 qua rest \
+ smq leg70 vol85 B leg100 vol110 [c{1 leg70 vol85 c#}1 d#]
+
+|
+=1, smq leg100 vol110 [g#{1 leg70 vol85 a}1 a#] leg100 vol110 [b{1 leg70 vol85 c~}1 d~] leg100 vol110 [e~b{1 leg70 vol85 d~}1 c~#] leg100 vol110 [b{1 leg70 vol85 bb}1 an]
+=2  smq leg100 vol110 [e{1 leg70 vol85 d#}1 c#] leg100 vol110 [d{1 leg70 vol85 e}1  f]  leg100 vol110 [g{1   leg70 vol85 g#}1 a]   leg100 vol110 [g#{1 leg70 vol85 gn}1 f]
+|
+=1 smq leg100 vol110 [g#{1 leg70 vol85 a}1 bb] leg100 vol110 [ab{1 leg70 vol85 gn}1  f#] leg100 vol110 [e{1  leg70 vol85 eb}1 db-s3] leg100 vol110 [c{1  leg70 vol85 B,}1 A,]
+=2 smq leg100 vol110 [e{1  leg70 vol85 eb}1 db] leg100 vol110 [c{1 leg70 vol85 Bb,}1 A,] leg100 vol110 [G#{2 leg70 vol85 A}2 Bb'] leg100 vol110 [Ab{2 leg70 vol85 Gn}2 F#]
+|
+=1 smq leg100 vol110 [G#{2 leg70 vol85 A}2 A#'] leg100 vol110 [B{1  leg70 vol85 c}1 c#] leg100 vol110 [d{1 leg70 vol85 e}1 f] leg100 vol110 [g{1 leg70 vol85 g#}1 a#]
+=2 smq leg100 vol110 [E{2  leg70 vol85 D#}2 C#] leg100 vol110 [Dn{2 leg70 vol85 E}2 F] leg100 vol110 [F#{2 leg70 vol85 E}2 Dn] leg100 vol110 [C#{2 leg70 vol85 B_}2 A_]
+|
+=1, cro. b vol90 smq [B b B] [bb Bb bb]
+=2 cro. G_# \
+   smq leg100 vol110 [<F_ C#{'1> vol85 <G_b D> vol70 leg70 <F_ C#}'1>] \
+   leg100 vol110 [<G_b D{'1> vol85 <F_ C#> vol70 leg70 <G_b D}'1>]
+|
+il0.7 .18 30
+=1, smq [A a A] [a# A# a#] smq [B b B] [bb Bb bb]
+=2 smq leg100 vol110 [<F_ C#{'1> vol85 <G_b D> vol70 leg70 <F_ C#}'1>] \
+   leg100 vol110 [<G_b D{'1> vol85 <F_ C#> vol70 leg70 <G_b D}'1>] \
+   leg100 vol110 [<F_ C#{'1> vol85 <G_b D> vol70 leg70 <F_ C#}'1>] \
+   leg100 vol110 [<G_b D{'1> vol85 <F_ C#> vol70 leg70 <G_b D}'1>]
+|
+=1, smq [B b B] [c~ c c~] smq [c# c~# c#] [d~ d d~]
+=2 smq leg100 vol110 [<G_# E{'1> vol85 <A_ F> vol70 leg70 <G_# E}'1>] \
+   leg100 vol110 [<A_ F{'1> vol85 <G_# E> vol70 leg70 <A_ F}'1>] \
+   leg100 vol110 [<G_# E{'1> vol85 <A_ F> vol70 leg70 <G_# E}'1>] \
+   leg100 vol110 [<A_ F{'1> vol85 <G_# E> vol70 leg70 <A_ F}'1>]
+|
+=1, smq [d# d~# d#] [e~ e e~] smq [f f~ f] [f~# f# f~#]
+=2' smq leg100 vol110 [<B_ G{'1> vol85 <C Ab> vol70 leg70 <B_ G}'1>] \
+   leg100 vol110 [<C Ab{'1> vol85 <B_ G> vol70 leg70 <C Ab}'1>] \
+   leg100 vol110 qua [<B_ G{'1> vol85 smq <C G#}'1>] \
+   leg100 vol110 [<D A#{'1> vol85 <Eb B> vol70 leg70 <D A#}'1>]
+|
+=1, smq [g g~ g] [g~# g# g~#] vol110 [a~ e~b a] [eb A Eb]
+=2' smq leg100 vol110 [<Eb B{'1> vol85 <D A#> vol70 leg70 <Eb B}'1>] \
+    leg100 vol110 [<F c#{'1> vol85 <Gb d> vol70 leg70 <F c#}'1>] \
+    vol110 [f~# c~ f#] [c F# C]
+|
+=1 vib90 cro blank vib75 blank vib60 blank
+=1 min. F_# vib50
+=2 vib90 cro blank vib75 blank vib60 blank
+=2 min. E_b vib50
+|
+il0.7 .02 35
+=1 smq vol110 [Eb, B, g] qua. e~b vol70 smq leg180 [e~b eb  f]  [ab f ab]
+=2 smq vol110 [B_ G eb'] qua. b(1 vol70 smq leg180 [b)1 e~b eb] [f ab f]
+|
+=1 vol90 smq leg180 [c~# c# e] [g# e g#] vol75 [b B e] [gn e g]
+=2 vol90 smq leg180 [g# c~# c#] [e g# e] vol75 [gn b B] [e g e]
+|
+=1, vol75 smq leg180 [b B e] [gn e g] vol80 [bb Bb d] [gn d g]
+=2, vol75 smq leg180 [gn b B] [e g e] vol80 [gn bb Bb] [d g d]
+|
+=1, vol85 smq leg180 [ab Ab d] [f d f] vol70 [ab Ab d] [f d f]
+=2, vol85 smq leg180 [f ab Ab] [d f d] vol70 [f ab Ab] [d f d]
+|
+=1, vol70 smq leg180 [ab Ab d] [f d f] vol75 [ab Ab Bb] [db Bb db]
+=2, vol70 smq leg180 [f ab Ab] [d f d] vol75 [db ab Ab] [Bb db Bb]
+ 
+|
+il0.7 .18 40
+=1 vol80  smq leg180 [f# F#, A,] [c# A, c] vol65 [e' E A] [cn' A c']
+=2 vol80  smq leg180 [c# f# F#,] [A, c A,] vol65 [cn' e' E] [A c' A]
+|
+=1' vol65 smq leg180 [e E A] [c A c] vol70 [eb Eb G] [c G c]
+=2' vol65 smq leg180 [c e E] [A c A] vol70 [c eb Eb] [G c G]
+|
+=1' vol75 smq leg180 [c# C# G] [Bb G B] vol60 [c C G] [B G B]
+=2' vol75 smq leg180 [Bb c# C#] [G B G] vol60 [B c C] [G B G]
+|
+=1 vol60 smq leg180 [c#' C# G] [Bb' G B'] vol110 [F, c# a] qua. f~(1
+=2 vol60 smq leg180 [Bb' c#' C#] [G B' G] vol110 [C# A f'] qua. c~#
+|
+=1 smq vol110 [f~)1 b f] qua. B leg100 vol110 \
+ smq [B{1 leg70 vol85 c}1 c#] leg100 vol110 [d#{1 leg70 vol85 e}1 f]
+=2 smq vol110 [d~ ab d] qua. G#(2 qua [G#)2 \
+ smq leg70 vol85 A#] leg100 vol110 [B{1 leg70 vol85 cn}1 d]
+|
+il0.9 .25 45
+=1, smq [g leg100 vol110 d~b{1 leg70 vol85 c~}1] [b{1 leg70 vol85 a}1 g#] \
+ leg100 vol110 [gn{1 leg70 vol85 fn}1 e] \
+ [d# leg100 vol110 A{1 leg70 vol85 Bb}1]
+=2  smq [eb leg100 vol110 bb{1 leg70 vol85 a}1] [g{1 leg70 vol85 f#}1 en] \
+ leg100 vol110 [eb{1 leg70 vol85 d}1 c#] \
+ [B' leg100 vol110 F{2 leg70 vol85 G}2]
+|
+=1, smq leg100 vol110 [c{1 leg70 vol85 db}1 dn] leg100 vol110 \
+ [e{1 leg70 vol85 f}1 g] leg100 vol110 [g#{1 leg70 vol85 a}1 b] \
+ leg100 vol110 [c~{1 leg70 vol85 c~#}1 d~#]
+=2, smq leg100 vol110 [G#{1 leg70 vol85 A#}1 B] leg100 vol110 \
+ [c{1 leg70 vol85 d}1 eb] leg100 vol110 [en{1 leg70 vol85 f#}1 g] \
+ leg100 vol110 [a{1 leg70 vol85 a#}1 b]
+|
+=1 smq vol100 leg85 [e~ g# c] [G#, e c~] [e~ a e] [f~# a e]
+=2 smq vol100 leg85 [c~ e G#,] [C G#' e'] [c~ f# c] [F# C A_]
+|
+=1 min. g~#
+=2 min. D_
+
+
+
+% stop
+/
+|
+=1, smq leg100 vol110 [e~ g# c] cro. E smq [G# e c~]
+=2, smq leg100 vol110 [c~ e G#,] cro. C  smq [E c g#] 
+|
+=1, min. leg100 vol110 e~
+=2, min. leg100 vol110 c~#
+
+
+|
+=1 cro. E leg100 vol110 \
+ smq [C{2 leg70 vol85 C#}2 D] leg100 vol110 [E{2 leg70 vol85 F}2 F#]
+=2 cro. C qua rest \
+ smq leg70 vol85 B_ leg100 vol110 [C{2 leg70 vol85 C#}2 D#]
+
+
+
+
+| 12/16 1.5
+=1 cha1  smq leg100 vol110 [G{2-s3 leg70 vol85 A}2 Bb'] smq leg100 vol110 [Bn'{2 leg70 vol85 A#}2 G#] smq leg100 vol110 [Gn{2 leg70 vol85 An}2 A#] smq leg100 vol110 [Bn,{1 leg70 vol85 c}1 d]
+=2 cha2  smq leg100 vol110 [E{2 leg70 vol85 F}2 F#] smq leg100 vol110 [G#{2 leg70 vol85 F}2 Fn] smq leg100 vol110 [E{2 leg70 vol85 F}2 F#] smq leg100 vol110 [G{2 leg70 vol85 A}2 Bb']
+|
+=1 smq leg100 vol110 [eb{1 leg70 vol85 d}1 c#] smq leg100 vol110 [B,{1 leg70 vol85 c,}1-s4 d] smq leg100 vol110 [e{1 leg70 vol85 d}1 cn] smq leg100 vol110 [d{1 leg70 vol85 e}1 en]
+=2 smq leg100 vol110 [c'{2 leg70 vol85 Bb'}2 A] smq leg100 vol110 [G#{2 leg70 vol85 A}2 Bn'] smq leg100 vol110 [c'{2 leg70 vol85 Bb'}2 A] smq leg100 vol110 [Bb,{1 leg70 vol85 Bn}1 c#]
+|
+=1 smq leg100 vol110 [f{1 leg70 vol85 g}1 g#] smq leg100 vol110 [a{1 leg70 vol85 g}1 f#] smq leg100 vol110 [fn{1 leg70 vol85 gn}1 g#-s4] smq leg100 vol110 [a{1 leg70 vol85 bb}1 c~]
+=2 smq leg100 vol110 [d{1 leg70 vol85 eb}1 en] smq leg100 vol110 [f#{1 leg70 vol85 e}1 eb] smq leg100 vol110 [d{1 leg70 vol85 e}1 en] smq leg100 vol110 [f{1 leg70 vol85 g}1 g#]
+|
+=1 smq leg100 vol110 [c~#{1-s3 leg70 vol85 c~n}1 b] smq leg100 vol110 [a{1 leg70 vol85 bb}1-s3 c~] smq leg100 vol110 [c~#{1 leg70 vol85 bn}1 bb-s4] smq leg100 vol110 [g#{1 leg70 vol85 a}1 bn]
+=2 smq leg100 vol110 [bb{1 leg70 vol85 g#}1 gn] smq leg100 vol110 [f#{1 leg70 vol85 g}1 g#] smq leg100 vol110 [a{1 leg70 vol85 g}1 f] smq leg100 vol110 [fn{1 leg70 vol85 f#}1 gn]
+|
+=1 smq leg100 vol110 [c~{1-s3 leg70 vol85 d~}1 e~b] smq leg100 vol110 [e~n{1 leg70 vol85 e~b}1-s4 c~#] smq leg100 vol110 [c~n{1 leg70 vol85 d~}1 e~-s4] smq leg100 vol110 [e~n{1 leg70 vol85 e~b}1 d~]
+=2 smq leg100 vol110 [a{1 leg70 vol85 bb}1 bn] smq leg100 vol110 [c~#{1 leg70 vol85 b}1 bb] smq leg100 vol110 [a{1 leg70 vol85 b}1 bn] smq leg100 vol110 [c~{1 leg70 vol85 c~n}1 bb]
+|
+=1 smq leg100 vol110 [c~{1-s3 leg70 vol85 d~}1 e~b] \
+   smq leg100 vol110 [e~n{1 leg70 vol85 f~#-s4}1 g~] cro. a~
+=2 smq leg100 vol110 [a{1 leg70 vol85 bb}1 bn] \
+   smq leg100 vol110 [c~#{1 leg70 vol85 d~}1 e~] cro. f~
+
+% stop
+/
+|
+=1 smq leg100 vol110 [c~{1-s3 leg70 vol85 d~}1 e~b] qua. leg100 vol110 e~n cro. rest
+=2 smq leg100 vol110 [a{1 leg70 vol85 bb}1 bn] qua. leg100 vol110 c~# cro. rest
+
+
+/
+|
+=1 smq [e~ g# c]  qua. E \
+ smq leg100 vol110 [E{2 leg70 vol85 F}2 Gn] [G#, e c~]
+=2 smq [c~ e G#,] cro. C smq [E, cn g#]
+% smq leg100 vol110 [C{2 leg70 vol85 C#}2 D#] [E, cn g#]
+% stop
+
+% stop
+
+midi pause 1.0
+
+% dontstart
+midi pause 1.0
+| 12/16 1.5
+=1 cha1 smq leg100 vol110 [F-s4{2 leg70 vol85 F#}2 G]  \
+   smq leg100 vol110 [A{2 leg70 vol85 G}2 Gb] \
+   smq leg100 vol110 [Fn{2 leg70 vol85 Gb}2 Gn] \
+   smq leg100 vol110 [An{2 leg70 vol85 Bb'}2 Bn']
+=2 cha2 smq leg100 vol110 [C#{2 leg70 vol85 D#}2 E]  \
+   smq leg100 vol110 [F{2 leg70 vol85 E}2 Dn] \
+   smq leg100 vol110 [C#{2 leg70 vol85 D#}2 En] \
+   smq leg100 vol110 [F{2 leg70 vol85 F#}2 G#]
+|
+=1 smq leg100 vol110 [c#{1 leg70 vol85 B}1 Bb]  \
+   smq leg100 vol110 [A,{1 leg70 vol85 Bb,-s3}1 cn] \
+   smq leg100 vol110 [c#{1 leg70 vol85 Bn,}1 A#,]  \
+   smq leg100 vol110 [B{1 leg70 vol85 cn}1 dn]
+=2 smq leg100 vol110 [A'{2 leg70 vol85 Ab}2 G]  \
+   smq leg100 vol110 [F{2 leg70 vol85 G}2 Ab] \
+   smq leg100 vol110 [An'{2 leg70 vol85 Ab}2 Gb]  \
+   smq leg100 vol110 [Ab{2 leg70 vol85 An}2 Bb']
+|
+=1 smq leg100 vol110 [eb{1 leg70 vol85 en}1 f] \
+   smq leg100 vol110 [g{1 leg70 vol85 f}1 en]  \
+   smq leg100 vol110 [eb{1 leg70 vol85 en}1 f-s3] \
+   smq leg100 vol110 [g{1 leg70 vol85 g#}1 a]
+=2 smq leg100 vol110 [B{1 leg70 vol85 c#}1 d] \
+   smq leg100 vol110 [eb{1 leg70 vol85 d}1 cn]  \
+   smq leg100 vol110 [Bn{1 leg70 vol85 c#}1 d]  \
+   smq leg100 vol110 [eb{1 leg70 vol85 en}1 f#]
+|
+=1 smq leg100 vol110 [b-s4{1 leg70 vol85 a}1 ab] \
+   smq leg100 vol110 [g{1 leg70 vol85 ab-s4}1 an]  \
+   smq leg100 vol110 [bb{1 leg70 vol85 ab}1 g-s3] \
+   smq leg100 vol110 [f#{1 leg70 vol85 gn}1 ab]
+=2 smq leg100 vol110 [g{1 leg70 vol85 gb}1 f] \
+   smq leg100 vol110 [eb{1 leg70 vol85 en}1 f]  \
+   smq leg100 vol110 [gb{1 leg70 vol85 fn}1 e]  \
+   smq leg100 vol110 [d{1 leg70 vol85 eb}1 fn]
+|
+=1 smq leg100 vol110 [bb-s4{1 leg70 vol85 bn}1 c~] \
+   smq leg100 vol110 [d~{1 leg70 vol85 c~#-s3}1 bn]  \
+   smq leg100 vol110 [bb{1 leg70 vol85 bn}1 c~n-s3] \
+   smq leg100 vol110 [d~{1 leg70 vol85 c~#}1 bn]
+=2 smq leg100 vol110 [f#{1 leg70 vol85 g#}1 a] \
+   smq leg100 vol110 [bb{1 leg70 vol85 a}1 ab]  \
+   smq leg100 vol110 [gn{1 leg70 vol85 ab}1 an]  \
+   smq leg100 vol110 [bb{1 leg70 vol85 an}1 g#]
+|
+=1 smq leg100 vol110 [a#-s4{1 leg70 vol85 b}1 c~] \
+   smq leg100 vol110 [d~{1 leg70 vol85 e~b-s3}1 f~]  \
+   smq leg100 vol110 [f~#{1 leg70 vol85 e~n}1 e~b]  \
+   smq leg100 vol110 [d~{1 leg70 vol85 e~b}1 f~n]
+=2 smq leg100 vol110 [f#{1 leg70 vol85 g#}1 a] \
+   smq leg100 vol110 [bb{1 leg70 vol85 c~-s3}1 c~#]  \
+   smq leg100 vol110 [d~{1 leg70 vol85 c~#}1 bn]  \
+   smq leg100 vol110 [bb{1 leg70 vol85 c~n}1 c~#]
+|
+=1 cro. leg100 vol110 f~#
+=2 cro. leg100 vol110 d~
+
+
+
+
+% dontstop
+/
+4 bars | 12 |
+|
+midi pause 1.5
+=1 smq [e~ g# c] qua. E \
+ leg100 vol110 \
+ smq [c{1 leg70 vol85 c#}1 d] leg100 vol110 [e{1 leg70 vol85 f}1 f#]
+=2 smq [c~ e G#,] qua. C \
+ vol100 qua rest \
+ smq leg70 vol85 B leg100 vol110 [c{1 leg70 vol85 c#}1 d#]
+|
+=1, smq [g# leg100 vol110 d~{1 leg70 vol85 d~b}1] [c~{1 leg70 vol85 bb}1 a] leg100 vol110 [ab{1 leg70 vol85 gb}1 f] [e leg100 vol110 A#{1 leg70 vol85 B}1]
+=2 smq [e leg100 vol110 b{1 leg70 vol85 bb}1] [ab{1 leg70 vol85 g}1 f] leg100 vol110 [e{1 leg70 vol85 eb}1 d] [c' leg100 vol110 F#{2 leg70 vol85 G#}2]
+|
+=1  smq leg100 vol110 [c#{1 leg70 vol85 d}1 eb] leg100 vol110 [f{1 leg70 vol85 f#}1 g#] [a leg100 vol110 e~b{1 leg70 vol85 d~}1] leg100 vol110 [c~{1  leg70 vol85 b}1 bb]
+=2, smq leg100 vol110 [A{1  leg70 vol85 B}1 c] leg100 vol110 [c#{1 leg70 vol85 d#}1 e]  [f leg100 vol110 c~{1  leg70 vol85 bb}1] leg100 vol110 [a{1 leg70 vol85 ab}1 gb]
+|
+=1 smq [a leg100 vol110 d#{1 leg70 vol85 e}1] leg100 vol110 [f#{1 leg70 vol85 g}1 a] [b leg100 vol110 e~{1 leg70 vol85 e~b}1] [d~ leg100 vol110 a{1 leg70 vol85 a#}1]
+=2 smq [f leg100 vol110 c{1 leg70 vol85 c#}1] leg100 vol110 [d{1 leg70 vol85 e}1 f] [f# leg100 vol110 d~b{1 leg70 vol85 c~}1] [bb leg100 vol110 e{1 leg70 vol85 f#}1]
+|
+=1  qua. b
+=2 qua. g#
+
+
+
+/
+4 bars | 12 |
+|
+midi pause 1.5 
+=1 cro. leg85 vol110 c~# smq vol100 [c~ f# eb] [c~ f e]
+=2, qua. leg85 vol110 a smq vol100 [A eb c~#] [A e c~] [A e c~]
+|
+=1 smq [e~ g# c] qua. E \
+ leg100 vol110 \
+ smq [G{2 leg70 vol85 A}2 Bb'] leg100 vol110 [cn{1 leg70 vol85 c#}1 d]
+=2 smq [c~ e G#,] qua. C \
+ vol100 qua rest \
+ smq leg70 vol85 Gn leg100 vol110 [G#{2 leg70 vol85 A}2 B']
+|
+=1, smq [e leg100 vol110 bb{1 leg70 vol85 a}1] [g{1 leg70 vol85 f}1 fn] leg100 vol110 [e{1 leg70 vol85 d}1 c] [cn leg100 vol110 F{1 leg70 vol85 Gn}1]
+=2 smq [cn leg100 vol110 gn{1 leg70 vol85 f}1] [e{1 leg70 vol85 d#}1 c#] leg100 vol110 [cn{1 leg70 vol85 B}1 Bb] [G' leg100 vol110 D{2 leg70 vol85 E}2]
+|
+=1, smq leg100 vol110 [A{1 leg70 vol85 Bb}1 Bn] leg100 vol110 [c#{1 leg70 vol85 d}1 e] leg100 vol110 [f{1 leg70 vol85 f#}1 g#] leg100 vol110 [a{1 leg70 vol85 bb}1 c~]
+=2, smq leg100 vol110 [F{1 leg70 vol85 G}1 G#] leg100 vol110 [A{1 leg70 vol85 B}1 c] leg100 vol110 [c#{1 leg70 vol85 eb}1 en] leg100 vol110 [f#{1 leg70 vol85 g}1 g#]
+|
+=1 cro. leg85 vol110 c~# smq vol100 [c~ f# eb] [c~ f e]
+=2, qua. leg85 vol110 a smq vol100 [A eb c~#] [A e c~] [A e c~]
+
+@
+
+
+1.3
+log
+@up to about bar 42
+@
+text
+@d189 1
+a189 1
+=1 min. F_#
+d191 1
+a191 1
+=2 min. E_b
+d220 1
+a220 1
+=1 vol60 smq leg180 [c#' C# G] [Bb' G B'] vol110 [F, c# a] qua. f~
+d222 28
+@
+
+
+1.2
+log
+@much trial and error
+@
+text
+@d14 1
+a14 1
+=1, treble8vab 12/16 cha1 vol100 qua. rest rest leg100 vol110 \
+d16 1
+a16 1
+=2, treble8vab 12/16 cha2 vol100 qua. rest rest qua rest \
+d39 1
+a62 8
+% stop
+|
+=1 cro. E leg100 vol110 \
+ smq [C{2 leg70 vol85 C#}2 D] leg100 vol110 [E{2 leg70 vol85 F}2 F#]
+=2 cro. C qua rest \
+ smq leg70 vol85 B_ leg100 vol110 [C{2 leg70 vol85 C#}2 D#]
+
+
+a63 4
+
+| 12/16 1.5
+=1 cha1  smq leg100 vol110 [G{2-s3 leg70 vol85 A}2 Bb'] smq leg100 vol110 [Bn'{2 leg70 vol85 A#}2 G#] smq leg100 vol110 [Gn{2 leg70 vol85 An}2 A#] smq leg100 vol110 [Bn,{1 leg70 vol85 c}1 d]
+=2 cha2  smq leg100 vol110 [E{2 leg70 vol85 F}2 F#] smq leg100 vol110 [G#{2 leg70 vol85 F}2 Fn] smq leg100 vol110 [E{2 leg70 vol85 F}2 F#] smq leg100 vol110 [G{2 leg70 vol85 A}2 Bb']
+d65 4
+a68 22
+=1 smq leg100 vol110 [eb{1 leg70 vol85 d}1 c#] smq leg100 vol110 [B,{1 leg70 vol85 c,}1-s4 d] smq leg100 vol110 [e{1 leg70 vol85 d}1 cn] smq leg100 vol110 [d{1 leg70 vol85 e}1 en]
+=2 smq leg100 vol110 [c'{2 leg70 vol85 Bb'}2 A] smq leg100 vol110 [G#{2 leg70 vol85 A}2 Bn'] smq leg100 vol110 [c'{2 leg70 vol85 Bb'}2 A] smq leg100 vol110 [Bb,{1 leg70 vol85 Bn}1 c#]
+|
+=1 smq leg100 vol110 [f{1 leg70 vol85 g}1 g#] smq leg100 vol110 [a{1 leg70 vol85 g}1 f#] smq leg100 vol110 [fn{1 leg70 vol85 gn}1 g#-s4] smq leg100 vol110 [a{1 leg70 vol85 bb}1 c~]
+=2 smq leg100 vol110 [d{1 leg70 vol85 eb}1 en] smq leg100 vol110 [f#{1 leg70 vol85 e}1 eb] smq leg100 vol110 [d{1 leg70 vol85 e}1 en] smq leg100 vol110 [f{1 leg70 vol85 g}1 g#]
+|
+=1 smq leg100 vol110 [c~#{1-s3 leg70 vol85 c~n}1 b] smq leg100 vol110 [a{1 leg70 vol85 bb}1-s3 c~] smq leg100 vol110 [c~#{1 leg70 vol85 bn}1 bb-s4] smq leg100 vol110 [g#{1 leg70 vol85 a}1 bn]
+=2 smq leg100 vol110 [bb{1 leg70 vol85 g#}1 gn] smq leg100 vol110 [f#{1 leg70 vol85 g}1 g#] smq leg100 vol110 [a{1 leg70 vol85 g}1 f] smq leg100 vol110 [fn{1 leg70 vol85 f#}1 gn]
+|
+=1 smq leg100 vol110 [c~{1-s3 leg70 vol85 d~}1 e~b] smq leg100 vol110 [e~n{1 leg70 vol85 e~b}1-s4 c~#] smq leg100 vol110 [c~n{1 leg70 vol85 d~}1 e~-s4] smq leg100 vol110 [e~n{1 leg70 vol85 e~b}1 d~]
+=2 smq leg100 vol110 [a{1 leg70 vol85 bb}1 bn] smq leg100 vol110 [c~#{1 leg70 vol85 b}1 bb] smq leg100 vol110 [a{1 leg70 vol85 b}1 bn] smq leg100 vol110 [c~{1 leg70 vol85 c~n}1 bb]
+|
+=1 smq leg100 vol110 [c~{1-s3 leg70 vol85 d~}1 e~b] \
+   smq leg100 vol110 [e~n{1 leg70 vol85 f~#-s4}1 g~] cro. a~
+=2 smq leg100 vol110 [a{1 leg70 vol85 bb}1 bn] \
+   smq leg100 vol110 [c~#{1 leg70 vol85 d~}1 e~] cro. f~
+
+% start
+|
+=1 cro. E leg100 vol110 \
+ qua rest smq leg70 vol85 C leg100 vol110 [D{2 leg70 vol85 D#}2 E]
+=2 cro. C rest
+d70 1
+d75 1
+a75 1
+=2 qua. leg100 vol110 A# B db c
+d88 1
+a88 1
+ qua. leg100 vol110 c#
+d92 1
+a92 1
+=1 qua. leg100 vol110 d c# \
+d97 1
+a97 1
+ qua. leg100 vol110 d eb
+d106 23
+a129 2
+% stop
+/
+d131 5
+a135 2
+=1 smq leg100 vol110 [c~{1-s3 leg70 vol85 d~}1 e~b] qua. leg100 vol110 e~n cro. rest
+=2 smq leg100 vol110 [a{1 leg70 vol85 bb}1 bn] qua. leg100 vol110 c~# cro. rest
+a136 2
+
+/
+d138 2
+a139 8
+il0.7 .18 5
+=1 smq [e~ g# c]  qua. E \
+ smq leg100 vol110 [E{2 leg70 vol85 F}2 Gn] [G#, e c~]
+=2 smq [c~ e G#,] cro. C smq [E, cn g#]
+% smq leg100 vol110 [C{2 leg70 vol85 C#}2 D#] [E, cn g#]
+% stop
+% dontstart
+/
+d141 1
+a141 1
+il0.7 .18 5
+d159 120
+a278 2
+=1  qua. b
+=2 qua. G_#
+a349 1
+il0.7 .18 5
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d12 2
+a13 2
+| 12/16 1.6
+i1.2   mm=148 approx
+d32 2
+d39 114
+d160 1
+d166 1
+a166 1
+=2 smq leg100 vol110 [e{1  leg70 vol85 eb}1 db] leg100 vol110 [c{1 leg70 vol85 Bb,}1 A,] leg100 vol110 [G#{2 leg70 vol85 A}2 Bb'] leg100 vol110 [Ab{2 leg70 vol85 G}2 F#]
+d169 1
+a169 1
+=2 smq leg100 vol110 [E{2  leg70 vol85 D#}2 C#] leg100 vol110 [Dn{2 leg70 vol85 E}2 F] leg100 vol110 [F#{2 leg70 vol85 E}2 D] leg100 vol110 [C#{2 leg70 vol85 B_}2 A_#]
+d174 63
+d239 1
+a239 1
+%stop
+d243 1
+a265 1
+%stop
+d269 1
+@

@@ -1,0 +1,4631 @@
+head	1.23;
+access;
+symbols;
+locks
+	pjb:1.23;
+comment	@# @;
+
+
+1.23
+date	2005.07.10.05.23.36;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2005.07.05.11.05.46;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2005.07.04.10.04.11;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2005.06.28.10.39.51;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2005.06.18.21.49.33;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2001.01.03.07.28.39;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	98.09.18.11.12.56;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	98.09.18.08.23.27;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	98.09.18.02.36.55;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	98.08.17.05.26.45;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	98.08.17.05.14.29;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	98.05.07.03.48.33;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	98.04.04.11.25.44;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	98.01.20.23.57.16;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	98.01.14.00.21.45;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	98.01.03.06.27.05;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	97.12.24.10.09.58;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	97.12.23.11.09.12;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	97.12.01.11.20.00;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	97.11.24.03.19.45;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	97.11.17.22.25.10;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	97.11.14.14.30.50;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.11.11.18.12.48;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Casida de las pPalomas Oscuras
+@
+
+
+1.23
+log
+@another rewrite; condensed to 6 pages
+@
+text
+@4 systems /21 54 21-31-21 25/21 57 21-31-21/21 44 21-31-21 / 21 38 21-31-21 /
+lefthead poem by Federico García Lorca
+title Casida de las Palomas Oscuras
+righthead music by Peter Billam
+leftfoot (c) 1997  Peter J Billam
+midi channel 1 patch 52
+midi channel 2 patch 0
+/
+3 bars | 1 .8 .8 1 1 .8 .8 1 .8 .8 | 1 .8 .8 1 1 .8 .8 | 11 |
+| 10/4 80
+=1 treble 10/4 channel1 leg100 transpose-12 smb rest rest min rest
+=2 treble 10/4 channel2 leg103 cro Eb min Eb cro Eb Eb min Eb cro Eb min Eb
+I0.4         pp
+=3 bass   10/4 channel2 leg103 smb rest rest min rest
+I0.2            P__
+| 7/4 80
+=1 7/4 smb.. rest
+=2 7/4 cro Eb min Eb cro Eb Eb min Eb
+=3 7/4 smb.. rest
+| 10/4 80
+=1 10/4 smb. G cro A min. Bb'
+r0.9 .05 Por .61 las  ra -
+=2 10/4 min G' cro G' min G' G' <G' c' g' g~'> cro G'
+=2 10/4 cro Eb, min Eb, cro Eb, Eb, min Eb, cro Eb, min Eb,
+=3 10/4 smb.. rest min. c~'
+=3 10/4 smb.. <C,(3 C_,(1> min. <C,)3 C_,)1>
+/
+3 bars | 7/4 7 | 7 | 5/4 5 |
+| 7/4 80
+=1 7/4 smb A min rest cro B'
+r0.8 .06 mas .85 del
+=2' 7/4 cro rest' g min a(1 qua a)1 cro. b cro a
+=2, 7/4 cro Eb min Eb cro Eb Eb min Eb
+=3 7/4 cro c~ min c~ cro b a min f#
+|
+il0.4   5
+=1 cro. d(1 e)1(1 cro e)1 min. c#
+r0.8 .01 lau .33 - .55 rel
+=2' cro f# smb. d
+=2, min F# cro D E cro. F# cro A qua B
+=3' min <a bx> cro f# g# min a cro f#
+=3 smb B
+| 5/4 80
+=1 5/4 min. rest min c#(1
+r0.7 .62 van
+=2' 5/4 cro c# B cro. a cro g qua f#
+=2, 5/4 cro E min. D cro D#
+=3 5/4 min. g cro a b
+/
+7 bars | 4/4 8 | 3/4 6 | 6 | 1 1 1 1 1.5 1 | 6 | 6 | 6 |
+| 4/4 80
+=1 4/4 min. B)1 cro rest
+=2' 4/4 cro B f# min e
+=2, 4/4 smb E(2
+=3 4/4 min. c~# cro b
+| 3/4 80
+=1 3/4 min. c#
+r0.6 .10 dos
+=2' 3/4 min. <c# g'>
+=2, 3/4 cro E)2 F G
+=3 3/4 min g cro a
+|
+=1 min d cro B
+r0.6 .01 pa .39 - .67 lo  -
+=2' min. d'
+=2, cro F E D
+=3 min. b
+|
+il0.2  10
+=1 min c# qua rest Bb
+r0.6 .01 mas .81 os -
+=2' min. c#
+=2, cro E min F
+=3 min bb cro ab
+|
+=1 min. f
+r0.6 .01 cu .60 -
+=2' min. Bb
+=2, cro <D F> min <D F>
+=3 min g cro g
+|
+=1 cro e(1 min d)1(1
+r0.6 .01 ras
+=2' min. Bb
+=2, cro <Dx E> min <D F>
+=3 min g cro g
+|
+=1 cro d)1 min rest
+=2' cro <D Ex> min <D F>
+=3 min g# cro a#
+/
+4 bars | 6 | 5/4 10 | 10 | 8/4 16 |
+|
+=1 min rest cro G#
+r0.7 .67 La
+=2' cro <D Ex> min <D F>
+=3 min. b'
+=3 min rest cro d,
+| 5/4 80
+il0.2   15
+=1 5/4 min d cro F# rest B'
+r0.7 .09 u .24 - .42 na .82 e   -
+=2' 5/4 cro F# min G# cro A# B
+=3 5/4 min b' cro a#' min g#'
+=3 5/4 smb f#, cro rest,
+|
+=1 min c cro rest min G#
+r0.7 .01 ra .61 el
+=2' cro c e min c~ cro g#
+=2, smb G# cro rest,
+=3 cro f# e min. c~
+| 8/4 80
+=1 8/4 smb e min rest G#
+r0.7 .04 sol .76 la
+=2' 8/4 smb e
+=2, 8/4 min. G# cro A# G# A# c c#
+=3 8/4 cro c~ bb c~ min c~# cro c~n min bb
+
+4 systems /21 40 21-31-21 /21 42 21-31-21 /21 39 21-31-21 /21 44 21-41-21 15/
+pagenum 15
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+4 bars | 5/4 3 3 3 3 2.5 2.5 2.4 2.3 2.3 2.2 2.2 2.1 2.1 2 2 \
+ | 30 | 7/4 42 | 3 3 3 3 3 3 3 3 3 3 3 3 4.5 4 |
+| 5/4 80
+=1 5/4 min. e cro d#(1 c#)1
+r0.8 .10 ot .42 - .67 ra
+=2' 5/4 cro3 <C c> <C# c#-I3> <D# d#> cro <E e> <F f> <G g>
+i0.3           cresc .  .  .
+=3 5/4 smb Bb cro rest
+|
+=1 min. rest min e
+r0.8 .62 la
+=2, cro <G# g#> <A# a#> min <B b> cro Bb
+I0.4 .14 f
+i0.7 .50 dim  .  .  .
+=3' min rest' cro rest' cro. g# qua a#
+=3 smb D
+| 7/4 80
+il0.3       20
+I0.25   p
+=1 7/4 smb f cro e(1 min d)1
+r0.8 .07 lu .27 - .60 na
+=2' 7/4 min ab g min ab cro A#
+=2, 7/4 smb.. <Ab f>
+=3' 7/4 smb.. b
+=3, 7/4 min rest, gn g# cro a#
+|
+I0.2 .65 f
+=1 smb rest min rest qua f# d#
+r0.8 .70 « Veci   -
+I0.02      pp
+=2' smb.. B
+=2, cro rest,, G smb Ab qua [<F# f#> d#]
+I0.5 .70 ff
+=3 smb b cro rest min <B_ B>
+/
+4 bars | 4 | 4 | 4 | 1 1.2 1 1 |
+| 4/4 80
+=1 4/4 min. g# cro c
+r0.7    -  .12 ni .40 - .74 tas »,
+=2' 4/4 min <G# g#> <C c>
+=3' 4/4 cro rest' min <d d~> cro g#
+=3 4/4 smb <F_ F>
+|
+I0.2                pp
+=1 min rest cro. A qua G#
+r0.7 .50 les .87 di  -
+=2 smb F(1
+I0.8  pp
+=3 smb d~(1
+|
+I0.2 .95 f
+=1 min. B cro rest
+r0.7 .03 je .96 « ¿
+=2 min F)1 qua rest cro. F
+i0.7 .35 cresc .  .  .
+I0.6 .97 f
+=3 cro d~)1 e~b d~ b
+|
+il0.3     25
+=1 cro eb qua f gb min f(1
+r0.7 .02 dónde .40 está
+=2' cro eb qua [f gb] min f
+=2, cro. F qua Eb cro D qua [G_# A_#]
+=3 smb <B_ B>
+/
+4 bars | 4 | 0.9 1.6 0.9 1.1 | 3.7 | 2.5 2.3 |
+|
+=1 treble cro f)1 B d G#
+r0.7 .27 mi .52 se  - .75 pul  -
+=2' treble cro rest' B d Ab
+=2, treble cro. B_ qua D cro. E qua F
+=3 bass   smb <A_b Ab>
+|
+i0.2         dim  .  .  .
+=1 min B c(1
+r0.7 .01 tu .27 - .52 ra ? »
+=2' min <B_r B> <Ab c>
+=2, cro. G# qua Gn cro C qua [D E]
+=3 smb <F_ F(1>
+|
+=1 min. c)1 cro rest
+=2, cro <F f> <G g> min <Ab ab>
+i0.5 .35 dim  .  .  .
+=3' min.. rest' qua c~(3
+=3, min F)1(1 qua [F)1 E] cro D
+| 6/4 80
+=1 6/4 min. E F#
+r0.7   « En .55 mi
+=2 6/4 smb. F#
+=2 6/4 min Bb' min. An cro <e' e~'>
+I0.8  mp
+=3 6/4 min. c~')3 cro c~' min d~'
+=3 6/4 smb. C
+/
+4 bars | 1 1 1 1 1 1 1 1 1 1 1 1.2 | 4/4 8 \
+ | 1 1 1 1.3 1 1 1 1.2 | 6/4 1 1 1 1.8 1 1 1 1.8 1 1 1 1.2 |
+|
+il0.25 .20 30
+=1 min G smb Eb
+r0.7 .04 co .19 - .34 la » ,
+=2' smb G cro rest' <eb e~b>
+=2, min. C cro B_ min C
+=3 smb a(2 cro. a)2 qua g
+=3 smb. A_
+| 4/4 80
+=1 4/4 qua rest B min c qua rest A
+r0.7 .23 dijo .87 el
+=2 4/4 min. Eb cro D
+=3 4/4 cro rest g min f#(1
+|
+=1 min. eb cro rest
+r0.7 .01 sol .
+=2' min. rest' cro c~
+=2 smb C
+i0.5              cresc .  .  .
+=3 cro. f#)1 qua g cro. a qua b
+| 6/4 80
+=1 6/4 min. G min d cro eb
+r0.7 .03 « En .51 mi .85 gar   -
+=2' 6/4 cro. <C c> qua D cro. Eb qua F cro. Gb qua Ab
+=3 6/4 smb. A
+
+4 systems / 21 40 21-31-21/ 21 43 21-30-21/ 21 40 21-31-21/ 21 43 21-38-21/
+pagenum 16
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+3 bars | 0.8 1.6 0.8 1.3 0.8 .9 | 0.9 1.6 1 1 1 1 | 6 |
+|
+=1 min F# smb C
+r0.6   - .03 gan  - .39 ta » ,
+=2' min Bb c(1 cro. c)1 qua d
+=2, cro. Eb qua F cro. F# qua G# min A
+I0.4     f
+=3' min rest' min. c~ cro d~
+=3, smb. <B_b Bb>
+|
+il0.2   35
+=1 cro. rest qua A min Bb' cro rest G
+r0.7 .30 dijo .84 la
+=2 smb. <Eb eb>
+I0.6  pp
+=3 min c~(1 cro. c~)1 qua d~b cro. c~ qua bb
+I0.4 .03 *P__ .76 *P__
+| 7/4 80
+=1 7/4 smb db cro c(1 min Bb)1
+r0.7 .06 lu .33 - .59 na
+=2, 7/4 min <Enr c#l en> <G g> <E e> cro <D# d#>
+=3 7/4 smb.. g
+/
+3 bars | 1 1 1 1 1.2 1.4 1 1 1.2 1.5 1 1 1 1.1 \
+ | 6/4 1 1 1 1.7 1 1  1 1 1 1  1 1 | 1 1 1 1.2 1 1 1.2 1.2 1 1 1.3 1.3 |
+|
+=1 treble smb.. rest
+=2' treble min rest'' cro c~# <d# d~#> min. <e e~>
+=2, treble cro e Bb qua [A G] min C#(1 cro. C#)1 qua D#
+i0.5 .55 dim  .  .  .
+=3 bass   smb e~
+=3 bass   smb g(2 qua [g)2 a] min bb
+|
+=1 6/4 smb rest cro rest G#
+r0.8 .87 Y
+=2' 6/4 cro. rest' qua <G g> cro <Ab ab> min <d d~> cro <G# f#>
+=2, 6/4 smb. E
+i0.6  .  .  rit  .  . .45 a tempo,  cresc  .  .  .
+=3 6/4 smb. bb
+| 6/4 80
+=1 min d(1 cro F#)1 min rest qua G A
+r0.8 .06 yo .80 que es   -
+=2' smb. <d g#>
+=2, cro. B_, qua  C# smb D
+=3 min. f# qua [g# a] cro. c~ qua b
+/
+4 bars | 4/4 1 1 1 1.15 1 1 1.3 1.15 | 1 1 1 1 1 1 1.3 1.15 \
+ | 1 1 1 1 1 1 1.3 1.15 | 1 1 1 1.7 1 1 1 1.15 |
+| 4/4 80
+il0.2 .09 40
+=1 4/4 cro. c qua B' cro. A qua B'
+r0.7 .08 ta .27 - .41 ba   ca   - .87 mi  -
+=2' 4/4 smb c
+=2, 4/4 min Eb cro C qua [D Eb]
+=3' 4/4 cro. a qua b min blank
+=3, 4/4 cro rest, min. G
+|
+=1 min eb c
+r0.7 .01 nan .28 - .47 do
+=2' min eb c
+=2, cro F min Gb qua [F Eb]
+=3 smb <A a>
+|
+=1 cro rest cro. G G#
+r0.7 .28 con .61 la
+=2' min rest' F
+=2, min. Db qua rest, Dn
+=3, min. <Bb bb> cro <Bn bn>
+|
+=1 min A# B'(2
+r0.7 .01 tier .33 - .53 ra
+=2' cro. F qua Gb min Ab
+=2, min D cro. D qua Eb
+=3 min. g# cro a#
+/
+3 bars | 6/4 12 | 8/4 16 | 16 |
+| 6/4 80
+=1 6/4 cro B')2 qua rest cro c cro. d min eb
+r0.7 .28 por .47 la .68 cin .88 -
+=2 6/4 cro d' eb' min. f' cro f#'
+=2 6/4 min F, cro G#, A#, min B,
+=3 6/4 cro. b cro c~ cro. d~ min e~b
+| 8/4 80
+il0.3      45
+=1 8/4 min. f cro. B' qua rest min. rest
+r0.7 .06 tu .25 - .40 ra
+=2' 8/4 smb <f ab> min <D d> cro <D# d#> <E(1 e(3>
+=2,        8/4 cro B c# smb. <F B>
+I0.5 .67 f .95 p
+=3 8/4 smb <ab(2 d~ a~b(1> <ab)2 a~b)1>
+I0.2 .92 p
+|
+i0.2 slower, hushed . . .
+=1 min. G#(2 min G#)2 min. A#
+r0.7 .02 vi .62 dos
+=2 cro <E')1 e')3> min E cro E min E cro E E
+=3 min. <g#'(3 g~#'(1> min <g#')3 g~#')1> min. <a#' a~#'>
+=3, min C# cro C# min C# C# cro C#
+
+4 systems /21 55 21-31-21 5/21 50 21-39-21 10 \
+ /21 54 21-31-21/21 43 21-36-21 10/
+pagenum 17
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+3 bars | 16 | 16 | 6/4 12 |
+|
+=1 treble min E cro G# min. F# cro rest G#
+r0.8 .02 á .15 - .25  gui - .37 las .87 de
+I0.3   f
+=2 treble min. <g#' g~#'>
+=2 treble cro rest, min E, cro E, min E, cro E, E,(2
+i0.1               sempre
+I0.1                             pp
+=3 bass   min C# cro C# min C# C# cro C#
+|
+=1 cro A#(2 smb B)2 min. D#(1
+r0.8 .01 nie .35 - .625 ve
+=2' cro E,)2 min B min. F# min B_
+=3 min C# C# cro C# min C# cro C#
+| 6/4 80
+=1 6/4 cro D#)1 rest F G# F# G#
+r0.8 .40 y .55 u   - .68 na .83 mu   -
+=2' 6/4 min. <c# c~#> <g# c~#>
+=2, 6/4 cro F# cro. Fn cro Eb min C# qua rest,
+=3' 6/4 smb. c~#
+=3, 6/4 min. a cro. a# cro g# qua b
+is0.1        arpegg.
+/
+3 bars | 12 | 5/4 10 | 10 |
+|
+il0.3    50
+=1 min. c# cro B' rest G#
+r0.8 .01 cha .28 - .50 cha .83 des   -
+=2' min. c~# min b cro f#
+=2, cro rest, G# cro. F# qua Fn cro. F# qua A
+=3 min d~# qua rest' min d# cro. c~#
+I0.2 .55 *P__
+| 5/4 80
+=1 5/4 smb A cro G#(1
+r0.8    - .10 nu .47 - .81 da
+=2' 5/4 min f cro f# min fn
+=2, 5/4 smb <A c#> cro G#
+=3' 5/4 min f~ cro f~# min f~n
+=3, 5/4 smb b cro rest
+|
+=1 min G#)1 rest cro A#
+r0.8 .80 la
+=2' min f~ cro f~# min f~n
+=2, cro rest, min. G# cro A#
+=3 min. <b d~#> cro b c~#
+/
+4 bars | 10 | 4/4 8 |
+|
+=1 min B' A# cro c#
+r0.8 .06 una .81 e    -
+=2' min d~# cro e~ d~# c~#
+=2, min B min. A#
+=3 min <d~# g~#> cro e~ min d~#
+| 4/4 80
+=1 4/4 min d cro rest G#
+r0.8 .07 ra .80 la
+=2 4/4 smb b
+=2, 4/4 cro Fn min F# cro Fn
+=3, 4/4 min d~ g#
+|
+il0.3      55
+=1 min d c
+r0.7 .03 ot .29 - .50 ra
+=2' min d c
+=2, smb <F Ab>
+=3' cro. b qua c~ min d~
+=3, min. rest, qua [f g]
+|
+=1 cro rest G#(1 cro3 G#)1 F#-I3 G#
+r0.7 .25 y .66 la .83 mu   -
+=2' min A#r cro3 G# F#-I3 G#
+=2, smb <Dr F#l>
+=3 min ab' bb'
+=3 cro. rest, qua e(2 min e)2
+/
+5 bars | 1 1 1.5 1.5 1 1 1 1 | 3/4 1 1 1.5 1.5 1.5 1.1 | 6 | 6 \
+ | 5/4 1 1.2 1.5 1.5 1 1 1 1 1 1 |
+|
+=1 min c# A(2
+r0.7 .01 cha .28 - .50 cha
+=2' min <D#r F#l c#> A
+=3' cro blank qua [b c~#] min e~b
+=3, min. a, cro db
+| 3/4 80
+=1 3/4 cro A)2 qua rest F# G# Fn
+r0.7 .52 era .82 nin  -
+=2 3/4 cro. F Eb
+=3' 3/4 min a cro ab
+=3, 3/4 cro eb qua [f gb] cro ab
+|
+=1 cro F# min C
+r0.7 .01 gu  -  na
+=2' cro f# min c
+=2, min. F#
+i0.9 .62 dim  .  .  .
+=3' min c~ cro a
+=3, min. d#,(2
+|
+il0.2    60
+=1 min. rest
+=2 cro B_ min C
+=3, min. d#)2
+I0.2 .95 ff
+| 5/4 80
+I0.2    ff
+=1 5/4 cro rest qua f# d# min g# cro c
+r0.8 .21 « Agui  - .48 li .65 - .80 tas » ,
+=2' 5/4 cro rest qua [<F# f#> d#] min <G# g#> cro c
+=2, 5/4 min. B_ min <D_ D>
+I0.5   ff
+=3 5/4 min <G_# G#> min. <F_ F>
+
+4 systems /21 45 21-36-21/21 35 21-31-21 5 \
+ /21 44 21-31-21 10/21 53 21-35-21 12/
+pagenum 18
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+5 bars | 4/4 1 1 1 1 1 1 1 1.2 | 8 | 1 1 1.5 1.2 1 1 1.5 1.1 \
+ | 1 1 1 1.2 1 1 1 1.1 | 2 2.4 2 2 |
+| 4/4 80
+I0.2 .29 pp
+=1 4/4 min rest cro. A qua G#
+r0.7 .53 les .88 di  -
+=2 4/4 smb F(1
+I0.8 .02 pp
+=3 4/4 smb d~(1
+|
+I0.2 .87 f
+=1 min. B' cro rest
+r0.7 .02 je .96 « ¿
+=2 min F)1 qua rest cro. F
+i0.6 .34 cresc  .  .  .
+I0.6 .88 ff
+=3 cro d~)1 eb~ d~ b
+|
+=1 cro eb qua f gb min f(1
+r0.7 .03 dónde .39 está
+=2' cro eb qua [f gb] min f
+=2, cro. F qua Eb cro D qua [G_# A_#]
+=3 smb <B_ B>
+|
+il0.3     65
+=1 cro f)1 B' d G#
+r0.7 .25 mi .50 se  - .75 pul   -
+=2' cro rest' B d Ab
+=2, cro. B_ qua D cro. E qua F
+=3 smb <A_b Ab>
+|
+i0.5         dim .  .  .
+=1 min c B'(1
+r0.7    - .05 tu .30 - .52 ra ? »
+=2' min <Ab c> cro Ab F
+=2, cro E qua [D C] min B_
+i0.1   dim .  .  .
+=3' smb <F_ F>
+/
+4 bars | 8 | 6/4 12 | 12 | 12 |
+|
+=1 min. B')1 cro rest
+is0.3   l.h.
+=2' min. <c~ f c>
+=2, cro G min Ab cro G
+is0.1    arpegg.
+=3 smb D
+| 6/4 80
+I0.2 mp
+=1 6/4 min. E F#
+r0.7   « En .53 mi
+=2' 6/4 min. G# F#
+=2, 6/4 min G_# C# C#
+=3' 6/4 cro rest, smb C# cro <D_# D#>
+=3, 6/4 smb C_# cro rest,,, blank
+|
+=1 min G smb Eb
+r0.7 .01 co .19 - .34 la » ,
+=2' min G smb Eb
+=2, min. C cro B_ min C
+I0.5      f
+i0.5          dim . . .
+=3 smb a'(2 cro. a')2 qua g'
+=3 smb. A_
+| 4/4 80
+il0.2 .09 70
+=1 4/4 qua rest B min c qua rest A
+r0.7 .27 dijo .88 el
+=2 4/4 smb <g g~>
+=3' 4/4 smb g~
+=3, 4/4 min. e~b cro a
+/
+4 bars | 8 | 6/4 1 1 1 1.8 1 1 1 1.8 1 1 1.2 1.1 \
+ | 1 1 1 1.8 1 1 1 1.4 1 1 1 1 | 1 1 1 1.8 1 1 1 1 1 1 1 1 |
+|
+=1 min. eb cro rest
+r0.7 .02 sol .
+=2 smb <G eb>
+=3 cro b min c~ cro b
+| 6/4 80
+i0.2           cresc  .  .  .
+=1 6/4 min. G min d cro eb
+r0.7   « En .52 mi .85 gar   -
+=2 6/4 cro. C qua D cro. Eb qua F cro Gb gb
+I0.4       f
+i0.4                    cresc  .  .  .
+=3 6/4 smb a qua rest A_
+I0.2                        8vab .  .
+|
+=1 min F# smb C
+r0.7 .01 gan .23 - .43 ta » ,
+=2' cro. <Gb eb> qua <F f> cro. <F# f#> qua <G# g#> min <A a>
+I0.5 .75 mp
+=3' min. rest' min c~ cro d~
+=3 smb. <B_b Bb>
+I0.2 .18 P__ .45 .  . loc.
+|
+I0.2             p
+=1' cro. rest qua A min Bb cro rest G
+r0.7 .32 dijo .84 la
+=2 smb. Eb
+I0.5    p
+=3 smb. c~
+I0.2     __*
+/
+3 bars | 7/4 14 | 14 | 10/4 20 |
+| 7/4 80
+il0.3      75
+=1 7/4 smb db cro c(1 min Bb)1
+r0.7 .06 lu .35 - .59 na
+=2 7/4 min En G E qua rest, Eb
+=3 7/4 smb g(1 cro. g)1 qua f# cro g(2
+|
+=1 smb.. rest
+=2' cro <c# c#> min. <A a> <cn c~n>
+=2, smb blank cro rest, min G
+=3' min e~ cro g~ min. e~b cro e~b
+=3 smb.. g)2
+| 10/4 80
+=1 10/4 smb. G cro A min. Bb'
+r0.8 .05 Por .60 las .68 ra .90 -
+=2' 10/4 min G cro G min G G <G c g g~> cro G
+=2, 10/4 cro Eb min Eb cro Eb Eb min Eb cro Eb min Eb
+=3 10/4 smb.. g min. c~'
+=3 10/4 smb.. C_,(1 min. C_,)1
+
+4 systems /21 43 21-31-21 /21 36 21-38-21 /21 40 21-31-21 /21 42 21-31-21 20/
+pagenum 19
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+4 bars | 7/4 14 | 14 | 3/4 6 | 6 |
+| 7/4 80
+=1 7/4 smb A min rest cro B'
+r0.8    - .06 mas .85 del
+=2' 7/4 cro rest' g min a(1 qua a)1 cro. b cro a
+=2, 7/4 cro Eb min Eb cro Eb Eb min Eb
+=3 7/4 cro c~ min c~ cro b a min f#(1
+|
+=1 cro. d(1 e)1(1 cro e)1 min. c#
+r0.8 .01 lau .30 - .55 rel
+=2 min b' cro f#' g#' min. a'
+=2 cro rest, min D, cro E, F#, A, B,
+=3 min f#)1 min. a cro f# a
+| 3/4 80
+il0.2      80
+=1 3/4 min. rest
+=2' 3/4 min b cro a
+=2, 3/4 min. c#
+=3' 3/4 cro b c~# d~
+=3, 3/4 min. g
+|
+=1 min. c
+r0.8 .03 vi
+=2' min. <c g>
+=2, cro <Eb G> min <Eb G>
+=3 min. a
+I0.2  *P__
+/
+5 bars | 2.4 2 2 | 1 1 1 1.4 1.2 1.4 1.2 | 3 3.6 | 6 | 5/4 10 |
+|
+=1 min. A
+r0.8 .03 dos
+=2' min. <Ax eb>
+=2, cro <Eb G> min <Eb G>
+=3 min. g
+|
+=1 min B' cro G#
+r0.8 .02 pa .39 - .67 lo   -
+=2' min. B
+=2, cro. F qua rest, [Gb F Eb]
+=3' cro <g# b> min <g# b>
+=3, min. d#
+|
+=1 min. A
+r0.7   - .04 mas
+=2 cro. F qua [F E D]
+=3' cro <a bx> min <a bx>
+=3, min. d
+|
+il0.2   85
+=1 cro rest min F#
+r0.7 .33 des .70 -
+=2' cro rest' F# G
+=2, min. E
+=3' cro <bb d~> min <bb d~>
+=3, min. d
+| 5/4 80
+=1 5/4 smb A cro G#(1
+r0.7 .06 nu .30 - .60 - .80 das
+=2 5/4 smb <D# F# A> cro rest
+=3 5/4 cro rest' cro. f#' qua g#' cro. a' qua b'
+=3 5/4 smb c#(2 cro c#,)2
+/
+4 bars | 10 | 6/4 12 | 5/4 10 | 6/4 12 |
+|
+=1 min G#)1 rest cro Fn
+r0.7 .80 la
+=2 cro rest <c# c~#> min <d d~> cro <c# c~#>
+=3' cro. a qua g# cro a min b
+=3, smb d qua rest, f
+| 6/4 80
+=1 6/4 min. A cro G cro. rest qua D#
+r0.7 .08 u .32 - .52 na .92 e   -
+=2 6/4 min <A, a> min. <F, f> cro <Eb eb'>
+=3 6/4 cro rest' min. a' min a'
+=3 6/4 smb c# min B,
+I0.1      P__
+| 5/4 80
+=1 5/4 min. F# cro rest Fn
+r0.7 .09 ra .81 la
+=2 5/4 smb <C# c#'> cro B_
+=3 5/4 cro rest B A min G
+| 6/4 80
+il0.2   90
+=1 6/4 smb B min A(1
+r0.7 .09 ot .42 - .69 ra
+=2 6/4 min. D min D cro Cn(2
+=3' 6/4 min f a f
+=3 6/4 smb. F
+/
+3 bars | 2 2 2.4 | 3.8 4.2 | 3.7 3.5 ||
+|
+=1 treble cro A)1 min. rest cro Eb F
+r0.65 .67 y .83 las
+=2' treble min. rest' cro. fn <Eb eb>
+=2, cro C)2 min. B_(2 min B_)2
+=3' bass   min <Eb eb> smb <Db db>
+| 8/4 80
+=1 8/4 smb Ab cro rest F Gb Eb
+r0.65 .05 dos .65 eran .87 nin   -
+=2 8/4 smb <Db(2 db(1> <Db)2 db)1> 
+I0.1 .81 loc . .
+=3 8/4 smb B_(1 B_)1
+I0.6             P__
+I0.3 .80 8vab . .
+| 7/4 80
+=1 7/4 cro. F cro B_ qua rest smb rest
+r0.65 .05  gu  -  na.
+=2 7/4 smb. b cro rest'
+i0.7           sin rall.  .  .
+I0.7   pp
+=3 7/4 qua rest' cro f' smb b cro. rest'
+=3 7/4 transpose-12 min B_, min. B_, min B_,
+I0.8                                                 *
+@
+
+
+1.22
+log
+@rewrite to end
+@
+text
+@d1 1
+a1 1
+4 systems /21 54 21-31-21 25/21 57 21-31-21/21 44 21-31-21 / 21 32 21-31-21 /
+d28 1
+a28 1
+2 bars | 7/4 7 | 7 |
+d32 1
+a32 1
+=2' 7/4 cro rest' g min a(1 qua a)1 cro. b(2 cro b)2
+d39 3
+a41 3
+=2' min F# cro D E cro. F# cro A qua B
+=2, smb.. B_
+=3 min a' cro f#' g#' min a' cro f#'
+a42 2
+/
+5 bars | 5 | 3.5 | 3 | 2.8 | 1.4 1.7 |
+d44 1
+a44 1
+=1 treble 5/4 min. rest min c#(1
+d46 5
+a50 3
+=2' treble 5/4 cro c# B cro. a cro g qua f#
+=2, treble 5/4 cro E min. D cro D#
+=3 bass   5/4 min. g cro a b
+d58 1
+a58 1
+r0.7 .10 dos
+d60 1
+a60 1
+=2, 3/4 cro E)2 F A
+d63 2
+a64 2
+=1 min d cro A
+r0.7 .01 pa .39 - .67 lo  -
+d66 1
+a66 1
+=2, cro E F D
+d71 1
+a71 1
+r0.7 .01 mas .81 os   -
+a74 2
+/
+5 bars | 3.6 | 3.5 | 4 | 3.5 | 1.2 1.2 1.5 1.5 1.2 1.2 |
+d76 5
+a80 5
+=1 treble min. f
+r0.6  - .03 cu .60 -
+=2' treble min. Bb
+=2, treble cro <D F> min <D F>
+=3 bass   min g cro g
+d91 2
+d95 1
+a95 1
+r0.6 .67 La
+d102 2
+a103 2
+r0.6 .08 u .24 - .42 na .82 e   -
+=2 5/4 cro F# smb G#
+d105 13
+a117 1
+=3 5/4 min f#, qua rest, min f#, qua rest,
+d119 1
+a119 1
+4 systems /21 50 21-31-21 /21 42 21-31-21 /21 39 21-31-21 /21 44 21-41-21 15/
+d124 2
+a125 12
+3 bars | 4.5 | 8 | 5 |
+|
+=1 treble min c cro rest min G#
+r0.8   - .04 ra .61 el
+=2 treble min. rest min c~'
+=2 treble smb G_#
+=3 bass   cro rest e min c~ cro b
+| 8/4 80
+=1 8/4 smb e min rest G#
+r0.8  .04 sol .80 la
+=2 8/4 smb <e G#> G#
+=3 8/4 cro c~ rest c~ min c~# min. bb
+d128 2
+a129 2
+r0.8 .08 ot .39 - .61 ra
+=2 5/4 cro3 C C#-I3 D# cro E F G
+a131 2
+/
+3 bars | 5 | 3.5 3 | 0.9 0.9 0.9 0.9 0.9 0.9 1.3 |
+d133 1
+a133 1
+=1 treble min. rest min e
+d135 2
+a136 2
+=2' treble cro G# A# min B cro Bb
+I0.7 .21 f
+d138 2
+a139 2
+=3' bass   min rest' cro rest' cro. g# qua a#
+=3 bass   smb D
+d145 2
+a146 2
+=2' 7/4 min ab g min. ab
+=2, 7/4 smb.. f
+d148 1
+a148 1
+=3, 7/4 min g# gn g# cro a#
+d150 1
+a150 1
+I0.2                                             f
+d152 5
+a156 4
+r0.8 .80 « Veci   -
+=2 cro rest G smb Ab qua [<F#, f#> d#]
+I0.8      pp
+I0.5                                           ff
+d161 1
+a161 1
+=1 treble 4/4 min. g# cro c
+d163 3
+a165 4
+=2' treble 4/4 min <G# g#> c
+=2, treble 4/4 cro rest,, min. D
+=3' bass   4/4 min. rest' cro g#
+=3 bass   4/4 smb <F_ F>
+d205 2
+a206 2
+=2 cro F G min Ab
+i0.7                 dim  .  .  .
+a216 5
+
+4 systems / 21 49 21-31-21 / 21 38 21-30-21 / 21 48 21-31-21 / 21 44 21-31-21 /
+pagenum 16
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+d218 2
+a219 1
+4 bars | 5.4 | 1.3 1 1 1.2 | 4 | 0.6 1.9 0.6 1.9 0.9 0.9 |
+d221 2
+a222 2
+il0.25          30
+=1 treble min G smb Eb
+d224 4
+a227 4
+=2 treble smb. G
+=2 treble min. C, cro B_, min C,
+=3 bass   smb a(2 cro. a)2 qua g
+=3 bass   smb. A_
+d236 1
+a236 1
+=2 min rest' qua rest' cro. g~'
+d239 1
+a239 1
+=3 cro. f#)1 qua g cro. a qua bb
+d243 7
+a249 2
+=2 6/4 cro. C  qua D cro. Eb qua F cro. Gb qua Ab
+=3 6/4 smb. a
+d253 1
+a253 1
+=1 treble min F# smb C
+d255 2
+a256 2
+=2' treble min Bb c(1 cro. c)1 qua d
+=2, treble cro. Eb qua F cro. F# qua G# min A
+d258 2
+a259 3
+=3 bass   smb rest cro rest' d~'
+=3 bass   smb. B_b
+I0.4 8b                                           loc.
+d267 1
+a267 1
+I0.4    *P__                              *P__
+d272 1
+a272 1
+=3 7/4 smb.. g(2
+d274 2
+a275 1
+2 bars | 12 | 1 1 1 1.3 1 1 1 1 1 1 1 1 |
+d278 1
+a278 1
+=2' treble min rest' cro c~# d~# min. e~
+d282 1
+a282 1
+=3 bass   smb g)2(2 qua [g)2 a] min bb
+d284 1
+a284 1
+=1 smb. rest cro G#
+d286 2
+a287 2
+=2' cro. rest' qua G cro Ab smb d
+=2, smb. E cro E
+d289 7
+a295 1
+=3 smb. bb cro rest
+d297 2
+a298 7
+3 bars | 6 | 4.4 | 0.9 0.9 0.9 1.3 |
+| 6/4 80
+=1 treble 6/4 min d(1 cro F#)1 min rest qua G A
+r0.8 .06 yo .83 que es   -
+=2' treble 6/4 smb. <d g#>
+=2, treble 6/4 cro. B_, qua  C# smb D
+=3 bass   6/4 min. f# qua [g# a] cro. c~ qua b
+d300 1
+a300 1
+il0.2      40
+d302 1
+a302 1
+r0.8 .08 ta .27 - .41 ba   ca   - .87 mi  -
+d305 2
+a306 1
+=3 4/4 cro a min. g
+d309 1
+a309 1
+r0.8 .01 nan .28 - .47 do
+d312 1
+a312 8
+=3 smb <a e~b>
+
+4 systems /21 35 21-31-21/21 35 21-39-21 10/21 56 21-31-21/21 46 21-36-21 10/
+pagenum 17
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+3 bars | 4 | 0.9 1.3 0.9 0.9 | 5.6 |
+d314 5
+a318 5
+=1 treble cro rest cro. G G#
+r0.8 .28 con .64 la
+=2' treble min rest' F
+=2, treble min. Db qua rest, Dn
+=3 bass   min. bb cro bn
+d321 3
+a323 3
+r0.8 .01 tier .36 - .58 ra
+=2 qua rest' cro F' qua Gb' min Ab'
+=2 min D, cro. D, qua Eb,
+d325 2
+d329 1
+a329 1
+r0.8 .28 por .45 la .68 cin   -
+a332 2
+/
+2 bars | 8 | 8 |
+d335 7
+a341 8
+=1 treble 8/4 min. f cro. B' qua rest min. rest
+r0.8    - .05 tu .25 - .40 ra
+=2' treble 8/4 smb <f ab> cro rest'cro. <D# d#> <E(1 e(3>
+=2,        8/4 cro B c# min. <F B> min. blank
+I0.5 .62 f .95 p
+I0.1 .85 loc . . .
+=3 bass   8/4 smb <ab(2 d~ a~b(1> <ab)2 a~b)1>
+I0.2 .85 8vab . . .
+d343 1
+a343 1
+i0.2   slower, hushed . . .
+d345 1
+a345 1
+r0.8 .02 vi .62 dos
+d348 7
+a354 2
+=3 transpose-12 min C#, cro C#, min C#, C#, cro C#, transpose0
+I0.2             p
+d356 1
+a356 1
+2 bars | 8 | 8 |
+d365 1
+a365 2
+=3 bass   transpose-12 min C# cro C# min C# C# cro C# transpose0
+I0.6 8vab . .
+d369 1
+a369 1
+=2 min. E,)2 min F#, min. B_,
+a370 3
+I0.2 .92 ...loc
+/
+2 bars | 8 | 8 |
+d372 6
+a377 6
+=1 treble 6/4 cro D#)1 rest F G# F# G#
+r0.8 .37 y .53 u   - .68 na .83 mu   -
+=2' treble 6/4 min. c# <g# c~#>
+=2, treble 6/4 cro F# cro. Fn cro Eb min C# qua rest,
+=3' bass   6/4 smb. c~#
+=3,        6/4 min. a cro. bb cro g# qua b
+d379 2
+d382 1
+a382 1
+il0.2   50
+d385 1
+a385 1
+=2' min. <c# c~#> min <B b> cro f#
+d387 1
+a387 1
+=3 min d~# qua rest' min d~# cro. c~#
+a388 7
+
+4 systems /21 45 21-36-21/21 35 21-31-21/21 44 21-31-21 10/21 44 21-31-21 12/
+pagenum 18
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+4 bars | 5 | 5 | 5 | 4.4 |
+d390 1
+a390 1
+=1 treble 5/4 smb A cro G#(1
+d392 1
+a392 1
+=2' treble 5/4 min f cro f# min fn
+d394 1
+a394 1
+=3' bass   5/4 min f~ cro f~n min f~n
+d402 2
+d408 1
+a408 1
+=2, min B min. A~#
+d414 1
+a414 1
+=2, cro Fn min F# cro Fn
+a415 2
+/
+3 bars | 4 | 4 | 4 |
+d418 1
+a418 1
+=1 treble min d c
+d420 1
+a420 1
+=2' treble min d c
+d422 2
+a423 2
+=3' bass   cro. b qua c~ min d~
+=3, bass   min. rest, qua [f g]
+d431 3
+a439 2
+/
+4 bars | 1.5 1.9 | 2.8 | 2.6 | 2.6 2.2 |
+d441 1
+a441 1
+=1 treble 3/4 cro A)2 qua rest F# G# Fn
+d443 2
+a444 2
+=2 treble 3/4 cro. F qua Eb cro D
+=3' bass   3/4 min a cro ab
+d468 6
+d475 2
+a476 1
+4 bars | 4/4 8 | 8 | 1 1 1.2 1 1 1 1.2 1 | 8 |
+d479 3
+a481 3
+=1 treble 4/4 min rest cro. A qua G#
+r0.8 .53 les .88 di  -
+=2 treble 4/4 smb F(1
+d483 1
+a483 1
+=3 bass   4/4 smb d~(1
+d487 1
+a487 1
+r0.8 .02 je .96 « ¿
+d494 1
+a494 1
+r0.8 .03 dónde .39 está
+d501 1
+a501 1
+r0.8 .25 mi .50 se  - .75 pul   -
+a504 7
+
+4 systems /21 44 21-31-21 6/21 48 21-31-21 /21 34 21-31-21 /21 55 21-36-21 20/
+pagenum 19
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+4 bars | .8 1.3 .9 .9 | 4 | 1 1 1 1 1.3 1 | 5.6 |
+d507 1
+a507 1
+=1 treble min c B'(1
+d509 1
+a509 2
+i0.2 .90 l.h.
+=2' treble min <Ab c> cro Ab F
+d511 4
+a514 2
+i0.2     dim .  .  .
+=3' bass smb <F_ F>
+d517 1
+a538 2
+/
+4 bars | 1.5 .7 .7 1.1 | 1.4 1.7 | .6 1.9 .6 1.9 .8 1 | 1.0 0.6 1.2 .5 .6 .8 .5 .6 .7 |
+d541 1
+a541 1
+=1 treble 4/4 qua rest B min c qua rest A
+d543 6
+a548 3
+=2 treble 4/4 smb <g g~>
+=3' bass   4/4 smb g~
+=3,        4/4 min. e~b cro a
+d558 1
+a558 1
+=2 6/4 cro. C qua D cro. Eb qua F min Gb
+d566 1
+a566 1
+=2' qua rest cro <Gb eb> qua <F f> cro. <F# f#> qua <G# g#> min <A a>
+a570 2
+/
+3 bars | 0.7 1.6 0.7 0.7 0.7 .9 | 0.8 0.8 0.8 0.8 0.8 1.2 1.3 | 3.5 3 |
+d573 1
+a573 1
+=1' treble cro. rest qua A min Bb cro rest G
+d575 1
+a575 1
+=2 treble smb. Eb
+d577 1
+a577 1
+=3 bass   smb. c~
+d579 2
+d582 1
+a582 1
+il0.2      75
+d584 1
+a584 1
+r0.7 .06 lu .30 - .52 na
+d593 12
+d606 1
+a606 8
+3 bars | 10 | 1 1 1 1 1.5 1 1 | 7 |
+| 10/4 80
+=1 treble 10/4 smb. G cro A min. Bb'
+r0.8 .05 Por .62 las .71 ra .90 -
+=2' treble 10/4 min G cro G min G G <G c g g~> cro G
+=2, treble 10/4 cro Eb min Eb cro Eb Eb min Eb cro Eb min Eb
+=3 bass   10/4 smb.. g min. c~'
+=3 bass   10/4 smb.. C_,(1 min. C_,)1
+d609 2
+a610 2
+r0.8 .06 mas .85 del
+=2' 7/4 cro rest' g min a(1 qua a)1 cro. b(2 cro b)2
+a618 7
+
+4 systems /21 43 21-31-21 /21 42 21-36-21 /21 40 21-31-21 /21 44 21-31-21 20/
+pagenum 20
+innerhead Casida de las palomas oscuras
+leftfoot (c) 1997  Peter J Billam
+/
+4 bars | 3/4 6 | 6 | 6 | 6 |
+d621 2
+a622 2
+=1 treble 3/4 min. rest
+=2' treble 3/4 min b cro a
+d624 1
+a624 1
+=3' bass   3/4 cro b c~# d~
+d633 2
+a647 2
+/
+4 bars | 3.2 | 3 | 5 | 4.7 |
+d649 1
+a649 1
+=1 treble min. A
+d651 2
+a652 2
+=2 treble cro. F qua [F E D]
+=3' bass  cro <a bx> min <a bx>
+d668 2
+a675 2
+/
+3 bars | 6 | 5.4 | 6.4 |
+d677 5
+a681 5
+=1 treble 6/4 min. A cro G cro. rest qua D#
+r0.7 .08 u .32 - .52 na .91 e   -
+=2 treble 6/4 min <A, a> min. <F, f> cro <Eb eb'>
+=3 bass   6/4 cro rest' min. a' min a'
+=3 bass   6/4 smb c# min B,
+d691 1
+a691 1
+r0.7 .07 ot .41 - .69 ra
+d699 1
+a699 1
+r0.65                                      y      las
+d707 1
+a707 1
+I0.1                                                    loc . .
+@
+
+
+1.21
+log
+@rewrite to bar 66
+@
+text
+@d10 1
+a10 1
+| 10/4 72
+d16 1
+a16 1
+| 7/4 72
+d20 1
+a20 1
+| 10/4 72
+d29 1
+a29 1
+| 7/4 72
+d45 1
+a45 1
+| 5/4 72
+d51 1
+a51 1
+| 4/4 72
+d53 1
+a53 1
+=2' 4/4 cro B e min e
+d56 1
+a56 1
+| 3/4 72
+d98 2
+a99 2
+=3 cro rest min d,
+| 5/4 72
+d119 1
+a119 1
+| 8/4 72
+d121 1
+a121 1
+r0.8  .04 sol .76 la
+d124 1
+a124 1
+| 5/4 72
+d140 1
+a140 1
+| 7/4 72
+d152 1
+a152 1
+r0.8 .76 « Veci   -
+d159 1
+a159 1
+| 4/4 72
+d174 1
+a174 1
+I0.2                                       f
+d209 1
+a209 1
+| 6/4 72
+d232 1
+a232 1
+| 4/4 72
+d244 1
+a244 1
+| 6/4 72
+d256 1
+a256 1
+I0.2       f
+d268 1
+a268 1
+| 7/4 72
+d291 1
+a291 1
+| 6/4 72
+d297 1
+a297 1
+| 4/4 72
+d329 1
+a329 1
+| 6/4 72
+d337 1
+a337 1
+| 8/4 72
+d349 1
+a349 1
+=1 smb G# cro rest min. A#
+d375 1
+a375 1
+| 6/4 72
+d398 1
+a398 1
+| 5/4 72
+d408 1
+a408 1
+=2' min f~ cro f~n min f~n
+d417 1
+a417 1
+| 4/4 72
+d419 1
+a419 1
+r0.8 .07 ra .76 la
+d448 1
+a448 1
+| 3/4 72
+d468 1
+a468 1
+| 5/4 72
+d478 1
+a478 1
+| 4/4 72
+d489 1
+a489 1
+=2 smb F)1
+d507 1
+a507 1
+4 systems /21 48 21-31-21 /21 48 21-31-21 /21 34 21-31-21 /21 55 21-36-21 20/
+d528 1
+a528 1
+| 6/4 72
+d532 4
+a535 3
+=2 6/4 min. G#' F#'
+=2 6/4 min G_#, C#, qua rest, cro Cn, qua B_b,
+=3 6/4 smb C# cro rest, D#
+d537 1
+a537 1
+=1 min G smb D#
+d539 1
+a539 1
+=2' smb. G
+d547 1
+a547 1
+| 4/4 72
+d558 2
+a559 3
+=2 min rest,, cro A_, B_b,
+=3 smb <g c~>
+| 6/4 72
+d563 1
+a563 1
+=2 6/4 qua rest, cro C qua D cro. Eb qua F min Gb
+d571 1
+a571 1
+=2 qua rest cro <Eb' eb'> qua <F' f'> cro. <F#' f#'> qua <G#' g#'> min <A' a'>
+d573 3
+a575 3
+=3 smb rest cro. rest' qua d~'
+=3 smb. B_b
+I0.2            P__             .  . loc.
+d586 1
+a586 1
+| 7/4 72
+d591 1
+a591 1
+=3 7/4 smb g(1 cro g)1 qua f# cro. g(2
+d594 3
+a596 2
+=2 cro c#' smb A' min cn'
+=3 min e~' cro g~' min. e~b' cro e~b'
+d600 1
+a600 1
+| 10/4 72
+d602 3
+a604 3
+r0.8 .05 Por .62 las .72 ra .90 -
+=2 treble 10/4 min G' cro G' min G' G' <G' c' g' g~'> cro G'
+=2 treble 10/4 cro Eb, min Eb, cro Eb, Eb, min Eb, cro Eb, min Eb,
+d607 1
+a607 1
+| 7/4 72
+d620 1
+a620 1
+4 systems /21 55 21-31-21 /21 44 21-31-21 /21 40 21-31-21 /21 44 21-31-21 20/
+d625 2
+a626 2
+4 bars | 4 | 4 | 4 | 4 |
+| 3/4 72
+d629 4
+a632 3
+=2 treble 3/4 min e~' cro f~#'
+=2 treble 3/4 cro. A, A,
+=3 bass   3/4 cro b cro. c~ qua d~#
+d634 1
+a634 1
+=1 min c cro rest
+d636 3
+a638 3
+=2 min. d~#'
+=2 cro rest A, c,
+=3 min. f#
+d643 3
+a645 2
+=2 min <c a~> cro B
+=3 cro. rest cro e~ qua e
+d649 4
+a652 3
+=2 min. B'
+=2 cro Gb, qua rest, Gb,[ F, Eb,]
+=3 min. eb
+d658 3
+a660 2
+=2 treble min F qua rest Eb(2
+=3 bass   cro rest eb f
+d665 5
+a669 3
+=2 min Eb)2 cro C#
+=3 min. f#
+| 5/4 72
+d672 1
+a672 1
+=2 5/4 smb <D# F#> cro rest
+d678 3
+a680 3
+=2 min rest <d d~> cro <c# c~#>
+=3 cro. rest' qua g#' cro a' min b'
+=3 smb d qua rest, f,
+d683 1
+a683 1
+| 6/4 72
+d686 1
+a686 1
+=2 treble 6/4 smb <F,(3 f(1> cro. <F,)3 f)1> qua <D# d#'>
+d690 1
+a690 1
+| 5/4 72
+d695 1
+a695 1
+| 6/4 72
+d700 1
+d707 4
+a710 4
+=2 treble min. rest' cro. fn' <Eb' eb'>
+=2 treble cro C,)2 min. B_,(2 min B_,)2
+=3 bass   min Eb smb Db
+| 8/4 72
+d718 1
+a718 1
+| 7/4 72
+d724 1
+a724 1
+=3 7/4 qua rest cro f' smb b cro. rest
+@
+
+
+1.20
+log
+@refine up to bar 45
+@
+text
+@d187 1
+a187 1
+=3 smb B
+d274 1
+a274 1
+2 bars | 6 | 6 |
+d285 1
+a285 1
+=2' cro. rest' qua G cro G# smb d
+d311 1
+a311 1
+4 systems /21 40 21-31-21/21 40 21-39-21 10/21 56 21-31-21/21 40 21-36-21 10/
+d341 2
+a342 2
+=2' treble 8/4 min g# min. d cro. <D# d#> <E(1 e(3>
+=2,        8/4 cro B c# min. B min. blank
+d345 1
+a345 1
+=3 bass   8/4 smb <g#(2 d~ g~#(1> <g#)2 g~#)1>
+d353 1
+a353 1
+=3 min C#, cro C#, min C#, C#, cro C#,
+d365 2
+a366 2
+=3 bass   min C# cro C# min C# C# cro C#
+I0.2 8 . .
+d368 1
+a368 1
+=1 cro A#(2 smb B)2 min. D#
+d372 1
+a372 1
+I0.2                                                                                      loc.
+d376 1
+a376 1
+=1 treble 6/4 min rest cro F G# F# G#
+d378 2
+a379 2
+=2 treble 6/4 smb. c# c~#
+=2 treble 6/4 cro F#, cro. Fn, cro Eb, min C#, qua rest,
+d385 1
+a385 1
+=1 min. c# cro B' rest F#
+d387 2
+a388 1
+=2 cro rest G# cro. F# qua Fn cro. F# qua A
+d390 1
+a390 1
+I0.2                                                 *P__
+d392 1
+a392 1
+4 systems /21 40 21-31-21 /21 40 21-31-21 /21 44 21-31-21 10/ 21 44 21-31-21 12/
+d401 4
+a404 3
+=2' treble 5/4 smb c#
+=2, treble 5/4 min F# min. Fn
+=3 bass   5/4 smb B cro rest
+d406 1
+a406 1
+=1 min G#)1 rest cro G#
+d408 3
+a410 3
+=2 cro rest' f' min. f#'
+=2 smb D# cro rest,
+=3 min. B cro g# b
+d412 1
+a412 1
+=1 cro B' min A# cro rest c#
+d414 3
+a416 2
+=2 min. G# min E
+=3 min d~# min. c~#
+d420 3
+a422 3
+=2 4/4 min. F# cro Fn
+=3' 4/4 smb b'
+=3, 4/4 cro. g# qua d(1 min d)1
+d424 1
+a424 1
+3 bars | 4 | 4 | 3.4 |
+d429 4
+a432 3
+=2 treble smb Ab
+=3 bass   cro b' c~' min d~'
+=3 bass   min. f, cro gb
+d434 1
+a434 2
+I0.2                                          3
+=1 cro rest G#(1 cro3 G#)1 F# G#
+d436 2
+a437 1
+=2 smb <D F#>
+d440 6
+a445 6
+| 3/4 72
+=1 3/4 min c# cro A
+r0.7 .08 cha .40 - .66 cha
+=2 3/4 cro rest qua B_[ C#] cro Eb
+=3 3/4 min. a'
+=3 3/4 min f#, qua rest fn,
+d448 2
+a449 2
+|
+=1 treble cro. rest qua F# G# Fn
+d451 3
+a453 2
+=2 treble cro. F qua Eb cro D
+=3 bass   qua eb[ f] cro. gb qua bb
+d457 4
+a460 3
+=2 cro f#' min c'
+i0.9                         dim  .  .  .
+=3' min <a c~> cro g#
+d465 1
+a465 2
+=2 min. rest
+=3' cro a b c~
+d469 1
+a469 1
+I0.2     ff
+d473 1
+a473 1
+=2, 5/4 min. B_ min <D_(4 D(2>
+d475 1
+a475 1
+=3 5/4 min <G_# G#> min. <F_(4 F(2>
+d477 1
+a477 1
+4 bars | 3 | 3 | 3 | 3 |
+d479 1
+a479 1
+I0.2                    pp
+d482 3
+a484 3
+=2 treble 4/4 cro <D_)4 D)2> min. F(1
+I0.8                  pp
+=3 bass   4/4 cro <F_)4 F)2> min. d~(1
+d486 1
+a486 1
+I0.2                                     f
+d490 2
+a491 2
+i0.5                  cresc  .  .  .
+I0.5                                      ff
+d496 3
+a498 3
+=2 cro eb qua f[ gb] min f
+=3' qua rest' c~#' cro b' ab' g'
+=3, smb <B_ B>
+d503 3
+a505 3
+=2 cro. B_ qua D cro. E qua F
+=3' min. g# cro f
+=3, smb <G_# G#>
+d518 4
+a521 4
+=2 treble smb <D Ab>
+i0.5     dim .  .  .
+=3' bass   cro. f' qua e' cro. f' qua ab'
+=3, bass   min. <A_b Ab> cro <F_ F>
+d524 2
+a525 2
+=2 min. <c~' f' c' Ab'>
+=2 cro F, G, cro. G#, qua B
+@
+
+
+1.19
+log
+@some rewriting, mostly adjustments
+@
+text
+@d21 1
+a21 1
+=1 10/4 smb G min rest cro F min. Bb'
+d28 7
+a34 1
+2 bars | 8 | 7 |
+d36 7
+a42 13
+=1 treble smb A rest cro rest B'
+r0.8   - .02 mas .90 del
+=2 treble cro rest' g' min a' cro g' min a'(1 qua a')1 cro. b' cro f~#'
+=2 treble smb Eb min A, smb d
+=3 bass   smb c~(1 cro c~)1 min b qua rest cro a cro. d
+| 7/4 72
+il0.3    5
+=1 7/4 cro. d(1 e)1(1 cro e)1 min. c#
+r0.8      lau   -        -        -       -   rel
+=2 7/4 cro rest' smb. A
+=2 7/4 min F#, cro D, E, cro. F#, A,
+=3 7/4 min a' cro f#' g#' min a' cro f#'
+=3 7/4 smb B
+d47 3
+a49 3
+r0.7                                   van   -     -
+=2 treble 5/4 cro c#' B' cro. a' cro g' qua f#'(1
+=2 treble 5/4 cro E, min. D, cro D#,
+d53 2
+a54 3
+r0.7   -      -
+=2 4/4 min f#')1 e'
+=2 4/4 smb E(2
+d59 3
+a61 3
+=2' 3/4 min. g'
+=2, 3/4 cro. E)2 qua D# cro E(2
+=3 3/4 min. g
+d65 3
+a67 2
+=2 min E)2 qua rest F
+=3 cro a# min b
+d72 2
+a73 1
+=2 cro. E F
+d80 3
+a82 2
+=2 treble min. <D F Bb'>
+=3 bass   cro g min g
+d86 3
+a88 2
+=2 min. <D F Bb'>
+=3 qua min g cro g
+d91 1
+a91 1
+=2 cro rest qua C cro. D(1
+d96 1
+a96 1
+=2 min. D)1
+d101 1
+a101 1
+=1 5/4 min d cro F# rest c
+d114 1
+a114 1
+=1 treble min B' cro rest min G#
+d116 1
+a116 1
+=2 treble min. rest min c~'(1
+d122 2
+a123 2
+=2 8/4 smb <c~)1 G#> G#
+=3 8/4 cro c~ rest c~ min c~# min. bb(1
+d127 1
+a127 1
+=2 5/4 cro C C# E F G
+d129 1
+a129 1
+=3 5/4 smb bb)1 cro rest
+d136 3
+a138 3
+I0.7                 f
+i0.7                             dim  .  .  .
+=3 bass   min rest' cro. rest' g#'
+d143 6
+a148 4
+=1 7/4 min. f cro e(1 min. d)1
+r0.8 .05 lu     -      -      na   -       -
+=2 7/4 cro Ab G Ab(2 smb Ab)2
+=3 7/4 smb. b cro a#
+d153 1
+a153 1
+=2 cro rest G smb Ab qua f#[ d#]
+d162 3
+a164 2
+=2 treble 4/4 smb g#
+=2 treble 4/4 cro rest, min. D,
+d176 1
+a176 1
+r0.7 .01 je .96 « ¿
+d178 2
+a179 1
+i0.7                  cresc .  .  .
+d185 2
+a186 2
+=2 cro. F qua Eb cro. D qua G_#
+I0.6   f
+d192 4
+a195 3
+r0.7 .28 mi .52 se  - .75 pul  -
+=2 treble cro. B_ qua D cro. E qua F
+=3 bass   smb Ab
+d200 3
+a202 2
+=2 cro. Ab qua G cro Ab qua D[ E]
+=3 smb F(2
+d207 2
+a208 2
+=3 min.. rest' qua c~'(1
+=3 min. F,)2 cro D,
+d215 1
+a215 1
+=3 6/4 min. c~')1 cro c~' min d~'
+d226 1
+a226 1
+=1 treble min G smb D#
+d235 2
+a236 2
+=2 4/4 smb Eb
+=3 4/4 min rest cro g f#
+d240 1
+a240 1
+=2 min rest' qua rest' cro. f~'
+d243 1
+a243 1
+=3 min g cro a bb
+d247 1
+a247 1
+=2 6/4 cro. C  qua D cro. Eb qua F min Gb
+d254 2
+a255 1
+=2 treble cro. Eb qua F cro. F# qua G# min A'
+d257 1
+a257 1
+=3 bass   smb rest cro. rest' qua d~'
+d264 1
+a264 1
+=2 smb. Eb
+d271 1
+a271 1
+=2 7/4 min En G E cro D#
+d278 2
+a279 2
+=2, treble cro rest, Bb qua [A G] min C# qua rest, D# cro E(2
+i0.5                                                       dim  .  .  .
+d281 1
+a281 1
+=3 bass   smb g)2(2 qua [g)2 a] cro. bb qua a
+d285 4
+a288 3
+=2 cro E)2 qua rest F# smb E cro E
+i0.6  .  .  rit  .  .                      a tempo,  cresc  .  .  .
+=3 min. bb cro bn qua d~ min f# qua rest
+d293 4
+a296 4
+r0.8 .06 yo .84 que es   -
+=2 treble 6/4 smb. g#
+=2 treble 6/4 cro B_, qua B_,[ C,] smb D
+=3 bass   6/4 min. f# qua g#[ a] min c~
+d299 5
+a303 4
+=1 4/4 min c qua B' cro A qua B'
+r0.8 .08 ta .31 - .52 ba   ca   - .87 mi  -
+=2 4/4 min. Eb cro En
+=3 4/4 cro a qua b cro c~ c~ qua b
+d305 1
+a305 1
+=1 min eb cro c rest
+d307 3
+a309 2
+=2 min. Gb qua F[ Eb]
+=3 smb a
+d316 13
+a328 13
+3 bars | 3.2 | 0.9 1.3 0.9 0.9 | 5.6 |
+| 3/4 72
+=1 treble 3/4 qua rest cro G cro. G#
+r0.8                 con        la
+=2 treble 3/4 cro rest' min F
+=2 treble 3/4 min Db, qua rest, Dn,
+=3 bass   3/4 min bb cro bn
+| 4/4 72
+=1 4/4 min A# B'(2
+r0.8       tier     -        -     ra
+=2 4/4 qua rest' cro F' qua Gb' min Ab'
+=2 4/4 min D, cro. D, qua Eb,
+=3 4/4 min. g# cro a#
+d331 1
+a331 1
+r0.8                         por       la           cin   -
+d340 1
+a340 1
+r0.8       -   tu   -      -      -      -   ra
+d350 1
+a350 1
+r0.8 .01  vi .62 dos
+d358 2
+a359 2
+=1 treble min E cro G# min F# rest cro G#
+r0.8 .02 á .15 - .25  gui  - .37 las .87 de
+d368 2
+a369 2
+=1 cro A#(1 smb B)1 min. D#
+r0.8    nie   -         -         -       -        -    ve
+d377 1
+a377 1
+r0.8                                       y           u     -     na         mu   -
+d386 1
+a386 1
+r0.8    cha    -       -      -       -    cha                         des   -
+d399 1
+a399 1
+r0.8       -   nu   -       -       -    da   -       -
+d405 1
+a405 1
+r0.8                                    la
+d411 1
+a411 1
+r0.8     una                           e   -
+d416 1
+a416 1
+r0.8    -   ra                     la
+d425 1
+a425 1
+r0.8         ot    -       -      -    ra
+d432 1
+a432 1
+r0.8                 y    -      -          la      mu   -
+d438 1
+a438 1
+r0.8  -  cha      -         -      cha
+d446 1
+a446 1
+r0.7                           era      nin   -
+d451 1
+a451 1
+r0.7   gu   -   na
+d476 1
+a476 1
+r0.8                              les         di   -
+d483 1
+a483 1
+r0.8    je
+d490 1
+a490 1
+r0.8 « ¿ dón  -  de  está
+d511 2
+a512 2
+r0.7     -   tu      -     ra ? »
+i0.2                                      l.h.
+a518 1
+r0.7   -       -       -
+d526 1
+a526 1
+r0.7      « En                    mi
+d532 1
+a532 1
+r0.7    co     -      la » ,
+d550 1
+a550 1
+r0.7   sol .
+d557 1
+a557 1
+r0.7      « En                   mi              gar   -
+d565 1
+a565 1
+r0.7   gan    -      -    ta   -      - » ,
+d567 1
+a567 1
+I0.5                                          mp
+d576 1
+a576 1
+r0.7                      dijo                    la
+d583 2
+a584 2
+=1 7/4 min. db cro c(1 min. Bb)1
+r0.7       lu    -       -   na   -       -
+d595 1
+a595 1
+=1 treble 10/4 smb G min rest cro F min. Bb'
+d604 1
+a604 1
+=2' 7/4 cro rest' g min a(1 qua a)1 cro. b cro f~#
+d609 1
+a609 1
+r0.8    lau   -      -     -   rel
+d673 1
+a673 1
+r0.7             u      -        -     na                   e    -
+d686 1
+a686 1
+r0.7       ot      -         -        -      ra    -
+@
+
+
+1.18
+log
+@update muscript syntax
+@
+text
+@d1 1
+a1 1
+4 systems /21 54 21-31-21 25/21 55 21-31-21/21 44 21-31-21 / 21 32 21-31-21 /
+d6 2
+d10 3
+a12 3
+|
+=1 treble 10/4 smb rest rest min rest
+=2 treble 10/4 cro Eb min Eb cro Eb Eb min Eb cro Eb min Eb
+d14 1
+a14 1
+=3 bass   10/4 smb rest rest min rest
+d16 1
+a16 1
+|
+d20 1
+a20 1
+|
+d22 1
+a22 1
+r0.9      Por                                 las  ra -
+d30 2
+a31 2
+=1 treble smb A rest cro rest B
+r0.8     -   mas                                                                              del
+d35 2
+a36 2
+|
+il0.2      5
+d45 1
+a45 1
+|
+d51 1
+a51 1
+|
+d57 3
+a59 3
+|
+=1 3/4 min c# cro rest
+r0.7      dos
+d65 1
+a65 1
+r0.7   pa     -      lo   -
+d71 1
+a71 1
+r0.7  mas                os   -
+d78 1
+a78 1
+r0.6     -  cu   -      -      -
+d82 2
+a83 2
+=1 min. d
+r0.6   ras   -      -
+d87 1
+a87 1
+=1 min. rest
+d92 1
+a92 1
+r0.6                    La
+d96 1
+a96 1
+|
+d99 1
+a99 1
+r0.6        u       -         na                   e   -
+d111 2
+a112 2
+=1 treble min B cro rest min G#
+r0.8     -  ra                     el
+d116 3
+a118 3
+|
+=1 8/4 min. e rest min G#
+r0.8       sol                                                 la
+d121 3
+a123 3
+|
+=1 5/4 min. e min c#
+r0.8       ot   -      -      -   ra
+d131 1
+a131 1
+r0.8                                  la
+d137 1
+a137 1
+|
+d140 2
+a141 2
+=1 7/4 min. f smb d
+r0.8        lu     -      -      na   -       -
+d147 1
+a147 1
+r0.8                                                  « Veci   -
+d151 1
+a151 1
+=3 smb b cro rest min B
+d154 1
+a154 1
+|
+d156 1
+a156 1
+r0.7         -   ni      -        -    tas »,
+d159 1
+a159 1
+=3 bass   4/4 smb F
+d163 1
+a163 1
+r0.7                       les            di   -
+d170 1
+a170 1
+r0.7     je
+d177 1
+a177 1
+r0.7 « ¿ dón-de  es - tá   -       -
+d185 1
+a185 1
+r0.7                  mi    se  -  pul  -
+d191 1
+a191 1
+r0.7   tu     -       -     ra   -      -
+a195 1
+r0.7    -      - ? »
+d200 1
+a200 1
+|
+d202 1
+a202 1
+r0.7     « En                 mi
+d218 1
+a218 1
+r0.7          co    -    la » ,
+d223 1
+a223 1
+|
+d225 1
+a225 1
+r0.7           dijo                 el
+d230 1
+a230 1
+r0.7   sol .
+d235 1
+a235 1
+|
+d237 1
+a237 1
+r0.7      « En                  mi              gar   -
+d244 1
+a244 1
+r0.6     -   gan   -     -   ta » ,
+d253 1
+a253 1
+r0.7                   dijo                          la
+d258 3
+a260 3
+|
+=1 7/4 min. db smb Bb
+r0.7        lu    -       -    na   -      -
+d267 2
+a268 2
+=2 treble min rest' cro c~#' d~#' min. e~'
+=2 treble cro rest, Bb, qua A,[ G,] min C#, qua rest, D#, cro E,(2
+d271 1
+a271 1
+=3 bass   smb g)2(2 qua g)2 a cro. bb qua a
+d274 1
+a274 1
+r0.8                                                                           Y
+d280 1
+a280 1
+|
+d282 1
+a282 1
+r0.8           yo   -      -                                       que es -
+d286 1
+a286 1
+|
+d289 1
+a289 1
+r0.8    -   ta    -       -    ba   ca   -   mi  -
+d294 1
+a294 1
+r0.8   nan       -       do
+d304 1
+a304 1
+|
+d310 2
+a311 2
+|
+=1 4/4 min A# cro. B' qua rest
+d316 2
+a317 2
+|
+=1 6/4 cro. rest cro c cro. d min eb
+d324 1
+a324 1
+|
+d330 2
+a331 2
+I0.5                                                           f                              p
+I0.2                                                                               loc . . .
+d333 1
+a333 1
+I0.2                                                                               8vab . . .
+d336 2
+a337 2
+=1 smb G# cro rest min A# cro rest
+r0.8    vi                                               dos
+d346 1
+a346 1
+r0.8          á    -      -    gui  -  las                                       de
+d362 1
+a362 1
+|
+d384 1
+a384 1
+|
+d401 1
+a401 1
+|
+d423 1
+a423 1
+|
+d449 2
+a450 1
+|
+d453 3
+a455 2
+r0.8                « Agui  -  li   -     -     -   tas » ,
+=2 5/4 min. B_ min <D_(4 D(2>
+d457 1
+a457 2
+=3 5/4 min <B_ G#> min. <F_(4 F(2>
+I0.2  ff
+d460 1
+a460 1
+|
+d479 2
+a480 2
+=3 qua rest' c~#' cro b' ab' g'
+=3 min. B,
+d484 1
+a484 1
+r0.8            mi       se  -   pul   -
+d487 1
+a487 1
+=3, smb G#
+d502 2
+a503 2
+=3 bass   cro. f' qua e' cro. f' qua ab'
+=3 bass   min. Ab, cro F,
+d511 1
+a511 1
+|
+d529 2
+a530 2
+|
+il0.2      70
+d532 1
+a532 1
+r0.7                 dijo            el
+d540 1
+a540 1
+=2 min rest, cro A_, B_b,
+d542 1
+a542 1
+|
+d563 1
+a563 1
+=1 treble cro. rest qua A min Bb cro rest G
+d569 1
+a569 1
+|
+d571 1
+a571 1
+=1 7/4 min. db smb Bb
+d582 1
+a582 1
+|
+d584 1
+a584 1
+r0.8           Por                                las  ra -
+d589 1
+a589 1
+|
+d591 4
+a594 4
+r0.8   -   mas                               del
+=2 7/4 cro rest' g' min a'(1 qua a')1 cro. b' cro f~#'
+=2 7/4 smb.. Eb
+=3 7/4 min. c~ cro b a min f#(1
+d599 1
+a599 1
+=2 cro rest min d, cro E, F#, A, B,
+d608 1
+a608 1
+|
+d616 1
+a616 1
+r0.8    vi   -       -
+d622 2
+a623 2
+=1 min A cro rest
+r0.8   dos
+d628 1
+a628 1
+r0.8    pa     -        -      lo   -
+d636 1
+a636 1
+r0.7        mas   -       -
+d642 1
+a642 1
+r0.7            des   -       -
+d645 1
+a645 1
+|
+d647 1
+a647 1
+r0.7   -  nu   -       -       -       -    das   -
+d653 1
+a653 1
+r0.7   -                                     la
+d659 1
+a659 1
+|
+d666 3
+a668 3
+|
+=1 5/4 min F# rest cro Fn
+r0.7      ra                                 la
+d671 1
+a671 1
+|
+d685 1
+a685 1
+|
+d687 1
+a687 1
+r0.65      dos                               eran      nin   -
+d692 2
+a693 2
+I0.3                                                     8vab . .
+|
+d695 1
+a695 1
+r0.65    -  gu  -   na.
+d700 1
+a700 1
+=3 7/4 min B_, min. B_, min B_,
+@
+
+
+1.17
+log
+@final (?) spacing tweaks
+@
+text
+@d58 2
+a59 1
+=2 3/4 <min. g' cro. E,)2> qua D#, cro E,(2
+d130 1
+a130 1
+=2 treble cro G# A# min B cro Bb
+d327 2
+a328 1
+=2 treble 8/4 <min g#' cro B,> c#, min. <d' B,> cro. <D# d#'> <E'(1 e'(3>
+d347 1
+a347 1
+=2 treble <min. g#' g~#'>
+d366 2
+a367 1
+=3 bass   6/4 <smb. c~# min. a,> cro. bb, cro g#, qua b,
+d386 2
+a387 1
+=2 treble 5/4 <smb c# min F#,> min. Fn,
+d393 1
+a393 1
+=2 smb D#
+d404 2
+a405 1
+=3 4/4 <smb b' cro. g#,> qua d,(1 min d,)1
+d440 2
+a441 1
+=3 <min. d#,(2 min a' c~'> cro g#'
+d446 2
+a447 1
+=3 <min. d#,)2 cro a'> b' c~'
+d484 2
+a485 1
+=3 <smb G# min. g#'> cro f'
+d498 1
+a498 1
+=2 treble <smb D Ab>
+d505 1
+a505 1
+=2 <min. c~' f' c' Ab'>
+d519 2
+a520 1
+=2 <smb. G min. C,> cro B_, min C,
+d532 2
+a533 1
+=3 bass   4/4 <smb g~' min. e~b,> cro a,
+d537 1
+a537 1
+=2 <smb G eb>
+@
+
+
+1.16
+log
+@spacing on p13,14
+@
+text
+@d296 1
+a296 1
+4 systems / 21 40 21-31-21 / 21 40 21-39-21 / 21 56 21-31-21 / 21 40 21-36-21 /
+d479 1
+a479 1
+4 systems /21 48 21-31-21 /21 48 21-31-21 /21 39 21-31-21 /21 55 21-36-21 20/
+d552 1
+a552 1
+r0.8                      dijo                    la
+d560 1
+a560 1
+r0.8       lu    -       -   na   -       -
+d590 1
+a590 1
+4 systems /21 55 21-31-21 /21 44 21-31-21 /21 40 21-31-21 /21 44 21-31-21 15/
+d624 1
+a624 1
+r0.8        mas   -       -
+d630 1
+a630 1
+r0.8            des   -       -
+d635 1
+a635 1
+r0.8   -  nu   -       -       -       -    das   -
+d641 1
+a641 1
+r0.8   -                                     la
+@
+
+
+1.15
+log
+@ISO charset, but spacing still needs tuning
+@
+text
+@d1 1
+a1 1
+4 systems /21 54 21-31-21 15/21 55 21-31-21/21 44 21-31-21 / 21 37 21-31-21 /
+d7 1
+a7 1
+3 bars | 10/4 1 .8 .8 1 1 .8 .8 1 .8 .8 | 1.2 .9 .9 1.2 1.2 .9 | 11 |
+d45 1
+a45 1
+r0.8                                   van   -     -
+d51 1
+a51 1
+r0.8   -      -
+d57 1
+a57 1
+r0.8      dos
+d62 1
+a62 1
+r0.8   pa   -     -   lo   -
+d68 1
+a68 1
+r0.8  mas                os   -
+d75 1
+a75 1
+r0.8     -  cu   -      -      -
+d80 1
+a80 1
+r0.8   ras   -      -
+d89 1
+a89 1
+r0.8                    La
+d96 1
+a96 1
+r0.8        u       -         na                   e   -
+d101 1
+a101 1
+4 systems /21 45 21-31-21 /21 42 21-31-21 /21 39 21-31-21 /21 44 21-41-21 8/
+d144 1
+a144 1
+r0.8                                                   « Veci   -
+d153 1
+a153 1
+r0.8         -   ni      -        -    tas »,
+d160 1
+a160 1
+r0.8                       les            di   -
+d167 1
+a167 1
+r0.8     je
+d174 1
+a174 1
+r0.8 « ¿ dón - de   está   -       -
+d182 1
+a182 1
+r0.8                  mi    se  -  pul  -
+d188 1
+a188 1
+r0.8   tu     -       -     ra   -      -
+d193 1
+a193 1
+r0.8    -      - ? »
+d200 1
+a200 1
+r0.8      « En                 mi
+@
+
+
+1.14
+log
+@minor vertical respacing
+@
+text
+@d1 2
+a2 2
+4 systems / 21 54 21-31-21 / 21 48 21-31-21 / 21 44 21-31-21 / 21 37 21-31-21 /
+lefthead poem by Federico Garcia Lorca
+d7 1
+a7 1
+3 bars | 10 | 7 | 11 |
+d26 1
+a26 1
+2 bars | 10 | 7 |
+d42 1
+a42 1
+5 bars | 5.4 | 3.5 | 3 | 2.8 | 1.4 1.7 |
+d72 1
+a72 1
+5 bars | 4 | 3.5 | 4 | 3.5 | 1.2 1.2 1.5 1.5 1.2 1.2 |
+d106 1
+a106 1
+3 bars | 5 | 8 | 5 |
+d125 1
+a125 1
+3 bars | 5.5 | 3.5 3 | 0.9 0.9 0.9 0.9 0.9 0.9 1.3 |
+d144 1
+a144 1
+r0.8                                                     Veci   -
+d150 1
+a150 1
+4 bars | 4.3 | 4 | 4 | 1 1.2 1 1 |
+d153 1
+a153 1
+r0.8         -   ni      -        -    tas
+d174 1
+a174 1
+r0.8    don - de   esta   -       -
+d179 1
+a179 1
+4 bars | 4.5 | 0.9 1.6 0.9 1.1 | 3.7 | 2.5 2.3 |
+d193 1
+a193 1
+r0.8    -      -
+d200 1
+a200 1
+r0.8        en                 mi
+d212 1
+a212 1
+4 bars | 6 | 1.3 1 1 1.2 | 4 | 0.6 1.9 0.6 1.9 0.9 0.9 |
+d216 1
+a216 1
+r0.7          co    -    la
+d228 1
+a228 1
+r0.7   sol
+d235 1
+a235 1
+r0.7        en                  mi              gar   -
+d239 1
+a239 1
+3 bars | 0.9 1.7 0.9 1.4 0.9 1 | 0.9 1.6 1 1 1 1 | 6 |
+d242 1
+a242 1
+r0.6     -   gan   -     -   ta
+d262 1
+a262 1
+2 bars | 6.5 | 6 |
+d277 1
+a277 1
+3 bars | 6.4 | 4.4 | 0.9 0.9 0.9 1.3 |
+d301 1
+a301 1
+3 bars | 3.5 | 0.9 1.3 0.9 0.9 | 5.6 |
+d321 1
+a321 1
+2 bars | 8.5 | 8 |
+d340 1
+a340 1
+2 bars | 8.5 | 8 |
+d343 1
+a343 1
+r0.8          a    -      -    gui  -  las                                       de
+d358 1
+a358 1
+2 bars | 8.5 | 8 |
+d379 1
+a379 1
+4 bars | 5.4 | 5 | 5 | 4.4 |
+d402 1
+a402 1
+3 bars | 4.4 | 4 | 3.4 |
+d424 1
+a424 1
+4 bars | 1.6 2.1 | 2.8 | 2.6 | 2.6 2.2 |
+d444 1
+a444 1
+r0.8                  Agui  -  li   -     -     -   tas
+d450 1
+a450 1
+4 bars | 3.4 | 3 | 3 | 3 |
+d468 1
+a468 1
+r0.8   don  -  de  esta
+d484 1
+a484 1
+4 bars | .9 1.4 1 1 | 4 | 1 1 1 1 1.3 1 | 5.6 |
+d488 1
+a488 1
+r0.7     -   tu      -     ra
+d504 1
+a504 1
+r0.7        en                    mi
+d510 1
+a510 1
+r0.7    co     -      la
+d517 1
+a517 1
+4 bars | 1.7 .8 .8 1.2 | 1.4 1.7 | .6 1.9 .6 1.9 .8 1 | 1.0 0.6 1.2 .5 .6 .8 .5 .6 .7 |
+d526 1
+a526 1
+r0.7   sol
+d533 1
+a533 1
+r0.7        en                   mi              gar   -
+d541 1
+a541 1
+r0.7   gan    -      -    ta   -      -
+d548 1
+a548 1
+3 bars | 0.8 1.7 0.8 0.8 0.8 1 | 0.8 0.8 0.8 0.8 0.8 1.2 1.3 | 3.5 3 |
+d569 1
+a569 1
+3 bars | 10.5 | 1 1 1 1 1.5 1 1 | 7 |
+d595 1
+a595 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d621 1
+a621 1
+4 bars | 3.5 | 3 | 5 | 4.7 |
+d646 1
+a646 1
+3 bars | 6.5 | 5.4 | 6.4 |
+d666 1
+a666 1
+3 bars | 2.2 2.2 2.6 | 3.8 4.2 | 3.7 3.5 ||
+@
+
+
+1.13
+log
+@gaps at bottom, to clear fotters
+@
+text
+@d374 1
+a374 1
+4 systems /21 48 21-31-21 /21 48 21-31-21 /21 44 21-31-21 7/ 21 44 21-31-21 15/
+d590 1
+a590 1
+4 systems /21 60 21-31-21 /21 48 21-31-21 /21 40 21-31-21 /21 48 21-31-21 12/
+@
+
+
+1.12
+log
+@minor changes after readthrough
+@
+text
+@d101 1
+a101 1
+4 systems / 21 45 21-31-21 / 21 42 21-31-21 / 21 39 21-31-21 / 21 44 21-41-21 /
+d374 1
+a374 1
+4 systems / 21 48 21-31-21 / 21 48 21-31-21 / 21 44 21-31-21 / 21 44 21-31-21 /
+d377 1
+a377 1
+rightfoot (c) 1997  Peter J Billam
+d479 1
+a479 1
+4 systems / 21 48 21-31-21 / 21 48 21-31-21 / 21 39 21-31-21 / 21 55 21-36-21 /
+d482 1
+a482 1
+rightfoot (c) 1997  Peter J Billam
+d590 1
+a590 1
+4 systems / 21 60 21-31-21 / 21 48 21-31-21 / 21 40 21-31-21 / 21 48 21-31-21 /
+@
+
+
+1.11
+log
+@tiny stem changes
+@
+text
+@d13 1
+d46 1
+a46 1
+=2 treble 5/4 cro c#' B' cro. a' cro g' qua f#'
+d52 1
+a52 1
+=2 4/4 min f#' e'
+d99 1
+a99 1
+=3 5/4 min f#, qua rest min f#, qua rest
+d254 1
+a254 1
+=3 min.. c~ qua d~b cro. c~ qua bb
+d489 1
+d642 1
+a642 1
+=2 min rest' <d d~> cro <c# c~#>
+@
+
+
+1.10
+log
+@braces to brackets, tiny changes
+@
+text
+@d51 2
+a52 1
+=2 4/4 <smb E(2 min f#'> e'
+d265 1
+a265 1
+=2 treble cro rest, Bb, qua A, G, min C#, qua rest, D#, cro E,(2
+d361 2
+a362 1
+=2 treble 6/4 <smb. c# c~# cro F#,> cro. Fn, cro Eb, min C#, qua rest,
+@
+
+
+1.9
+log
+@changes as to 14jan98 (very minor)
+@
+text
+@d23 1
+a23 1
+=3 10/4 smb.. <C,{3 C_,{1> min. <C,}3 C_,}1>
+d29 1
+a29 1
+=2 treble cro rest' g' min a' cro g' min a'{1 qua a'}1 cro. b' cro f~#'
+d31 1
+a31 1
+=3 bass   smb c~{1 cro c~}1 min b qua rest cro a cro. d
+d34 1
+a34 1
+=1 7/4 cro. d{1 e}1{1 cro e}1 min. c#
+d43 1
+a43 1
+=1 treble 5/4 min. rest min c#{1
+d49 1
+a49 1
+=1 4/4 min. B}1 cro rest
+d51 1
+a51 1
+=2 4/4 <smb E{2 min f#'> e'
+d56 1
+a56 1
+=2 3/4 <min. g' cro. E,}2> qua D#, cro E,{2
+d61 1
+a61 1
+=2 min E}2 qua rest F
+d83 1
+a83 1
+=2 cro rest qua C cro. D{1
+d88 1
+a88 1
+=2 min. D}1
+d108 1
+a108 1
+=2 treble min. rest min c~'{1
+d114 2
+a115 2
+=2 8/4 smb <c~}1 G#> G#
+=3 8/4 cro c~ rest c~ min c~# min. bb{1
+d121 1
+a121 1
+=3 5/4 smb bb}1 cro rest
+d137 1
+a137 1
+=2 7/4 cro Ab G Ab{2 smb Ab}2
+d159 1
+a159 1
+=2 smb F{1
+d161 1
+a161 1
+=3 smb d~{1
+d166 1
+a166 1
+=2 min F}1 qua rest cro. F
+d168 1
+a168 1
+=3 cro d~}1 e~b d~ b
+d171 1
+a171 1
+=1 cro eb qua f gb min f{1
+d179 1
+a179 1
+=1 treble cro f}1 B d G#
+d185 2
+a186 2
+=1 min B c{1
+r0.8   tu     -      -     ra   -      -
+d188 1
+a188 1
+=3 smb F{2
+d190 1
+a190 1
+=1 min. c}1 cro rest
+d194 2
+a195 2
+=3 min.. rest' qua c~'{1
+=3 min. F,}2 cro D,
+d202 1
+a202 1
+=3 6/4 min. c~'}1 cro c~' min d~'
+d217 1
+a217 1
+=3 bass   smb a{2 cro. a}2 qua g
+d248 1
+a248 1
+=1 cro. rest qua A min Bb cro rest G
+d258 1
+a258 1
+=3 7/4 smb.. g{2
+d264 1
+a264 1
+=2 treble cro rest, Bb, qua A, G, min C#, qua rest, D#, cro E,{2
+d267 1
+a267 1
+=3 bass   smb g}2{2 qua g}2 a cro. bb qua a
+d271 1
+a271 1
+=2 cro E}2 qua rest F# smb E cro E
+d277 1
+a277 1
+=1 treble 6/4 min d{1 cro F#}1 min rest qua G A
+d284 1
+a284 1
+=1 4/4 min c qua B' cro A qua B
+d307 1
+a307 1
+=1 4/4 min A# cro. B qua rest
+d324 1
+a324 1
+=2 treble 8/4 <min g#' cro B,> c#, min. <d' B,> cro. <D# d#'> <E'{1 e'{3>
+d327 1
+a327 1
+=3 bass   8/4 smb <g#{2 d~ g~#{1> <g#}2 g~#}1>
+d333 2
+a334 2
+=2 cro <E'}1 e'}3> min E cro E min E cro E E
+=3 min. <g#'{3 g~#'{1> min <g#'}3 g~#'}1> min. <a#' a~#'>
+d344 1
+a344 1
+=2 treble cro rest, min E, cro E, min E, cro E, E,{2
+d350 1
+a350 1
+=1 cro A#{1 smb B}1 min. D#
+d352 1
+a352 1
+=2 min. E,}2 min F#, min. B_,
+d378 1
+a378 1
+=1 treble 5/4 smb A cro G#{1
+d383 1
+a383 1
+=1 min G#}1 rest cro G#
+d389 1
+a389 1
+=1 cro B min A# cro rest c#
+d397 1
+a397 1
+=3 4/4 <smb b' cro. g#,> qua d,{1 min d,}1
+d409 1
+a409 1
+=1 cro rest G#{1 cro3 G#}1 F# G#
+d413 1
+a413 1
+=3 cro. rest, qua e{2 min e}2
+d432 1
+a432 1
+=3 <min. d#,{2 min a' c~'> cro g#'
+d434 1
+a434 1
+il0.2      60
+d437 1
+a437 1
+=3 <min. d#,}2 cro a'> b' c~'
+d442 1
+a442 1
+=2 5/4 min. B_ min <D_{4 D{2>
+d444 1
+a444 1
+=3 5/4 min <B_ G#> min. <F_{4 F{2>
+d452 1
+a452 1
+=2 treble 4/4 cro <D_}4 D}2> min. F{1
+d454 1
+a454 1
+=3 bass   4/4 cro <F_}4 F}2> min. d~{1
+d457 1
+a457 1
+=1 min. B cro rest
+d459 1
+a459 1
+=2 smb F}1
+d462 1
+a462 1
+=3 cro d~}1 eb~ d~ b
+d464 1
+a464 1
+=1 cro eb qua f gb min f{1
+d471 1
+a471 1
+=1 cro f}1 B' d G#
+d484 1
+a484 1
+=1 treble min c B'{1
+d491 1
+a491 1
+=1 min. B'}1 cro rest
+d510 1
+a510 1
+=3 smb a'{2 cro. a'}2 qua g'
+d522 1
+a522 1
+r0.7   sol   -
+d530 1
+a530 1
+=2 6/4 cro. C qua D cro. Eb qua F min Gb
+d539 1
+d558 1
+a558 1
+=3 7/4 smb g{1 cro g}1 qua f# cro. g{2
+d563 1
+a563 1
+=3 smb.. g}2
+d572 1
+a572 1
+=3 bass   10/4 smb.. C_,{1 min. C_,}1
+d574 1
+a574 1
+=1 7/4 smb A min rest cro B
+d576 1
+a576 1
+=2 7/4 cro rest' g' min a'{1 qua a'}1 cro. b' cro f~#'
+d578 1
+a578 1
+=3 7/4 min. c~ cro b a min f#{1
+d580 1
+a580 1
+=1 cro. d{1 e}1{1 cro e}1 min. c#
+d584 1
+a584 1
+=3 min f#}1 min. a cro f# a
+d621 1
+a621 1
+=2 treble min F qua rest Eb{2
+d627 1
+a627 1
+=2 min Eb}2 cro C#
+d630 1
+a630 1
+=1 5/4 smb A cro G#{1
+d634 1
+a634 1
+=3 5/4 smb c#{2 cro c#,}2
+d636 1
+a636 1
+=1 min G#}1 rest cro Fn
+d646 1
+a646 1
+=2 treble 6/4 smb <F,{3 f{1> cro. <F,}3 f}1> qua <D#, d#>
+d657 1
+a657 1
+=1 6/4 smb B min A{1
+d659 1
+a659 1
+=2 6/4 min. D min D cro Cn{2
+d664 1
+a664 1
+=1 treble cro A}1 min. rest cro Eb F
+d667 1
+a667 1
+=2 treble cro C,}2 min. B_,{2 min B_,}2
+d672 1
+a672 1
+=2 8/4 smb <Db{2 db{1> <Db}2 db}1> 
+d674 1
+a674 1
+=3 8/4 smb B_{1 B_}1
+@
+
+
+1.8
+log
+@<> brackets for muscript 1.5
+@
+text
+@d115 1
+a115 1
+=3 8/4 cro c~ rest c~ min c~# min. bb
+d121 1
+a121 1
+=3 5/4 
+d192 1
+a192 1
+=2 cro F G min G#
+d200 1
+a200 1
+=2 6/4 min Bb' min. A cro <e' e~'>
+d210 1
+a210 1
+4 bars | 6 | 1.3 1 1 1.2 | 4 | 0.7 1.8 0.7 1.8 0.9 0.9 |
+d214 1
+a214 1
+r0.7          co     -    la
+d287 1
+a287 1
+=3 4/4 cro a qua b cro c~ c~[ qua b]
+d341 1
+a341 1
+r0.8          a    -      -    gui  -  las                                        de
+d359 1
+a359 1
+r0.8                                       y           u    -     na          mu   -
+d432 1
+a432 1
+=3 <min. d#, min a' c~'> cro g#'
+d437 1
+a437 1
+=3 <min. d#, cro a'> b' c~'
+d472 1
+a472 1
+r0.8            mi       se   -   pul   -
+d484 1
+a484 1
+=1 treble min c B{1
+d513 1
+a513 1
+4 bars | 1.7 .8 .8 1.2 | 1.4 1.7 | .6 1.9 .6 1.9 .8 1 | 1.0 0.6 1.2 .6 .6 .7 .6 .6 .6 |
+d538 1
+a538 1
+=2 qua rest, cro <Eb' eb'> qua <F' f'> cro. <F#' f#'> qua <G#' g#'> min <A' a'>
+@
+
+
+1.7
+log
+@corrections as to 24dec97
+@
+text
+@d20 1
+a20 1
+=2 10/4 min G' cro G' min G' G' (G' c' g' g~') cro G'
+d23 1
+a23 1
+=3 10/4 smb.. (C,{3 C_,{1) min. (C,}3 C_,}1)
+d51 1
+a51 1
+=2 4/4 (smb E{2 min f#') e'
+d56 1
+a56 1
+=2 3/4 (min. g' cro. E,}2) qua D#, cro E,{2
+d74 1
+a74 1
+=2 treble min. (D F Bb')
+d79 1
+a79 1
+=2 min. (D F Bb')
+d108 1
+a108 1
+=2 treble min. rest min c~'{2
+d114 1
+a114 1
+=2 8/4 smb (c~}2 G#) G#
+d172 1
+a172 1
+r0.8    don - de   esta
+d180 1
+a180 1
+r0.8              -   mi    se  -  pul  -
+d200 1
+a200 1
+=2 6/4 min Bb' min. A cro (e' e~')
+d210 1
+a210 1
+4 bars | 6 | 1.3 1 1 1.2 | 4 | 0.9 1.6 0.9 1.6 0.9 0.9 |
+d212 1
+a212 1
+il0.25         30
+d233 1
+a233 1
+r0.7        en                  mi             gar   -
+d287 1
+a287 1
+=3 4/4 cro a qua b cro. c~ qua c~[ b]
+d324 1
+a324 1
+=2 treble 8/4 (min g#' cro B,) c#, min. (d' B,) cro. (D# d#') (E'{1 e'{3)
+d327 1
+a327 1
+=3 bass   8/4 smb (g#{2 d~ g~#{1) (g#}2 g~#}1)
+d333 2
+a334 2
+=2 cro (E'}1 e'}3) min E cro E min E cro E E
+=3 min. (g#'{3 g~#'{1) min (g#'}3 g~#'}1) min. (a#' a~#')
+d343 1
+a343 1
+=2 treble (min. g#' g~#')
+d360 2
+a361 2
+=2 treble 6/4 (smb. c# c~# cro F#,) cro. Fn, cro Eb, min C#, qua rest,
+=3 bass   6/4 (smb. c~# min. a,) cro. bb, cro g#, qua b,
+d380 1
+a380 1
+=2 treble 5/4 (smb c# min F#,) min. Fn,
+d397 1
+a397 1
+=3 4/4 (smb b' cro. g#,) qua d,{1 min d,}1
+d411 1
+a411 1
+=2 smb (D F#)
+d429 1
+a429 1
+r0.7    gu   -   na
+d431 2
+a432 1
+=3 (min. d# min a' c~') cro g#
+d437 1
+a437 1
+=3 (min. d#, cro a') b' c~'
+d442 1
+a442 1
+=2 5/4 min. B_ min (D_{4 D{2)
+d444 1
+a444 1
+=3 5/4 min (B_ G#) min. (F_{4 F{2)
+d452 1
+a452 1
+=2 treble 4/4 cro (D_}4 D}2) min. F{1
+d454 1
+a454 1
+=3 bass   4/4 cro (F_}4 F}2) min. d~{1
+d474 1
+a474 1
+=3 (smb G# min. g#') cro f'
+d486 1
+a486 1
+=2 treble (smb D Ab)
+d493 1
+a493 1
+=2 (min. c~' f' c' Ab')
+d507 1
+a507 1
+=2 (smb. G min. C,) cro B_, min C,
+d513 1
+a513 1
+4 bars | 1.7 .8 .8 1.2 | 1.4 1.7 | .6 1.9 .6 1.9 .8 1 | 1.4 1.6 .7 1.2 .9 .9 |
+d518 2
+a519 2
+=2 treble 4/4 smb (g g~)
+=3 bass   4/4 (smb g~' min. e~b,) cro a,
+d522 2
+a523 2
+r0.7   sol   -       -
+=2 (smb G eb)
+d525 1
+a525 1
+=3 smb (g c~)
+d537 2
+a538 2
+r0.7   gan   -     -   ta   -      -
+=2 qua rest, cro (Eb' eb') qua (F' f') cro. (F#' f#') qua (G#' g#') min (A' a')
+d556 1
+a556 1
+=2 7/4 min E G E qua rest, Eb
+d568 1
+a568 1
+=2 treble 10/4 min G' cro G' min G' G' (G' c' g' g~') cro G'
+a580 1
+I0.3                                            f
+d582 1
+a582 1
+=2 cro rest min d, min, E, cro F#,
+d607 1
+a607 1
+=2 min (c a~) cro B
+d613 1
+a613 1
+=2 cro Gb, qua rest Gb,[ F, Eb,]
+d631 1
+a631 1
+=2 5/4 smb (D# F#) cro rest
+d636 3
+a638 3
+r0.8   -                                    la
+=2 min rest' (d d~) cro (c# c~#)
+=3 cr.o rest' qua g#' cro a' min b'
+d644 2
+a645 2
+r0.7             u      -        -     na                  e  -
+=2 treble 6/4 smb (F,{3 f{1) cro. (F,}3 f}1) qua (D#, d#)
+d651 2
+a652 2
+r0.7   -  ra                                la
+=2 5/4 smb (C# c#') cro B_
+d665 1
+a665 1
+=2 treble min. rest' cro. fn' (Eb' eb')
+d671 1
+a671 1
+=2 8/4 smb (Db{2 db{1) (Db}2 db}1) 
+d678 1
+a678 1
+r0.65    -   gu  -   na.
+@
+
+
+1.6
+log
+@most changes except bars 79-80 ...
+@
+text
+@d516 1
+a516 1
+r0.7                dijo              el
+d521 1
+a521 1
+r0.7    sol   -       -
+d576 1
+a576 1
+=3 7/4 min. c~ cro b a min g#
+d582 2
+a583 2
+=2 cro d, min B, E, F#,
+=3 cro f# min. a cro f# a b
+d594 1
+a594 1
+=2 treble 3/4 min d~' cro e~'
+d596 1
+a596 1
+=3 bass   3/4 cro c~ cro. c~ qua c~
+d612 2
+a613 1
+=2 cro Gb qua rest Gb[ F Eb]
+d632 1
+a632 1
+=3 5/4 cro rest' f#' qua g#' cro. a' qua b'
+d638 2
+a639 2
+=3 cro rest' g#' a' min b'
+=3 smb d cro f,
+d658 1
+a658 1
+=2 6/4 smb D cro D Cn{2
+d664 1
+a664 1
+r0.65                                     y    las
+d678 2
+a679 2
+r0.65    -   gu  -   na   -      -
+=2 7/4 smb.. b
+d684 1
+a684 1
+I0.8                *       P__                  *
+@
+
+
+1.5
+log
+@corrections all through
+@
+text
+@d23 1
+a23 1
+=3 10/4 smb.. (C, C_,) min. (C, C_,)
+d29 1
+a29 1
+=2 treble cro rest' g' min a' cro g' min a' qua a' cro. b' cro f~#'
+d31 1
+a31 1
+=3 bass   smb c~ cro c~ min b qua rest cro a cro. d
+d34 1
+a34 1
+=1 7/4 cro. d e cro e min. c#
+d43 1
+a43 1
+=1 treble 5/4 min. rest min c#
+d49 1
+a49 1
+=1 4/4 min. B cro rest
+d51 2
+a52 2
+=2 4/4 (smb e E)
+=3 4/4 min. c~# cro a
+d56 1
+a56 1
+=2 3/4 (min. g' cro. E,) qua D#, cro E,
+d61 1
+a61 1
+=2 min E qua rest F
+d70 1
+a70 1
+5 bars | 4 | 3.5 | 4 | 3.5 | 6 |
+d83 1
+a83 1
+=2 cro rest qua C cro. D
+d87 2
+a88 2
+r0.8                     La
+=2 min. D
+d94 1
+a94 1
+r0.8        u    -    na           e   -
+d99 1
+a99 1
+4 systems / 21 39 21-31-21 / 21 42 21-31-21 / 21 39 21-31-21 / 21 44 21-31-21 /
+d108 1
+a108 1
+=2 treble min. rest min c~'
+d114 1
+a114 1
+=2 8/4 smb (c~ G#) G#
+d134 1
+a134 1
+I0.2  p
+d137 1
+a137 1
+=2 7/4 cro Ab G Ab smb Ab
+d143 1
+a143 1
+=2 cro rest G smb Ab qua f# d#
+d148 1
+a148 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d151 1
+a151 1
+r0.8         -   ni   -      -      -   tas
+d153 1
+a153 1
+=2 treble 4/4 cro rest min. D,
+d159 1
+a159 1
+=2 smb F
+d161 1
+a161 1
+=3 smb d~
+d166 1
+a166 1
+=2 min F qua rest cro. F
+d168 1
+a168 1
+=3 cro d~ e~b d~ b
+d171 1
+a171 1
+=1 cro eb qua f gb min f
+d177 1
+a177 1
+4 bars | 4.5 | 0.9 1.4 0.9 0.9 | 4 | 5 |
+d179 1
+a179 1
+=1 treble cro f B d G#
+d185 4
+a188 4
+=1 min B c
+r0.8   tu    -      -    ra   -      -
+=2 cro. Ab qua G cro Ab qua D E
+=3 smb F
+d190 1
+a190 1
+=1 min. c cro rest
+d192 4
+a195 3
+=2 cro F G cro. G# qua C
+i0.3                 dim  .  .  .
+=3 min. F cro D
+d200 3
+a202 3
+I0.3           mp
+=2 6/4 min Bb' smb A
+=3 6/4 smb c~ min d~'
+d205 1
+a205 1
+4 systems / 21 49 21-31-21 / 21 38 21-30-21 / 21 48 21-31-21 / 21 54 21-31-21 /
+d210 1
+a210 1
+4 bars | 6.5 | 4.4 | 4 | 0.9 1.4 0.9 1.4 0.9 0.9 |
+d212 1
+a212 1
+il0.2         30
+d217 1
+a217 1
+=3 bass   smb a cro. a qua g
+d229 1
+a229 1
+i0.4              cresc .  .  .
+d233 1
+a233 1
+r0.7        en                  mi           gar   -
+d237 1
+a237 1
+3 bars | 0.9 1.4 0.9 1.4 0.9 1 | 0.9 1.4 1 1 1 1 | 7 |
+d240 1
+a240 1
+r0.6     -   gan  -     -  ta
+d249 1
+a249 1
+r0.7                  dijo                        la
+d256 1
+a256 1
+r0.7        lu     -        -     na   -      -
+d258 1
+a258 1
+=3 7/4 min. g smb min
+d263 2
+a264 2
+=2 treble min rest' c~# d~# min. e~'
+=2 treble cro rest, Bb, qua A, G, min C#, qua rest, D#, cro E,
+d267 1
+a267 1
+=3 bass   smb g qua g a cro. bb qua a
+d271 1
+a271 1
+=2 cro E qua rest F# smb E cro E
+d277 1
+a277 1
+=1 treble 6/4 min d cro F# min rest qua G A
+d280 2
+a281 2
+=2 treble 6/4 cro B_, qua B_, C, smb D
+=3 bass   6/4 min. f# qua g# a min c~
+d287 1
+a287 1
+=3 4/4 cro a qua b cro. c~ qua c~ b
+d290 2
+a291 2
+r0.8   nan    -      -    do
+=2 min. Gb qua F Eb
+d308 1
+a308 1
+r0.8         tier    -       -    ra
+d321 1
+a321 1
+il0.2      45
+d324 2
+a325 2
+=2 treble 8/4 (min g#' cro B,) c#, min. (d' B,) cro. (D# d#') (E' e')
+I0.4                                                        f                                 p
+d327 1
+a327 1
+=3 bass   8/4 smb (g# d~ g~#) (g# g~#)
+d333 2
+a334 2
+=2 cro (E' e') min E cro E min E cro E E
+=3 min. (g#' g~#') min (g#' g~#') min. (a#' a~#')
+d342 1
+a342 1
+I0.3  f
+d344 1
+a344 1
+=2 treble cro rest, min E, cro E, min E, cro E, E,
+d346 1
+a346 1
+I0.1                         pp
+d350 1
+a350 1
+=1 cro A# smb B min. D#
+d352 1
+a352 1
+=2 min. E, min F#, min. B_,
+d359 1
+a359 1
+r0.8                                       y           u    -     na         mu   -
+d378 1
+a378 1
+=1 treble 5/4 smb A cro G#
+d383 1
+a383 1
+=1 min G# rest cro G#
+d397 1
+a397 1
+=3 4/4 (smb b' cro. g#,) qua d, min d,
+d409 2
+a410 2
+=1 cro rest G# cro3 G# F# G#
+r0.8                 y                      la      mu   -
+d413 1
+a413 1
+=3 cro. rest, qua e min e
+d417 1
+a417 1
+=2 3/4 cro rest qua B_ C# cro Eb
+d421 1
+a421 1
+4 bars | 1.3 1.8 | 2.8 | 2.8 | 2.7 2.5 |
+d424 1
+a424 1
+r0.7                          era    nin   -
+d426 1
+a426 1
+=3 bass   qua eb f cro. gb qua bb
+d440 2
+a441 2
+r0.8                Agui  -  li   -     -     -   tas
+=2 5/4 min. B_ min (D_ D)
+d443 1
+a443 1
+=3 5/4 min (B_ G#) min. (F_ F)
+d451 1
+a451 1
+=2 treble 4/4 cro (D_ D) min. F
+d453 1
+a453 1
+=3 bass   4/4 cro (F_ F) min. d~
+d458 1
+a458 1
+=2 smb F
+d461 1
+a461 1
+=3 cro d~ eb~ d~ b
+d463 1
+a463 1
+=1 cro eb qua f gb min f
+d465 1
+a465 1
+=2 cro eb qua f gb min f
+d470 1
+a470 1
+=1 cro f B' d G#
+d480 1
+a480 1
+4 bars | 1 1.3 1 1 | 4 | 1 1 1 1 1.3 1 | 5.6 |
+d483 1
+a483 1
+=1 treble min c B
+d490 1
+a490 1
+=1 min. B' cro rest
+d507 3
+a509 1
+=3 smb a' cro. a' qua g'
+d512 1
+a512 1
+4 bars | 1.5 1 0.8 1.2 | 3.4 | 0.9 1.4 0.9 1.4 0.9 1 | 0.9 1.4 0.9 1.1 0.9 0.9 |
+d514 1
+a514 1
+il0.2     70
+d528 1
+a528 1
+r0.7        en                 mi           gar   -
+d538 1
+a538 1
+=2 smb rest, cro. rest, qua D,
+d542 1
+a542 1
+3 bars | 0.8 1.6 0.9 0.8 0.8 1 | 0.8 0.8 0.8 0.8 0.8 1.2 1.3 | 3.5 3 |
+d556 1
+a556 1
+=3 7/4 smb g cro g qua f# cro. g
+d561 1
+a561 1
+=3 smb g min. g,
+d563 1
+a563 1
+3 bars | 10.5 | 7.5 | 7 |
+d570 1
+a570 1
+=3 bass   10/4 smb.. C_, min. C_,
+d573 2
+a574 2
+r0.8   -   mas                              del
+=2 7/4 cro rest' g' min a' qua a' cro. b' cro f~#'
+d576 1
+a576 1
+=3 7/4 min. c~ cro b a min eb
+d578 1
+a578 1
+=1 cro. d e cro e min. c#
+d592 1
+a592 1
+il0.2     80
+d594 1
+a594 1
+=2 treble 3/4 min d~' cro d~'
+d603 1
+d611 2
+a612 2
+r0.8    pa     -        -     lo   -
+=2 cro Gb qua rest Gb F Eb
+d619 1
+a619 1
+=2 treble min F qua rest Eb
+d625 1
+a625 1
+=2 min Eb cro C#
+d628 1
+a628 1
+=1 5/4 smb A cro G#
+d632 1
+a632 1
+=3 5/4 smb c# cro c#,
+d634 1
+a634 1
+=1 min G# rest cro Fn
+d643 2
+a644 2
+r0.7             u     -        -    na                   e  -
+=2 treble 6/4 smb (F, f) cro. (F, f) qua (D#, d#)
+d647 1
+a647 1
+I0.1  Ped__
+d650 1
+a650 1
+r0.7   -  ra                               la
+d655 1
+a655 1
+=1 6/4 smb B min A
+d657 1
+a657 1
+=2 6/4 smb D cro D Cn
+d660 1
+a660 1
+3 bars | 6.5 | 8.5 | 7.5 ||
+d662 1
+a662 1
+=1 treble cro A min. rest cro Eb F
+d665 1
+a665 1
+=2 treble cro C, min. B_, min B_,
+d670 4
+a673 4
+=2 8/4 smb (Db db) (Db db) 
+I0.1                                                     8vab . .
+=3 8/4 smb B_ B_
+I0.6            Ped__
+@
+
+
+1.4
+log
+@lots of changes, esp 29, 79
+@
+text
+@d19 1
+a19 1
+r0.8      Por                                las  ra -
+d36 2
+a37 2
+=2 7/4 cro F#, smb. A
+=2 7/4 min rest' cro D' E' cro. F#' A'
+d70 1
+a70 1
+5 bars | 4.5 | 4 | 4 | 4 | 5 |
+d97 1
+a97 1
+=3 5/4 min f#, qua rest min. f#, qua rest
+d101 1
+a101 1
+innerhead Casida de las palomas oscuras, Garcia Lorca, Peter Billam
+d113 3
+a115 3
+r0.8       sol                                               la
+=2 8/4 smb G# min. G# cro B_b
+=3 8/4 cro c~ rest c~ min c~# min. a#
+d128 3
+a130 3
+I0.5               f
+i0.5                           dim  .  .  .
+=3 bass   min. rest' min g'
+d136 1
+a136 1
+r0.8        lu    -      -     na   -       -
+d167 1
+a167 1
+I0.7                  cresc .  .  .
+d170 1
+a170 1
+il0.2    25
+d177 1
+a177 1
+4 bars | 4.5 | 0.9 1.3 0.9 0.9 | 4 | 5 |
+d186 1
+a186 1
+r0.8   tu   -      -   ra   -      -
+d198 1
+a198 1
+=2 6/4 smb (C F#) D,
+d201 1
+d206 1
+a206 1
+innerhead Casida de las palomas oscuras, Garcia Lorca, Peter Billam
+d209 1
+a209 1
+4 bars | 6.5 | 4.4 | 4 | 0.9 1.3 0.9 1.3 0.9 0.9 |
+d226 1
+a226 1
+=2 cro rest' f~'
+d240 1
+a240 1
+=2 treble cro. Eb qua F cro. F# qua G# (min A' cro. rest) qua D,
+d242 1
+d262 2
+a263 2
+=2 treble cro rest Bb' qua A G min C# qua rest D# cro E
+=2 treble smb E
+d265 1
+d270 3
+a272 3
+=2 cro E D# smb E cro E
+i0.5  .  .  rit  .  .                      a tempo,  cresc  .  .  .
+=3 min. bb cro bn qua d~ cro. f# cro f#
+d279 1
+a279 1
+=2 treble 6/4 cro. B_, qua C, smb D
+d285 2
+a286 2
+=2 4/4 min. Eb cro F
+=3 4/4 cro a qua b cro. c~ cro c~
+d295 1
+a295 1
+innerhead Casida de las palomas oscuras, Garcia Lorca, Peter Billam
+d298 1
+a298 1
+3 bars | 3.5 | 4 | 6 |
+d302 3
+a304 2
+=2 treble 3/4 min. Db
+=3 bass   3/4 min bb cro Bn
+d308 2
+a309 1
+=2 4/4 (min D, qua rest') cro F' qua Gb' (min Ab' cro. D,) qua Eb,
+d313 3
+a315 2
+r0.8                         por        la          cin   -
+=2 6/4 (min F, cro d') eb' (min f' cro G#,) A#, (min B, cro f') f#'
+d321 2
+a322 2
+=1 treble 8/4 min. f cro. B qua rest min. rest
+r0.8       -   tu   -      -      -       -   ra
+d324 2
+a325 1
+I0.4                                                    f                                     p
+d327 1
+a327 1
+I0.2                                                                                  8vab . . .
+d331 1
+a331 1
+r0.8    vi                                              dos
+d340 2
+a341 1
+r0.8          a    -      -   gui   -  las                                         de
+d344 2
+d347 1
+a347 1
+I0.2   8 . . .
+d350 1
+a350 1
+r0.8    nie   -         -         -       -        -   ve
+d353 1
+a353 1
+I0.2                                                                                         loc.
+d358 3
+a360 3
+r0.8                                       y          u    -     na         mu   -
+=2 treble 6/4 (smb c# c~# cro F#,) cro. Fn, cro Eb, qua C#, min C#,
+=3 bass   6/4 (smb c~# min. a,) cro. bb, cro g#, qua b,
+d364 1
+a364 1
+=1 min. c# cro B rest F#
+d367 2
+a368 1
+=3 min d~# qua rest min d~# cro. c~#
+d372 2
+a373 2
+innerhead Casida de las palomas oscuras, Garcia Lorca, Peter Billam
+leftfoot (c) 1997  Peter J Billam
+d378 1
+a378 1
+r0.8       -   nu   -       -       -   da
+d394 1
+a394 1
+r0.8     -   ra                      la
+d407 1
+a407 1
+I0.2                                         3
+d420 1
+a420 1
+4 bars | 3.5 | 3 | 3 | 5.4 |
+d430 1
+a430 2
+=2 min. C,
+=3 (min. d# min a) cro g#
+d458 2
+a459 2
+I0.5                   cresc  .  .  .
+I0.5                                     ff
+d469 1
+a469 1
+=1 cro f B d G#
+d472 1
+a472 1
+=3 smb (G# g#')
+d476 2
+a477 2
+innerhead Casida de las palomas oscuras, Garcia Lorca, Peter Billam
+leftfoot (c) 1997  Peter J Billam
+d479 1
+a479 1
+4 bars | 1 1.3 1 1 | 4 | 6.2 | 5.7 |
+d509 1
+a509 1
+4 bars | 1.4 1 0.8 1.2 | 3.5 | 0.9 1.4 0.9 1.4 0.9 1 | 0.9 1.4 0.9 1.1 0.9 0.9 |
+d515 1
+a515 1
+=3 bass   4/4 (smb g~' min. e~b,) cro f#,
+d525 1
+a525 1
+r0.7        en                mi            gar   -
+d527 1
+a527 1
+I0.4        f
+d534 1
+a534 1
+=2 cro (Eb' eb') qua (F' f') cro. (F#' f#') qua (G#' g#') min (A' a')
+d537 1
+a537 1
+I0.2                            .  . loc.
+d539 1
+a539 1
+3 bars | 0.8 1.5 0.9 0.8 0.8 1 | 0.8 0.8 0.8 0.8 0.8 1.2 1.3 | 3.5 3 |
+d552 1
+a552 1
+=2 7/4 min E G E qua E D#
+d556 1
+a556 2
+=2 cro db' smb db' min c'
+=2 cro rest, smb. A
+d558 1
+a558 1
+=3 smb.. g
+d566 1
+a566 1
+=3 bass   10/4 smb.. rest min. c~'
+d575 2
+a576 2
+=1 7/4 cro. d e cro e min. c#
+r0.8      lau   -      -     -   rel
+d578 3
+a580 3
+=2 7/4 min b' cro f#' g#' min a' cro f#'
+=2 7/4 cro d, min B, cro E, min. F#,
+=3 7/4 cro f# min. a cro f# a b
+d584 1
+a584 1
+innerhead Casida de las palomas oscuras, Garcia Lorca, Peter Billam
+d603 1
+a603 1
+=2 min. (c a~)
+d607 1
+a607 1
+r0.8    pa    -        -    lo   -
+d631 1
+a631 1
+r0.8   -                                   la
+d639 1
+a639 1
+r0.7             u    -       -   na                   er  -
+d646 1
+a646 1
+r0.7   -  ra                           la
+d652 1
+a652 1
+r0.7       ot     -        -        -     ra    -
+d659 2
+a660 2
+r0.65                                   y    las
+=2 treble smb rest cro fn' (EB' eb')
+d665 1
+a665 1
+r0.65      dos                            eran    nin   -
+d667 1
+d670 1
+a670 1
+I0.3                                                   8vab . .
+d675 2
+a676 2
+i0.4        sin rall.  .  .
+I0.4    pp
+d679 1
+a679 1
+I0.8
+@
+
+
+1.3
+log
+@minor changes to first two pages
+@
+text
+@d61 1
+a61 1
+=2 min E qua E F
+d75 1
+a75 1
+=3 bass   qua g cro g qua g g g
+d80 1
+a80 1
+=3 qua g g cro g qua g g
+d96 2
+a97 1
+=3 5/4 (min f#, b') (min. f#, cro a#') min g#'
+d101 1
+a101 1
+innerhead Casida de las Palomas Oscuras, Garcia Lorca, Peter Billam
+d120 1
+d130 1
+d133 2
+a134 1
+il0.3  20
+d167 1
+d191 2
+a192 2
+r0.8     -      -
+=2 cro F G cro. G# qua (B' B_,)
+d194 1
+a194 1
+=3 min F E
+d198 1
+a198 1
+=2 6/4 smb B' min A'
+d200 2
+a201 2
+=2 6/4 min B_, min. C#, cro B_,
+=3 6/4 smb C# min D#
+d203 1
+a203 1
+4 systems / 21 39 21-31-21 / 21 38 21-30-21 / 21 48 21-31-21 / 21 54 21-31-21 /
+d205 1
+a205 1
+innerhead Casida de las Palomas Oscuras, Garcia Lorca, Peter Billam
+d221 1
+a221 1
+=3 4/4 min. rest cro f#
+d225 1
+d227 1
+d240 1
+d242 1
+a242 1
+I0.4 8vab                                           loc.
+d246 1
+a246 1
+r0.7                  dije                        la
+d250 1
+d254 1
+a254 1
+=2 7/4 min. En cro G min E cro D#
+d260 1
+a260 1
+=2 treble cro rest Bb' qua A G min C# qua C# D# cro E
+d262 1
+d268 1
+d290 1
+a290 1
+4 systems / 21 40 21-31-21 / 21 40 21-31-21 / 21 56 21-31-21 / 21 40 21-36-21 /
+d292 1
+a292 1
+innerhead Casida de las Palomas Oscuras, Garcia Lorca, Peter Billam
+d298 1
+a298 1
+r0.8                con         la
+d300 1
+a300 1
+=3 bass   3/4 min. bb
+d304 1
+a304 1
+=2 4/4 (min D, cro F') Gb' (min Ab' cro. D,) qua Eb,
+d320 1
+a320 1
+I0.2                                                                                       8vab . . .
+d335 1
+a335 1
+=2 treble cro rest min E, cro E, min E, cro E, E,
+d348 2
+a349 2
+r0.8                                      y          u    -     na         mu   -
+=2 treble 6/4 (smb c# c~# cro F#,) cro. Fn, cro Eb, min C#, qua C#,
+d356 2
+a357 2
+=2 cro rest G# F# cro. D# qua Fn cro. F# qua A
+=3 smb d~# qua rest cro. c~#
+d361 1
+a361 1
+innerhead Casida de las Palomas Oscuras, Garcia Lorca, Peter Billam
+d372 4
+a375 3
+r0.8                                   la
+=2 (smb D# min f') min. gb'
+=3 smb B cro B
+d391 1
+a391 1
+r0.8         ot   -       -      -   ra
+d396 1
+a396 1
+I0.2                                  3
+d398 1
+a398 1
+r0.8                 y                    la       mu   -
+d407 1
+a407 1
+=3 3/4 min f#, qua f#, fn,
+d417 1
+a417 1
+r0.7    gu    -   na
+d439 1
+a439 1
+r0.8                             les        di   -
+d444 1
+a444 1
+I0.2                                  f
+d448 2
+a449 1
+I0.2                                     ff
+d455 2
+a456 1
+=3 (smb B qua rest') c~#' cro b' ab' g'
+d464 1
+a464 1
+4 systems / 21 48 21-31-21 / 21 48 21-31-21 / 21 48 21-31-21 / 21 48 21-31-21 /
+d466 1
+a466 1
+innerhead Casida de las Palomas Oscuras, Garcia Lorca, Peter Billam
+d469 1
+a469 1
+4 bars | 4.4 | 4 | 6.2 | 5.7 |
+d473 1
+a473 1
+r0.8     -   tu      -     ra
+d480 1
+a480 1
+r0.8   -       -       -
+d488 1
+a488 1
+r0.8         en                    mi
+d494 1
+a494 1
+r0.8     co     -      la
+d499 1
+a499 1
+4 bars | 1.3 1 1 1.2 | 2 1.7 | 0.9 1.3 0.9 1.3 0.9 1 | 0.9 1.3 0.9 1.0 1 1 |
+d513 1
+d517 2
+a518 2
+I0.5        f
+i0.5                       cresc  .  .  .
+d520 1
+a520 1
+I0.2                     8vab .  .
+d523 1
+a523 1
+r0.7   gan   -      -   ta   -      -
+d531 1
+d533 1
+a533 1
+r0.8                    dijo                       la
+d537 1
+d539 1
+a539 1
+il0.2  75
+d554 1
+a554 1
+r0.8          Por                               las  ra -
+d561 1
+a561 1
+r0.8   -   mas                           del
+d570 2
+a571 2
+=2 7/4 cro B, min B, cro B, B, min A,
+=3 7/4 cro f# min a cro f# min f# cro d~
+d573 1
+a573 1
+4 systems / 24 56 21-31-21 / 24 48 21-31-21 / 24 40 21-31-21 / 24 48 21-31-21 /
+d575 1
+a575 1
+innerhead Casida de las Palomas Oscuras, Garcia Lorca, Peter Billam
+d582 2
+a583 2
+=2 treble 3/4 min d~' cro e~'
+=2 treble 3/4 min A, cro A,
+d594 2
+a595 3
+=2 min. (c' a~')
+=2 cro. rest, E,
+=3 min rest qua rest e
+d600 1
+a600 1
+=3 min. Eb
+d616 1
+a616 1
+r0.8  -  nu   -       -       -       -   das   -
+d622 1
+a622 1
+r0.8   -                                la
+d630 1
+a630 1
+r0.8           u   -       -   na                   er  -
+d633 1
+a633 1
+=3 bass   6/4 smb c# min B
+d637 1
+a637 1
+r0.8   -  ra                        la
+d643 1
+a643 1
+r0.8       ot    -        -        -    ra    -
+d650 1
+a650 1
+r0.65                                  y    las
+d652 1
+a652 1
+=2 treble cro C, min B_, min B_,
+d656 1
+a656 1
+r0.65      dos                        eran    nin   -
+d660 1
+d666 2
+a667 1
+=3 7/4 qua rest cro F smb B cro. rest
+a669 1
+I0.3 8vab . .
+@
+
+
+1.2
+log
+@lots of spacing adjusts
+@
+text
+@d2 4
+a8 2
+is1.1 poem by Federico Garcia Lorca
+bl1.1                                            Casida de las Palomas Oscuras
+a17 1
+is1.1                                                            music by Peter Billam
+a75 1
+is0.9 (c) 1997  Peter J Billam
+d99 3
+d121 1
+a121 1
+3 bars | 5.5 | 7 | 7 |
+d126 2
+d172 1
+a172 1
+4 bars | 4.5 | 1.2 1.6 1.2 | 4 | 5 |
+d186 1
+a186 1
+r0.8       -      -
+d188 1
+d194 1
+d199 3
+d280 3
+d349 3
+d451 3
+d557 3
+@
+
+
+1.1
+log
+@filled up to bar 50
+@
+text
+@d1 1
+a1 1
+4 systems / 21 48 21-31-21 / 21 48 21-31-21 / 21 44 21-31-21 / 21 37 21-31-21 /
+d18 1
+a18 1
+r0.8      Por                           las  ra -
+d28 1
+a28 1
+=2 treble cro rest g' min a' cro g' min a' qua a' cro. b' cro f~#'
+d35 2
+a36 2
+=2 7/4 cro F#' smb. A'
+=2 7/4 min rest cro D, E, cro. F#, A,
+d43 1
+a43 1
+r0.8                                  van   -     -
+d54 2
+a55 2
+r0.8       dos
+=2 3/4 (min. g' cro E,) D#, E,
+d60 1
+a60 1
+=2 min E cro F
+d65 2
+a66 2
+r0.8  mas              os   -
+=2 cro E min F
+d103 1
+a103 1
+r0.8     -  ra                   el
+d109 1
+a109 1
+r0.8       sol                                          la
+d121 1
+a121 1
+r0.8                                   la
+d133 1
+a133 1
+r0.8                                                  Veci   -
+d135 2
+a136 1
+I0.8      pp                                     ff
+d149 1
+a149 1
+r0.8                       les            di  -
+d156 1
+a156 1
+r0.8  -  je
+d182 1
+a182 1
+=2 cro F G cro. G# qua (B' B_')
+d214 1
+a214 1
+r0.7        en                   mi           gar   -
+d224 1
+a224 1
+I0.2 8vab                                           loc.
+d228 1
+a228 1
+r0.7                  dije                     la
+d246 1
+a246 1
+r0.8                                                                           y
+d253 1
+a253 1
+r0.8           yo   -      -                                      que es -
+d259 1
+a259 1
+=1 4/4 min c qua B cro A qua B
+d269 1
+a269 1
+4 systems / 21 40 21-31-21 / 21 40 21-31-21 / 21 52 21-31-21 / 21 40 21-36-21 /
+d283 2
+a284 2
+=1 6/4 cro. rest cro c cor. d min eb
+r0.8                         por        la        cin   -
+d291 2
+a292 2
+=1 treble 8/4 min. f cro. B qua rest min.
+r0.8      -   tu   -       -       -       -       -   ra
+d294 1
+a294 1
+I0.4                                                                                          p
+d296 1
+a296 1
+I0.2                                                                                          8vab . . .
+d300 1
+a300 1
+r0.8    vi                                           dos
+d309 1
+a309 1
+r0.7          a    -      -   gui   -  las                                                   de
+d313 1
+d316 1
+a316 1
+r0.7     nie   -        -        -       -       -   ve
+a322 1
+I0.2      3
+d324 1
+a324 1
+r0.8                              y       u    -    na        mu   -
+d326 2
+a327 2
+=3 bass   6/4 (smb c~# f~# min. a,) cro. bb, cro g#, qua b,
+is0.4     arpegg.
+d331 2
+a332 2
+r0.8    cha    -       -       -       -    cha                         des   -
+=2 min G# cro F# cro. D# qua Fn cro. F# qua A
+a334 1
+XXX
+d339 9
+a347 4
+=1 treble 5/4 min. rest
+=2 treble 5/4 min D cro Eb
+=3 bass   5/4 min rest qua bb' ab'
+=3 bass   5/4 qua rest F, D, Eb, cro C,
+d349 9
+a357 18
+=1 min. rest
+=2 min Eb cro D
+I0.5         f
+=3 (min. B_, g')
+|
+=1 qua E cro G rest qua G
+r0.8    Pero                    el
+=2 cro C# cro. B_b qua G
+=3 (min. e' min B_b,) cro C#,
+|
+I0.2                                         3
+=1 4/4 cro Ab cro. c qua rest qua3 rest G Ab
+r0.8      llan   -   to                    es un
+I0.2                                         3
+=2 4/4 cro Ab' cro. c' qua rest qua3 rest G Ab
+=2 4/4 min. F, cro D,
+=3 4/4 qua rest min f' qua rest cro f'
+=3 4/4 min. D, cro F,
+d361 32
+a392 32
+il0.3   55
+=1 3/4 cro. Bb' cro A qua G#
+r0.8      per      -     ro    in   -
+=2 3/4 (min. D, cro. Bb') cro A qua G#
+=3 3/4 (min. E, min bb') cro bb'
+/
+3 bars | 4.5 | 4 | 4.5 |
+|
+=1 treble cro. B' F'
+r0.8      -   men       -       so
+=2 treble (min. D, cro. B') F'
+=3 bass   (min. Ab, min b') qua rest b'
+|
+=1 min rest qua rest Ab
+r0.8                                      el
+=2 min F cro F
+=3 cro c~' min ab'
+=3 cro. rest qua B, A#, G#,
+|
+=1 cro. B' G'
+r0.8    llan  -      -      -  to
+=2 cro. B' (E' G')
+=2 qua C#, (C#, E,) C#, C#, C#, (C#, E,)
+=3 min. E
+/
+3 bars | 3.8 | 4.3 | 3 |
+|
+=1 treble cro rest A# B'
+r0.8                     es            un
+=2 treble qua rest (cro G' g') (A#' a#') (qua B' b')
+=2 treble qua rest (qua C#, E,) C#, (qua C#, E,) cro C#, 
+=3 bass   cro B A# B
+d395 38
+a432 12
+=1 4/4 cro. c# d# cro e
+r0.8         an      -      gel           in   -
+=2 4/4 cro. (c#' c~#') (d#' d~#') cro (e' e~')
+=2 4/4 qua rest B_, cro B, qua B_, cro B_b, qua Bb,
+=3 4/4 smb G
+|
+=1 3/4 min f cro e
+r0.8  -   men   -      -      -   so
+=2 3/4 min f~' cro b'
+=2 3/4 qua rest cro d, qua c#, cro f,
+=3 cro rest cro. ab' qua a~b'
+=3 3/4 min. A_b,
+d434 1
+a434 1
+3 systems / 21 58 21-31-21 / 21 58 21-31-21 / 21 54 21-31-21 /
+d436 1
+a436 1
+4 bars | 3.4 | 3 | 3 | 1.2 0.8 1.3 0.9 |
+d438 14
+a451 16
+=1 treble min rest cro c#
+r0.8                           el
+=2 treble qua e cro d qua e cro (c#, c~#,)
+=3 bass   min rest qua rest ab'
+=3 bass   min. A_b,
+|
+=1 min d cro Bb
+r0.8    llan   -      -   to
+=2 min (d d~) cro (Ab, ab,)
+=3 min. (ab' B_,)
+|
+I0.2                        3
+=1 cro rest cro3 B, c# d
+r0.8                es      un   -      -
+=2 cro (B, b) (c# c~#) (d d~)
+=3 min rest cro F_#
+d453 12
+a464 30
+il0.3     65
+=1 4/4 min f# qua f# cro. fn
+r0.8    vi   -      -      -   o   -
+=2 4/4 min (f#' f~#') qua (f#' f~#') cro. (fn' f~n')
+=2 4/4 qua rest (min. B_b, Bb,)
+=3 4/4 smb C
+/
+4 bars | 3.4 | 4.3 | 3.3 | 3 |
+|
+=1 treble 3/4 cro. a g#
+r0.8        -   lin   -      -
+=2 treble 3/4 cro. (a' a~') (g#' g~#')
+=2 treble 3/4 qua rest min (D, F#,) qua rest
+=3 bass   3/4 min. (B_ B)
+|
+=1 cro g# rest d
+r0.8                           in   -
+=2 cro (g#' g~#') rest (d' d~')
+=2 qua rest min (D, F#,) qua rest
+=3 min. (B_ B)
+|
+=1 cro e min f
+r0.8      -   men   -      -      -
+=2 (min. G, cro e' e~') min (f' f~')
+=3 (min. bb' cro g,) ab, bb,
+|
+=1 min Ab cro rest
+r0.8 -   so
+=2 min. (F, Ab' ab')
+=3 cro bn min d~
+d466 1
+a466 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d469 10
+a478 24
+=1 treble min rest cro G
+r0.8                           las
+=2 treble cro E min F
+=3 bass   min. rest
+|
+I0.2                          3
+=1 qua Ab' B' min3 B' cro3 Bb'
+r0.8    lag    -      -     -    ri   -
+=2 min. (A_b D F)
+=3 min. (F_ F)
+|
+=1 min Ab cro rest
+r0.8       -   mas
+=2 min. Ab
+=3 (min. F_, cro. d~b') qua c~' cro b'
+|
+=1 qua rest cro. G cro Ab
+r0.8          a   -      -   mor   -
+=2 min (f' f~') cro (e~' e')
+=3 (min. F_, min d~n') qua d~' c~'
+
+4 systems / 24 50 21-31-21 / 24 50 21-31-21 / 24 48 21-31-21 / 24 48 21-31-21 /
+/
+4 bars | 4.5 | 4 | 4 | 4 |
+d480 22
+a501 5
+=1 treble cro d min B
+r0.8    -   da    -   zan
+=2 treble min. (d d~)
+=3 bass   (min. F_, qua b') bb' cro. ab' qua g'
+I0.3                        8vab .  .  .
+d504 25
+a528 11
+=1 cro. rest cro Bb' qua G
+r0.8                     al          vi   -
+=2 min A_b cro G_
+I0.2                 f
+=3 min E cro C#
+|
+=1 min Ab cro E
+r0.8  -  en    -      -    to
+=2 min B_b qua B_b A_b
+=3 min. Cn
+I0.2            Ped__                   loc.
+d530 8
+a537 6
+=1 min. rest
+=2 cro. rest qua Eb cro G
+I0.4                 p
+i0.4                        semplice
+=3 min. g
+I0.2                                  __*
+d541 29
+a569 45
+=1 treble qua rest G cro. c qua B
+r0.8               y   no             se
+=2 treble min F qua rest F
+=3 bass   min g cro G_
+|
+I0.1          3
+=1 cro3 d min3 eb cro c
+r0.8   oy   -      -      -   e
+=2 min. (F, Ab')
+=3 (min. F_, cro. ab') cro bb' qua ab'
+|
+il0.2   80
+=1 cro rest cro. Bb' qua A
+r0.8                  ot      -      ra
+=2 cro. F' E'
+=2 cro rest min B_b,
+=3 qua rest cro g' cro. g'
+=3 min. db,
+|
+=1 min db cro Bb
+r0.8   co   -      -      -   sa
+=2 cro. B_b cro C qua Db
+=3 (min. E, g')
+I0.1                       mf
+/
+4 bars | 4.5 | 4 | 4 | 4 |
+|
+=1 treble cro rest cro. Bb' qua G
+r0.8                  que               el
+=2 treble cro rest E Eb
+I0.9        f
+=3 bass   min. Db
+i0.1                       cresc . .
+I0.1                                         f
+|
+=1 cro A min eb
+r0.8    llan   -   to
+=2 (min. B_, F, cro A') eb' f'
+=3 (min. D_b Db)
+|
+=1 min. eb
+r0.8         -      -      -      -      -
+=2 qua f#' min a' qua g#'
+=2 min Eb, cro D,
+=3 min. rest
+d572 59
+a630 27
+=1 qua eb qua rest min rest
+=2 cro f#' min A'
+=2 qua rest min Eb, qua D,
+I0.1                       mf
+=3 min. F_
+/
+4 bars | 4.5 | 1.3 1 1 1 | 3.7 | 3.7 ||
+|
+=1 treble min. rest
+=2 treble qua A' min c' qua B'
+=2 treble cro. C, qua A_, cro G_#,
+=3 bass   min. (Eb E_b)
+|
+=1 min. rest
+=2 qua A' eb' min eb'
+=2 min C, cro B_,
+i0.3            dim  .  .
+=3 min. (Eb, E_b, f#')
+|
+=1 min. rest
+=2 min. (eb' A_,)
+=3 min. (Eb, E_b, f#')
+I0.6                              pp
+|
+=1 min. rest
+=2 qua (eb' A_,) rest min rest
+=3 (cro D_b, qua f#') rest min rest
+@

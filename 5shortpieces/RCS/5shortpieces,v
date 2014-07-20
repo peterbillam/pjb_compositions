@@ -1,0 +1,820 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2007.05.27.01.32.17;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2007.05.22.03.48.42;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Five Short Pieces for Guitar
+@
+
+
+1.2
+log
+@spacing, polishing
+@
+text
+@% start
+10 systems 15 /19 4/19 4/19 30/19 5/19 5/19 8/19 8/19/19/19 9/
+pagenum 3
+innerhead Peter Billam
+title Five Short Pieces for Guitar
+leftfoot (c) 1979 Peter J Billam
+midi channel 1 patch 24
+% stop
+/
+3 bars |3/4 12 | 12 | 12 |
+| 3/4 58
+Il0.9 .01 Prelude
+i0.9 .41 cantabile
+=1' treble8vab cha1 leg100 qua [A E] [A c#] [cn G]
+=1,            cha1 leg100 min A_ cro E
+|
+=1' min B-s0 qua rest' e-s4
+=1, qua [G-s2, D] [G-s2,{1 B-s4,}1] [A#-s3,{1 C#}1]
+rs0.5 .25 1 .88 2
+|
+=1' qua [e-s4 d#-s3] [F#-s2 d#-s3] [dn-s3 Fn-s2]
+=1, min Cn cro rest,,
+/
+3 bars | 12 | 12 | 12 |
+|
+rs0.4 .01 4
+Il0.3 .77 ,
+=1' qua [d-emph c#-s3] cro. c#-s1 qua A-s1
+=1, qua [D# E-s2,] [A-s1, E] cro F-s2,
+rs0.5      1 .56 1
+|
+rs0.5 .31 1
+rs0.4 .91 4
+=1' qua [A A#-s2] [f# A#] [B-s0 g]
+=1, min F#-s3, cro Fn
+rs0.1 .59 3
+i0.6 .65 cresc . .
+I0.4 .95 f
+|
+rs0.4 4
+=1' min g-emph qua rest' smq [e-s0 c-s2]
+=1, qua [D#-s1, E-s2,] [c-s1, E-s2,] cro F-s3,
+/
+3 bars | 12 | 12 :|| 12 ||
+|
+rs0.4 .01 2
+=1' cro. c cro Bb-s4 qua A-s3
+=1, qua [G-s0, D] cro D#-s1, En-s2,
+i1.2 .12 decresc . .
+I0.7 .95 mp
+|
+i0.5 .85 un poco piu largo
+=1' cro A-s3 G#-s2 rest
+=1, min. E_
+i0.7 .12 ma sonore
+I0.5 .95 p
+|
+=1' cro Abr G-fermata rest
+=1, min D#r cro rest
+midi pause 3.0
+
+/
+3 bars |3/4 24 | 2 2 2 2 2 2 2.7 2.7 2 2 1 3 \
+ | 4/4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \
+ 1.3 1.3 1 1 1.2 1.2 1.9 3.0 1 1 1 1 1 1 1 1.7 |
+| 3/4 72
+Il0.9 .01 Serenade
+i0.9 .50 un poco piu mosso
+=1' treble8vab 3/4 cha1 leg100 vol120 min. rest'
+=1,            3/4 cha1 leg170 vol90 qua [E_ C G# B_ Gn B_b]
+|
+=1' leg100 vol120 cro rest' qua. rest' qua B-s0 smq rest' smq. rest' dsq B
+=1, leg170 vol90 qua [E_ C G# B_ Gn B_b]
+| 4/4 72
+=1' 4/4 leg100 vol120 min B smq rest' \
+ qua [A#-s4 dsq B c-s2] qua.. [c#-s2 dsq c#]
+=1, 4/4 leg170 vol90 qua [E_ C G# B_ Gn B_b F#-s4, A_]
+/
+3 bars | 13/16 2 2 2 2 2 2 2.5 2.5 2.2 2.2 2 2 2 \
+ | 3/4 2 2 2 2 2 2 2 2.7 2.7 2.3 2.7 2 \
+ | 2 2 2 2 2 2 2.7 2.2 2.2 2.7 2.2 2.2 |
+| 13/16 2.71
+=1' 13/16 leg100 vol120 cro. c# smq rest' qua [cn c# d]
+=1, 13/16 leg170 vol90 qua [E_ C G# B_ Gn B_b] smq rest,
+| 3/4 72
+il0.3 .22 5
+=1' 3/4 leg100 vol120 cro.. d# smq [dn c# cn B Bb]
+=1, 3/4 leg170 vol90 qua [E_ F# A Fn G E]
+|
+=1' leg100 vol120 cro. A smq [A A# B c c# d]
+=1, leg170 vol90 qua [E_ B_ D C D# B_]
+/
+3 bars | 2 2 2 2 2.5 2.2 2.7 2.7 2.7 2.7 2.2 2.2 \
+ | 24 | 2 2 2 2 2 2 2.2 2.5 2 2 2 3 |
+|
+=1' leg100 vol120 cro d# smq rest' [dn d c# c# cn cn B]
+=1, leg170 vol90 qua [F_# C Eb B_ Gn B_b]
+|
+=1' leg100 vol120 min B cro rest'
+=1, leg170 vol90 qua [G_ D# F# Dn Fn C#]
+|
+=1' leg100 vol120 cro. rest' smq rest' cro B dsq rest' B
+=1, leg170 vol90 qua [E Cn A B_ G# B_b]
+/
+2 bars | 3 3 3 3 3 3 3 3 3.7 3 3 3.8 \
+ | 4/4 1.8 1.8 1.8  1.8 1.8 1.8  2.4 2.4 3.3 2.4 3.4 3 \
+ 2.9 2 2 2 2 2  2.2 2.2 2.2 2.1 2.1 2.1 |
+|
+il0.2 .12 10
+=1' leg100 vol120 min B smq rest' qua [A# dsq B c]
+=1, leg170 vol90 qua [E_ C G# B_ Gn B_b]
+i0.1 .89 subito
+i.65 .90 molto
+i1.1 .82 appassionato
+| 17/16 .2083 .2083 .2083 .2083 .2083 .2083 .2083 .2083 \
+ .1667 .1667 .1667 .1667 .1667 .2083 .2083 .2083 .2083
+I0.5 ff
+=1' 4/4 leg100 vol125 cro a  min. blank
+=1  4/4 cro G_#, smq3 [f# g-I3 e] [f# g-I3 f#] \
+ smq [eb c# d-I5 B, A,] [Bb' F# B_n C]
+/
+3 bars | 3/4 15 15 17 \
+ | 17/16 1.5 1.5 1.5  1.5 1.5 1.5  1.5 1.5 1.5  1.5 1.5 1.5 \
+ 1.5 1.5 1.5  1.5 1.5 1.5 \
+ 2.4 2.4 2.4  1.6 1.6 1.6  1.6 1.6 1.6  1.6 1.6 1.6 \
+ 4.9 4.9 2.5 2.5 2.5 2.5  4.9 4.9 2.5 2.5 4.9 4.9 \
+ 2.1 2.1 2.1  2.1 2.1 2.1  2.1 2.1 2.1 \
+ | 37/32 3 3 3 3 3 3 \
+ 6 9.5 6 6  7 7 7 7  3.5 3.5 4.5 4.5  4.5 4.5 4.5  3.5 3.5 3.5 3.5 \
+ 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 |
+| 3/4 72
+=1 3/4 min F_#-emph, cro rest
+I0.6  ff
+| 17/16 3.542
+=1 17/16 cro. G_ smq A_b qua. rest \
+ smq3 [G_{2 A_b-I3}2 C] [F Bb'-I3 d'] smq [eb f] rest
+I0.4 .99 ff
+| 37/32 3.854
+=1' 37/32 qua. c~# dsq [a#{2 b a#}2 g] smq3 [f f#-I3 eb] \
+ smq [c# d] smq. Bb qua Eb cro En
+=1, 37/32 cro. D min blank
+/
+3 bars | 3/4 2 2 2 2 2 2 2 2  2 2 2 2 2 2 2 2  2.6 2.6 2.6 2.6 2.6 2.6 6 6 \
+ | 13/16 5 5 5 5 6 6 6 7 5 5 5 5 7 \
+ | 21/16 5 5 5 5 5 5 5 5 6 6 5 5 5 5 6 6 5.5 5.5 5.5 6 6 |
+| 3/4 72
+il0.2 .01 15
+=1' 3/4 min F_ qua.. rest dsq Bb
+I0.3 .80 mp
+i0.3 .96 cresc . .
+| 13/16 3.542
+=1' 13/16 cro Bb qua. A smq rest cro rest vol80 smq F_#
+i0.3 .23 dim . .
+I0.5 .72 mp
+| 21/16 4.375
+=1 21/16 cro F_# G_-gs6{2 qua D#}2 vol85 \
+ cro B_-gs5{2 qua F}2 vol90 qua. D{2 qua G#}2
+i0.7 .39 cresc . . .
+/
+3 bars | 17/16 5.5 5.5 5.5 6 6  6 6 6 6 6 6 6 6 \
+ | 5/4 20 17 17 17 17 | 7 7 7 7 7 7 10 10 13 7 7 6 6 6 6 6 6 ||
+| 17/16 3.542
+=1 17/16 vol95 qua. E-gs4{2 qua B'}2 vol100 [A-gs3{2 c#'}2] [eb--gs2{1 c~}1]
+i0.23 .01 .  .  .  .
+I0.3 .25 f
+| 5/4 72
+=1 5/4 cro rest vol80 min b b
+I0.2 .12 mp
+i0.2 .28 ma sonore
+| 17/8 7.084
+=1 17/8 min. b qua vol75 [a# vol70 b vol65 c~] smb vol60 c~#
+i0.2 .35 dim . . .
+I0.1 .58 p
+midi pause 3.0
+
+%  start
+8 systems 19 / 19 / 19 3 / 19 / 19 / 19 / 19 5 / 19 / 19 21 /
+pagenum
+innerhead Five Short Pieces for Guitar, Peter Billam
+leftfoot (c) 1979 Peter J Billam
+/
+4 bars |3/4 10.5 | 10.5 | 12 | 12 |
+| 3/4 130
+Il0.9        Mazurka
+=1' treble8vab cha1 leg100 vol100 min rest' cro <G B e>
+=1,            cro B-gs4,{1 cro. vol90 C#-gs5,}1 qua rest,,
+|
+=1' min rest' cro vol100 <A cn g>
+=1, cro B-gs4,{1 cro vol90 D#}1 cro blank
+|
+=1' vol100 smq-s F#-s4{2 qua [E-s2}2 D#-s1] [E-s2 F#-s4] cro <B e-s0-s0>
+=1, dsq blank min E_ dsq blank qua [G-s1, A-s3,]
+|
+=1' smq-s c-s4{2 qua [B-s3}2 A#-s2] [B-s3 An] cro <B e-s0-s0>
+=1, dsq blank min E_ dsq blank qua  [G#-s3, Gn-s2,]
+/
+3 bars | 12 | 12 | 12 |
+|
+il0.8 .15 5
+=1' min a# cro rest''
+=1, qua [F#-s2,{1 Fn-s1,}1] [F#-s2, e-s3,] [Bb-s1, F#-s2,]
+|
+=1' min an cro rest''
+=1, qua [Fn-s2,{1 E}1] [F d#] [A F]
+|
+=1' min g#-s4 cro gn-s4
+=1  qua [Er{2 D#}2] [E, c#-s3] [G#, E,]
+=1, min. A_#
+/
+4 bars | 12 | 10.5 | 10.5 | 12 |
+|
+=1' min f#
+=1, qua [D#-s1, E-s2,] [F#-s4, D#-s1,] cro cn-ten-s4,-gs4,{1
+|
+=1' cro rest' min <G B e-so-so-so>
+=1, min C#-s1,-gs5,}1 cro c#{1
+|
+il0.7 .10 10
+=1' cro rest' min <A c f#>
+=1, min D}1 cro D#
+|
+=1' smq-s F#-s4{2 qua [E-s2}2 D#-s1] [E-s2 F#-s4] cro e
+=1, dsq blank min E_ dsq blank qua [G-s1, A-s3,]
+/
+4 bars | 10.5 | 12 | 12 | 12 |
+|
+=1' cro rest' <A# dx e> rest'
+=1, min C-s2, cro B_-s1,
+|
+=1' cro. G rest'
+=1, qua [A_# C#] [F G#] [A c]
+|
+=1' qua [B Bb] [A Ab] [G F#]
+=1, min A_ cro B_
+|
+il0.7 .10 15
+=1' qua [Fn E] [Eb D] [C# Cn]
+=1, min G_ cro F_#
+/
+4 bars | 10.5 | 10.5 | 12 | 12 |
+|
+=1' cro B_ rest <G B e>
+=1, cro B_{2 min C#}2
+|
+=1' min rest cro <A cn g-s3,-s1-s4>
+=1, cro B_-s2,{2 min D#-s2,}2
+|
+=1' smq-s F#-s4{2 qua [E-s2}2 D#-s1] [E-s2 F#-s4] cro <B e-s0-s0>
+=1, dsq blank min E_ dsq blank qua [G-s1, A-s3,]
+|
+=1' smq-s c-s4{2 qua [B-s3}2 A#-s2] [B-s3 An] cro <B e-s0-s0>
+=1, dsq blank min E_ dsq blank qua [G#-s3, Gn-s2,]
+/
+4 bars | 12 | 12 | 12 | 4 4 3.5 |
+|
+il0.7 .23 20
+=1' min a# cro rest''
+=1, qua [F#-s2,{1 Fn-s1,}1] [F#-s2, e-s3,] [Bb-s1, F#-s2,]
+|
+=1' min an cro rest''
+=1, qua [Fn-s2,{1 E}1] [F d#] [A F]
+|
+=1' min g#-s4 cro gn-s4
+=1  qua [Er{2 D#}2] [E, c#-s3] [G#, E,]
+=1, min. A_#
+|
+=1' min f#
+=1, qua [D#-s1, E-s2,] [F#-s4, D#-s1,] cro cn-ten-s4,-gs4,{1
+/
+4 bars | 10.5 | 10.5 | 12 | 10.5 |
+|
+=1' cro rest' min <G B e-so-so-so>
+=1, min C#-s1,-gs5, cro c#{1
+|
+il0.7 .10 25
+=1' cro rest' min <A c f#>
+=1, min D}1 cro D#
+|
+=1' smq-s F#-s4{2 qua [E-s2}2 D#-s1] [E-s2 F#-s4] cro e
+=1, dsq blank min E_ dsq blank qua [G-s1, A-s3,]
+|
+=1' cro rest' <A# dx e> rest'
+=1, min C-s2, cro B_-s1,
+/
+4 bars | 12 | 12 | 12 | 7 ||
+|
+=1' cro. G rest'
+=1, qua [A_# C#] [F G#] [A c]
+|
+=1' qua [B Fn-s3] [G#-s1 D#-s4-gs5] [F#-s2-gs4 C-s1-gs5]
+=1, min A_ cro rest,,
+|
+il0.7 .20 30
+=1' min B-s0 cro blank
+=1, qua [E-s4, C#-s1,] [G-s2,-gs4, A#-s4,{1] [d-s3,}1 a-s1,-gs2]
+|
+=1' min. <f#rl g#xl e~>
+=1, min. E_r
+midi pause 3.0
+
+% stop
+
+10 systems 15 / 19 2/ 19 5/ 19 2/ 19 4/ 19 7/ 19 21 / 19/ 19 4/ 19/ 19 9/
+pagenum
+innerhead Five Short Pieces for Guitar, Peter Billam
+leftfoot (c) 1979 Peter J Billam
+/
+3 bars |12/8 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2\
+ | 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2\
+ | 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2 2.8 2 2 2 2 2 2 2.8 2.8 2.3 2.3 2 2 |
+| 12/8 136
+Il1.2 .18 Jig
+i1.2 .45 presto
+=1' treble8vab 12/8 cha1 leg100 vol80 smq-s c--gs4{'1 cro. B}'1 \
+ smq-s A{'1 cro. B}'1 smq-s c{'1 cro. B}'1 smq-s A{'1 cro. B}'1
+=1,            12/8 smq-s blank cro. B-gs2, smq-s blank cro. B \
+ smq-s blank cro. B smq-s blank cro. B
+I0.4    mp
+i0.4 .23 brillante
+|
+=1' smq-s c{'1 cro. B}'1 smq-s A{'1 cro. B}'1 \
+ smq-s c{'1 cro. B}'1 smq-s A{'1 cro. B}'1
+=1,            smq-s blank cro. B-gs2, smq-s blank cro. B \
+ smq-s blank cro. B smq-s blank cro. B
+|
+=1' smq-s c{'1 cro. B}'1 smq-s A{'1 cro. B}'1 \
+ smq-s c{'1 cro. B}'1 vol100 qua [B c# B]
+=1, vol80 smq-s blank cro. B smq-s blank cro. B smq-s blank cro. B blank
+I0.3 .73 f
+/
+3 bars | 5 7 7 5 5 5 5 5 5 5 5 5 | 5 7 7 5 5 7 5 7 7 7 5 5 \
+ | 3 2 2 2 2 2 2 3 2 2 2 2 2 2 3 2 2 2 2 2 2 3 2 2 2 2 2 2 |
+|
+=1 vol120 qua [E_-s0{2 C-s1}2 F#-s2] [<c f#-s3-s4> g-s1 b-s4] \
+ [d~ d~ d~] [d~ d~ d~]
+I0.5  ff
+i0.4 .80 cresc
+I0.4 .97 sf
+|
+=1, qua [e~-s4 a-s2 a#-s3] cro c~#-s1 qua fn-s2 \
+ [f#-s3 b g#-s1] [f#-s4 d# B-s2]
+=1, min. E_ rest,,
+i0.4 .80 dim . .
+I0.4 .97 f
+|
+=1' cro. E_ vol80 smq-s A#{'1 cro. B}'1 \
+ smq-s c#{'1 cro. B}'1 smq-s A#{'1 cro. B}'1
+=1, cro. blank smq-s blank cro. B smq-s blank cro. B smq-s blank cro. B
+I0.3 .22 mp
+/
+2 bars | 2.6 2 2 2 2 2 2 2.6 2 2 2 2 2 2 2.6 2 2 2 2 2 2 2.6 2.2 2.2 2 2 2 2\
+ | 4 4 4 4.4 4 4.4 4.4 4.4 4.4 4.4 4.4 4 |
+|
+=1' smq-s c#{'1 cro. B}'1 smq-s A#{'1 cro. B}'1 \
+ smq-s c#{'1 cro. B}'1 vol100 smq-s A#-s1{2 qua [B-s2}2 cn-s3 B-s1]
+=1, vol80 smq-s blank cro. B smq-s blank cro. B \
+ smq-s blank cro. B smq-s blank cro. blank
+I0.3 .72 f .99 ff
+|
+=1 vol120 qua [D-s2{2 E_}2 E-s4] [<B, f-s1-s2> a#-s3 b-s4] \
+ [c~#-s1 c~# c~#] [c~# c~# c~#]
+/
+2 bars | 12 | 12 |
+|
+=1, qua [e~-s4 a-s2 a#-s3] cro c~#-s1 qua g-s4 \
+ [g#-s1 b-s4 e-s1] cro c# qua G'-s0
+=1, min. A_
+I0.6 .96 sfz
+|
+=1 vol120 cro F_# vol80 qua F#-sa [F#-sm F#-s"i" F#-sp] \
+ vol120 cro <c# e-s3-s0> vol80 qua F# [F# F# F#]
+I0.2 .16 p .46 f .66 mp
+/
+3 bars | 4 5 5 4 5 4 4 5 5 4 4 4 | 48 | 4 4 4 4 4 5 4 4 5 5 5 4 |
+|
+rs0.7 .01 2 .28 4 .51 4 .76 4
+=1' qua [d{2 B}2 F#] [d#{2 B}2 F#-s3] \
+ [e{2 B}2 F#-s3] vol90 [f#{2 vol95 B}2 vol100 G-s0]
+=1, cro. vol80 B_ B_b A_ vol90 A_b
+rs0.5  .22 1
+rs0.6  .72 1
+I0.5 .98 sfz
+|
+=1' cro <G_-s1, g-s2> qua G-s4, [G-s0, g G-s0,] \
+ [G-s4 G_ G-s4] [G-s0, g G-s0,]
+|
+rs0.7 .01 4 .23 2 .48 2
+=1' qua [eb{2 B}2 G] [f{2 B}2 G] \
+ cro <G_# g#> qua G#-s4, vol90 [Gn-emph-s3, G#-s4, G#-s4,]
+=1, cro. B_b-s1, A_ blank blank
+/
+3 bars | 5 5 5 4 4.5 4 4 4 5 4 5 4 \
+ | 4 4 5 3.5 4.5 3.5 4.5 3.5 4.5 3.5 4.5 3.5 3.5 3.5 3.5 | 28 ||
+|
+rs0.9 .28 4 .51 4
+=1' qua [A-s4 G#-s3 G#] [g#{2 e}2 Gn] \
+ [a{2 e}2 A-s2] [A#-s2 A_#-s1 A#-s2]
+=1, cro. blank B_b-s1, A_ blank
+| 15/8 .4412 .3309 .3309 .3309 .3309
+I1.0 .34 4
+I0.2 .60 4
+I0.1 .86 4
+=1' qua [B B_ B] [g#{2 e}2 d#{2 B}2] \
+ [A#{2 G}2 F#{2 D}2] [C#{2 A_ G_{2 F_}2]
+=1, cro. blank B_ blank blank blank
+| 12/8 136
+=1' vol120 min. <A# Bx e> rest'
+=1, vol120 min. E_ rest,
+midi pause 3.0
+
+/
+5 bars |4/4 8 | 32 | 32 | 32 | 32 |
+| 1/4 58
+Il0.7 .01 Air
+=1, treble8vab 4/4 cha1 leg100 vol80 cro F#
+I0.3 .01 p
+| 4/4 58
+i0.7 .01 largo
+I0.5 .61 pp
+rs0.9 .76 o
+rs.60 .76 o
+rs.30 .76 o
+=1' min.. rest' qua vol70 <d(4 g(2 b(1>
+=1, min. vol85 F# cro vol80 E
+|
+=1' smb <d)4 g)2 b)1>
+=1, min. leg90 vol85 G cro leg100 vol80 Eb
+|
+I0.6 .42 pp
+rs1.0 .56 4
+rs.65 .56 4
+rs.30 .56 4
+=1' min rest' qua rest' cro. vol70 <f(4 a(2 d~(1>
+=1, min. vol85 Eb cro vol80 D
+|
+=1' smb <f)4 a)2 d~)1>
+=1, min. leg90 vol85 Fn cro leg100 vol90 C#
+/
+4 bars | 32 |
+|
+I0.5 .25 p
+=1' cro. rest' min vol75 <Bbl eb g> qua rest
+=1, min. C# cro Cn
+i0.5 .54 cresc
+|
+=1' cro B_ Db vol95 smq-s Db{2 cro C}2 B_
+I0.6 .99 f
+|
+I0.5 .01 mp
+=1' qua rest' min. vol80 <D B e> qua rest'
+=1, vol100 min. B_b cro vol90 A_b
+i0.6 .60 dim
+|
+I0.4 .71 pp
+=1' min.. rest' qua vol70 <G(4 c#(2 e(1>
+=1, min. leg90 vol85 A_ cro leg100 vol75 B_b
+I0.6 .61 pp
+/
+4 bars | 32 |
+|
+=1' smb <G)4 c#)2 e)1>
+=1, min. vol80 B_b cro leg100 vol75 A_
+| 
+rs0.9 .53 o
+rs.60 .53 o
+rs.30 .53 o
+=1' min rest' qua rest' cro. vol70 <d(4 g(2 b(1>
+=1  min. vol80 leg90 B_n cro leg100 vol80 C,
+|
+=1' smb <d)4 g)2 b)1>
+=1, min. vol85 C cro leg100 C#
+|
+I0.5 .16 pp
+rs1.0 .27 4
+rs.65 .27 2
+rs.30 .27 3
+=1' cro. rest' min vol75 <f# a d~#> qua rest'
+=1, min. vol85 D qua rest, F#
+/
+4 bars | 32 | 5 4 4 4 4 4 4 4 | 32 | 32 ||
+|
+=1 min. vol90 F# cro D#
+i0.6 .77 cresc
+|
+rs1.0 .03 1
+rs.65 .03 3
+rs.30 .03 1
+=1' qua rest' min. vol80 <c# f#l a#> qua rest'
+=1, vol90 cro E-s2, vol95 smq-s F#-s4,{1 cro E-s2,}1 D#-s1, E-s2,
+I0.4 .99 f
+|
+=1' min.. rest' qua vol70 <d(4 f#(2 d~(1>
+=1, min. vol80 leg90 G#-s4, cro leg100 vol80 Fn
+I0.3 .66 p
+i0.3 .82 rit . . .
+| 3/4 56 53 36
+rs0.9 .55 o
+rs.60 .55 o
+rs.30 .55 o
+=1' min <d)4 f#)2 d~)1> cro vol65 <d g e~-fermata,>
+=1, min. G
+
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 2
+a3 2
+10 systems 20 /19/19/19 30/19/19/19/19/19/19/19 10/
+pagenum 2
+d18 2
+a19 1
+=1, qua [G-s2, D-s1,] [G-s2,{1 B-s4,}1] [A#-s3,{1 C#-s2,}1]
+d26 1
+d28 7
+a34 4
+=1' qua [d-emph-s4 c#-s3] cro. c#-s1 qua A-s1
+=1, qua [D#-s1, E-s2,] [A-s1, E-s1,] cro F-s2,
+|
+=1' qua [A A#-s2] [f#-s1 A#] [B-s0 g-s4]
+d40 3
+a42 2
+=1' min g-emph qua rest' smq [e c]
+=1, qua [D# E] [c E] cro F
+d46 5
+a50 2
+=1' cro. c cro Bb qua A
+=1, qua [G D] cro D# En
+d52 1
+d55 2
+d58 2
+a59 2
+=1' cro Ab G-fermata rest
+=1, min D# cro rest
+d63 3
+a65 1
+3 bars |3/4 12 | 12 | 16 |
+d68 3
+a70 3
+i0.9 .45 un poco piu mosso
+=1' treble8vab cha1 leg100 vol120 min. rest'
+=1,            cha1 leg170 vol90 qua [E_ C G# B_ Gn B_b]
+d72 1
+a72 1
+=1' leg100 vol120 cro rest' qua. rest' qua B smq rest' smq. rest' dsq B
+d75 7
+a81 4
+=1' 4/4 leg100 vol120 min B smq rest' qua [A# dsq B c] qua.. [c# dsq c#]
+=1, 4/4 leg170 vol90 qua [E_ C G# B_ Gn B_b F# A_]
+/
+3 bars | 13 | 12 | 12 |
+d86 1
+d93 2
+a94 1
+3 bars | 12 | 12 | 12 |
+d105 3
+a107 1
+2 bars | 12 | 16 |
+d109 1
+d112 3
+d117 1
+a117 1
+I0.8 ff
+d122 9
+a130 1
+3 bars | 8 | 12 | 15 |
+d132 2
+a133 1
+=1 3/4 min F_# cro rest
+d137 1
+d139 1
+a139 1
+=1' 37/32 qua. c~# dsq [a#{2 b a#}2 g] smq3 [f f# eb] \
+d143 3
+a145 1
+3 bars | 10 | 12 | 12 |
+d147 1
+d149 6
+a154 2
+| 17/16 3.542
+=1' 17/16 cro Bb qua. A smq rest cro rest vol80 smq F_#
+d158 1
+d160 2
+a161 1
+3 bars | 13 | 12 | 12 ||
+d164 2
+d168 2
+d172 2
+d177 4
+a180 1
+11 systems / 19 /
+d182 1
+a182 1
+3 bars |3/4 12 | 12 | 12 |
+d191 1
+a191 1
+=1' vol100 smq-s F#-s4{2 qua [E-s2}2 D#-s0] [E-s2 F#-s4] cro <B e-s0-s0>
+a192 2
+/
+3 bars | 12 | 12 | 12 |
+d196 2
+d199 1
+d201 1
+a201 1
+=1, qua [F#-s2,{1 Fn-s1,}1] [F#-s2, e-s4,] [Bb-s1, F#-s2,]
+a204 2
+/
+3 bars | 12 | 12 | 12 |
+d209 2
+d216 1
+a216 3
+=1, min C#-s1,-gs5, cro c#{1
+/
+3 bars | 12 | 12 | 12 |
+d218 1
+d222 1
+a222 1
+=1' smq-s F#-s4{2 qua [E-s2}2 D#-s0] [E-s2 F#-s4] cro e
+d224 2
+a228 2
+/
+3 bars | 12 | 12 | 12 |
+d233 1
+a233 1
+=1' qua [B Bb] [A G#] [Gn F#]
+d236 2
+a237 1
+=1' qua [Fn E] [D# Dn] [C# Cn]
+d240 1
+a240 1
+3 bars | 12 | 12 | 12 |
+d248 1
+a248 1
+=1' smq-s F#-s4{2 qua [E-s2}2 D#-s0] [E-s2 F#-s4] cro <B e-s0-s0>
+a249 2
+/
+3 bars | 12 | 12 | 12 |
+d253 2
+d256 1
+d258 1
+a258 1
+=1, qua [F#-s2,{1 Fn-s1,}1] [F#-s2, e-s4,] [Bb-s1, F#-s2,]
+a261 2
+/
+3 bars | 12 | 12 | 12 |
+d269 2
+a273 2
+/
+3 bars | 12 | 12 | 12 |
+d275 1
+d279 1
+a279 1
+=1' smq-s F#-s4{2 qua [E-s2}2 D#-s0] [E-s2 F#-s4] cro e
+d285 1
+a285 1
+3 bars | 12 | 12 | 12 |
+d293 1
+a295 2
+/
+3 bars | 12 | 12 | 12 |
+d297 2
+a298 2
+=1' min. <f# g#x e~>
+=1, cro E_
+d303 4
+a306 1
+10 systems 15 / 19 / 19 / 19 / 19 / 19 / 19 17 / 19 / 19 / 19 / 19 /
+d308 3
+a310 1
+3 bars |3/4 12 | 12 | 12 |
+d312 17
+a328 14
+Il0.9 .14 Jig
+i0.9 .51 presto
+=1' treble8vab cha1 leg100 vol80 smq-s c-gs4{1 cro. B}1 smq-s A{1 cro. B}1 \
+ smq-s c{1 cro. B}1 smq-s A{1 cro. B}1
+=1,            cro. B-gs2, B B B
+I0.3 .73 mp
+|
+=1' smq-s c{1 cro. B}1 smq-s A{1 cro. B}1 \
+ smq-s c{1 cro. B}1 smq-s A{1 cro. B}1
+=1, cro. B B B B
+|
+=1' smq-s c{1 cro. B}1 smq-s A{1 cro. B}1 \
+ smq-s c{1 cro. B}1 vol100 qua [B c# B]
+=1, vol80 cro. B B B blank
+d330 3
+d336 3
+a338 1
+I0.3 .95 sf
+d343 2
+d346 3
+a348 3
+=1' cro. E_ vol80 smq-s A#{1 cro. B}1 \
+ smq-s c#{1 cro. B}1 smq-s A#{1 cro. B}1
+=1, cro. blank B B B
+d351 2
+a352 1
+2 bars | 12 | 12 |
+d354 5
+a358 3
+=1' smq-s c#{1 cro. B}1 smq-s A#{1 cro. B}1 \
+ smq-s c#{1 cro. B}1 vol100 smq-s A#-s1{1 qua [B-s2}1 cn-s3 B-s1]
+=1, vol80 cro. B B B blank
+a361 1
+I0.3 ff
+d372 1
+d374 1
+a374 1
+3 bars | 12 | 12 |
+d376 6
+a381 3
+=1' qua [d-s2{2 B}2 F#] [d#-s4{2 B}2 F#-s3] \
+ [e-s4{2 B}2 F#-s3] vol90 [f#-s4{2 vol95 B}2 vol100 G-s0]
+=1, cro. vol80 B_ B_b-s1, A_ vol90 A_b-s1,
+d384 2
+a385 1
+=1' cro <G_ g-s2> qua G-s4, [G-s0, g G-s0,] [G-s4 G_ G-s4] [G-s0, g G-s0,]
+d387 3
+a389 2
+=1' qua [eb-s4{2 B}2 G] [f-s2{2 B}2 G] \
+ cro <G_# g#-s2> qua G#-s4, vol90 [Gn-s3, G#-s4, G#-s4]
+d392 2
+a393 1
+3 bars | 12 | 12 | 9 ||
+d395 3
+a397 2
+=1' qua [A-s4 G#-s3 G#] [g#-s4{2 e}2 Gn] \
+ [a-s4{2 e}2 A-s2] [A#-s2 A_#-s1 A#-s2]
+d400 3
+d405 1
+a405 1
+=1, cro blank B_ blank blank
+d415 2
+a416 2
+=1, treble8vab cha1 leg100 vol80 cro F#
+I0.3 .73 mp
+d419 4
+a422 3
+rs1.0 .75 o
+rs.65 .75 o
+rs.30 .75 o
+d429 4
+a432 3
+rs1.0 .55 4
+rs.65 .55 4
+rs.30 .55 4
+d441 1
+d444 1
+d447 1
+d449 1
+d452 1
+d454 1
+d457 1
+d464 2
+a465 2
+rs1.0 .53 o
+rs.65 .53 o
+d468 1
+a468 1
+=1, min. vol80 leg90 B_n cro leg100 vol80 C
+d473 4
+a476 3
+rs1.0 .25 4
+rs.65 .25 2
+rs.30 .25 3
+d480 1
+a480 1
+4 bars | 32 | 32 | 32 | 32 ||
+d483 1
+d485 3
+a487 3
+rs1.0 .01 1
+rs.65 .01 3
+rs.30 .01 1
+d489 2
+a490 1
+=1, vol90 cro E-s2, vol95 smq-s F#-s4,{1 cro E-s2,}1 D#-s1, E
+d493 3
+a495 1
+=1, min. vol80 leg90 G# cro leg100 vol80 Fn
+d497 2
+a498 2
+rs1.0 .55 o
+rs.65 .55 o
+@

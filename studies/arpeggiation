@@ -1,0 +1,124 @@
+8 systems /15-17-15/
+title Arpeggiation
+# tends to sound like the top note is the (variable-length) downbeat
+midi channel 1 patch 0 pan 25
+midi channel 2 patch 0 pan 75
+$S = d
+$A = D
+$T = d
+$B = D
+$RHN = morse_thue? $S : $A ?
+$LHN = morse_thue? $B : $T ?
+$RBT = morse_thue? 8 rest 16 [$RHN $RHN] : 8 rest 16 [$RHN $RHN] ?
+$LBT = morse_thue? 16 [$LHN $LHN] 8 rest : 16 [$LHN $LHN] 8 rest ?
+$BAR = {
+=1' $RBT $RBT $RBT $RBT
+=2' $LBT $LBT $LBT $LBT
+}
+$BAR1ST = {
+=1' $RBT $RBT 2 blank
+=2' $LBT $LBT 2 blank
+}
+/
+$BAR2ND = {
+=1' 2 blank $RBT $RBT
+=2' 2 blank $LBT $LBT
+}
+4 bars | 48 |
+| 1.8
+=1' treble cha1 $RBT $RBT $RBT $RBT
+=2' bass   cha2 $LBT $LBT $LBT $LBT
+|
+$BAR
+|
+$BAR
+|
+$BAR
+|
+il0.5 .3 5
+$BAR
+
+|
+$BAR
+|
+$BAR
+|
+$BAR
+
+|
+$S = c#
+$A = D#
+$T = c#
+$B = D#
+$BAR
+|
+il0.5 .3 10
+$BAR
+|
+$BAR
+|
+$BAR
+|
+$S = c
+$A = E
+$T = c
+$B = E
+$BAR
+|
+$BAR
+|
+$S = B
+$A = E
+$T = c#
+$B = E
+il0.5 .3 15
+$BAR
+|
+$S = B
+$A = D#
+$T = c#
+$B = F
+$BAR
+
+# -------------
+$S = Bb
+$A = E
+$T = c
+$B = F#
+|
+#=1' 8 rest 16 [E Bb] 8 rest 16 [Bb E] 8 rest 16 [A Eb] 8 rest 16 [Eb A]
+#=2' 16 [c F#] 8 rest 16 [F# c] 8 rest 16 [G B] 8 rest 16 [B G] 8 rest
+$BAR1ST
+$S = A
+$A = Eb
+$T = B
+$B = G
+$BAR2ND
+
+|
+$S = Bb
+$A = D
+$T = c
+$B = F#
+#=1' 8 rest 16 [D Bb] 8 rest 16 [Bb D] 8 rest 16 [Bb C] 8 rest 16 [C Bb]
+#=2' 16 [c F#] 8 rest 16 [F# c] 8 rest 16 [F# d] 8 rest 16 [F# d] 8 rest
+$BAR1ST
+$S = Bb
+$A = C
+$T = d
+$B = F#
+$BAR2ND
+|
+=1' 8 rest 16 [C# B] 8 rest 16 [B C#] 8 rest 16 [Bb Cn] 8 rest 16 [C Bb]
+=2' 16 [eb F] 8 rest 16 [F eb] 8 rest 16 [F# en] 8 rest 16 [e F#] 8 rest
+|
+il0.5 .3 20
+=1' 8 rest 16 [B C#] 8 rest 16 [C# B] 8 rest 16 [cn D] 8 rest 16 [D c]
+=2' 16 [G f] 8 rest 16 [f G] 8 rest 16 [G# e] 8 rest 16 [e G#] 8 rest
+|
+
+#----------------- 20120610
+# rabbit? [  5  ] : [ 3 ] ?
+# therefore rabbit? 13/16 : 8/16 ?
+# smq=200mS
+# e.g. bass 13/16 16 [G f a c~# f~] [e~b a f] [G f a c~# f~]

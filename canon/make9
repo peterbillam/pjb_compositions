@@ -1,0 +1,249 @@
+#! /usr/bin/perl
+
+# grep 'i=1$' readme | grep 'c=3 d=2'
+# grep 'i=1$' readme | grep 'c=4 d=3'
+# grep 'h=9 i=8' readme          to modulate up 7st
+
+# a=0 b=0 c=2 d=3 e=5 f=6 g=9 h=9 i=8
+# a=0 b=0 c=2 d=3 e=5 f=7 g=9 h=9 i=8
+# a=0 b=0 c=2 d=4 e=5 f=6 g=9 h=9 i=8
+# a=0 b=0 c=2 d=4 e=5 f=7 g=9 h=9 i=8
+# a=0 b=0 c=4 d=3 e=7 f=6 g=10 h=10 i=9
+# a=0 b=0 c=4 d=8 e=7 f=10 g=9 h=9 i=8
+# a=0 b=0 c=4 d=3 e=7 f=6 g=9 h=9 i=8
+# a=0 b=0 c=4 d=9 e=8 f=7 g=9 h=9 i=8
+
+# grep 'h=10 i=9' readme
+
+my $patch = '0';
+
+my @voice3 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	$ibar += 1;
+	$voice3[$ibar] = $_;
+}
+
+print <<EOT;
+4 systems 15 / 19-25-19-28-19 /
+title Canon  at nine semitones
+midi channel 1 patch $patch reverb 99 pan 85
+midi channel 2 patch $patch reverb 99 pan 50
+midi channel 3 patch $patch reverb 99 pan 15
+/
+3 bars | 9/16 108 | 108 | 108 |
+| .15 .12 .13 .14 .11 .13 .15 .11 .13
+=1  treble 9/16 cha1 leg95 1 rest
+=2' treble 9/16 cha2 leg95 1 rest
+EOT
+system "echo '=3 bass 9/16 cha3 leg95 $voice3[1]' | 8va";
+print <<EOT;
+|
+=1 1 rest
+EOT
+system "echo '=2 $voice3[1]' | transpose -3 -A";
+system "echo '=3 $voice3[2]' | 8va";
+
+
+$ibar = 3; while (1) {
+	#last if $ibar > 9;
+	if (4 == $ibar) { print "/\n3 bars | 108 | 108 | 108 |\n"; }
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.9 .20 $ibar\n"; }
+
+	my $s1 = $voice3[$ibar-2];
+	my $s2 = $voice3[$ibar-1];
+	my $s3 = $voice3[$ibar];
+	if ($ibar>10 and ! $s3) { last; }
+	if ($ibar > 186) { last; }
+	system "echo \"=1 $s1\" | transpose -A +6";
+	system "echo \"=2 $s2\" | transpose -A -3";
+	system "echo \"=3 $s3\" | 8va";
+	# print "=3 $voice3[$ibar]\n";
+
+	$ibar += 1;
+}
+exit 0;
+
+__END__
+16 [D Eb D] rest D rest [D F# Bb]
+8 Eb 16 rest [En Eb En] 8 Eb 16 rest
+8. [E F F#]
+16 [G F# G] rest F# rest [Fn F# Fn]
+8 F# 16 rest [G F# G] [G# Gn F#]
+4 A_ 8 A_ [A_ 16 A_]
+16 [G_# A_' G_#] rest 8 G_# 16 rest 8 G_#
+16 [B_ C B_] rest B_ rest [B_ C B_]
+1 C
+
+16 [D Eb D] rest D rest [D F# Bb]
+8 Eb 16 rest [En Eb En] 8 Eb 16 rest
+8. [E F F#]
+16 [G F# G] rest F# rest [Fn F# Fn]
+8 F# 16 rest [G F# G] [G# Gn F#]
+4 A_ 8 A_ [A_ 16 A_]
+16 [G_# A_' G_#] rest 8 G_# 16 rest 8 G_#
+16 [B_ C B_] rest B_ rest [B_ C B_]
+1 C
+
+16 leg95 rest D rest [Eb En Eb] [D Eb D]
+# 20
+16 leg95 [Eb En Eb] [En F E] [Eb rest Eb]
+16 leg95 rest E rest [F E F] [E rest F]
+16 leg95 [F# rest F#] [G F# G] [F# G F#]
+16 leg95 [G G# Gn] [G# A G#] [Gn rest G#]
+16 leg95 rest A rest [Bb Bn Bb] [A Bn Bb]
+16 leg95 [B c B] [c B c] rest 8 B
+16 leg95 [B rest B] [c c# cn] [B rest B]
+16 leg95 [Bb rest Bb] [Bn Bb Bn] [Bb Bn Bb]
+
+16 [B rest B] [c B c] [B eb g]
+16 [c B c] [c# cn c#] 8 cn 16 rest
+8. [c# d eb]
+16 [e eb en] rest eb rest [d eb d]
+8 eb 16 rest [en eb en] [f e eb]
+4 F# 8 F# [F# 16 F#]
+16 [F F# Fn] rest 8 F 16 rest 8 F
+16 [G# A G#] rest G# rest [G# A G#]
+1 A
+
+16 [B c B] rest B rest [B c B]
+8 c 16 rest [c# cn c#] 8 cn 16 rest
+8. [c# d eb]
+16 [e eb en] rest eb rest [d eb d]
+8 eb 16 rest [en eb en] [f e eb]
+4 F# 8 F# [F# 16 F#]
+16 [F F# Fn] rest 8 F 16 rest 8 F
+16 [G# A G#] rest G# rest [G# A G#]
+# 45
+1 A
+
+8. B 16 [B A# B] rest 8 B
+16 [F Gb F] rest F rest [F F# G#]
+16 [Bb c Bb] rest Bb rest [Bb c Bb]
+8. E 16 [E F E] 16 rest 8 E
+# 50
+4. A 16 [A G# F#]
+16 [Eb En Eb] rest Eb rest [Eb F Gb]
+8. Ab 16 [Ab G Ab] rest 8 Ab
+4. D 16 [D C# D]
+16 [E F E] [F F# Fn] [E F E]
+
+16 [F F# Fn] rest F rest [F F# Fn]
+8 F# 16 rest [G F# G] 8 F# 16 rest
+8. [G G# A]
+16 [Bb A Bb] rest A rest [G# A G#]
+8 A 16 rest [Bb A Bb] [Bn Bb A]
+4 C 8 C [C 16 C]
+16 [B_ C' B_] rest 8 B_ 16 rest 8 B_
+16 [D Eb D] rest D rest [D Eb D]
+1 Eb
+
+16 [F F# Fn] rest F rest [F A c#]
+8 F# 16 rest [G F# G] 8 F# 16 rest
+8. [G G# A]
+16 [Bb A Bb] rest A rest [G# A G#]
+8 A 16 rest [Bb A Bb] [Bn Bb A]
+4 C 8 C [C 16 C]
+16 [B_ C' B_] rest 8 B_ 16 rest 8 B_
+16 [D Eb D] rest D rest [D Eb D]
+1 Eb
+
+16 leg95 rest Eb rest [En F E] [Eb En Eb]
+# from 20
+16 leg95 [E F E] [F F# Fn] [E rest E]
+# 75
+16 leg95 rest F rest [F# Fn F#] [Fn rest F]
+# 6 leg95 rest F rest [F# Fn F#] [Fn F# G]
+
+# 8. F# 16 [F# Fn F#] rest 8 F#
+16 [Gb F Gb] 16 rest 8 Gb 16 [Gb F G#]
+4. A 16 [A Bb c]
+8. d 16 [d eb d] rest 8 d
+16 [G# Bb G#] rest G# rest [G# Bb G#]
+4. c# 16 [c# B Bb]
+8. G 16 [G F# G] rest 8 G
+# 16 [F# G F#] rest F# rest [F# G F#]
+# 4. C 16 [C B_ C]
+
+
+quit
+
+# riddled with SD's ...
+#16 leg95 [A# rest A#] [B c B] [A# rest A#]
+#16 leg99 [B{1 c B] 8 [db 16 c] [B c B}1]
+#16 leg95 [A# rest A#] [B c B] [A# rest A#]
+#16 leg95 [B rest B] [c db c] [B rest B]
+#16 leg99 [c{1 db c] 8 [dn 16 c#] [cn db c}1]
+#16 leg95 [B rest B] [c db c] [B rest B]
+#16 leg95 [A# B A#] [B c B] [A# rest A#]
+#16 leg99 [B{1 rest B] 8 [db 16 c] [B c B}1]
+#16 leg95 [A# rest A#] [B c B] [A# rest A#]
+
+16 [G A G] [G rest G] [G A G]
+8. c 16 [c B c] 8. c
+4. F# 16 [F# G A]
+16 [B c# B] [B rest B] [B c# B]
+8. F 16 [F Gb F] 8. F
+4. Bb 16 [Bb A G]
+16 [E F E] [E rest E] [E F E]
+8. A 16 [A G# A] 8. A
+4. Ab 16 [Ab Gb F]
+
+16 leg95 [G rest G] [G# A G#] [Gn G# Gn]
+16 leg95 [G G# Gn] [G# A G#] [Gn rest G#]
+16 leg95 [A rest A] [Bb A Bb] [A rest Bb]
+16 leg95 [B rest B] [c B c] [B c B]
+16 leg95 [c c# cn] [c# d c#] [cn rest c#]
+16 leg95 [d rest d] [eb en eb] [d en eb]
+16 leg95 [e f e] [f e f] [e rest eb]
+16 leg95 [e rest e] [f f# fn] [e rest e]
+16 leg95 [eb rest eb] [en eb en] [eb en eb]
+
+16 [e f# e] [e rest e] [e f# e]
+8. a 16 [a g# a] 8. a
+4. eb 16 [eb en f#]
+16 [g# bb g#] [g# rest g#] [g# bb g#]
+8. d 16 [d eb d] 8. d
+4. g 16 [g f# e]
+16 [c# d c#] [c# rest c#] [c# d c#]
+8. f# 16 [f# fn f#] 8. f#
+4. f 16 [f eb d]
+
+quit
+
+# a=0 b=0 c=2 d=4 e=5 f=7 g=9 h=9 i=8
+16 leg95 [A# rest A#] [B c B] [A# B A#]
+16 leg95 [A# B A#] [B c B] [A# rest B]
+16 leg95 [c rest c] [db c db] [c rest c#]
+16 leg95 [d rest d] [eb d eb] [d eb d]
+16 leg95 [d# e d#] [e f e] [d# rest e]
+16 leg95 [f rest f] [f# g f#] [fn g f#]
+16 leg95 [g ab g] [ab g ab] [g rest f#]
+16 leg95 [g rest g] [ab an ab] [g rest g]
+16 leg95 [f# rest f#] [g f# g] [f# g f#]
+
+# riddled with SD's again ...
+#16 leg95 [f rest f] [f# g f#] [fn rest f]
+#16 leg99 [f#{1 g f#] 8 [g# 16 gn] [f# g f#}1]
+#16 leg95 [f rest f] [f# g f#] [fn rest f]
+#16 leg95 [f# rest f#] [g g# gn] [f# rest f#]
+#16 leg99 [g{1 g# gn] 8 [a 16 g#] [gn g# gn}1]
+#16 leg95 [f# rest f#] [g g# gn] [f# rest f#]
+#16 leg95 16 [f f# fn] [f# g f#] [fn rest f]
+#16 leg99 f# 8 rest 8 [g#{1 16 gn] [f# g f#}1]
+#16 leg95 a 8 rest 16 [a# b a#] [an rest a]
+
+16 a 8 rest 4. a
+# a=0 b=7 c=8 d=10  x2
+16 [a bb a] 4. a
+16 e 8 rest 4. e
+16 [f gb f] 8 [gn 16 f#] [fn gb f]
+16 g 8 rest 4. g
+16 [a bb a] 4. a
+16 e 8 rest 4. e
+16 [f gb f] 8 [gn 16 f#] [fn gb f]
+16 g 8 rest 4. g

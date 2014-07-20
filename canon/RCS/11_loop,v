@@ -1,0 +1,124 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2010.06.21.02.50.41;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@constructs NSD-valid loops for canon at 112 st
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /usr/bin/python3
+#########################################################################
+#      This Python3 script is Copyright (c) 2009, Peter J Billam        #
+#                          www.pjb.com.au                               #
+#                                                                       #
+#     This script is free software; you can redistribute it and/or      #
+#           modify it under the same terms as Python itself.            #
+#########################################################################
+Version     = '1.0'
+VersionDate = '21jun2010'
+import sys, os
+
+argc = 1
+while argc < len(sys.argv):
+    arg = sys.argv[argc]
+    if arg == '-v':
+        print(sys.argv[0]+' version '+Version+' '+VersionDate)
+        argc += 1
+        exit()
+    elif arg == '-c':
+        whatever()
+        argc += 1
+    elif not arg.find('-') == 0:
+        break
+    else:
+        print("usage:")
+        exit()
+
+def main ():
+    a = 0
+    for b in range(0,11):
+        for c in range(0,11):
+            for d in range(1,11):
+                if fitx((a,b+9,c+10,d+11)) and fitx((b,a+11,c+9,d+10)) and fitx((c,b+11,a+10,b+9)) and fitx((d,c+11,b+10,a+9)) and d != c:
+                    print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d))
+    print('')
+
+    for b in range(0,11):
+        for c in range(0,11):
+            for d in range(0,11):
+                for e in range(0,11):
+                    for f in range(1,11):
+                        if fitx((a,d+9,e+10,f+11)) and fitx((b,a+11,e+9,f+10)) and fitx((c,b+11,a+10,f+9)) and fitx((d,c+11,b+10,a+9)) and fitx((e,d+11,c+10,b+9)) and fitx((f,e+11,d+10,c+9)):
+                            print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f))
+
+    # should also for 9, but and (h == i+1 or h == i-1) for pluggability
+    print('')
+
+'''
+    a = 0
+    b = 0
+    for c in range(1,11):
+        for d in range(0,11):
+            for e in range(0,11):
+                for f in range(0,11):
+                    for g in range(0,11):
+                        h = g
+                        for i in range(1,11):
+                            if fitx((a,i+9,h+6)) and fitx((b,a+9,i+6)) and fitx((c,b+9,a+6,)) and fitx((d,c+9,b+6)) and fitx((e,d+9,c+6)) and fitx((f,e+9,d+6)) and fitx((g,f+9,e+6)) and fitx((h,g+9,f+6)) and fitx((i,h+9,g+6)) and d != c and e != d and f != e and g != f and i != h:
+# and ((i == h-1) or (i == h+1 or i == h+2 or i == h+3 or i == h-9 or i == h-10)):
+                                print('a='+str(a)+' b='+str(b)+' c='+str(c)+' d='+str(d)+' e='+str(e)+' f='+str(f)+' g='+str(g)+' h='+str(h)+' i='+str(i))
+'''
+
+
+# --------------------- infrastructure -----------------------
+def warn(s):
+    sys.stderr.write(str(s)+"\n")
+
+def die(s):
+    warn(s)
+    exit(1)
+
+def fitx(notes):   # fit-exclusive; nsd and not unison
+    n = len(notes)
+    i = 0
+    while i < n-1:
+        j = i+1
+        while j < n:
+            gap = (12 + notes[i] - notes[j]) % 12
+            if gap == 1 or gap == 11 or gap == 0:
+                return False
+            j += 1
+        i += 1
+    return True
+
+def fit(notes):   # fit; nsd; unison allowed
+    n = len(notes)
+    i = 0
+    while i < n-1:
+        j = i+1
+        while j < n:
+            gap = (12 + notes[i] - notes[j]) % 12
+            if gap == 1 or gap == 11:
+                return False
+            j += 1
+        i += 1
+    return True
+
+main()
+@

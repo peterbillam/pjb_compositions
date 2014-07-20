@@ -1,0 +1,102 @@
+3 systems 70 /19-50-19/19-50-19/19-50-19 70/
+pagenum
+title Fanfare
+innerhead Fanfare for the Lord Mayor of Hobart
+leftfoot (c) 2014 Peter J Billam
+midi channel 0  patch 56 pan 30
+midi channel 1  patch 57 pan 70
+
+/
+8 bars | 6 | 4 4 4 4  4 4 4 4  4 4 4 6 \
+ | 4 4 4 4  4 4 4 4  4 4 4 8 \
+ | 48 | 48 | 48 | 48 | 45
+| 0.25
+=1  treble cha0  vol100 leg100 16 rest
+=2  bass   cha1  vol100 leg100 16 bb-.
+| 3.0
+=1, 2 rest, 8. rest, 16 C-.
+=2  2. e~b(1
+|
+=1' 2 rest' 8. rest' 16 G-.
+=1, 2. F(2
+=2  2. e~b)1(1
+|
+=1' 2. c
+=1, 2. F)2
+=2  2. e~b)1
+|
+=1' 4 rest 4. <F Ab c> 8 rest
+=2 4 rest 4. e~b      8 rest
+|
+=1' 2. <F#(2 A(3 d(1>
+=2  2. d~(1
+|
+=1' 2 <F#)2 A)3 d)1> 4 rest
+=2  2 d~)1 4 rest
+|
+=1 2 rest 8. rest
+=2 2 rest 8. rest
+
+/
+8 bars | 6 | 4 4 4 4  4 3 3 3  5 5 5 6 \
+ | 4 4 4 4  4 4 4 4  4 4 4 8 \
+ | 48 | 48 | 48 | 48 | 45
+| 0.25
+=1  vol110 16 rest
+=2  vol110 16 c~#-.
+| 3.0
+=1, 2 rest, 8. rest, 16 G#-.
+=2  2. f~#(1
+|
+=1' 2 rest' 8. rest' 16 e-.
+=1, 2. c#(2
+=2  2. f~#)1(1
+|
+=1' 2. a
+=1, 2. c#)2
+=2  2. f~#)1
+|
+=1, 4 rest 2 <A e a>
+=2 4 rest  2 f~#
+|
+=1, 2. <A#(4 e(2 g#(1>
+=2  2. f~#(1
+|
+=1, 2  <A#)4 e)2 g#)1> 4 rest
+=2  2  f~#)1 4 rest
+|
+=1 2 rest 8. rest
+=2 2 rest 8. rest
+
+/
+8 bars | 6 | 4 4 4 4  4 4 4 4  4 4 4 6 \
+ | 4 4 4 4  4 4 4 4  4 4 4 8 \
+ | 48 | 11 8 7 8 7 8 | 48 | 48 | 48 ||
+| 0.25
+=1  vol110 16 rest
+=2  vol110 16 d~-.
+| 3.0
+=1, 2 rest, 8. rest, 16 F-.
+=2  2. g~(1
+|
+=1' 2 rest' 8. rest' 16 Bb-.
+=1, 2. c(,2
+=2  2. g~)1(1
+|
+=1' 2. f
+=1, 2. c),2
+=2  2. g~)1
+|
+=1, 8 rest' 2 <Bb d f bb> 8 rest
+=2  8 rest  2 <bb d~>    8 rest
+|
+=1, vol126 2. <A#(4 f#(2 a#(1>
+=2, vol126 2. <F#(4 f#(2 c~#(1>
+i1.2 .01 cymbal trill cresc to end . . .
+|
+=1, 2. <A#)4(4 f#)2(2 a#)1(1>
+=2, 2. <F#)4(4 f#)2(2 c~#)1(1>
+|
+=1, 2. <A#)4 f#)2 a#)1>
+=2, 2. <F#)4 f#)2 c~#)1>
+i1.0 .70 ta ta TA

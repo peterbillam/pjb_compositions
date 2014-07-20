@@ -1,0 +1,910 @@
+6 systems 14 /19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/
+pagenum 2
+innerhead Three Duets, Peter Billam
+title Three Duets
+leftfoot (c) 2001 Peter J Billam
+midi channel 1 patch 73 pan 05
+midi channel 2 patch 73 pan 95
+/
+4 bars |4/4 8 | 8 | 8 | 8 |
+| 4/4 115
+il0.6        Flowing . . .
+=1 treble 4/4 cha1 leg100 vol90 qua [eb c] cro G qua [d Bb,] cro G
+=2 treble 4/4 cha2 leg100 vol90 cro rest qua [eb c] cro G qua [d Bb,]
+|
+=1 qua [c A,] G rest [d Bb,] G rest
+=2 cro G qua [c' A] qua G rest [d Bb,]
+|
+=1 qua [c A,] cro G qua [d Bb,] G rest
+=2 qua G rest [c' A] cro G qua [d Bb,]
+|
+=1 qua [en c#] cro B, qua [f# d] B, rest
+=2 qua G rest [en c#] cro B, qua [f# d]
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+il0.6            5
+=1 treble qua [g e] cro B, qua [f# d] cro B,
+=2 treble qua B' rest [g e] cro B' qua [f# d]
+|
+=1 qua [e c#] B, rest qua [f# d] B, rest
+=2 cro B' qua [e c#] B' rest qua [f# d]
+|
+=1 qua [ab f] cro eb qua [bb gb] qua eb rest
+=2 qua B' rest [ab f] cro eb qua [bb gb]
+|
+=1 qua [bn ab] cro eb qua [bb gb] cro eb
+=2 qua eb rest [bn ab] cro eb qua [bb gb]
+/ 
+4 bars | 8 | 8 | 8 | 8 |
+| 
+=1 treble qua [c~ a] cro g qua [d~ bb] g rest
+=2 treble cro eb qua [c~ a] cro g qua [d~ bb]
+|
+il1.0 .25 10
+=1 qua [e~ c~#] cro b qua [f~# d~ g# f#]
+=2 qua g rest [e~ c~#] cro b qua [f~# d~]
+|
+=1 qua [d G#,] [f~n c~] [g# d] cro G#
+=2 qua [g# f# d G#,] [f~n c~ g# d]
+|
+=1 qua [e c#] cro G# qua [d# B,] cro G#
+=2 cro G# qua [e c#] cro G# qua [d# B,]
+/  
+4 bars | 8 | 8 | 8 | 8 | 
+|
+=1 treble qua [c# A#,] G# rest [d# B,] G# rest
+=2 treble cro G# qua [c# A#,] qua G# rest [d# B,]
+|  
+=1 qua [c# A#,] G# rest [d# B,] G# rest
+=2 qua G# rest [c# A#,] qua G# rest [d# B,]
+|
+il0.5        15
+=1 qua [e c#] cro G# qua [d# B,] G# rest
+=2 qua G# rest [e c#] cro G# qua [d# B,]
+|
+=1 qua [f d] cro c qua [g eb] c rest
+=2 qua G# rest [f d] cro c qua [g eb]
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 treble qua [ab f] cro c qua [g eb] cro c
+=2 treble cro c qua [ab f] cro c qua [g eb]
+|
+=1 qua [f d] c rest qua [g eb] c rest
+=2 cro c qua [f d] c rest qua [g eb]
+|
+=1 qua [a f#] cro e qua [b g] e rest
+=2 qua c rest [a f#] cro e qua [b g]
+|
+il0.8           20
+=1 qua [c~ a] cro e qua [b g] cro e
+=2 qua e rest [c~ a] cro e qua [b g]
+/
+4 bars | 4.5 4 | 1.2 1 1.2 1.1 1 1 .9 .9 | 7.2 | 7.2 |
+|
+=1 treble qua [c~# a#] g# rest [f~ d~] cro c~n
+=2 treble cro e qua [c~# a#] g# rest [f~ d~]
+|
+=1 qua [g~ e~b a g] cro eb A
+=2 cro c~ qua [g~ e~b] [a g] cro eb
+|
+=1 cro G c F# e
+=2 cro A G c F#
+|
+=1 cro G# c A eb
+=2 cro e G# c A
+
+6 systems /19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+il0.6         25
+=1 treble G c A en
+=2 treble eb G c A
+|
+=1 qua rest [c#' G# A#] [e c#] cro g#
+=2 cro en qua rest c# [G#, A#, e c#]
+|
+=1 qua rest [f c d] [Ab F] cro c
+=2 cro g# qua rest f [c d] [Ab F]
+|
+=1 qua rest [A, e f#] [c~ a] cro e~
+=2 cro c qua rest A, [e f# c~ a]
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 treble qua rest [c~# g# a#] [e c#] cro A#
+=2 treble cro e~ qua rest c~# [g# a# e c#]
+|
+il0.6    30
+=1 cro G# c# Gn f
+=2 cro A# G# c# Gn
+|
+=1 cro A db Bb, qua [c db]
+=2 cro f A db Bb,
+|
+=1 cro F# qua [d# e] cro A qua [f f#]
+=2 qua [c db] cro F# qua [d# e] cro A
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 treble cro B, qua [g# a] cro d qua [a# b]
+=2 treble qua [f f#] cro B, qua [g# a] cro d
+|
+=1 cro g# c~# gn f~
+=2 qua [a# b] cro g# c~# gn
+|
+il0.8    35
+=1 cro a d~ b f
+=2 cro f~ a d~ b
+|
+=1 qua rest d cro A qua [e c] cro A
+=2 cro f qua rest d cro A qua [e c]
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 treble qua [d B,] A rest [e c] cro a
+=2 treble cro A qua [d B,] A rest [e c]
+|
+=1 qua rest f# cro c# qua [g# e] cro c~#
+=2 cro a qua rest f# cro c# qua [g# e]
+|
+=1 qua rest' bb cro f qua [c~ ab] cro d
+=2 cro c~# qua rest' bb cro f qua [c~n ab]
+|
+il0.7 .22 40
+=1 qua [bb g] cro d qua [a f] cro d
+=2 cro d qua [bb g] cro d qua [a f]
+/
+4 bars | 24 | 5 6 6 7 | 2.2 2.2 2.2 2 2 2 2 2 2 3 3 2.2 \
+ | 3 3 2.2 2 2 2 2 2 2 3 3 2.2 |
+| 
+=1 treble qua [g e] cro c# qua [f e] cro d
+=2 treble cro d qua [g e] cro c# qua [f e]
+|
+=1 cro Ab qua rest B, [c d] qua3 [f e-I3 d]
+=2 cro d Ab qua rest B, [c d]
+|
+=1 cro rest qua rest c# [d f#] qua3 [b a#-I3 g#]
+=2 qua3 [f e-I3 d] cro rest qua rest c# [d f#]
+|
+=1 cro rest qua rest d [eb f] qua3 [b a#-I3 g#]
+=2 qua3 [b a#-I3 g#] cro rest qua rest d [eb f]
+/
+4 bars | 3 3 2.2 2 2 2 3 2.4 3 3 2.4 2.2 | 24 | 12 11 | \
+ 2 2 2 2 2 2 3 2.2 3 3 2.2 2.2 |
+| 
+il0.6       45
+=1 treble qua rest f [f# g#] qua3 [d~ c~#-I3 b] cro fn
+=2 treble qua3 [b a#-I3 g#] qua rest f [f# g#] qua3 [d~ c~#-I3 b]
+|
+=1 qua [d~b bb] cro f qua [c~ ab] cro f
+=2 cro f qua [d~b bb] cro f qua [c~ ab]
+|
+=1 qua [bb g] cro d qua [a f] cro d
+=2 cro f qua [bb g] cro d qua [a f]
+|
+=1 qua [g e] cro B, qua3 [g f#-I3 e] qua [c# d]
+=2 cro d qua [g e] cro B, qua3 [g f#-I3 e]
+
+6 systems /19 32 19/19 35 19/19 30 19/19 30 19/19 30 19/19 30 19/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+/
+4 bars | 3 3 2.2  3 3 2.2  2.3 2.3 3  2.3 2.3 2.3 \
+ | 3 2.2 2.2 3 2.2 2.2 3 2.2 2.7 3 3 2.2 \
+ | 2.3 2.3 2.3  2.3 2.3 3  2 2 2.4  2 2 2 | 5 6 6 6 |
+|
+=1 treble qua3 [b a#-I3 g#] qua [f gb] qua3 [e~b d~-I3 c~] qua [an bb]
+=2 treble qua [c# d] qua3 [b a#-I3 g#] qua [f gb] qua3 [e~b d~-I3 c~]
+|
+il0.7 .22 50
+=1 qua3 [g f#-I3 e] qua [d c#] qua3 [g# a#-I3 b] qua [fn  gb]
+=2 qua [a bb] qua3 [g f#-I3 e] qua [d c#] qua3 [g# a#-I3 bn]
+|
+=1 qua3 [e~b d~-I3 c~] qua [g a] [eb c] cro A
+=2 qua [fn gb] qua3 [e~b d~-I3 c~] qua [gn a] [eb c]
+|
+=1 cro G qua [d# e] cro A qua [f# g]
+=2 cro A cro G qua [d# e] cro A
+/
+4 bars | 6 6 6 5.5 | 2 2 2 2 2 2 2 2 2 3 2.2 2.2 \
+ | 3 2.2 2.2 2.4 2.2 2 3 2.2 3 3 2.2 2.2 \
+ | 3 2.2 2.2 3 2.2 2.2 2.2 2.2 2.2 2.2 2.2 2.2 |
+|
+=1 treble cro c qua [g# a] cro d qua [b c~]
+=2 treble qua [f# g] cro c qua [g# a] cro d
+|
+=1 cro f qua rest g# [a b] qua3 [d~ c~#-I3 b]
+=2 qua [b c~] cro f qua rest g# [a b]
+|
+il0.7  55
+=1 qua rest a# [b c~#] qua3 [g~ f~#-I3 e~] cro bb
+=2 qua3 [d~ c~#-I3 b] qua rest a# [b c~#] qua3 [g~ f~#-I3 e~]
+|
+=1 qua3 [g f#-I3 e] cro d qua3 [Bb' A-I3 G] cro e
+=2 cro bb qua3 [g f#-I3 e] cro d qua3 [Bb' A-I3 G]
+/ 
+4 bars | 1.8 1.8 1.8 1.8 1.8 1.8 2.2 3 2.2 2.2 3 2.2 \
+ | 21 | 2.2 3 2.2 2.2 3 2.2 3 3 2.2 3 3 2.2 \
+ | 2.2 3 2.2 2.2 3 2.2 3 2.2 2.2 3 2.2 2.2 | 
+| 
+=1 treble cro d g qua3 [c# B,-I3 A#,] cro e
+=2 treble cro e cro d g qua3 [c# B,-I3 A#,]
+|
+=1 cro d g c# b
+=2 cro e d g c#
+|
+=1 qua3 [d# e-I3 f#] cro g qua3 [e d#-I3 c#] cro g#
+=2 cro b qua3 [d# e-I3 f#] cro g qua3 [e d#-I3 c#]
+|
+il0.8  60
+=1 qua3 [d# e-I3 f#] cro a qua3 [g f#-I3 e] cro bb
+=2 cro g# qua3 [d# e-I3 f#] cro a qua3 [gn f#-I3 e]
+/  
+4 bars | 15 12 | 24 | 24 | 24 |  
+|  
+=1 treble qua3 [f# g-I3 a] cro c~ eb g
+=2 treble cro bb qua3 [f# g-I3 a] cro c~ eb
+|
+=1 qua [eb c] cro G qua [d Bb,] cro G
+=2 cro g qua [eb c] cro G qua [d Bb,]
+|
+=1 qua [c A,] G rest [d Bb,] G rest
+=2 cro G qua [c A,] qua G rest [d Bb,]
+|
+=1 qua [eb c] cro G qua [d Bb,] G rest
+=2 qua G rest [eb c] cro G qua [d Bb,]
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+il0.6       65
+=1 treble qua [en c#] cro B, qua [f# d] B, rest
+=2 treble qua G rest [en c#] cro B' qua [f# d]
+|
+=1 qua [g e] cro B, qua [f# d] cro B,
+=2 qua B' rest [g e] cro B' qua [f# d]
+|
+=1 qua [e c#] B, rest qua [f# d] B, rest
+=2 cro B' qua [e c#] B' rest qua [f# d]
+|
+=1 qua [ab f] cro eb qua [bb gb] qua eb rest
+=2 qua B' rest [ab f] cro eb qua [bb gb]
+/
+4 bars | 3 3 3 3 3.5 3 3.5 3 | 6 8 8 6 \
+ | 2.5 2.5 2.5 2.5 3 3.5 3 3 | 10 12 |
+|
+=1 treble qua [c~ a] cro g qua [d~ bb] [e d]
+=2 treble cro eb qua [c~ a] cro g qua [d~ bb]
+|
+il0.7  70
+=1 cro Bb qua [e~ c~#] [a# e] cro c#
+=2 qua [e d] cro Bb qua [e~ c~# a# e]
+|
+=1 cro B e qua [A# B'] cro g#
+=2 cro c# B e qua [A# B']
+|
+=1 cro c e qua [db c] cro g
+=2 cro g# c e qua [db c]
+
+
+6 systems /19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+/
+4 bars | 10 12 | 10 12 | 24 | 24 |
+|
+=1 treble cro B e qua [A# B'] cro g#
+=2 treble cro g B e qua [A# B']
+|
+=1 cro c f qua [d eb] cro b
+=2 cro g# c f qua [d eb]
+|
+il0.7           75
+=1 qua rest [ab eb f] [b g#] cro d~#
+=2 cro b qua rest ab [eb f b g#]
+|
+=1 qua rest [c~ g a] cro eb qua [B, c]
+=2 cro d~# qua rest c~ [g a] cro eb
+/
+4 bars | 24 | 24 | 21 | 24 |
+|
+=1 treble cro F qua [c# d] cro Ab qua [e f]
+=2 treble qua [B, c] cro F qua [c# d] cro Ab
+|
+=1 cro Bb, qua [g ab] cro db bb
+=2 qua [e f] cro Bb, qua [g ab] cro db
+|
+=1 cro ab d~b g f~
+=2 cro bb ab d~b g
+|
+il0.9   80
+=1 cro an d~b qua [bb a] [g f]
+=2 cro f~ an d~b qua [bb a]
+/
+4 bars | 2 2 2.3  2.4 2 2  3 2.2 3  3 2.2 2.2 \
+ | 2.3 2.3 2.3  2.3 2.3 2.3  3 3 3  3 3 2.3 | 24 | 24 |
+|
+=1 treble cro db qua [A Bb'] qua3 [g f#-I3 e] qua [c# dn]
+=2 treble qua [g f] cro db qua [A Bb'] qua3 [g f#-I3 e]
+|
+=1 qua3 [bb a-I3 g] qua [e f] qua3 [d~ c~#-I3 bn] cro f#
+=2 qua [c# d] qua3 [bb a-I3 g] qua [e f] qua3 [d~ c~#-I3 bn]
+|
+=1 qua [d~ b] cro f# qua [c~# a] cro f#
+=2 cro f# qua [d~ b] cro f# qua [c~# a]
+|
+=1 qua [b g#] f# rest [c~# a] f# rest
+=2 cro f# qua [b g#] f# rest [c~# a]
+/
+4 bars | 24 | 3.2 3.7 3.2 3.7 3.7 3.2 3.7 3.2 \
+ | 24 | 3 3 3  3 3 3  2.3 3 2.3  2.2 3 2.2 |
+|
+il0.7 .21 85
+=1 treble qua [b g#] cro f# qua [c~# a] f# rest
+=2 treble qua f# rest [b g#] cro f# qua [c~# a]
+|
+=1 qua [e~b c~] cro bb qua [f~ d~b g f]
+=2 qua f# rest qua [e~b c~] cro bb qua [f~ d~b]
+|
+=1 qua [c# G,] [e~ b] [g c#] cro G
+=2 qua [g f c# G,] [e~ b g c#]
+|
+=1 qua3 [e d#-I3 c#] cro G# qua3 [d# e-I3 f#] cro A
+=2 cro G qua3 [e d#-I3 c#] cro G# qua3 [d# e-I3 f#]
+/
+4 bars | 3 2.2 3 3 2.2 3 2.2 2.2 2.2 2.2 2.2 2.2 \
+ | 24 | 24 | 22 |
+|
+=1 treble qua3 [g f#-I3 e] cro Bb, qua3 [f# g-I3 a] cro c
+=2 treble cro A qua3 [g f#-I3 e] cro Bb, qua3 [f# g-I3 a]
+|
+il0.7        90
+=1 qua [bb gb] cro eb qua [ab f] cro c
+=2 cro c qua [bb gb] cro eb qua [ab f]
+|
+=1 qua [g eb] cro c qua [f d] cro A
+=2 cro c qua [g eb] cro c qua [f d]
+|
+=1 qua [e c] cro A qua [d B,] cro A
+=2 cro A qua [e c] cro A qua [d B,]
+/
+4 bars | 24 | 3 3.5 3 3.5 3.7 3.7 3.7 3.7 | 21 | 18 ||
+|
+=1 treble qua [e c] cro A qua [f e] cro d
+=2 treble cro A qua [e c] cro A qua [f e]
+|
+=1 qua [A B'] cro eb qua3 [c B,-I3 A,] cro en
+=2 cro d qua [A B'] cro eb qua3 [c' B'-I3 A]
+|
+=1 cro F# c G A(2
+=2 cro en F# c G
+|
+=1 min. A)2 cro rest
+=2 smb A
+% endmvt1
+
+5 systems 25 /19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/19 30 19 15/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+midi pause 4
+/
+5 bars | 3.5 | 4 | 3.3 | 4 | 3 |
+| 4/4 85
+il0.6        Sustained . . .
+=1 treble 4/4 cha1 leg100 vol85 min A A(2
+=2 treble 4/4 cha2 leg100 vol85 min F F(2
+|
+=1 qua A)2 rest cro A B d
+=2' qua F)2 rest cro F G# B
+|
+=1 min c# c#(1
+=2 min A A(2
+|
+=1 qua c#)1 rest cro c# d# f#
+=2 qua A)2  rest cro A cn d#(1
+| 3/4 85
+il0.7     5
+=1 3/4 min e cro e(1
+=2 3/4 min d#)1 cro c#
+/
+5 bars | 6 | 6 | 6 | 8 | 1 1 1 1.5 1.1 1.1 |
+|
+=1 treble cro e)1 d# c
+=2 treble cro cn B A(2
+|
+=1 min Bb, cro Bb,(1
+=2 min A)2 cro G
+|
+=1 min Bb,)1 cro A
+=2 cro C# leg85 min E
+| 4/4 85
+=1 4/4 min A cro. A qua B'
+=2 4/4 leg100 min F cro. F qua G#
+| 3/4 85
+il0.7     10
+=1 3/4 cro. c# d
+=2 3/4 cro. F qua [G# A# B']
+/
+5 bars | 3 | 4 | 3 | 3 | 4 |
+|
+=1 treble min ab cro g
+=2 treble cro. cn qua d cro e
+| 4/4 85
+=1 4/4 min f  cro. f  qua g
+=2 4/4 leg85 min db leg100 cro. db qua e(1
+| 3/4 85
+=1 3/4 min f cro f(1
+=2 3/4 min e)1 cro d
+|
+=1 min f)1 cro e
+=2 cro G# min B
+| 4/4 85
+il0.7     15
+=1 4/4 min. e cro g#
+=2 4/4 leg85 min. c# leg100 cro A#
+/
+5 bars | 10 | 8 | 1 1 1.1 1.1 1.5 1.1 \
+ | 1 1 1 1.4 1.4 1.1 | 1 1 1.4 1.4 1.3 1.1 |
+| 5/4 85
+=1 treble 5/4 min e cro gn cro. e  qua g#
+=2 treble 5/4 min c# cro B cro. c# qua A#
+| 4/4 85
+=1 4/4 min. c~# cro d~#
+=2 4/4 min. e cro g(1
+| 3/4 85
+=1 3/4 min e~ qua [d~# c~#]
+=2 3/4 cro g)1 qua [E G B' c#']
+|
+=1 cro. a# qua [b f# g]
+=2 cro rest qua [E G d#' c#']
+|
+il0.7     20
+=1 cro. g# qua [c# e g#]
+=2 cro rest qua [E G# Gn D#]
+/
+5 bars | 3 | 3 | 3 | 2.7 | 2.7 |
+|
+=1 treble min a# cro g#
+=2 treble qua rest [C# E G# A# c']
+|
+=1  min gn cro f
+=2' qua [db F A Bb c db(1]
+|
+=1  min g cro f
+=2' qua [db)1 F A Bb c dn(1]
+|
+=1 min eb cro eb(1
+=2 min d)1 cro c
+|
+il0.7     25
+=1 cro eb)1 d Bn
+=2 cro B' Bb' G#(2
+
+6 systems /19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/19 30 19/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+/
+6 bars | 3 | 3 | 4 | 4 | 4 | 4 |
+|
+=1 treble min A cro A(2
+=2 treble min G#)2 cro F#
+|
+=1 min A)2 cro G#
+=2 cro C leg85 min D#
+| 4/4 85
+=1 4/4 min G# G#
+=2 4/4 leg100 min E E
+|
+=1 cro rest G# A# c#
+=2' cro rest E Gn Bb
+|
+il0.5     30
+=1 min cn c
+=2 min Ab Ab
+|
+=1 cro rest c d f
+=2 cro rest Ab B d(1
+/
+5 bars | 3 | 3 | 3 | 5 | 3 |
+| 3/4 85
+=1 treble 3/4 min eb cro eb(1
+=2 treble 3/4 min d)1 cro c
+|
+=1 min eb)1 cro d
+=2 cro F# min A
+| 4/5 85
+=1 4/4 min. d cro f#
+=2' 4/4 leg85 min. B leg100 cro G#
+| 5/4 85
+il0.7     35
+=1 5/4 min d cro fn cro. d qua f#
+=2' 5/4 min B cro A  cro. B qua G#
+| 3/4 85
+=1 3/4 min b cro c~#
+=2 3/4 min d cro f(1
+/
+5 bars | 3 | 3 | 3 | 3 | 3 |
+|
+=1 treble min d~ qua [c~# b]
+=2 treble leg85 cro f)1 leg100 qua [D F A B']
+|
+=1 cro. g# qua [a e f]
+=2 cro rest qua [D F c#' B']
+|
+=1 cro. f# qua [B, d f#]
+=2 cro rest qua [D F F# G#]
+|
+il0.7     40
+=1 min g# cro f#
+=2 qua rest [A#, B, c# d d#(1]
+|
+=1 min e cro e(1
+=2 min d#)1 cro c#
+/
+5 bars | 3 | 3.7 | 4 | 4 | 4 |
+|
+=1 treble min e)1 cro eb
+=2 treble cro G min Bb
+| 4/4 85
+=1  4/4 min eb eb(1
+=2' 4/4 min Bn  B(2
+|
+=1 qua eb)1 rest cro eb f ab
+=2 qua  B')2 rest cro B  d f
+|
+il0.7     45
+=1 min g g(1
+=2 min eb eb(1
+|
+=1 qua g)1 rest cro g a c~
+=2 qua eb)1 rest cro eb f# a(1
+/
+6 bars | 3 | 3 | 3 | 3 | 3 | 3 |
+| 3/4 85
+=1 treble 3/4 min bb  cro bb(1
+=2 treble 3/4 min a)1 cro g
+|
+=1 min bb)1 cro a
+=2 cro c# leg85 min e
+|
+=1 min a cro a
+=2 leg100 min f# cro f#(1
+|
+il0.7     50
+=1 min g    cro g(1
+=2 min f#)1 cro e
+|
+=1 min g)1 cro f#
+=2 cro A# min c#(1
+|
+=1 min e  cro d#
+=2 leg85 cro c#)1 leg100 G A#(2
+/
+5 bars | 3 | 3 | 3 | 5 | 4 ||
+|
+=1 treble cro c# min B
+=2 treble min A#)2 cro G#(2
+|
+=1 min A cro A(2
+i0.5           rit . . .
+=2 min G#)2 cro F#
+|
+il0.7     55
+=1 min A)2 cro Ab
+=2 cro C leg85 min Eb
+| 5/4 85
+=1 5/4 min Ab min. Ab
+=2 5/4 leg100 min F min. F
+| 4/4 85
+=1 4/4 smb ab
+=2 4/4 vol-15 smb f
+
+6 systems 15 /18 25 18/18 35 18/18 35 18/18 30 18/18 35 18/18 30 18/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+midi pause 4.0
+/
+2 bars | 5 | 3 |
+| 5/4 122
+il0.6        Lively . . .
+=1 treble 5/4 cha1 leg85 vol100 qua. [d smq g] qua. [e smq g] \
+ qua. [f smq bb] qua. [a smq c~] qua. [d~ smq bb]
+=2 treble 5/4 cha2 leg85 vol100 smq rest [Bb' G Bb'] [c#' G c#' G] \
+ rest [c#' G c#'] rest [d# G, d#] [e G, e g]
+| 3/4 122
+=1 3/4 cro.. e~ smq c~# cro b
+=2 3/4 smq rest [B, c# e] [c# e g] rest rest [ab eb f]
+/
+2 bars | 1 1 1 1.4 1 1 1 1.2 1 1 1 1 1.4 1.4 1.4 1.4 1.4 1.5 1 1 \
+ | 1.4 1.4 1 1.3 1 1.4 1 1.3 1.4 1.4 1 1.4 1.2 1 1.4 1 1 1 1.4 1 |
+| 5/4 122
+=1 treble 5/4 smq rest [d B, d] [f B, f B,] rest [B, f B,] \
+ [F, Ab, B, eb] [f ab b] rest
+i0.3                                                             cresc . . .
+=2 treble 5/4 qua. [f# smq b] qua. [g# smq b] qua. [a smq eb] \
+ [f g ab bb] [bn d~ e~b] rest
+|
+=1 smq [B' A# B' G] [c#' B' c#' G] [B' A# B' G] \
+ qua [Ab,-. ab-.] smq rest [ab g ab]
+I0.4    p
+=2, smq [c# d# c# g] [d# e d# g] [c# d# c# g] rest [ab g ab] qua [f-. ab-.]
+/
+2 bars | 3 | 5 |
+| 3/4 122
+il0.4      5
+=1 treble 3/4 smq [eb d eb B,] [f eb f B,] [eb d eb B,]
+I0.4            p
+=2 treble 3/4 smq [f g f b] [g ab g b] [f g f b]
+| 5/4 122
+=1 5/4 smq rest [A, c e] [c e f#] rest rest [A, d# f#] cro.. c~# smq c~n
+=2 5/4 cro.. c~ smq b cro a smq rest [Bb db f] [db f g] rest
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1 treble 3/4 smq [bb c~ d~b a] [bb a bb c~] [d~b a bb c~]
+=2 treble 3/4 min. f-tr
+| 5/4 122
+=1 5/4 cro.. d~b smq c~ cro bb smq rest [G, Bb, d] [Bb, d e] rest
+=2 5/4 smq rest [A, eb gb] [eb gb a] rest rest [c eb gb] cro.. bb smq a
+/
+2 bars | 5 | 3 |
+|
+=1 treble smq rest [Bb' G Bb'] [c#' G c#' G] rest [c#' G c#'] \
+ rest [d# G, d#] [e G, e g]
+=2 treble qua. [g smq d] qua. [e smq g] qua. [f smq bb] \
+ qua. [a smq c~] qua. [d~ smq bb]
+| 3/4 122
+il0.7        10
+=1 3/4 smq rest [d# G, d#] [e G, e g] rest [f# c e]
+=2 3/4 qua. [a smq c~] qua. [d~ smq bb] qua. [a smq c~]
+/
+2 bars | 1 1.4 1 1.4 1 1 1 1.6 1.4 1.4 1 1 1.4 1.4 1 1.5 1.5 1.5 1.1 1 \
+ | 1 1.4 1 1.2 1.4 1.4 1 1.2 1.4 1.4 1 1.2 1.4 1 1 1 1.4 1 1.2 1 |
+| 5/4 122
+=1 treble 5/4 smq rest [B, c# e] [c# e g] rest rest [Bb, db f] \
+ [g a bb c~] [d~b e~ f~] rest
+i0.5                                                             cresc . . .
+=2 treble 5/4 cro.. e~ smq d~# cro c~# smq [G, Bb, db f] [g bb d~b] rest
+|
+=1 smq [eb f eb a] [f gb f a] [f gn f b] [g ab g b] [g an g] rest'
+I0.5    p
+=2 smq [db c db A,] [eb db eb A,] [eb dn eb B,] [f eb f B,] [f eb f c#]
+
+7 systems /18 25 18/18 25 18/18 25 18/18 22 18/18 35 18/18 40 18/18 25 18/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1 treble 3/4 smq rest [F Ab c'] [d f ab b] qua. c~ smq rest
+=2 treble 3/4 smq [d e f g] [ab b c~ d~] qua. e~ smq rest
+| 5/4 122
+=1 5/4 cro e-tr# smq rest [e f# c~] rest [g# f# c~] \
+ cro e-tr# smq rest [d# f# c~]
+=2 5/4 cro Bb,-tr smq rest [c' qua A] smq rest [d# e A,] \
+ cro Bb,-tr smq rest [c qua Bb,]
+/
+2 bars | 3 | 5 |
+| 3/4 122
+il0.7   15
+=1 treble 3/4 qua [bb gb] [gn eb] smq [g a bb f]
+=2 treble 3/4 smq [c d eb Bb] [A Bn' c' G] qua [F c#']
+| 5/4 122
+=1 5/4 cro f-tr smq rest [f g c~#] rest [a g c~#] cro b-tr# smq rest [b qua g#]
+=2 5/4 cro B,-tr# smq rest [c#' qua A#] smq rest [e f c#] \
+ cro f-tr smq rest [f d# B,]
+/
+2 bars | 5 | 3 |
+|
+=1 treble qua [b g] [b g] qua. g# smq rest qua [d~# b] qua. [c~ smq e~b]
+=2 treble smq [c# d# e B,] [c# d# e B,] [A#, B, dn eb] [f g ab eb] [d eb f# g]
+| 3/4 122
+=1 3/4 qua [g~ d~#] [e~ c~] [c~# a]
+=2 3/4 smq [a b c~ g] [f# g# a e] [eb fn f# c]
+/
+2 bars | 5 | 3 |
+| 5/4 122
+=1 treble 5/4 cro f#-tr# smq rest [f# g# d~] rest [a# g# d~] \
+ cro f#-tr# smq rest [fn g# d~]
+=2 treble 5/4 cro c-tr smq rest [d qua B,] smq rest [f gb B,] \
+ cro c-tr smq rest [d qua c]
+| 3/4 122
+il0.8          20
+=1 3/4 qua [c~ g#] [a f] [g eb]
+=2 3/4 smq [d e f c] [B, c# d A,(1] [A)1 B' c' G]
+/
+2 bars | .9 .8 .9 .8  1.2 1 1.2 1  1.4 1 1.4 1.5  .9 .8 .9 .8  1 1.4 1.4 1 \
+ | 1.3 1.4 1.4 1.2  1.4 1 1.4 1.5  1 1.4 1 1.2  1.2 1.4 1.3 1.2  1.4 1 1.4 1 |
+| 5/4 122
+=1 treble 5/4 cro c#-tr# smq rest [eb qua b] smq [a b a d~#] \
+ cro c~#(1-tr# qua c~#)1 rest'
+=2 treble 5/4 cro G-tr smq rest [G, A, eb] smq [g f# g eb] \
+ cro g-tr smq rest [g fn db]
+|
+=1 smq rest [db Bb, db] [e Bb, e Bb] rest [e Bb, e] \
+ rest [f# Bb, f#] [g Bb, g bb]
+=2 qua. [f smq bb] qua. [g smq bb] qua. [ab smq d~b] \
+ qua. [c~ smq e~b] qua. [f~ smq d~b]
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1 treble 3/4 smq rest [f# Bb, f#] [g Bb, g Bb,] rest [fn Bb, f]
+=2 treble 3/4 qua. [c~ smq e~b] qua. [d~b smq f~] qua. [g~ smq d~b]
+| 5/4 122
+=1 5/4 smq rest [eb c eb] [f# c f# c] rest [f# c f#] \
+ rest [ab c ab] [an c a c~]
+=2 5/4 qua. [c~ smq g] qua. [a smq c~] qua. [bb smq e~b] \
+ qua. [d~ smq f~] qua. [g~ smq e~b]
+/
+2 bars | 5 | 3 |
+|
+il0.6             25
+=1 treble smq rest [B, d f] [d f a] rest' rest [A, eb gb] cro.. d~b smq e~b
+=2 treble cro.. d~ smq b cro a smq rest [A, c# d#] [c# d# f#] rest'
+| 3/4 122
+=1 3/4 cro.. f~ smq e~ cro d~
+=2 3/4 smq rest [db f g] [f g bb] rest' rest [d f a]
+
+7 systems 5 /18 40 18/18 35 18/18 25 18/18 25 18/18 25 18/18 20 18/18 25 18/18 30 18/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+/
+2 bars | 5 | 3 |
+| 5/4 122
+=1 treble 5/4 smq rest [d B, d] [f B, f B,] rest [f B, f] \
+ rest [g B, g] [B, ab B, ab]
+=2 treble 5/4 qua. [b smq f#] qua. [g# smq b] qua. [a smq d~] \
+ qua. [c~# smq e~] qua. [e~b smq f~]
+| 3/4 122
+=1 3/4 smq rest [a c a] [g A, g d#] rest [e A, e]
+=2 3/4 qua. [g~ smq d~] qua. [e~b smq b] qua. [c~ smq f#]
+/
+2 bars | 1 1.4 1 1.5 1.1 1 1.3 1 1 1.3 1 1 1.4 1.4 1.3 1.4 1.4 1.4 1.2 1 \
+ | 1.4 1 1 1.2  1 1.4 1 1.2  1.4 1.4 1.4 1.4  1.4 1 1 1.2  1.4 1.4 1.4 1 |
+| 5/4 122
+=1, treble 5/4 smq rest [e c# e] [g c# g c#] rest [g c# g] \
+ [G Bb db f] [g bb d~b] rest
+=2 treble 5/4 qua. [g# smq c~#] qua. [a# smq c~#] qua. [b smq e~] \
+ smq [g a bb c~] [d~b e~ f~] rest
+|
+il0.7      30
+=1, smq [B c# B f] [c# d c# g] [c# d# c# g] [B c# B f] [c# dn c# f]
+=2' smq [A G# A F] [B A B F] [B A# B Gn] [An G# A F] [B A B Gn]
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1  treble 3/4 smq [eb f eb a] [f gb f a] [eb f eb] rest
+=2, treble 3/4 smq [db c db A] [eb db eb B] [db c db A]
+| 5/4 122
+=1  5/4 smq rest' [bb a bb] qua [g-. bb-.] smq rest' [bb a bb] \
+ qua [g-. bb-.] smq rest' [bb a bb]
+=2, 5/4 qua [Bb-. bb-.] smq rest' [bb a bb] qua [f-. bb-.] \
+ smq rest' [bb a bb] qua [db-. bb-.]
+/
+2 bars | 5 | 3 |
+|
+=1 treble smq [g a g d~b] [a bb a e~b] [a bn a e~b] [g a g d~b] [a bb a e~b]
+=2 treble smq [f e f db] [g f g db] [g f# g eb] [f e f db] [g f g db]
+| 3/4 122
+=1 3/4 smq rest [F# A c#'] [d# f# a c~] qua c~# rest'
+=2 3/4 smq [eb f f# g#] [an c~ d~b e~b] qua f~ rest'
+/
+2 bars | 5 | 3 |
+| 5/4 122
+il0.7      35
+=1 treble 5/4 cro B,-tr# smq rest [B, f eb] rest [eb db g] \
+ cro f-tr smq rest' [f a d~]
+=2 treble 5/4 cro F-tr smq rest [F qua Ab] smq rest [A# B' G] \
+ cro B,-tr# smq rest [B, qua d]
+| 3/4 122
+=1 3/4 cro a-tr  smq rest' [a d~# c~#] [b c~# b f~]
+=2 3/4 cro eb-tr smq rest [eb qua gb] smq [a g# qua a]
+/
+2 bars | 1 1.4 1.4 1  1 1.4 1.4 1  1.4 1 1 1  1.4 1 1 1  1.4 1 1 1 \
+ | .8 .9 .8 .9  1.4 1.4 1.4 1  1 1.2 1.4 1.4  .8 .9 .8 .9  1 1.4 1.1 1 |
+| 5/4 122
+=1 treble 5/4 qua [d~# b] [d~# b] [c~ g#] [a f] [a f]
+=2, treble 5/4 smq [f g ab eb] [f g ab eb] [d en f c] [B c# d A] [B c# d A]
+|
+=1 cro f-tr smq rest' [f g c~#] rest [a g c~#] cro b-tr smq rest' [b qua c~#]
+=2 cro B,-tr# smq rest [c#' qua A#] smq rest [e f c#] \
+ cro f-tr smq rest' [g e B,]
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1 treble 3/4 qua [b g] [b g] cro eb
+=2 treble 3/4 smq [c# d# e B,] [c# d# e B,] [A B' cn' G]
+| 5/4 122
+il0.5   40
+=1 5/4 qua. [d smq g] qua. [e smq g] qua. [f smq bb] \
+ qua. [a smq c~] qua. [d~ smq bb]
+=2 5/4 smq rest [Bb' G Bb'] [c#' G c#' G] rest [c#' G c#'] \
+ rest [d# G, d#] [e G, e g]
+
+7 systems 5 /18 30 18/18 30 18/18 30 18/18 30 18/18 30 18/18 25 18 8/18 30 18/
+pagenum
+innerhead Three Duets, Peter Billam
+leftfoot (c) 2001 Peter J Billam
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1 treble 3/4 cro.. e~ smq c~# cro b
+=2 treble 3/4 smq rest [G, c# e] [B, e g] rest rest [ab eb f]
+| 5/4 122
+=1 5/4 smq rest [d B, d] [f B, f B,] rest [f B, f] \
+ rest [g B, g] [c# e qua g]
+=2 5/4 qua. [f# smq b] qua. [g# smq b] qua. [a smq d~] \
+ qua. [c~# smq e~] qua. [b smq c~#]
+/
+2 bars | 5 | 3 |
+|
+=1 treble min. a-tr smq [a ab gb f] [gb f gb ab]
+=2 treble smq [d~ e~ f~ c~#] [d~ c~# d~ e~] [f~ c~# d~ c~#] min c~#-tr#
+| 3/4 122
+=1 3/4 qua [a-. c~-.] smq rest [c~ b c~] qua [e-. c~-.]
+=2 3/4 smq [c~# c~n b c~] qua [f#-. c~-.] smq rest' [c~ b c~]
+/
+2 bars | 1.4 1.4 1 1.4  1 1.4 1.4 1.4  1 1.4 1 1  1 1 1 1  1 1 1 1 \
+ | 1.4 1 1.4 1  1.4 1.4 1 1.4  1 1.4 1 1  1 1 1.4 1  1.4 1.4 1 1 |
+| 5/4 122
+il0.7    45
+=1 treble 5/4 smq [e eb db c] [db c db eb] [en c db c] min c-trn
+=2 treble 5/4 min. ab-trb smq [ab g f e] [f e f g]
+|
+=1 smq rest [F# A c#'] [A, c# d#] rest rest [A, cn e] cro.. c~ smq b
+=2 cro.. an smq g# cro f# smq rest [A, c eb] [c eb gn] rest
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1 treble 3/4 qua [a-. c~-.] smq rest [c~ b c~] qua [e-. c~-.]
+=2 treble 3/4 smq smq rest [c~ b c~] qua [f#-. c~-.] smq rest [c~ b c~]
+| 5/4 122
+=1 5/4 min. a-tr smq [a ab gb f] [gb f gb ab]
+=2 5/4 smq [d~ e~ f~ c~#] [d~ c~# d~ e~] [f~ c~# d~ c~#] min c~#-tr#
+/
+2 bars | 3 | 5 |
+| 3/4 122
+=1 treble 3/4 qua [a-. c~-.] smq rest [c~ b c~] qua [e-. c~-.]
+=2 treble 3/4 smq [c~# c~n b c~] qua [f#-. c~-.] smq rest' [c~ b c~]
+| 5/4 122
+il0.7   50
+=1 5/4 smq [e eb db c] [db c db eb] [en c db c] min c-trn
+=2 5/4 min. ab-trb smq [ab g f e] [f e f g]
+/
+2 bars | 5 | 3 |
+| 5/4 122
+=1 treble 5/4 qua. [d smq g] qua. [e smq g] qua. [f smq bb] \
+ qua. [a smq c~] qua. [d~ smq bb]
+=2 treble 5/4 smq rest [Bb' G Bb'] [c#' G c#' G] rest [c#' G c#'] \
+ rest [d# G, d#] [e G, e g]
+| 3/4 122
+=1 3/4 qua [bn g] [g# e] [f db]
+=2 3/4 smq [c# d# e B,] [Bb, cn db Ab,] [G An Bb' F]
+/
+3 bars | 5/4 1 1.5 1 1 1 1.5 1 1 1 1.5 1 1 1 1.5 1 1.1 1 1.5 1 1 \
+ | 1.5 1 1.5 1.5  1 1.5 1.5 1  1.5 1.5 1.1 1.5 1.5 1.5 1 1 .8 .7 .8 .7 \
+ | 3/4 5 ||
+| 5/4 122
+=1  treble 5/4 smq rest' [g f# g] qua [e-. g-.] smq rest' [g f# g] \
+ qua [e-. g-.] smq rest' [g f# g]
+=2, treble 5/4 qua [G-. g-.] smq rest' [g f# g] qua [d-. g-.] \
+ smq rest' [g f# g] qua [Bb,-. g-.]
+|
+=1 smq [d c# d Bb,] [e d e Bb,] [G, Bb, db f] [g bb qua d~b(1] cro d~b)1
+=2 smq [e f# e bb] [f# g qua f#] smq [g a bb c~] [d~b e~ qua f~(1] cro f~)1
+| 3/4 122
+=1 3/4 min. Bb'
+=2 3/4 min. G
+% endmvt3

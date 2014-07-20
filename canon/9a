@@ -1,0 +1,64 @@
+4 systems 15 / 19-25-19-28-19 /
+title Canon  at nine semitones
+midi channel 1 patch 0 reverb 99 pan 85
+midi channel 2 patch 0 reverb 99 pan 50
+midi channel 3 patch 0 reverb 99 pan 15
+/
+3 bars | 9/16 108 | 108 | 108 |
+| .14 .12 .13 .14 .12 .13 .14 .12 .13
+=1  treble 9/16 cha1 leg95 4. rest 16 [db c db]
+=2  treble 9/16 cha2 leg95 8. rest 16 [E D# E] rest F rest
+=3, bass   9/16 cha3 leg95 16 [g a g] rest ab rest 16 [an g# a]
+|
+=1 16 rest dn rest 16 [eb d eb] 8. en
+=2 16 [Gb F Gb] 8. Gn 16 [Ab G Ab(2]
+=3, 8. a# 16 [b a# b(1] 8 [b)1 16 eb]
+|
+=1 16 [f e f(1] 8 [f)1 16 A,] 8. G#(2
+=2 8 [Ab)2 16 C] 8. B_(2 16 [B_)2 C C#]
+=3, 8. d(1 16 [d)1 d# e] rest f# rest
+
+|
+=1 16 [G#)2 A A#] 8. c 16 [c B c]
+=2 8. Eb 16 [Eb D Eb] rest F rest
+=3, 16 [gb fn gb] rest ab rest 16 [an g# a]
+|
+=1 16 rest dn rest 16 [eb d eb] 8. f(1
+=2 16 [Gb F Gb] 8. Ab(2 16 [Ab)2 G Ab(2]
+=3, 8. b(1 16 [b)1 a# b(1] 8 [b)1 16 eb]
+|
+=1 16 [f)1 e f(1] 8 [f)1 16 A,] 8. G#(2
+=2 8 [Ab)2 16 C] 8. B_(2 16 [B_)2 C C#]
+=3, 8. d(1 16 [d)1 d# e] rest f# rest
+
+|
+=1 16 [G#)2 A A#] rest c rest 16 [c B c]
+=2 16 rest Eb rest 16 [Eb D Eb] 8. F
+=3, 16 [gb fn gb] 8. ab 16 [an a# b]
+|
+i0.7 diverge
+=1 8. dn 16 [d# e f] 8. gb(1
+=2 16 [F# G G#] 8. A(2 16 [A)2 G# A(2]
+=3, 8. c~(1 16 [c~)1 b c~(1] 8. c~)1
+|
+=1 16 [gb)1 f gb(1] 8. gb)1 8 [f 16 G#,]
+=2 8. A)2 8 [Ab 16 B_] 8. C
+=3, 8 [b 16 d] 8. eb 16 [an a# b]
+
+|
+=1 8. A 16 [d# e f] 8. gb
+=2 16 [F# G G#] 8. A 16 rest [G_# A_(2]
+=3, 8. c~ 16 rest [B c(1] 8. c)1
+|
+=1 16 rest [F Gb(2] 8. Gb)2 8 [Gn 16 Ab]
+=2 8. A_)2 8 [A_# 16 B_] 8. C
+=3, 8 [c# 16 d] 8. eb 16 [an a# b]
+
+|
+=1 8. A 16 [d# e f] 8. gb
+=2 16 [F# G G#] 8. A 16 rest [G_# A_(2]
+=3, 8. c~ 16 rest [B c(1] 8. c)1
+|
+=1 16 rest [F Gb(1] 8. Gb)1 8 [Gn 16 Ab]
+=2 8. A_)2 8 [A_# 16 B_] 8. C
+=3, 8 [c# 16 d] 8. eb 16 [an a# b]

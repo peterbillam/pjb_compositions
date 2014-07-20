@@ -1,0 +1,470 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2006.09.22.08.23.44;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@flute part of trombone quintet
+@
+
+
+1.1
+log
+@tightened up into two pages
+@
+text
+@* Trombone Quintet   Flute    Peter J Billam, may 94
+*
+
+12 systems 10 / 21 / 21 / 21 / 21 / 21 / 21 / 21 / 21 / 21 / 21 /
+pagenum 1
+title Trombone Quintet - Flute part
+innerhead Peter Billam
+leftfoot (c) 1994  Peter J Billam
+/
+11 bars | 3/4 3 | 2/4 2 | 3/4 3 | 4/4 4 | 3/4 3 | 2/4 2 \
+ | 3/4 3 | 4/4 4 | 4 | 3/4 3 | 2/4 2 |
+|
+=1 treble 3/4 smb rest
+|
+=1 2/4 min rest
+|
+=1 3/4 min. rest
+|
+=1 4/4 smb rest
+|
+il0.3 5
+=1 3/4 min. rest
+|
+=1 2/4 min rest
+|
+=1 3/4 min. rest
+|
+=1 4/4 smb rest
+|
+=1 smb rest
+|
+il0.3 10
+=1 3/4 min. rest
+|
+=1 2/4 min rest
+/
+13 bars | 3/4 3 | 4/4 4 | 3/4 3 | 2/4 2 | 3/4 3 | 15/16 3.75 | 3.75 |
+|
+=1 3/4 min. rest
+|
+=1 4/4 smb rest
+|
+=1 3/4 min. rest
+|
+il0.3 15
+=1 2/4 min rest
+|
+=1 3/4 min. rest
+|
+i0.2 Trombone ...
+=1 15/16 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.3 20
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+/
+7 bars | 1 1 1 1 1  1.3 1.3 1.1 1.1 1.1  1.4 1 1 1.4 1 \
+ | 1 1 1 1.4 1.4 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1.3 1.3 1 1 1 1.4 1.4 1.4 1 1 | 1.5 1.5 2 | 5 | 5 | 5 |
+|
+il0.3 25
+=1 qua rest qua. rest qua ab[(1 qua. ab])1(1 smq ab[)1 qua g smq d g]
+|
+=1 qua. f smq rest smq d  qua f[ qua. A,](2  qua A[)2(2 qua. A])2
+|
+=1 qua rest qua. A  qua Bb'[(2 qua. Bb'])2  smq A[ F G qua E(2]
+|
+=1 min. E)2 qua. rest
+|
+=1 smb rest
+|
+il0.3 30
+=1 smb rest
+|
+=1 smb rest
+/
+2 bars | 3/4 3 2 2 2 3 3 2 3 2 3 2 2 2 2 2 3 3 2 \
+ | 2 2 2 2.5 2 2 2 2 2 3 2 2 2 2 2 2 2 2 |
+|
+r .20 6
+=1 3/4 smq F#[ G# A B' A G#]  F#[ A G# B' Gn B']  G[ B'b G B'b F# Ab]
+|
+=1 qua F# smq rest B'[ qua F#] smq G,[ B, d g f# g](1 g)1[ e g B, d c]
+/
+3 bars | 2.2 | 3 | 2 |
+|
+=1 2/4 qua g[ smq f# qua. g] smq rest f#[ g bb a f#]
+|
+il 35
+=1 3/4 qua g smq rest f#[ qua g] smq c#[ d c# qua g smq f#] qua c#[ smq e g a g]
+|
+=1 2/4 qua b[ smq g d B, c] qua g[ smq c d qua g]
+/
+3 bars | 3/4 .9 .9 1 1 .9 1 1 1 .9 .9 1.5 1 .9 .9 1 1 .9 .9 \
+ | .9 .9 1 1 .9 .9 1 1 1 1 1 1.5 .9 .9 .9 1 .9 .9 \
+ | 2/4 .9 .9 1.7 1 1 1  1 .9 .9 .9 .9 .9 |
+|
+=1 3/4 qua d[ smq c d qua c] smq eb[ c qua g smq c eb] qua c[ smq d c qua d]
+|
+=1 qua e[ smq g e qua g] smq f[ g qua f smq ab f] qua. ab[ smq g qua f]
+|
+=1 2/4 qua c~#[ smq b qua a#] smq rest  a#[ qua b qua. c#]
+/
+3 bars | .9 .9 1.5 .9 .9 .9 1 1 1.5 1.5 1.5 1 \
+ | 3/4 1.5 1.5 1.2 .9 .9 1 1 1 1 1.2 1.5 1.2 1 1.5 1.5 .9 .9 1 \
+ | 2/4 .9 .9 1.4 1 1.2 1 1.5 1 1.5 1 .9 .9 |
+|
+il 40
+=1 qua a[ smq g# qua. f#]  smq gn[ b g a# g# a#]
+|
+I  8va . . .
+=1 3/4 smq F#,[ A#, F#, qua d# smq c#] qua B,[ smq A#, B, fn d#] \
+ [G# B' G# qua Bb' smq Gn]
+|
+=1 2/4 qua Bb,[ smq G, Bb, G, db] A,[ F#, A, Bn, qua e]
+/
+3 bars | 3/4 .9 .9 .9 1 .9 .9 .9 .9 1.7 .9 .9 .9 .9 .9 1.7 .9 .9 .9 \
+ | 2/4 1 1 1 1.7 1 1.7 1.2 1 1 1 1 1 \
+ | 3/4 1.7 1 1 1 1.7 1  1 1 .9 .9 1 1.7  1.2 1.2 1.2 1 1 1 |
+|
+i0.5 . . 8va . .
+=1 3/4 qua. A#[ smq B' qua D#] E[ smq A qua. G#] qua F#[ smq Fn qua. Bb']
+|
+=1 2/4 qua f[ smq eb f eb d] eb[ Gb, eb f d F,]
+|
+il 45
+=1 3/4 smq f[ db qua f smq db Bb,] f[ A, qua f smq A, c] eb[ F#, eb Bn, f a]
+/
+3 bars | 2/4 1 1 1 1.6 1.6 1.1 .9 .9 .9 1 1 1 \
+ | 3/4 .9 .9 1 1.6 1.2 1  .9 .9 .9 1 1.6 1.2  .9 .9 .9 .9 .9 1 \
+ | .9 .9 .9 .9 .9 1 .9 .9 .9 1 1 1 .8 .8 .8 .8 .9 .9 |
+|
+i0.6 . 8va . .
+=1 2/4 qua bb[ smq ab g bb ab]  qua. g[ smq a d e]
+|
+=1 3/4 qua f#[ smq g A, Bb, f#]  qua. g[ smq c# d c#] qua f#[ qua. Bn smq cn]
+|
+=1 qua. d[ qua c smq d] qua. c[ smq rest d c] cro d qua c#
+/
+10 bars | 9/16 9 | 7 | 7 | 5/8 7 | 7 |
+|
+=1 9/16 min B smq rest
+|
+il0.1 50
+=1 min rest smq rest
+|
+I0.3 . . loc
+=1 min rest smq rest
+|
+=1 min rest smq rest
+|
+=1 5/8 min rest qua rest
+is0.1 18 bars rest
+|
+=1 min rest qua rest
+|
+il0.1 55
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+/
+12 bars | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+|
+=1 min rest qua rest
+|
+il0.1 60
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+il0.1 65
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+=1 min rest qua rest
+|
+il0.1 70
+=1 min rest qua rest
+/
+12 bars | 1.3 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+|
+=1 6/8 min. rest
+is0.1    5 bars rest
+|
+=1 min. rest
+|
+=1 min. rest
+|
+=1 min. rest
+|
+il0.1 75
+=1 min. rest
+|
+=1 4/4 smb rest
+is0.1   16 bars rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.1 80
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+
+12 systems / 21 / 21 / 21 / 21 / 21 / 21 / 21 / 21 / 21 / 21 / 21 /
+pagenum
+innerhead Flute part, Trombone Quintet, Peter Billam
+leftfoot (c) 1994  Peter J Billam
+/
+11 bars | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 \
+ | 10/16 10 | 1 1 1 1.2 1.3 1 1 1.8 1 1 |
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.1 85
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.1 90
+=1 smb rest
+|
+=1 smb rest
+|
+I0.2 .37 , .81 ,
+=1 10/16 qua. E[ qua E] qua. G[ qua E]
+I0.2     mf
+|
+=1 qua. G[ qua c'] Bb,[ smq c, qua Bb,]
+/
+5 bars | 1 1 1.7 1.2 1.2 1.2 1 1 1.2 1 | 1 1 1.7 1.2 1.2 1 1 1.2 1 1 \
+ | 9/16 9 | 9 | 9 |
+|
+I0.2 .18 ,
+=1 qua G,[ smq c Bb, c] d[ qua e smq c d]
+|
+il0.3 95
+=1 qua Bb,[ smq c Bb, c] qua e[ smq c qua g]
+|
+=1 9/16 cro f qua. g[ qua c]
+|
+=1 qua. d cro f qua Bb
+|
+=1 cro c qua. d[ qua G,]
+/
+7 bars | 7/16 1 1 1 1.2 1.2 1 1 | 7 | 9/16 9 | 9 \
+ | 1 1 1 1 1.4 1 1 1 1 | 3 3 4.2 | 9 |
+|
+=1 7/16 qua. e[ qua G, Bb,]
+|
+il0.4 .01 100
+=1 qua. e[ qua d c]
+|
+=1 9/16 cro a qua. c[ qua d]
+|
+=1 cro a qua. g[ qua f]
+|
+=1 cro d smq c cro e
+|
+=1 cro. e smq rest A[ B']
+|
+il0.3 105
+=1 cro e qua. G[ qua A]
+/
+5 bars | 9 | 7/16 7 | 7 | 9/16 9 | 4/16 1 1 1.5 1 |
+|
+=1 qua d[ smq c qua d] smq d[ c qua d]
+|
+=1 7/16 qua. d[ smq c] qua g[ smq e]
+|
+=1 qua. Bb,[ smq c] qua G,[ smq d]
+|
+=1 9/16 qua g[ smq f g] qua a[ smq d qua f]
+|
+il0.8 110
+=1 4/16 qua d~[ smq c~ ab]
+/
+4 bars | 9/16 .9 .9 .9 1.4 .9 .9 .9 .9 .9 | 8.0 \
+ | .9 .9 .9 1 1.4 1 1 1.2 1 | .9 .9 1 1 1 1.1 1.5 1 1 |
+|
+=1 9/16 qua. f[ smq f] qua. ab[ qua f]
+|
+=1 cro bb qua. c[ qua d]
+|
+=1 qua. c~[ smq bb f] ab[ d f bb]
+|
+=1 qua c~[ smq bb g f]  d~[ c~ bb g]
+/
+4 bars | 1 1.5 1 1 .9 .9 1 1.5 1 | 1 1.5 1.5 1 .9 .9 1 1.5 1 \
+ | .9 .9 1 1.5 1 1 1 1 1 | 1 1.5 1 1 .9 .9 1 1.5 1 |
+|
+I0.5 .01 8va . . .
+=1 smq d[ c Bb, G,] qua f[ smq d c Bb,]
+|
+=1 smq d[ c Bb, Ab,] qua f[ smq d c Bb,]
+|
+=1 qua f[ smq d c Bb,] g[ f d] rest
+|
+=1 smq eb[ c Bb, G,] qua f[ smq eb c Bb,]
+/
+4 bars | 12/16 1 1 1 1.2 1 1.5 1 1 .9 .9 1.4 1 | 6/16 .9 .9 1 1.5 1 1 \
+ | 9/16 .9 .9 1 1 1 1 1 1 1 | .9 .9 1.5 1 1 .9 .9 1 1 |
+|
+i0.5 .02 . . 8va . .
+=1 12/16 qua f[ smq eb c] ab[ f eb c]  qua f[ smq c eb]
+|
+il 120
+=1 6/16 qua g[ smq f c qua eb]
+|
+=1 9/16 qua ab[ smq f d c]  qua bb[ smq ab f]
+|
+=1 qua d[ smq c Bb, G,]  qua f[ smq d c]
+/
+4 bars | 14/16 1 1 1.4 1 .9 .9 1 1 1 .9 .9 1 1.4 1 \
+ | 9/16 9 | 4/16 4 | 9/16 9 |
+|
+i0.5 .03 . . 8va . .
+=1 14/16 smq [e d c Bb,] qua g[ smq e d c] qua e[ smq d c Bb,]
+|
+=1 9/16 smq A[ G E D] qua c'[ smq A D E]
+|
+il 125
+I0.4 .80 . . loc
+=1 4/16 cro Bb
+|
+=1 9/16 smq a[ g f d] qua g[ smq f d c]
+/
+7 bars | 1 1 1.2 1.2 1.2 1.2 1.2 1.2 1.2 | 1 1 1.2 1.2 1.2 1.2 1.2 1 1 \
+ | 6/8 6 | 5/8 5 | 4/8 4 \
+ | 9/16 .75 .5 .5 .5 .5 .5 .5 .5 .5 | .75 .5 .5 .5 .5 .5 .5 .5 .5 |
+|
+=1 qua [Bb' smq G F D]  [G F D C]
+I0.2   mp
+|
+=1 qua [G smq E D C] [E D qua C]
+|
+=1 6/8 min. C(2
+|
+il0.3 130
+=1 5/8 min C)2 qua rest
+|
+=1 4/8 min rest
+|
+=1 9/16 smq rest cro rest rest
+|
+=1 cro rest rest smq rest
+/
+8 bars | 6/8 4.4 | 4.4 | 4.4 | 9/8 5.4 | 5.4 | 5.4 \
+ | 6/8 .9 .9 .9 .9 .9 .9 1 1 1.3 1.6 1.3 1 | 3.6 3 | 6 |
+|
+=1 6/8 min. rest
+|
+il0.3 135
+=1 min. rest
+|
+=1 min. rest
+|
+=1 9/8 cro. rest rest rest
+|
+=1 cro. rest rest rest
+|
+=1 cro. rest rest rest
+|
+il0.5 140
+I0.3 .35 8va . . 
+=1, 6/8 cro. rest qua [G smq B A eb g]
+|
+=1 cro. g# f#
+I0.1  f
+|
+=1 cro. e d
+/
+7 bars | 4.5 | 5 | 5 | 5 | 5 \
+ | 5 | 3/4 1 1.3 1.5 1.5 .9 .9 .9 .9 1 1.3 1.1 1.1 |
+|
+i0.3       . . 8va . . 
+=1 min. c
+|
+=1' min rest cro B
+|
+il 145
+=1 cro. A G
+|
+I0.4 .60 . . loc
+=1 min d cro c
+|
+=1 cro. bb a
+|
+=1 min g cro rest
+|
+=1 3/4 qua f[ smq ab gb] cro bb qua bb[ smq d~b c~]
+/
+4 bars | 4/4 3.2 4 | 1.4 1 1 1.2 1 1 1 1 | 8 | 2 1.6 1.6 1.6 ||
+|
+=1 4/4 min f~ cro rest F(2
+I0.2 .03 ff .52 p .75 mp
+i0.2 .20 dim . .
+|
+il 151
+=1 qua F)2 cro Ab qua F[  Ab] cro F qua Ab(2
+|
+=1 qua Ab)2 cro F qua Ab cro F Ab(1
+i0.05                   dim . . .
+|
+=1 cro Ab)1 min. F
+I0.02  . . p . .       . . pp
+@

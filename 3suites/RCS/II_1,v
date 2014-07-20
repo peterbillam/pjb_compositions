@@ -1,0 +1,1059 @@
+head	1.6;
+access;
+symbols;
+locks
+	pjb:1.6;
+comment	@# @;
+
+
+1.6
+date	99.11.29.10.24.08;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	99.01.06.05.48.47;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	98.12.27.00.31.22;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.12.14.23.17.12;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.12.08.11.23.12;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.12.03.03.42.29;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Second Sonata, 1st mvt
+@
+
+
+1.6
+log
+@chop 1st half-line, arpeggiate some chords
+@
+text
+@5 systems /19-45-19/19-45-19 15/19-35-19/19-40-19/19-40-19/
+pagenum 2
+innerhead Three Sonatas, Peter Billam
+title II / a
+leftfoot (c) 1998 Peter J Billam
+/
+3 bars |14|11|
+|
+il0.5     Turbulent
+=1 treble qua rest B c[ e d# F#,] G[ B' c#' A#] dn'[ F# G Db]
+=2 bass   qua rest B c[ e' d#' F#'] G[ B' c#' A#] dn'[ F# G Db]
+|
+=1  smb <Eb Gb>
+=1, qua C[ Db C Db] cro C qua Db[ C Db] cro C(1
+=2  smb <Gb Bb> cro blank qua En
+=2, qua C[ Db C Db] cro C qua Db[ C Db] cro C(2
+/
+2 bars |17|10|
+|
+=1' treble qua C)1[ Db C Db] cro C Eb min.. blank qua Bb[ c]
+=1, cro blank qua E_b[ E_n G_b B_b] C[ Db] C[ Db] cro C qua En[ F# A] cro C
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] eb[ en gb bb] d~b[ c~ d~b] cro Eb(4
+=2, bass   smb C)2
+|
+=1' cro eb qua d[ en] cro f e qua f#[ g]
+=1, qua   Gb[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A
+i0.4    cresc . . .
+=2' qua rest Bb cro Bn qua A[ c#] cro e qua f#[ g]
+=2, cro Eb)4 qua D[ En] cro F qua cn[ Bb] cro A
+/
+2 bars |6|10|
+|
+il0.5    5
+=1' treble cro a qua ab[ bb] cro bn
+=1, qua c[ e] cro f qua eb[ f]
+=2' cro a qua ab[ bb] e~b[ f~]
+=2, bass qua c[ e] cro f bn
+|
+=1' cro bb qua d~b[ c~] cro bb ab cro eb
+=1, qua g[ ab] cro f qua g[ db] c[ dn] qua Gb[ Ab]
+I0.8                                  ff
+i0.8                                                                    dim . . .
+=2' qua g~[ a~b] cro f~ qua g~[ d~b] qua c~[ d~n] cro e~b
+=2, cro bb qua d~b[ c~] cro bb cro ab qua gb[ ab]
+/
+3 bars |8|10|10|
+|
+=1  treble qua c'[ G] A[ E] cro c eb
+=2' bass   min a qua e~b[ bb] c~[ g]
+=2, cro eb min f# cro blank
+|
+=1 cro. f# qua A cro. eb cro c qua db
+=2 qua a[ e] f#[ c#,] cn[ G] A[ E] F#[ C#]
+|
+=1 qua c'[ <Db db'> c' <Db db']> cro. c qua Db[ Eb Gb](2
+I0.6     f                              p
+=2 qua <C c[> Db' <C c> Db'] min <C c> cro rest
+/
+3 bars | 11 | 8 | 7 |
+|
+il0.5    10
+=1' treble cro. A qua A[ G#] cro A <G c> qua Br[ c]
+=1, qua F#)2[ Fn F#] cro F# qua Fn[ F#] qua Eb[ D] cro <Eb A>
+=2' bass cro. c~# cro c~# d~# min blank
+=2, qua a[ f f#] a[ g#] f[ f#] eb[ d] B[ c]
+|
+=1' qua Ar[ G#] cro <A eb(1> qua eb)1[ d] cro <ebr Gnr>
+=1, cro <F# c#> qua Fn[ F#] cro <G# B> qua B[ c](1
+=2  qua A[ G#] F[ F#] Eb[ D] B_[ C]
+|
+is0.5       w46
+=1 cro c)1 qua G[ E] db[ Bb] F[ Db]
+=2 qua A_[ B_b] C[ Db] Eb[ F] G[ Ab]
+
+
+5 systems /19-35-19/19-45-19/19-35-19/19-45-19 12/19-40-19 25/
+pagenum 3
+innerhead II/a, Three Sonatas, Peter Billam
+leftfoot (c) 1998 Peter J Billam
+/
+3 bars | 4 | 4 | 4 |
+|
+=1 treble qua Ab[ F] cro. B_ qua D# cro F#(1
+=2 bass   qua Bb[ Bn] c#[ eb'] f[ gb] ab[ an(1]
+|
+=1 smb F#)1
+=1 qua B_[ C#] D#[ E] F#[ G] A[ B']
+=2 cro a)1 c# e g(1
+|
+il0.6         15
+=1 qua c#'[ A#] G#[ E] C#[ D] E[ F#]
+=2 qua g)1[ g#] a#[ b(1] b)1[ f#] d'[ G#]
+/
+3 bars | 3.5 | 4 | .7 .8 .7 .7 |
+|
+is0.5       w31
+=1' treble qua G#[ A] cro Ab <G# B> <B_r B>
+=1, cro D qua D[ C] cro B_ qua F#[ Fn]
+=2' bass   cro B qua  c[ d] eb cro. d
+=2, qua F#[ Fn] cro F(2 qua F)2[ F#] G#[ A]
+|
+=1' qua <B_r[ A> <C] Ab> c[ B] cro <Ab Bx> <d B>
+=1, cro F <F Ab> qua Eb[ D] F#[ Fn]
+=2' cro d c~ b b
+=2, qua B[ c] d[ eb] f[ f#] g#[ a]
+|
+=1' cro d qua c#[ B] c#[ d] e[ f]
+=1  smb <F A>
+=2  qua b[ d~ f~ a~](1 cro a~)1 qua f~[ d~]
+i0.3    legatissimo . . .
+/
+4 bars | 4 | 4 | 4 | 4 |
+|
+=1' treble cro e qua d#[ c#] d#[ e] f#[ g]
+=1 smb <E G>
+=2 bass qua b[ c~# e~ g~](1 cro g~)1 qua e~[ c~]
+|
+il0.7      20
+=1' cro f# qua fn[ eb] f[ f#] g#[ a]
+=1 smb <D# F#>
+=2 qua a[ c~# d~# f~#(1] cro f)1 qua a~[ f~#]
+|
+=1' cro. b qua a# g#[ gn] f[ eb]
+=1 smb <F Ab>
+=2 qua b[ d~#] cro f~# min g~#
+i0.3                     . . . |
+|
+=1' qua d[ c# B A] F[ E D C#]
+=2 smb rest
+/
+2 bars |6|9|
+|
+is0.5       w29
+=1  treble smb <Eb Gb>
+=1, treble qua C[ Db C Db] cro C qua Db[ C Db] cro C(1
+=2  bass   smb <Gb Bb> cro blank qua En
+=2, bass   qua C[ Db C Db] cro C qua Db[ C Db] cro C(2
+|
+=1' qua C)1[ Db C Db] cro C Eb min.. blank qua Bb[ c]
+=1, cro blank qua E_b[ E_n G_b B_b] C[ Db] C[ Db] cro C qua En[ F# A] cro C
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] eb[ en gb bb] d~b[ c~ d~b] cro <Eb(4 eb(6>
+=2, smb C)2
+/
+2 bars |9|6|
+|
+il0.5    25
+=1' treble cro eb qua d[ en] cro f e qua f#[ g] cro a qua ab[ bb] cro bn
+=1, qua   Gb[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A qua c[ e] cro f qua eb[ f]
+=2' qua rest Bb cro Bn qua A[ c#] cro e qua f#[ g] cro a qua ab[ bb] e~b[ f~]
+=2, bass cro <Eb)4 eb)6> qua D[ En] cro F qua cn[ Bb] cro A qua c[ e] cro f cro bn
+|
+=1' cro bb qua d~b[ c~] cro bb ab cro eb
+=1, qua g[ ab] cro f qua g[ db] c[ dn] qua Gb[ Ab]
+=2' qua g~[ a~b] cro f~ qua g~[ d~b] qua c~[ d~n] cro e~b
+=2, cro bb qua d~b[ c~] cro bb cro ab qua gb[ ab]
+
+5 systems /19-35-19/19-45-19/19-35-19/19-45-19/19-40-19 25/
+pagenum 4
+innerhead II/a, Three Sonatas, Peter Billam
+leftfoot (c) 1998 Peter J Billam
+/
+3 bars | 4 | 4 | 4 |
+|
+is0.5       w30
+=1  treble qua c'[ G] A[ E] cro c eb
+=2' bass   min a qua e~b[ bb] c~[ g]
+=2, cro eb min f# cro blank
+|
+=1 cro f# A eb cro. c qua db
+=2 qua a[ e] f#[ c#,] cn[ G] A[ E] F#[ C#]
+|
+=1 qua c'[ <Db db'> c' <Db db']> cro c qua Db[ Eb Gb]
+=2 qua <C c[> Db' <C c> Db'] min <C c> qua rest
+/
+3 bars | 11 | 8 | 7 |
+|
+il0.5    30
+=1' treble cro. A qua A[ G#] cro A <G c> qua Br[ c]
+=1, qua F#[ Fn F#] cro F# qua Fn[ F#] qua Eb[ D] cro <Eb A>
+=2' bass cro. c~# cro c~# d~# min blank
+=2, qua a[ f f#] a[ g#] f[ f#] eb[ d] B[ c]
+|
+=1' qua Ar[ G#] cro <A eb(1> qua eb)1[ d] cro <ebr Gnr>
+=1, cro <F# c#> qua Fn[ F#] cro <G# B(2> qua B)2[ c(2]
+=2  qua A[ G#] F[ F#] Eb[ D] B_[ C]
+|
+is0.5       w46
+=1 cro c)2 qua G[ Eb] cro db Bb[ Db]
+=2 qua A_[ B_b] C[ Db] Eb[ F] G[ Ab]
+/
+3 bars | 4 | 4 | 4 |
+|
+=1 treble cro Ab qua F cro B_ D# qua F#(1
+=2 bass   qua Bb[ Bn] c#[ eb'] f[ gb] ab[ an](1
+|
+=1 smb F#)1
+=1 qua B_r[ C#] D#[ E] F#[ G] A[ B']
+=2 cro a)1 c# e g(1
+|
+il0.6         35
+=1 cro c#' qua G#[ E] C#[ D] E[ F#]
+=2 qua g)1[ g#] a#[ b(1] cro b)1 qua d'[ G#]
+/
+3 bars | 3.5 | 4 | .7 .8 .7 .7 .7 |
+|
+is0.5       w31
+=1' treble qua G#[ A] cro G#(1 <G#)1 B> <B_r B>
+=1, cro. D qua C cro B_ qua F#[ Fn](2
+=2' bass   cro B qua  c[ d] eb cro. d
+=2, qua F#[ Fn] cro F(2 qua F)2[ F#] G#[ A]
+|
+=1' qua <B_r[ A> <C] Ab> c[ B] cro <Ab Bx> cro <B d>
+=1, cro F)2 <F Ab> qua Eb[ D] qua F#[ Fn]
+=2' cro d c~ b b
+=2, qua B[ c] d[ eb] f[ gb] g#[ a]
+|
+is0.5       w48
+=1 cro d qua c#[ B,] A#[ G#] A#[ B'] c#[ d]
+=2 qua f#[ g# b d~](1 cro d~)1 qua f#[ b]
+i0.3    legatissimo . . .
+/
+4 bars | 3 | 3 | 5 | 3 |
+|
+=1 treble cro e qua d[ Bb,] A[ Bb']
+=2 bass qua e[ g bb d~ e g]
+|
+il0.4    40
+=1 cro Bn qua G#[ A#] B,[ c#]
+=2 qua f#[ g# b d~ f# g#]
+|
+=1 cro d qua c#[ B,] A[ B'] c#[ d] e[ f]
+=2 qua fn[ a b d~](1 min d~)1 qua f[ a]
+|
+=1 qua g#[ f#] d[ c#] B,[ c#]
+=2 qua f#[ g# b d~](1 cro d~)1
+
+5 systems /19-35-19/19-40-19/19-35-19/19-40-19/19-40-19 25/
+pagenum 5
+innerhead II/a, Three Sonatas, Peter Billam
+leftfoot (c) 1998 Peter J Billam
+/
+4 bars | 5 | 5 | 3.4 | 5.5 |
+|
+=1 treble qua eb[ d] c[ Bb,] c[ d] eb[ f] gb[ bb]
+=2 bass   qua eb[ gb bb c~](1 min c~)1 qua gb[ bb]
+|
+=1 cro b qua bb[ ab] gb[ d] B,[ c#] d[ f#]
+=2 qua f#[ g# b d~](1 min d~)1 qua b[ g#]
+|
+il0.6     45
+=1 cro ab qua g[ f] e[ d]
+=2 qua  c~[ ab fn d,] c[ Ab]
+|
+=1 qua c'[ <Db db'> c' <Db db']> cro. c qua Db[ Eb Gb]
+=2 qua <C c[> Db' <C c> Db'] min <C c> cro rest
+/
+3 bars | 11 | 8 | 7 |
+|
+=1' treble cro. A qua A[ G#] cro A <G c> qua Br[ c]
+=1, qua F#[ Fn F#] cro F# qua Fn[ F#] qua Eb[ D] cro <Eb A>
+=2' bass cro. c~# cro c~# d~# min blank
+=2, qua a[ f f#] a[ g#] f[ f#] eb[ d] B[ c]
+|
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro <Gr eb>
+=1, cro <F# c#> qua Fn[ F#] cro <G# B(2> qua B)2[ c](2
+=2  qua A[ G#] F[ F#] Eb[ D] B_[ C]
+|
+is0.5       w46
+=1 cro c)2 qua G[ Eb] db[ Bb] F[ Db]
+=2 qua A_[ B_b] C[ Db] Eb[ F] G[ Ab]
+/
+3 bars | 4 | 4 | 4 |
+|
+il0.4    50
+=1 treble cro Ab qua B'[ Ab] cro Eb qua F#[ Eb]
+=2 bass   qua Bb[ Bn] c#[ eb'] f[ gb] ab[ an]
+|
+=1 smb F#
+=1 qua B_[ C#] D#[ E] F#[ G] A[ B']
+=2 qua a[ d#,] c#,[ f#] e[ a] cro g(1
+|
+=1 qua c#'[ A#] G#[ E] C#[ D] E[ F#]
+=2 qua g)1[ g#] a#[ b](1 b)1[ f#] d'[ G#]
+/
+3 bars | 3.5 | 4 | .7 1 .8 .8 |
+|
+is0.5       w31
+=1' treble qua G#[ A] cro G#(1 <G#)1 B(1> <B_r B)1>
+=1, cro. D qua C cro B_ qua F#[ Fn]
+=2' bass   cro B qua  c[ d] eb[ d](1 cro d)1
+=2, qua F#[ Fn(2] cro F)2(2 qua F)2[ F#] G#[ A]
+|
+=1' qua <B_r[ A> <C] Ab> c[ B] cro <Ab Bx> <d(1 B>
+=1, cro F <F Ab> qua Eb[ D] F#[ Fn]
+=2' cro d c~ b b
+=2, qua B[ c] d[ eb] f[ f#] g#[ a]
+|
+il0.4    55
+=1 cro d)1 qua c#[ B] A[ B'] c#[ d](1
+=2 min. <a bx d~ f~> qua a[ f~]
+/
+5 bars | 8 | 8 | 8 | 8 | 5 ||
+|
+=1 treble cro d)1 qua c#[ B] A#[ B'] c#[ d](1
+=2 bass   min. <g# b d~ f~#> qua b[ f~#]
+|
+=1 cro d)1 qua c[ Ab,] G[ Ab] c[ d](1
+=2 min. <g# c~ d~x f~> qua g#[ c~]
+|
+=1 cro d)1 qua c#[ B] A[ B'] c#[ d](1
+=2 min. <a bx d~ f~> qua a[ f~]
+|
+=1 cro d)1 qua Bb'[ A] G[ A] Bb[ d](1
+=2 qua bb[ d~] cro e~ min g~
+|
+=1 smb d)1
+=2 smb <c C>
+@
+
+
+1.5
+log
+@mostly thinned; some changed chords
+@
+text
+@d2 1
+a2 1
+pagenum 1
+d7 1
+a7 1
+3 bars |17|22|
+d9 3
+a11 3
+il0.5       w29
+=1 treble qua c eb[ a en f#] cro a qua c eb[ f#] en rest c eb[ a en f#]
+=2 bass   qua c eb[ a en f#] cro a qua c eb[ f#] en rest c eb[ a en f#]
+d13 4
+a16 2
+=1 cro c~ qua g# a[ c~ b f] cro f# qua B c[ e d# F#,] G[ B' c#' A#] dn'[ F# G Db]
+=2 cro c~ qua g# a[ c~ b f] cro f# qua B c[ e' d#' F#'] G[ B' c#' A#] dn'[ F# G Db]
+d18 1
+a18 6
+2 bars |6|9|
+|
+=1  treble smb <Eb Gb>
+=1, treble qua C[ Db C Db] cro C qua Db[ C Db] cro C(1
+=2  bass   smb <Gb Bb> cro blank qua En
+=2, bass   qua C[ Db C Db] cro C qua Db[ C Db] cro C(2
+d20 1
+a20 1
+=1' qua C)1[ Db C Db] cro C Eb min.. blank qua Bb[ c]
+d23 7
+a29 1
+=2, smb C)2
+d31 1
+a31 1
+2 bars |9|6|
+d34 4
+a37 4
+=1' treble cro eb qua d[ en] cro f e qua f#[ g] cro a qua ab[ bb] cro bn
+=1, qua   Gb[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A qua c[ e] cro f qua eb[ f]
+=2' qua rest Bb cro Bn qua A[ c#] cro e qua f#[ g] cro a qua ab[ bb] e~b[ f~]
+=2, bass cro Eb)4 qua D[ En] cro F qua cn[ Bb] cro A qua c[ e] cro f cro bn
+d41 2
+d46 1
+a46 1
+3 bars | 4 | 4 | 4 |
+a47 1
+il0.5       w30
+d52 1
+a52 1
+=1 cro f# A eb cro. c qua db
+d55 3
+a57 2
+=1 qua c'[ <Db db'> c' <Db db']> cro c qua Db[ Eb Gb]
+=2 qua <C c[> Db' <C c> Db'] min <C c> qua rest
+d63 1
+a63 1
+=1, qua F#[ Fn F#] cro F# qua Fn[ F#] qua Eb[ D] cro <Eb A>
+d67 2
+a68 2
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro eb
+=1, cro <F# c#> qua Fn[ F#] cro <G# B> <Gn c(1>
+d71 1
+a71 1
+il0.5       w46
+d77 1
+a77 1
+pagenum 2
+d90 1
+a90 1
+il0.6      15
+d96 1
+a96 1
+il0.5       w31
+d109 2
+a110 1
+=2  smb <b d~>
+d116 1
+a116 2
+=2 bass smb c~#
+=2 smb br
+d118 1
+a118 1
+il0.6      20
+d121 1
+a121 1
+=2 smb <a c~#>
+d125 2
+a126 1
+=2 smb <b d~#>
+d133 1
+a133 1
+il0.5       w29
+d141 1
+a141 1
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] eb[ en gb bb] d~b[ c~ d~b] cro Eb(4
+d150 1
+a150 1
+=2, bass cro Eb)4 qua D[ En] cro F qua cn[ Bb] cro A qua c[ e] cro f cro bn
+d158 1
+a158 1
+pagenum 3
+d164 1
+a164 1
+il0.5       w30
+d183 2
+a184 2
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro eb
+=1, cro <F# c#> qua Fn[ F#] cro <G# B> <Gn c(1>
+d187 2
+a188 2
+il0.5       w46
+=1 cro c)1 qua G[ E] db[ Bb] F[ Db]
+d193 1
+a193 1
+=1 treble qua Ab[ F] cro. B_ qua D# cro F#
+d196 3
+a198 3
+=1 smb F#
+=1 qua B_[ C#] D#[ E] F#[ G] A[ B']
+=2 cro a)1 c# e g
+d200 3
+a202 3
+il0.6       35
+=1 qua c#'[ A#] G#[ E] C#[ D] E[ F#]
+=2 qua f#[ g#] a#[ b(1] b)1[ f#] d'[ G#]
+d206 3
+a208 3
+il0.5       w31
+=1' treble qua G#[ A] cro Ab <G# B> <B_r B>
+=1, cro D qua D[ C] cro B_ qua F#[ Fn]
+d212 2
+a213 2
+=1' qua <B_r[ A> <C] Ab> c[ B] cro <Ab Bx> qua F#r[ Fn]
+=1, cro F <F Ab> qua Eb[ D] cro <D B>
+d217 1
+a217 1
+il0.5       w48
+d219 2
+a220 1
+=2 smb <f# g#r b d~>
+d225 1
+a225 1
+=2 bass min. <e g bb d~>
+d229 1
+a229 2
+=2 smb <f# b d~>
+=2 smb g#r
+d232 1
+a232 2
+=2 smb <fn a d~>
+=2 smb br
+d235 1
+a235 2
+=2 smb <f# b d~>
+=2 smb g#r
+d237 2
+a238 2
+5 systems /19-35-19/19-35-19/19-35-19/19-40-19/19-40-19 25/
+pagenum 4
+d242 1
+a242 1
+4 bars | 5 | 5 | 2.7 | 5 |
+d245 1
+a245 2
+=2 bass   smb <eb gb bb>
+=2 bass   smb c~r
+d248 1
+a248 2
+=2 smb <f# b d~>
+=2 smb g#r
+d252 1
+a252 2
+=2 smb <fn ab d~>
+=2 smb c~r
+d254 2
+a255 2
+=1 qua c'[ <Db db'> c' <Db db']> cro c qua Db[ Eb Gb]
+=2 qua <C c[> Db' <C c> Db'] min <C c> qua rest
+d264 2
+a265 2
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro eb
+=1, cro <F# c#> qua Fn[ F#] cro <G# B> <Gn c(1>
+d268 2
+a269 2
+il0.5       w46
+=1 cro c)1 qua G[ E] db[ Bb] F[ Db]
+d287 5
+a291 5
+il0.5       w31
+=1' treble qua G#[ A] cro G# <G# B> <B_r B>
+=1, cro D qua D[ C] cro B_ qua F#[ Fn]
+=2' bass   cro B qua  c[ d] eb[ d] cro d
+=2, qua F#[ Fn] cro F qua F[ F#] G#[ A]
+d300 1
+a300 1
+=2 smb <a bx d~ f~>
+d305 1
+a305 1
+=2 bass   smb <g# b d~ f~#>
+d308 1
+a308 1
+=2 smb <g# c~ d~x f~>
+d311 1
+a311 1
+=2 smb <a bx d~ f~>
+d314 1
+a314 2
+=2 smb <g bb e~>
+=2 smb d~r
+@
+
+
+1.4
+log
+@changes as to 27dec98
+@
+text
+@d23 1
+a23 1
+=1' qua C)1[ Db C Db] cro C Eb qua c[ db] cro c qua db[ c db Bb c]
+d25 2
+a26 2
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] eb[ en gb bb] d~b[ c~ d~b] cro Gb(1
+=2, qua C)2[ Db C Db] cro C smb blank cro. blank
+d33 2
+a34 2
+=2' qua Gb)1[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A qua c[ e] cro f qua eb[ f]
+=2, bass cro Eb qua D[ En] cro F E qua F#[ G] cro A qua Ab[ Bb] cro Bn
+d38 2
+a39 2
+=2' cro bb qua d~b[ c~] cro bb qua c~[ d~n] cro e~b
+=2, qua g[ ab] cro f qua g[ db] cro ab qua gb[ ab]
+d48 1
+a48 1
+=1 cro f# A eb cro c qua C Db
+d62 2
+a63 2
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro <Gnr eb>
+=1, cro <F# c#> qua Fn[ F#] cro <G# B> qua B[ c(1]
+d78 2
+a79 2
+=1 treble qua Ab[ F] cro B_ qua d#[ B] cro F#(1
+=2 bass   qua Bb[ Bn] c#[ eb'] f[ gb] ab[ an]
+d83 1
+a83 1
+=2 cro A c# e g
+d87 1
+a87 1
+=2 qua f#[ g#] a#[ b(1] b)1[ f#] d'[ G#]
+d92 1
+a92 1
+=1' treble qua <G_#r G#[> <A_r A]> cro <A_br Ab> <G# B> <B_r B>
+d129 1
+a129 1
+=1, treble qua C[ Db C Db] cro C qua Db[ C Db] cro C(2
+d133 1
+a133 1
+=1' qua C)2[ Db C Db] cro C Eb qua c[ db] cro c qua db[ c db Bb c]
+d135 2
+a136 2
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] eb[ en gb bb] d~b[ c~ d~b] cro Gb
+=2, qua C)2[ Db C Db] cro C smb blank cro. blank
+d140 1
+a140 1
+il0.6     25
+d142 3
+a144 3
+=1, qua Gb[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A qua c[ e] cro f qua eb[ f]
+=2' qua Gb[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A qua c[ e] cro f qua eb[ f]
+=2, bass cro Eb qua D[ En] cro F E qua F#[ G] cro A qua Ab[ Bb] cro Bn
+d148 2
+a149 2
+=2' cro bb qua d~b[ c~] cro bb qua c~[ d~n] cro e~b
+=2, qua g[ ab] cro f qua g[ db] cro ab qua gb[ ab]
+d163 1
+a163 1
+=1 cro f# A eb min c
+d171 1
+a171 1
+il0.4    30
+d177 2
+a178 2
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro <Gnr eb>
+=1, cro <F# c#> qua Fn[ F#] cro <G# B> qua B[ c(1]
+d187 2
+a188 2
+=1 treble qua Ab[ F] cro B_ qua d#[ B] cro F#
+=2 bass   qua Bb[ Bn] c#[ eb'] f[ gb] ab[ an]
+d192 1
+a192 1
+=2 cro A c# e g
+d201 1
+a201 1
+=1' treble qua <G_#r G#[> <A_r A]> cro <A_br Ab> <G# B> <B_r B>
+d203 2
+a204 2
+=2' bass   cro B qua  c[ d] eb[ d] cro d
+=2, qua F#[ Fn] cro F qua F[ F#] G#[ A]
+d218 1
+a218 1
+=2 bass min. <fn ab bbr d~>
+d222 2
+a223 1
+=2 smb <f# g#r b d~>
+d226 2
+a227 1
+=2 smb <fn a br d~>
+d229 3
+a231 2
+=1 cro f# qua d[ c#] B,[ c#]
+=2 smb <f# g#r b d~>
+d240 3
+a242 2
+=1 treble cro d qua c[ Bb,] c[ d] eb[ f] gb[ bb]
+=2 bass   smb <eb gb bbr c~>
+d245 2
+a246 1
+=2 smb <f# g#r b d~>
+d250 2
+a251 1
+=2 smb <fn ab c~r d~>
+d263 2
+a264 2
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro <Gnr eb>
+=1, cro <F# c#> qua Fn[ F#] cro <G# B> qua B[ c(1]
+d279 1
+a279 1
+=2 qua A[ d#'] c#[ f#'] e[ a] cro g(1
+d287 1
+a287 1
+=1' treble qua <G_#r G#[> <A_r A]> cro <A_br Ab> <G# B> <B_r B>
+d307 1
+a307 1
+=2 smb <g# c~ d~ f~>
+d313 2
+a314 1
+=2 smb <g bb d~ e~>
+@
+
+
+1.3
+log
+@many octave changes, add last bars
+@
+text
+@d19 1
+a19 1
+=1, treble qua C[ Db C Db] cro C qua Db[ C Db] cro C
+d21 1
+a21 1
+=2, bass   qua C[ Db C Db] cro C qua Db[ C Db] cro C
+d23 1
+a23 1
+=1' qua C[ Db C Db] cro C Eb qua c[ db] cro c qua d~b[ c~ d~b Bb c]
+d25 2
+a26 2
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] eb[ en gb bb] d~b[ c~ d~b] cro Gb
+=2, qua C[ Db C Db] cro C smb blank cro. blank
+d32 2
+a33 2
+=1, qua Gb[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A qua c[ e] cro f qua eb[ f]
+=2' qua Gb[ Bb] cro Bn qua A[ c#] cn[ Bb] cro A qua c[ e] cro f qua eb[ f]
+d38 2
+a39 2
+=2' qua g[ ab] cro f qua g[ db] c[ dn] cro eb
+=2, cro Bb qua db[ c] cro Bb Ab qua Gb[ Ab]
+d48 1
+a48 1
+=1 cro f# A eb cro. C qua Db
+d52 1
+a52 1
+=2 qua <C c[> Db' <C c> Db'] cro <C c> qua db'[ <Eb eb'> gb']
+d67 1
+a67 1
+=1 qua c)1[ Bb] G[ E] db[ Bb] F[ Db]
+d78 1
+a78 1
+=1 treble qua Ab[ F] cro B_ qua d#[ B] cro F#
+d81 1
+a81 1
+=1 smb F#
+d85 1
+a85 1
+il0.5    15
+d87 1
+a87 1
+=2 qua f#[ g#] a#[ b] B[ f#'] d'[ G#]
+d94 2
+a95 2
+=2' bass   qua F#[ Fn] c[ d] eb[ d] cro d
+=2, cro B_ F qua F[ F#] G#[ A]
+d97 1
+a97 1
+=1' qua <B_r[ B> <C] Ab> c[ B] cro <Ab Bx> <d B>
+d113 1
+a113 1
+il0.4    20
+d129 1
+a129 1
+=1, treble qua C[ Db C Db] cro C qua Db[ C Db] cro C
+d131 1
+a131 1
+=2, bass   qua C[ Db C Db] cro C qua Db[ C Db] cro C
+d133 1
+a133 1
+=1' qua C[ Db C Db] cro C Eb qua c[ db] cro c qua d~b[ c~ d~b Bb c]
+d136 1
+a136 1
+=2, qua C[ Db C Db] cro C smb blank cro. blank
+d140 1
+a140 1
+il0.4     25
+d148 2
+a149 2
+=2' qua g[ ab] cro f qua g[ db] c[ dn] cro eb
+=2, cro Bb qua db[ c] cro Bb Ab qua Gb[ Ab]
+d167 1
+a167 1
+=2 qua <C c[> Db' <C c> Db'] cro <C c> qua db'[ <Eb eb'> gb']
+d182 1
+a182 1
+=1 qua c)1[ Bb] G[ E] db[ Bb] F[ Db]
+d194 1
+a194 1
+il0.4    35
+d196 1
+a196 1
+=2 qua f#[ g#] a#[ b] B[ f#'] d'[ G#]
+d203 2
+a204 2
+=2' bass   qua F#[ Fn] c[ d] eb[ d] cro d
+=2, cro B_ F qua F[ F#] G#[ A]
+d206 1
+a206 1
+=1' qua <B_r[ B> <C] Ab> c[ B] cro <Ab Bx> qua F#r[ Fn]
+d243 1
+a243 1
+il0.4    45
+d248 1
+a248 1
+=2 qua <C c[> Db' <C c> Db'] cro <C c> qua db'[ <Eb eb'> gb']
+d262 1
+a262 1
+=1 qua c)1[ Bb] G[ E] db[ Bb] F[ Db]
+d273 1
+a273 1
+=2 qua A[ d#'] c#[ f#'] e[ a] cro g
+d276 1
+a276 1
+=2 qua f#[ g#] a#[ b](1 b)1[ f#'] d'[ G#]
+d283 2
+a284 2
+=2' bass   qua F#[ Fn] c[ d] eb[ d] cro d
+=2, cro B_ F qua F[ F#] G#[ A]
+d286 1
+a286 1
+=1' qua <B_r[ B> <C] Ab> c[ B] cro <Ab Bx> <d(1 B>
+d309 1
+@
+
+
+1.2
+log
+@added extra page, fixed the 3vc bit
+@
+text
+@d7 1
+a7 1
+3 bars |9|9|
+d13 2
+a14 2
+=1 cro c~ qua g# a[ c~ b f] cro f# qua B c[ e d# F#,] G[ B' A# c#'] dn'[ F# G Db]
+=2 cro c~ qua g# a[ c~ b f] cro f# qua B c[ e' d#' F#'] G[ B' A# c#'] dn'[ F# G Db]
+d23 4
+a26 4
+=1' qua C[ Db C Db] cro C Eb qua C[ Db] cro C qua En[ F# A Bb' c']
+=1, cro blank qua E_b[ E_n G_b B_b] C[ Db] E_b[ E_n G_b B_b] Db[ C Db] cro C
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] blank min. blank cro Gb
+=2, qua C[ Db C Db] cro C qua C[ Db C Db] cro C qua Db[ C Db] cro Eb
+d30 1
+d36 2
+a37 2
+=1' cro bb qua d~b[ c~] cro bb ab qua gb[ ab]
+=1, qua g[ ab] cro f qua g[ db] c[ dn] cro eb
+d45 2
+a46 2
+=2' bass   cro eb blank qua e~b[ bb] c~[ g]
+=2, cro A f#(2 f#)2 blank
+d48 1
+a48 1
+=1 cro f# A eb min c
+d56 1
+d62 1
+a62 1
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro <Gr eb>
+d64 1
+a64 1
+=2  qua A[ G#] F[ F#] Eb[ D] B_[ A_](2
+d67 2
+a68 2
+=1 cro c)1 Bb db F(2
+=2 qua A_)2[ B_b] C[ Db] Eb[ F] G[ Ab]
+d71 1
+a71 1
+5 systems /19-35-19/19-35-19/19-35-19/19-40-19 12/19-40-19 25/
+d78 1
+a78 1
+=1 treble cro F)2 G eb c
+d85 1
+d89 1
+a89 1
+3 bars | 3.5 | 4 | .7 1 .8 .8 |
+d97 2
+a98 2
+=1' qua <B_r[ B> <C] Ab> c[ B] cro <Ab Bx> qua F#r[ Fn]
+=1, cro F <F Ab> qua Eb[ D] cro <D B>
+d100 1
+a100 1
+=2, qua B[ c] d[ eb] f[ gb] g#[ a]
+d113 1
+d133 4
+a136 4
+=1' qua C[ Db C Db] cro C Eb qua C[ Db] cro C qua En[ F# A Bb' c']
+=1, cro blank qua E_b[ E_n G_b B_b] C[ Db] E_b[ E_n G_b B_b] Db[ C Db] cro C
+=2' qua Gb[ Bb] cro. blank qua En[ Gb Bb] blank min. blank cro Gb
+=2, qua C[ Db C Db] cro C qua C[ Db C Db] cro C qua Db[ C Db] cro Eb
+d140 1
+d146 2
+a147 2
+=1' cro bb qua d~b[ c~] cro bb ab qua gb[ ab]
+=1, qua g[ ab] cro f qua g[ db] c[ dn] cro eb
+d151 1
+a151 1
+5 systems /19-35-19/19-35-19/19-35-19/19-40-19/19-40-19 25/
+d160 2
+a161 2
+=2' bass   cro eb blank qua e~b[ bb] c~[ g]
+=2, cro A f#(2 f#)2 blank
+d171 1
+d177 1
+a177 1
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro <Gr eb>
+d179 1
+a179 1
+=2  qua A[ G#] F[ F#] Eb[ D] B_[ A_](2
+d182 2
+a183 2
+=1 cro c)1 Bb db F(2
+=2 qua A_)2[ B_b] C[ Db] Eb[ F] G[ Ab]
+d187 1
+a187 1
+=1 treble cro F)2 G eb c
+d194 1
+d198 1
+a198 1
+3 bars | 3.5 | 4 | .7 1 .8 .8 |
+d212 1
+a212 1
+=1 cro d qua c#[ B,] A#[ G#] A#[ B']
+d215 1
+a215 1
+4 bars | 4 | 3 | 5 | 3 |
+d217 2
+a218 2
+=1 treble qua c#[ d] cro e qua d[ Bb,] A[ Bb']
+=2 bass cro blank min. <fn ab bbr d~>
+d220 1
+d235 1
+a235 1
+4 bars | 5 | 5 | 3 | 4 |
+d243 1
+d257 1
+a257 1
+=1' qua Ar[ G#] cro <A d#> qua eb[ d] cro <Gr eb>
+d259 1
+a259 1
+=2  qua A[ G#] F[ F#] Eb[ D] B_[ A_](2
+d262 2
+a263 2
+=1 cro c)1 Bb db F(2
+=2 qua A_)2[ B_b] C[ Db] Eb[ F] G[ Ab]
+d267 2
+a268 1
+=1 treble cro F)2 G eb c
+d273 1
+a273 1
+=2 cro A c# e g
+d276 1
+a276 1
+=2 qua f#[ g#] a#[ b] B[ f#'] d'[ G#]
+d286 2
+a287 2
+=1' qua <B_r[ B> <C] Ab> c[ B] cro <Ab Bx> qua F#r[ Fn]
+=1, cro F <F Ab> qua Eb[ D] cro <D B>
+d289 21
+a309 1
+=2, qua B[ c] d[ eb] f[ gb] g#[ a]
+@
+
+
+1.1
+log
+@first 3 pages
+@
+text
+@d64 1
+d66 1
+a66 1
+=2 qua A_)2[ B_b] C[ Db] Eb[ F] G[ g'](1
+d69 1
+a69 1
+5 systems /19-35-19/19-35-19/19-35-19/19-40-19/19-40-19 25/
+d74 1
+a74 1
+4 bars | 4 | 4 | 4 | 4 |
+d76 2
+a77 2
+=1 treble cro F)2 G eb c(1
+=2 bass   qua g)1[ f] eb[ db] c[ Bb] cro A(2
+d79 3
+a81 7
+=1 cro c)1 Bb c g
+=2 qua A)2[ Bb] c[ Bb] A[ G] F[ Eb]
+|
+il0.5       w31
+=1' min. a
+=1, cro <d f> c eb G(2
+=2  qua B_[ C] D[ Eb] F[ G] cro A(2
+d83 2
+a84 2
+=1 cro G)2 A F D
+=2 qua A)2[ G] F[ Eb] D[ C] cro B_
+d88 1
+d123 1
+d175 1
+d177 1
+a177 1
+=2 qua A_)2[ B_b] C[ Db] Eb[ F] G[ g'](1
+d179 1
+a179 1
+4 bars | 4 | 4 | 4 | 4 |
+d181 2
+a182 2
+=1 treble cro F)2 G eb c(1
+=2 bass   qua g)1[ f] eb[ db] c[ Bb] cro A(2
+d184 3
+a186 2
+=1 cro c)1 Bb c g
+=2 qua A)2[ Bb] c[ Bb] A[ G] F[ Eb]
+d188 2
+a189 7
+il0.5       w31
+=1' min. a
+=1, cro <d f> c eb G(2
+=2  qua B_[ C] D[ Eb] F[ G] cro A(2
+|
+=1 cro G)2 A F D
+=2 qua A)2[ G] F[ Eb] D[ C] cro B_
+d193 1
+d204 51
+a254 3
+=1' cro d qua c#[ B] c#[ d] e[ f]
+=1  smb <F A>
+=2  smb <b d~>
+d256 4
+a259 1
+4 bars | 4 | 4 | 4 | 4 |
+d261 3
+a263 4
+=1' treble cro e qua d#[ c#] d#[ e] f#[ g]
+=1 smb <E G>
+=2 bass smb br
+=2 smb c~#
+d265 4
+a268 3
+=1' cro f# qua fn[ eb] f[ f#] g#[ a]
+=1 smb <D# F#>
+=2 smb <a c~#>
+d270 5
+a274 3
+=1' cro. b qua a# g#[ gn] f[ eb]
+=1 smb <F Ab>
+=2 smb <b d~#>
+d276 4
+a279 2
+=1' qua d[ c# B A] F[ E D C#]
+=2 smb rest
+@

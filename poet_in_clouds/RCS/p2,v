@@ -1,0 +1,74 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	95.08.04.12.53.06;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	95.07.31.10.58.19;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@page 2 - the poem itself
+@
+
+
+1.2
+log
+@Odysee to Odyssee
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 1.7i
+.ce 100
+\f3\s+9Fancy in Nubibus\s-9\fP
+.sp 0.6i
+\f3\s+1Or, The Poet in the Clouds\s-1\fP
+.sp 1.0i
+.ce 0
+.DS B
+O ! it is pleasant, with a heart at ease
+\ \ \ Just after sunset, or by moonlight skies,
+To make the shifting clouds be what you please,
+\ \ \ Or let the easily persuaded eyes
+Own each quaint likeness issuing from the mould
+\ \ \ Of a friend's fancy; or with head bent low
+And cheek aslant see rivers flow of gold
+\ \ \ 'Twixt crimson banks; and then, a traveller, go
+From mount to mount through Cloudland, gorgeous land !
+.sp 0.3i
+\ \ \ Or list'ning to the tide, with closed sight,
+Be that blind bard, who on the Chian strand
+\ \ \ By those deep sounds possessed with inward light,
+Beheld the Iliad and the Odyssee
+\ \ \ Rise to the swelling of the voiceful sea.
+.DE
+.sp 1.1i
+.ce 1
+\f2\s+5Samuel Taylor Coleridge\s0\fP
+@
+
+
+1.1
+log
+@Coleridge underneath poem
+@
+text
+@d28 1
+a28 1
+Beheld the Iliad and the Odysee
+@

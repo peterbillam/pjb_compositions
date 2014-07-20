@@ -1,0 +1,4152 @@
+head     1.16;
+branch   ;
+access   ;
+symbols  ;
+locks    peter:1.16;
+comment  @# @;
+
+
+1.16
+date     94.12.04.13.38.12;  author peter;  state Exp;
+branches ;
+next     1.15;
+
+1.15
+date     94.12.04.12.40.30;  author peter;  state Exp;
+branches ;
+next     1.14;
+
+1.14
+date     94.12.04.12.18.04;  author peter;  state Exp;
+branches ;
+next     1.13;
+
+1.13
+date     94.12.04.12.16.35;  author peter;  state Exp;
+branches ;
+next     1.12;
+
+1.12
+date     94.12.03.17.02.29;  author peter;  state Exp;
+branches ;
+next     1.11;
+
+1.11
+date     94.12.03.16.38.25;  author peter;  state Exp;
+branches ;
+next     1.10;
+
+1.10
+date     94.12.03.16.34.06;  author peter;  state Exp;
+branches ;
+next     1.9;
+
+1.9
+date     94.12.02.12.01.53;  author peter;  state Exp;
+branches ;
+next     1.8;
+
+1.8
+date     94.12.02.11.13.39;  author peter;  state Exp;
+branches ;
+next     1.7;
+
+1.7
+date     94.12.01.12.58.25;  author peter;  state Exp;
+branches ;
+next     1.6;
+
+1.6
+date     94.11.28.23.14.10;  author peter;  state Exp;
+branches ;
+next     1.5;
+
+1.5
+date     94.11.28.13.40.39;  author peter;  state Exp;
+branches ;
+next     1.4;
+
+1.4
+date     94.11.25.12.27.43;  author peter;  state Exp;
+branches ;
+next     1.3;
+
+1.3
+date     94.11.25.12.23.06;  author peter;  state Exp;
+branches ;
+next     1.2;
+
+1.2
+date     94.11.25.10.53.02;  author peter;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     94.11.24.14.21.15;  author peter;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@reduction of Trombone Quintet for two pianos
+@
+
+
+1.16
+log
+@no ..loc in 146
+@
+text
+@* page 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+/
+3 bars | 3 | 2 | 3 |
+| 1
+bl1.0 Peter Billam - Trombone Quintet
+i0.4 8va . . .
+=1 treble 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+i0.8      f
+=2 bass 3/4 min. rest
+=3 treble 3/4 smb rest
+=4 bass 3/4 smb rest
+| 2
+=1 2/4 min rest
+=2 2/4 min a
+=3 2/4 qua. rest smq A qua G smq A G
+i0.8                     f
+=4 2/4 min rest
+| 3
+=1 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+=2 3/4 min. rest
+=3 3/4 qua A smq G A qua A smq G A qua A smq B A
+=4 3/4 min. rest
+/
+3 bars | 4 | 3 | 2 |
+| 4
+i0.4 8va . . .
+=1 treble 4/4 smb rest
+=2 bass 4/4 min A A
+=3 treble 4/4 smq A B A B B A qua B smq B A qua B smq B A qua B
+=4 bass 4/4 smb rest
+| 5
+il0.3 5
+=1 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+=2 3/4 min. rest
+=3 3/4 smq A B qua A smq B qua. A smq B qua. A
+i0.2 mf
+=4 3/4 cro rest e e
+| 6
+=1 2/4 min rest
+=2 2/4 min a
+=3 2/4 smq G qua A smq G smq A qua G smq A
+=4 2/4 qua rest cro. e
+/
+2 bars | 3 | 4 |
+| 7
+i0.4 8va . . .
+=1 treble 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+=2 bass 3/4 min. rest
+=3 treble 3/4 qua. G smq B qua. A, smq c# qua A, smq c# B
+=4 bass 3/4 cro e e e
+| 8
+=1 4/4 smb rest
+i0.8  mp  cresc . . .
+=2 4/4 (smb A A_ qua. rest) smq b  e~ g qua b  smq e~ g b f#  f# b e~ f#
+=3 4/4 qua c# smq A, c# qua c# smq B c# qua c# smq e c# c# f# e f#
+=4 4/4 min. A_ cro A
+* page 2
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+/
+2 bars | 4 | 3 |
+| 9
+i0.4 8va . . .
+=1 treble min. rest cro B
+=2 bass (smb A_ qua e~) smq a~ b e~ qua a~ smq b min e~
+=3 treble smq f# c# qua f# smq f# e qua f# smq f# c# qua e smq c# f# qua c#
+=4 bass smb A_
+| 10
+il0.3 10
+=1 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+i      f
+=2 3/4 min. rest
+=3 3/4 smq e qua. c# smq f# qua. c# smq A qua B smq A
+=4 3/4 cro. e cro e qua e
+/
+3 bars | 43 | 61 | 79 |
+| 11
+i0.4  8va . . .
+=1 treble 2/4 min rest
+=2 bass 2/4 min a
+=3 treble 2/4 smq c# qua B smq c# qua. A smq B
+=4 bass 2/4 qua g a b c~#
+| 12
+=1 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+=2 3/4 min. rest
+=3 3/4 qua. A smq d' qua A smq B A qua d smq A, d
+=4 3/4 qua g f# cro g b
+| 13
+=1 4/4 qua G smq A B B G A B B G A B qua F# smq A B
+=2 4/4 smb A
+=3 4/4 qua d smq B d qua d smq e d d e d e e d qua e
+=4 4/4 min. A cro a
+/
+3 bars | 3 | 2 | 3 |
+| 14
+i0.4 8va . . .
+=1 treble 3/4 smq a qua A, smq a A_ qua. rest smq a qua A, smq a
+=2 treble 3/4 qua F# smq A B F# qua A smq B qua E smq A B
+=3 treble 3/4 smq e d qua e e smq d e B e qua d
+=4 bass 3/4 qua rest cro e cro. e
+| 15
+il0.8 15
+i0.3  loc
+=1 2/4 smq E, qua A, smq c# qua E, smq A, c#
+=2 2/4 min A_
+=3 2/4 smq e qua. d smq e qua. A,
+=4 2/4 cro. a qua e
+| 16
+i0.3 8va
+=1 3/4 smq a qua A, smq a qua A_ rest smq a qua A, smq a
+=2 3/4 qua E smq A d' qua E smq A d' E qua A smq d'
+=3 3/4 smq E qua A smq E D qua E smq G qua. E smq D
+=4 3/4 qua e cro e cro. e
+* page 3
+3 systems / 22-28-22 46 22-28-22 / 22-28-22 46 22-28-22 / 22-28-22 51 22-28-22 /
+/
+3 bars | 1 | 1 | 1 |
+| 17
+i0.3 . . . loc
+=1 treble 15/16 qua rest smq A, d E, qua A, smq d E, A, qua d smq E, A, d
+i    f
+=2 bass 15/16 min. (D_ D A)
+i0.8                   con Pedale
+=3 treble 15/16 qua (C c') qua. (C c') qua (C c') qua. (C c') qua (B_ B) qua. (B_ B)
+i0.2   f    legato    cresc ...
+=4 bass 15/16 min. D
+| 18
+=1 qua A smq d' E B qua d smq E, B d qua F, smq B d f
+=2 min. (D d' a')
+=3 qua (A_ A) qua. (A_ A) qua. (A_ A) qua rest smq rest cro (G_ G)
+=4 smb rest
+| 19
+=1 qua g smq A, d g qua c smq d g B qua d smq f G, d
+=2 min. ( G, g d~ )
+=3 min (F_ F) cro. D smq rest
+i0.2                        p   cresc . . .
+=4 min G_ cro A_ qua D smq C
+/
+2 bars | 1 | 1 |
+| 20
+il0.4 20
+=1 treble qua c smq g A, c qua g smq Bb c g qua Bb smq eb g c
+=2 bass min. ( F, f c~ )
+=3 treble (min G qua Eb eb') qua. (Eb eb') qua (D d') qua. (D d') qua (C c') qua. (C c')
+i0.7         f    dim . . .
+=4 bass smq F qua G cro Bb min (G a')
+| 21
+=1 qua g smq c eb g qua c smq eb g db qua en smq g db E,
+=2 min ( F F_ ) qua ( F F_ ) rest qua. rest
+i0.2  tr . .    cresc . .
+=3 qua (Bb_ Bb') qua. (Bb_ Bb') min (A_ A) qua rest
+=4 min c cro Bb qua A smq G
+/
+3 bars | 1 | 1 | 1 |
+| 22
+=1 treble min (C# E G B) qua rest smq rest (A_, G,) rest rest (A_, G,)
+i0.2      ff
+=2 bass min (A_ A' e') qua rest smq (A e') rest (A e') (A e') smq. rest
+=3 treble qua (G, g) smq c# e A, c# (F#, f#) e A, c# qua (E, e) smq F#, A c#
+=4 bass smq E qua D cro A min g
+| 23
+=1 smb (C# E B smq. rest) smq (A_, G,) rest rest (A_, G,) qua rest qua. rest qua A_ qua. A_
+=2 smb (A_ smq A e') smq rest (A e') (A e') rest qua rest qua. rest qua rest d smq B
+=3 qua (D#, d#) smq c# F#, B qua (C#, c#) smq C#, F#, B qua c# smq A, B, e
+=4 min a cro a qua d smq B
+| 24
+i0.1    tr . . . 
+=1 min. A_
+i0.1       ff
+=2 smq A qua G cro E min D
+=3 qua (B, b) smq e a b qua (A, a) smq e (G, g) B qua (D d') smq F A B'
+i0.7     f
+=4 smq A qua G cro E min D
+* page 4
+3 systems / 22-28-22 66 22-28-22 / 22-28-22 46 22-28-22 / 22-28-22 36 22-28-22 /
+/
+3 bars | 1 | 1 | 1 |
+| 25
+il0.7 25
+=1 treble (min. B_ D F A qua rest) qua. rest  qua ab qua. ab  smq ab qua g smq d g
+i0.3      ff
+=2 bass min. (G_ G d)
+i0.4       Ped_
+=3 treble qua (f d~) smq a c~ f d B d d B d B d d B
+=4 bass min G_ cro G qua d smq A
+| 26
+=1 qua. f smq rest smq d  qua f qua. A  qua A qua. A
+=2 min. (G_ G)
+=3 qua d' smq A d' A_ qua D smq C d' c' qua d' smq C D C
+=4 min G cro f qua g smq a
+| 27
+=1 qua rest qua. A  qua Bb qua. Bb  smq A F G qua E
+=2 min. (G_ G)
+=3 min. D
+=4 min g cro f qua c smq A
+/
+3 bars | 1 | 1 | 1 |
+| 28
+i0.2          tr . . .
+=1 treble min. F
+=2 bass min. (G_ G)
+i0.2                  . . . loc
+=3 treble qua (D, d) qua. (D, d,) qua. (C, c,) qua (B_ B') qua (B_ B') qua. (A_ A)
+i0.8       f
+=4 bass min smq G qua F cro D min F
+| 29
+i0.1    tr . . .
+=1 min. F_
+=2 min. (G_ G d)
+i0.1    cresc . . .
+=3 qua (F f') qua. (F f') qua. (E e') qua (D d') qua (C# c#') qua. (C# c#')
+i0.1    tr . . .
+=4 min (G_ a) cro F qua E smq C#
+| 30
+il0.5 30
+i0.05    tr . . .
+=1 min. G_
+i0.01  ff
+=2 qua rest qua. rest qua rest qua. rest qua A qua. A
+i0.3             ff
+=3 qua. rest qua (A a') qua. (A  a') qua (B,  b) qua. (c#, c~#) qua (E e')
+i0.1    tr . . .
+=3 min. E,
+=4 min G_ cro F qua C# smq E
+/
+2 bars | 1.3 1.3 1.1 | 5 |
+| 31
+i0.1          tr . . .
+=1 treble qua B_ qua. B_ smq B_ C# E G B qua (b b~) qua. (b b~)
+=2 bass qua rest qua. rest qua A qua. A qua A qua. A
+i0.9                 ff      dim . .
+=3 treble min. (G, g) qua.  rest
+=4 bass min. (A e')
+i0.1      ff   dim . . .
+| 32
+=1 3/4 smq [ (c# e) (C#, E,) (c# e) (c# e) ] (C#, E,) (c# e) (C#, E,) (c# e) []
+i    p
+=2 3/4 smb rest
+r                       6
+=3 3/4 smq F# G# A B A G#  F# A G# B Gn B  G Bb G Bb F# Ab
+i0.5   pp
+=4 3/4 qua A rest min rest
+i0.1 . . . p
+* page 5
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+/
+2 bars | 3 | 2 |
+| 33
+=1 treble smq (A_ E) [ (A e') (A_ E) (A e') ] [] (A_ E) (A e') []
+=2 bass smb rest
+r0.8         *P
+=3 treble qua F# smq rest B qua F# smq G, B, d g f# g  g e g B d c
+=4 bass smb rest
+| 34
+=1 2/4 smq (c e) (C, E,) (c e) (C, E,) (c e) (c e) (C, E,) (c e)
+=2 2/4 min rest
+=3 2/4 qua g smq f# qua. g smq rest f# g bb a f#
+/
+2 bars | 3 | 2 |
+| 35
+il0.7 35
+=1 treble 3/4 smq [ (B, e,) (B_, E,) ] [] (B, e,) [] [] (B, e,) []
+=2 bass 3/4 min. rest
+=3 treble 3/4 qua g smq rest f# qua g smq c# d c# qua g smq f#  qua c# smq e g a g
+=4 bass 3/4 min c~# cro rest
+| 36
+=1 2/4 smq (e g) (e g) (E, G,) (e g) (E, G,) (e g) (e g) (E, G,)
+=2 2/4 min rest
+=3 2/4 qua b smq g d B c qua g smq c d qua g
+=4 2/4 min a
+i0.2   p
+/
+2 bars | 1 | 1 |
+| 37
+=1 treble 3/4 smq [(A, f) (A_, F,) (A, f) (A, f)] (A_, F,) (A, f) (A, f) (A_, F,) []
+=2 bass 3/4 min. rest
+=3 treble 3/4 qua d smq c d qua c  smq eb c qua g smq c eb  qua c smq d c qua d
+=4 bass 3/4 min g cro rest
+| 38
+=1 smq (B_b, D,) (Bb, d) [(Bb, d) (B_b, D,)] [] (Bb, d) [] [] (Bb, d)
+=2 min. rest
+=3 qua e smq g e qua g  smq f g qua f smq ab f  qua. ab smq g qua f
+=4 cro rest qua rest cro. f
+* page 6
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+/
+2 bars | 2 | 2 |
+| 39
+=1 treble 2/4 smq [(G#, e) (G_#, E,)] (G#, e) [] [] (G#, e)
+=2 bass 2/4 min rest
+=3 treble 2/4 qua c~# smq b qua a# smq rest  a# qua b qua. c#
+=4 bass 2/4 min f#
+| 40
+il0.9 40
+=1 smq [(c# e) (E_, C#,)] (c# e) [] [] (c# e)
+=2 min rest
+=3 qua a smq g# qua. f#  smq gn b g a# g# a#
+=4 min rest
+/
+2 bars | 1.4 | 1 |
+| 41
+=1 treble 3/4 smq [(c# g#) (G_#, C#,)] [] (c# g#) [] (c# g#) [(c# fn) (F_n, C#,)] []
+=2 bass 3/4 min. rest
+i0.15          8va . . .
+=3 treble 3/4 smq F#, A#, F#, qua d# smq c# qua B smq A#, B, fn d# G#, B, G#, qua Bb, smq Gn,
+=4 bass 3/4 cro rest min d#
+| 42
+=1 2/4 smq [(c#' e')] [] (E_ C#) [] (E_ C#) [] [] (E_ C#)
+=2 2/4 min rest
+=3 2/4 qua Bb, smq G, Bb, G, db  A, F#, A, Bn, qua e
+=4 2/4 min c#
+/
+2 bars | 3 | 2 |
+| 43
+=1 treble 3/4 smq [(c#' f#')] [] (F_# C#) [] (F_# C#) [] [] (F_# C#) [(c# g#)] (G_#, C#,) [] []
+=2 bass 3/4 min. rest
+i0.3  8va . .
+=3 treble 3/4 qua. A# smq B qua D# E smq A qua. G# qua F# smq Fn qua. Bb
+=4 bass 3/4 min rest cro e~b
+| 44
+=1 2/4 smq (A_b, C,) [(c ab)] [] (A_b, C,) [] (A_b, C,) [] []
+=2 2/4 min rest
+=3 2/4 qua f smq eb f eb d  eb Gb, eb f d F,
+=4 2/4 cro. bb qua rest
+* page 7
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+/
+2 bars | 3 | 2 |
+| 45
+il0.7 45
+=1 treble 3/4 smq (G_, Eb,) [(eb g)] [] (G_, Eb,) [] (G_, Eb,) [] [] (A_, C#,) (c# a) (c# a) (A_, C#,)
+=2 bass 3/4 min. rest
+i0.3  8va . .
+=3 treble 3/4 smq f db qua f smq db Bb  f A, qua f smq A, c  eb F#, eb Bn f a
+=4 bass 3/4 min f cro B
+| 46
+=1 2/4 smq [(c# e c~#)] (E_, C#, E,) [] [] (E_ A_ E) [(A' e' a')] (E_ A_ E) []
+=2 2/4 min rest
+=3 2/4 qua bb smq ab g bb ab  qua. g smq a d e
+=4 2/4 min rest
+/
+2 bars | 3 | 2 |
+| 47
+=1 treble 3/4 smq (cn e c~n) (E_, Cn, E,) [(c e c~)] [] [(E_, B_, E,)] (B, e b) [] (B, e b) (A, e a) [(E_, A_, E,)] (A, e a) []
+=2 bass 3/4 min. rest
+=3 treble 3/4 qua f# smq g A, Bb, f#  qua. g smq c# d c#  qua f# qua. Bn smq cn
+=4 bass 3/4 min. d
+| 48
+=1 smq [(A, f a)] [] (F_, A_, F,) []  [(Bb, d bb) (D_, B_b, D,)] [] [(G#, e g#)] [] (E_, G_#, E,) []
+=2 min. rest
+=3 qua. d qua c smq d qua. c smq rest d c cro d qua c#
+=4 min G cro rest
+/
+3 bars | 1 | 1 | 1 |
+| 49
+=1 treble 9/16 (min c# c~# qua rest) qua e qua. f qua e
+i0.8          f
+=2 bass 9/16 min (e c~# e~)
+r0.8        *P_
+i0.3   8va . .
+=3 treble 9/16 min B smq rest
+=4 bass 9/16 qua G smq G G qua G smq G G G
+i0.2          pp    una corda
+| 50
+il0.3         50
+=1 (min e a a~ qua rest) qua. rest cro (E, cn e)
+=2 min a~
+=3 min rest smq rest
+=4 qua G smq G G G qua G smq G G
+=4 qua G_ smq D C A_ qua. G_ smq A_
+| 51
+=1 cro [(E, c e)] smq [] cro (E, Bb e)
+i0.2                               f
+=2 cro rest smq rest cro rest
+i0.3 . . loc
+=3 min rest smq rest
+=4 cro d' smq d' qua d' smq d' d'
+=4 cro D smq A qua G smq F D
+* page 8
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+/
+3 bars | 1 | 1 | 1 |
+| 52
+=1 treble cro Bb qua A qua. Ab
+=2 bass min rest smq rest
+=3 bass qua. d smq d qua f smq f f f
+=4 bass qua. D smq E qua F smq F D F
+| 53
+=1 5/8 min (G, g) qua (G, g)
+=2 5/8 (min Bb bb' cro rest) qua d G smq d G
+=3 5/8 min g qua g
+i0.8   pp
+=4 5/8 cro G qua d G smq d G
+=4 5/8 cro G qua d cro G
+| 54
+=1 cro (G, g) cro. (D F Bb)
+=2 qua d qua. G smq G qua d smq G d
+=3 min rest qua rest
+=4 qua d' G smq rest G qua d smq G d
+/
+3 bars | 1 | 1 | 1 |
+| 55
+il0.4 55
+=1 treble min rest qua rest
+=2 bass qua G qua. d smq d qua. G smq G
+=3 treble min (D_ D) qua rest
+=4 bass qua G qua. d smq d qua. G smq G
+| 56
+=1 min rest qua rest
+=2 qua f smq g a c~ a d~ c~ c~ bb
+=3 qua B_ smq C A_ qua D B_ smq Eb D
+=4 qua f' smq G f' qua G f' smq G f'
+i0.2   tre corde    cresc . .
+| 57
+=1 min G qua G
+i           cresc . . .
+=2 min (B_b Eb) qua (B_b Eb)
+=3 qua Db cro B_b cro rest
+=4 qua G qua. f' smq f' qua G smq f' G
+/
+3 bars | 1 | 1 | 1 |
+| 58
+=1 treble min Bb qua Bb
+=2 bass min (F' f' c~') qua (F' f' c~')
+=3 treble qua. A_b smq A_b qua C B_b smq C A_b
+=4 bass qua. f smq f qua d f smq d f
+| 59
+=1 min (F, c c~) qua (c c~)
+i0.8  f
+i0.1             mp
+=2 qua. rest smq d qua f qua. d smq d
+=3 qua. C smq C qua B_b qua. F smq E
+i0.3  . . . mp
+=4 qua d smq rest d qua f qua. d smq d
+| 60
+il0.5 60
+=1 min (B b) qua (A, c a)
+=2 qua f d smq f d qua. f smq d
+=3 min D qua rest
+=4 qua f d smq f d qua. f smq d
+* page 9
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 46 22-28-22 / 22-36-22 46 22-28-22 /
+/
+3 bars | 1 | 1 | 1 |
+| 61
+=1 treble min (C A' c') qua (B_ B)
+i      f
+=2 bass qua G qua. f' smq f' qua G smq f' G
+=3 treble min rest qua rest
+=4 bass qua G qua. f' smq f' qua G smq f' G
+| 62
+=1 min (B_b Bb) qua (A_b Ab)
+=2 qua. f smq f qua d f smq d f
+=3 min rest qua rest
+=4 qua. f smq f qua d f smq d f
+| 63
+=1 min (A, d d~) qua (A, d d~)
+=2 min (g g~) qua (g g~)
+=3 cro rest qua A qua. B smq c
+=4 qua. (G d') smq d qua f qua. d smq d
+/
+3 bars | 1 | 1 | 1 |
+| 64
+=1 treble min rest qua rest
+=2 bass min (B_b F Bb) qua (B_b Bb)
+i0.4                                       8vab_  _|
+=3 treble qua G Ab smq G F qua. Ab smq G
+=4 bass qua f d smq f d qua. f smq (d' G)
+| 65
+il0.5 65
+=1 min (G_ D) qua (G_ D)
+=2 min (C_ C) qua (C_ C)
+=3 qua. f smq e cro Bb qua rest
+=4 qua. (G C) smq G qua d G smq d G
+| 66
+=1 min (A, a) qua (A, a)
+=2 (min d f a d~ cro. rest) qua. d smq f
+=3 qua rest qua. c smq A qua. B smq A
+=4 qua (G d') qua. G smq (G g') qua d smq c d
+/
+3 bars | 1 | 1 | 1 |
+| 67
+=1 treble min (c ab c~) qua (c ab c~)
+=2 bass (min ab c~ a~b qua rest) cro f qua d smq f d
+=3 treble min A_b qua rest
+=4 bass qua d qua. f smq f qua d smq f d
+| 68
+=1 min (G, c g) qua (G, c g)
+=2 ( min g c~ qua. f ) smq d qua G d smq G d
+=3 qua. Bb smq c qua A Bb smq A c
+=4 qua. f smq d qua G d smq G d
+| 69
+=1 qua rest qua. (f f~) smq (c c~) qua. (d d~) smq (G, g)
+i0.2  f . . .
+=2 min (C_ C) qua (D_ D)
+=3 qua Bb qua. f smq c qua. f smq G,
+i0.3  f . . .
+=4 qua G qua. d smq d qua G smq D G
+* page 10
+3 systems / 22-28-22 41 22-28-22 / 22-28-22 41 22-28-22 / 22-28-22 36 22-36-22 /
+/
+2 bars | 5 | 6 |
+| 70
+il0.3 70
+=1 treble qua. (c c~) smq (F, f) qua. (Bb bb) (A, a)
+=2 bass min (E_b Eb) qua (F_ F)
+=3 treble min (Bb_ F_) qua rest
+=4 bass qua Eb smq G f' qua G qua f smq F f
+| 71
+=1 6/8 qua (D, d) smq c A, qua (F, f) smq A, d qua. (F, f) smq f
+=2 6/8 cro. (G_ G) smq rest cro (G_ G) smq (G_ G)
+=3 6/8 qua D smq C B_ qua F smq A_ D qua F smq rest F
+=4 6/8 qua G smq d f' qua d' smq f' G qua. d smq G
+/
+2 bars | 1 | 1 |
+| 72
+=1 treble qua (G, g) smq a g qua d smq f g qua. (B b) smq (G, g)
+i0.8                                            cresc . . .            ff
+=2 bass qua. (G_ G) (G_ G) qua (G_ G) cro (G_ G)
+=3 treble qua G smq A G qua D smq F G qua. B smq G
+i0.8                                            cresc . . .            f
+=4 bass qua d' smq f' G qua f' smq G d qua. G smq d
+i0.2                                            cresc . . .            ff
+| 73
+=1 cro. (A, a) rest
+=2 qua (G_ G) smq G d qua G smq f' G qua d smq f' G
+=3 cro. A rest
+=4 qua f' smq G d qua (C G) smq f' (A_ G) d F f' G
+/
+2 bars | 1 | 1 |
+| 74
+=1 treble qua c smq d qua A, smq c qua. f qua d smq Bb
+i0.4    f    cresc . . .
+=2 bass smq d f g qua f smq d qua G smq d f' G d
+=3 treble qua C smq D qua A_ smq C qua. F qua D smq B_b
+=4 bass smq (A d') f' G qua f smq d qua G smq d f' G d
+| 75
+il0.5 75
+=1 smq f d qua c smq d c d f qua bb smq g bb
+=2 smq G f' d' (G f') d G f' d (G f') qua (G f') smq D
+=3 smq F D B_b D B_b G_ qua B_b smq G_ qua G_ smq D_
+=4 smq G f' d (G f') d G f' d (G f') qua (G f') smq (D d)
+* page 11
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+/
+3 bars | 1 | 1 | 1 |
+| 76
+=1 treble 4/4 smb (a c~)
+i          ff      dim . . .                  . . pp
+=2 bass 4/4 smb (G_ G)
+=3 bass 4/4 smb G
+i0.8                dim . . .
+=4 bass 4/4 smb G_
+| 77
+=1 smb c~
+i0.8    mf
+=2 smb (G_ G)
+i0.8                                                       mp
+=3 cro G min. rest
+i0.8      . . pp
+=4 min. G_ cro rest
+i0.2                     . . pp
+| 78
+i0.1   8va . . .
+=1 min rest d
+i0.8                           p
+=2 treble smb ( D A e a e~ )
+=3 smb rest
+i0.2   pp    una corda
+=4 qua G cro G qua G min G
+/
+3 bars | 1 | 1 | 1 |
+| 79
+i    8va . .
+=1 treble min g d
+=2 treble
+=3 treble smb rest
+=4 bass qua G cro G qua G min G
+| 80
+il0.3 80
+=1 cro rest A d A
+=2 smb ( E A d a d~ )
+=3 smb rest
+=4 min G qua G cro G qua G
+i0.2                   dim . . .
+| 81
+=1 cro e A B A
+=2 smb rest
+=3 smb rest
+=4 min G qua G cro G qua G
+/
+2 bars | 1 | 1 |
+| 82
+i0.1              8va . . .
+=1 treble qua rest B, c# B e B d B
+i0.7                  pp
+=2 treble smb ( E B b e~ )
+i0.9         mf     con Pedale ...
+i0.2         tr . . .
+=3 treble smb rest
+=4 bass smb G
+i0.1         ppp
+| 83
+=1 qua a B c# B e B c G,
+=2 smb rest
+=3 smb rest
+i0.4   tre corde
+=4 smb rest
+* page 12
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 56 22-28-22 / 22-28-22 51 22-28-22 /
+/
+2 bars | 1 | 1 |
+| 84
+i      8va . . .
+=1 treble qua rest smq A, G, c, G, Bb, G, d, G, Bb, G, c G, A, G,
+=2 treble smb (D_ Cn G d)
+=3 treble smb rest
+=4 bass min rest qua rest cro e qua f
+| 85
+il0.3 85
+=1 qua g smq f g d g f g c g f g d' G F G
+=2 min (A_ A) qua (A_ A) cro. (B_b Bb)
+=3 smb rest
+=4 min c qua c cro. d
+/
+2 bars | 1 | 1 |
+| 86
+i0.2         8va . . .
+=1 treble smq rest F G F  A F G F  c' F G F  A F G F
+i0.8         p
+=2 treble smb (E_b C Eb c)
+i0.2 8va . .
+=3 treble qua f~ cro f~ qua f~ min f~
+i0.5        p
+=4 bass cro. eb A cro c
+| 87
+=1 smq eb, F, G, F, Bb, F, G, F, c, F, G, F, Bb, F, G, F,
+=2 smb rest
+=3 qua f~ cro f~ qua f~ min f~
+=4 min G qua rest cro. c
+/
+2 bars | 1 | 1 |
+| 88
+i0.2        8va . . .
+=1 treble smq rest c d c f c d c bb c eb c f c eb c
+i0.8          mp
+=2 treble smb (B_b F c f bb)
+i0.2 8va . .
+=3 treble min f~ qua f~ cro f~ qua f~
+=4 bass cro. Ab F cro G
+| 89
+=1 smq f, F, G, F,  Bb, F, G, F,  c, F, Ab, F,  Bb, F, Ab, F,
+=2 smb rest
+=3 smb f~
+=4 min D qua rest cro. Eb
+* page 13
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 55 22-28-22 / 22-28-22 46 22-28-22 /
+/
+2 bars | 1 | 1 |
+| 90
+il0.5 90
+i0.25       loc
+=1 treble smq eb, F, Bb, F,  c, F, Bb, F,  f, F, Bb, F,  c, F, Bb, F,
+i0.15                mf
+=2 bass smb (eb bb e~b)
+i0.2 8va
+=3 treble qua f~ cro f~ qua f~ min f~
+=4 bass min G qua G cro. Ab
+| 91
+=1 smq bb, F, Bb, F,  db, F, Bb, F,  ab, F, Bb, F,  db, F, Bb, F,
+i0.1    cresc . . .
+=2 smb rest
+i0.2                                         . . . loc
+=3 smb f~
+=4 min Db qua Db Bb cro Db
+/
+4 bars | 9 | 11 | 11 | 11 |
+| 92
+=1 treble 10/16 min (B_b, D, G,) qua (B_b, D, G, d' d~')
+i      f
+=2 bass 10/16 min (C_ C) qua (C_ C)
+i0.8      f
+i0.25                *SosPed_
+b0.02                   ,           ,
+=3 treble 10/16 qua. E qua E qua. G qua E
+i0.8        mf                   mp
+=4 bass 10/16 min C qua rest
+| 93
+i0.2   Solo . . .
+=1 qua B_b smq C D E qua C smq D E G
+i0.3   pp
+=2 smb rest
+=3 qua. G qua c' Bb, smq c, qua Bb
+i0.8   dim . . .
+=4 qua. G qua c d smq c qua d
+| 94
+=1 qua C smq D E G qua D, smq E, G, Bb,
+=2 smb rest
+b0.02         ,
+=3 qua G, smq c Bb c  d qua e smq c d
+=4 smq f e cro d smq rest g a e
+| 95
+il0.3 95
+=1 qua C smq D E G qua D, smq E, G, Bb,
+i0.3   cresc . . .
+=2 smb rest
+=3 qua Bb, smq c Bb c qua e smq c qua g
+=4 cro. d smq g d e Bb
+/
+4 bars | 9.2 | 8.3 | 9.5 | 7 |
+| 96
+=1 treble 9/16 qua D, smq F, G, Bb, F, G, Bb, c,
+i0.3                       mp
+=2 bass 9/16
+i0.8                 8va  |
+=3 treble 9/16 qua f f~ qua. g qua c
+=4 bass 9/16 min f smq rest
+| 97
+=1 qua C smq D F G D, F, G, Bb,
+i0.4    p
+=2 smb rest
+i0.8                      8va |
+=3 qua. d qua f f~ Bb
+=4 qua. g qua f d c
+| 98
+=1 smq D F G Bb qua F, smq G, Bb, c
+i   cresc . .
+=2 smb rest
+i0.8          8va |
+=3 qua c f~ qua. d qua G,
+=4 cro. Bb qua. d
+| 99
+=1 7/16 smq D, E, G, Bb, E G c'
+=2 7/16 cro. rest
+=3 7/16 qua. e qua G, Bb,
+=4 7/16 qua Bb e qua. c
+* page 14
+3 systems / 22-28-22 51 22-28-22 / 22-28-22 41 22-28-22 / 22-28-22 41 22-28-22 /
+/
+4 bars | 10 | 11 | 11 | 11 |
+| 100
+il 100
+=1 treble smq E, G, Bb, c G, Bb, d
+i0.1                             mf
+=2 bass
+=3 treble qua. e qua d c
+=4 bass cro G qua. Bb
+| 101
+b0.01    '
+=1 9/16 smq C D F G qua D smq F G A
+i0.1  mp    . . sempre con Pedale di sostenuto . . .
+=2 9/16
+i0.55              8va  |
+=3 9/16 qua a f~ qua. c qua d
+=4 9/16 min F smq rest
+| 102
+=1 qua D smq F G A F G A c'
+i0.7                     cresc . . .
+=2 min rest smq rest
+i0.55           8va  |
+=3 qua a f~ qua. g qua f
+=4 min G smq G
+| 103
+=1 qua D smq F G A F G A c'
+=2 min rest smq rest
+i0.55                               8va  |
+=3 cro d smq c qua e f~
+=4 min A smq A
+/
+4 bars | 1 | 1 | 1 | 1 |
+| 104
+=1 treble smq E G A c' qua G smq A c' d'
+i                        f
+=2 bass
+i0.75              8va  |
+=3 treble qua e cro g~ smq rest A B
+=4 bass min G smq G
+| 105
+il0.5 105
+b0.1  ,
+=1 smq D E G A qua E smq G A c'
+i  mf
+=2 min rest smq rest
+=3 cro e qua. G qua A
+=4 min G smq rest
+| 106
+=1 qua F smq G A c' G, A, c d
+i                 cresc . . .
+=2 min rest smq rest
+=3 qua d smq c qua d smq d c qua d
+=4 qua. G qua g G g
+i0.2                 cresc . . .
+| 107
+=1 7/16 smq E, G, Bb, c, G, Bb, d,
+=2 7/16
+=3 7/16 qua. d smq c qua g smq e
+=4 7/16 cro d qua. c
+i0.2          . . ff
+/
+4 bars | 10 | 3 4 3 | 2.5 3 | 4 4.5 4 |
+| 108
+=1 treble smq G, Bb, c, d, Bb, c, d,
+i                   ff
+=2 bass
+=3 treble qua. Bb smq c qua G, smq d
+=4 bass cro f qua. e
+| 109
+=1 9/16 qua f smq g f d Bb f qua d
+=2 9/16
+=3 9/16 qua g smq f g qua a smq d qua f
+=4 9/16 cro. d qua. c
+| 110
+il0.7 110
+=1 4/16 qua e smq c~ ab
+=2 4/16 qua g ab
+i0.8  . . SosPed__|
+=3 4/16 cro d~
+i0.9           Solo . . .
+=4 4/16 qua G Ab
+i0.3        dim . .
+| 111
+=1 9/16 min ( F, d, ) smq ( F, d, )
+=1 9/16 qua. f' smq f' qua. ab' qua f'
+=2 9/16 min ( ab d~ ) smq ( ab d~ )
+=3 9/16 qua A_b smq B_b B_b C B_b C C D
+i0.8  p
+=4 9/16 cro. B_b qua. Ab
+* page 15
+3 systems / 22-28-22 41 22-28-22 / 22-28-22 41 22-28-22 / 22-28-22 41 22-28-22 /
+/
+3 bars | 1 | 1 | 1 |
+| 112
+=1 treble min ( F, c,) smq rest
+=1 treble cro bb' qua. c' qua d'
+=2 bass min ( ab d~ ) smq rest
+=3 treble smq B_b C C D qua C smq D D F
+=4 bass cro. F qua. Bb
+| 113
+=1 min ( F, Bb, ) smq rest
+=1 qua. c~' smq bb' f' ab' d' f' bb'
+=2 min ( ab d~ ) smq rest
+=3 smq B_b C C D qua C smq D D F
+=4 cro. Ab qua. d
+| 114
+=1 min ( D, c, ) smq ( D, c, )
+=1 qua c~' smq bb' g' f'  d~' c~' bb' g'
+=2 min ( G f' ) smq ( G, f, )
+=3 smq C D D F qua D smq F F G
+=4 cro f smq c cro f
+/
+3 bars | 11 | 11 | 11 |
+| 115
+il1.4 115
+=1 treble min ( D' c' ) smq rest
+=1 treble smq d~' c~' bb' g' qua f~' smq d~' c~' bb'
+i                         cresc . . .
+=2 bass min ( G' f' ) smq rest
+=3 treble qua B_b smq C C D C D D F
+=4 bass cro. c qua. Bb
+| 116
+=1 min ( C, Bb, ) smq rest
+=1 smq d~' c~' bb' ab' qua f~' smq d~' c~' bb'
+=2 min ( Ab f' ) smq rest
+=3 smq C D D F qua D smq F F Ab
+=4 cro. Ab qua. D
+| 117
+=1 min ( C, Bb, d, ) smq rest
+=1 qua f~' smq d~' c~' bb'  g~' f~' qua d~'
+=2 min (F g') smq (F g')
+=3 smq C D D F qua D smq F F G
+=4 cro. F qua. C
+/
+2 bars | 10 | 12 |
+| 118
+=1 treble min (C, Eb, Bb,) smq rest
+=1 treble smq e~b' c~' bb' g' qua f~' smq e~b' c~' bb'
+=2 bass min (G f') smq rest
+=3 treble qua Eb smq F F G F G G Bb
+=4 bass cro Eb qua F qua. F
+| 119
+=1 12/16 min. (B_b, Eb, Bb,)
+=1 12/16 qua f~' smq e~b' c~'  a~b' f~' e~b' c~'  qua f~' smq c~' e~b'
+i  f
+=2 12/16 min ab cro ab
+=3 12/16 smq B_b C C Eb C Eb Eb F C Eb Eb F
+=4 12/16 min A_b cro A_b
+* page 16
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 46 22-28-22 / 22-36-22 36 22-28-22 /
+/
+3 bars | 7 | 9 | 9 |
+| 120
+il0.7 120
+=1 treble 6/16 cro. (B_b, Eb, Bb,)
+=1 treble 6/16 qua g~' smq f~' c~' qua e~b'
+=2 bass 6/16 cro. g
+=3 treble 6/16 smq Eb qua F F smq G
+=4 bass 6/16 cro. G_
+| 121
+=1 9/16 min (B_b' D' F') smq (B_b' D' F')
+=1 9/16 qua a~b' smq f~' d~' c~'  qua b~b' smq a~b' f~'
+=2 9/16 min (B_b ab')  smq (B_b ab')
+=3 9/16 smq C D D F qua D smq F F Ab
+=4 9/16 min B_b smq rest
+| 122
+=1 cro. (B_b' D' F') qua. (B_b' D' F')
+=1 qua d~' smq c~' bb' g'  qua f~' smq d~' c~'
+=2 cro. (B_b g') qua. (B_b ab') 
+=3 smq D F F G qua F smq G G Bb
+=4 cro. G qua. Ab
+/
+2 bars | 15 | 9 |
+| 123
+=1 treble 14/16 smq G_ B_b C D  B_b C E  B_b C D E  C D G
+i0.2      mf                    cresc . . .                            f
+=2 bass 14/16 min. C
+=3 treble 14/16 smq e~ d~ c~ bb qua g~ smq e~ d~ c~ qua e~ smq d~ c~ bb
+=4 bass 14/16 (min G, qua c~) smq d~ d~ e~ qua d~ smq e~ e~ g~ d~  c, Bb, A,
+| 124
+=1 9/16 min (C, E, A,) smq (C, E, A,)
+=1 9/16 smq a' g' e' d' qua c~' smq a' d' e'
+=2 9/16 min g smq g
+=3 9/16 qua E smq G G A D E E G
+=4 9/16 min G smq G
+/
+3 bars | 6 | 9 | 9 |
+| 125
+il0.7 125
+=1 treble 4/16 cro bb
+=2 bass 4/16 cro (g bb c~ e~ g~)
+r0.7             *P_
+=3 treble 4/16 smq D E E G
+=4 bass 4/16 cro D
+| 126
+=1 9/16 min (G_ C F) smq (G_ C F)
+=2 9/16 qua a smq bb bb c~ bb c~ c~ d~
+=3 9/16 smq a g f d qua g smq f d c
+=4 9/16 qua. D cro. f~
+| 127
+=1 cro. (D F) qua. (C F)
+=2 (min g smq bb') smq c~' c~' qua. bb' a'
+=3 qua Bb' smq G F D  G F D C
+i0.8   mp
+=4 min C smq C
+* page 17
+3 systems / 22-28-22 41 22-28-22 / 22-28-22 41 22-28-22 / 22-28-22 41 22-28-22 /
+/
+3 bars | 5 | 7 | 6 |
+| 128
+i0.25                                        >
+=1 treble cro (C E) qua. (C E) qua (C E c')
+=2 bass (min C, cro g' bb') qua. (g')   qua (g' bb')
+=3 treble qua G smq E D C E D qua C
+=4 bass min C smq rest
+| 129
+=1 6/8 cro (E c' e') qua (A_ A') cro. (C F# c')
+=2 6/8 qua F# f#' cro F# qua F# f#'
+=3 6/8 smq C, E, F#, E, F#, A, F#, A, c, E, F#, A,
+=4 6/8 cro. F# qua c e c
+| 130
+il0.3 130
+=1 5/8 qua rest cro. f# smq (B_ B) (B_ B)
+=2 5/8 cro F# qua F# f#' F#
+=3 5/8 min C qua rest
+=3 5/8 smq F# A c' C E qua F# A smq B B_
+=4 5/8 cro F# qua c e c
+/
+4 bars | 5 | 5.5 | 5.5 | 7 |
+| 131
+=1 treble 4/8 qua (E e') smq (B_ B') qua. (D d') qua rest
+=2 bass 4/8 qua F# F# f#' F#
+=3 treble 4/8 smq D E D E qua A E
+=4 bass 4/8 min A
+| 132
+=1 9/16 smq rest e~ qua e smq e~ cro E
+=2 9/16 cro F# smq rest cro rest
+=3 9/16 cro (B_ B) smq rest qua (C c') smq rest (G_ G)
+=4 9/16 min (A a') smq rest
+| 133
+=1 smq e~ qua e smq e~ cro rest smq rest
+=2 cro rest e smq f#
+=3 qua. (C# c#') (G_ G) rest
+=4 cro. (g bb) smq f# e B,
+| 134
+=1 6/8 cro. (e e~)             smq rest d  c# C#, qua c#
+=2 6/8 (min. F# cro rest)  smq d' d~' qua d'  qua. rest smq c#
+=3 6/8 qua. (C c') smq (G_# G#) qua (B_ B') qua rest qua. rest smq (C# c#')
+=4 6/8 qua F# smq G# F# qua G# F# smq B qua. A
+/
+2 bars | 75 | 66 |
+| 135
+il0.4 135
+=1 treble qua G B_, smq (C# c#') (C# c#') qua (E B' e') C#, smq A (C# c#')
+=2 bass (min. c#, cro rest) min a'
+i0.9     cresc . . .
+=3 treble qua (F f') smq G A B A B c#' B, c# e A,
+=4 bass cro. g qua f eb Bb
+| 136
+=1 qua. (G# e') qua (D d') smq (D d') qua (F Ab f') rest smq (B_ B) (D d')
+i0.5            cresc . . .
+=2 cro.  (c~ e~)     (b d~)
+=3 smq c d c d e d f ab c d f d
+=4 cro. E D
+* page 18
+3 systems / 22-28-22 36 22-28-22 / 22-36-22 41 22-28-22 / 22-28-22 36 22-28-22 /
+/
+2 bars | 32 27 27 | 35 35 30 |
+| 137
+=1 treble 9/8 min (A a') qua (D d') smq (B_ B) qua (E e') qua. (B_ G B) qua (C# G# c#')
+=2 bass 9/8 (cro. f b e~b) cro (f d~) qua e cro e qua bb
+=3 treble 9/8 smq f g f g smq3 a A, a smq B d min B qua Bb
+=4 bass 9/8 cro. F cro F qua E cro. E
+| 138
+=1 cro. (Bb, e g) cro (Bb e g) qua (Bb_ Bb') qua. e' qua (Bb_ Bb) smq (D d')
+=2 cro. (bb e~ g~) (bb e~ g~) (e~ g~)
+=3 smq3 E_ E B_b smq Bb E qua e smq3 B_b, Bb, G, smq g Bb qua bb smq3 E, e G, smq g e qua e~
+=4 min Db qua Db min C
+/
+2 bars | 0.8 1.35 1.0 | 0.85 0.75 0.85 |
+| 139
+=1 treble cro. (Ab' d') smq3  D, Ab, D,  Bb, D, Bb,  Ab, Bb, Ab,  d D, d qua (G g') (An a')
+i0.8           f      cresc . .
+* Change the cro d~ to a whiteblob !
+=2 bass (cro. d~ rest) cro d~ min f
+i0.8          cresc . . .
+=3 treble cro. (E e') qua (D d') cro (F f') qua3 B_b smq3 B_b G G_ G qua3 F smq3 F
+=4 bass min E cro. D cro D
+| 140
+il0.7 140
+=1 6/8 cro. (B eb' b') qua g smq b a (b e~b) g~
+=2 6/8 min (e~b g) cro (g e~b)
+i0.8  f
+=3 6/8 smq3 eb Eb, eb B b B g G, g A, a A, eb Eb, eb G_ G G_
+i0.8  ff
+=4 6/8 min A cro rest
+/
+2 bars | 1 | 1 |
+| 141
+=1 treble cro. (g# g~#) (f# f~#)
+* =1 treble qua C# smq E_ C# qua E_ smq C# qua E_ C# smq rest
+=2 bass qua e smq c~# e qua c~# smq e qua c~# e smq c~#
+i0.7       f  legato
+=3 treble smq3 E e' E qua3 C# smq3 C# e, E, e, C#, c#, C#, qua3 F# smq3 F# E e' E
+=4 bass min A# cro B
+| 142
+=1 cro. (e e~) (d d~)
+=2 smq a qua c~ a smq c~  qua g smq e~ g qua e~
+i0.1  f
+* =1 smq cn qua A c smq rest qua e smq G, e qua G,
+=3 smq3 c' C c' A_ A A_ c' C c' G, g G, qua3 e smq3 e D d' D
+=4 min c cro rest
+* page 19
+3 systems / 22-28-22 36 22-28-22 / 22-36-22 46 22-28-22 / 22-28-22 36 22-28-22 /
+/
+2 bars | 1 | 1 |
+| 143
+=1 treble min. (c c~')
+=2 bass smq bb qua d~ bb smq d~ qua bb smq d~ bb qua d~
+* =3 treble smq rest qua B_b D smq B_b qua D smq B_b D qua B_b
+=3 treble smq3 c' C c' qua3 D, smq3 D, Bb, B_b, Bb, C, c C, qua3 Bb smq3 Bb D d' D
+=4 bass min. d
+| 144
+i0.2                              tr
+=1 (min. B_ cro B) cro B (B b')
+=2 qua a smq f~# a qua f~#  smq c~# qua e~ c~# smq e~
+* =3 qua f# smq A f# qua A smq e qua c# e smq c#
+=3 smq3 B' B_ B  F#, f# F#,  qua3 A smq3 A  E e' E  qua3 B smq3 B  C#, c# C#,
+=4 min e cro f#
+/
+2 bars | 1 | 1 |
+| 145
+il0.8 145
+=1 treble cro. (A, a') cro. (G, g')
+i0.9         tr . . .                              tr . . .
+=2 bass smq c~# qua e~ c~# smq e~  qua a smq f~ a qua f~
+* =3 treble smq E qua C# E smq rest qua F smq A_ F qua A_
+=3 treble smq3 A A_ A  qua3 E, smq3 E, c# C#, c# Fn, f F, a A, a  G, g G,
+=4 bass min g cro A
+| 146
+=1 min (d d~') cro (c c~')
+i0.9  tr . . .                                           tr . .
+i0.55                                           cresc . . .
+=2 qua a smq f~ a qua f~ smq f qua d~ f smq d~
+* =3 qua f smq A f qua A smq rest qua Bb d smq Bb
+=3 qua3 d smq3 d  F, f F, qua3 a smq3 a  c c~ c  qua3 d smq3 A,  qua C
+=4 min c cro d
+/
+2 bars | 1 | 1.1 |
+| 147
+=1 treble cro. (Bb, bb') cro (f a) qua A
+i0.9         tr . . .
+i0.5                                  ff
+=2 bass smq ab qua c~ ab smq c~ qua f smq d~ f qua d~
+=3 treble qua B_b smq D E qua F smq G qua A B smq G
+=4 bass qua. ab qua c~ smq ab  qua d~ smq f d~ qua f
+=4 bass min. D,
+| 148
+=1 qua3 A_ smq3 A  F f' F  f B, b  B b eb  e~b eb e~b  eb c~ f
+=2 qua g smq e~b g qua e~b  qua d~b smq c~ bb qua f
+=3 min g, cro rest
+=3 smq a qua b c~# smq a qua f smq ab gb qua bb
+* =3 qua e~b smq g e~b qua g smq ab qua bb c~ smq d~b
+=4 cro. G cro G qua F
+* page 20
+2 systems / 22-28-22 51 22-28-22 / 22-28-22 46 22-28-22 /
+/
+2 bars | 1 | 1 |
+| 149
+=1 treble 3/4 min f~ qua (Eb Bb) B_b
+i0.9            ff
+i0.85                                                             >
+i0.5                                                                          >
+=2 bass 3/4 min. (eb e~b)
+=3 treble 3/4 qua f smq ab gb cro bb qua bb smq d~b c~
+i0.4     ff
+=4 bass 3/4 min Eb qua e~b bb  
+| 150
+il1.1 150
+=1 4/4 smb (Eb Bb eb)
+i0.6  ff
+=2 4/4 smb (Bb eb bb)
+r0.8     *P_
+=3 4/4 min f~ cro rest F
+i0.8       f                                      p
+=4 4/4 smb (Eb Bb)
+i0.3       ff
+/
+3 bars | 1 | 1 | 1 ||
+| 151
+=1 treble smb (F Ab)
+i0.7       mp                                  mf
+=2 bass smb rest
+i0.8                       8va basso   mf
+=3 treble qua F cro Ab qua F  Ab cro F qua Ab
+=4 bass cro Bb min. rest
+i0.3        . . . pp
+| 152
+=1 (smb F_ B_b F Ab min rest) (Eb eb' e~b')
+=2 smb (B_b Bb)
+=3 qua Ab cro F qua Ab cro F Ab
+i0.8                    dim . . .
+=4 smb B_b
+i0.2                     dim . . .
+| 153
+=1 smb (F_ B_b Eb eb e~b)
+=2 smb (B_b Bb)
+i0.8                                       _*
+=3 cro Ab min. F
+i0.8    . . p . .                      . . pp
+=4 smb B_b
+@
+
+
+1.15
+log
+@notes at end of 140
+@
+text
+@a1082 1
+i0.3                                                                 . . loc
+@
+
+
+1.14
+log
+@tiny change to bar 137
+@
+text
+@d1021 1
+a1021 1
+i0.8           f         cresc . . .
+d1029 1
+a1029 1
+=1 6/8 cro. (B eb' b') qua g' smq b, a, (B, eb,) g,
+d1041 1
+a1041 1
+i0.8        f  legato
+@
+
+
+1.13
+log
+@tidy p18
+@
+text
+@d1009 1
+a1009 1
+=2 bass 9/8 (min b cro. f e~b) cro (f d~) qua e cro e qua bb
+@
+
+
+1.12
+log
+@piano mercy on p15
+@
+text
+@d1009 1
+a1009 1
+=2 bass 9/8 (min b cro. f e~b) cro (f d~) qua e cro e qua bb'
+d1013 1
+a1013 1
+=1 cro. (Bb e g) cro (Bb e g) qua (Bb_ Bb) qua. e qua (Bb_ Bb) smq (D d')
+d1018 1
+a1018 1
+2 bars | 0.8 1.1 1.1 | 2.6 |
+d1029 1
+a1029 1
+=1 6/8 cro. (B eb' b') qua (B eb' g' b') smq b, a, (B, g,)
+d1041 1
+a1041 1
+i0.9        f
+@
+
+
+1.11
+log
+@8va not 8 in 104
+@
+text
+@d833 1
+a833 1
+=1 treble min ( F, c,) smq ( F, c,)
+d835 1
+a835 1
+=2 bass min ( ab d~ ) smq ( ab d~ )
+d839 1
+a839 1
+=1 min ( F, Bb, ) smq ( F, Bb, )
+d847 1
+a847 1
+=2 min ( G f' ) smq ( G f' )
+d854 1
+a854 1
+=1 treble min ( D' c' ) smq ( D' c' )
+d857 1
+a857 1
+=2 bass min ( G' f' ) smq ( G f' )
+d861 1
+a861 1
+=1 min ( C, Bb, ) smq ( C, Bb, )
+d863 1
+a863 1
+=2 min ( Ab f' ) smq ( Ab f' )
+d867 1
+a867 1
+=1 min (C,Bb,d,) smq (rest d,)
+@
+
+
+1.10
+log
+@f~ and g~ right way round in 103-4
+@
+text
+@d775 1
+a775 1
+i0.75              8  |
+@
+
+
+1.9
+log
+@staves swapped in bar 16
+@
+text
+@d749 1
+a749 1
+i0.01  '
+d751 1
+a751 1
+i0.1  mp   . . . sempre con Pedale di sostenuto . . .
+d753 1
+a753 1
+i0.55              8va...|
+d758 1
+a758 1
+i               cresc . . .
+d760 1
+a760 2
+i0.85 . . . sempre con Pedale di sostenuto . . .
+i0.55              8va...|
+d766 2
+a767 2
+i0.6                               8va...|
+=3 cro d smq c qua e g~
+d775 2
+a776 2
+i0.55              8va...|
+=3 treble qua e cro f~ smq rest A B
+d800 1
+a800 1
+4 bars | 10 | 11 | 6 | 11 |
+@
+
+
+1.8
+log
+@adjustments
+@
+text
+@d110 3
+a112 3
+=1 3/4 qua E smq A d' qua E smq A d' E qua A smq d'
+=2 3/4 smq E qua A smq E D qua E smq G qua. E smq D
+=3 3/4 smq a qua A, smq a qua A_ rest smq a qua A, smq a
+@
+
+
+1.7
+log
+@no real change
+@
+text
+@d115 1
+a115 1
+3 systems / 22-28-22 41 22-28-22 / 22-28-22 46 22-28-22 / 22-28-22 51 22-28-22 /
+d124 2
+a125 2
+=3 treble 15/16 qua (C c) qua. (C c) qua (C c) qua. (C c) qua (B_ B) qua. (B_ B)
+i0.2  f    legato    cresc ...
+d141 1
+a141 1
+il0.3 20
+d144 3
+a146 3
+=3 treble (min G qua Eb eb') qua. (Eb eb') qua (D d) qua. (D d) qua (C c) qua. (C c)
+i0.8         f    dim . . .
+=4 bass smq F qua G cro Bb min (G a)
+a149 1
+=3 qua Bb_ qua. Bb_ cro. A_ cro rest
+d151 1
+a151 1
+=3 qua (Bb_ Bb') qua. c qua (A_ A) qua. c# qua c# qua. c#
+d157 1
+a157 1
+i0.3      ff
+d159 1
+a159 2
+=3 treble qua G, qua. G, smq G, cro F#, qua E, qua. E,
+=3 treble qua (G, g) smq e a c# e (F#, f#) a c# e qua (E, e) smq c# f# a
+d164 1
+a164 2
+=3 qua D#, qua. D#, cro. C#, cro rest
+=3 qua (D#, d#) smq b c# f# qua (C#, c#) smq c# f# b qua c# smq a b e
+d167 1
+a167 1
+i0.1     tr . . . 
+d169 1
+a169 1
+i0.12       ff
+d171 2
+a172 2
+=3 qua (B, b) smq e a b qua (A, a) smq e (G, g) fn qua (D d,) smq f a b
+i0.9     f
+d180 1
+a180 2
+=1 treble min. (B_ D F A)
+=1 treble qua rest qua. rest  qua a~b qua. a~b  smq a~b qua g~ smq d~ g~
+d187 1
+a187 1
+=1 qua. f~ smq rest smq d~  qua f~ qua. a  qua a qua. a
+d192 1
+a192 1
+=1 qua rest qua. a  qua bb qua. bb  smq a f g qua e
+d215 1
+a215 1
+il0.3 30
+d218 1
+a218 1
+i0.1     ff
+d220 1
+a220 1
+i0.15              ff
+d222 1
+a222 1
+i0.3    tr . . .
+d226 1
+a226 1
+2 bars | 3.8 | 5 |
+d231 4
+a234 4
+i0.9         ff      dim . .
+=3 treble min. (E G) qua.  rest
+=4 bass min. A
+i0.1  ff   dim . . .
+a361 1
+I0.2     Timpani
+d363 1
+a363 1
+i0.2          pp
+d413 1
+d442 1
+a442 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 46 22-28-22 / 22-28-22 46 22-28-22 /
+d466 1
+a466 1
+i0.3                                        8vab_     _|
+d497 2
+a498 2
+=4 qua (G C) qua. d smq d qua G smq D G
+i0.2  f . . .
+d500 1
+a500 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d569 1
+a569 1
+i0.2   pp . . .
+d596 1
+a596 1
+i0.8                  pp
+d607 1
+d610 1
+a610 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 46 22-28-22 / 22-28-22 36 22-28-22 /
+d632 1
+a632 1
+i0.1       8va ...  p
+d634 1
+d648 1
+a648 1
+i0.2        8va . . .
+d657 1
+a657 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 50 22-28-22 / 22-28-22 36 22-28-22 /
+d666 1
+a666 1
+i0.2 8va . . .
+d671 1
+a671 1
+i0.2    cresc . . .
+d684 1
+a684 1
+r0.2                   ,           ,
+a686 1
+i0.2                           l.v. sempre
+d699 1
+a699 1
+r0.2         ,
+d751 1
+a751 1
+i  mp
+d753 1
+a753 1
+i0.7              8va |
+d761 1
+a761 1
+i0.6              8va . . . |
+d767 1
+a767 1
+i0.75                            8va . . . |
+d776 2
+a777 2
+=3 treble cro. e smq rest A B
+=3 treble qua rest cro. B
+d780 2
+a781 2
+il0.3 105
+i0.1  '
+d814 1
+a814 1
+il0.9 110
+d854 1
+a854 1
+il1.0           115
+d889 1
+a889 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d900 1
+a900 1
+=1 9/16 min (B_b, D, F,) smq (B_b, D, F,)
+d906 1
+a906 1
+=1 cro. (B_b, D, F,) qua. (B_b, D, F,)
+d950 1
+a950 1
+i0.2                                         >
+d956 1
+a956 1
+=1 6/8 cro (E c e') qua (A_ A') cro. (C F# c')
+d983 1
+a983 1
+=4 cro. (g bb) smq f# e B
+d1111 3
+a1113 2
+i0.9            ff                                             >
+i0.6                                                                       >
+d1116 1
+d1125 1
+a1125 1
+i0.8       f                          f           p
+d1127 1
+a1127 1
+i0.2       ff
+@
+
+
+1.6
+log
+@stems, positions, some octaves
+@
+text
+@d1124 1
+a1124 1
+i0.8     *P_
+d1126 1
+a1126 1
+i0.8       ff           p
+@
+
+
+1.5
+log
+@disentangling, redistribution
+@
+text
+@d115 1
+a115 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d124 2
+a125 2
+=3 treble 15/16 qua C qua. C qua C qua. C qua B_ qua. B_
+i0.7  f    legato    cresc ...
+d130 1
+a130 1
+=3 qua A_ qua. A_ qua. A_ qua rest smq rest cro G_
+d135 1
+a135 1
+=3 min F_ cro. D smq rest
+a137 1
+*XXXX = DONE-UP-TO-HERE
+d144 1
+a144 2
+=3 treble qua Eb qua. Eb qua D qua. D qua C qua. C
+=3 treble min G A_
+d146 1
+a146 1
+=4 bass smq F qua G cro Bb min G
+d152 1
+a152 1
+=3 qua c qua. c qua c qua. c# qua c# qua. c#
+d159 1
+a159 1
+=2 bass min ( A_ A' e' ) qua rest smq (A e') rest (A e') (A e') smq. rest
+d161 1
+a161 1
+=3 treble qua c#' smq e' a' c#' qua e' smq a' c#' e' qua a' smq c#' f#' a'
+d167 2
+a168 2
+=3 qua f#' smq b' c#' f#' qua b' smq c#' f#' b' qua c#' smq a' b' e'
+=4 min D cro A_ qua d smq B
+d170 1
+d172 1
+a172 1
+i0.2       ff
+d174 1
+a174 1
+=3 qua B, qua. B, qua. A, qua G, qua G, qua. D,
+a175 2
+=3 qua b' smq e' a' b' qua e' smq a' b' fn' qua b' smq f' a' b'
+i0.1     tr . . . 
+d178 1
+a178 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d187 2
+a188 3
+i0.9  Ped_           . . . 
+=3 treble min. F qua. rest
+=3 treble qua d~ smq a c~ f d B d d B d B d d B
+a192 1
+=3 min. rest
+a197 1
+i0.3     tr . . .
+d207 1
+a207 1
+=3 treble qua D qua. D qua. C qua B_ qua B_ qua. A_
+d215 1
+a215 1
+=3 qua F qua. F qua. E qua D qua C# qua. C#
+d217 1
+a217 2
+=3 min. A_,
+=4 min G_ cro F qua E smq C#
+d225 2
+a226 2
+=3 qua. rest qua A qua. A qua B qua. c# qua E
+i0.6    tr . . .
+d245 1
+d279 1
+a279 1
+=1 treble 3/4 smq [(A, f) (A_, F,) (A, f) (A, f)] (A_ F) (A, f) (A, f) (A_ F) []
+d284 1
+a284 1
+=1 smq (B_b D) (Bb, d) [(Bb, d) (B_b, D,)] [] (Bb, d) [] [] (Bb, d)
+d396 2
+a397 2
+=3 5/8 min G qua G
+i0.8 pp
+d408 1
+a408 1
+il0.3 55
+d411 2
+a412 2
+=3 treble min D_ qua rest
+=4 bass qua G_ qua. D smq D qua. G_ smq G_
+d483 1
+a483 2
+=4 qua d' qua. G smq G qua. d smq d
+=4 qua G qua. G g qua c
+d668 1
+a668 1
+i0.2        8va . . .
+d675 1
+d682 1
+a682 1
+i    f
+d684 1
+a684 1
+i0.8    f
+a685 1
+I    Flute
+d718 1
+a718 1
+i0.8             8va . . . |
+d725 1
+a725 1
+i0.8                      8va . . . |
+d732 1
+a732 1
+i0.8        8va . . . |
+d741 1
+a741 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d756 1
+a756 1
+i0.7              8va . . . |
+d763 2
+a764 2
+i0.8 . . . sempre con Pedale di sostenuto . . .
+i0.7              8va . . . |
+d822 1
+a822 1
+i0.9      Solo . . .
+d833 1
+a833 1
+3 systems / 22-28-22 50 22-28-22 / 22-28-22 50 22-28-22 / 22-28-22 50 22-28-22 /
+d857 1
+a857 2
+i0.6 8va . . .
+il0.8           115
+a881 1
+i0.6 . . 8va . .
+a899 1
+i    . . . 8va . . .
+d920 2
+a921 4
+i0.6 . . 8va . .
+=3 treble 14/16 smq e d c Bb qua g smq e d c qua e smq d c Bb,
+=4 bass 14/16 qua c~ smq d~ d~ e~ qua d~ smq e~ e~ g~ d~ e~ e~ g~
+=4 bass 14/16 min G qua. rest smq c Bb A
+d934 1
+a934 1
+r0.7           *P_
+a940 1
+i0.1                          tr . . .
+d949 1
+a949 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d953 2
+a954 2
+i0.2                                >
+=1 treble cro (C E) qua. (C E) qua (C E c)
+d959 1
+a959 1
+=1 6/8 cro (E c e) qua (A a) cro. (F# c)
+d965 1
+a965 1
+=1 5/8 qua rest cro. f# smq (B b) (B b)
+d973 1
+a973 1
+=1 treble 4/8 qua (E F# e') smq (B_ B') qua. (D d') qua rest
+d980 1
+a980 2
+=3 9/16 cro (B_ B) smq rest qua (C c) smq rest (G_ G)
+i0.1      tr . . .
+d1002 1
+a1002 1
+=1 qua. (G# e') qua (D d') smq (D d') qua (F Ab f') rest smq (B_ B) (D d)
+d1008 1
+a1008 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d1012 1
+a1012 1
+=1 treble 9/8 min (A a') qua (D d) smq (B_ B) qua (E e) (B_ G B) smq rest qua (C# G# c#')
+d1017 1
+a1017 1
+=1 cro. (Bb e g) cro (Bb e g) qua (Bb_ Bb) qua. e qua (Bb_ Bb) smq (D d)
+d1032 1
+a1032 1
+il 140
+d1056 1
+a1056 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d1066 1
+a1066 1
+i0.2                                   tr . . .
+d1076 2
+a1077 2
+=1 treble cro. (A a) cro. (G g)
+i0.9         tr . . .                            tr
+d1083 2
+a1084 2
+=1 min (d d~) cro (c c~)
+i0.9                    tr . . .                                         tr . .
+d1094 1
+a1094 1
+=1 treble cro. (Bb bb) cro (f a) qua A
+a1098 1
+i0.2         tr
+d1109 1
+a1109 1
+2 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d1114 2
+a1115 1
+i0.9            ff                                         >          >
+@
+
+
+1.4
+log
+@space between systems
+@
+text
+@a46 1
+=1 treble 3/4 qua. G smq B qua. A, smq c# qua A, smq c# B
+d48 3
+a50 2
+=2 treble 3/4 smq a qua A, smq a cro A_ smq a qua A, smq a
+=3 bass 3/4 min. rest
+d102 1
+a102 1
+il0.3 15
+d152 1
+a152 1
+=3 qua Bb qua. Bb cro. A cro rest
+d162 2
+a163 2
+=3 treble qua G qua. G smq G cro F# qua E qua. E
+=3 treble qua c# smq e a c# qua e smq a c# e qua a smq c# f# a
+d168 2
+a169 2
+=3 qua d# qua. d# cro. c# cro rest
+=3 qua f# smq b c# f# qua b smq c# f# b qua c# smq a b e
+d175 1
+a175 1
+=3 qua b qua. b qua. a qua g qua g qua. d
+d177 1
+a177 1
+=3 qua b smq e a b qua e smq a b fn qua b smq f a b
+d187 1
+a190 2
+=3 treble qua rest qua. rest  qua ab qua. ab  smq ab qua g smq d g
+i0.8            8va . . .
+d195 1
+a195 1
+=1 min. rest
+a196 1
+=3 qua. f smq rest smq d  qua f qua. A,  qua A qua. A
+d201 1
+a201 1
+=1 min. rest
+a202 2
+=3 qua rest qua. A  qua Bb qua. Bb  smq A F G qua E
+=3 min. rest
+a212 1
+=3 treble min. E qua. rest
+a213 2
+i0.8       mf
+=3 treble min. D
+d220 2
+a221 3
+=3 min. rest
+=3 qua f qua. f qua. e qua d qua c# qua. c#
+i0.9    cresc . . .
+d223 1
+a223 1
+=3 min. A_
+d231 4
+a234 7
+=3 min. rest
+rs0.3               2
+=3 qua. rest qua a qua. a qua b qua. c~# qua e
+i0.8    f
+i0.1    tr . . .
+=3 min. E
+i0.85  ff
+a241 2
+rs0.3           4
+=3 treble min. G qua.  rest
+d243 1
+a243 2
+i0.1          tr . .      dim . .
+=3 treble min. E qua. rest
+a267 2
+i0.2        tr . . .
+=4 2/4 min d~
+a274 1
+i0.2              tr . . .
+a292 1
+i0.1                                            tr . . .
+a301 1
+i0.1         . . tr . . .
+d314 1
+a314 1
+i       8va . . .
+d327 1
+a327 1
+i     8va . .
+a328 1
+i0.2                                                                            tr . . .
+a333 1
+i0.2     . . . tr . . .
+d343 1
+a343 1
+i0.3       . . 8va . .
+d370 1
+a370 1
+i . . 8va . .
+d376 1
+a376 1
+il0.3 50
+d388 1
+a388 1
+=4 cro d smq d qua d smq d d
+a396 2
+I0.3        Trombone
+=3 bass min rest smq rest
+d422 1
+a422 1
+=3 qua B smq c A qua d B smq eb d
+d428 1
+a428 1
+=3 qua db cro Bb cro rest
+d442 2
+a443 2
+=3 qua. c smq c qua Bb qua. f smq e
+i0.8  . . . mp
+d446 1
+a446 1
+il0.3 60
+d449 1
+a449 1
+=3 min d qua rest
+d452 1
+a452 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d470 1
+a470 2
+=4 qua. d smq d qua f qua. d smq d
+=4 qua. G smq d qua f qua. d smq d
+d476 1
+a476 1
+i0.3                   8vab_     _|
+d478 1
+a478 1
+=4 bass qua f d smq f d qua. f smq (d G)
+d518 2
+a519 2
+=3 treble min Bb_ qua rest
+=4 bass qua (Eb f') smq G f' qua G qua f smq F f
+d523 1
+a523 1
+=3 6/8 qua d smq c B qua f smq A d qua f smq rest f
+d538 1
+a538 1
+=3 cro. a rest
+d552 1
+a552 1
+=3 smq f d Bb d Bb G, qua Bb smq G, qua G smq D
+a553 1
+i ff
+a558 1
+i0.4             tr . . .
+a563 1
+i0.1          tr . . .
+d572 1
+a572 2
+i0.2   tr . . .
+=4 min. G cro rest
+d611 1
+d620 1
+a620 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+a626 1
+I0.3         Crotales (or Triangle)
+d642 2
+a643 2
+i0.2         p
+=3 treble qua B cro B qua B min B
+d648 1
+a648 1
+=3 qua B cro B qua B min B
+d657 2
+a658 1
+=3 treble min B qua B cro B qua B
+d663 1
+a663 1
+=3 smb B
+d666 1
+a666 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d675 2
+a676 1
+=3 treble qua B cro B qua B min B
+d682 1
+a682 1
+=3 smb B
+a696 1
+=3 treble 10/16 min B qua B
+d725 2
+a726 1
+=3 treble 9/16 qua f B qua. g qua c
+d732 2
+a733 1
+=3 qua. d qua f B Bb
+d739 2
+a740 2
+=3 cro c qua. d qua G,
+=3 qua rest cro. B
+d763 2
+a764 2
+=3 9/16 cro a qua. c qua d
+=3 9/16 qua rest cro. B
+d771 2
+a772 2
+=3 cro a qua. g qua f
+=3 qua rest cro. B
+d777 2
+a778 2
+=3 cro d smq c cro e
+=3 qua. rest qua rest rest B
+d825 1
+a825 1
+=1 4/16 cro e
+d828 1
+a828 1
+=3 4/16 qua d~ smq c~ ab
+d833 2
+a834 1
+=1 9/16 min ( F' d' ) smq ( F' d' )
+a835 2
+=3 9/16 qua. f smq f qua. ab qua f
+I0.15      Marimba
+d840 1
+a840 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d844 2
+a845 1
+=1 treble min ( F' c') smq ( F' c')
+a846 1
+=3 treble cro bb qua. c qua d
+d850 2
+a851 1
+=1 min ( F Bb ) smq ( F Bb )
+a852 1
+=3 qua. c~ smq bb f ab d f bb
+d856 2
+a857 1
+=1 min ( D c' ) smq ( D c' )
+a858 1
+=3 qua c~ smq bb g f  d~ c~ bb g
+d867 1
+a869 1
+=3 treble smq d c Bb G, qua f smq d c Bb
+d873 2
+a874 1
+=1 min ( C Bb ) smq ( C Bb )
+a875 1
+=3 smq d c Bb Ab, qua f smq d c Bb
+d879 2
+a880 1
+=1 min (C Bb d') smq (rest d')
+a881 1
+=3 qua f smq d c Bb  g f d rest
+d887 2
+a888 1
+=1 treble min (C Eb Bb) smq rest
+a890 1
+=3 treble smq eb c Bb G, qua f smq eb c Bb
+d894 2
+a895 1
+=1 12/16 min. (B_b Eb Bb)
+a897 1
+=3 12/16 qua f smq eb c  ab f eb c  qua f smq c eb
+d906 2
+a907 1
+=1 treble 6/16 cro. (B_b Eb Bb)
+a909 1
+=3 treble 6/16 qua g smq f c qua eb
+d913 2
+a914 1
+=1 9/16 min (B_b D F) smq (B_b D F)
+a915 1
+=3 9/16 qua ab smq f d c  qua bb smq ab f
+d919 2
+a920 1
+=1 cro. (B_b D F) qua. (B_b D F)
+a921 1
+=3 qua d smq c Bb, G,  qua f smq d c
+d932 1
+a932 1
+=3 treble 14/16 qua C smq D D E qua D smq E E G D E E G
+d935 2
+a936 1
+=1 9/16 min (C E A) smq (C E A)
+a937 1
+=3 9/16 smq A G E D qua c' smq A D E
+d944 2
+a945 2
+=1 treble 4/16 cro (C E G)
+=2 bass 4/16 cro (g bb)
+a946 2
+i0.4                                       . . loc
+=3 treble 4/16 cro Bb
+d954 1
+a954 2
+=3 9/16 qua. F cro. F
+=4 9/16 cro. D qua. rest
+a959 1
+=3 min rest smq rest
+d966 2
+a967 1
+=1 treble cro (C E) qua. (C E) qua (C E)
+a969 5
+I0.2          Trombone
+=3 treble qua rest qua. rest qua rest C
+i0.8                                p ma distinto
+i0.1         tr . . .
+=3 treble min E smq rest
+a970 1
+i0.2                    arco
+d972 1
+a972 1
+=1 6/8 cro. (C E) cro. F#
+a973 2
+=3 6/8 min. C
+=3 6/8 cro e qua A cro. c
+d978 1
+a978 1
+=1 5/8 qua rest min f#
+a980 1
+=3 5/8 min rest smq B B
+d986 1
+a986 1
+=1 treble 4/8 min (F#, f#)
+a987 1
+=3 treble 4/8 qua E smq B_ qua. D qua rest
+d993 1
+a993 2
+=3 9/16 min rest smq rest
+=3 9/16 cro B smq rest qua c smq rest G,
+d995 1
+a995 1
+=4 9/16 min (A a) smq rest
+d999 2
+a1000 6
+is0.2       5              4
+=3 qua. c# G, rest
+i0.1    tr . . .
+=3 min B_b smq rest
+i0.1  8va . .
+=4 cro. G smq F# E B_
+d1004 2
+a1005 3
+is0.1            3
+=3 6/8 qua. C smq G_# qua B_ qua rest qua. rest smq C#
+=4 6/8 qua F_# smq G_# F_# qua G_# F_# smq B_ qua. A_
+d1010 1
+a1010 1
+=1 treble qua G cro B_, qua B' C#, A
+a1011 1
+=3 treble cro F smq C# C# cro E smq rest C#
+d1013 2
+a1014 3
+=3 treble qua rest smq G A B A B c#' B, c# e A,
+i   8va . . .
+=4 bass cro. G qua F Eb B_b
+d1016 1
+a1016 1
+=1 cro. (E Ab) (D Ab)
+d1018 1
+a1018 3
+=2 cro.  c~     b
+is0.3                                  1                                                        4
+=3 qua. e qua d smq d qua f rest smq B d
+a1019 1
+i0.1  loc
+d1026 2
+a1027 3
+=1 treble 9/8 (min. A cro. Eb,) min D, qua. G qua G
+=2 bass 9/8 (min b' cro. f) cro f qua e cro e qua bb'
+=3 treble 9/8 cro A rest qua D smq B_ qua E B_ smq rest qua C#
+d1031 2
+a1032 3
+=1 cro. (Bb e) (Bb g) e
+=2 cro. (bb e~) (bb g~) (e~ g~)
+=3 cro g qua rest e rest Bb qua. rest qua Bb smq d
+d1038 1
+a1038 1
+=1 treble cro. (Ab' d') smq3  D, Ab, D,  Bb, D, Bb,  Ab, Bb, Ab,  d D, d qua G An
+a1041 1
+=3 treble qua. E rest qua D cro F qua rest G A
+d1043 1
+a1043 1
+=3 treble cro. e~ rest qua3 B_b smq3 B_b G G_ G qua3 F smq3 F
+d1047 2
+a1048 4
+=1 6/8 cro. (G B eb') cro (G B eb') qua (B, g,)
+=2 6/8 min e~b cro (g e~b)
+i0.3                8va . . 
+=3 6/8 cro. B qua G, smq B, A, eb g
+d1056 2
+a1057 1
+=1 treble cro. (G#, g#) (F#, f#)
+a1058 2
+i0.6     8va . .
+=3 treble cro. g# f#
+a1059 2
+=3 treble qua C# smq E_ C# qua E_ smq C# qua E_ C# smq rest
+i0.8        mf
+d1063 1
+a1063 1
+=1 cro. (E, e) (D, d)
+a1064 1
+=3 cro. e d
+d1066 1
+a1066 1
+=3 smq cn qua A c smq rest qua e smq G, e qua G,
+d1074 1
+a1074 1
+=1 treble min. (C c')
+d1076 1
+a1076 3
+i       8va . .
+=3 treble min. c
+=3 treble smq rest qua B_b D smq B_b qua D smq B_b D qua B_b
+d1081 1
+a1081 1
+=1 (min. B_ cro B) min B
+d1083 1
+a1083 2
+=3 min rest cro B
+=3 qua f# smq A f# qua A smq e qua c# e smq c#
+d1090 2
+a1091 2
+i0.2         tr . . .                            tr
+=1 treble cro. A qua G cro G
+d1093 1
+a1093 3
+i0.3          . . 8va . . 
+=3 treble cro. A G
+=3 treble smq E qua C# E smq rest qua F smq A_ F qua A_
+d1097 2
+a1098 2
+i0.15                    tr . . .                                         tr . .
+=1 qua d cro. d cro c
+d1102 1
+a1102 2
+=3 min d cro c
+=3 qua f smq A f qua A smq rest qua Bb d smq Bb
+d1108 2
+a1109 2
+i0.2         tr . . .
+=1 treble cro Bb qua Bb cro f qua A
+a1111 1
+=3 treble cro. bb a
+d1114 2
+a1115 2
+=3 bass qua. ab qua c~ smq ab  qua d~ smq f d~ qua f
+=4 bass min D cro rest
+d1119 1
+a1119 1
+=3 min g cro rest
+d1121 1
+a1121 1
+=3 qua e~b smq g e~b qua g smq ab qua bb c~ smq d~b
+d1124 1
+a1124 1
+3 systems / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 / 22-28-22 36 22-28-22 /
+d1128 3
+a1130 2
+=1 treble 3/4 min. f~
+=2 bass 3/4 min. eb
+d1132 1
+a1132 6
+=3 treble 3/4 min Bb qua Bb B_b
+i0.9            sfp       cresc . . .                      >          >
+i0.6            tr . .
+=3 bass 3/4 min e~b qua e~b bb
+i0.9            sfp       cresc . . .                      >          >
+=4 bass 3/4 min Eb cro rest
+d1140 3
+a1142 7
+i0.8       ff    dim . . .    p                   mp
+=3 4/4 smb B_b
+i0.7 ff                         dim . . .
+i0.1      tr . . .
+=3 4/4 min. Bb cro rest
+=4 4/4 smb Eb
+i0.2    pizz ff
+d1151 1
+a1151 1
+=3 bass cro Bb min. rest
+a1152 1
+i0.1                arco   mf
+@
+
+
+1.3
+log
+@bass 8vab
+@
+text
+@d2 1
+a2 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d59 1
+a59 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d115 1
+a115 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d181 1
+a181 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d269 1
+a269 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d313 1
+a313 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d357 1
+a357 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d412 1
+a412 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d475 1
+a475 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d535 1
+a535 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d580 1
+a580 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d647 1
+a647 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d693 1
+a693 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d773 1
+a773 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d866 1
+a866 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d927 1
+a927 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d992 1
+a992 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d1072 1
+a1072 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d1129 1
+a1129 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+d1190 1
+a1190 1
+3 systems / 22-28-22 22-28-22 / 22-28-22 22-28-22 / 22-28-22 22-28-22 /
+@
+
+
+1.2
+log
+@sorted onto four staves
+@
+text
+@d145 1
+a145 1
+=3 tenor qua eb qua. eb qua d qua. d qua c qua. c
+d148 1
+a148 1
+=4 bass smq f qua g cro bb min g
+d155 1
+a155 1
+=4 min c~ cro bb qua a smq g
+d162 1
+a162 1
+=3 tenor qua g qua. g smq g cro f# qua e qua. e
+d164 1
+a164 1
+=4 bass smq e qua d cro a min g~
+d170 1
+a170 1
+=4 min d cro A qua d~ smq b
+d179 1
+a179 1
+=4 smq a qua g cro e min d
+d192 1
+a192 1
+=3 tenor min. f qua. rest
+d194 1
+a194 1
+=4 bass min G cro g qua d~ smq a
+d201 1
+a201 1
+=4 min g cro f~ qua g~ smq a~
+d209 1
+a209 1
+=4 min g~ cro f~ qua c~ smq a
+d218 1
+a218 1
+=3 tenor qua d qua. d qua. c qua B qua B qua. A
+d222 1
+a222 1
+=4 bass min smq g qua f cro d min f
+d232 1
+a232 1
+=4 min G cro f qua e' smq c#
+d246 1
+a246 1
+=4 min G cro f qua c# smq e'
+a252 1
+=3 treble min. rest
+d254 1
+a254 1
+=3 tenor min. g qua.  rest
+d258 1
+a258 1
+=4 bass min. a
+d266 1
+a266 3
+=3 3/4 min. rest
+=3 3/4 smb rest
+=4 3/4 qua a rest min rest
+a276 1
+=3 treble smb rest
+d283 1
+a283 2
+=3 2/4 min D
+=4 2/4 min rest
+d292 1
+a292 2
+=3 treble 3/4 min C# cro rest
+=4 bass 3/4 min. rest
+d297 1
+a297 2
+=3 2/4 min rest
+=4 2/4 min a~
+d305 1
+a305 2
+=3 treble 3/4 smb rest
+=4 bass 3/4 min g~ cro rest
+d311 1
+a311 2
+=3 cro rest qua rest cro. F_
+=4 min. rest
+d321 1
+a321 2
+=3 treble 2/4 min F_#
+=4 bass 2/4 min rest
+a326 1
+=3 min rest
+d335 1
+a335 2
+=3 treble 3/4 min. rest
+=4 bass 3/4 cro rest min d~#
+d340 1
+a340 2
+=3 2/4 min rest
+=4 2/4 min c~#
+d349 1
+a349 2
+=3 treble 3/4 min rest cro Eb
+=4 bass 3/4 min. rest
+d355 1
+a355 2
+=3 2/4 cro. B_b qua rest
+=4 2/4 min rest
+d366 1
+a366 2
+=3 treble 3/4 min. rest
+=4 bass 3/4 min f~ cro b
+a370 1
+=3 2/4 bass min rest
+d378 1
+a378 2
+=3 treble 3/4 min. rest
+=4 bass 3/4 min. d~
+d383 1
+a383 2
+=3 min. rest
+=4 min g cro rest
+d394 2
+a395 4
+=3 bass 9/16 qua G smq G G qua G smq G G G
+i0.8          pp
+i0.1              pizzicato
+=4 bass 9/16 min rest smq rest
+d401 2
+a402 2
+=3 qua G smq G G G qua G smq G G
+=4 qua G smq d c A qua. G smq A
+d409 2
+a410 2
+=3 cro d smq d qua d smq d d
+=4 cro d smq a qua g smq f d
+d421 1
+a421 1
+=4 bass qua. d smq e' qua f smq f d f
+d427 2
+a428 2
+=3 5/8 cro G qua d G smq d G
+=4 5/8 cro g qua d~ cro g
+d433 1
+a433 2
+=3 qua d' G smq rest G qua d smq G d
+=4 min rest qua rest
+d440 2
+a441 2
+=3 tenor min D qua rest
+=4 bass qua G qua. d smq d qua. G smq G
+d446 1
+a446 2
+=3 qua f' smq G f' qua G f' smq G f'
+=4 qua f~ smq g f~ qua g f~ smq g~ f~
+d452 1
+a452 2
+=3 qua G qua. f' smq f' qua G smq f' G
+=4 qua g~ qua. f~ smq f~ qua g smq f~ g
+d458 2
+a459 3
+=3 tenor qua. Ab smq Ab qua c Bb smq c Ab
+=3 bass qua. f smq f qua d f smq d f
+=4 bass qua. f~ smq f~ qua d~ f~ smq d~ f~
+d467 1
+a467 2
+=3 qua d smq rest d qua f qua. d smq d
+=4 min d~ qua rest
+d473 1
+a473 2
+=3 qua f d smq f d qua. f smq d
+=4 min rest qua rest
+d482 2
+a483 3
+=3 tenor min rest qua rest
+=3 bass qua G qua. f' smq f' qua G smq f' G
+=4 bass min rest qua rest
+d488 1
+a488 2
+=3 qua. f smq f qua d f smq d f
+=4 min rest qua rest
+d493 2
+a494 2
+=3 qua. d smq d qua f qua. d smq d
+=4 qua. g smq d~ qua f~ qua. d~ smq d~
+d501 2
+a502 3
+=3 tenor qua g ab smq g f qua. ab smq g
+=3 bass qua f d smq f d qua. f smq d
+=4 bass qua f~ d~ smq f~ d~ qua. f~ smq g
+d508 1
+a508 2
+=3 qua. G smq G qua d G smq d G
+=4 qua. c, smq g qua d~ g smq d~ g
+d513 2
+a514 2
+=3 qua d' qua. G smq G qua. d smq d
+=4 qua g qua. g g~ qua c~
+d520 2
+a521 3
+=3 tenor min Ab qua rest
+=3 bass qua d qua. f smq f qua d smq f d
+=4 bass qua d~ cro. f~ qua rest
+d526 1
+a526 3
+=3 qua. f smq d qua G d smq G d
+=4 min rest qua rest
+i0.2    arco . . .
+d532 1
+a532 2
+=3 qua G qua. d smq d qua. G smq G
+=4 min c qua d
+d542 2
+a543 3
+=3 tenor min Bb qua rest
+=3 bass qua f' smq G f' qua G qua. f smq f
+=4 bass min eb qua f
+d548 1
+a548 2
+=3 6/8 qua G smq d f' qua d' smq f' G qua. d smq G
+=4 6/8 qua g smq d~ f~ qua d~ smq f~ g qua. d~ smq g
+d555 1
+a555 1
+=3 tenor qua g smq a g qua d smq f g qua. b smq g
+d557 2
+a558 3
+=3 bass qua d' smq f' G qua f' smq G d qua. G smq d
+i0.8                                            cresc . . .            ff
+=4 bass qua d~ smq f~ g qua f~ g cro G
+d563 1
+a563 2
+=3 qua f' smq G d qua G smq f' G qua d smq f' G
+=4 cro G qua. c qua A qua. f
+d570 2
+a571 3
+=3 tenor qua c smq d qua A smq c qua. f qua d smq Bb
+=3 bass smq d' f' G qua f smq d qua G smq d f' G d
+=4 bass cro. a qua. g qua f~ smq d~
+d577 1
+a577 2
+=3 smq G f' d (G f') d G f' d (G f') qua (G f') smq d
+=4 smq g f~ d~ g d~ g f~ d~ f~ qua g smq d
+d591 1
+a591 4
+=3 bass 4/4 smb G
+i0.9                   dim . . .
+=4 bass 4/4 min. G cro rest
+i0.3          ff      dim . . .
+d600 2
+a601 4
+=3 min. G cro rest
+i0.8                     . . pp
+=4 smb rest
+i0.2                                   pizz . . .
+d603 1
+d609 1
+a609 4
+=3 qua G cro G qua G min G
+i0.1   8va . . .
+=4 qua g cro g qua g min g
+i0.2   pp . . .
+d616 2
+a617 3
+=3 tenor smb rest
+=3 bass qua G cro G qua G min G
+=4 bass qua g cro g qua g min g
+d623 1
+a623 2
+=3 min G qua G cro G qua G
+=4 min g qua g cro g qua g
+d629 1
+a629 2
+=3 min G qua G cro G qua G
+=4 min g rest
+d639 2
+a640 3
+=3 bass smb G
+i0.9         ppp
+=4 bass smb rest
+d656 1
+a656 1
+=4 bass min rest qua rest cro e~ qua f~
+d662 1
+a662 1
+=4 min c~ qua c~ cro. d~
+d672 1
+a672 1
+=4 bass cro. e~b a cro c~
+d677 1
+a677 1
+=4 min g qua rest cro. c~
+d686 1
+a686 1
+=4 bass cro. ab f cro g
+d691 1
+a691 1
+=4 min d qua rest cro. eb
+d703 1
+a703 1
+=4 bass min g qua g cro. ab
+d709 1
+a709 1
+=4 min db qua db, bb cro db
+d724 1
+a724 1
+=4 bass 10/16 min c qua rest
+d732 1
+a732 2
+=3 min rest qua rest
+=4 qua. g qua c~ d~ smq c~ qua d~
+d738 1
+a738 2
+=3 min rest qua rest
+=4 smq f~ e~ cro d~ smq rest g~ a~ e~
+d745 1
+a745 2
+=3 min rest qua rest
+=4 cro. d~ smq g~ d~ e~ bb
+d752 2
+a753 3
+=3 treble 9/16 cro f qua. g qua c
+=3 treble 9/16 qua rest cro. B
+=4 bass 9/16 min f~ smq rest
+d758 2
+a759 3
+=3 qua. d cro f qua Bb
+=3 qua. rest qua rest cro B
+=4 qua. g~ qua f~ d~ c~
+d766 1
+a766 1
+=4 cro. bb qua. d~
+d771 1
+a771 2
+=3 7/16 cro. rest
+=4 7/16 qua bb e~ qua. c~
+d782 1
+a782 2
+=3 treble cro. rest
+=4 bass cro g qua. bb
+d790 1
+a790 1
+=4 9/16 min f smq rest
+d798 1
+a798 1
+=4 min g smq g
+d804 1
+a804 1
+=4 min a smq a
+d813 1
+a813 1
+=4 bass min g smq g
+d821 1
+a821 2
+=3 min rest smq rest
+=4 min g smq rest
+d827 1
+a827 2
+=3 min rest smq rest
+=4 qua. g qua g~ g g~
+d833 1
+a833 2
+=3 7/16 cro. rest
+=4 7/16 cro d~ qua. c~
+d842 1
+a842 2
+=3 treble cro. rest
+=4 bass cro f~ qua. e~
+d847 1
+a847 2
+=3 9/16 min rest smq rest
+=4 9/16 cro. d~ qua. c~
+d855 1
+a855 2
+=3 4/16 cro rest
+=4 4/16 qua g ab
+d864 1
+a864 1
+=4 9/16 cro. Bb qua. ab
+d874 1
+a874 1
+=4 bass cro. f qua. bb
+d880 1
+a880 1
+=4 cro. ab qua. d~
+d886 1
+a886 1
+=4 cro f~ smq c~ cro f~
+d897 1
+a897 1
+=4 bass cro. c~ qua. bb
+d903 1
+a903 1
+=4 cro. ab qua. d
+d909 1
+a909 1
+=4 cro. f qua. c
+d918 1
+a918 1
+=4 bass cro eb qua f qua. f
+d925 1
+a925 1
+=4 12/16 min Ab cro Ab
+d937 1
+a937 1
+=4 bass 6/16 cro. G
+d943 1
+a943 1
+=4 9/16 min Bb smq rest
+d949 1
+a949 1
+=4 cro. g qua. ab
+d959 1
+a959 1
+=4 bass 14/16 min g qua. rest smq c~ bb a
+d965 1
+a965 1
+=4 9/16 min g smq g
+d976 1
+a976 1
+=4 bass 4/16 cro d
+d983 1
+a983 1
+=4 9/16 cro. d qua. rest
+d990 1
+a990 1
+=4 min c smq c
+d1000 1
+a1000 1
+=3 tenor qua rest qua. rest qua rest c
+d1004 1
+a1004 1
+=4 bass min c smq rest
+d1012 1
+a1012 1
+=4 6/8 cro. f# qua c~ e~ c~
+d1020 1
+a1020 1
+=4 5/8 cro f# qua c~ e~ c~
+d1026 1
+a1026 2
+=3 treble 4/8 min rest
+=3 tenor 4/8 qua e smq B qua. d qua rest
+d1028 1
+a1028 1
+=4 bass 4/8 min a
+d1035 1
+a1035 2
+=3 9/16 min A_ smq rest
+=4 9/16 min a smq rest
+a1038 1
+=3 min rest smq rest
+d1044 1
+a1044 1
+=4 cro. g smq f# e B,
+a1047 1
+=3 6/8 min. rest
+d1049 2
+a1050 3
+=3 6/8 qua. c smq G#, qua B qua rest qua. rest smq c#
+=3 6/8 qua C cro rest cro. rest
+=4 6/8 qua f# smq g# f# qua g# f# smq b qua. a
+d1057 1
+a1057 2
+=3 treble min. rest
+=3 tenor cro f smq c# c# cro e smq rest c#
+d1061 1
+a1061 1
+=4 bass cro. g qua f eb Bb,
+a1065 1
+=3 min. rest
+d1070 1
+a1070 1
+=4 cro. e d
+d1078 1
+a1078 1
+=3 tenor 9/8 cro a rest qua d smq B qua e B smq rest qua c#
+d1080 1
+a1080 1
+=4 bass 9/8 cro. f cro f qua e cro. e
+d1086 1
+a1086 1
+=4 min db qua db min c
+d1094 1
+a1094 1
+=3 tenor qua. e rest qua d cro f qua rest g a
+d1097 1
+a1097 1
+=4 bass min e cro. d cro d
+d1103 1
+a1103 2
+=3 6/8 cro. rest qua G, smq B, A, eb g
+=3 6/8 min b cro rest
+d1107 1
+a1107 1
+=4 6/8 min a cro rest
+d1116 1
+a1116 1
+=3 tenor qua c#' smq E' c#' qua E' smq c#' qua E' c#' smq rest
+d1119 1
+a1119 1
+=4 bass min a# cro b
+d1127 1
+a1127 1
+=4 min c~ cro rest
+d1137 1
+a1137 1
+=3 tenor smq rest qua Bb d smq Bb qua d smq Bb d qua Bb
+d1139 1
+a1139 1
+=4 bass min. d~
+d1147 1
+a1147 1
+=4 min e~ cro f~#
+d1157 1
+a1157 1
+=3 tenor smq e qua c# e smq rest qua f smq A f qua A
+d1159 1
+a1159 1
+=4 bass min g~ cro a
+d1169 1
+a1169 1
+=4 min c~ cro d~
+d1178 1
+a1178 1
+=3 tenor qua Bb smq d e qua f smq g qua a b smq g
+d1181 1
+a1181 1
+=4 bass min d cro rest
+d1188 1
+a1188 1
+=4 cro. g cro g qua f
+d1197 1
+a1197 1
+=3 tenor 3/4 min bb qua bb Bb
+d1202 1
+a1202 1
+=4 bass 3/4 min eb cro rest
+d1215 1
+a1215 1
+=4 4/4 smb eb
+d1225 1
+a1225 1
+=3 tenor cro B_b min. rest
+a1226 2
+=3 treble smb rest
+=4 bass smb rest
+d1233 1
+a1233 4
+=3 smb rest
+=3 smb rest
+i0.85                   8va
+=4 smb Bb
+d1241 1
+a1241 3
+=3 smb rest
+=3 smb rest
+=4 smb Bb
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d143 4
+a146 2
+=1 tenor qua eb qua. eb qua d qua. d qua c qua. c
+=2 treble min G A_
+d148 1
+a148 3
+=3 treble qua c smq g A, c qua g smq Bb c g qua Bb smq eb g c
+=4 bass min. ( F, f c~ )
+=5 bass smq f qua g cro bb min g
+d150 3
+a152 1
+=1 qua Bb qua. Bb cro. A cro rest
+d154 2
+a155 4
+=2 qua c qua. c qua c qua. c# qua c# qua. c#
+=3 qua g smq c eb g qua c smq eb g db qua en smq g db E,
+=4 min ( F F_ ) qua ( F F_ ) rest qua. rest
+=5 min c~ cro bb qua a smq g
+d159 1
+a159 3
+=1 tenor qua g qua. g smq g cro f# qua e qua. e
+=2 treble qua c# smq e a c# qua e smq a c# e qua a smq c# f# a
+=3 treble min (C# E G B) qua rest smq rest (A_, G,) rest rest (A_, G,)
+d161 4
+a164 2
+=4 bass min ( A_ A' e' ) qua rest smq (A e') rest (A e') (A e') smq. rest
+=5 bass smq e qua d cro a min g~
+d166 5
+a170 5
+=1 qua d# qua. d# cro. c# cro rest
+=2 qua f# smq b c# f# qua b smq c# f# b qua c# smq a b e
+=3 smb (C# E B smq. rest) smq (A_, G,) rest rest (A_, G,) qua rest qua. rest qua A_ qua. A_
+=4 smb (A_ smq A e') smq rest (A e') (A e') rest qua rest qua. rest qua rest d smq B
+=5 min d cro A qua d~ smq b
+d172 4
+a175 1
+=1 qua b qua. b qua. a qua g qua g qua. d
+d177 1
+a177 1
+=2 qua b smq e a b qua e smq a b fn qua b smq f a b
+d179 1
+a179 4
+=3 min. A_
+i0.2       ff
+=4 smq A qua G cro E min D
+=5 smq a qua g cro e min d
+d186 5
+a190 2
+I          Flute
+=1 treble qua rest qua. rest  qua ab qua. ab  smq ab qua g smq d g
+d192 1
+a192 1
+=2 tenor min. f qua. rest
+d194 1
+a194 5
+=4 treble min. (B_ D F A)
+i0.3      ff
+=5 bass min. (G_ G d)
+i0.9  Ped_           . . . 
+=6 bass min G cro g qua d~ smq a
+d196 4
+a199 2
+=1 qua. f smq rest smq d  qua f qua. A,  qua A qua. A
+=2 min. rest
+d201 1
+a201 3
+=4 min. rest
+=5 min. (G_ G)
+=6 min g cro f~ qua g~ smq a~
+d203 5
+a207 3
+=1 qua rest qua. A  qua Bb qua. Bb  smq A F G qua E
+=2 min. rest
+10.3     tr . . .
+d209 1
+a209 3
+=4 min. rest
+=5 min. (G_ G)
+=6 min g~ cro f~ qua c~ smq a
+d213 3
+d217 2
+a218 2
+=1 treble min. E qua. rest
+=2 tenor qua d qua. d qua. c qua B qua B qua. A
+d222 1
+a222 4
+i0.2          tr . . .
+=4 treble min. F
+=5 bass min. (G_ G)
+=6 bass min smq g qua f cro d min f
+d224 5
+a228 2
+=1 min. rest
+=2 qua f qua. f qua. e qua d qua c# qua. c#
+d232 1
+a232 4
+i0.1    tr . . .
+=4 min. F_
+=5 min. (G_ G d)
+=6 min G cro f qua e' smq c#
+d235 5
+a239 1
+=1 min. rest
+d241 1
+a241 1
+=2 qua. rest qua a qua. a qua b qua. c~# qua e
+d246 1
+a246 5
+i0.05    tr . . .
+=4 min. G_
+i0.1     ff
+=5 qua rest qua. rest qua rest qua. rest qua A qua. A
+=6 min G cro f qua c# smq e'
+d250 4
+a253 1
+=1 treble min. rest
+d255 1
+a255 1
+=2 tenor min. g qua.  rest
+d259 1
+a259 4
+i0.1          tr . . .
+=4 treble qua B_ qua. B_ smq B_ C# E G B qua (b b~) qua. (b b~)
+=5 bass qua rest qua. rest qua A qua. A qua A qua. A
+=6 bass min. a
+d262 3
+d266 2
+a267 2
+=1 3/4 smq F# G# A B A G#  F# A G# B Gn B  G Bb G Bb F# Ab
+=2 3/4 min. rest
+d269 1
+a269 4
+=4 3/4 smq [ (c# e) (C#, E,) (c# e) (c# e) ] (C#, E,) (c# e) (C#, E,) (c# e) []
+i    p
+=5 3/4 smb rest
+=6 3/4 qua a rest min rest
+d276 5
+a280 3
+=1 treble qua F# smq rest B qua F# smq G, B, d g f# g  g e g B d c
+=2 treble smb rest
+=3 treble smq (A_ E) [ (A e') (A_ E) (A e') ] [] (A_ E) (A e') []
+a281 2
+r0.8         *P
+=5 bass smb rest
+d283 3
+a285 1
+=1 2/4 qua g smq f# qua. g smq rest f# g bb a f#
+d287 1
+a287 2
+=2 2/4 min D
+=3 2/4 smq (c e) (C, E,) (c e) (C, E,) (c e) (c e) (C, E,) (c e)
+a288 1
+=5 2/4 min rest
+d293 3
+a295 1
+=1 treble 3/4 qua g smq rest f# qua g smq c# d c# qua g smq f#  qua c# smq e g a g
+d297 1
+a297 2
+=2 treble 3/4 min C# cro rest
+=3 treble 3/4 smq [ (B, e,) (B_, E,) ] [] (B, e,) [] [] (B, e,) []
+a298 1
+=5 bass 3/4 min. rest
+d300 1
+a300 1
+=1 2/4 qua b smq g d B c qua g smq c d qua g
+d302 3
+a304 3
+=3 2/4 smq (e g) (e g) (E, G,) (e g) (E, G,) (e g) (e g) (E, G,)
+=4 2/4 min rest
+=5 2/4 min a~
+d309 5
+a313 5
+=1 treble 3/4 qua d smq c d qua c  smq eb c qua g smq c eb  qua c smq d c qua d
+=2 treble 3/4 smb rest
+=3 treble 3/4 smq [(A, f) (A_, F,) (A, f) (A, f)] (A_ F) (A, f) (A, f) (A_ F) []
+=4 bass 3/4 min. rest
+=5 bass 3/4 min g~ cro rest
+d315 3
+a317 1
+=1 qua e smq g e qua g  smq f g qua f smq ab f  qua. ab smq g qua f
+d319 1
+a319 2
+=2 cro rest qua rest cro. F_
+=3 smq (B_b D) (Bb, d) [(Bb, d) (B_b, D,)] [] (Bb, d) [] [] (Bb, d)
+a320 1
+=5 min. rest
+d326 3
+a328 1
+=1 treble 2/4 qua c~# smq b qua a# smq rest  a# qua b qua. c#
+d330 1
+a330 2
+=2 treble 2/4 min F_#
+=3 treble 2/4 smq [(G#, e) (G_#, E,)] (G#, e) [] [] (G#, e)
+a331 1
+=5 bass 2/4 min rest
+d334 1
+a334 1
+=1 qua a smq g# qua. f#  smq gn b g a# g# a#
+d336 2
+a337 1
+=3 smq [(c# e) (E_, C#,)] (c# e) [] [] (c# e)
+a338 1
+=5 min rest
+d342 2
+d345 3
+a347 5
+=1 treble 3/4 smq F#, A#, F#, qua d# smq c# qua B smq A#, B, fn d# G#, B, G#, qua Bb, smq Gn,
+=2 treble 3/4 min. rest
+=3 treble 3/4 smq [(c# g#) (G_#, C#,)] [] (c# g#) [] (c# g#) [(c# fn) (F_n, C#,)] []
+=4 bass 3/4 min. rest
+=5 bass 3/4 cro rest min d~#
+d349 1
+a349 1
+=1 2/4 qua Bb, smq G, Bb, G, db  A, F#, A, Bn, qua e
+d351 3
+a353 3
+=3 2/4 smq [(c#' e')] [] (E_ C#) [] (E_ C#) [] [] (E_ C#)
+=4 2/4 min rest
+=5 2/4 min c~#
+d357 2
+d360 1
+a360 1
+=1 treble 3/4 qua. A# smq B qua D# E smq A qua. G# qua F# smq Fn qua. Bb
+d362 1
+a362 2
+=2 treble 3/4 min rest cro Eb
+=3 treble 3/4 smq [(c#' f#')] [] (F_# C#) [] (F_# C#) [] [] (F_# C#) [(c# g#)] (G_#, C#,) [] []
+a363 1
+=5 bass 3/4 min. rest
+d365 3
+a367 1
+=1 2/4 qua f smq eb f eb d  eb Gb, eb f d F,
+d369 1
+a369 2
+=2 2/4 cro. B_b qua rest
+=3 2/4 smq (A_b, C,) [(c ab)] [] (A_b, C,) [] (A_b, C,) [] []
+a370 1
+=5 2/4 min rest
+d377 2
+d380 3
+a382 5
+=1 treble 3/4 smq f db qua f smq db Bb  f A, qua f smq A, c  eb F#, eb Bn f a
+=2 treble 3/4 min. rest
+=3 treble 3/4 smq (G_, Eb,) [(eb g)] [] (G_, Eb,) [] (G_, Eb,) [] [] (A_, C#,) (c# a) (c# a) (A_, C#,)
+=4 bass 3/4 min. rest
+=5 bass 3/4 min f~ cro b
+d384 4
+a387 3
+=1 2/4 qua bb smq ab g bb ab  qua. g smq a d e
+=2 2/4 bass min rest
+=3 2/4 smq [(c# e c~#)] (E_, C#, E,) [] [] (E_ A_ E) [(A' e' a')] (E_ A_ E) []
+a388 1
+=5 2/4 min rest
+d392 5
+a396 5
+=1 treble 3/4 qua f# smq g A, Bb, f#  qua. g smq c# d c#  qua f# qua. Bn smq cn
+=2 treble 3/4 min. rest
+=3 treble 3/4 smq (cn e c~n) (E_, Cn, E,) [(c e c~)] [] [(E_, B_, E,)] (B, e b) [] (B, e b) (A, e a) [(E_, A_, E,)] (A, e a) []
+=4 bass 3/4 min. rest
+=5 bass 3/4 min. d~
+d398 1
+a398 1
+=1 qua. d qua c smq d qua. c smq rest d c cro d qua c#
+d400 3
+a402 3
+=3 smq [(A, f a)] [] (F_, A_, F,) []  [(Bb, d bb) (D_, B_b, D,)] [] [(G#, e g#)] [] (E_, G_#, E,) []
+=4 min. rest
+=5 min g cro rest
+d406 4
+d411 1
+a411 1
+=1 treble 9/16 min B smq rest
+d413 1
+a413 1
+=2 bass 9/16 qua G smq G G qua G smq G G G
+a414 4
+=3 treble 9/16 (min c# c~# qua rest) qua e qua. f qua e
+i0.8          f
+=4 bass 9/16 min (e c~# e~)
+r0.8        *P_
+d416 1
+a416 1
+=5 bass 9/16 min rest smq rest
+d419 5
+a423 5
+=1 min rest smq rest
+=2 qua G smq G G G qua G smq G G
+=3 (min e a a~ qua rest) qua. rest cro (E, cn e)
+=4 min a~
+=5 qua G smq d c A qua. G smq A
+d425 3
+d429 3
+a431 6
+=1 min rest smq rest
+=2 cro d smq d qua d smq d d
+=3 cro [(E, c e)] smq [] cro (E, Bb e)
+i0.2                               f
+=4 cro rest smq rest cro rest
+=5 cro d smq a qua g smq f d
+d437 2
+d440 3
+a442 5
+=1 bass min rest smq rest
+=2 bass qua. d smq d qua f smq f f f
+=3 treble cro Bb qua A qua. Ab
+=4 bass min rest smq rest
+=5 bass qua. d smq e' qua f smq f d f
+d444 3
+a446 1
+=1 5/8 min G qua G
+d448 2
+a449 4
+=2 5/8 cro G qua d G smq d G
+=3 5/8 min (G, g) qua (G, g)
+=4 5/8 (min Bb bb' cro rest) qua d G smq d G
+=5 5/8 cro g qua d~ cro g
+d451 5
+a455 5
+=1 min rest qua rest
+=2 qua d' G smq rest G qua d smq G d
+=3 cro (G, g) cro. (D F Bb)
+=4 qua d qua. G smq G qua d smq G d
+=5 min rest qua rest
+d460 1
+a460 1
+=1 tenor min D qua rest
+d462 1
+a462 1
+=3 treble min rest qua rest
+a463 1
+=5 bass min rest smq rest g
+d465 5
+a469 5
+=1 qua B smq c A qua d B smq eb d
+=2 qua f' smq G f' qua G f' smq G f'
+=3 min rest qua rest
+=4 qua f smq g a c~ a d~ c~ c~ bb
+=5 qua f~ smq g f~ qua g f~ smq g~ f~
+d471 1
+a471 3
+=1 qua db cro Bb cro rest
+=2 qua G qua. f' smq f' qua G smq f' G
+=3 min G qua G
+d473 4
+a476 2
+=4 min (B_b Eb) qua (B_b Eb)
+=5 qua g~ qua. f~ smq f~ qua g smq f~ g
+d480 5
+a484 5
+=1 tenor qua. Ab smq Ab qua c Bb smq c Ab
+=2 bass qua. f smq f qua d f smq d f
+=3 treble min Bb qua Bb
+=4 bass min (F' f' c~') qua (F' f' c~')
+=5 bass qua. f~ smq f~ qua d~ f~ smq d~ f~
+d486 1
+a486 4
+=1 qua. c smq c qua Bb qua. f smq e
+i0.8  . . . mp
+=2 qua d smq rest d qua f qua. d smq d
+=3 min (F, c c~) qua (c c~)
+d489 5
+a493 2
+=4 qua. rest smq d qua f qua. d smq d
+=5 min d~ qua rest
+d496 1
+a496 1
+=1 min d qua rest
+d498 3
+a500 3
+=3 min (B b) qua (A, c a)
+=4 qua f d smq f d qua. f smq d
+=5 min rest qua rest
+d506 2
+a507 1
+=1 tenor min rest qua rest
+d509 3
+a511 4
+=3 treble min (C A' c') qua (B_ B)
+i      f
+=4 bass qua G qua. f' smq f' qua G smq f' G
+=5 bass min rest qua rest
+d513 1
+a513 1
+=1 min rest qua rest
+d515 3
+a517 3
+=3 min (B_b Bb) qua (A_b Ab)
+=4 qua. f smq f qua d f smq d f
+=5 min rest qua rest
+d519 5
+a523 5
+=1 cro rest qua A qua. B smq c
+=2 qua. d smq d qua f qua. d smq d
+=3 min (A, d d~) qua (A, d d~)
+=4 min (g g~) qua (g g~)
+=5 qua. g smq d~ qua f~ qua. d~ smq d~
+d527 2
+a528 4
+=1 tenor qua g ab smq g f qua. ab smq g
+=2 bass qua f d smq f d qua. f smq d
+=3 treble min rest qua rest
+=4 bass min (B_b F Bb) qua (B_b Bb)
+d530 3
+a532 1
+=5 bass qua f~ d~ smq f~ d~ qua. f~ smq g
+d535 5
+a539 5
+=1 qua. f smq e cro Bb qua rest
+=2 qua. G smq G qua d G smq d G
+=3 min (G_ D) qua (G_ D)
+=4 min (C_ C) qua (C_ C)
+=5 qua. c, smq g qua d~ g smq d~ g
+d541 5
+a545 5
+=1 qua rest qua. c smq A qua. B smq A
+=2 qua d' qua. G smq G qua. d smq d
+=3 min (A, a) qua (A, a)
+=4 (min d f a d~ cro. rest) qua. d smq f
+=5 qua g qua. g g~ qua c~
+d549 5
+a553 5
+=1 tenor min Ab qua rest
+=2 bass qua d qua. f smq f qua d smq f d
+=3 treble min (c ab c~) qua (c ab c~)
+=4 bass (min ab c~ a~b qua rest) cro f qua d smq f d
+=5 bass qua d~ cro. f~ qua rest
+d555 5
+a559 5
+=1 qua. Bb smq c qua A Bb smq A c
+=2 qua. f smq d qua G d smq G d
+=3 min (G, c g) qua (G, c g)
+=4 ( min g c~ qua. f ) smq d qua G d smq G d
+=5 min rest qua rest
+d562 1
+a562 3
+=1 qua Bb qua. f smq c qua. f smq G,
+=2 qua G qua. d smq d qua. G smq G
+=3 qua rest qua. (f f~) smq (c c~) qua. (d d~) smq (G, g)
+d564 4
+a567 2
+=4 min (C_ C) qua (D_ D)
+=5 min c qua d
+d575 5
+a579 5
+=1 tenor min Bb qua rest
+=2 bass qua f' smq G f' qua G qua. f smq f
+=3 treble qua. (c c~) smq (F, f) qua. (Bb bb) (A, a)
+=4 bass min (E_b Eb) qua (F_ F)
+=5 bass min eb qua f
+d581 5
+a585 5
+=1 6/8 qua d smq c B qua f smq A d qua f smq rest f
+=2 6/8 qua G smq d f' qua d' smq f' G qua. d smq G
+=3 6/8 qua (D, d) smq c A, qua (F, f) smq A, d qua. (F, f) smq f
+=4 6/8 cro. (G_ G) smq rest cro (G_ G) smq (G_ G)
+=5 6/8 qua g smq d~ f~ qua d~ smq f~ g qua. d~ smq g
+d589 4
+a592 1
+=1 tenor qua g smq a g qua d smq f g qua. b smq g
+d594 1
+a594 1
+=2 bass qua d' smq f' G qua f' smq G d qua. G smq d
+d596 1
+a596 4
+=3 treble qua (G, g) smq a g qua d smq f g qua. (B b) smq (G, g)
+i0.8                                            cresc . . .            ff
+=4 bass qua. (G_ G) (G_ G) qua (G_ G) cro (G_ G)
+=5 bass qua d~ smq f~ g qua f~ g cro G
+d598 5
+a602 5
+=1 cro. a rest
+=2 qua f' smq G d qua G smq f' G qua d smq f' G
+=3 cro. (A, a) rest
+=4 qua (G_ G) smq G d qua G smq f' G qua d smq f' G
+=5 cro G qua. c qua A qua. f
+d606 1
+a606 3
+=1 tenor qua c smq d qua A smq c qua. f qua d smq Bb
+=2 bass smq d' f' G qua f smq d qua G smq d f' G d
+=3 treble qua c smq d qua A, smq c qua. f qua d smq Bb
+d608 4
+a611 2
+=4 bass smq d f g qua f smq d qua G smq d f' G d
+=5 bass cro. a qua. g qua f~ smq d~
+d614 5
+a618 5
+=1 smq f d Bb d Bb G, qua Bb smq G, qua G smq D
+=2 smq G f' d (G f') d G f' d (G f') qua (G f') smq d
+=3 smq f d qua c smq d c d f qua bb smq g bb
+=4 smq G f' d' (G f') d G f' d (G f') qua (G f') smq D
+=5 smq g f~ d~ g d~ g f~ d~ f~ qua g smq d
+d625 5
+a629 1
+=1 bass 4/4 smb G
+d632 1
+a632 1
+=2 bass 4/4 smb G
+d634 1
+a634 5
+i0.4             tr . . .
+=3 treble 4/4 smb (a c~)
+i          ff      dim . . .                  . . pp
+=4 bass 4/4 smb (G_ G)
+=5 bass 4/4 min. G cro rest
+d637 5
+a641 1
+=1 cro G min. rest
+d644 1
+a644 1
+=2 min. G cro rest
+d646 1
+a646 5
+=3 smb c~
+i0.8    mf
+=4 smb (G_ G)
+i0.8                                                       mp
+=5 smb rest
+d649 4
+a652 1
+=1 smb rest
+d654 1
+a654 1
+=2 qua G cro G qua G min G
+d656 1
+a656 4
+=3 min rest d
+i0.8                           p
+=4 treble smb ( D A e a e~ )
+=5 qua g cro g qua g min g
+a660 2
+=1 tenor smb rest
+=2 bass qua G cro G qua G min G
+d662 5
+a666 3
+=3 treble min g d
+=4 treble
+=5 bass qua g cro g qua g min g
+d669 5
+a673 5
+=1 smb rest
+=2 min G qua G cro G qua G
+=3 cro rest A d A
+=4 smb ( E A d a d~ )
+=5 min g qua g cro g qua g
+d676 5
+a680 5
+=1 smb rest
+=2 min G qua G cro G qua G
+=3 cro e A B A
+=4 smb rest
+=5 min g rest
+a683 3
+i0.2         tr . . .
+=1 bass smb G
+i0.9         ppp
+d685 1
+a685 1
+=2 treble qua rest B, c# B e B d B
+d687 1
+a687 1
+=3 treble smb ( E B b e~ )
+d689 3
+d694 2
+a695 2
+=1 smb rest
+=2 qua a B c# B e B c G,
+d703 3
+d707 1
+a707 4
+=1 treble smb rest
+i      8va . . .
+=2 treble qua rest smq A, G, c, G, Bb, G, d, G, Bb, G, c G, A, G,
+=3 treble smb (D_ Cn G d)
+d711 3
+a713 3
+=1 smb rest
+=2 qua g smq f g d g f g c g f g d' G F G
+=3 min (A_ A) qua (A_ A) cro. (B_b Bb)
+a717 2
+i0.2         p
+=1 treble qua B cro B qua B min B
+d719 1
+a719 1
+=2 treble smq rest F G F  A F G F  c' F G F  A F G F
+d721 3
+a723 1
+=3 treble smb (E_b C Eb c)
+d726 3
+a728 3
+=1 qua B cro B qua B min B
+=2 smq eb, F, G, F, Bb, F, G, F, c, F, G, F, Bb, F, G, F,
+=3 smb rest
+a732 1
+=1 treble min B qua B cro B qua B
+d734 1
+a734 1
+=2 treble smq rest c d c f c d c bb c eb c f c eb c
+d736 2
+a737 1
+=3 treble smb (B_b F c f bb)
+d740 3
+a742 3
+=1 smb B
+=2 smq f, F, G, F,  Bb, F, G, F,  c, F, Ab, F,  Bb, F, Ab, F,
+=3 smb rest
+a749 1
+=1 treble qua B cro B qua B min B
+d751 1
+a751 1
+=2 treble smq eb, F, Bb, F,  c, F, Bb, F,  f, F, Bb, F,  c, F, Bb, F,
+d753 2
+a754 1
+=3 bass smb (eb bb e~b)
+d757 1
+a757 2
+=1 smb B
+=2 smq bb, F, Bb, F,  db, F, Bb, F,  ab, F, Bb, F,  db, F, Bb, F,
+d759 2
+a760 1
+=3 smb rest
+d765 5
+d772 1
+a772 1
+=1 treble 10/16 qua. E qua E qua. G qua E
+d775 2
+a776 7
+=2 treble 10/16 min B qua B
+=3 treble 10/16 min (B_b, D, G,) qua (B_b, D, G, d' d~')
+i    f
+=4 bass 10/16 min (C_ C) qua (C_ C)
+i0.8    f
+i0.25                *SosPed_
+=5 bass 10/16 min c qua rest
+a777 3
+=1 qua. G qua c' Bb, smq c, qua Bb
+i0.8   dim . . .
+=2 min rest qua rest
+d779 1
+a779 1
+=3 qua B_b smq C D E qua C smq D E G
+d781 5
+a785 2
+=4 smb rest
+=5 qua. g qua c~ d~ smq c~ qua d~
+d787 2
+d790 3
+a792 5
+=1 qua G, smq c Bb c  d qua e smq c d
+=2 min rest qua rest
+=3 qua C smq D E G qua D, smq E, G, Bb,
+=4 smb rest
+=5 smq f~ e~ cro d~ smq rest g~ a~ e~
+d795 1
+a795 3
+=1 qua Bb, smq c Bb c qua e smq c qua g
+=2 min rest qua rest
+=3 qua C smq D E G qua D, smq E, G, Bb,
+d797 4
+a800 2
+=4 smb rest
+=5 cro. d~ smq g~ d~ e~ bb
+d804 1
+a804 3
+=1 treble 9/16 cro f qua. g qua c
+=2 treble 9/16 qua rest cro. B
+=3 treble 9/16 qua D, smq F, G, Bb, F, G, Bb, c,
+d806 4
+a809 2
+=4 bass 9/16
+=5 bass 9/16 min f~ smq rest
+d811 1
+a811 3
+=1 qua. d cro f qua Bb
+=2 qua. rest qua rest cro B
+=3 qua C smq D F G D, F, G, Bb,
+d813 4
+a816 2
+=4 smb rest
+=5 qua. g~ qua f~ d~ c~
+d818 1
+a818 3
+=1 cro c qua. d qua G,
+=2 qua rest cro. B
+=3 smq D F G Bb qua F, smq G, Bb, c
+d820 4
+a823 2
+=4 smb rest
+=5 cro. bb qua. d~
+d825 1
+a825 1
+=1 7/16 qua. e qua G, Bb,
+d827 3
+a829 3
+=3 7/16 smq D, E, G, Bb, E G c'
+=4 7/16 cro. rest
+=5 7/16 qua bb e~ qua. c~
+d836 1
+a836 3
+=1 treble qua. e qua d c
+=2 treble cro. rest
+=3 treble smq E, G, Bb, c G, Bb, d
+d838 4
+a841 2
+=4 bass
+=5 bass cro g qua. bb
+a842 2
+=1 9/16 cro a qua. c qua d
+=2 9/16 qua rest cro. B
+d844 1
+a844 1
+=3 9/16 smq C D F G qua D smq F G A
+d846 4
+a849 2
+=4 9/16
+=5 9/16 min f smq rest
+d851 1
+a851 3
+=1 cro a qua. g qua f
+=2 qua rest cro. B
+=3 qua D smq F G A F G A c'
+d853 1
+a853 1
+=4 min rest smq rest
+d855 3
+a857 1
+=5 min g smq g
+d859 5
+a863 5
+=1 cro d smq c cro e
+=2 qua. rest qua rest rest B
+=3 qua D smq F G A F G A c'
+=4 min rest smq rest
+=5 min a smq a
+d867 1
+a867 3
+=1 treble cro. e smq rest A B
+=2 treble qua rest cro. B
+=3 treble smq E G A c' qua G smq A c' d'
+d869 4
+a872 2
+=4 bass
+=5 bass min g smq g
+a874 2
+=1 cro e qua. G qua A
+=2 min rest smq rest
+d876 1
+a876 1
+=3 smq D E G A qua E smq G A c'
+d878 4
+a881 2
+=4 min rest smq rest
+=5 min g smq rest
+d883 2
+a884 1
+=1 qua d smq c qua d smq d c qua d
+d886 3
+a888 4
+=3 qua F smq G A c' G, A, c d
+i                 cresc . . .
+=4 min rest smq rest
+=5 qua. g qua g~ g g~
+d891 5
+a895 5
+=1 7/16 qua. d smq c qua g smq e
+=2 7/16 cro. rest
+=3 7/16 smq E, G, Bb, c, G, Bb, d,
+=4 7/16
+=5 7/16 cro d~ qua. c~
+d900 1
+a900 3
+=1 treble qua. Bb smq c qua G, smq d
+=2 treble cro. rest
+=3 treble smq G, Bb, c, d, Bb, c, d,
+d902 4
+a905 2
+=4 bass
+=5 bass cro f~ qua. e~
+d907 5
+a911 5
+=1 9/16 qua g smq f g qua a smq d qua f
+=2 9/16 min rest smq rest
+=3 9/16 qua f smq g f d Bb f qua d
+=4 9/16
+=5 9/16 cro. d~ qua. c~
+d914 6
+a919 4
+=1 4/16 qua d~ smq c~ ab
+10.9      Solo . . .
+=2 4/16 cro rest
+=3 4/16 cro e
+a920 2
+i0.8  . . SosPed__|
+=5 4/16 qua g ab
+d923 3
+a925 1
+=1 9/16 qua. f smq f qua. ab qua f
+d927 1
+a927 1
+=2 9/16 qua A_b smq B_b B_b C B_b C C D
+d929 1
+a929 3
+=3 9/16 min ( F' d' ) smq ( F' d' )
+=4 9/16 min ( ab d~ ) smq ( ab d~ )
+=5 9/16 cro. Bb qua. ab
+d935 5
+a939 5
+=1 treble cro bb qua. c qua d
+=2 treble smq B_b C C D qua C smq D D F
+=3 treble min ( F' c') smq ( F' c')
+=4 bass min ( ab d~ ) smq ( ab d~ )
+=5 bass cro. f qua. bb
+d941 5
+a945 5
+=1 qua. c~ smq bb f ab d f bb
+=2 smq B_b C C D qua C smq D D F
+=3 min ( F Bb ) smq ( F Bb )
+=4 min ( ab d~ ) smq rest
+=5 cro. ab qua. d~
+d947 5
+a951 5
+=1 qua c~ smq bb g f  d~ c~ bb g
+=2 smq C D D F qua D smq F F G
+=3 min ( D c' ) smq ( D c' )
+=4 min ( G f' ) smq ( G f' )
+=5 cro f~ smq c~ cro f~
+d957 1
+a957 3
+=1 treble smq d c Bb G, qua f smq d c Bb
+=2 treble qua B_b smq C C D C D D F
+=3 treble min ( D' c' ) smq ( D' c' )
+d959 4
+a962 2
+=4 bass min ( G' f' ) smq ( G f' )
+=5 bass cro. c~ qua. bb
+d964 5
+a968 5
+=1 smq d c Bb Ab, qua f smq d c Bb
+=2 smq C D D F qua D smq F F Ab
+=3 min ( C Bb ) smq ( C Bb )
+=4 min ( Ab f' ) smq ( Ab f' )
+=5 cro. ab qua. d
+d970 5
+a974 5
+=1 qua f smq d c Bb  g f d rest
+=2 smq C D D F qua D smq F F G
+=3 min (C Bb d') smq (rest d')
+=4 min (F g') smq (F g')
+=5 cro. f qua. c
+d978 2
+d981 3
+a983 5
+=1 treble smq eb c Bb G, qua f smq eb c Bb
+=2 treble qua Eb smq F F G F G G Bb
+=3 treble min (C Eb Bb) smq rest
+=4 bass min (G f') smq rest
+=5 bass cro eb qua f qua. f
+d985 1
+a985 3
+=1 12/16 qua f smq eb c  ab f eb c  qua f smq c eb
+=2 12/16 smq B_b C C Eb C Eb Eb F C Eb Eb F
+=3 12/16 min. (B_b Eb Bb)
+d987 4
+a990 2
+=4 12/16 min ab cro ab
+=5 12/16 min Ab cro Ab
+d997 2
+d1000 3
+a1002 5
+=1 treble 6/16 qua g smq f c qua eb
+=2 treble 6/16 smq Eb qua F F smq G
+=3 treble 6/16 cro. (B_b Eb Bb)
+=4 bass 6/16 cro. g
+=5 bass 6/16 cro. G
+d1004 5
+a1008 5
+=1 9/16 qua ab smq f d c  qua bb smq ab f
+=2 9/16 smq C D D F qua D smq F F Ab
+=3 9/16 min (B_b D F) smq (B_b D F)
+=4 9/16 min (B_b ab')  smq (B_b ab')
+=5 9/16 min Bb smq rest
+d1010 5
+a1014 5
+=1 qua d smq c Bb, G,  qua f smq d c
+=2 smq D F F G qua F smq G G Bb
+=3 cro. (B_b D F) qua. (B_b D F)
+=4 cro. (B_b g') qua. (B_b ab') 
+=5 cro. g qua. ab
+d1018 3
+d1022 3
+a1024 6
+=1 treble 14/16 smq e d c Bb qua g smq e d c qua e smq d c Bb,
+=2 treble 14/16 qua C smq D D E qua D smq E E G D E E G
+=3 treble 14/16 smq G_ B_b C D  B_b C E  B_b C D E  C D G
+i0.2      mf                    cresc . . .                            f
+=4 bass 14/16 min. C
+=5 bass 14/16 min g qua. rest smq c~ bb a
+d1026 4
+a1029 3
+=1 9/16 smq A G E D qua c' smq A D E
+=2 9/16 qua E smq G G A D E E G
+=3 9/16 min (C E A) smq (C E A)
+a1030 1
+=5 9/16 min g smq g
+d1035 3
+d1039 3
+a1041 6
+=1 treble 4/16 cro Bb
+=2 treble 4/16 smq D E E G
+=3 treble 4/16 cro (C E G)
+=4 bass 4/16 cro (g bb)
+r0.7           *P_
+=5 bass 4/16 cro d
+d1043 3
+a1045 1
+=1 9/16 smq a g f d qua g smq f d c
+d1047 2
+a1048 4
+=2 9/16 qua. F cro. F
+=3 9/16 min (G_ C F) smq (G_ C F)
+=4 9/16 qua a smq bb bb c~ bb c~ c~ d~
+=5 9/16 cro. d qua. rest
+d1050 3
+a1052 1
+=1 qua Bb' smq G F D  G F D C
+d1054 2
+a1055 4
+=2 min rest smq rest
+=3 cro. (D F) qua. (C F)
+=4 (min g smq bb') smq c~' c~' qua. bb' a'
+=5 min c smq c
+d1061 3
+a1063 1
+=1 treble qua G smq E D C E D qua C
+d1065 1
+a1065 1
+=2 tenor qua rest qua. rest qua rest c
+d1069 1
+a1069 3
+=4 treble cro (C E) qua. (C E) qua (C E)
+=5 bass (min C, cro g' bb') qua. (g')   qua (g' bb')
+=6 bass min c smq rest
+d1072 4
+a1075 2
+=1 6/8 min. C
+=2 6/8 cro e qua A cro. c
+d1077 1
+a1077 3
+=4 6/8 cro. (C E) cro. F#
+=5 6/8 qua F# f#' cro F# qua F# f#'
+=6 6/8 cro. f# qua c~ e~ c~
+d1080 4
+a1083 2
+=1 5/8 min C qua rest
+=2 5/8 min rest smq B B
+d1085 1
+a1085 3
+=4 5/8 qua rest min f#
+=5 5/8 cro F# qua F# f#' F#
+=6 5/8 cro f# qua c~ e~ c~
+d1089 4
+a1092 2
+=1 treble 4/8 min rest
+=2 tenor 4/8 qua e smq B qua. d qua rest
+d1094 1
+a1094 3
+=4 treble 4/8 min (F#, f#)
+=5 bass 4/8 qua F# F# f#' F#
+=6 bass 4/8 min a
+d1096 4
+a1099 2
+=1 9/16 min rest smq rest
+=2 9/16 cro B smq rest qua c smq rest G,
+d1102 1
+a1102 3
+=4 9/16 smq rest e~ qua e smq e~ cro E
+=5 9/16 cro F# smq rest cro rest
+=6 9/16 min a smq rest
+d1104 3
+a1106 1
+=1 min rest smq rest
+d1108 1
+a1108 1
+=2 qua. c# G, rest
+a1110 2
+=4 smq e~ qua e smq e~ cro rest smq rest
+=5 cro rest e smq f#
+d1112 1
+a1112 1
+=6 cro. g smq f# e B,
+d1114 3
+a1116 1
+=1 6/8 min. rest
+d1118 1
+a1118 1
+=2 6/8 qua. c smq G#, qua B qua rest qua. rest smq c#
+d1120 1
+a1120 3
+=4 6/8 cro. (e e~)             smq rest d  c# C#, qua c#
+=5 6/8 (min. F# cro rest)  smq d' d~' qua d'  qua. rest smq c#
+=6 6/8 qua f# smq g# f# qua g# f# smq b qua. a
+d1125 4
+a1128 2
+=1 treble min. rest
+=2 tenor cro f smq c# c# cro e smq rest c#
+a1130 2
+=4 treble qua G cro B_, qua B' C#, A
+=5 bass (min. c#, cro rest) min a'
+d1132 1
+a1132 1
+=6 bass cro. g qua f eb Bb,
+d1134 4
+a1137 1
+=1 min. rest
+d1139 1
+a1139 1
+=2 qua. e qua d smq d qua f rest smq B d
+a1140 3
+=4 cro. (E Ab) (D Ab)
+i0.5            cresc . . .
+=5 cro.  c~     b
+d1142 1
+a1142 1
+=6 cro. e d
+d1148 3
+a1150 2
+=1 treble 9/8 smb rest qua rest
+=2 tenor 9/8 cro a rest qua d smq B qua e B smq rest qua c#
+d1152 1
+a1152 3
+=4 treble 9/8 (min. A cro. Eb,) min D, qua. G qua G
+=5 bass 9/8 (min b' cro. f) cro f qua e cro e qua bb'
+=6 bass 9/8 cro. f cro f qua e cro. e
+d1154 3
+a1156 2
+=1 smb rest qua rest
+=2 cro g qua rest e rest Bb qua. rest qua Bb smq d
+d1158 1
+a1158 3
+=4 cro. (Bb e) (Bb g) e
+=5 cro. (bb e~) (bb g~) (e~ g~)
+=6 min db qua db min c
+d1162 5
+a1166 2
+=1 treble smb rest qua rest
+=2 tenor qua. e rest qua d cro f qua rest g a
+d1169 1
+a1169 5
+=4 treble cro. (Ab' d') smq3  D, Ab, D,  Bb, D, Bb,  Ab, Bb, Ab,  d D, d qua G An
+i0.8           f         cresc . . .
+* Change the cro d~ to a whiteblob !
+=5 bass (cro. d~ rest) cro d~ min f
+=6 bass min e cro. d cro d
+d1172 2
+d1175 2
+a1176 2
+=1 6/8 cro. rest qua G, smq B, A, eb g
+=2 6/8 min b cro rest
+d1180 1
+a1180 3
+=4 6/8 cro. (G B eb') cro (G B eb') qua (B, g,)
+=5 6/8 min e~b cro (g e~b)
+=6 6/8 min a cro rest
+d1184 2
+d1187 1
+a1187 1
+=1 treble cro. g# f#
+d1189 1
+a1189 1
+=2 tenor qua c#' smq E' c#' qua E' smq c#' qua E' c#' smq rest
+d1192 1
+a1192 3
+=4 treble cro. (G#, g#) (F#, f#)
+=5 bass qua e smq c~# e qua c~# smq e qua c~# e smq c~#
+=6 bass min a# cro b
+d1194 3
+a1196 1
+=1 cro. e d
+d1198 1
+a1198 1
+=2 smq cn qua A c smq rest qua e smq G, e qua G,
+d1200 1
+a1200 3
+=4 cro. (E, e) (D, d)
+=5 smq a qua c~ a smq c~  qua g smq e~ g qua e~
+=6 min c~ cro rest
+d1206 2
+d1209 2
+a1210 2
+=1 treble min. c
+=2 tenor smq rest qua Bb d smq Bb qua d smq Bb d qua Bb
+d1212 1
+a1212 3
+=4 treble min. (C c')
+=5 bass smq bb qua d~ bb smq d~ qua bb smq d~ bb qua d~
+=6 bass min. d~
+d1214 5
+a1218 2
+=1 min rest cro B
+=2 qua f# smq A f# qua A smq e qua c# e smq c#
+d1220 1
+a1220 4
+i0.2                                   tr . . .
+=4 (min. B_ cro B) min B
+=5 qua a smq f~# a qua f~#  smq c~# qua e~ c~# smq e~
+=6 min e~ cro f~#
+d1225 3
+d1229 2
+a1230 2
+=1 treble cro. A G
+=2 tenor smq e qua c# e smq rest qua f smq A f qua A
+d1232 1
+a1232 4
+i0.2         tr . . .                            tr
+=4 treble cro. A qua G cro G
+=5 bass smq c~# qua e~ c~# smq e~  qua a smq f~ a qua f~
+=6 bass min g~ cro a
+d1234 4
+d1239 2
+a1240 2
+=1 min d cro c
+=2 qua f smq A f qua A smq rest qua Bb d smq Bb
+d1242 1
+a1242 5
+i0.15                    tr . . .                                         tr . .
+=4 qua d cro. d cro c
+i0.55                                           cresc . . .
+=5 qua a smq f~ a qua f~ smq f qua d~ f smq d~
+=6 min c~ cro d~
+d1246 6
+a1251 2
+=1 treble cro. bb a
+=2 tenor qua Bb smq d e qua f smq g qua a b smq g
+d1254 1
+a1254 5
+i0.2         tr . . .
+=4 treble cro Bb qua Bb cro f qua A
+i0.5                                  ff
+=5 bass smq ab qua c~ ab smq c~ qua f smq d~ f qua d~
+=6 bass min d cro rest
+d1256 4
+a1259 2
+=1 min g cro rest
+=2 smq a qua b c~# smq a qua f smq ab gb qua bb
+d1261 1
+a1261 3
+=4 qua3 A_ smq3 A  F f' F  f B, b  B b eb  e~b eb e~b  eb c~ f
+=5 qua g smq e~b g qua e~b  qua d~b smq c~ bb qua f
+=6 cro. g cro g qua f
+d1267 4
+a1270 2
+=1 treble 3/4 qua f smq ab gb cro bb qua bb smq d~b c~
+=2 tenor 3/4 min bb qua bb Bb
+d1275 1
+a1275 3
+=4 treble 3/4 min. f~
+=5 bass 3/4 min. eb
+=6 bass 3/4 min eb cro rest
+d1278 5
+a1282 1
+=1 4/4 min f~ cro rest F
+d1284 1
+a1284 1
+=2 4/4 smb B_b
+d1288 1
+a1288 5
+=4 4/4 smb (Eb Bb eb)
+i0.6  ff
+=5 4/4 smb (Bb eb bb)
+i0.8     *P_
+=6 4/4 smb eb
+d1293 6
+a1298 2
+=1 treble qua F cro Ab qua F  Ab cro F qua Ab
+=2 tenor cro B_b min. rest
+d1301 1
+a1301 5
+=4 treble smb (F Ab)
+i0.7       mp                                  mf
+=5 bass smb rest
+i0.8                       8va basso   mf
+=6 bass smb rest
+d1304 3
+a1306 1
+=1 qua Ab cro F qua Ab cro F Ab
+d1308 1
+a1308 1
+=2 smb rest
+d1311 1
+a1311 3
+=4 (smb F_ B_b F Ab min rest) (Eb eb' e~b')
+=5 smb (B_b Bb)
+=6 smb Bb
+d1314 4
+a1317 1
+=1 cro Ab min. F
+d1319 1
+a1319 1
+=2 smb rest
+d1321 1
+a1321 4
+=4 smb (F_ B_b Eb eb e~b)
+=5 smb (B_b Bb)
+i0.8                                       _*
+=6 smb Bb
+@

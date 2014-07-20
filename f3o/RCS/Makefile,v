@@ -1,0 +1,105 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.01.25.04.55.40;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for f3o, now with separate f3o_1 f3o_2 f3o_3
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@MUSCRIPT = /home/pbin/muscript
+NORMALIZE = /usr/bin/normalize-audio
+BLURB = /home/pjb/mus/blurb/compositions
+COMPD = /home/pjb/www/mus/comp
+A4D = ${COMPD}/a4
+USD = ${COMPD}/us
+XMLD = ${COMPD}/xml
+SRCD = ${COMPD}/src
+MP3D = ${COMPD}/mp3
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+WARNING = /home/pjb/mus/blurb/mus_free_warning_comp.a4
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+UTF2ISO = /home/pbin/utf2iso
+DIST = pjb3265@@loki.webcity.com.au:public_html/mus/comp
+PIECE = f3o
+PLAY = f3o
+
+dev : f3o_1.a4 f3o_2.a4 f3o_3.a4 f3o title.a4
+all : f3o.a4 ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
+dist:
+	upload ${A4D}/${PIECE}.pdf
+	upload ${USD}/${PIECE}.pdf
+	# upload ${MP3D}/${PIECE}.mp3
+
+${A4D}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${FREEBACKPAGE}
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 - ${FREEBACKPAGE} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${FREEBACKPAGE}
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 - ${FREEBACKPAGE} \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE}.xml : ${PIECE}
+	${MUSCRIPT} -xml ${PIECE} > $@@
+${SRCD}/${PIECE}.txt : ${PIECE}
+	cp ${PIECE} $@@
+${MP3D}/${PIECE}.mp3 : ${PIECE}
+	${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+f3o : f3o_1 f3o_2 f3o_3
+	cat f3o_1 f3o_2 f3o_3 > $@@
+f3o_1.a4 : f3o_1
+	${MUSCRIPT} f3o_1 > $@@
+	pkill -HUP gv
+f3o_2.a4 : f3o_2
+	${MUSCRIPT} f3o_2 > $@@
+	pkill -HUP gv
+f3o_3.a4 : f3o_3
+	${MUSCRIPT} f3o_3 > $@@
+	pkill -HUP gv
+${PIECE}.a4 : ${PIECE}
+	${MUSCRIPT} ${PIECE} > $@@
+	pkill -HUP gv
+${PLAY}.mid : ${PLAY}
+	${MUSCRIPT} -midi ${PLAY} > $@@
+	# | midiecho -c 0 -e 1,2 -d 400,400 -s 5,5 - > ${PLAY}.mid
+play : ${PLAY}.mid
+	midisox_lua ${PLAY}.mid -d stat trim 180 # 190
+play1 :
+	muscript -midi f3o_1 | midisox_lua - -d stat
+play2 :
+	muscript -midi f3o_2 | midisox_lua - -d stat
+play3 :
+	muscript -midi f3o_3 | midisox_lua - -d stat
+
+to_be_echoed.a4 : to_be_echoed
+	${MUSCRIPT} to_be_echoed > $@@
+	pkill -HUP gv
+play_t :
+	muscript -midi to_be_echoed |midiecho -c 0 -e 1,2 -d 400,400 -s 1,1 |aplaymidi - &
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+@

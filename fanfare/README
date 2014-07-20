@@ -1,0 +1,22 @@
+Arpeggiate the long last chord with eg: 4 instruments sharing 3 notes,
+to allow breaths.
+
+    |uuuuu ddddd |uuuuu ddddd |uuuuu ddddd | 3 instr, 2 voices, cycle 12
+    |ddd uuuuu dd|ddd uuuuu dd|ddd uuuuu dd|
+    |u ddddd uuuu|u ddddd uuuu|u ddddd uuuu|
+
+    |uu dd uu dd uu dd |
+    |d uu dd uu dd uu d|
+    | dd uu dd uu dd uu|
+   
+    |aaaa bb cc dd |
+    |dd aaaa bb cc |
+    |cc dd aaaa bb |
+    |bb cc dd aaaa |
+    |a bb cc dd aa |  :-(
+
+    |aaaa bbbccc |  4 instruments, 3 voices, cycle of 12 beats
+    |cc aaaa bbbc|
+    |bbccc aaaa b|
+    |a bbbccc aaa|
+

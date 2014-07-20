@@ -1,0 +1,274 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.08.30.08.43.42;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@renamed 20130821, ready for distribution
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@5 systems 40 /19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-35-19 10/
+# 1n1 lines, from book AM 28 - 33
+pagenum
+title 13.  The 1+n-1 Line
+innerhead Twenty Studies
+leftfoot (c) 2013 Peter J Billam
+midi channel 0 patch 0 # 103
+
+
+/
+4 bars | 10 10 10 10 10 10 10 10 13 10 13 9 | 5/4 18 18 18 20 \
+ | 18 18 18 20 | 18 18 18 20 |
+| 3.6
+I0.8     f
+=1, treble 6/4 cha0 leg100 vol120 1 d~~ 8 vol55 [D Eb D Eb]
+I0.7 .55 pp
+=2  bass   6/4 cha0 leg100 1 vol90  D_-P
+I0.5   mf
+| 3.0
+=1 5/4 1 D 4 Eb
+=2 5/4 1 blank
+|
+=1 vol55 1 F# 4 F#
+=2 vol55 1 d~ 4 d~
+|
+=1 vol60 1 <Eb(2 G(1> 4 <Eb)2(2 G)1(1>
+=2 vol60 1 rest' 4 <bb d~>
+/
+4 bars | 90 | 100 | 10 10 10 10 10 10 10 10 13 10 13 9 | 100 |
+|
+il0.7 .03 5
+=1 vol60 2. <Eb)2 G)1> 2 <Enl G#>
+=2 vol60 2. <a c~#> 2 <abl c~n>
+| 3.6
+I0.8 .96 f
+=1 6/4 1. <Fn A>
+=2 6/4 1. <g-P bn>
+I0.5 .93 mf
+| 3.6
+=1, 1 vol120 d~~ 8 vol55 [D Eb D Eb]
+I0.7 .55 pp
+=2  1 vol90  D_
+| 3.0
+=1 5/4 vol55 2.. D 4. C#
+=2 5/4 vol55 1 rest
+/
+4 bars | 120 | 70 | 10 10 10 10 10 10 13 10 13 9 | 80 |
+| 3.6
+=1 6/4 1 <D F#> 2 <D# G>
+=2 6/4 1 bb 2 <a d~bl>
+| 2.4
+il0.7 .03 10
+=1 4/4 1 <Ex F#>
+=2 4/4 1 <a-P c~>
+I0.5 .99 mf
+| 3.0
+I0.8 f
+=1, 5/4 2. vol120 d~~ 8 vol55 [D Eb D Eb]
+I0.7 .50 pp
+=2  5/4 2. vol90  D_ vol55
+| 2.4 
+=1 4/4 2. D  4 Eb
+=2 4/4 2. c~ 4 b
+/
+2 bars | 5/4 100 | 4/4 80 |
+| 3.0
+=1 5/4 43 A G#-I3 D 8 [Eb A] [G# D] [Eb A]
+=2 5/4 43 f c~-I3 b 8 [f c~] [b f] [c~ b]
+| 2.4
+=1' 4/4 vol60 8 [G# E] [F B] [A# E] 83 [F B-I3 A#]
+=2, 4/4 vol60 8 [f d~] [c~# g] [d~ c~#] 83 [g d~-I3 c~#]
+/
+2 bars | 6 7 7 6 7 6 7 7 6 6 7 5 \
+  | 6/4 4 4 5.8 4 5.5  3 4 4 4 3 4 4 3 4 4 3 4 4 4 3 4 4 3 4 4 3 4 4 4 2 |
+|
+il0.9 .01 15
+=1' vol65 83 [E F-I3 B] [A# E-I3 F] [B A#-I3 E] [F B-I3 A#]
+=2, vol65 83 [g d~-I3 c~#] [g d~-I3 c~#] [g d~-I3 c~#] [g d~-I3 c~#]
+| 3.6
+=1' 6/4 vol70 165 [E-emph F B-I5 A# F] 83 [Gb c-I3 B] [F c-I3 B] \
+ [F c-I3 B] [F c-I3 B] [F c-I3 B]
+i0.7 .03 cresc  poco a poco .  .  .
+=2 85 blank 85. blank-I5 1 blank
+=2, 6/4 vol70 85. [g-* 85 d] 83 [eb a-I3 g#] [d eb-I3 a] \
+ [g# d-I3 eb] [a g#-I3 d] [eb a-I3 g#]
+
+6 systems / 19-30-19/ 19-30-19/ 19-37-19/ 19-30-19/ 19-30-19/ 19-30-19/
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 13.  The 1+n-1 Line
+
+/
+2 bars | 5/4 7.5 5 5 5 7 5 5 5 5 4 5 5 4 5 5 5 5 5 5 4 5 5 4 5 3 \
+ | 5 5 5 5 5 4 5 5 5 4 4 5 5 5 4 4 5 5 5 4 4 5 5 5 3 |
+| 3.0
+=1' 5/4 vol75 165 [F-emph F# c-I5-,-,-I5, B G] 83 [Ab d-I3 c#] \
+ [G Ab-I3 d] [c# G-I3 Ab] [d c#-I3 G]
+=2, 5/4 vol75 85. [a 85 e] 83 [b a#-I3 e] [b a#-I3 e] [b a#-I3 e] [b a#-I3 e]
+|
+=1 85 blank 85. blank--I5 1 blank
+=1' vol80 85. [G# 85 A] 83 [D A-I3 G#] [D A-I3 G#] [D A-I3 G#] [D A-I3 G#]
+=2, vol80 165 [B-emph c f-I5 e B] 83 [c f e] [B c f] [e B c] [f e B]
+/
+2 bars | 3/4 5 4 4 5 4 4 5 4 4 5 4 3 \
+ | 5/4 5 4 5 4 5  3 4 4 3 4  4 4 4 3 4  3 4 4 4 4  3 4 4 3 3 |
+| 1.8
+=1' 3/4 vol90 16 [G Ab d G] [Ab d G Ab] [d G Ab d]
+=2, 3/4 vol90 16 [c f e B] [c f e B] [c f e B]
+
+# 20130829 Unique solutions!
+# |
+# could lead onward, if LH ends on e
+# =1 4 C Db G F#
+# =2 4 A Bb e d#
+# |
+# first
+# =1 4 E F B A#
+# =2 4 G Ab d c#
+# |
+# could lead onward, if LH ends on F, RH on A G# or on d
+# =1 4 D Eb A G#
+# =2 4 F Gb c B
+# |
+# =1 4 G Ab d c#
+# =2 4 e f b a#
+# |
+# =1 4 F Gb c B
+# =2 4 d eb a g#
+# |
+# =1 4 A Bb e d#
+# =2 4 c db g f#
+# |
+# could lead onward, if LH ends on e, RH on d
+# =1' 8 [D A G#] [Gn Ab d]
+# =2  4 B c f e
+
+| 3.0
+il0.7 .03 20
+=1  5/4 vol95 165 [c-emph db g-I5-,-I5, f# c] 16 [db g f# c] \
+ [db g f# c] [db g f# c] [db g f# c]
+=2' 5/4 vol95 85. [Bb 85 A] 16 [e A Bb e] [A Bb e A] [Bb e A Bb] [e A Bb e]
+/
+2 bars | 4 4 5.5  4 4  3 4 4 5 3  \
+ 3 4.6 4 4 3  4.5 4 4 3 4.5  4.5 4 4 4.5 3 \
+   | 4/4 5.4 4 5.5 4 5.4  3 4 4 4 5  3 4 3 4 3  3 4 4 4 3|
+| 3.0
+=1  vol100 85. [c# 85 cn] 16 [B e A, A#,] [d' G G# c'] [F Gb B' E] [F An D Eb]
+=2  vol100 165 [E-emph F B-I5 A# F] 8 [G 16 rest f'] \
+ 16 [b e f a] [d eb g c,] [db f B, c,]
+| 2.4
+#=1 4 <F_(4 A_(2 B_x(1>
+=1 4/4 4 G 43 <F_ A_ B_x> 83 <F_#l G_#xl C> \
+   4 <G_n(4 B_x(2 C#(1> 43 <G_)4 B_x)2 C#)1> 83 <G_#l A_#xl D>
+=2' 4/4 165 [e eb A-I5 A# d] 83 [db G-I3 G#] [c B-I3 F] [F# B-I3 Bb]
+/
+2 bars | 3/4 5.7 4 4 4 5.5  4 4 5 4 4  4 4 4 4 3 \
+ | 7/4 5 6 5 6 5 6 6 6 5 6 5 6 6 6 5 6 6 6 5 6 4 |
+| 1.8
+=1 3/4 4 <A_r C#xl D#l> 83 [<Cn E> <C# F-I3> <Dnl F#>] [<D# G> <E G#-I3> <Fn A>]
+=2 3/4 165 [F F# c-I5 B G] 83 [Ab An-I3 Bb] [Bn, gb-I3 f]
+| 4.2
+=1' 7/4 83 [Bb d-I3 db] [G Ab-I3 c'] [Bn' Fn-I3 Gb] \
+ [B' Bb'-I3-,-I3, E] [F An-I3 Ab] [D Eb-I3-,-,-I3, Gn] [Gb C Db]
+=1, 7/4 4 F# 2. blank
+=2 7/4 4 <e bb> eb d 43 d~b 83 c~ 4 bn 43 Bb 83 A 4 Ab
+
+/
+2 bars | 3/4 60 | 60 |
+| 1.8
+il0.7 .03 25
+=1 3/4 4 F  85. [Ab 85 G] 85. [Bb' 85 An]
+=2 3/4 165 [G G# d'-I5 db' A] [A# e' eb'-I5 B c] [f en c,-I5 c#, g]
+|
+=1 85. [c 85 B] 85. [d 85 c#] 85. [e 85 d#]
+=2 165 [gb d d#-I5 a ab] [e f b-I5 a# f] [f# c~ b-I5 gn g#]
+/
+1 bars | 5/4 100 |
+| 3.0
+=1 165 [f# c c#-I5 fn e] [B cn e-I5 eb A,] \
+ [A# d' db'-I5 G G#] [c' B' F-I5 F# B'] \
+ [Bb' En Fn-I5 An G#]
+=2 85. [a 85 ab] 85. [g 85 gb] \
+ 85. [f~ 85 e~] 85. [e~b 85 d] \
+ 85. [db' 85 c(4]
+
+6 systems / 19-30-19/ 19-35-19/ 19-30-19/ 19-30-19/ 19-30-19 5/ 19-20-19 10 /
+pagenum
+leftfoot (c) 2013 Peter J Billam
+innerhead 13.  The 1+n-1 Line
+
+/
+1 bars | 4/4 80 |
+| 2.4 
+=1 4/4 leg102 16 [D D# A-I5 Ab E] [F B' Bb'-I5 F F#] \
+ [c' Bn' G-I5 G# d'] [db An, A#,-I5 e eb(1]
+=2, 4/4 leg102 vol60 4 <cr)4(4 e(2 f#xl(3 a#l(1> \
+ 85. [<c)4 e)2 f#xl)3 a#l)1> 85 <c#l fnxl g b>] \
+ 4 <d(4 f#xl(2 g#l(3 c~(1> 85. [<d)4 fx)2 g)3 c~)1> 85 <ebl gnxl anl(1 c~#>]
+I0.3    p
+/
+2 bars | 3/4 12 12 8 | 24 |
+| 1.8
+=1 3/4 83 [<B eb)1> <Bb d-I3> <A, db>] \
+ [<Ab c'> <G Bn'-I3> <Gbl Bb'>] 4 <F(2 An(1>
+=2 3/4 vol100 83 [<f a)1> <f#l a#-I3> <g b>] [<g# c~> <a c~#-I3> <a# d~>] 4 <b(2 e~b(1>
+I0.3 .01 f
+| 1.2
+il0.8 .01 30
+=1 83 [<F)2 A)1> <F#l A#-I3> <G B'>] [<G# c'> <Anl c#'-I3> <A# d'>]
+# 4 <B(2 d#(1>
+=2 83 [<b)2 e~b)1> <bb d~-I3> <a d~b>] [<ab c~> <g bn-I3> <gbl bb>]
+# 4 <f(2 an(1>
+/
+2 bars | 12 12 8 | 12 12 8 |
+| 1.8
+=1 83 [<B eb> <c en-I3> <c# f>] [<d f#> <eb g-I3> <enl g#>] 4 <fn(2 a(1>
+=2 83 [<f a> <e g#-I3> <ebl gn>] [<d f#> <c#l, fn-I3> <cnl, en>] 4 <B(2 eb'(1>
+| 1.8
+=1 83 [<f)2 a)1> <e g#-I3> <ebl gn>] [<d f#> <c#l fn-I3> <cnl en>] 4 <B eb(1>
+=2 83 [<B)2 eb')1> <cl en'-I3> <c# f'>] [<d f#> <d# g-I3> <e g#>] 4 <fn(3 a(1>
+/
+1 bars | 4/4 80 |
+| 2.4
+=1 4/4 leg102 165 [eb)1 A, A#,-I5 d db] [G G# c'-I5 B' F] \
+ [F# Bn' Bb'-I5 E Fn] [An Ab D-I5 Eb Gn]
+=2, 4/4 leg102 4 <Br(4 ebx(2 fl)3(3 a)1(1> 85. [<B)4 ebx)2 fl)3 al)1> \
+ vol60 85 <cl enxl f#l bb>] 4 <c#l(4 fnxl(2 gl(3 bn(1> \
+ 85. [<c#)4 fx)2 g)3 b)1> 85 <dl f#xl g#l c~>]
+I0.2 .01 p
+/
+1 bars | 5/4 100 |
+| 3.0
+=1 5/4 165 [F# C C#-I5 Fn E] [B_ Cn E-I5 D# A_] \
+ 85. [F 85 E] 85. [eb 85 d] \
+ 85. [d~b 85 c~]
+=2 5/4 85. [a 85 ab] 85. [g 85 gb] \
+ 165 [a# d~ d~b-I5 gn g#] [c~ b f-I5 f# b] \
+ [bb e fn-I5 an g#]
+/
+2 bars | 6/4 120 | 20 ||
+| 3.6
+il0.9 .01 35
+=1 6/4 16 [g d~ d~b a] [e~ e~b b f~] \
+ [e~n c~ g~ g~b] [d~n a~ a~b e~] \
+ [b~ b~b f~ c~~] 83 [b~n g~n-I3 d~~(2]
+=2' 6/4 8 [d c#] [G Ab] 8. [D 16 C#(2] 8 [C#)2 G_(2] [G_)2 A_b(2] [A_)2 D_(1]
+|
+=1 1 d~~)2
+=2 1 D_)1
+@

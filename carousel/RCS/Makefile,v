@@ -1,0 +1,151 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4;
+comment	@# @;
+
+
+1.4
+date	2001.02.22.09.30.36;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	99.06.29.10.14.34;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	99.02.06.23.06.04;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	99.02.02.09.24.48;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for October at the Caropuusel
+@
+
+
+1.4
+log
+@scrapped individual sample scenes
+@
+text
+@FD = /home/pjb/www/softgoods
+# BANNER = /home/pjb/mus/blurb/banner.ps
+
+all : cast.a4 libretto.a4 sketch.a4 references.a4 \
+ title.libretto.a4 vs.a4 overture.a4 mailout.a4 \
+ ${FD}/carousel_libretto.a4 ${FD}/carousel_libretto.us samples.a4
+vs.a4 : vs1.a4 vs2.a4 vs3.a4
+
+# the words
+title.libretto.a4 : title.libretto
+	groff -ms title.libretto | /home/pbin/bannerise > $@@
+cast.a4 : cast
+	groff -ms cast > $@@
+libretto.a4 : cast bp libretto
+	groff -ms cast bp libretto > $@@
+references.a4 : references
+	groff -ms references > $@@
+${FD}/carousel_libretto.a4 : title.libretto.a4 ruby_mugshot.a4 \
+ libretto.a4 selfportrait.a4 references.a4
+	/home/pbin/pscat title.libretto.a4 ruby_mugshot.a4 libretto.a4 \
+	selfportrait.a4 references.a4 > $@@
+${FD}/carousel_libretto.us : title.libretto.a4 ruby_mugshot.a4 \
+ libretto.a4 selfportrait.a4 references.a4
+	/home/pbin/a42us title.libretto.a4 > /tmp/libretto
+	/home/pbin/a42us -e ruby_mugshot.a4 >> /tmp/libretto
+	/home/pbin/a42us libretto.a4 >> /tmp/libretto
+	/home/pbin/a42us -e selfportrait.a4 >> /tmp/libretto
+	/home/pbin/a42us references.a4 >> /tmp/libretto
+	/home/pbin/pscat /tmp/libretto > $@@
+	rm /tmp/libretto
+
+# single-line vocal sketch, now very out of date; see vs1 vs2 vs3
+sketch.a4 : sketch
+	muscript sketch > $@@
+
+# vocal score, voice and piano
+overture.a4 : overture
+	muscript overture > $@@
+vs1.a4 : vs1
+	muscript vs1 > $@@
+vs2.a4 : vs2
+	muscript vs2 > $@@
+vs3.a4 : vs3
+	muscript vs3 > $@@
+
+# the sample scenes, for the mailout
+samples.a4 : samples
+	muscript samples > $@@
+mailout.a4 : mailout
+	groff -ms mailout > $@@
+# run ./extract_samples manually after editing vs1 vs2 or vs3 ...
+@
+
+
+1.3
+log
+@sketch no longer made from libretto
+@
+text
+@d1 2
+a2 1
+BANNER = /home/pjb/mus/blurb/banner.ps
+d4 8
+a11 1
+all : cast.a4 libretto.a4 sketch.a4 references.a4 title.a4 scenes.a4
+d14 2
+a15 2
+libretto.a4 : libretto
+	groff -ms libretto > $@@
+d18 15
+a32 2
+scenes.a4 : scenes
+	groff -ms scenes > $@@
+d35 17
+a51 8
+title.a4 : title
+	cp ${BANNER} $@@
+	groff -ms title >> $@@
+# sketch : make_sketch libretto
+# 	./make_sketch
+.print : title.a4 cast.a4 references.a4 scenes.a4 libretto.a4
+	lpr title.a4 cast.a4 references.a4 scenes.a4 libretto.a4 
+	date '+%Y%m%d %H%M%S' >> $@@
+@
+
+
+1.2
+log
+@add scenes.a4
+@
+text
+@d17 2
+a18 2
+sketch : make_sketch libretto
+	./make_sketch
+@
+
+
+1.1
+log
+@add make .print
+@
+text
+@d3 1
+a3 1
+all : cast.a4 libretto.a4 sketch.a4 references.a4 title.a4
+d10 2
+d19 2
+a20 2
+.print : title.a4 cast.a4 references.a4 libretto.a4
+	lpr title.a4 cast.a4 references.a4 libretto.a4 
+@

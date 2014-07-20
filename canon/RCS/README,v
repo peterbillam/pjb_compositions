@@ -1,0 +1,90 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2009.07.09.05.37.19;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Overview and notes for ArtOfCanon
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@20090620
+E.G.  For an invertible canon at +2 st, in 3 voices,
+if the first notes in the segment are 0,3,6 (abs)
+then the first notes at the start of the next segment will be 2,5,8
+then 4,7,10   then 6,9,12
+So the first voice has to start its segments
+either on 0 then 5 then 10 then 6
+    or on 0 then 8 then  7 then 6
+
+For an invertible canon at +n st, in 3 voices,
+if the first notes in the segment are 0,a,b (abs)
+then the first notes at the start of the next segment will be n,a+n,b+n
+then 2n,a+2n,b+2n   then 3n,a+3n,b+3n
+So the first voice has to start its segments
+either on 0 then a+n  then b+2n then 3n
+    or on 0 then a+2n then b+n  then 3n
+
+This tells you how to lead the three voices through the segment,
+given the initial notes and the desired canon-interval.
+
+20090621
+Halving the block-size from two bars to one...
+Starting from AABBCC:
+  A      A      B+n    B+n    C+2n   C+2n
+  C      C      A+n    A+n    B+2n   B+2n
+  B      B      C+n    C+n    A+2n   A+2n
+Moving to ACBACB (preserves alternate bars):
+  A      C+z    B+n    A+n+x  C+2n   B+2n+y
+  C      C      A+n    C+n+z  B+2n   A+2n+x
+  B      B      C+n    C+n    A+2n   C+2n+z
+Moving to ABCABC:
+  A      B+y    C+n+z  A+n+x  B+2n+y C+2n+z
+  C      C      A+n    B+n+y  C+2n+z A+2n
+  B      B      C+n    C+n    A+2n   B+2n+y
+(z is overdetermined; must fit bar 3 then also bar 5; x is unneeded)
+
+20090701, 20090709
+@@st             voices     @@dt
+ 1  slow   8/4              =10sec   long-themed, once round only
+ 2  fast  21/8  3 SAB  2bars=6sec    lively; a rabbitty theme
+ 3  slow   6/2 
+ 4  fast   5/4 
+ 5  slow  12/8 
+ 6  fast   3/2 
+ 7  slow   2/4 
+ 8 v.slow  3/8 
+ 9 v.fast  4/2 
+10  slow   5/4 
+11  fast  18/8 
+12  slow   4/4  3 BAS  2bars=6sec    augmented entry at end
+
+other possibilities:
+    10/8 - | 3 2 2 3 | 2 3 3 2 | 2 3 3 2 | 3 2 2 3 |
+    8/8 - | 5 3 | 3 5 | 3 5 | 5 3 | 3 5 | 5 3 | 5 3 | 3 5 
+          8 [D u u u u] [D u u]  or  [D u u] [D u u u u]
+        1st voi | cro cro     qua cro qua |
+        2nd voi | cro qua cro     cro qua |
+        overall | cro qua qua qua cro qua |
+    5/4
+    3/4,6/8
+    30/8  5x3x2, 5x2x3, 3x5x2, 3x2x5, 2x5x3, 2x3x5   almost V.J.Iyer
+    double canon at 2st,2bars and 3st,3bars  or  3st,3bars and 4st,4bars
+    4 voices   SATB  at 3 bars
+    short-cannoned, long-themed, non-invertible
+    very-short-cannoned, unending-melody, non-invertible, fast
+@

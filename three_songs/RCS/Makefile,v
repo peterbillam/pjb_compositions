@@ -1,0 +1,11 @@
+head	;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+
+desc
+@Makefile for songs, using a42us etc
+@

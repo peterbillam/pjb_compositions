@@ -1,0 +1,140 @@
+#! /usr/bin/perl
+
+my $patch = '0';
+print <<EOT;
+3 systems 15 / 18-20-18-20-18-25-18-20-18 \\
+ / 18-20-18-20-18-25-18-20-18 / 18-20-18-20-18-25-18-20-18 15 /
+title Canon  at five semitones
+midi channel 1 patch $patch reverb 90 pan 95
+midi channel 2 patch $patch reverb 90 pan 65
+midi channel 3 patch $patch reverb 90 pan 35
+midi channel 4 patch $patch reverb 90 pan 5
+/
+5 bars | 5/4 60 | 60 |
+| 3.0
+=1 treble cha1 1 rest
+=2 treble cha2 1 rest
+=3 treble cha3 1 rest
+=4 bass   cha4 2 rest 2. a
+=5 bass   cha5 1 rest
+|
+=1 1 rest
+=2 1 rest
+=3 2 rest 2. D
+=4 2. e 4 rest e
+=5 1 rest
+EOT
+
+my @voice4 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	$ibar += 1;
+	$voice4[$ibar] = $_;
+}
+
+$ibar = 3; while (1) {
+	last if $ibar > 53;
+	if (6 == $ibar) { print "/\n5 bars | 60 | 60 | 60 | 60 | 60 |\n"; }
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.5 .05 $ibar\n"; }
+
+	my $s2 = $voice4[$ibar-2];
+	my $s3 = $voice4[$ibar-1];
+	if ($ibar>10 and !$s2 and !$s3) { last; }
+	if ($ibar > 87) { last; }
+	system "echo \"=2 $s2\" | transpose -A -14";
+	system "echo \"=3 $s3\" | transpose -A -19";
+	print "=4 $voice4[$ibar]\n";
+
+	$ibar += 1;
+}
+exit 0;
+
+__END__
+2 rest 2. a
+2. e 4 rest e
+4 leg99 e-emph 2 f 4 rest leg85 f
+4 leg99 f-emph 2 f# 4 rest leg85 f#
+4 leg99 f#-emph 2 g 4 rest leg85 g
+4 leg99 g# 2 a 4 rest leg85 a
+1 a
+2. rest 2 a(1
+4 a)1 2 e 4 rest e
+# -1 +2 -1 -1 +2
+4 leg99 e-emph 2 eb 4 rest leg85 eb
+4 leg99 eb-emph 2 f 4 rest leg85 f
+4 leg99 f-emph 2 en 4 rest leg85 e
+4 leg99 e-emph 2 eb 4 rest leg85 eb
+# 4 leg99 eb-emph 2 f 4 rest leg85 f
+2. leg99 f-emph 2 leg85 f
+# -1=>0 +2 -1
+1 leg99 f-emph 4 leg85 f
+4 leg99 f-emph 2 g 4 rest leg85 g
+4 leg99 g-emph 2 f# 4 rest leg85 f#
+# -1 +2 -1 -1 +2
+4 leg99 f#-emph 2 fn 4 rest leg85 f
+4 leg99 f-emph 2 g 4 rest leg85 g
+4 leg99 g-emph 2 f# 4 rest leg85 f#
+4 leg99 f#-emph 2 fn 4 rest leg85 f
+# 4 leg99 f-emph 2 g 4 rest leg85 g
+2. leg99 g-emph 2 leg85 g
+# -1=>0 +2 -1 -1 +2
+1 leg99 g-emph 4 leg85 g
+4 leg99 g-emph 2 a 4 rest leg85 a
+4 leg99 a-emph 2 g# 4 rest leg85 g#
+4 leg99 g#-emph 2 gn 4 rest leg85 g
+# 4 leg99 g-emph 2 a 4 rest leg85 a
+2. leg99 a-emph 2 leg85 a
+# -1=>0 +2 -1
+1 leg99 a-emph 4 leg85 a
+4 leg99 a-emph 2 b 4 rest leg85 b
+4 leg99 b-emph 2 bb 4 rest leg85 bb
+# -1 +2 -1 -1 +2
+4 leg99 bb-emph 2 a 4 rest leg85 a
+4 leg99 a-emph 2 b 4 rest leg85 b
+4 leg99 b-emph 2 bb 4 rest leg85 bb
+4 leg99 bb-emph 2 a 4 rest leg85 a
+# 4 leg99 a-emph 2 b 4 rest leg85 b
+2. leg99 b-emph 2 leg85 b
+# -1=>0 +2 -1
+1 leg99 b-emph 4 leg85 b
+4 leg99 b-emph 2 c~# 4 rest leg85 c~#
+4 leg99 c~#-emph 2 c~n 4 rest leg85 c~
+# -1 +2 -1 -1 +2
+4 leg99 c~-emph 2 b 4 rest leg85 b
+4 leg99 b-emph 2 c~# 4 rest leg85 c~#
+4 leg99 c~#-emph 2 c~n 4 rest leg85 c~
+4 leg99 c~-emph 2 b 4 rest leg85 b
+4 leg99 b-emph 2 c~# 4 rest leg85 c~#
+#
+2. leg99 c~#-emph 2 c~#(1
+2  c~#)1 2. g#(1
+4 g#)1 1 d#(1
+1 d#)1
+1 e(1
+1 e)1 4 f(1
+1 f)1(1
+1 f)1
+1 f#
+1 f#
+
+
+
+
+quit
+4 leg99 E-emph 2 F 4 rest leg85 F
+4 leg99 F-emph 2 F# 4 rest leg85 F#
+4 leg99 F#-emph 2 G 4 rest leg85 G
+4 leg99 G# 2 A 4 rest leg85 A
+2 A 2. A
+2. E 4 rest E
+4 leg99 E-emph 2 F 4 rest leg85 F
+# 4 leg99 F-emph 2 F# 4 rest leg85 F#
+# 2. leg99 F# 4 rest leg85 F#
+4 leg99 F-emph 2 F# 4 rest leg85 G
+# 4  leg99 G G# 2. leg85 A
+4  leg99 G# A 2 leg85 B leg99 4 A
+1 G

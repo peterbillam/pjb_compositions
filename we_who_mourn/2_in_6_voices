@@ -1,0 +1,167 @@
+% start
+3 systems 10 /17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-23-17-22-17-22-17 /
+title We Who Mourn
+pagenum 2
+innerhead Peter Billam
+leftfoot (c) 2007 Peter J Billam
+midi channel 1 patch 52 pan 41 reverb 100
+midi channel 2 patch 52 pan 87 reverb 100
+midi channel 3 patch 52 pan 5 reverb 100
+midi channel 4 patch 52 pan 95 reverb 100
+midi channel 5 patch 52 pan 23 reverb 100
+midi channel 6 patch 52 pan 69 reverb 100
+
+/
+5 bars | 8/4  4 | 32 | 32 |
+| 1/4 112
+i0.5 .07 112 cro/min
+=1 treble     8/4 cha1 leg95 vol80 cro rest
+=2 treble     8/4 cha2 leg95 vol80 cro rest
+=3 treble     8/4 cha3 leg95 vol80 cro rest
+=4 treble8vab 8/4 cha5 leg85 vol60 cro f
+r0.6 .27 We
+=5 treble8vab 8/4 cha4 leg85 vol60 cro d
+r0.6 .27 We
+=6 bass       8/4 cha6 leg95 vol80 cro rest
+| 8/4 112
+=1 smb rest rest
+=2 smb rest rest
+=3 smb rest rest
+=4 smb f(1 cro f)1 f min f(1
+r0.6 .01 grieve .63 to .75 lose ,
+=5 smb d(1 cro d)1 d min d(1
+r0.6 .01 grieve .63 to .75 lose ,
+=6 min. rest cro b min.. c~ qua a
+r0.1 .37 We .50 grieve .87 to
+|
+=1 smb rest rest
+=2 smb rest rest
+=3 smb rest rest
+=4 cro f)1 rest f f(1 smb f)1(1
+r0.6 .25 we .37 grieve
+=5 cro d)1 rest d d(1 smb d)1(1
+r0.6 .25 we .37 grieve
+=6 smb. ab cro rest bb
+r0.1 .01 lose .87 what
+|
+=1 smb rest rest
+=2 smb rest rest
+=3 smb rest rest
+=4 cro f)1 cro f min f(1 min f)1 cro f f(1
+r0.6 .12 to .25 lose .75 what we
+=5 cro d)1 cro d min d(1 min d)1 cro c# c#(1
+r0.6 .12 to .25 lose .75 what we
+=6 min.. bn qua ab smb g(1
+r0.1 .01 we .44 achieved
+|
+=1 smb rest rest
+=2 cro rest min. Bb min A G(2
+=3 smb rest rest
+=4 min f)1 cro f f(1 min f)1 cro rest e
+r0.6 .25 achieved , .83 what
+=5 min c#)1 cro c# c#(1 min c#)1 cro rest c#
+r0.6 .25 achieved , .83 what
+=6 cro g)1 min. rest smb rest
+/
+4 bars | 32 | 6/4 24 | 24 | 24 |
+|
+=1  smb rest rest
+=2  min G)2 rest smb rest
+=3  smb rest rest
+=4  smb e(1 cro e)1 cro e min e
+r0.6 .01 we .62 achieved ,
+=5  smb c#(1 cro c#)1 cro c# min c#
+r0.6 .01 we .62 achieved ,
+=6  min. rest cro a min.. bb qua g
+r0.1 .37 we .50 grieve .91 to
+| 6/4 3.2
+=1 6/4 min rest c min B(1
+=2 6/4 min rest A min G(2
+=3 6/4 smb rest rest
+=4 6/4 cro rest min e min. e(1
+r0.6 .12 we .37 grieve ,
+=5 6/4 cro rest min cn min. c(1
+r0.6 .12 we .37 grieve ,
+=6 6/4 smb f#(1
+r0.1 .01 lose
+|
+=1 cro B)1 min A min. G
+=2 cro G)2 min F# min. E
+=3 smb rest rest
+=4 smb e)1 min rest
+=5 smb c)1 min rest
+=6 smb f#)1
+
+|
+=1'  smb. rest
+=2  min. F# F
+r0.6 .01 we .50 grieve
+=3  min. Eb D
+r0.6 .01 we .50 grieve
+=4  smb. rest
+=5'  min F# cro A# min Bn cro G#
+r0.6 .01 sing .33 for .50 love .83 of
+=6  smb. rest
+/
+5 bars | 24 |
+|
+=1  smb. rest
+=2  min. F# F#
+r0.6 .01 to .50 lose
+=3  min. Eb D
+r0.6 .01 to .50 lose
+=4  smb. rest
+=5'  min F# cro A# min B cro G#
+r0.6 .01 word .33 and .50 number
+=6  smb. rest
+|
+=1  min. rest min rest cro G#
+r0.60 .86 We
+=2  min. F# F#
+r0.6 .01 to .50 lose
+=3  min. Eb D
+r0.6 .01 to .50 lose
+=4  min. rest min rest cro A#
+r0.60 .86 We
+=5'  min F# cro G# min A# cro rest
+r0.6 .01 pen .33 and .50 poem
+=6  smb. rest
+
+|
+=1 min. Bb Bb
+r0.6 .01 we .50 grieve
+=2 min. G F#
+r0.6 .01 we .50 grieve
+=3 smb. rest
+=4' min A# cro d min eb cro c
+r0.6 .01 sing .33 of .50 bow .83 and
+=5 smb. rest
+=6 smb. rest
+|
+=1 min. Bb Bb
+r0.6 .01 we .50 grieve
+=2 min. G F#
+r0.6 .01 we .50 grieve
+=3 smb. rest
+=4' min A# cro d min eb cro c
+r0.6 .01 string .33 and .50 cloth .83 and
+=5 smb. rest
+=6 smb. rest
+
+|
+=1 min. Bb min rest cro c
+r0.6 .01 to .50 lose
+=2 min. G min. F#
+r0.6 .01 to .50 lose
+=3 smb. rest
+=4' min db
+r0.6 .01 home
+=5 smb. rest
+|
+=1 smb c#
+=2 smb F
+=4 smb f
+
+

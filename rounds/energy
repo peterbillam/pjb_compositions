@@ -1,0 +1,621 @@
+/
+4 bars ||: 32 | 32 |
+| 4/4 120
+midi channel 4 patch 52 pan 5
+midi channel 1 patch 52 pan 20
+midi channel 6 patch 52 pan 35
+midi channel 3 patch 52 pan 50
+midi channel 5 patch 52 pan 65
+midi channel 2 patch 52 pan 80
+midi channel 7 patch 52 pan 95
+bl1.2 .01 The Energy Cycle
+il0.2 .01 1
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+/
+3 bars | 32 | 32 |
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+/
+3 bars | 32 | 32 |
+|
+=1 leg70 qua c c c B' A A A G
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 leg70 qua rest F F rest rest F F F
+/
+4 bars | 32 | 32 | 20 | 20 :||
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+|
+=1 leg70 qua rest G G rest rest G G G
+|
+il0.2 .01 2
+=1 min blank smb rest
+=2 treble8vab cha2 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 min blank smb rest
+#=9 bass cha9 pan20 2 rest 8 rest Eb Eb rest
+=2 leg90 qua D rest rest D(1 cro D)1 rest
+
+# 2 enters
+|
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+=2 leg90 qua E rest rest E(2 cro E)2 rest
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+=2 leg90 qua F rest rest F(2 cro F)2 qua rest F
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+=2 leg70 qua G G G G G G G G
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=2 leg70 qua G G A B leg40 c leg70 c c c
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+=2 leg70 qua leg40 c leg70 c c c rest c c c
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+=2 leg70 qua c c c B' A A A G
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+=2 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 leg70 qua c c c B' A A A G
+=2 leg70 qua rest F F rest rest F F F
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+=2 leg70 qua rest E E rest rest E E E
+|
+=1 leg70 qua rest F F rest rest F F F
+=2 leg70 qua rest G G rest rest G G G
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+=2 min blank smb rest
+=3 treble cha3 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 leg70 qua rest G G rest rest G G G
+=2 min blank smb rest
+#=9 bass cha9 pan80 2 rest 8 rest Eb Eb rest
+=3 leg90 qua D rest rest D(1 cro D)1 rest
+|
+il0.2 .01 2
+=1 min blank smb rest
+=2 leg90 qua C rest rest C(1 cro C)1 rest
+=3 leg90 qua E rest rest E(2 cro E)2 rest
+|
+=1 min blank smb rest
+#=9 bass cha9 pan20 2 rest 8 rest Eb Eb rest
+=2 leg90 qua D rest rest D(1 cro D)1 rest
+=3 leg90 qua F rest rest F(2 cro F)2 qua rest F
+
+# 3
+|
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+=2 leg90 qua E rest rest E(2 cro E)2 rest
+=3 leg70 qua G G G G G G G G
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+=2 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=3 leg70 qua G G A B leg40 c leg70 c c c
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+=2 leg70 qua G G G G G G G G
+=3 leg70 qua leg40 c leg70 c c c rest c c c
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=2 leg70 qua G G A B leg40 c leg70 c c c
+=3 leg70 qua c c c B' A A A G
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+=2 leg70 qua leg40 c leg70 c c c rest c c c
+=3 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+=2 leg70 qua c c c B' A A A G
+=3 leg70 qua rest F F rest rest F F F
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+=2 leg70 qua leg40 G leg70 G G rest rest G G G
+=3 leg70 qua rest E E rest rest E E E
+|
+=1 leg70 qua c c c B' A A A G
+=2 leg70 qua rest F F rest rest F F F
+=3 leg70 qua rest G G rest rest G G G
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+=2 leg70 qua rest E E rest rest E E E
+=3 min blank smb rest
+=4 treble8vab cha4 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 leg70 qua rest F F rest rest F F F
+=2 leg70 qua rest G G rest rest G G G
+=3 min blank smb rest
+#=9 bass cha9 pan50 2 rest 8 rest Eb Eb rest
+=4 leg90 qua D rest rest D(1 cro D)1 rest
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+=2 min blank smb rest
+=4 leg90 qua E rest rest E(1 cro E)1 rest
+|
+=1 leg70 qua rest G G rest rest G G G
+=2 min blank smb rest
+#=9 bass cha9 pan80 2 rest 8 rest Eb Eb rest
+=3 leg90 qua D rest rest D(1 cro D)1 rest
+=4 leg90 qua F rest rest F(1 cro F)1 rest
+|
+il0.2 .01 2
+=1 min blank smb rest
+=2 leg90 qua C rest rest C(1 cro C)1 rest
+=3 leg90 qua E rest rest E(1 cro E)1 rest
+=4 leg70 qua G G G G G G G G
+|
+=1 min blank smb rest
+#=9 bass cha9 pan20 2 rest 8 rest Eb Eb rest
+=2 leg90 qua D rest rest D(1 cro D)1 rest
+=3 leg90 qua F rest rest F(1 cro F)1 rest
+=4 leg70 qua G G A B leg40 c leg70 c c c
+
+# 4
+|
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+=2 leg90 qua E rest rest E(2 cro E)2 rest
+=3 leg70 qua G G G G G G G G
+=4 leg70 qua leg40 c leg70 c c c rest c c c
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+=2 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=3 leg70 qua G G A B leg40 c leg70 c c c
+=4 leg70 qua c c c B' A A A G
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+=2 leg70 qua G G G G G G G G
+=3 leg70 qua leg40 c leg70 c c c rest c c c
+=4 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=2 leg70 qua G G A B leg40 c leg70 c c c
+=3 leg70 qua c c c B' A A A G
+=4 leg70 qua rest F F rest rest F F F
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+=2 leg70 qua leg40 c leg70 c c c rest c c c
+=3 leg70 qua leg40 G leg70 G G rest rest G G G
+=4 leg70 qua rest E E rest rest E E E
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+=2 leg70 qua c c c B' A A A G
+=3 leg70 qua rest F F rest rest F F F
+=4 leg70 qua rest G G rest rest G G G
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+=2 leg70 qua leg40 G leg70 G G rest rest G G G
+=3 leg70 qua rest E E rest rest E E E
+=4 min blank smb rest
+=5 treble cha5 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 leg70 qua c c c B' A A A G
+=2 leg70 qua rest F F rest rest F F F
+=3 leg70 qua rest G G rest rest G G G
+=4 min blank smb rest
+=5 leg90 qua D rest rest D(1 cro D)1 rest
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+=2 leg70 qua rest E E rest rest E E E
+=3 min blank smb rest
+=4 treble8vab cha4 leg90 qua C rest rest C(1 cro C)1 rest
+=5 leg90 qua E rest rest E(1 cro E)1 rest
+|
+=1 leg70 qua rest F F rest rest F F F
+=2 leg70 qua rest G G rest rest G G G
+=3 min blank smb rest
+=4 leg90 qua D rest rest D(1 cro D)1 rest
+=5 leg90 qua F rest rest F(1 cro F)1 rest
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+=2 min blank smb rest
+=3 treble cha3 leg90 qua C rest rest C(1 cro C)1 rest
+=4 leg90 qua E rest rest E(1 cro E)1 rest
+=5 leg70 qua G G G G G G G G
+|
+=1 leg70 qua rest G G rest rest G G G
+=2 min blank smb rest
+=3 leg90 qua D rest rest D(1 cro D)1 rest
+=4 leg90 qua F rest rest F(1 cro F)1 rest
+=5 leg70 qua G G A B leg40 c leg70 c c c
+|
+il0.2 .01 2
+=1 min blank smb rest
+=2 leg90 qua C rest rest C(1 cro C)1 rest
+=3 leg90 qua E rest rest E(1 cro E)1 rest
+=4 leg70 qua G G G G G G G G
+=5 leg70 qua c c c B' A A A G
+|
+=1 min blank smb rest
+=2 leg90 qua D rest rest D(1 cro D)1 rest
+=3 leg90 qua F rest rest F(1 cro F)1 rest
+=4 leg70 qua G G A B leg40 c leg70 c c c
+=5 leg70 qua leg40 G leg70 G G rest rest G G G
+
+# 5
+|
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+=2 leg90 qua E rest rest E(2 cro E)2 rest
+=3 leg70 qua G G G G G G G G
+=4 leg70 qua leg40 c leg70 c c c rest c c c
+=5 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+=2 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=3 leg70 qua G G A B leg40 c leg70 c c c
+=4 leg70 qua c c c B' A A A G
+=5 leg70 qua rest F F rest rest F F F
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+=2 leg70 qua G G G G G G G G
+=3 leg70 qua leg40 c leg70 c c c rest c c c
+=4 leg70 qua leg40 G leg70 G G rest rest G G G
+=5 leg70 qua rest E E rest rest E E E
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=2 leg70 qua G G A B leg40 c leg70 c c c
+=3 leg70 qua c c c B' A A A G
+=4 leg70 qua rest F F rest rest F F F
+=5 leg70 qua rest G G rest rest G G G
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+=2 leg70 qua leg40 c leg70 c c c rest c c c
+=3 leg70 qua leg40 G leg70 G G rest rest G G G
+=4 leg70 qua rest E E rest rest E E E
+=5 min blank smb rest
+=6 treble8vab cha6 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+=2 leg70 qua c c c B' A A A G
+=3 leg70 qua rest F F rest rest F F F
+=4 leg70 qua rest G G rest rest G G G
+=5 min blank smb rest
+=6 leg90 qua D rest rest D(1 cro D)1 rest
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+=2 leg70 qua leg40 G leg70 G G rest rest G G G
+=3 leg70 qua rest E E rest rest E E E
+=4 min blank smb rest
+=5 treble cha5 leg90 qua C rest rest C(1 cro C)1 rest
+=6 leg90 qua E rest rest E(2 cro E)2 rest
+|
+=1 leg70 qua c c c B' A A A G
+=2 leg70 qua rest F F rest rest F F F
+=3 leg70 qua rest G G rest rest G G G
+=4 min blank smb rest
+=5 leg90 qua D rest rest D(1 cro D)1 rest
+=6 leg90 qua F rest rest F(2 cro F)2 qua rest F
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+=2 leg70 qua rest E E rest rest E E E
+=3 min blank smb rest
+=4 treble8vab cha4 leg90 qua C rest rest C(1 cro C)1 rest
+=5 leg90 qua E rest rest E(1 cro E)1 rest
+=6 leg70 qua G G G G G G G G
+|
+=1 leg70 qua rest F F rest rest F F F
+=2 leg70 qua rest G G rest rest G G G
+=3 min blank smb rest
+=4 leg90 qua D rest rest D(1 cro D)1 rest
+=5 leg90 qua F rest rest F(1 cro F)1 rest
+=6 leg70 qua G G A B leg40 c leg70 c c c
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+=2 min blank smb rest
+=3 treble cha3 leg90 qua C rest rest C(1 cro C)1 rest
+=4 leg90 qua E rest rest E(1 cro E)1 rest
+=5 leg70 qua G G G G G G G G
+=6 leg70 qua leg40 c leg70 c c c rest c c c
+|
+=1 leg70 qua rest G G rest rest G G G
+=2 min blank smb rest
+=3 leg90 qua D rest rest D(1 cro D)1 rest
+=4 leg90 qua F rest rest F(1 cro F)1 rest
+=5 leg70 qua G G A B leg40 c leg70 c c c
+=6 leg70 qua c c c B' A A A G
+|
+il0.2 .01 2
+=1 min blank smb rest
+=2 leg90 qua C rest rest C(1 cro C)1 rest
+=3 leg90 qua E rest rest E(1 cro E)1 rest
+=4 leg70 qua G G G G G G G G
+=5 leg70 qua c c c B' A A A G
+=6 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 min blank smb rest
+=2 leg90 qua D rest rest D(1 cro D)1 rest
+=3 leg90 qua F rest rest F(1 cro F)1 rest
+=4 leg70 qua G G A B leg40 c leg70 c c c
+=5 leg70 qua leg40 G leg70 G G rest rest G G G
+=6 leg70 qua rest F F rest rest F F F
+
+
+# 6
+|
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+=2 leg90 qua E rest rest E(2 cro E)2 rest
+=3 leg70 qua G G G G G G G G
+=4 leg70 qua leg40 c leg70 c c c rest c c c
+=5 leg70 qua leg40 G leg70 G G rest rest G G G
+=6 leg70 qua rest E E rest rest E E E
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+=2 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=3 leg70 qua G G A B leg40 c leg70 c c c
+=4 leg70 qua c c c B' A A A G
+=5 leg70 qua rest F F rest rest F F F
+=6 leg70 qua rest G G rest rest G G G
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+=2 leg70 qua G G G G G G G G
+=3 leg70 qua leg40 c leg70 c c c rest c c c
+=4 leg70 qua leg40 G leg70 G G rest rest G G G
+=5 leg70 qua rest E E rest rest E E E
+=6 min blank smb rest
+=7 treble cha7 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=2 leg70 qua G G A B leg40 c leg70 c c c
+=3 leg70 qua c c c B' A A A G
+=4 leg70 qua rest F F rest rest F F F
+=5 leg70 qua rest G G rest rest G G G
+=6 min blank smb rest
+=7 leg90 qua D rest rest D(1 cro D)1 rest
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+=2 leg70 qua leg40 c leg70 c c c rest c c c
+=3 leg70 qua leg40 G leg70 G G rest rest G G G
+=4 leg70 qua rest E E rest rest E E E
+=5 min blank smb rest
+=6 treble8vab cha6 leg90 qua C rest rest C(1 cro C)1 rest
+=7 leg90 qua E rest rest E(2 cro E)2 rest
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+=2 leg70 qua c c c B' A A A G
+=3 leg70 qua rest F F rest rest F F F
+=4 leg70 qua rest G G rest rest G G G
+=5 min blank smb rest
+=6 leg90 qua D rest rest D(1 cro D)1 rest
+=7 leg90 qua F rest rest F(2 cro F)2 qua rest F
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+=2 leg70 qua leg40 G leg70 G G rest rest G G G
+=3 leg70 qua rest E E rest rest E E E
+=4 min blank smb rest
+=5 treble cha5 leg90 qua C rest rest C(1 cro C)1 rest
+=6 leg90 qua E rest rest E(2 cro E)2 rest
+=7 leg70 qua G G G G G G G G
+|
+=1 leg70 qua c c c B' A A A G
+=2 leg70 qua rest F F rest rest F F F
+=3 leg70 qua rest G G rest rest G G G
+=4 min blank smb rest
+=5 leg90 qua D rest rest D(1 cro D)1 rest
+=6 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=7 leg70 qua G G A B leg40 c leg70 c c c
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+=2 leg70 qua rest E E rest rest E E E
+=3 min blank smb rest
+=4 treble8vab cha4 leg90 qua C rest rest C(1 cro C)1 rest
+=5 leg90 qua E rest rest E(1 cro E)1 rest
+=6 leg70 qua G G G G G G G G
+=7 leg70 qua leg40 c leg70 c c c rest c c c
+|
+=1 leg70 qua rest F F rest rest F F F
+=2 leg70 qua rest G G rest rest G G G
+=3 min blank smb rest
+=4 leg90 qua D rest rest D(1 cro D)1 rest
+=5 leg90 qua F rest rest F(1 cro F)1 rest
+=6 leg70 qua G G A B leg40 c leg70 c c c
+=7 leg70 qua c c c B' A A A G
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+=2 min blank smb rest
+=3 treble cha3 leg90 qua C rest rest C(1 cro C)1 rest
+=4 leg90 qua E rest rest E(1 cro E)1 rest
+=5 leg70 qua G G G G G G G G
+=6 leg70 qua leg40 c leg70 c c c rest c c c
+=7 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 leg70 qua rest G G rest rest G G G
+=2 min blank smb rest
+=3 leg90 qua D rest rest D(1 cro D)1 rest
+=4 leg90 qua F rest rest F(1 cro F)1 rest
+=5 leg70 qua G G A B leg40 c leg70 c c c
+=6 leg70 qua c c c B' A A A G
+=7 leg70 qua rest F F rest rest F F F
+|
+il0.2 .01 2
+=1 min blank smb rest
+=2 leg90 qua C rest rest C(1 cro C)1 rest
+=3 leg90 qua E rest rest E(1 cro E)1 rest
+=4 leg70 qua G G G G G G G G
+=5 leg70 qua c c c B' A A A G
+=6 leg70 qua leg40 G leg70 G G rest rest G G G
+=7 leg70 qua rest E E rest rest E E E
+|
+=1 min blank smb rest
+=2 leg90 qua D rest rest D(1 cro D)1 rest
+=3 leg90 qua F rest rest F(1 cro F)1 rest
+=4 leg70 qua G G A B leg40 c leg70 c c c
+=5 leg70 qua leg40 G leg70 G G rest rest G G G
+=6 leg70 qua rest F F rest rest F F F
+=7 leg70 qua rest G G rest rest G G G
+
+
+
+#
+|
+=1 treble cha1 leg90 qua C rest rest C(1 cro C)1 rest
+=2 leg90 qua E rest rest E(2 cro E)2 rest
+=3 leg70 qua G G G G G G G G
+=4 leg70 qua leg40 c leg70 c c c rest c c c
+=5 leg70 qua leg40 G leg70 G G rest rest G G G
+=6 leg70 qua rest E E rest rest E E E
+=7 min blank smb rest
+|
+=1 leg90 qua D rest rest D(1 cro D)1 rest
+=2 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=3 leg70 qua G G A B leg40 c leg70 c c c
+=4 leg70 qua c c c B' A A A G
+=5 leg70 qua rest F F rest rest F F F
+=6 leg70 qua rest G G rest rest G G G
+=7 min blank smb rest
+|
+il0.2  7
+=1 leg90 qua E rest rest E(2 cro E)2 rest
+=2 leg70 qua G G G G G G G G
+=3 leg70 qua leg40 c leg70 c c c rest c c c
+=4 leg70 qua leg40 G leg70 G G rest rest G G G
+=5 leg70 qua rest E E rest rest E E E
+=6 min blank smb rest
+=7 treble cha7 leg90 qua C rest rest C(1 cro C)1 rest
+|
+=1 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=2 leg70 qua G G A B leg40 c leg70 c c c
+=3 leg70 qua c c c B' A A A G
+=4 leg70 qua rest F F rest rest F F F
+=5 leg70 qua rest G G rest rest G G G
+=6 min blank smb rest
+=7 leg90 qua D rest rest D(1 cro D)1 rest
+|
+il0.2    6
+=1 leg70 qua G G G G G G G G
+=2 leg70 qua leg40 c leg70 c c c rest c c c
+=3 leg70 qua leg40 G leg70 G G rest rest G G G
+=4 leg70 qua rest E E rest rest E E E
+=5 min blank smb rest
+=6 treble8vab cha6 leg90 qua C rest rest C(1 cro C)1 rest
+=7 leg90 qua E rest rest E(2 cro E)2 rest
+|
+=1 leg70 qua G G A B leg40 c leg70 c c c
+=2 leg70 qua c c c B' A A A G
+=3 leg70 qua rest F F rest rest F F F
+=4 leg70 qua rest G G rest rest G G G
+=5 min blank smb rest
+=6 leg90 qua D rest rest D(1 cro D)1 rest
+=7 leg90 qua F rest rest F(2 cro F)2 qua rest F
+|
+il0.2  5
+=1 leg70 qua leg40 c leg70 c c c rest c c c
+=2 leg70 qua leg40 G leg70 G G rest rest G G G
+=3 leg70 qua rest E E rest rest E E E
+=4 min blank smb rest
+=5 treble cha5 leg90 qua C rest rest C(1 cro C)1 rest
+=6 leg90 qua E rest rest E(2 cro E)2 rest
+=7 leg70 qua G G G G G G G G
+|
+=1 leg70 qua c c c B' A A A G
+=2 leg70 qua rest F F rest rest F F F
+=3 leg70 qua rest G G rest rest G G G
+=4 min blank smb rest
+=5 leg90 qua D rest rest D(1 cro D)1 rest
+=6 leg90 qua F rest rest F(2 cro F)2 qua rest F
+=7 leg70 qua G G A B leg40 c leg70 c c c
+|
+il0.2  4
+=1 leg70 qua leg40 G leg70 G G rest rest G G G
+=2 leg70 qua rest E E rest rest E E E
+=3 min blank smb rest
+=4 treble8vab cha4 leg90 qua C rest rest C(1 cro C)1 rest
+=5 leg90 qua E rest rest E(1 cro E)1 rest
+=6 leg70 qua G G G G G G G G
+=7 leg70 qua leg40 c leg70 c c c rest c c c
+|
+=1 leg70 qua rest F F rest rest F F F
+=2 leg70 qua rest G G rest rest G G G
+=3 min blank smb rest
+=4 leg90 qua D rest rest D(1 cro D)1 rest
+=5 leg90 qua F rest rest F(1 cro F)1 rest
+=6 leg70 qua G G A B leg40 c leg70 c c c
+=7 leg70 qua c c c B' A A A G
+|
+il0.2    3
+=1 leg70 qua rest E E rest rest E E E
+=2 min blank smb rest
+=3 treble cha3 leg90 qua C rest rest C(1 cro C)1 rest
+=4 leg90 qua E rest rest E(1 cro E)1 rest
+=5 leg70 qua G G G G G G G G
+=6 leg70 qua leg40 c leg70 c c c rest c c c
+=7 leg70 qua leg40 G leg70 G G rest rest G G G
+|
+=1 leg70 qua rest G G rest rest G G G
+=2 min blank smb rest
+=3 leg90 qua D rest rest D(1 cro D)1 rest
+=4 leg90 qua F rest rest F(1 cro F)1 rest
+=5 leg70 qua G G A B leg40 c leg70 c c c
+=6 leg70 qua c c c B' A A A G
+=7 leg70 qua rest F F rest rest F F F
+| 4.0
+=1 1 vol-10 G-dim20
+=2 1 vol-10 C-dim20
+=3 1 vol-10 E-dim20
+=4 1 vol-10 G-dim20
+=5 1 vol-10 c-dim20
+=6 1 vol-10 G-dim20
+=7 1 vol-10 E-dim20
+midi off
+|
+il0.2 .01 2
+=1 min blank smb rest
+=2 leg90 qua C rest rest C(1 cro C)1 rest
+=3 leg90 qua E rest rest E(1 cro E)1 rest
+=4 leg70 qua G G G G G G G G
+=5 leg70 qua c c c B' A A A G
+=6 leg70 qua leg40 G leg70 G G rest rest G G G
+=7 leg70 qua rest E E rest rest E E E
+|
+=1 min blank smb rest
+=2 leg90 qua D rest rest D(1 cro D)1 rest
+=3 leg90 qua F rest rest F(1 cro F)1 rest
+=4 leg70 qua G G A B leg40 c leg70 c c c
+=5 leg70 qua leg40 G leg70 G G rest rest G G G
+=6 leg70 qua rest F F rest rest F F F
+=7 leg70 qua rest G G rest rest G G G
+

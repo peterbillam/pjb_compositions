@@ -1,0 +1,174 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4;
+comment	@# @;
+
+
+1.4
+date	98.08.19.00.39.43;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.05.07.03.57.27;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	94.12.13.19.28.21;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	94.12.13.19.15.07;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@copyright acknowledgements for three songs
+@
+
+
+1.4
+log
+@remove date, add URL
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 2.0c
+.ce 2
+\f3\s+9Three Songs\s-9\fP
+.sp 0.9c
+\f3\s+4music by Peter Billam\s0\fP
+.sp 1.1c
+.LP
+Regrettably, only two of the three songs are available for publication.
+The copyright situation is summarised below . . .
+.sp 0.8c
+.LP
+\f2From the 228'th chorus of "Mexico City Blues"\fP
+by Jack Kerouac,
+.br
+\(co 1959 Jack Kerouac
+.br
+\(co 1993 Peter Billam
+.br
+The poem comes from "Mexico City Blues", by Jack Kerouac,
+published in 1990 by Grove Weidenfeld.
+Repeated attempts to identify and contact the copyright holders have been
+unsuccessful, and it is published here regardless.
+The composer requests the copyright holders to contact him at the address
+below.
+.LP
+.sp 0.8c
+\f2"All You Who Sleep Tonight"\fP
+by Vikram Seth,
+.br
+\(co 1990 Vikram Seth
+.br
+\(co 1993 Peter Billam
+.br
+Permission has been kindly granted by Sheil Land Associates
+for \f3performance\fP of this song \f3in Australia\fP,
+provided that any programme accompanying the performance
+acknowledges the book from which it comes \-
+"All You Who Sleep Tonight", by Vikram Seth,
+published in 1990 by Faber and Faber,
+as well as the author's literary agents, Sheil Land Associates.
+.br
+Note that permission has not been granted for publication,
+recording or broadcast.
+If you are interested in performing this song in Australia,
+please contact the composer at the address below.
+.LP
+.sp 0.8c
+\f2"In my craft or sullen art"\fP
+by Dylan Thomas,
+.br
+\(co The Trustees for the Copyrights of the late Dylan Thomas, 1993
+.br
+\(co 1993 Peter Billam
+.br
+Permission has been kindly granted by David Higham Associates
+for performance or recording of this song.
+.LP
+.sp 0.8c
+.ce 2
+Peter Billam, \s-1GPO B\s0ox 669, Hobart \s-1TAS\s0 7001, Australia
+.sp 0.4c
+\s+1\f2http://www.pjb.com.au/mus/\fP\s0
+@
+
+
+1.3
+log
+@7 May
+@
+text
+@d65 1
+a65 1
+.ce 10
+d67 2
+a68 2
+.sp 0.5c
+\s-2This printing 7 May 1998.\s0
+@
+
+
+1.2
+log
+@spaced slightly higher on page
+@
+text
+@d7 1
+a7 1
+.sp 1.2i
+d10 1
+a10 2
+.br
+.sp 0.5i
+d12 5
+a16 2
+.br
+.sp 0.7i
+d27 4
+d32 1
+a32 1
+.sp 0.4i
+d41 1
+a41 1
+for performance of this song in Australia,
+d47 5
+d53 1
+a53 1
+.sp 0.4i
+d64 5
+a68 8
+.sp 0.8i
+.ce 100
+Peter Billam, 5 Scott St, Glebe, Hobart \s-2TAS\s0 7000, Australia
+.br
+fax 0061-002-369410
+.br
+.sp 0.3i
+\s-2This printing 14 December 1994.\s0
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d7 1
+a7 1
+.sp 1.4i
+@

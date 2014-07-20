@@ -1,0 +1,40 @@
+6 systems / 19-25-19 /
+/
+2 bars ||: 64 :||: 64 :||
+| 4/4 2.0
+=1' treble cha0 leg120 \
+ 16 [A D# E D#] [Bb D# E D#] [A D# E D#] [G# D# E D#]
+=2  bass   cha1 leg120 \
+ 16 [g d~b c~ d~b] [ab d~b c~ d~b] [g d~b c~ d~b] [f# d~b c~ d~b]
+|
+=1  16 [A D# E D#]    [A E F E]      [A D# E D#]     [A Dn Eb D]
+=2  16 [g d~b c~ d~b] [g d~n c~# d~] [g d~b c~n d~b] [g c~ b c~]
+|
+=1' 16 [A D# E D#]    [Bb D# E D#]    [A D# E D#]    [G# D# E D#]
+=2  16 [g d~b c~ d~b] [ab d~b c~ d~b] [g d~b c~ d~b] [f# d~b c~ d~b]
+|
+=1' 16 [A D# E D#]    [A E F E]      [A# F Gb F]      [B E F E]
+=2  16 [g d~b c~ d~b] [g d~n c~# d~] [g# e~b d~ e~b]  [a d~ c~# d~]
+
+| 4/4 2.0
+=1' 16 [Bb E F E]     [Bn E F E]    [Bb E F E] [A E F E]
+=2  16 [g# d~ c~# d~] [a d~ c~# d~] [g# d~ c~# d~] [gn d~ c~# d~]
+|
+=1' 16 [Bb E F E]     [Bb F F# Fn]    [Bb E F E] [Bb Eb En Eb]
+=2  16 [g# d~ c~# d~] [g# e~b d~ e~b] [g# d~ c~# d~] [g# c~# c~n c~#]
+|
+=1' 16 [Bb E F E]     [Bn E F E]    [Bb E F E] [A E F E]
+=2  16 [g# d~ c~# d~] [a d~ c~# d~] [g# d~ c~# d~] [gn d~ c~# d~]
+|
+=1' 16 [Bb E F E]     [Bb F F# Fn]    [Bn F# G F#] [c Fn F# Fn]
+=2  16 [g# d~ c~# d~] [g# e~b d~ e~b] [a e~n e~b e~n] [bb e~b d~ e~b]
+
+/
+2 bars ||: 64 | 64 :||
+|
+i0.9 .01 20120603
+=1' 16 [B A# B E] [c B c E] [B A# B E] [Bb An Bb E]
+=2, 16 [g ab g d~] [g# an g# d~] [gn ab g d~] [f# g f# d~]
+|
+=1' 16 [B A# B E] [B A# B D#] [B A# B E] [B A# B F]
+=2, 16 [g ab g d~] [gn ab g c~#] [g ab g d~] [gn ab g e~b]

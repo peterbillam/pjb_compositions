@@ -1,0 +1,880 @@
+6 systems 14 /19-35-19 3/19-33-19/19-35-19/19-35-19 10/19-35-19 10/19-33-19 3/
+pagenum 2
+innerhead Three Preludes, Peter Billam
+title Prelude I
+leftfoot (c) 2003 Peter J Billam
+midi channel 1 patch 0 pan 70 reverb 60
+midi channel 2 patch 0 pan 30 reverb 60
+
+midi off
+
+/
+5 bars | 2 | 8 | 6 | 1 1 1 1 1.4 1 1 1 | 1.7 1.7 1.7 2 |
+| 1/4 100
+i0.7        Free, clear
+=1' treble cha1 leg100 cro rest
+=2, bass   cha2 leg100 qua rest' <c~-s1, e~-s3>
+| 4/4 100
+=1  4/4 qua rest cro G-ten qua Eb D cro F-ten qua Db
+=2' 4/4 cro blank min c~ cro bb
+=2  4/4 cro <bb-s2, d~-s2> a-s1, ab-s3, g(2-s2,-s4,
+| 3/4 100
+=1' 3/4 qua [C c'-s5] cro d-s4 e-s5
+=1, 3/4 min blank qua blank A-s2
+=2' 3/4 cro. ar qua b-s2 cro c~(1
+=2, 3/4 cro g)2 f-s5, e-s4,
+| 4/4 100
+=1' 4/4 qua rest' cro c-s5 qua Ab-s4 G cro Bb qua An
+=1, 4/4 cro G min F-blank-s2 cro Eb(2
+=2' 4/4 cro c~)1 min. blank
+=2, 4/4 cro eb-s3, d db-s3, c
+|
+Il0.3 .69 ,
+=1' min G cro F qua [G B']
+=1, min. Eb)2 cro rest,,
+=2  cro B min b cro rest
+/
+4 bars | 6 | 8 | 6 | 8 |
+| 3/4 100
+il0.6 .26 5
+=1'  treble 3/4 cro c# d qua [e f#]
+=1,  3/4 min. A
+=2,  bass   3/4 qua rest' g~b [f~ b] [c~ e~b]
+| 4/4 100
+=1' 4/4 cro g qua [a b] cro. c~ qua f#
+=1, 4/4 qua [Bb E] [F Ab] cro G An
+=2  4/4 min d~ e~b
+| 3/4 100
+=1' 3/4 cro g qua [a b] [c~ f#]
+=1, 3/4 qua [Bb E] [F Ab] [G An]
+=2  3/4 min d~ cro e~b
+| 4/4 100
+=1' 4/4 cro g qua [ab d] cro eb db
+=1, 4/4 qua [Bb E] cro F G# qua [A D#]
+=2  4/4 cro d~ c~ qua [b f] cro gb
+/
+5 bars | 8 | 6 | 1 1 1.2 1 1 1 1 1 | 7.4 | .9 .9 .9 .9 1.4 1 |
+|
+=1' treble cro c B Bb A(2
+=1, treble cro E min D cro C
+=2  bass   qua g# cro a-ten qua f e cro gn-ten qua eb
+| 3/4 100
+il0.6 .11 10
+=1' 3/4 qua rest' d cro e f#
+=1, 3/4 cro A)2 G F#
+=2' 3/4 cro. b qua c~# cro d~
+=2, 3/4 min d qua rest b
+| 4/4 100
+=1' 4/4 cro <Fn fn> <E e> <Eb eb> <D d>
+=2' 4/4 qua rest'' cro d~ qua bb a cro c~ qua bn(1
+=2, 4/4 cro a min g cro f(2
+|
+=1' min. <C# c#> cro B(2
+=2' cro b)1 min. a
+=2, min f)2 cro eb e~b(1
+| 3/4 100
+=1' 3/4 min <B)2 b> qua [<c# c~#> <d# d~#>]
+=2' 3/4 min. e~b)1
+=2, 3/4 cro g min g~
+/
+5 bars | 7 | 6 | 7 | 1.1 1 1 1.3 1 1 1 1 | 1.16 1.16 1.5 1.16 1.16 1.16 |
+|  4/4 100
+=1, treble 4/4 min <B_r C#x B e e~> <G Bb d d~>
+=2' bass   4/4 cro rest, min E_ cro E_(1
+I0.6 .10 pp
+| 3/4 100
+il0.7 .31 15
+=1, 3/4 min <A_# G# c# c~#> cro <F#l A cn c~n>
+=2' 3/4 cro E_)1 min E_(1
+| 4/4 100
+=1, 4/4 min <G_ E B b> <G Bb d bb>
+=2' 4/4 cro E_)1 min E_ cro E_(1
+|
+=1' min a cro e f#
+=1, cro A qua B cro. c cro rest,
+=2' cro. e~ qua f~# g~# cro a~ qua b~
+=2, qua [f# g#] cro. a qua b cro c~
+=2 smb E_)1
+| 3/4 100
+=1  3/4 smq blank cro. ab qua d [e f]
+=2' treble cro c qua [G Ab] cro c
+=2, clefspace qua [D E] cro. Fr qua G(2
+/
+5 bars | 1.7 1 1 1 1 1 1 1 | 6 | 8 | 8 | 6 
+| 4/4 100
+=1  treble 4/4 cro. g qua d min eb
+=2' treble   4/4 qua [A B] cro c qua [B A] cro G
+=2, 4/4 qua [Gr)2 Eb] D cro. C qua [B_ A_]
+| 3/4 100
+il0.7 .37 20
+=1, 3/4 min <G_ G eb e~b> cro <Bb d d~>
+=2' bass cro rest, min <G_(4 G(2>
+I0.6 .10 pp
+| 4/4 100
+=1, 4/4 min <B_b F db d~b> <Eb G c c~>
+=2' 4/4 cro <G_)4 G)2> min <G_ G> cro <G_(4 G(2>
+|
+=1  qua rest cro G-ten qua Eb D cro F-ten qua Db
+=2' cro blank min c~ cro bb
+=2  cro <bb d~-s2> a-s1, ab-s3, g(6-s2,-s4,
+=2, cro <G_)4 G)2>
+| 3/4 100
+=1' 3/4 qua [C c'-s5] cro d-s4 e-s5
+=1, 3/4 min blank qua blank A-s2
+=2' 3/4 cro. ar qua b-s2 cro c~(1
+=2, 3/4 cro g)6 f-s5, e-s4,
+/
+5 bars | 1 1 1.3 1.1 1.7 1.2 1.1 1 | 7 | 1 1 1.4 1.4 1.4 1 \
+ | 1 1 1.4 1.4 .8 .8 .8 1 | 1 1 1.4 1.4 1 1 |
+| 4/4 100
+=1' 4/4 qua rest' cro c qua Ab G cro Bb qua An
+=1, 4/4 cro G min F cro Eb(4
+=2' 4/4 cro c~)1 min. blank
+=2, 4/4 cro eb-s3, d db-s3, c
+|
+il0.5 .23 25
+=1' min G c#r(2
+=1, cro Eb)4 C# F f
+=2  cro B min b cro a(1
+| 3/4 100
+=1' 3/4 cro f# qua [g# a#] [b fn]
+=1, 3/4 min c#)2 cro d
+=2, 3/4 qua [a)1 d#] [e g] [f# g#]
+| 4/4 100
+=1' 4/4 cro f# qua [g# a#] cro. b qua fn
+=1, 4/4 min c# d
+=2, 4/4 qua [a d#] [e g] cro f# g#
+| 3/4 100
+=1' 3/4 cro f# qua [g c#] cro d
+=1, 3/4 cro c# B qua [A# E]
+=2, 3/4 qua [a d#] cro e g
+
+6 systems 4 /19-32-19/19-35-19 8 /19-35-19 8 /19-32-19 8 /19-32-19/19-35-19 14/
+pagenum 3
+innerhead Prelude I, Three Preludes, Peter Billam
+leftfoot (c) 2003 Peter J Billam
+/
+4 bars | 8 | 8 | 6 | 8 |
+| 4/4 100
+=1' treble 4/4 cro db c B Bb(1
+=1, 4/4 cro F min Eb cro Db
+=2  bass   4/4 qua a cro bb-ten qua gb f cro ab-ten qua e
+|
+il0.6 .31 30
+=1' cro Bb)1 Bb Bn qua [c eb]
+=1, qua rest, [Ab G C#] [D F] [E F#(2]
+=2  cro d# e qua [f# g#] cro a
+| 3/4 100
+=1' 3/4 cro d eb qua [f g(1]
+=1, 3/4 qua [F#)2 G] [F# C] [C# E]
+=2  3/4 min. bb
+| 4/4 100
+=1' 4/4 qua [g)1 ab] [g c#] [d f] [e f#]
+=1, 4/4 cro D# E qua [F# G#] cro A
+=2  4/4 min. bn qua [c~ d~#]
+/
+5 bars | 1 1.2 1 1.2 1.1 1.2 1 1 | 1 1.5 1 1 1 1 | 8 | 6 | 8 |
+|
+=1' treble cro g# a <G# g#> <A a>
+=1, qua rest, c# [cn F#] min E
+=2  bass   min e~ qua rest' c~# [c~n f#]
+| 3/4 100
+=1' 3/4 qua rest' <B b> cro <c# c~#> <d# d~#>
+=1, 3/4 cro F# E D#
+=2  3/4 cro. g# qua a# cro b(1
+| 4/4 100
+il0.8 .34 35
+=1, 4/4 min <C# B e e~> <G Bb d d~>
+=2' 4/4 min b)1
+=2' 4/4 cro rest, min <E_ E> cro <E_(1 E(3>
+I0.6 .05 pp
+| 3/4 100
+=1, 3/4 min <A_# G# c# c~#> cro <F#l A cn c~n>
+=2' 3/4 cro <E_)1 E)3> min <E_(1 E(3>
+| 4/4 100
+=1, 4/4 min <G_ E B b> <G Bb d bb>
+=2' 4/4 cro <E_)1 E)3> min <E_ E> cro <E_(1 E(3>
+/
+5 bars | 1.2 1 1 1.4 1.1 1.1 1.1 1 | 1 1 1.6 1 1 1 \
+ | 1.7 1 1 1.3 1 1 1 1 | 6 | 7.5 |
+|
+=1' treble min a cro e f#
+=1, cro A qua B cro. c cro rest,
+=2' bass   cro. e~ qua f~# g~# cro a~ qua b~
+=2, qua [f# g#] cro. a qua b cro c~
+=2  smb <E_r)1 E)3>
+| 3/4 100
+=1  3/4 smq blank cro. ab qua d [e f]
+=2' treble cro c qua [G Ab] cro c
+=2, clefspace qua [D E] cro. Fr qua G(2
+| 4/4 100
+il0.6 .21 40
+=1' 4/4 cro blank d~ cro. e~b qua f~
+=1, 4/4 cro. g qua d cro. eb  qua f
+=2' 4/4 qua [A B] cro c qua [B A] [G A]
+=2, 4/4 qua [Gr)2 Eb] D cro. C  cro B_(2
+| 3/4 100
+=1, 3/4 dsq. blank min <B g g~> cro <d f# f~#>
+=2' bass min b)2
+=2' bass cro rest, min <B__(1 B_(3>
+I0.6 .15 p
+| 4/4 100
+=1, 4/4 min <D A f f~> <G B e e~>
+=2' 4/4 cro <B__)1 B_)3> min <B__ B_> cro <B__(1 B_(3>
+/
+4 bars | 1.5 1.4 1 1.2 1 1.2 1 1 | 3/4 1.5 1.4 1 1 1.2 1 \
+ | 4/4 8 | 8 |
+|
+=1  treble smb <eb e~b>
+=1' qua [br bb] cro ab qua [g f] [eb d(4]
+=1, cro Ab  qua [G F] cro Eb F(2
+=2  bass   smb <B__)1(1 B_)3(3>
+| 3/4 100
+=1' 3/4 qua [br a] cro ab f
+=1, 3/4 min. <F)2 d)4 d~>
+=1, 3/4 cro blank qua [f e] [d c#(2]
+=2  3/4 cro <B__)1 B_)3> min <B__(1 B_(3>
+| 4/4 100
+il0.7 .24 45
+=1  4/4 smb <c#)2 c~#>
+=1' 4/4 cro er qua [d# c#] cro B e
+=2, 4/4 qua [g~ f~#] cro e~ qua [d~# c~#] [b a#]
+=2  4/4 smb <B__)1 B_)3>
+|
+=1' min d# e
+=1, qua [B F] [F# A] cro G# A#
+=2, cro ab qua [bb c~] cro. d~b qua g
+/
+4 bars | 6 | 1 1 1 1 1 1.2 1 1 | 1.2 1.2 1.1 1.2 1.1 1 | 8 |
+| 3/4 100
+=1' treble 3/4 cro. eb qua d cro c(1
+=1,        3/4 qua [B F] [F# A] cro G#
+=2  bass   3/4 cro g# qua [a b] [c~ g#]
+| 4/4 100
+=1' 4/4 cro c)1 qua [d eb] cro g a
+=1, 4/4 cro. Gn qua A B cro c qua d
+=2  4/4 qua [a b] cro. c~ treble qua D cro Eb(2
+| 3/4 100
+=1' 3/4 cro. b qua f [g ab]
+=1, 3/4 cro eb qua A# cro B qua Bb(2
+=2' 3/4 qua [Fr G] min G#
+=2, 3/4 cro Eb)2 qua [A_# B_] cro C#
+| 4/4 100
+il0.7 .20 50
+=1, 4/4 cro <Bb)2 bb> <A a> <Ab ab> <G(2 g(1>
+=2' 4/4 qua rest cro G qua Eb D cro F qua E
+=2, 4/4 cro D min C cro B_b(2
+/
+5 bars | 1 1 1 1 1.1 1 1 1 | 1 1 1 1.1 1 1 \
+ | 1 1 1.3 1 1.6 1.2 1 1 | 7.5 | 5.6 ||
+| 4/4 100
+=1' treble 4/4 cro. g)1 qua eb d cro f-ten qua db
+=1, 4/4 cro G)2 Eb F Db
+=2' bass   4/4 cro d~ min c~ cro bb
+=2  4/4 cro bb)2 a-s1, ab-s3, g(2-s2,-s4,
+| 3/4 100
+=1' 3/4 qua [C c'] cro d e
+=1, 3/4 min blank qua blank A-s2
+=2' 3/4 cro. ar qua b-s2 cro c~(1
+=2, 3/4 cro g)2 f-s5, e-s4,
+| 4/4 100
+=1' 4/4 qua rest' cro c qua Ab G cro Bb qua An
+=1, 4/4 cro G min F cro Eb(2
+=2' 4/4 cro c~)1 min. blank
+=2, 4/4 cro eb-s3, d db-s3, c
+|
+=1' min G c#r(4
+=1, cro Eb)2 C# F f(1
+=2  cro B b a treble A
+| 3/4 100
+il0.7 .35 55
+=1' 3/4 min. f)1
+=1, 3/4 cro c#)4 B b-fermata
+=2  3/4 cro G min g-fermata
+i0.2 .72 2m 30s
+midi pause 3.9
+
+midi off
+
+6 systems 14 /19-30-19/19-35-19/19-30-19/19-30-19/19-35-19/19-40-19/
+pagenum 4
+innerhead Three Preludes, Peter Billam
+title Prelude II
+leftfoot (c) 2003 Peter J Billam
+/
+5 bars | 3/4 6 | 6 | 6 | 6 | 6 |
+| 3/4 198
+i0.7         Smooth, veiled
+=1  treble 3/4 cha1 leg170 vol60 qua rest [Db F Db F Db]
+I0.4 .01 pp
+=2  bass   3/4 cha2 leg170 vol60 min. D_b(1
+|
+=1  qua [F Db F Db F Db]
+=2  min. D_b)1(1
+|
+=1  qua [F Db F Db F Db]
+=2  min. D_b)1
+|
+=1  qua [F B_ E B_ D# B_]
+=2, qua [B g# c# g# d# g#]
+|
+=1  qua [C# B_b D B_b Eb Cn]
+=2, qua [e gn d g c g]
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1  treble qua [F C# G C# A D]
+=2' bass   qua [B f Bb f A f]
+|
+=1' qua [Bb D A D Ab Eb]
+=2' qua [G f A g B ab]
+|
+=1' qua [G Eb A Eb B En]
+=2, qua [db a c a B g]
+|
+=1' qua [c E B E Bb E]
+=2, qua [A g B a c# bb]
+|
+il0.6 .20 10
+=1' qua [Ab D G D F# D]
+=2, qua [d b e b f# b]
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1' treble qua [E D F D Gb Eb]
+=2, bass   qua [g bb f bb eb a]
+|
+=1' qua [Ab En Bb E c F]
+=2, qua [d ab db ab c ab]
+|
+=1' qua [d Gb db Gb c Gb]
+=2, qua [B ab db ab eb an]
+|
+=1' qua [B F A Eb G Eb]
+=2, qua [f b f# b g c~]
+|
+il0.8 .20 15
+=1' qua [Gb Eb Ab Eb Bb Eb]
+=2, qua [a c~ ab c~ g c~]
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1' treble qua [B Eb A Eb G Eb]
+=2, bass   qua [f b f# b g c~]
+|
+=1' qua [F# Eb G Eb Ab Eb]
+=2, qua [a c~ g c~ f c~]
+|
+=1' qua [An Eb B F db Gb]
+i0.6 .40 cresc . . .
+=2, qua [eb b d b db b]
+|
+=1' qua vol67 [eb G d G c# G]
+=2, qua vol67 [c bb d c~ e d~b]
+|
+il1.1 .30 20
+=1' qua vol74 [B G c# G eb G]
+=2, qua vol74 [f d~b e d~b eb c~]
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1, treble vol83 qua [e Ab eb Ab d Ab]
+=2, bass   vol83 qua [db b eb c~# f d~]
+|
+=1' qua vol90 [c Gb B Gb Bb Gb]
+i0.7 .50 dim . . .
+=2, qua vol90 [gb e~b ab e~b bb e~b]
+|
+=1' qua vol84 [Ab F An F Bb F]
+=2, qua vol84 [bn d~ a d~ g d~]
+|
+=1' qua vol77 [c Gb B Gb Bb Gb]
+=2, qua vol77 [gb e~b ab e~b bb e~b]
+|
+il0.7 .20 25
+=1' qua [Ab Gb Bb Ab c An]
+i0.6 .40 cresc . . .
+=2, qua [bn d~ bb d~ a d~]
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1, treble vol84 qua [d Bb e Bb f# Bb]
+=2, bass   vol84 qua [ab e~ g e~ f# e~b]
+|
+=1, qua vol100 [g Bb f Bb eb Bb]
+I0.5 .03 f
+=2, qua vol100 [e d~b f d~b gb e~b]
+|
+=1, qua [d Ab db Ab c Ab]
+=2, qua [ab e~n bb e~ c~ f~]
+|
+=1' qua [B Ab c Ab c# Ab]
+=2, qua [d~ f~ c~ e~ bb c~#]
+|
+il0.4 .20 30
+=1, qua [d G# d# G# e G#]
+=2, qua [g# c~ f# c~ e c~]
+
+6 systems 4 /19-39-19/19-32-19/19-30-19/19-31-19 5/19-32-19 10/19-31-19 10/
+pagenum 5
+innerhead Prelude II, Three Preludes, Peter Billam
+leftfoot (c) 2003 Peter J Billam
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1, treble qua [f G# d# G# c# G#]
+=2, bass   qua [d b d# b e c~#]
+|
+=1, qua [c Ab d Ab e Ab]
+=2, qua [gb d~ f d~ e c~#]
+|
+=1' qua vol94 [f G# d# F# c# E]
+i0.6 .40 dim . . .
+=2, qua vol94 [d b d# b e b]
+|
+=1' qua vol87 [B Eb A Eb G Eb]
+=2, qua vol87 [f b f# b g b]
+|
+il0.6 .10 35
+=1' vol80 qua [F Eb G Eb A Eb]
+=2, vol80 qua [ab b g b gb] rest
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1' treble vol60 min. B
+=1, qua rest, [D# B_ D# B_ D#]
+I0.5   pp
+=2, bass   vol90 min. <F(2 f(4>
+I0.4  mp
+|
+=1  qua [B_ D# B_ D# B_ D#]
+=2  min <F,)2 f)4> cro F_
+|
+=1  qua [B_ Dn B_ D B_ D]
+=2  min F_# cro F_#
+|
+=1  qua [B_ C# B_ C# B_ C#]
+=2  min G_ cro G_
+|
+il0.4 .10 40
+=1  qua [B_ D B_ D B_ D]
+=2  min. F_#(1
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1  treble qua [B_ D B_ D B_ D]
+=2  bass   min F_#)1 cro F_#
+|
+=1  qua [B_ D# B_ D# B_ D#]
+=2  min F_n cro F_
+|
+=1  qua [B_ E B_ E B_ E]
+=2  min E_ cro c#,
+|
+=1  qua [F B_ E B_ Eb B_]
+=2, vol60 qua [B g# c# g# d# g#]
+|
+il0.5 .10 45
+=1  qua [C# B_b D B_b Eb B_b]
+=2, qua [e gn d g c g]
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1  treble qua [F B_ E B_ D# B_]
+=2, bass   qua [B g# c# g# d# g#]
+|
+=1  vol70 qua [Dn C E C F# C]
+i0.4 .01 cresc . . .
+=2, vol70 qua [f g# e g# d# a]
+|
+=1  vol80 qua [Ab D G D F# D]
+=2, vol80 qua [d a# e a# f# b]
+|
+=1' vol90 qua [Fn Eb G Eb A Eb]
+=2  vol90 qua [ab b g b f# c~]
+|
+=1' vol100 qua [B G c# G d# G#]
+I0.6 .04 f
+=2, vol100 qua [f c~# e a# d# b]
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1, treble qua [f A B A e d]
+=2, bass   qua [d b e b f b]
+|
+=1' vol95 qua [c# vol90 G B vol80 F Bb vol70 F]
+i0.7 .01 dim . . .
+I0.6 .82 mp
+=2, vol95 qua [g vol90 d~b ab vol80 d~b bb] rest'
+I0.7 .80 mp
+|
+=1  vol55 qua [Ab F C Ab] rest D
+I0.5 .03 pp
+i0.5 .18 subito
+=2' vol55 min rest' qua f qua rest'
+=2' min. D_
+I0.6 .27 P___
+|
+=1  qua c rest d rest rest c~
+=2  qua rest ab rest c~ f~ rest
+|
+=1, qua [Ab d~ f c~] cro c~~(2
+/
+5 bars | 5 | 6 | 1 1.2 1 1 1 1 | 6 | 5.5 ||
+|
+=1  treble min. c~~)2-fermata
+=2  bass   min. blank
+I0.9 .89 *
+|
+=1  cro G qua [Eb G] [C A]
+=2  min. C_
+I1.0 .29 P___
+|
+=1  qua rest G eb rest g rest
+=2  qua eb rest rest a rest c~
+|
+=1  qua rest c~ [A, e~b g c~]
+=2  qua e~b rest min rest
+|
+=1  min. c~~-fermata
+i0.1 .70 1 min
+=2  min. blank
+I0.6 .90 *
+midi pause 3.9
+
+midi on
+
+6 systems 14 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/
+pagenum 6
+innerhead Three Preludes, Peter Billam
+title Prelude III
+leftfoot (c) 2003 Peter J Billam
+/
+6 bars |4/4 3 3 3 2 3 2 3.5 3 | 20 | 6 6 6 5 \
+ | 3 3 3 2 3 2 3.5 3 | 6 6 6 5 | 24 |
+| 4/4 84
+i0.7        Singing, expressive
+=1 treble 4/4 cha1 leg104 cro Eb min c qua [Bb, c]
+I0.4    p
+=2 bass 4/4   cha2 leg104 smb <bb c~x>
+|
+=1 smb Gb
+=2 smb <a(2 c~#(1>
+|
+=1 cro rest F Gb F
+=2 smb <a)2 c~#)1>
+|
+=1 cro Eb min c qua [Bb, c]
+=2 smb <bb c~x>
+|
+il0.4 .2 5
+=1 cro db c Bb G
+=2' smb f~
+=2, min bb c~
+|
+=1 min Ab(2 cro3 Ab)2 d-I3 c
+=2 smb <d~ f~> treble
+/
+6 bars | 3 3 3 2 3 2 3.5 3 | 3 2 3 2 4.5 3 4.8 3 | 4 4 4 5 4 4 \
+ | 6 6 6 5 | 3 2 3 2 3 2 3.5 3 | 3 3 3 2 3 2 4.8 3 |
+|
+=1 treble cro Ab min f qua [eb f]
+=2 treble smb <Eb Fx>
+|
+=1' min B qua rest [A# B A#]
+=2 smb <D F#>
+|
+=1 cro Ab f(1 cro3 f)1 eb-I3 d
+=2' smb Fr
+=2, min Eb D
+|
+il0.4 .2 10
+=1 cro eb d c Bb
+=2' smb G
+=2, min C D
+|
+=1 min. A qua [B, c]
+=2 smb <Eb G>
+|
+=1 cro A min f# qua [e f#]
+i0.5 .5 cresc . . .
+=2' smb F#
+=2, min Er E_ bass
+/
+6 bars | 8 | 8 | 8 | 8 | 8 | 8 |
+|
+=1, treble min <G e g-ten> <G# e g#-ten>
+=2, bass min <d ex d~> <c# e c~#>
+|
+=1, min <A e a-ten> <G e g-ten>
+=2, min <cn e c~n> <B e b>
+|
+il0.4 .2 15
+=1' smb <f#-ten ex>
+=1, min F# A
+i0.3 .4 dim . . .
+=2' smb <e a>
+=2, min A cro A G
+|
+=1' min <B_ Ax B> <C A c>
+I0.3 .03 p
+=2' min <F f> <E A e>
+|
+=1' min <C# A c#> <D# A d#>
+i0.4 .2 cresc . . .
+=2' min <D# A d#> <C# A c#>
+|
+=1, min <E A e-ten> <F A f-ten>
+i0.3 .6 dim . .
+=2' min <Cn A cn> <B_ Ax B>
+/
+6 bars | 22 | 3 3 3 2 3 2 4.8 3 | 20 | 6 6 6 5 | 3 3 3 2 3 2 4.8 3 | 6 6 6 5 |
+|
+=1 treble smb <E A e-ten>
+=1, min rest,, A_
+=2 bass smb <C A c>
+|
+il0.4 .1 20
+=1 cro A_ min F# qua [E F#]
+=2 smb <ex f#>
+|
+=1 smb C(2
+=2 smb <eb(2 g(1>
+|
+=1 cro C)2 B_ C B_
+=2 smb <eb)2 g)1>
+|
+=1 cro A_ min F# qua [E F#]
+i0.4 .4 cresc . . .
+=2 smb f#
+=2, min er c
+|
+=1 cro G F# E D
+=2' min e f#
+=2, smb B
+
+/
+6 bars | 6 6 6 7 | 3 3 3 3 3.5 5.0 3.5 3 | 24 | 6 6 6 5 | 3 3 3 3 3 3 4 3 | 6 6 6 5 |
+|
+il0.4 .15 25
+=1 treble min. C# qua [D# E]
+=2 bass smb g
+=2, cro e d# c# B
+|
+=1 min Db(2 qua [Db)2 C Db C]
+=2' cro ab g f e
+=2, smb Bb
+|
+=1 cro B_b G(2 cro3 G)2 F-I3 G
+i0.4 .4 cresc . . .
+=2' gr
+=2, min f db
+|
+=1 cro Ab G F Eb
+=2' min f g
+=2, smb c
+|
+=1 min. D qua [Eb F]
+=2' cro ab g f eb
+=2, smb B
+|
+il0.4 .2 30
+=1 min. F# cro G#
+=2' cro b a# g# f#
+=2, smb d
+/
+6 bars | 22 | 22 | 4 4 4 4 5 4 \
+ | 6 6 6 5 | 3 3 3 3 3 3 4.8 3 | 3 3 3 3 3 3 4.8 3 |
+|
+=1' treble min <F A> <F Bb>
+I0.4      pp
+i0.4 .15 subito
+=2, bass   min <d fn> <c# f>
+|
+=1 smb <F A>
+=1, min rest,, D
+=2 smb <d f>
+|
+=1' cro D B(2-s5 cro3 B)2 A-I3 G#
+i0.5 .1 cresc . . .
+=2' smb br
+=2, min a-s2,-s3, g#
+|
+=1 cro A G# F# E
+I0.7    p
+=2' smb c~#
+=2, min f# g#
+|
+il0.5 .1 35
+=1' cro F# min d# qua [c# d#]
+=1, min blank cro rest,, A
+=2' min c~# blank
+=2, cro a g# f# d#
+|
+=1' cro e d# c# A#
+=1, min. G# cro E
+=2 cro c# min a# qua [g#-s4, a#]
+
+
+6 systems 14 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/
+pagenum 7
+innerhead Prelude III, Three Preludes, Peter Billam
+leftfoot (c) 2003 Peter J Billam
+/
+5 bars | 24 | 6 6 6 7 | 24 | 3 3 3 3 3 3 4 3.5 | 3 3 4.1 4.1 3 3 4.0 3.1 |
+|
+=1' treble cro G#-s1 min f qua [eb f]
+=1, min D# cro rest B
+=2, bass cro b a# g# f
+|
+=1' cro gb f eb c
+=1, min. Bb cro Gb
+=2 cro eb min c~ qua [bb-s4, c~]
+|
+=1' min Bb f
+=1  smb F
+=2 cro d~b c~ bb a
+|
+il0.7 .2 40
+=1 cro bb a g f#
+=2' cro g min e~ qua [d~ e~]
+=2, min rest, cro Bb g(2
+I0.4 .30 P______*
+|
+=1' min. e qua [d# e]
+=1, min. rest, cro G(2
+=2' cro bb qua [a bb] cro bn rest'
+=2, cro g)2 qua [f# g] cro c# qua [B c#]
+/
+5 bars | 3 3 3 4 3 3 4 3 | 3 3 4 4 3 3 4 3 | 6 5 5 7 | 24 | 3 4.2 3 3 3 3 3 3 |
+|
+=1' treble min A eb
+=1, cro Gr)2 qua [F# G] cro Eb qua [D Eb]
+=2, bass cro d# min c~ qua [b c~]
+|
+=1' cro a g# f# e
+=1, cro En min c qua [F# G#]
+I0.4 .24 mf
+=2  cro f# qua [e f#] cro g# a
+|
+=1' cro d min b qua [a b]
+=1, smb A
+i0.6 .70 rall . .
+=2  smb b
+|
+il0.8 .17 45
+=1' cro f e f e
+=1, smb Ab
+i0.6 .20 dim . .
+=2 min c~ cro b c~
+|
+=1' min f(1 qua [f)1 e f e]
+=1, qua [Bb A Bb A] min G(2
+=2  cro d~b c~ d~b c~
+/
+6 bars | 4.9 3.2 4.9 3.2 4.9 3.2 4.9 3.0 | 22 | 12 11 \
+ | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 |
+|
+=1' treble min d(1 qua [d)1 c# d c#]
+=1, qua [G)2 F# G F#] min E
+=2  bass  cro bb a bb a
+|
+=1' min <G B> <G Bb>
+I0.7  pp
+=2  min <br c~#x> <bb d~>
+|
+=1' min B Bb
+=1, smb G
+=2  min <br c~#x> cro bb a
+|
+il0.8 .22 50
+=1' min f bb
+=1, cro rest, A G F
+=2  min g cro bb a
+|
+=1' min f bb
+=1, cro Bb A G F
+=2  smb g(1
+|
+=1' min f~ bb
+=1, cro Bb A G F
+=2  min g)1 rest
+/
+6 bars | 8 | 8 | 8 | 8 | 8 | 8 |
+|
+=1' treble smb f
+=1, cro Bb A min G
+I0.2 .45 f
+i0.2 .56 subito
+=2 bass   min rest cro G F
+|
+=1  min <A_b F Ab> <A_n F An>
+=2' min <Eb eb> <D F d>
+|
+il0.5 .2 55
+=1' min <B_b F Bb> <A_b F Ab>
+i0.2 .4 dim . . .
+=2' min <Db F db> <C F c>
+|
+=1 min <G_ Fx G-ten> G
+=2 min <B_b Bb> cro G-s3, F
+|
+=1' min <A_ Gx A> <B_b G Bb>
+i0.3 .4 cresc . . .
+=2' min <Eb eb> <D G d>
+|
+=1' min <B_n G Bn> <C# G c#>
+=2 min <C# G c#> <B_n G Bn>
+/
+6 bars | 22 | 6 5 5.5 6.8 | 6 5 5.5 6 | 4 4 4 4 5 4 \
+ | 3 3 3.2 4.8 4.4 3.2 4.8 3 | 3.2 4.9 3.2 3.2 2.9 2.9 4.8 3 |
+|
+=1' treble min <D G d> <Eb G eb>
+=2 bass min <B_b G Bb> <A_ Gx A>
+|
+il0.5 .3 60
+=1' min. e(1 qua [d e]
+=1, smb <E G>
+I0.4 .1 ff
+i0.4 .6 dim . . .
+=2 smb <G_(2 G(1>
+|
+=1' min. Bb cro A
+I0.4 .7 mp
+=2 smb <G_)2 G)1>
+|
+=1 cro3 Bb' A-I3 G(2 cro G)2 e(1
+=2 cro e c~#(1 cro3 c~#)1 b-I3, c~#
+|
+=1 cro e)1 qua [d e] min Bb'(2
+i0.4 .4 cresc . . .
+=2 min g qua rest [f# g f#]
+|
+=1' qua [Bb)2 A Bb A] min G(2-emph
+i0.5 .6 dim . . .
+=2 cro e min c~# qua [b c~#]
+/
+6 bars | 24 | 3 3 3 3 3 3 4.6 3 | 24 | 4 4 4 4 5 4 | 24 | 24 ||
+|
+il0.4 .2 65
+=1 treble smb G)2(2
+=2 bass   min. g cro rest
+|
+=1 smb G)2(2
+=2 cro e min c~# qua [b c~#]
+|
+=1 min. G)2 cro rest
+=2 smb rest
+i0.3 .64 senza Ped . . .
+|
+=1 smb rest
+=2 cro e c~#(1 cro3 c~#)1 b-I3, c~#
+|
+=1 smb rest
+=2 min. g cro f#
+|
+=1 smb rest
+I0.5 .3 pp
+=2 cro g f# min rest-fermata
+i0.2 .72 3m 20s
+

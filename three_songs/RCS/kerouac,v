@@ -1,0 +1,1227 @@
+head	1.16;
+access;
+symbols;
+locks
+	pjb:1.16;
+comment	@# @;
+
+
+1.16
+date	2013.05.02.05.18.33;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2013.05.02.01.56.34;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2013.04.30.01.22.48;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2013.04.29.11.08.07;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	98.08.19.01.01.09;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	98.08.19.00.59.12;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	98.08.19.00.55.28;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	98.08.19.00.52.52;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	98.08.19.00.46.45;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	98.08.19.00.44.01;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	98.08.19.00.36.59;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	98.05.07.05.29.11;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	98.05.07.05.19.37;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.05.07.05.17.46;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.05.07.05.09.30;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.05.07.04.03.22;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@from 228th chorus of mexico city blues
+@
+
+
+1.16
+log
+@kept the beat going in bar 16
+@
+text
+@4 systems 20 / 19 37 19-35-19/ 19 40 19-45-19 10 \
+ / 19 35 19-40-19 10/ 19 35 19-40-19 10/
+lefthead poem by Jack Kerouac
+title From the 228th Chorus of Mexico City Blues
+righthead music by Peter Billam
+leftfoot (c) 1993 Peter J Billam, 1959 Jack Kerouac
+midi channel 1 patch 52
+midi channel 2 patch 0
+/
+3 bars | 9/4 5 5 4 5 4 4 4 4 4 4 4 3 4 3 4 3 3 3 \
+ | 9/8 4 4 4 6 4 4 4 4 4 | 4/4 4 4 4 4 4 4 4 4 |
+| 9/4 7.2
+=1 treble  9/4 cha1 tra-12 leg100 \
+ 2 rest 4 rest 2 rest rest rest
+=2' treble 9/4 cha2 leg100 8 [F-ten Db{2-ten Eb-ten A}2-ten] \
+ 4 Gb(2-ten 43 Gb)2 e-ten-I3 d-ten 1 A-ten
+=2,        9/4 2 blank 2. blank 2 F En
+=3' bass   9/4 cha2 leg100 2 b 4 e~ 2 c~ c~ c~#
+=3,        9/4 2 b 2. a 1 g
+=3 9/4 4 blank-P 4. blank-P 2. blank-P 2 blank-P 4. blank-P
+| 9/8 4.05
+=1 9/8 4. Eb 8 C 2 En 8 D
+r0.5 .03 Praised .36 be  wood, .90 it
+=2 9/8 2 <Eb Fx> En(1 8 E)1
+=2 9/8 2 C, C,(2 8 C,)2
+=3 9/8 4 g-* a f#-P 4. a
+| 4/4 3.6
+=1 4/4 4 F 2. Eb
+r0.5 .08 is .27 milk  . . .
+=2 4/4 4 Eb 2. F
+=2 4/4 4 C, 2 Db, 4 Db,(2
+=3 4/4 2 bb' ab'(1
+=3 4/4 4 f,(2 4. f,)2 f,(2
+=3 4/4 4. blank-P 8 blank-P 2 blank
+/
+4 bars | 6/4 4 4 4 4 4 4 4 4 4 4 4 4 \
+  | 5/8 5 4 5 4 4 | 4 4 4 5 4 | 4/4 8 8 8 7 |
+| 6/4 5.4
+=1 6/4 2 rest rest 4 Db Eb
+r0.6 .66 Praised  be
+=2 6/4 4. rest' 8 d~b' [c~' a'] 2. bb']
+=2 6/4 1. <Db)2 F>
+=3 6/4 1. <ab)1 f)2 Eb>
+| 5/8 2.35
+il0.4 .09 5
+=1 5/8 8 F 2 Ab
+r0.6 .10 Honey
+=2 5/8 2 Db 8 Eb
+=3' 5/8 4. bn 4 ab
+=3, 5/8 4 rest,-P 4. f
+|
+=1 4. B' 4 A
+r0.6 .06 at .60 the
+=2 4 Db 4. Eb
+=3' 4. an 4 b
+=3, 8 rest,-P 4. f 8 f#(2-,-P
+| 4/4 3.6
+i0.3 .34 dim . . .
+=1 4/4 1 f#(2
+r0.6 .04 Source  . . .
+=2 4/4 1 eb
+=2 4/4 4 rest,, C#, A_, D#,(2
+I0.3     mf
+i0.3 .24 dim . . .
+=3 4/4 1 <a(1 f#)2(2 B_(4>
+I0.7 8vab_
+/
+5 bars | 4 4 4 6 4 3 4 3 | 32 | 32 | 32 | 6/4 48 |
+|
+=1 4 f#)2 2. rest
+=2 8 [eb' c'] [d' B'] 2 c#'
+=2 1 D#)2
+=3' 2. <a)1 f#)2> 4 f#
+=3, 1 B_)4
+I0.6 .15 . . . loc
+| 4/4 1.7 1.6
+=1 1 F#
+r0.6 Praised
+=2' 2 F# A
+=2, 4 C# 2. E
+i0.4 .20 cresc . .  accell . . .
+=3 2 a-P 4 b f#
+| 4/4 3.0
+il0.4     10
+=1 2 E(1 8 [E)1 G] 4 E
+r0.6 .06 be .61 the em -
+=2' 4. rest 4 A D 8 G
+=2, 1 C#
+=3 4 g a b a
+| 4/4 1.5 1.6
+=1' 2. B 4 F
+r0.6 .01 brace .75 of
+=2 1 <Ax B>
+=2 4 F, B_, C#, D,
+i0.1 .55 rit . . .
+=3 1 g
+=3 4 blank 2. blank-P
+| 6/4 5.1
+=1 6/4 2. A G#
+r0.6 .08 soft .50 sleep
+=2' 6/4 2. <F A> <F Ab>
+=2, 6/4 4 B_ 2. D 4 C D-s2,
+=3 6/4 2. G-P Ab-P
+/
+5 bars | 4/4 32 | 32 | 32 | 32 | 3/4 24 |
+| 4/4 1.5 1.4
+=1 4/4 1 rest
+=2 4/4 1 ab(1
+=2, 4/4 2 F 4 D Eb
+i0.3 .15 accell . . .   cresc . . .
+=3 4/4 1 <c~-s1,-s4,-s5, ab>
+| 4/4 2.7
+=1 2. rest 4 G
+r0.7 .74 The
+=2' 2. ab)1 4 D
+=2, 4 F D 2 C
+=3' 2. bbrl 4 bb
+=3, 1 abrrl-P
+| 4/4 2.7
+il0.6 .14 15
+=1 4 B' 2 Bb' 4 Ab
+r0.7 .07 valour .75 of
+=2' 4 A d db c
+=2, 4 F 2. Gb
+=3' 4 bn d~ e~b e~n(1
+=3, 4 ar 2. bb
+=3 4 blank-P 2 blank-P 4 blank-P
+| 4/4 1.35 1.6
+=1 4. c Bb' 4 Ab
+r0.7 .01 an .17 - .35 gels .75 in
+#=2' 4. Bb Abrl 4 eb
+#=2, 4. rest, Gbl 4 Gb(2
+=2' 2. Bb 4 eb
+=2, 4 rest, Gb Ab 4 Gb(2
+=3 4. e~)1 bb 4 c~
+| 3/4 1.4 1.6
+=1 3/4 4 B' eb rest
+r0.7 .13 valleys
+=2' 3/4 2. Abrl
+=2, 3/4 4 Gbrrl)2 2 F,(2
+i0.5 .01 rit . . . .70 tempo
+=3 3/4 2. d~b
+=3 3/4 4 blank 2 blank-P
+
+4 systems /19 40 19-35-19 /19 35 19-30-19 \
+ /19 49 19-30-19 /19 35 19-40-19 20 /
+pagenum 4
+innerhead From the 228th Chorus of Mexico City Blues
+leftfoot (c) 1993 Peter J Billam, 1959 Jack Kerouac
+/
+5 bars | 15/8 60 | 4/4 4 4 4 6 4 4 4 3 | 5/4 40 \
+ | 6/4 4 4 4 4 4 4 4 8 4 4 4 3 | 45 |
+| 15/8 6.875
+=1 15/8 4. d 2 D 4. Ab 2 G 8 rest
+r0.7 .07 of .25 hell .48 on .66 earth
+=2 15/8 2.. F')2 1 Bb
+=2 15/8 2 rest,, 2.. Ab, 8 rest, 4. F,
+=3 15/8 1 d~n 2.. d~b
+=3 15/8 1 blank 4. blank 2 blank-P
+| 4/4 3.6
+=1 4/4 4 Ab 2. Db
+r0.7 .10 below,
+=2' 4/4 2. rest' 4 g(1
+=2, 4/4 4. rest, 8 Bb(2 2 B)2
+=3 4/4 1 e~
+=3 4/4 4. db,-P 8 rest, 2 rest,
+| 5/4 4.5
+il0.3 .09 20
+=1 5/4 1 rest 4 rest
+=2' 5/4 4. g)1 2.. gb
+=2, 5/4 4. rest, 4 rest, 4. <E(4 Bb(2> 4 <E)4 Bb)2 a~b'>
+=3 5/4 4. rest,, 4 rest,, 4. rest,, 4  G_b,(1
+=3 5/4 4. g 2.. ab
+=3 5/4 2 blank 2. blank-,-,-,-P
+| 6/4 5.4
+=1 6/4 2 Bb 4. cb 8 Bb 2 Ab
+r0.6 .05 Praised be .56 the  Non .97 -
+=2' 6/4 2 Bb Ab Gb
+=2, 6/4 1 E 4 rest,, E,
+=3'  6/4 4 rest' 2 ab 2. d~b
+=3,  6/4 1. G_b)1
+|
+=1 2 c 2. eb 4 rest
+r0.6 .04 en - ding
+=2' 2 Bb Ab Gb
+=2, 1. Eb
+=3' 4 rest' 2 c~ bb 4 ab
+=3 1. Gb
+=3 8 blank 4. blank-,-P 1 blank
+/
+5 bars | 5 4 8 6 4 4 4 4 4 4 4 3 \
+ | 4/4 9 8 8 7 | 6 5 5 8 6 4 6 5 | 9 9 9 7 \
+ | 7/4 8 7 8 8 8 7 7 |
+|
+=1 4 en 8 [A# c#'] 2. d 4 cn
+r0.7 .02 Praised be the lights   of
+=2' 1. G#-s4-s5
+=2, 2 E D C
+=3' 4 rest' 2 a# g#-s1 4 f#-s1,
+=3 1. F_#
+=3 2 blank 8 blank 2.. blank-,-P
+| 4/4 3.6
+=1 4/4 2 d# f#
+r0.7 .08 earth - man
+#=2' 4/4 2. cn 4 c#(1
+=2' 4/4 2. cn 4 c#
+I0.7 .73 f
+=2 4/4 4 rest, 2. G#,
+=3 4/4 2 rest d#'
+=3 4/4 1 F#(2
+|
+il0.3   25
+=1 1 rest
+#=2' 4 c#)1 2 A# 4 B
+#=3' 2 g# f#
+#=3 1 F#)2
+=2' 4 B 8 [C# E] 4. G# 8 F#
+=2, 2. G_# 4 B_(2
+=3 1 F#)2
+=3 8 blank 2.. blank-,-P
+|
+=1 2 B' 4 d# c#
+r0.7 .01 Praised  be  the
+#=2 4 A D# F# A
+=2' 2 A F#
+=2, 4 B_)2 2 C# 4 E
+=3 1 <F_#-P F#>
+I0.5 .85 8vab . . .
+| 7/4 6.3
+=1 7/4 2. a 1 f#
+r0.7 .11 wat - chers
+=2' 7/4 2. rest' 4 rest' 2 a 4 f#
+=2 7/4 1.. <F_# C#l F#>
+=3 7/4 1.. tra-12 <B_ B(1> tra0
+/
+5 bars | 8 8 10 8 8 8 7 | 10 10 8 8 9 7 7 \
+ | 10 9 8 8 8 8 7 | 4/4 8 10 8 7 \
+ | 8/4 64 |
+|
+=1 1 rest 4 rest
+=2' 2 b 4 f# 2. f~# 4 f#
+=2 1 rest, 2. G#,
+=3 tra-12 1.. <B)1 B_(2> tra0
+|
+=1 2 d 1 B' 4 rest
+r0.8  Praised    be
+=2' 4 B f# 2 f~# 4 B(2 2 f#(1
+=2, 2 F# 1 <E G#> 4 rest,,
+=3 1.. <B_)2 B> tra0 treble
+I0.6            . . . loc.
+|
+il0.4    30
+=1 4 db c eb 1 g
+r0.7 my fellow man
+=2' 4 f#)1 2 f# <fn gx> g~
+=2 4 B,)2 2 c, 1 c
+=3 4 Ab'(1 2 Ab')1 1 An-P
+=3 4 rest,, 1. Eb bass
+| 4/4 3.6
+=1 4/4 1 rest
+=2' 4/4 4 rest A-ten eb-ten f-ten
+=3 4/4 1 F
+| 8/4 7.2
+=1 8/4 2 ab 4 gb 2. c 2 eb
+r0.7 .03 For .25 dwelling .75 in
+=2' 8/4 2 gb 1 ab 2 eb
+=2 8/4 1 c Bb
+=3 8/4 1 a~b(1 a~b)1
+=3 8/4 1.. e~b 4 c~
+/
+3 bars | 64 | 7/4 56 | 15/4 120 ||
+|
+=1 1. en 2 rest
+r0.7 .01 milk   -      -
+I0.1     mf
+=2 1 e{'1 4 d' 2 G#' 4 B'
+=2 2 G#, 4 F#, E,(2 1 E)2
+=3 1 br(1-P b)1
+=3 1 d~ 2 f#, e,
+| 7/4 6.3
+=1 7/4 1.. rest
+=2 7/4 1.. c}'1
+=2  7/4 2 E, 1 D(1 4 D')1
+=2, 7/4 1 blank 2. C(2
+I0.8 .17 mp
+I0.1 .03 mf
+=3' 7/4 4 rest' c~-P bb 2 e g
+=3, 7/4 1.. G
+| 15/4 .86 .86 .87 .88 .90 .92 .94 .96 .99 1.02 1.05 1.08 1.12 1.16 2.0
+il0.3     35
+=1 15/4 1 rest rest 1.. rest
+I0.1    p
+i0.6 .19 rit . . . .60 molto . . .
+=2 15/4 1 D
+=2 15/4 1 Cr)2 2 B_b,(2 B_b,)2(2 2. B_b,)2(2 1 B_b)2
+=2 15/4 4 rest' 2. d'(3 1 d)3(3 2. d')3(3 2 d')3 2 vol60 D
+i0.6 .16 dim . . .
+I0.5 .87 . . . pp
+I0.25      mp
+=3 15/4 2 ab 4 gb 2. c,(2 2 eb' 1.. en'
+=3, 15/4 2 ab 4 gb 2. c(2 2 c)2(2 1.. c)2
+=3, 15/4 bre blank 2. blank 1 vol50 C
+=3' 15/4 bre. blank 4 blank 2 G
+=3, 15/4 bre. blank 2 blank 4 vol40 C_
+=3  15/4 2 blank 8 blank 2.. blank-,-,-P 2 blank 1.. blank-,-P 64 blank-,-,-*
+@
+
+
+1.15
+log
+@addded more interest round bar 25
+@
+text
+@d131 4
+a134 2
+=2' 4. Bb Abrl 4 eb
+=2, 4. rest, Gbl 4 Gb(2
+d196 1
+a196 1
+r0.7 .03 Praised be the lights of
+d204 1
+a204 1
+r0.7 .07 earth - man
+d223 1
+a223 1
+r0.7 .01 Praised be the
+@
+
+
+1.14
+log
+@add pedalling
+@
+text
+@d16 1
+a16 1
+ 4 Gb(2-ten 43 Gb)2 e-ten-I3 d-ten 1 A
+d45 1
+a45 1
+il0.2  5
+d149 2
+a150 2
+4 bars | 15/8 60 | 4/4 32 | 5/4 40 \
+ | 6/4 4 4 4 4 4 4 4 6 4 4 4 3 |
+d153 1
+a153 1
+r0.7 .05 of .24 hell .48 on .66 earth
+d174 2
+a175 2
+=1 6/4 2 Bb' 4. cb 8 Bb' 2 Ab
+r0.7 .06 Praised .36 be .56 the  Non .90 -
+a179 4
+/
+6 bars | 48 | 5 4 9 6 4 4 4 4 4 4 4 3 \
+ | 4/4 9 8 8 7 | 9 8 8 7 | 8 9 9 7 \
+ | 7/4 8 7 8 8 8 7 7 |
+d182 1
+a182 1
+r0.7   - .04 en - ding
+d188 4
+d194 1
+a194 1
+r0.7 Praised be the lights of
+d203 3
+a205 1
+=2' 4/4 2. cn 4 c#(1
+d212 5
+a216 2
+=2' 4 c#)1 2 A# 4 B
+=3' 2 g# f#
+d222 4
+a225 2
+=2 4 A D# F# A
+=3 1 <F_#-P F# b>
+d231 1
+a231 1
+=2 7/4 1.. <F_# C#>
+d234 2
+a235 2
+5 bars | 8 8 9 8 8 8 7 | 10 10 8 8 9 7 7 \
+ | 10 8 8 8 8 8 7 | 4/4 8 9 8 7 \
+d281 1
+a281 1
+=2  7/4 2 E, 1 D 4 D'(1
+d285 1
+a285 1
+=3' 7/4 4 rest' c~ bb 2 e g
+d289 1
+a289 1
+=1 15/4 1 rest rest rest..
+d291 3
+a293 2
+=2 15/4 1 Dr)1
+=2 15/4 1 C)2 2 B_b,(2 B_b,)2(2 2. B_b,)2(2 1 B_b)2
+d296 1
+a296 1
+I0.6 .87 . . . pp
+@
+
+
+1.13
+log
+@squeezed to two pages, use 19-point staves
+@
+text
+@d13 1
+a13 1
+=1 treble 9/4 channel1 tra-12 leg100 \
+d15 6
+a20 5
+=2' treble 9/4 channel2 legato100 8 [F-ten Db{2 Eb A}2] 4 Gb(2 \
+ cro3 Gb)2 e-I3 d 1 A
+=2, treble 9/4 2 blank 2. blank 2 F En
+=3' bass  9/4 channel2 legato100 2 b 4 e~ 2 c~ c~ c~#
+=3, bass  9/4 2 b 2. a 1 g
+d26 1
+a26 1
+=3 9/8 4 g a f# 4. a
+d34 1
+a40 1
+I0.3 .16 p
+d50 1
+a50 1
+=3, 5/8 4 rest, 4. f
+d56 1
+a56 1
+=3, 8 rest, 4. f 8 f#(2
+d61 1
+a61 2
+I0.1 .90 pp
+=2 4/4 1 Eb
+d66 1
+a66 1
+i0.7 8vab_
+d75 1
+a75 1
+i0.6        _|
+d80 1
+a80 1
+=2, 4 C# E 2 blank
+d82 1
+a82 1
+=3 2 a 4 b f#
+d97 1
+d102 2
+a103 2
+=2, 6/4 4 B_ 2. D 4 C D
+=3 6/4 2. G Ab
+d111 1
+a111 1
+=3 4/4 1 <c~ ab>
+d118 1
+a118 1
+=3, 1 abrrl
+d120 1
+a120 1
+il0.4 .12 15
+d127 1
+d133 1
+a133 1
+=3 4. e~)1 c~(1 4 c~)1
+d141 1
+d157 1
+d164 1
+a164 1
+=3 4/4 4. db, 8 rest, 2 rest,
+d166 1
+a166 1
+il0.3     20
+d172 1
+d191 1
+d195 1
+a195 1
+=2' 1. G#
+d197 1
+a197 1
+=3' 4 rest' 2 a# g# 4 f#
+d199 1
+d213 1
+d218 1
+a218 1
+=3 1 <F_# F# b>
+d245 1
+a245 1
+r0.8 my fellow man
+d248 1
+a248 1
+=3 4 Ab'(1 2 Ab')1 1 An
+d267 1
+a267 1
+=2 1 e{1 4 d' 2 G#' 4 B'
+d269 1
+a269 1
+=3 1 br(1 b)1
+d273 3
+a275 2
+=2 7/4 1.. c}1
+=2 7/4 2 E, D,(2 2. <D,)2(1 C,x(2>
+d280 1
+a280 1
+| 15/4 6.4 6.4
+a283 1
+=2 15/4 4 rest' 2. d'(3 1 d)3(3 2. d')3(3 2 d')3 2 D
+d286 1
+d292 1
+a292 1
+=3, 15/4 bre blank 2. blank 1 C
+d294 2
+a295 1
+=3, 15/4 bre. blank 2 blank 4 C_
+@
+
+
+1.12
+log
+@final D in RH is actually a min
+@
+text
+@d1 2
+a2 1
+3 systems /21 37 21-45-21 /21 54 21-45-21 /21 39 21-55-21 10/
+d7 2
+d10 34
+a43 31
+2 bars | 3.8 3.2 | 5 |
+|
+=1 treble 9/4 cro rest
+r0.2             _
+r0.7                                                      _    _
+=2 treble 9/4 qua F[ Db(2 Eb A)2] cro. Gb qua e'[ d'] smb A qua rest'
+=2 treble 9/4 qua F[ Db(2 Eb A)2] cro. Gb qua e'[ d'] min F, E,(2 qua E,)2
+=3 bass   9/4 min b' cro e~' cro. c~' min c~' c~#'(2 qua c~#')2
+=3 bass   9/4 min b, a qua rest smb g qua rest
+|
+=1 9/8 cro. Eb qua C min En qua D
+r0.6     Praised            be  wood,                        it
+=2 9/8 min F E(1 qua E)1
+=2 9/8 min C, C,(2 qua C,)2
+=3 9/8 cro g a f# cro. a
+/
+3 bars | 5.4 | 7 | 5 |
+|
+=1 treble 4/4 cro F min. Eb
+r0.6            is     milk  . . .
+=2 treble 4/4 cro Eb min. F
+=2 treble 4/4 cro C, min Db, cro Db,(2
+=3 bass   4/4 min bb' ab'(1
+=3 bass   4/4 cro f,(2 cro. f,)2 f,(2
+|
+=1 6/4 min rest rest cro Db Eb
+r0.6                                                 Praised  be
+=2 6/4 cro. rest' qua d~b' c~'[ a'] min. bb']
+=2 6/4 smb. < Db)2 F >
+=3 6/4 smb. < ab)1 f)2 Eb >
+|
+d45 18
+a62 18
+=1 5/8 qua F min Ab
+r0.6       Honey
+=2 5/8 cro. Db cro Eb
+=3 5/8 cro bn' cro. ab'
+=3 5/8 qua rest min f,
+/
+4 bars | 3 | 4.3 | 4 | 4 |
+|
+=1 treble cro. B' cro A
+r0.8          at            the
+=2 treble cro Db cro. Eb
+=3 bass   cro. a' cro b'
+=3 bass   qua rest cro. f qua f#(2
+|
+=1 4/4 smb f#
+r0.8     Source  . . .
+=2 4/4 smb Eb
+=2 4/4 cro rest,, C#, A_, D#,(2
+d64 2
+a65 2
+i0.3          dim . . .
+=3 4/4 smb < a(1 f#)2(2 B_(4 >
+d67 2
+d70 5
+a74 4
+=1 smb rest
+=2 qua eb'[ c'] d'[ B'] min c#'
+=2 smb D#)2
+=3 smb < a)1 f#)2 B_)4 >
+d76 63
+a138 6
+|
+=1 smb F#
+r0.8   Praised
+=2 cro C# E min A
+i0.6          cresc . .  accell . . .
+=3 min a cro b f#
+d140 2
+a141 1
+4 systems /21 35 21-40-21 /21 35 21-45-21 /21 49 21-38-21 /21 35 21-40-21 10/
+d146 16
+a161 71
+4 bars | .9 .9 .9 1.4 .9 | 4 | 5.9 | 4 |
+|
+il0.4     10
+=1 treble 5/4 min. E qua G cro. E
+r0.7            be               the em  -
+=2 treble 5/4 cro rest C# A qua D cro. G
+=3 bass   5/4 cro g a cro. b a
+|
+=1 4/4 min. B' cro F
+r0.7    -  brace                of
+=2 4/4 smb A
+=2 4/4 cro F, B_, C#, D,
+i0.1                   rit . . .
+=3 4/4 smb g
+|
+=1 6/4 min A smb G#
+r0.8      soft         sleep
+=2 6/4 min F smb F
+=2 6/4 cro B_, min D, cro C, min D,
+=3 6/4 min g smb ab
+|
+=1 4/4 smb rest
+=2 4/4 smb ab(1
+=2 4/4 cro F, cro. D, Eb,
+i0.3          accell . . .   cresc . . .
+=3 4/4 smb < c~ ab(2 >
+/
+4 bars | 4.4 | 5 | 3.2 | 3.5 |
+|
+=1 treble smb rest
+=2 treble smb ab)1
+=2 treble cro F, D, min C,
+i0.8                                  tempo
+=3 bass   min. bb'r qua rest' bb'
+=3 bass   smb ab)2
+|
+il0.2    15
+=1 5/4 cro G B' min Bb' cro Ab
+r0.7        the    valour                  of
+=2 5/4 cro rest' A d' db' c'
+=2 5/4 cro D, F, min. Gb,
+=3 5/4 cro c~' b' d~' e~b' e~n'(1
+=3 5/4 cro rest, ar min. bb
+|
+=1 6/8 cro. c Bb'
+r0.7      an    -    gels
+=2 6/8 cro. <Bb' rest,> <Abx Gb>
+=3 6/8 cro. e~)1 c~(1
+|
+=1 7/8 cro Ab B eb qua rest
+r0.7         in      valleys
+=2 7/8 cro eb' Ab'(1 cro. Ab')1
+=2 7/8 min Gb, cro. F,(2
+i0.5       rit . . .        tempo
+=3 7/8 cro c~)1 min d~b qua rest'
+/
+3 bars | 14 | 2 2.5 2 2 | 10 |
+|
+=1 treble 15/8 cro. d min D cro. Ab min G qua rest
+r0.7           of          hell             on         earth
+=2 treble 15/8 min.. F')2 smb Bb
+=2 treble 15/8 min rest,, min.. Ab, qua rest cro. F,
+=3 bass   15/8 smb d~n min.. d~b
+|
+=1 4/4 cro Ab min. Db
+r0.7      be  -  low,
+=2 4/4 min rest' qua rest' cro g'(1
+=2 4/4 cro. rest, qua Bb,(2 min Bb,)2
+=3 4/4 smb e~
+=3 4/4 cro. db, qua rest, min rest,
+|
+d163 37
+a199 40
+=1 5/4 smb rest cro rest
+i0.9                                      8va . .   |
+=2 5/4 cro. g')1 min.. gb'
+=2 5/4 cro. rest, cro rest, cro. <E,(4 Bb,(2> cro <E,)4 Bb,)2 a~b'>
+=3 5/4 cro. rest,, cro rest,, cro. rest,, cro  G_b,(2
+=3 5/4 cro. g min.. ab
+/
+3 bars | .4 .4 .4 .4 .4 .4 .7 .4 .4 .4 .4 | 1.5 1.5 1.8 1.5 | 1 1.4 1 1 1 1 |
+|
+=1 treble 11/8 min Bb' cro cb qua Bb' min Ab
+r0.7        Praised    be   the Non  -
+=2 treble 11/8 min Bb' cro. Ab' min Bb'
+=2 treble 11/8 smb E qua rest,, cro Db,
+=3 bass   11/8 min.. G_b)1(1 min G_b)1(1
+|
+=1 8/4 min. c min eb min. rest
+r0.7      en   -      -   ding  -     -
+=2 8/4 smb Bb Ab
+=2 8/4 min. Eb, smb C cro rest,,
+=3 8/4 min rest' rest' cro rest' min. bb'
+=3 8/4 smb G_b)1(1 G_b)1
+|
+=1 6/4 cro e qua A#[ c#'] min. d cro cn
+r0.7     Praised be the lights                 of
+=2 6/4 min G#(1 min. G#)1 cro D
+=3 6/4 smb. F_#(1
+
+4 systems /21 35 21-30-21 5/21 45 21-30-21 5/21 40 21-40-21/20 33 21-40-21 25/
+pagenum 5
+innerhead From the 228th Chorus of Mexico City Blues
+leftfoot (c) 1993 Peter J Billam, 1959 Jack Kerouac
+/
+4 bars | 4.7 | 3.6 | 4 | 5.5 |
+|
+=1 treble 4/4 min d# f#
+r0.7         earth   -   man
+=2 treble 4/4 min. cn' cro c#'(1
+=2 treble 4/4 cro rest, min. G#,
+=3 bass   4/4 min rest d#'
+=3 bass   4/4 smb F_#)1(1
+d202 25
+a226 9
+=1 smb rest
+=2 cro c#')1 min A# cro B'
+=3 min. g#' cro f#(3
+=3 smb F_#)1
+|
+=1 min B' cro d# c#
+r0.7  Praised      be     the
+=2 cro A D# min F#
+=3 smb <F# f#)3>
+d228 1
+a228 15
+=1 7/4 min. a smb f#
+r0.7        wat    -    chers
+=2 7/4 min. rest' rest' cro f#'
+=2 7/4 smb.. C#
+=3 7/4 smb.. <f# B_>
+I0.6 8vab . . .
+/
+3 bars | .8 .8 1 1 .8 .8 1 | 1 1 .8 .8 1 .8 .8 | 9.5 |
+|
+=1 treble smb rest cro rest
+=2 treble min b' cro f#' min. f~#' cro f#
+=2 treble smb rest, min. G#,
+=3 bass   smb.. B_(2
+|
+=1 min d min. B' min rest
+d230 3
+a232 3
+=2 cro b' f#' min f~#' cro B'(2 min f#'(1
+=2 min <D, F#,> smb <E G#> cro rest,,
+=3 smb.. B_)2
+d236 36
+a271 40
+=1 clefspace 15/8 cro. db cro c eb smb g
+r0.8          my        fellow    man
+=2 clefspace 15/8 cro. f#')1 cro f#' g' min fn'(1 qua f')1 cro. g~'
+=2 clefspace 15/8 cro. B,)2 min c, smb c(2
+=3 treble 15/8 cro. Ab'(1 min Ab')1 smb An
+=3 treble 15/8 cro. rest,, smb. Eb
+
+/
+3 bars | 5.5 | 8 | 7.5 |
+|
+=1 treble 5/4 smb rest cro rest
+r0.15                 _         _        _
+=2 treble 5/4 qua rest cro A, eb f
+=3 bass   5/4 min F(2 min. F)2
+|
+=1 8/4 min ab cro gb min. c min eb
+r0.7    For         dwelling                   in
+=2 8/4 min gb' smb. ab
+=2 8/4 smb c Bb
+=3 8/4 smb a~b(1 a~b)1
+=3 8/4 smb.. e~b cro c~
+|
+=1 smb. en min rest
+r0.7    milk   -      -
+I0.1    mf
+=2 smb e(1 cro d' min G#' cro B'
+=2 min G#,(2 qua G#, cro. E,(2 smb E)2
+=3 smb b(1 b)1
+=3 smb d~ min f#, e,
+/
+2 bars | 7 | 15 ||
+|
+=1 treble 7/4 smb.. rest
+=2 treble 7/4 smb.. c)1
+=2 treble 7/4 min E, D,(2 min <D,)2(1 C,x(2>
+I0.9                 mp
+I0.1    mf
+=3 bass   7/4 cro rest' c~' bb' min e' g'
+=3 bass   7/4 smb.. G
+|
+d273 1
+a273 1
+=1 15/4 smb rest rest rest..
+d275 5
+a279 5
+=2 15/4 cro rest' min. d'(3 smb d)3(3 min. d')3(3 min d')3 min D
+=2 15/4 smb Dr)1
+=2 15/4 smb C)2 min B_b,(2 B_b,)2(2 min. B_b,)2(2 smb B_b)2
+i0.6                dim . . .
+I0.6                                                                                               . . . pp
+d281 5
+a285 2
+=3 15/4 min ab cro gb min. c,(2 min eb' min. en'(1 min. e)1' cro C_,
+=3 15/4 min ab cro gb min. c,(2 min c,)2(2 min. c,)2(2 min <c,)2(2 C,(4> <c)2(2 G C(4>
+@
+
+
+1.11
+log
+@cro. not cro in RH under my fellow man
+@
+text
+@d268 1
+a268 1
+=2 15/4 cro rest' min. d'(3 smb d)3(3 min. d')3(3 d')3 cro D
+@
+
+
+1.10
+log
+@rhythm adds up in last bar
+@
+text
+@d228 1
+a228 1
+=2 clefspace 15/8 cro B,)2 min c, smb c(2
+@
+
+
+1.9
+log
+@spacing now ok, last D is a cro
+@
+text
+@d268 1
+a268 1
+=2 15/4 cro rest' smb d(3 d)3(3 d)3(3 min. d')3 cro D
+@
+
+
+1.8
+log
+@more vertical space adjustment on last page
+@
+text
+@d178 1
+a178 1
+4 systems /21 35 21-30-21 5/21 35 21-40-21 5/21 48 21-30-21/20 33 21-40-21 25/
+d199 1
+a199 1
+r0.8  Praised      be     the
+d204 1
+a204 1
+r0.8        wat    -    chers
+d268 1
+a268 1
+=2 15/4 cro rest' smb d(3 d)3(3 d)3(3 d)3 min D
+@
+
+
+1.7
+log
+@more space to clear final footer
+@
+text
+@d178 1
+a178 1
+4 systems /21 35 21-30-21 /21 35 21-40-21 /21 40 21-40-21 /20 33 21-40-21 25/
+@
+
+
+1.6
+log
+@raise lowest system to clear footers
+@
+text
+@d178 1
+a178 1
+4 systems /21 35 21-30-21 /21 35 21-40-21 /21 40 21-40-21 /20 33 21-40-21 15/
+@
+
+
+1.5
+log
+@tiny spacing adjusts
+@
+text
+@d1 1
+a1 1
+3 systems / 21 37 21-45-21 / 21 54 21-45-21 / 21 39 21-55-21 /
+d74 1
+a74 1
+4 systems / 21 35 21-40-21 / 21 35 21-45-21 / 21 49 21-40-21 / 21 35 21-45-21 /
+d178 1
+a178 1
+4 systems / 21 35 21-40-21 / 21 45 21-40-21 / 21 40 21-40-21 / 21 35 21-40-21 /
+@
+
+
+1.4
+log
+@more vertspace in p3sys2
+@
+text
+@d79 1
+a79 1
+4 bars | .9 .9 .9 1.3 .9 | 4 | 6 | 4 |
+d83 1
+a83 1
+r0.8            be                 the em  -
+d88 1
+a88 1
+r0.8    -  brace                    of
+d90 1
+a90 1
+=2 4/4 cro F, B_, C#, D
+d129 1
+a129 1
+r0.6           in       valleys
+d138 1
+a138 1
+r0.6          of          hell              on           earth
+d144 1
+a144 1
+r0.6     be  -  low,
+d161 1
+a161 1
+r0.7     Praised       be   the  Non
+d164 1
+a164 1
+=3 bass   11/8 min.. G_b)2(2 min G_b)2(2
+d171 1
+a171 1
+=3 8/4 smb G_b)2(2 G_b)2
+d174 1
+a174 1
+r0.7      Praised be the lights              of
+d186 1
+a186 1
+r0.7      earth   -   man
+d199 1
+a199 1
+r0.8  Praised      be    the
+d204 1
+a204 1
+r0.8          wat   -   chers
+d208 1
+a208 1
+I0.6  8vab . . .
+d218 1
+a218 1
+r0.8  Praised     be
+d226 1
+a226 1
+r0.8         my     fellow   man
+@
+
+
+1.3
+log
+@recovered spacings
+@
+text
+@d1 1
+a1 1
+3 systems / 21 37 21-45-21 / 21 44 21-45-21 / 21 39 21-55-21 /
+@
+
+
+1.2
+log
+@shifted a bar from p5sys2 to p4sys1
+@
+text
+@d74 1
+a74 1
+4 systems / 21 39 21-40-21 / 21 39 21-45-21 / 21 39 21-40-21 / 21 55 21-45-21 /
+d79 1
+a79 1
+4 bars | 4.5 | 4 | 6 | 4 |
+d83 1
+a83 1
+r0.8            be                     the em  -
+d88 1
+a88 1
+r0.8    -  brace                                          of
+d95 1
+a95 1
+r0.8      soft        sleep
+d135 1
+a135 1
+3 bars | 15 | 8 | 10 |
+d138 1
+a138 1
+r0.6      of            hell                on            earth
+d158 1
+a158 1
+3 bars | .4 .4 .4 .4 .4 .4 .7 .4 .4 .4 .4 | 1.8 1.8 2.1 1.8 | 1 1.4 1 1 1 1 |
+d161 1
+a161 1
+r0.7     Praised       be    the  Non
+d174 1
+a174 1
+r0.7       Praised be the lights             of
+d218 1
+a218 1
+r0.8  Praised       be
+d220 1
+a220 1
+=2 min <D, F#,> smb <E G#> cro rest,
+d226 1
+a226 1
+r0.8     my   fellow man
+@
+
+
+1.1
+log
+@tiny spacing adjustments
+@
+text
+@d1 1
+a1 1
+3 systems / 21 37 21-45-21 / 21 34 21-45-21 / 21 39 21-55-21 /
+d79 1
+a79 1
+3 bars | 4.5 | 6 | 4 |
+a98 2
+/
+4 bars | 4.4 | 4 | 5 | 3.2 |
+d100 3
+a102 3
+=1 treble 4/4 smb rest
+=2 treble 4/4 smb ab(1
+=2 treble 4/4 cro F, cro. D, Eb,
+d104 3
+a106 1
+=3 bass   4/4 smb < c~ ab(2 >
+d108 3
+a110 3
+=1 smb rest
+=2 smb ab)1
+=2 cro F, D, min C,
+d112 2
+a113 2
+=3 min. bb qua rest' bb'
+=3 smb abx)2
+d121 1
+a121 1
+=3 5/4 cro rest, ax min. bb
+a126 2
+/
+3 bars | 8 | 15 | 8 |
+d128 1
+a128 1
+=1 treble 7/8 cro Ab B eb qua rest
+d130 2
+a131 2
+=2 treble 7/8 cro eb' Ab'(1 cro. Ab')1
+=2 treble 7/8 min Gb, cro. F,(2
+d133 3
+a135 1
+=3 bass   7/8 cro c~)1 min d~b qua rest'
+d137 1
+a137 1
+=1 15/8 cro. d min D cro. Ab min G qua rest
+d139 3
+a141 3
+=2 15/8 min.. F')2 smb Bb
+=2 15/8 min rest,, min.. Ab, qua rest cro. F,
+=3 15/8 smb d~n min.. d~b
+a148 2
+/
+3 bars | 5.3 | .4 .4 .4 .4 .4 .4 .7 .4 .4 .4 .4 | 1.8 1.8 2.1 1.8 |
+d151 1
+a151 1
+=1 treble 5/4 smb rest cro rest
+d153 6
+a158 4
+=2 treble 5/4 cro. g')1 min.. gb'
+=2 treble 5/4 cro. rest, cro rest, cro. <E,(4 Bb,(2> cro <E,)4 Bb,)2 a~b'>
+=3 bass   5/4 cro. rest,, cro rest,, cro. rest,, cro  G_b,(2
+=3 bass   5/4 cro. g min.. ab
+d160 1
+a160 1
+=1 11/8 min Bb' cro cb qua Bb' min Ab
+d162 3
+a164 3
+=2 11/8 min Bb' cro. Ab' min Bb'
+=2 11/8 smb E qua rest,, cro Db,
+=3 11/8 min.. G_b)2(2 min G_b)2(2
+d172 5
+d183 1
+a183 1
+4 bars | 1 1.4 1 1 1 1 | 4.3 | 3.6 | 4 |
+d185 1
+a185 6
+=1 treble 6/4 cro e qua A#[ c#'] min. d cro cn
+r0.7       Praised be the lights             of
+=2 treble 6/4 min G#(1 min. G#)1 cro D
+=3 bass   6/4 smb. F_#(1
+|
+=1 4/4 min d# f#
+d187 4
+a190 4
+=2 4/4 min. cn' cro c#'(1
+=2 4/4 cro rest, min. G#,
+=3 4/4 min rest d#'
+=3 4/4 smb F_#)1(1
+a201 2
+/
+4 bars | 5.8 | .8 .8 1 1 .8 .8 1 | 1 1 .8 .8 1 .8 .8 | 9.5 |
+d203 1
+a203 1
+=1 treble 7/4 min. a smb f#
+d205 3
+a207 3
+=2 treble 7/4 min. rest' rest' cro f#'
+=2 treble 7/4 smb.. C#
+=3 bass   7/4 smb.. <f# B_>
+d209 2
+d212 4
+a215 4
+=1 smb rest cro rest
+=2 min b' cro f#' min. f~#' cro f#
+=2 smb rest, min. G#,
+=3 smb.. B_(2
+d269 2
+a270 1
+=2 15/4 smb <Dr)1 C)2> min B_b,(2 B_b,)2(2 min. B_b,)2(2 smb B_b)2
+@

@@ -1,0 +1,2082 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	2002.11.27.20.25.20;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2002.05.28.03.34.31;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2002.04.09.04.55.31;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.02.22.07.56.49;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.02.21.10.42.04;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@concatenation of samples s1 s2 s3
+@
+
+
+1.5
+log
+@another iteration of II/3
+@
+text
+@4 systems 15/20 45 20-30-20/20 45 20-30-20/20 45 20-30-20/20 45 20-30-20/
+pagenum 22
+title Excerpt from Act 1 Scene 2, November at the Carousel
+leftfoot (c) 1999 Peter J Billam
+/
+8 bars |3/4 6|1 1 1 1.5 1 1|5|5|6|6|6|6|
+|
+i0.5            friendly . . .
+=1 treble8vab 3/4 cro c# c# c#
+i0.6 Ruby
+r0.6               Ladies and
+i0.05      cro 160 approx
+=2 treble 3/4  min. F)2
+I0.5     p
+i0.5          poco a poco crescendo . . .
+=3 bass 3/4 min. a
+|
+=1 cro. d qua B' cro G#
+r0.6      Gentlemen,
+=2 min. F#
+=3 min. g#
+|
+=1 min. rest
+=2' min. <G# B>
+=3 
+|
+=1 min. rest
+=2' min. <D(2 d(1>
+=3
+|
+=1 min rest cro F#
+r0.6                    I
+=2' min. <D)2 d)1>
+=3 
+|
+=1  cro G# F# A#
+r0.6 hope you've en - joyed
+=2' min. <D F# B>
+=3 
+|
+=1 min. B'(2
+r0.6
+=2, cro rest min <D(2 F A>
+=3 
+|
+=1 min B')2 cro A
+r0.6            your
+=2' min. d
+=2, min. <D)2 F A>
+=3 
+/
+7 bars |6|6|6|6|6|6|6|
+|
+=1 treble8vab min B' cro G#
+r0.6        eve  -  ning
+=2' treble cro rest min <D(2 F(4 Ab>
+=3 bass   
+|
+=1 cro rest A G#
+r0.6         at the
+=2' min. <D)2 F)4 B>
+=3 
+|
+=1 cro A# B c#
+r0.6  Carousel
+=2' min. <E G c#>
+=3 
+|
+=1 min. e
+r0.6      Club ;
+=2' min rest' cro e(1
+=2, min. <G(2 B(4>
+=3 
+|
+=1 min. rest
+r0.6 
+=2' min. e)1
+=2, min. <G)2 B)4>
+=3 cro c~# b f#
+|
+=1 cro A# B' c#
+r0.6  this is your
+=2 
+=3 min. g
+|
+=1 min. d(1
+r0.6   host,
+=2 cro rest min F#(2
+=3 cro rest min <g#(2 b>
+/
+8 bars |6|6|4.5|6|6|6|6|6|
+|
+=1 treble8vab min d)1 cro B
+r0.6                     Jack
+=2' treble min. <F#)2 B>
+=3 bass   min. <g#)2 b>
+|
+=1 min c# cro G
+r0.6    Ru   -   by,
+=2' cro rest min <E(2 Gn B>
+=3 
+|
+=1 min. rest
+=2' min. e(3
+=2, min. <G)2(2 B>
+|
+=1 min rest cro B
+r0.6              the
+=2' min. e)3
+=2, min. <G)2 B>
+=3 
+|
+=1 cro c# A# B
+r0.6   audience
+=2 
+=3' min. <G(2 e g(1>
+|
+=1 min rest cro B
+r0.6               is
+=2  min. C#
+=3' min. <G)2 e g)1>
+|
+i0.4    cresc . . .
+=1 cro. c#(1 d)1
+r0.6    full
+=2 
+=3, min. <G(2 e g bb(1>
+|
+=1 cro. d d
+r0.6   of im -
+=2 min. E
+=3, min. <G)2 e g bb)1>
+/
+7 bars |6|6|6|6|6|6|6|
+|
+=1 treble8vab min. d
+r0.6         por -
+i0.02       tremolando . . .
+=2 treble min. <B_ Fn>
+=3 bass   min. a(1
+|
+=1 min. d
+r0.6     tant
+=2 cro rest min <B_ F A>
+=3 cro a)1 min rest
+|
+i0.4               dim . . .
+=1 min d cro B,(1
+r0.6     people
+=2 min. <F#,(2 B'>
+=3 min. g#(2
+|
+=1 min B,)1 cro B,
+r0.6                to -
+=2 min. <F#,)2 d'>
+=3 min. g#)2
+|
+=1 min c#(1 cro B)1
+r0.6     night,
+=2' min. c#
+=2, min. <Er(2 G B>
+=3 min. gn(1
+|
+=1 min rest cro B
+r0.6                  and
+=2' min. e
+=2, min. <E)2 G>
+=3, min. g)1(1
+|
+i0.4   cresc . . .
+=1 cro. c# c#
+r0.6    I've   en -
+=2 min rest cro G
+=3, min. g)1
+
+4 systems /20 45 20-30-20/20 55 20-30-20/20 55 20-30-20/20 45 20-35-20/
+pagenum 23
+innerhead Act 1, Vocal Score, November at the Carousel, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+8 bars |6|6|5|5|6|6|6|6|
+|
+=1 treble8vab min. d
+r0.6       - joyed
+=2 treble min F# cro F#
+=3 bass min. <g# b>
+|
+i0.4             dim . . .
+=1 cro d# B G#
+r0.6   having  you
+=2 min. Fn(2
+=3 min. <g#(2 b(1>
+|
+=1 min. G#
+r0.6   here.
+=2 min. F)2(2
+=3 min. <g#)2(2 b)1>
+|
+=1 min. rest
+=2' min. <eb e~b>
+=2, min. F)2
+=3 min. g#)2
+|
+=1 min. rest
+r0.6 
+=2' min. <f f~>
+=3 cro d~# b g#
+|
+i0.4    lively . . .
+=1 cro A G# A
+r0.6 Yes, it's con -
+=2 min. D
+=3' min b cro a
+=3 min. f
+|
+=1 cro B' A# B'
+r0.6    ti - nu - ous
+=2 min. <Eb Ab>
+=3' min ab cro g
+=3 min. f
+|
+=1 cro B'(2 min F)2
+r0.6     shows
+=2' cro An G# A
+=2, min. <D(2 F>
+=3 min. f(2
+/
+7 bars |6|6|7|6|6|6|6|
+|
+=1 treble8vab cro rest G# A
+r0.7              at the
+=2' min B cro Bb
+=2, treble min. <D)2 F>
+=3 bass   min. f)2
+|
+=1 cro B' A# B'
+r0.7     Carousel
+=2' min Ab cro G(2
+=2, min. <Ebxr F>
+=3 min. ab
+|
+=1 min d# cro rest
+r0.7      Club,
+=2' min. <Ar c>
+=2, cro G)2 F# G
+=3 min an cro b
+|
+=1 cro rest G A
+r0.7          and on
+=2' min. eb
+=2, min. A
+=3 min. c~
+|
+=1 cro. B' B'
+r0.7    stage it's
+=2' cro A B c#
+=2, min. F
+i0.8     arpeggiando
+=3  cro. d~ c~#
+|
+=1 cro  A B' c#'
+r0.7    glamorous
+=2' cro. d f
+=2, min. <F A>
+=3  min. <b d~>
+|
+=1 cro. G# B'
+r0.7   girls  girls
+=2' cro f g ab
+=2, min. <Eb B>
+=3 min b cro a#
+/
+7 bars |6|6|6|6|6|6|6|
+|
+=1 treble8vab cro f#(1 min d)1(1
+r0.7         girls
+=2 treble min. <d d~>
+=3, bass  min. <g# b f~#>
+|
+=1 min d)1 cro rest
+=2, min. <Ab ab>
+=3  min. <g# b f~#>
+|
+=1 cro f#(1 min Bb,)1(1
+r0.7    all
+=2' gb
+=2, min. <C(2 Eb Gb>
+=3 min. bb
+|
+=1 min Bb,)1 cro c
+r0.7               the
+=2' min. Bb
+=2, min. <C)2 Eb Gb>
+=3 
+|
+=1 min eb cro rest
+r0.7    way !
+=2' cro rest' c eb
+=2, min. <C Eb A>
+=3 min. a
+|
+=1  min. rest
+=2, min. <G(2 g(1 g~>
+I0.3      f
+i0.3          dim . . .
+=3 
+|
+=1 cro A B' c
+r0.7    This is your
+=2, min. <G)2 g)1>
+=3  min. Eb
+/
+8 bars |6|6|6|6|6|6|6|6|
+|
+=1 treble8vab min. c#
+r0.6         Mas     -
+=2 treble cro rest E F#
+=3' bass min. <En e g>
+|
+=1 min B cro c#
+r0.6    ter        of
+=2' min. G
+=2, cro rest,, min E
+=3 cro rest min g
+|
+=1 min. d
+r0.6      Cere -
+=2 cro rest F G
+=3' min. <F f ab>
+|
+=1 min c# cro d
+r0.6   mo  -  nies,
+=2' min. Ab
+=3 cro rest min <g#(2 b(1>
+|
+=1 cro rest min d
+r0.6            Jack
+=2' min. B
+=3 min. <g#)2 b)1>
+|
+=1 min e cro B
+r0.6      Ruby,
+=2' min. c#
+=2, min. <C# G>
+=3 min. Gn(2
+|
+=1 min. rest
+=2' min e cro B
+=2, min. <C# G>
+=3 min. G)2(2
+|
+=1 min rest cro Bn
+r0.6             and
+=2' min. c#
+=2, min. <E(2 G>
+=3 min. G)2
+
+4 systems /20 45 20-30-20/20 45 20-30-20/20 45 20-30-20/20 55 20-30-20/
+pagenum 24
+innerhead Act 1, Vocal Score, November at the Carousel, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+8 bars |6|6|6|6|5|6|6|6|
+|
+=1 treble8vab cro. c# c#
+r0.6           I've en -
+=2' treble min e cro B
+=2, min. <E)2 G>
+=3  bass
+|
+=1 cro d c# B
+r0.6  joyed having
+=2' min. d
+=2, min. <G# B>
+=3 min. f~#
+|
+=1 cro. d B
+r0.6  them   here
+=2' min. f#
+=2, min. <G# B>
+=3 
+|
+=1 min F cro rest
+r0.6    too.
+=2' min. g#
+=2, min. <D(2 G# c>
+=3 
+|
+=1 min. rest
+=2' min. <f f~>
+=2, min. <D)2 G# c>
+=3 
+|
+=1 min f cro eb
+r0.6  E  -  very
+=2 min. rest
+=3 
+|
+=1 cro f# d Bb
+r0.6 one of them !
+=2, min. <Bbrl d f#>
+=3 
+|
+i0.6       quizzical . . .
+=1 min. rest
+=2, min. f~#
+=2, min F# cro G#
+=3 
+/
+8 bars |6|6|6|6|6|6|6|6|
+|
+I0.3          p
+=1 treble8vab min. db(1
+r0.6            You
+=2' treble min d# cro c#
+=2, min. <F#(2 A>
+=3 bass
+|
+=1 cro db)1 c eb
+r0.6       don't be -
+=2' cro f# eb c
+=2, min. A)2
+=3 
+|
+=1 min f cro gb
+r0.6     lieve me ?
+=2, min. A
+=3  min. <a(2 d~#(1>
+|
+=1 min. rest
+=2' min fr cro gb
+=2, min. <c# a a~>
+=3 min. <a)2 d~#)1>
+|
+i0.8 lyrical . . .
+=1 min. f(1
+r0.6   Ah,
+=2' min f cro gb
+=2, min. A
+=3  min. b
+|
+=1 min. f)1(1
+r0.6 
+=2' min fr cro gb
+=2, min. <A Bx d a>
+=3 
+|
+=1 min. B)1
+r0.6 
+=2' min f cro e
+=2, min. <A(2 Bx d>
+=3 
+|
+=1 min rest cro d
+r0.6              No -
+=2, min. <A)2 Bx d>
+=3 min. f(1
+/
+8 bars |6|6|6|6|6|6|6|6|
+|
+=1 treble8vab min f cro eb
+r0.6       -   vember
+=2, treble min. <G#r B ebx f>
+=3  bass    min. f)1
+|
+=1 min B cro d
+r0.6   at      the
+=2, min. <G# B d f>
+=3  min. G#
+|
+=1 min f cro eb
+r0.6   Ca  -  rou -
+=2, min. <G# B d# f>
+=3  min. g#
+|
+=1 min. g(1
+r0.6     sel,
+=2, min. <Br(2 c#x e g(1>
+=3  min. gn
+|
+=1 min g)1 cro rest
+r0.6 
+=2, min. <Br)2 c#x e g)1>
+=3  min. G(2
+|
+i0.4   suggestive . . .
+=1 min G cro A#
+r0.6  been        a
+=2' cro rest min <E G Bb d>
+=3  min. G)2
+|
+=1 min B cro c#
+r0.6   bu   -   sy
+=2' cro rest min <E G Bx c#>
+=3 
+|
+=1 cro f(1 min db)1
+r0.6   month,
+=2' min. <G Bbl db>
+=3 min. <g(2 bb(1>
+/
+8 bars |6|6|6|6|6|5|5|5||
+|
+i0.5              crescendo . . .
+=1 treble8vab cro rest e d
+r0.7              and it's
+=2 treble min. g
+=3 bass min. <g)2 bb)1>
+|
+=1 min. g
+r0.7    not
+=2, min. <B d# g g~>
+=3 
+|
+=1 min g cro f#
+r0.7      finished
+=2, min. <Br c#x e g g~>
+=3 
+|
+=1 cro g(1 min B')1
+r0.7      yet !
+=2, min. <Br(2 c#x f gx g~(1>
+=3 min. rest
+|
+=1 min. rest
+=2, min. <Br)2 c#x f gx g~)1>
+=3 cro rest a g
+|
+=1 min. rest
+i0.7     dim . . .
+=2' min. <F Gx Bb>
+=3  min. d~b
+|
+=1 min. rest
+=2' min. <F Gx Bb f>
+=3 min d~b cro c~
+|
+=1 min. rest
+=2, <E Bn e>
+=3 cro d~b min g
+
+4 systems 15/20 35 20-30-20/20 45 20-30-20/20 35 20-30-20/20 35 20-30-20/
+pagenum 20
+title Extract from Act 2 Scene 3, November at the Carousel
+leftfoot (c) 1999 Peter J Billam
+/
+4 bars |8|8|8|8|
+|
+i0.3     min 76 approx                           persuasive . . .
+=1 treble8vab min. rest cro G
+i0.6  Ruby
+r0.6  .75 So
+=2 treble smb <E B_>
+=3 bass 
+|
+=1 min. d cro Bb
+r0.6 .01 clean .75 him
+=2 smb <E G Bb>
+=3 
+|
+=1 min. e cro d
+r0.6 .01 up, .75 it's
+=2 smb <G Bb' d'>
+=3 
+|
+=1 cro g min B, cro rest
+r0.6 .01 ea  - .25 sy   -
+=2 smb <E c# e>
+=3 
+/
+4 bars |8|8|8|8|
+|
+=1 treble8vab cro c# A# cro3 B' G-I3 B'
+r0.6        shot   while   trying to es -
+=2 treble smb <E(2 G>
+is0.4       different  texture . . .
+=3 bass   smb g(2
+|
+=1 min c# cro3 rest c#-I3 d#
+r0.6  cape                   through a
+=2' cro3 B G-I3 B min c#
+=2 smb E)2
+=3 smb g)2
+|
+=1 min e c#
+r0.6  tenth          floor
+=2' cro3 rest' c#-I3 d# min e
+=2 smb <G B>
+=3 min b(1 cro3 b)1 b-I3 c~#
+|
+=1 cro dn min f# cro rest
+r0.6    window,
+=2 smb <G# B f#>
+=3 min d~ b
+/
+4 bars |8|8|8|8|
+|
+=1 treble cro3 d E-I3 F# cro G A
+r0.6       you know the deal,  you've
+=2 treble smb <E Bb d'>
+=3 bass   cro bb min d~ cro rest
+|
+=1 cro Bb G cro3 A G-I3 D 
+r0.6 .01 done .25 it .5 of - .67 ten .84 e -
+=2 min <F Gx c#'> <Eb G c'(1>
+=3 min f g
+|
+i0.4                     firm . . .
+=1 min Eb bass cro rest eb
+r0.6  nough.
+i0.6 .45 Olsen
+r0.6 .75 But
+=2 smb <Eb G c')1>
+=3 min eb cro rest Eb
+|
+=1 smb c~
+r0.6 .01 that
+=2' cro3 c Bb-I3 F min Gb
+=2 smb <Eb Gb>
+I0.3      f
+=3 smb c(2
+/
+4 bars |8|8|8|8|
+|
+=1 bass  cro gb bb cro3 a bb-I3 c~
+r0.6       was  -  n't    Lee Harvey
+=2 treble smb <Ex F# Bb cx>
+=3 bass   smb c)2
+|
+=1 min c~# a(1
+r0.6 .01 Os .25 - .5 wald.
+=2' min Ar c#
+=2 smb <D#r F#l>
+=3 smb c#(2
+|
+=1 cro a)1 rest f# a
+r0.6 .5 This .75 is
+=2 smb <F#r c#l d#lx>
+=3 smb c#)2
+|
+=1 min b cro g rest
+r0.6 .01 dif .25 - .5 ferent.
+=2 smb <G B eb fx>
+=3 smb eb
+
+4 systems /20 45 20-30-20/20 45 20-30-20/20 45 20-30-20/20 45 20-30-20/
+pagenum 21
+innerhead Act 2, Vocal Score, November at the Carousel, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+4 bars |8|8|8|8|
+|
+=1 bass   min3 rest c~#-I3 b
+r0.6 .33 We .66 can't
+=2 treble smb <G B eb g>
+=3 bass   
+|
+=1 min d~ cro f# g#
+r0.6 .01 do .5 this .75 one.
+=2 smb <F# B g#>
+i0.3                    dim . . .
+=3 
+|
+=1 cro3 rest f#-I3 g# b a-I3 d~
+r0.6 .14 This .34 is .5 part .67 of .83 the
+=2' min <D B> <Fn A>
+I0.3   p
+i0.3          cresc . . .
+=3 
+|
+=1 min e~b cro a b
+r0.6 .01 co .25 - .5 ver  - .75 up,
+=2 smb <C A c>
+=3 
+/
+4 bars |8|8|8|8|
+|
+=1 bass min d~ cro3 c~ g-I3 ab
+r0.6 .01 not .5 part .67 of .83 the
+=2 treble smb <F(2 Ab(4 c>
+i0.4       dim . . .
+=3 bass 
+|
+=1 cro c~ ab b f
+r0.6 .01 o  - .25 per  - .5 a  - .75 tion,
+=2, smb <F)2 Ab)4 d>
+=3  smb d
+|
+=1 min rest cro3 rest g-I3 ab
+r0.6 .66 the .83 i -
+=2 smb <D F>
+=3 cro c Ab B F
+|
+=1 min bb cro3 e a-I3 bb
+r0.6 .01 dea .5 is .67 to .83 re -
+=2 smb <D Ex G>
+i0.4    cresc . . .
+=3 smb E(2
+/
+4 bars |8|8|8|8|
+|
+=1 bass min. d~ cro bb
+r0.6    - duce                         sus -
+=2 treble smb <D F# Bb>
+=3 bass smb E)2
+|
+=1 cro3 f# g-I3 rest a# rest b
+r0.6   picion, .5 not .83 inc -
+=2' min Bbrl(2 cro3 Bb)2 G-I3(2 G)2
+=2 smb <E d>
+=3 
+|
+=1 min c~# g
+r0.6    rease         it.
+=2 smb <E B e>
+i0.4      dim . . .
+=3
+|
+I0.4   f
+=1 cro rest min d~ cro bb
+r0.6 .25 We .73 can't
+=2' cro rest' min. <Bb d>
+=2 smb <E G>
+i0.4               cresc . . .
+=3 
+/
+4 bars |8|8|8|8||
+|
+=1 bass min c~# cro a# b
+r0.6 .01 do .5 this .75 one, 
+=2 treble smb <E G g>
+=3' bass smb g
+=3, min e c#
+|
+=1 min. c~# cro rest
+r0.6   Jack,
+=2' min Bbrl  Ab
+=2 smb <E e>
+=3 smb <e ab>
+|
+=1 smb e~(1
+r0.6 .01 you
+=2 smb <F#rl(2 Bb d(1>
+=3 smb rest
+|
+=1 cro3 e~)1 d~-I3 bb f# c~-I3 rest
+r0.6 .16 have  to .5 do .66 it.
+=2 smb <F#rl)2 Bb d)1>
+i0.4               dim . . .
+=3 smb blank
+
+4 systems 15/20 45 20-30-20/20 60 20-30-20/20 50 20-30-20/20 45 20-30-20/
+pagenum 19
+title Extract from Act 3 Scene 2, November at the Carousel
+leftfoot (c) 1999 Peter J Billam
+/
+3 bars |12|1.5 1.5 1.5 3 1 1 1 1 1 1 2| 3 3 4 |
+|
+i0.5     quicker (cro 132 approx) . . .
+=1 bass min b cro f# g rest f#
+i0.6  Warren
+r0.6               Congressman,          do
+i0.2        (to Ford)
+=2 treble smb <E c#> min rest
+=3 bass
+|
+i0.5                           impassioned,  legato . . .
+=1 qua g a# b c~# treble8vab min d Bb,
+r0.6  you have any
+i0.6                         Ruby
+r0.6                                      There      is
+=2 min rest smb <E Bb' d'>
+I0.3               f
+=3 smb. rest
+|
+=1 smb e cro f e
+r0.6      more                 I   could
+=2, smb <E e> cro <F f> <E e>
+=3 smb. <B_b Bb>
+/
+3 bars |12|12|12|
+|
+=1  treble8vab min c# cro rest Bb c# d
+r0.8           say.                    I     want   to
+=2, treble min <g g~> <ab a~b> <g g~>
+=3  bass   smb <C# c#>
+|
+=1 smb e min d
+r0.7    tell                                the
+=2' min. <G Bb dx e> cro <G Bb dx e> <G Bb dx e> <G Bb dx e>
+=3 smb. g
+|
+=1 min. g cro rest Bb, c
+r0.6      truth,                         and  I
+=2 min. <db fx g> cro <G, db f> <F Gx db'> <F Gx Bb'>
+=3  smb. g
+/
+3 bars |12|12|12|
+|
+=1 treble8vab min. db min c cro Bb,
+r0.6      can't                      tell               it
+=2 treble smb <Db F>
+i0.5        dark   . . .           cresc . . .
+=3 bass  smb <f bb>
+=3, min. db min c cro Bb
+|
+=1 smb. f
+r0.6     here.
+=2 smb <G# B g#>
+i0.3     tremolando  (qua3)
+=3 smb f
+|
+i0.4   more urgent,  distinct . . .
+=1 cro rest B, eb d f eb
+r0.6           I    want    to    take    a
+=2 smb. rest
+=3 smb. B__
+/
+3 bars |12|12|12|
+|
+=1 treble8vab min g cro c# e d# e
+r0.6          lie                detector      test.
+=2 treble smb. <c# g>
+=2 smb. Br
+=3 bass smb. g
+|
+=1 min rest B cro3 e d#-I3 e
+r0.6                      Is               there any
+=2 smb. <G c#>
+=2 smb. Br
+=3
+|
+=1 min f# cro c d# cro3 e d#-I3 f#
+r0.6  way               you can get me to
+=2 smb <A cn e> min <c e f#x>
+=3
+
+4 systems /20 45 20-30-20/20 45 20-30-20/20 45 20-30-20/20 35 20 35 20-30-20/
+pagenum 20
+innerhead Act 3, Vocal Score, November at the Carousel, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+3 bars |2 2 2 4 2 2|2 2 2 2 3 2|4 4 5|
+|
+i0.4                                   distinct, concentrated
+=1 treble8vab min g cro c# e bass cro rest g
+r0.6         Washington ?
+i0.6                                          Warren
+r0.6                                                             I
+=2 treble smb. <G e g>
+I0.4       f                                    p
+=3 bass  smb <C# c#> min <C#(2 c#(1>
+|
+i0.6                                            more intense . . .
+=1 min b cro d#, e g treble8vab A
+r0.6    beg    your pardon ?
+i0.6                                            Ruby
+r0.6                                                       Is
+=2
+=3 smb. <C#)2 c#)1>
+|
+=1 cro3 c db-I3 c cro eb A qua db c eb db
+r0.6    there any way  of getting me to
+=2 smb. <F# A d#>
+=3 smb <F# f#>
+/
+2 bars |12|12|
+|
+=1 treble8vab min. g cro c# e rest bass
+r0.6        Wa   -           -    shington ?
+i0.6                                                                       Warren
+=2 treble smb. <A# c# e>
+=3 bass
+|
+i0.4  graceful, moderate . . .
+=1 cro a min rest cro c e rest
+r0.6      No,                                     I        don't
+=2 smb. <E cn>
+I0.3    p
+=3
+/
+3 bars |12|12|12|
+|
+=1 bass cro. g# qua e cro3 f# g#-I3 rest f# g#-I3 a
+r0.6       know       of any;          I will be
+=2 treble smb. <C E>
+=3 bass
+|
+=1 min b cro g# a f a
+r0.6    glad           to talk to your
+=2 smb. <D F A>
+=3
+|
+=1 min c~# a cro f# g#
+r0.6    coun   -   sel              about
+=2 smb. <D# F# A>
+=3
+/
+3 bars |12|12|4 4 5|
+|
+=1 treble8vab smb rest
+=2 bass min rest cro f# g# a cro c~#
+r0.6                     what   the   si   -   tu -
+=3 treble smb <D# F#>
+=4 bass
+|
+=1 smb rest
+=2 cro bb g e rest e f#
+r0.6     ation is,                          Mr
+=3 smb. <D G>
+=3 smb. Er
+=4
+|
+i0.3                                        urgent . . .
+=1 smb rest cro rest qua c d#
+i0.6  Ruby
+r0.6                                         I would
+=2 min g cro f# rest qua g a cro rest
+r0.6   Ru    -    by,               when we
+=3 smb. <C Eb A>
+=4
+
+4 systems /20 35 20-30-20/20 40 20-30-20/20 40 20-30-20/20 40 20-30-20 15/
+pagenum 21
+innerhead Act 3, Vocal Score, November at the Carousel, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+4 bars |8|8|8|8|
+|
+=1 treble8vab 4/4 min e cro d# c
+r0.6             like          to re  -
+=2 treble 4/4 smb/ <F# A>
+i0.4               qua3 ...
+=3 bass   4/4
+|
+=1 cro. f# qua c cro3 d# e-I3 d#
+r0.6    quest      that  I   go   to
+=2' smb/ <A c>
+=3
+|
+=1 cro3 e c#-I3 A# cro rest qua cn c#
+r0.6    Washington          and take
+=2 smb <A#l c#>
+=2 smb G#rl
+=3
+|
+=1 cro. e qua d# g c c# d#
+r0.6    all           the lie detector
+=2 min <Br, c#x g> <Bb(2 g(1>
+=3 
+/
+4 bars |8|8|8|8|
+|
+=1 treble8vab cro e rest cro3 rest d#-I3 e
+r0.6        tests                     that I
+=2, treble min <Bb)2 g)1> <A# c#l g#>
+=3  bass   
+|
+=1 cro3 g# e-I3 c, min rest
+r0.6     have to take.
+=2, min <G# c e> <E(2 G# c(1>
+=3 min <e g#> G#
+|
+=1 cro rest Bb qua c c# e f#
+r0.6           I want to tell the
+=2, cro <E)2 G# c)1> min. rest
+=3  smb <G_# G#>
+|
+=1 cro g# qua d# e cro3 f# e-I3 g#
+r0.6    truth, and I can't tell it
+=2 min <c# c~#> <cn e>
+=3 smb <A_# A# a#>
+/
+4 bars |8|8|8|8|
+|
+=1 treble8vab min. a cro rest
+r0.6         here.
+=2 treble smb <A(2 c eb(1>
+=3 bass   smb <C(2 c(1>
+|
+=1 smb rest
+i0.6      (pause)
+=2 smb <A)2 c eb)1>
+=3 smb <C)2(2 c)1(1>
+|
+=1 min rest qua f# g#
+r0.6                          I can't
+=2
+=3 smb <C)2 c)1>
+|
+=1 min. a cro c#
+r0.6       tell                  it
+=2 smb C#
+=3 smb <F_#(2 F# f# a>
+/
+4 bars |8|8|8|8|
+|
+=1 treble8vab cro d# rest min f#
+r0.6        here !         My
+=2 treble smb Cn
+=3 bass smb <F_#)2(2 F# f# a>
+|
+=1 min bb cro f gb
+r0.6    life          is    in
+=2' min Gbr cro A Bb
+=2 smb Eblr
+=3 smb <F_#)2 F# f# c~>
+|
+=1 min. ab cro bb
+r0.6    dan     -     ger
+=2 smb <D F c>
+=3 smb c~
+=3, min <F_n Fn> <E_ E>
+|
+=1 smb bn
+r0.6   here !
+=2 smb <B b>
+=3 smb <D_ D d f ab>
+
+4 systems /20 35 20-30-20/20 35 20-30-20/20 35 20 35 20-30-20/20 35 20-30-20/
+pagenum 22
+innerhead Act 3, Vocal Score, November at the Carousel, Peter Billam
+leftfoot (c) 1999 Peter J Billam
+/
+4 bars |8|8|8|8|
+|
+i0.3     quickly
+=1 bass cro rest qua d, e cro3 g f#-I3 g
+i0.6 Warren
+r0.6                      We have taken the
+=2 treble
+I0.3    mp
+=3 bass smb <D(2 d(4>
+|
+=1 cro. bb qua f# g a rest a#
+r0.6     tes    -    timony     of
+=2, cro rest min. <dx e>
+=3 smb <D)2(2 d)4(4>
+|
+=1 min b cro a# d~
+r0.6   two            or   three
+=2, cro rest min. <G# d>
+=3 smb <D)2 d)4>
+|
+=1 min c~#(1 qua c~#)1 a# b g
+r0.6      hun    -    dred people,
+=2, cro rest min. <E G e>
+=3 smb <G_(2 G>
+/
+4 bars |8|8|8|8|
+|
+=1 bass min rest qua rest d# e d#
+r0.6                              I would i -
+=2 treble smb <B b>
+=3 bass   smb <G_)2(2 G>
+|
+=1 min g qua bb rest g bb
+r0.6   ma       -     gine,    here in
+=2 cro rest min. <Db F>
+=3 smb <G_)2 G>
+|
+i0.4           rit . . .
+=1 cro bn f rest qua eb f
+r0.6   Dal - las            without
+=2 smb <Ab ab>
+=3 smb <F_ F>
+|
+=1 min gb cro f eb
+r0.6   go     -     ing      to
+=2 smb <C Bb bb>
+=2 smb cr
+=3 smb <E_b Eb>
+/
+4 bars |8|8|8|8|
+|
+i0.4                       distinct . . .
+=1 treble8vab min. rest cro eb
+i0.6 Ruby
+r0.6                                    But
+=2 bass cro bb a f# rest
+r0.6          Washington.
+=3 treble
+=4 bass smb <C_ C c>
+|
+=1 smb bb
+r0.6      those
+=2 smb rest
+=3 smb <B_b F#(1>
+=4 smb <d(2 f#>
+|
+=1 cro d eb f# g
+r0.6   peo  -  ple    aren't   Jack
+=2 smb rest
+=3 min <B_b F#)1> rest
+=4, min <d)2 f#> rest
+|
+=1 cro f# B, min rest
+r0.6      Ruby.
+=2 smb rest
+=3 smb D(1
+=4 smb ab(1
+/
+5 bars |8|8|8|8|8||
+|
+i0.5       very distinct . . .
+=1 bass cro d rest rest e
+i0.6 Warren
+r0.6               No,           they
+=2 treble smb D)1
+=3 bass   smb ab)1
+|
+=1 min f rest
+r0.6      weren't.
+=2' min rest' min B(1
+=2, cro rest, min. A
+=3' min rest' min b(1
+=3, cro rest, min. a
+|
+i0.4      half to himself . . .
+=1 treble8vab min. rest cro Ab
+i0.6 Ruby
+r0.6                             They
+=2 clefspace smb B)1(1
+=3 clefspace smb b)1(1
+=3 clefspace min. blank cro <A_b Ab>
+|
+=1 min G rest
+r0.6      weren't.
+=2 min. blank cro <En en'>
+=2 smb B)1
+=3 smb b)1(1
+=3 smb <G_ G(2>
+|
+=1 smb rest
+=2 smb <D# d#(1>
+=2 smb B(2
+=3 smb b)1(1
+=3 smb <G_ G)2(2>
+
+# end sample sample_III_2
+@
+
+
+1.4
+log
+@another iteration of I/2
+@
+text
+@d542 1
+a542 1
+4 systems 15/20 35 20-30-20/20 35 20-30-20/20 35 20-30-20/20 35 20-30-20/
+d552 2
+a553 2
+r0.6                                      So
+=2 treble smb <E Bb>
+d557 1
+a557 1
+r0.6    clean                   him
+d562 1
+a562 1
+r0.6      up,                   it's
+d567 1
+a567 1
+r0.6      easy -
+d592 1
+a592 1
+r0.6     window,
+d604 1
+a604 1
+r0.6    done     it     often e -
+d606 1
+a606 1
+=3 min f eb(2
+d611 2
+a612 2
+i0.6                    Olsen
+r0.6                                   But
+d614 1
+a614 1
+=3 min eb)2 cro rest Eb
+d617 1
+a617 1
+r0.6    that
+d631 1
+a631 1
+r0.6      Oswald.
+d637 1
+a637 1
+r0.6                      This   is
+d642 1
+a642 1
+r0.6        dif - ferent.
+d654 1
+a654 1
+r0.6                            We   can't
+d659 1
+a659 1
+r0.6      do           this one.
+d664 2
+a665 2
+=1 cro f# g# cro3 b a-I3 d~
+r0.6     This    is    part of the
+d672 1
+a672 1
+r0.6      co   -   ver - up,
+d679 1
+a679 1
+r0.6        not              part of the
+d685 1
+a685 1
+r0.6    o  -  per  -  a  -  tion,
+d690 1
+a690 1
+r0.6                             the      i -
+d695 1
+a695 1
+r0.6   dea               is   to  re -
+d707 2
+a708 2
+=1 cro3 f# g-I3 rest bb rest c~n
+r0.6   picion,        not       inc -
+d721 3
+a723 2
+r0.6              We           can't
+=2 smb E
+d725 1
+a725 1
+=3 smb <d bb>
+d730 1
+a730 1
+r0.6         do             this one, 
+d732 2
+a733 1
+=3' bass min <e g> c#
+d737 2
+a738 1
+=2 smb E
+a739 1
+=3, min rest, cro Bb Bn(2
+d742 7
+a748 8
+r0.6       you
+=2 smb e(1
+=3 smb <e g b>
+=3 smb B)2
+|
+=1 cro3 e~)1 d~-I3 bb f# g-I3 rest
+r0.6          have to   do   it.
+=2 cro3 e)1 d-I3 Bb, cro F# E
+d750 1
+a750 1
+=3 smb <Bb d g bb>
+@
+
+
+1.3
+log
+@latest versions
+@
+text
+@d6 1
+a6 1
+7 bars |3/4 6|1 1 1 1.5 1 1|5|5|6|6|6|
+d13 1
+a13 1
+=2 treble 3/4  
+d16 1
+a16 1
+=3 bass 3/4 min. F)2
+d37 1
+a37 1
+r0.6  hope you've en -
+d41 9
+a49 3
+=1 min B' cro A
+r0.6      joyed your
+=2' cro rest min <D F A>
+d87 2
+a88 2
+r0.6     host,
+=2 cro rest min F#
+d94 2
+a95 2
+r0.6                      Jack
+=2' treble min. <G# B>
+d100 1
+a100 1
+=2' cro rest min <E Gn B>
+d104 2
+a105 1
+=2, min. <G(2 B e(1>
+d109 2
+a110 1
+=2, min. <G)2 B e)1>
+d116 1
+a116 1
+=3 min. <e(2 g(1>
+d120 2
+a121 2
+=2 
+=3' min. <G e)2 g)1>
+d127 1
+a127 1
+=3 min. <e(2 g bb(1>
+d132 1
+a132 1
+=3, min. <G e)2 g bb)1>
+d172 1
+a172 1
+r0.6           I've   en -
+d184 1
+a184 1
+r0.6     - joyed
+d191 2
+a192 2
+=2 min. <B_(3 Fn(1>
+=3 min. g#(1
+d196 2
+a197 2
+=2 min. <B_)3 F)1(1>
+=3 min. g#)1(1
+d201 2
+a202 2
+=2, min. F)1
+=3 min. g#)1
+d206 1
+a206 1
+=2 min. <f f~>
+d212 2
+a213 1
+=2 min. <B_ D>
+d219 1
+d224 3
+a226 2
+=2 min. <D(2 F A>
+=3 cro b min f(2
+d232 1
+a232 1
+=2' min. f
+d238 2
+a239 1
+=2 min. <Eb Fx>
+d245 2
+a246 2
+=2, cro G F# G
+=3 min. an
+d248 1
+a248 1
+=1 cro rest G# A#
+d251 2
+a252 2
+=2, min. <F Ab>
+=3 min. b
+d257 3
+a259 3
+=2, min. <D F>
+i0.1   arpeggiando
+=3 
+d264 2
+a265 2
+=2, min. <D F A>
+=3 
+d268 4
+a271 4
+r0.7      girls girls
+=2' min. <f# f~#>
+=2, cro B c# d
+=3 min. f#(2
+d278 1
+a278 1
+=3, bass  min. <g# b>
+d282 1
+a282 1
+=3  min. <g# c~>
+d311 1
+a311 1
+=3 
+d313 1
+a313 1
+7 bars |6|6|6|6|6|6|6|
+d318 1
+a318 1
+=3' bass min. <E e g>
+d332 1
+a332 1
+r0.6      monies,
+d334 1
+a334 2
+=2, cro rest,, min B_
+=3 cro rest min ab
+d339 1
+a339 2
+=2, min. F#
+=3 min g# cro G#
+d351 6
+d363 1
+a363 7
+8 bars |6|6|6|6|6|5|6|6|
+|
+=1 treble8vab min rest cro Bn
+r0.6                  and
+=2' treble min. c#
+=2, treble min. <E(2 G>
+=3 bass   min. G)2
+d365 3
+a367 3
+=1 cro. c# c#
+r0.6     I've en -
+=2' min e cro B
+d369 1
+a369 1
+=3 
+d377 4
+a380 3
+=1 cro. d d
+r0.6  them here
+=2, min. <F# B f#>
+d383 1
+a383 1
+=1 cro F min rest
+d403 6
+d412 5
+a416 4
+i0.6         quizzical . . .
+=1 treble8vab min. rest
+=2, treble min. f~#
+=2, min F# cro G#
+a418 7
+I0.3    p
+=1 min. db(1
+r0.6      You
+=2' min d# cro c#
+=2, min. <F#(2 A>
+=3 
+|
+d431 1
+a431 1
+=2' min fr cro gn
+d438 2
+a439 1
+=2, min. <A f>
+d444 1
+d450 2
+a451 1
+=2, min. <A(2 Bx d(1>
+d453 5
+d461 4
+a464 9
+=1 treble8vab min rest cro d
+r0.6                    No -
+=2, treble min. <A)2 Bx d)1>
+=3 bass    min. f(1
+|
+=1 min f cro eb
+r0.6     vember
+=2, min. <G#r B ebx f>
+=3  min. f)1
+d489 1
+a489 1
+=2' cro <E G Bb d> min rest
+d494 1
+a494 1
+=2' min. <E G Bx c#>
+d496 5
+d504 5
+a508 10
+=1 treble8vab cro f(1 min db)1
+r0.6         month,
+=2' treble min. <G Bbl db>
+=3 bass min. <g(2 bb(1>
+|
+i0.5            crescendo . . .
+=1 cro rest e d
+r0.6        and it's
+=2 min. <db d~b>
+=3 min. <g)2 bb)1>
+d511 2
+a512 2
+r0.6    not
+=2, min. <Bb d ex d~>
+d516 2
+a517 2
+r0.6      finished
+=2, min. <Br c#x e e~>
+d521 7
+a527 3
+r0.6      yet !
+=2 min. <Br, c#xl d#l f f~>
+=3 min rest qua [a g]
+d531 1
+a531 1
+=2, min. <G f bb>
+d535 1
+d539 1
+a539 1
+=2, <Bn e bn>
+d618 1
+a618 1
+=2' cro3 c Bb F min Gb
+d927 1
+a927 1
+3 bars |8|8|8|
+d930 1
+a930 1
+r0.6             like          to re -
+d936 1
+a936 1
+r0.6     - quest    that I go to
+d941 1
+a941 1
+r0.6      Washington               and take
+d945 5
+d953 4
+a956 9
+=1 treble8vab cro. e qua d# g c c# d#
+r0.6        all           the lie detector
+=2 treble min <B, c#x g> <Bb(2 g(1>
+=3 bass
+|
+=1 cro e rest cro3 rest d#-I3 e
+r0.6    tests                     that I
+=2, min <Bb)2 g)1> <A# c#l g#>
+=3
+d967 5
+d975 4
+a978 9
+=1 treble8vab cro g# qua d# e cro3 f# e-I3 g#
+r0.6         truth, and I can't tell it
+=2 treble min <c# c~#> <cn e>
+=3 bass   smb <A_# A# a#>
+|
+=1 min. a cro rest
+r0.6    here.
+=2 smb <A(2 c eb(1>
+=3 smb <C(2 c(1>
+d989 5
+d995 1
+a995 1
+5 bars |8|8|8|8|8|
+d997 4
+a1000 9
+=1 treble8vab min. a cro c#
+r0.6           tell                  it
+=2 treble smb C#
+=3 bass smb <F_#(2 F# f# a>
+|
+=1 cro d# rest min f#
+r0.6    here !     My
+=2 smb Cn
+=3 smb <F_#)2(2 F# f# a>
+@
+
+
+1.2
+log
+@last tweaks before mailout
+@
+text
+@d1 1
+a1 1
+4 systems /20 45 22-30-22/20 45 22-30-22/20 45 22-30-22/20 45 22-30-22/
+d16 1
+a16 1
+=3 bass 3/4
+d36 1
+a36 1
+=1  cro G# F# G#
+d85 1
+a85 1
+7 bars |6|6|6|6|6|6|6|
+d88 1
+a88 1
+r0.6                       Jack
+d93 1
+a93 1
+r0.6      Ruby,
+d97 3
+d102 1
+a102 1
+=2, min. <G B e>
+d153 1
+a153 1
+=2, min. <E(2 Gn>
+d159 1
+a159 1
+=2, min. <E)2 Gn>
+d164 1
+a164 1
+r0.6  I've   en -
+d166 1
+a166 1
+=3' min. <G g)1>
+d168 1
+a168 1
+4 systems /20 45 22-30-22/20 55 22-30-22/20 55 22-30-22/20 45 22-35-22/
+d203 1
+a203 1
+r0.6    Yes, it's con -
+d209 2
+a210 2
+=2 min. <Eb Fx>
+=3 min. ab
+d226 1
+a226 1
+r0.7      Carousel
+d232 3
+a234 3
+=2' cro Br A#r B
+=2, min. <Fr Abx>
+=3 min. ab
+d236 2
+a237 2
+=1 cro rest A# A#
+r0.7           and on
+d243 1
+a243 1
+r0.7      stage it's
+d246 1
+a246 1
+i0.2   arpeggiando
+d250 1
+a250 1
+r0.7      glamorous
+d257 2
+a258 2
+=2 min. <f# f~#>
+=3' cro b c~# d~
+d264 1
+a264 1
+r0.7        girls
+d266 1
+a266 1
+=3' bass  min. <g# b>
+d270 1
+a270 1
+=3 
+d273 1
+a273 1
+r0.7      all
+d304 1
+a304 1
+r0.6         Mas -
+d326 1
+a326 1
+r0.6           Jack
+d342 1
+a342 1
+4 systems /20 45 22-30-22/20 45 22-30-22/20 45 22-30-22/20 45 22-30-22/
+d356 1
+a356 1
+r0.6       I've en -
+d368 1
+a368 1
+r0.6      them here
+d374 2
+a375 1
+=2' min. <D G# c g#>
+d380 1
+d389 2
+a390 2
+r0.6      one of them !
+=2, min. <Bb d f#>
+d404 2
+a405 2
+=2' min d#rl cro c#
+=2, min. <A(2 f#>
+d416 2
+a417 2
+=2, min. c#
+=3  min. <a d~#>
+d420 3
+a422 2
+=2 min. <a a~>
+=3 
+d424 1
+a424 1
+i0.7 lyrical . . .
+d437 1
+a437 1
+=2' min. <F A>
+d443 3
+a445 3
+r0.6                       No -
+=2, treble min. <A Bx d>
+=3 bass 
+d450 1
+a450 1
+=3  min. g#
+d454 1
+a454 1
+=2, min. <G# B d f#>
+d458 1
+a458 1
+r0.6     Carou -
+d464 1
+a464 1
+=2, min. <Br c#x e g>
+d469 1
+a469 1
+=2, min. <Bb d ex g>
+d490 1
+a490 1
+i0.4            crescendo . . .
+d492 1
+a492 1
+r0.7        and it's
+d497 1
+a497 1
+r0.7      not
+d502 1
+a502 1
+r0.7     finished
+d506 4
+a509 4
+=1 cro g(1 min c#)1
+r0.7      yet !
+=2 min. <db f f~>
+=3 cro rest a g
+d523 1
+a523 1
+4 systems /20 35 20-30-20/20 35 20-30-20/20 35 20-30-20/20 35 20-30-20/
+d554 1
+a554 2
+I0.3                                       3
+=1 treble8vab cro c# A# cro3 B' G B'
+d560 1
+a560 2
+I0.3                                3
+=1 min c# cro3 rest c# d#
+d562 1
+a562 2
+I0.1           3
+=2' cro3 B G B min c#
+d568 1
+a568 2
+I0.1           3
+=2' cro3 rest' c# d# min e
+d570 1
+a570 2
+I0.4                                3
+=3 min b(1 cro3 b)1 b c~#
+d579 1
+a579 2
+I0.3                 3
+=1 treble cro3 d E F# cro G A
+d584 1
+a584 2
+I0.3                                  3
+=1 cro Bb G cro3 A G D 
+d599 2
+a600 1
+=2 smb <Eb Gb Bb>
+d606 1
+a606 2
+I0.6                                      3
+=1 bass  cro gb bb cro3 a bb c~
+d608 1
+a608 1
+=2 treble smb <Ebl Gb c>
+d613 2
+a614 1
+=2 smb <D#r F#l c#>
+d619 1
+a619 2
+=2 smb <F# c#l>
+=2 smb d#rl
+d624 1
+a624 1
+=2 smb <G B eb>
+d627 1
+a627 1
+4 systems /20 45 22-30-22/20 45 22-30-22/20 45 22-30-22/20 45 22-30-22/
+d634 1
+a634 1
+=1 bass   min rest cro c~# b
+d636 1
+a636 1
+=2 treble smb <G B eb g b>
+d645 1
+a645 2
+I0.4                                 3
+=1 cro f# g# cro3 b a d~
+d659 1
+a659 2
+I0.5                                      3
+=1 bass min d~ cro3 c~ g ab
+d670 1
+a670 2
+I0.5                                 3
+=1 min rest cro3 rest g ab
+d675 1
+a675 2
+I0.5                                 3
+=1 min bb cro3 e a bb
+d677 1
+a677 2
+=2 smb <D G>
+=2 smb Er
+d688 1
+a688 2
+I0.5            3                   3
+=1 cro3 f# g rest bb rest c~n
+d690 1
+a690 1
+I0.1                                3
+a691 1
+=2' min Bbrl(2 cro3 Bb)2 G(2 G)2
+d726 1
+a726 2
+I0.7            3                  3
+=1 cro3 e~)1 d~ bb f# g rest
+d728 1
+a728 2
+I0.1            3
+=2 cro3 e)1 d Bb, cro F# E
+d732 1
+a732 1
+4 systems /20 45 20-30-20/20 60 20-30-20/20 50 20-30-20/20 45 20-30-20/
+d745 1
+a745 1
+=3 bass 
+d764 2
+a765 2
+r0.8              say.                 I want    to
+=2' treble min <g g~> <ab a~b> <g g~>
+d769 1
+a769 1
+r0.7      tell                                the
+d775 1
+a775 1
+=2 min. <db fx g> cro <G, db f> <F Gx db'> <F Gx db'>
+d781 1
+a781 1
+r0.6      can't                      tell             it
+d807 1
+a807 2
+I0.3                                                3
+=1 min rest B cro3 e d# e
+d811 1
+a811 1
+=3 
+d813 1
+a813 2
+I0.3                                                3
+=1 min f# cro c d# cro3 e d# f#
+d816 1
+a816 1
+=3 
+d831 2
+a832 1
+=3 bass  smb. <C#(2 c#(4>
+d839 2
+a840 2
+=2 
+=3 smb. <C#)2 c#)4>
+d842 1
+a842 2
+I0.3           3
+=1 cro3 c db c cro eb A qua db c eb db
+d853 1
+a853 1
+=3 bass 
+d860 1
+a860 1
+=3 
+d864 1
+a864 2
+I0.3                                  3                    3
+=1 bass cro. g# qua e cro3 f# g# rest cro3 f# g# a
+d867 1
+a867 1
+=3 bass 
+d872 1
+a872 1
+=3 
+d877 1
+a877 1
+=3 
+d885 1
+a885 1
+=4 bass 
+d892 1
+a892 1
+=4 
+d901 1
+a901 1
+=4 
+d903 1
+a903 1
+4 systems /20 35 20-30-20/20 40 20-30-20/20 40 20-30-20/20 40 20-30-20 10/
+d914 1
+a914 1
+=3 bass   4/4  
+d916 1
+a916 2
+I0.3                                         3
+=1 cro. f# qua c cro3 d# e d#
+d919 1
+a919 1
+=3 
+d921 1
+a921 2
+I0.3              3
+=1 cro3 e c# A# cro rest qua cn c#
+d925 1
+a925 1
+=3 
+d929 4
+a932 5
+=1 treble8vab cro. e qua d# cro. g qua c#
+r0.6        all           the lie        de -
+=2 treble min <B, c#x g> <B, c#x e>
+=2 smb Br
+=3 bass 
+d934 4
+a937 5
+I0.3                                 3
+=1 qua e d# cro c# cro3 rest d# e
+r0.6    tector  tests         that I
+=2 min <A#, c# g#> <c# g#x a#l>
+=3 
+d939 1
+a939 2
+I0.3          3
+=1 cro3 g# e c, min rest
+d951 1
+a951 2
+I0.3                                      3
+=1 treble8vab cro g# qua d# e cro3 f# e g#
+d968 1
+a968 1
+=2 
+d976 1
+a976 1
+=3 bass smb <F_#(1 F# f# a>
+d979 1
+a979 1
+r0.6      here !  My
+d981 1
+a981 1
+=3 smb <F_#)1(1 F# f# a>
+d984 2
+a985 2
+r0.6    life          is in
+=2' min Gb cro A Bb
+d987 1
+a987 1
+=3 smb <F_#)1 F# f# c~>
+d990 1
+a990 1
+r0.6    dan    -    ger
+d1008 1
+a1008 2
+I0.3                                        3
+=1 bass cro rest qua d, e cro3 g f# g
+d1011 1
+a1011 1
+=2 treble 
+d1039 1
+a1039 1
+=2 
+d1043 2
+a1044 2
+=1 min bn cro f qua eb f
+r0.6   Dal    -    las   without
+d1062 1
+a1062 1
+=3 treble 
+d1072 1
+a1072 1
+r0.6      people aren't Jack
+d1120 1
+@
+
+
+1.1
+log
+@another iteration, mostly on I/2
+@
+text
+@d524 1
+a524 1
+i0.3     min 76 approx
+d581 1
+a581 1
+=2 treble smb <E A# d'>
+d590 1
+d612 1
+a612 1
+=1 min d~b a(1
+d614 2
+a615 2
+=2 smb <Ebl Gb dbl>
+=3 smb db
+d620 2
+a621 2
+=2 d#rl
+=3 
+d643 1
+d684 1
+d691 1
+a691 1
+=2 treble smb <E G Bb>
+d712 1
+d730 1
+a730 1
+=2 
+d737 3
+a739 1
+=2 
+d741 1
+d785 1
+a785 1
+=2, min. <db fx g> cro <db fx g> <db fx g> <db fx g>
+d793 1
+a793 1
+i0.4        dark   . . .           cresc . . .
+d837 1
+a837 1
+i0.3                                   distinct, concentrated
+d871 1
+d946 1
+a946 1
+=2 treble smb <c# e>
+d953 1
+a953 1
+=2 smb <A# c# e g#>
+d960 1
+a960 1
+=3 
+d1004 2
+a1005 1
+=2 smb <Eblr Gb>
+d1010 1
+a1010 1
+=2 smb <D F>
+d1032 1
+@

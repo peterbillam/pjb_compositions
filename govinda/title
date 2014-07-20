@@ -1,0 +1,29 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 6.0c
+.ce 100
+\f3\s+9\s+9De Profundis \ \s-2\fPand\f3\s0\  Nacht\s-9\s-9\fP
+.sp 2.5c
+\s+4poems by\s0
+.sp 0.8c
+\f3\s+9Lama Anagarika Govinda\s0\fP
+.sp 1.8c
+\s+4music by\s0
+.sp 0.7c
+\f3\s+7Peter Billam\s0\fP
+.sp 1.6c
+\f2\s+5for Voice and Piano\s0\fP
+.sp 2.1c
+\(co Peter J Billam, 1980
+.sp 0.7c
+\s-1This score is offered under the \f2Creative Commons
+Attribution 4.0 International\fP licence; see \f2creativecommons.org\fP
+The copyright owner remains the composer, Peter Billam.\s0
+.sp 0.7c
+\f2\s-2This edition \*(DY.\s0\fP
+.sp 0.6c
+\f2www.pjb.com.au\fP

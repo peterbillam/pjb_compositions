@@ -1,0 +1,63 @@
+#! /usr/bin/perl
+die "dont run this again! the resulting file has already been hand-edited.\n";
+exit;
+if (! open(F, 'f3o_1')) { die "can't open f3o_1: $!\n"; }
+my @f = <F>; close F;
+if (! open(O, '> f3o_1_parts')) { die "can't open f3o_1_parts: $!\n"; }
+
+my $is_in_dont_print = 0;
+my $is_in_system = 0;
+print O "12 systems /19/\n";
+foreach my $line (@f) {
+	if ($line =~ /^\d+\s+system/) {
+		if ($line =~ /\\$/) { $is_in_system = 1; }
+		next;
+	}
+	if ($line =~ /^=[23]/) {
+		if ($line =~ /\\$/) { $is_in_dont_print = 1; }
+		next;
+	}
+	if ($line =~ /^#=9/) { next; }
+	if ((! $is_in_dont_print) and (! $is_in_system)) { print O $line; }
+	if ($line !~ /\\$/) { $is_in_dont_print = 0; $is_in_system = 0; }
+}
+print O "\n12 systems /19/\n";
+warn "2\n";
+foreach my $line (@f) {
+	if ($line =~ /^\d+\s+system/) {
+		if ($line =~ /\\$/) { $is_in_system = 1; }
+		next;
+	}
+	if ($line =~ /^=[13]/) {
+		if ($line =~ /\\$/) { $is_in_dont_print = 1; }
+		next;
+	}
+	if ($line =~ /^#=9/) { next; }
+	if ((! $is_in_dont_print) and (! $is_in_system)) {
+		my $copy = $line;
+		$copy =~ s/^=2/=1/;
+		print O $copy;
+	}
+	if ($line !~ /\\$/) { $is_in_dont_print = 0; $is_in_system = 0; }
+}
+print O "\n12 systems /19/\n";
+warn "3\n";
+foreach my $line (@f) {
+	if ($line =~ /^\d+\s+system/) {
+		if ($line =~ /\\$/) { $is_in_system = 1; }
+		next;
+	}
+	if ($line =~ /^=[12]/) {
+		if ($line =~ /\\$/) { $is_in_dont_print = 1; }
+		next;
+	}
+	if ($line =~ /^#=9/) { next; }
+	if ((! $is_in_dont_print) and (! $is_in_system)) {
+		my $copy = $line;
+		$copy =~ s/^=3/=1/;
+		print O $copy;
+	}
+	if ($line !~ /\\$/) { $is_in_dont_print = 0; $is_in_system = 0; }
+}
+
+close O;

@@ -1,0 +1,848 @@
+12 systems 15/19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum 2
+title Second Solo Suite, for Violoncello
+innerhead Peter Billam
+leftfoot (c) 2003 Peter Billam
+midi channel 1 patch 42
+/
+4 bars |9/16 1 1 1.2 1 1 1 1.1 1 1 | 1 1.1 1 1 1.1 1 1 1.1 1 \
+ | 8/16 1 1 1 1 1 1.1 1.2 1 | 1 1 1 1 1.2 1 1.1 1 |
+| 9/16 1.8
+Il0.8 .03 Prelude
+=1  bass 9/16 channel1 leg98 smq rest [G B c#'] \
+ vol110 [g vol100 e b] vol110 [f# vol100 g]
+|
+=1 smq vol125 [b' vol100 G A# B] vol110 [e vol100 c#, g] vol110 [b vol100 bb]
+| 8/16 1.6
+=1 8/16 smq vol125 [a' vol100 G A c d'] vol110 [g vol100 eb f#]
+|
+=1  smq vol125 [a' vol100 G A B c] vol110 [eb vol100 d f#]
+/
+4 bars | 7/16 7 | 7 | 6/16 6 | 6 |
+| 7/16 1.4
+il0.4    5
+=1  bass 7/16 smq vol125 [g' vol100 G Bb d'] vol110 [e vol100 d, f#]
+|
+=1  smq vol125 [g' vol100 G A Bb] vol110 [d' vol100 c# e']
+| 6/16 1.2
+=1  6/16 smq vol125 [f' vol100 G Bb c] vol110 [e vol100 db,]
+|
+=1  smq vol125 [f' vol100 A Bn eb'] vol110 g rest
+/
+4 bars |9/16 1 1 1.1 1 1.2 .9 .9 1 1 | .9 .9 1.1 1 1.1 .9 .9 1.2 1 \
+ | 8/16 1 1 1.1 1 1.2 .9 .9 1 | .9 .9 1 1 1 .9 .9 1 |
+| 9/16 1.8
+=1, bass 9/16 smq vol125 [g vol100 A c eb g] qua [f# smq g a]
+|
+il0.4 .15 10
+=1, qua [bb smq c eb bb] qua [a smq f f#]
+| 8/16 1.6
+=1, 8/16 smq vol125 [g vol100 A c eb g] qua [f# smq g]
+|
+=1, qua [a smq B eb g] qua [b smq a]
+/
+5 bars | 7/16 .9 .9 1 1.1 .9 .9 1 | .9 .9 1.1 1 .9 .9 1 \
+ | 6/16 1 1 1.1 .9 .9 1 | .9 .9 1.2 .9 .9 1 | 8/16 .9 .9 1 1.1 1 1 1.2 1 |
+| 7/16 1.4
+=1, bass 7/16 qua [b smq c# e] qua [a# smq b]
+|
+=1, qua [c~# smq d f#] qua [b smq c~#]
+| 6/16 1.2
+il0.7 .28 15
+=1, 6/16 smq vol125 [d~ vol100 f a] qua [b smq f#]
+|
+=1, qua [g# smq d] qua [f# smq g#]
+| 8/16 1.6
+=1, 8/16 qua [a smq B c] vol110 [eb vol100 d] vol110 [g vol100 f#]
+/
+5 bars | 1 1.2 1 1.2 1 1 1 1 | 7/16 .9 .9 1 1.2 1 1 1 \
+ | 1 1 1 1.2 1 1 1 | 6/16 .9 .9 1 1.2 1 1 | 1.2 1 1.2 1 1.1 1 |
+|
+=1, bass smq vol125 [g vol100 e f# a] vol110 [bb vol100 g d e]
+| 7/16 1.4
+=1' 7/16 qua [f smq A d] vol110 [c# vol100 B d]
+|
+il0.4 .20 20
+=1, smq vol125 [f vol100 d e g] vol110 [ab vol100 f d]
+| 6/16 1.2
+=1, 6/16 qua [e smq c e] vol110 [f# vol100 a]
+|
+=1, smq vol125 [g# vol100 f# a g#] vol110 [b vol100 c~]
+/
+5 bars | 5/16 .9 .9 1.2 1 1 | .9 .9 1 .9 .9 | 8/16 1 1.1 1.1 1.2 1 1.1 1.1 1 \
+ | 1 1 1.1 1 1 1 1.1 1 | 7/16 1 1.1 1.1 1.1 1.1 1.2 1 |
+| 5/16 1.0
+=1, bass 5/16 qua [d~ smq g# fn a]
+|
+=1, qua [b smq eb qua g]
+| 8/16 1.6
+il0.5  25
+=1, 8/16 smq rest' [e~ c~ b g#] vol110 [a vol100 f# d#]
+|
+=1' smq vol125 [e vol100 c B G#] vol110 [A vol100 c e f#]
+| 7/16 1.4
+=1, 7/16 smq vol125 [g vol100 e~b d~ b] vol110 [c~ vol100 a f#]
+/
+5 bars | 1.1 1 1 1 1 1 1 | 6/16 1 1 1 1 1.1 1 | 1 1.1 1 1.1 1 1 \
+ | 5/16 1.2 1 1 1.1 1 | 1.2 1 1 .9 .9 |
+|
+=1, bass smq vol125 [g vol100 eb d B] vol110 [c vol100 f# g]
+| 6/16 1.2
+=1, 6/16 smq vol125 [a vol100 B d] vol110 [f vol100 e g#]
+|
+il0.4 .15 30
+=1, smq vol125 [a vol100 c eb] vol110 [g vol100 f# a]
+| 5/16 1.0
+=1, 5/16 smq vol125 [b vol100 eb d f ab]
+|
+=1, smq vol125 [b vol100 eb f qua g]
+/
+5 bars |7/16 .9 .9 1 1.2 1.3 1.1 1 | .9 .9 1.2 1.1 1.1 1.3 1 \
+ | 6/16 1 1.1 1.1 1 1.2 1 | 1.1 1 1.1 1 1.1 1 | 5/16 .9 .9 1 1 1 |
+| 7/16 1.4
+midi pause .04
+=1, bass 7/16 qua [b smq g b] vol110 [d~# vol100 c~# e~]
+|
+=1, qua [b smq g a#] vol110 [b vol100 e~ d~#]
+| 6/16 1.2
+il0.6 .25 35
+=1, 6/16 smq vol125 [c~# vol100 e g#] vol110 [bb vol100 f gn]
+|
+=1, smq vol125 [g# vol100 c# e] vol110 [gn vol100 f Bb]
+| 5/16 1.0
+=1, 5/16 qua [bb smq g d e]
+/
+6 bars | 1 1 1 1.2 1 | 4/16 1.3 1 1 1 | 4 | 7/16 .9 .9 1 1.2 1.3 1.1 1 \
+ | .9 .9 1.2 1.1 1.1 1.3 1 | 6/16 1 1.2 1.2 1 1.2 1 |
+|
+=1, bass smq vol125 [bb vol100 f a g c~#]
+| 4/16 0.8
+=1, 4/16 smq vol125 [d~ vol100 ab f c~]
+|
+il0.5 .25 40
+=1, smq vol125 [b vol100 f d a]
+| 7/16 1.4
+=1, 7/16 qua [b smq g b] vol110 [d~# vol100 c~# e~]
+|
+=1, qua [b smq g a#] vol110 [b vol100 e~ d~#]
+| 6/16 1.2
+=1, 6/16 smq vol125 [c~# vol100 e g#] vol110 [bb vol100 f gn]
+/
+6 bars | 1.1 1 1.2 1 1.1 1 | 5/16 .9 .9 1 1.1 1 | 1 1 1 1.2 1 \
+ | 4/16 .9 .9 1.2 1 | 1.2 1.2 1.3 1 | 6/16 2.7 3.3 | 1.8 2 2 |
+|
+=1, bass smq vol120 [g# vol100 c# e] vol120 [gn vol100 f bb]
+| 5/16 1.0
+il0.7 .32 45
+=1, 5/16 qua [c~# smq g# a d#]
+|
+=1, smq vol120 [c~# vol100 f a g bb]
+| 4/16 0.8
+=1, 4/16 qua [e~b smq a# b]
+|
+=1, smq [c~ b c~ e~b]
+| 6/16 1.2
+=1, 6/16 qua. [g~ smq e~b d~ b]
+|
+il0.6 .23 50
+=1, qua [c~ smq a g c d]
+/
+7 bars | 5/16 5 | 1 1 1 1.1 1 | 4/16 1 1.1 1 1 | 1 1 1.2 1 | 3/16 3 \
+ | 1.3 1.1 1 | 6/16 2.7 3.3 |
+| 5/16 1.0
+=1' bass 5/16 smq vol120 [eb vol100 G B A c]
+|
+=1' smq vol120 [eb vol100 A c B eb]
+| 4/16 0.8
+=1, 4/16 smq vol120 [f vol100 B eb d]
+|
+=1, smq vol120 [g vol100 e f ab]
+| 3/16 0.6
+il0.65 .39 55
+=1, 3/16 smq vol120 [bb vol100 e a]
+|
+=1, smq vol120 [d~ vol100 bb e~]
+| 6/16 1.2
+=1, 6/16 qua. vol120 [g~ vol100 smq e~b d~ b]
+/
+7 bars | 1.8 2 2 | 5/16 1 1.1 1 1 1 | 1 1.1 1 1 1 | 4/16 1 1.2 1 1 \
+ | 1.1 1 1 1 | 3/16 1.2 1.1 1 | 3 |
+|
+=1, bass qua [c~ smq ab g d e]
+| 5/16 1.0
+=1' 5/16 smq vol120 [f vol100 A c# B d]
+|
+il0.40 .15 60
+=1, smq vol120 [f vol100 B eb d f]
+| 4/16 0.8
+=1, 4/16 smq vol120 [g vol100 B d# e]
+|
+=1, smq vol120 [g vol100 c# e f]
+| 3/16 0.6
+=1, 3/16 smq vol120 [a vol100 c# f]
+|
+=1  qua A smq rest
+
+12 systems 10/19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum 3
+innerhead Second Solo Suite, for Cello, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+4 bars |9/16 1 1 1.2 1 1 1 1.1 1 1 | 1 1.1 1 1 1.1 1 1 1.1 1 \
+ | 8/16 1 1 1 1 1 1.1 1.2 1 | 1 1 1 1 1.2 1 1.1 1 |
+| 9/16 1.8
+il0.4 .11 65
+=1  bass 9/16 smq rest vol90 [G vol100 B c#] vol110 \
+ [g vol100 e b] vol110 [f# vol100 g]
+|
+=1 smq vol120 [b' vol100 G A# B] vol110 [e vol100 c#, g] vol110 [b vol100 bb]
+| 8/16 1.6
+=1  8/16 smq vol120 [a' vol100 G A c d'] vol110 [g vol100 eb f#]
+|
+=1  vol120 smq [a' vol100 G A B c] vol110 [eb vol100 d, f#]
+/
+4 bars | 7/16 7 | 7 | 6/16 6 | 6 |
+| 7/16 1.4
+=1  bass 7/16 smq [g' G Bb d'] [e d, f#]
+|
+il0.65 .25 70
+=1  smq [g' G A Bb] [d' c# e']
+| 6/16 1.2
+=1  6/16 smq [f' G Bb c] [e db,]
+|
+=1  smq [f' A Bn eb'] g rest
+/
+4 bars |9/16 1 1 1.1 1 1.2 .9 .9 1 1 | .9 .9 1.1 1 1.1 .9 .9 1.2 1 \
+ | 8/16 1 1 1.1 1 1.2 .9 .9 1 | .9 .9 1 1 1 .9 .9 1 |
+| 9/16 1.8
+=1, bass 9/16 smq [g A c eb g] qua [f# smq g a]
+|
+=1, qua [bb smq c eb bb] qua [a smq f f#]
+| 8/16 1.6
+il0.4 .25 75
+=1, 8/16 smq [g A c eb g] qua [f# smq g]
+|
+=1, qua [a smq B eb g] qua [b smq a]
+/
+5 bars | 7/16 .9 .9 1 1.1 .9 .9 1 | .9 .9 1.1 1 .9 .9 1 \
+ | 6/16 1 1 1.1 .9 .9 1 | .9 .9 1.2 .9 .9 1 | 8/16 .9 .9 1 1.1 1 1 1.2 1 |
+| 7/16 1.4
+=1, bass 7/16 qua [b smq c# e] qua [a# smq b]
+|
+=1, qua [c~# smq d f#] qua [b smq c~#]
+| 6/16 1.2
+=1, 6/16 smq [d~ f a] qua [b smq f#]
+|
+il0.4 .20 80
+=1, qua [g# smq d] qua [f# smq g#]
+| 8/16 1.6
+=1, 8/16 qua [a smq B c] [eb d] [g f#]
+/
+5 bars | 1 1.2 1 1.2 1 1 1 1 | 7/16 .9 .9 1 1.2 1 1 1 \
+ | 1 1 1 1.2 1 1 1 | 6/16 .9 .9 1 1.2 1 1 | 1.2 1 1.2 1 1.1 1 |
+|
+=1, bass smq [g e f# a] [bb g d e]
+| 7/16 1.4
+=1  7/16 qua [f' smq A d'] [c# B d']
+|
+=1, smq [f d e g] [ab f d]
+| 6/16 1.2
+il0.4  85
+=1, 6/16 qua [e smq c e] [f# a]
+|
+=1, smq [g# f# a g#] [b c~]
+/
+5 bars | 5/16 .9 .9 1.2 1 1 | .9 .9 1 .9 .9 | 8/16 1 1.1 1.1 1.2 1 1.1 1.1 1 \
+ | 1 1 1.1 1 1 1 1.2 1 | 7/16 1 1.1 1.1 1.1 1.1 1.2 1 |
+| 5/16 1.0
+=1, bass 5/16 qua [d~ smq g# fn a]
+|
+=1, qua [b smq eb qua g]
+| 8/16 1.6
+=1, 8/16 smq rest' [e~ c~ b g#] [a f# d#]
+|
+il0.6 .25 90
+=1' smq [e c B G#] [A c e f#]
+| 7/16 1.4
+=1, 7/16 smq [g e~b d~ b] [c~ a f#]
+/
+5 bars | 1.1 1 1 1 1 1 1 | 6/16 1 1 1 1 1.1 1 | 1 1.1 1 1.1 1 1 \
+ | 5/16 1.2 1 1 1.1 1 | 1.2 1 1 .9 .9 |
+|
+=1, bass smq [g eb d B] [c f# g]
+| 6/16 1.2
+=1, 6/16 smq [a B d] [f e g#]
+|
+=1, smq [a c eb] [g f# a]
+| 5/16 1.0
+il0.5 .25 95
+=1, 5/16 smq [b eb d f ab]
+|
+=1, smq [b eb f qua g]
+/
+5 bars |7/16 .9 .9 1 1.2 1.3 1.1 1 | .9 .9 1.2 1.1 1.1 1.3 1 \
+ | 6/16 1 1.1 1.1 1 1.2 1 | 1.1 1 1.1 1 1.1 1 | 5/16 .9 .9 1 1 1 |
+| 7/16 1.4
+midi pause .04
+=1, bass 7/16 qua [b smq g b] [d~# c~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+| 6/16 1.2
+=1, 6/16 smq [c~# e g#] [bb f gn]
+|
+il0.5 .20 100
+=1, smq [g# c# e] [gn f Bb]
+| 5/16 1.0
+=1, 5/16 qua [bb smq g d e]
+/
+6 bars | 1 1 1 1.2 1 | 4/16 1.3 1 1 1 | 4 | 7/16 .9 .9 1 1.2 1.3 1.1 1 \
+ | .9 .9 1.2 1.1 1.1 1.3 1 | 6/16 1 1.2 1.2 1 1.2 1 |
+|
+=1, bass smq [bb f a g c~#]
+| 4/16 0.8
+=1, 4/16 smq [d~ ab f c~]
+|
+=1, smq [b f d a]
+| 7/16 1.4
+il0.6 .16 105
+=1, 7/16 qua [b smq g b] [d~# c~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+| 6/16 1.2
+=1, 6/16 smq [c~# e g#] [bb f gn]
+/
+6 bars | 1.1 1 1.2 1 1.1 1 | 5/16 .9 .9 1 1.1 1 | 1 1 1 1.2 1 \
+ | 4/16 .9 .9 1.2 1 | 1.2 1.2 1.3 1 | 6/16 2.7 3.3 | 1.8 2 2 |
+|
+=1, bass smq [g# c# e] [gn f bb]
+| 5/16 1.0
+=1, 5/16 qua [c~# smq g# a d#]
+|
+il0.6 .23 110
+=1, smq [c~# f a g bb]
+| 4/16 0.8
+=1, 4/16 qua [e~b smq a# b]
+|
+=1, smq [c~ b c~ e~b]
+| 6/16 1.2
+=1, 6/16 qua. [g~ smq e~b d~ b]
+|
+=1, qua [c~ smq a g c d]
+/
+7 bars | 5/16 5 | 1 1 1 1.1 1 | 4/16 1 1.1 1 1 | 1 1 1.2 1 | 3/16 3 \
+ | 1.3 1.1 1 | 6/16 2.7 3.3 |
+| 5/16 1.0
+il0.7 .25 115
+=1' bass 5/16 smq [eb G B A c]
+|
+=1' smq [eb A c B eb]
+| 4/16 0.8
+=1, 4/16 smq [f B eb d]
+|
+=1, smq [g e f ab]
+| 3/16 0.6
+=1, 3/16 smq [bb e a]
+|
+il0.9 .25 120
+=1, smq [d~ bb e~]
+| 6/16 1.2
+=1, 6/16 qua. [g~ smq e~b d~ b]
+/
+8 bars | .9 .9 1 1 1 1 | 5/16 .9 .9 1.1 1.1 1 | 1.3 1 1 1 1 \
+ | 4/16 1.1 1.1 1.3 1 | 1.1 1.3 1.1 1 | 3/16 1.2 1.3 1 | 1.1 1.1 1 | 8/16 3 ||
+|
+=1, bass qua [c~ smq ab d f g]
+| 5/16 1.0
+=1, 5/16 qua [g~ smq e~b d~ b]
+|
+=1, smq [c~ ab d f g]
+| 4/16 0.8
+il0.8 .40 125
+=1, 4/16 smq [g~ g b c~#]
+|
+=1, smq [g~ b d~# e~]
+| 3/16 0.6
+=1, 3/16 smq [g~ b d~#]
+|
+=1, smq [g~ g b]
+| 8/16 1.6
+=1, 8/16 min g~
+
+7 systems 70/19/19/19/19/19/19/19 30/
+pagenum 4
+innerhead Second Solo Suite, for Cello, Peter Billam
+leftfoot (c) 2003 Peter Billam
+midi pause 4.0
+/
+4 bars | 1.5 |  .3 .3 .3 .3  .3 .3 .3 .3  .5 .7 .7 .7 \
+ | .65 .65 .65 1.2 1.2 \
+ | .25 .25 .25 .25  .4 .5 .5 .4  .25 .25 .25 .25  .45 .35 .35 .35 |
+| 1/4 72
+Il1.2 .03 Air
+=1 bass qua3 rest [B-I3 c']
+| 6/4 72
+=1 6/4 smb A(2 qua. [A)2 smq B'] [A G A B']
+| 5/4 72
+=1 5/4 min. c qua rest qua B [d' c]
+| 4/4 72
+=1 4/4 cro eb(1 smq [eb)1 d eb f#] cro g(1 qua3 [g)1 eb-I3 B,]
+/
+5 bars | .35 .35 .35 .35 .35 .35  .75 .6 .6 .6 \
+ | .35 .35 .35 .35 .35 .35 .35 .35 .4 .6 .6 \
+ | .8 .8 .8 1.5 | .4 .4  .4 .4 .7 .6 .6 | .8 .8 .8 1.3 |
+| 5/4 72
+=1 bass 5/4 min. d qua rest c# [e d]
+|
+il0.4 .15 5
+=1 smb f# smq3-s bb' blank qua3 [a g-I3 d]
+| 4/4 72
+=1 4/4 min. e smq [f#' e' d' A]
+| 3/4 72
+=1 3/4 min Bb smq-s d' blank qua [Bb' A]
+| 4/4 72
+=1 4/4 min. A qua3 rest [B-I3 c']
+/
+4 bars | 2.3 2.3 2.3 2.3  2.3 2.3 2.3 2.3  2.3 2.3 2.3 2.3  3 5 4 4 4 \
+ | 5.5 5.5  5.5 6.5  6 6 | 7 9 6 7 8 \
+ | 3.7 3.7 3.7  3.7 3.7 3.7  4.5 5.5 4.5 |
+|
+=1 bass min. A smq-s B' smq [A G# A B']
+| 3/4 72
+il0.4 .15 10
+=1 3/4 cro. c qua B, [d# e]
+| 5/8 144
+=1 5/8 qua [f# smq g# a qua c~(1] qua3 [c~)1 b-I3 f#]
+| 3/4 72
+=1 3/4 min g# qua3 rest [g#-I3 a#]
+/
+4 bars | 4 4 4  4 4 4  4 4 4  4 4 4  7.8 6 5 | 6 6  6 6  7.5 7.5  6.5 6 \
+ | 6 6  6 6  5 8.5 6 | 4 4 4  4 4 4  4 4 4  6.5 6 5 |
+| 5/4 72
+=1 bass 5/4 smb b smq-s c~#' blank qua3 [b g#-I3 f]
+| 4/4 72
+=1, 4/4 min f#(1 qua f#)1 [g# f# c#]
+| 3/4 72
+il0.4 .15 15
+=1 3/4 min d smq-s f#' blank qua [d db]
+| 4/4 72
+=1 4/4 min. db qua3 rest [db'-I3 c]
+/
+3 bars | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 6  5.7 5.7 4.7 4 \
+ | 4 4 4  4 4 4  4 4 4  7 7 6 \
+ | 5 5  4.5 4.5 4.5 5  4 4 4 4  6 5 |
+| 5/4 72
+=1' bass 5/4 min. Bb(1 qua. [Bb)1 smq c] [Bb Ab Bb c]
+| 4/4 72
+=1' 4/4 min db(1 qua db)1 rest qua3 [c eb-I3 db]
+| 3/4 72
+=1, 3/4 qua en qua3 [d# e-I3 g] cro ab smq [e c#]
+/
+5 bars | 4/4 6 6  6 6  6 6.5  8.5 6.5 \
+ | 3.5 3.5 3.5  3.5 3.5 3.5  3.5 3.5 3.5  8  8 8 5 \
+ | 3/4 3 3 3 3  3 3 3 3  6 8 6.5 4 \
+ | 5/8 6 6 6 5.5 8.5 6 | 3/4 4 4 4  4 4 4  5.5 8.5 4.5 |
+| 4/4 72
+il0.4 .15 20
+=1, bass 4/4 min eb qua rest d [f eb]
+|
+=1 min. g smq3-s b' blank qua3 [bb ab-I3 eb]
+| 3/4 72
+=1 3/4 min f smq [g f eb A#,]
+| 5/8 144
+=1 5/8 cro. B smq-s d#' blank qua [B Bb]
+| 3/4 72
+=1' 3/4 min Bb qua3 rest [c-I3 db]
+/
+4 bars | 3 3 3 3  3 3 3 3  5  4 4.5 4 3.5 | 5/8 6 6 6 7 7 \
+ | 2/4 12 16 | 5/8 6 6 6 7 7 |
+|
+il0.4 .15 25
+=1' bass min Bb smq-s c' smq [Bb A Bb c]
+| 5/8 144
+=1 5/8 cro. db qua3 [c, e-I3 f]
+| 2/4 72
+=1 2/4 cro g(1 smq [g)1 e g f]
+| 5/8 144
+=1 5/8 cro. a qua3 rest [a-I3 b]
+
+8 systems 20/19/19/19/19/19/19/19/19 30/
+pagenum 5
+innerhead Second Solo Suite, for Cello, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+4 bars | 4 4 4 4 4 4 4 4 4 5 6.7 5 | 12 12 17 | 30 \
+ | 3 3 3 3 4.2 4.2 4.2 5.5 3.7 3.7 3.7 3.7 |
+| 4/4 72
+=1 bass 4/4 min. c~ smq-s d~' blank qua3 [c~ a-I3 f#]
+| 3/4 72
+il1.0 .15 30
+=1 3/4 min g(1 smq [g)1 a g d]
+| 5/8 144
+=1 5/8 cro. eb smq-s g' smq. blank qua [eb d]
+| 3/4 72
+=1 3/4 cro d smq rest [f# a g] qua3 [bb e~-I3 d~]
+/
+4 bars | 4/4 3.5 3.5 3.5  3.5 3.5 3.5  3.5 3.5 3.5  6 6 5 \
+ | 3/4 1.8 1.8 1.8  1.3 1.3 1.3  1.3 1.3 1.3  1.8 1.8 1.8 \
+   1.5 1.5 1.5 1.5  1.3 1.3 1.3 1.3  1.3  1.3 1.3 1.3 \
+   1 1 1  1 1 1  1.1 1.1 1.1  1.1 1.1 1.1  1.1 1.1 1.1  1.1 1.1 1.1 \
+ | 27 | 2.6 2.6 2.6 2.6  5 5 6 6  4 4 5 4 |
+| 4/4 72
+=1 bass 4/4 min. f~(1 qua3 [f~)1 d~b-I3 bb]
+I0.1 .02 f
+| 3/4 72
+=1 3/4 smq [a bb g a] qua3 [bb d~b-I3 c~] smq-s f~' blank qua [d~b bb]
+| 5/8 144
+il0.9 .01 35
+=1 5/8 cro. c~(1 cro c~)1
+| 3/4 72
+=1 3/4 cro rest smq rest [f a bb] qua3 [d~b c~-I3 e~]
+/
+4 bars | 36 | 5.5 5.5 5.5 5.5 7.5 \
+ | 2.4 2.4 4.3 3.0 2.5 2.5 2.4 2.4 4.3 3.0 2.5 2.5 | 6 6 6 6 7 |
+|
+=1 bass min f~(1 qua. [f~)1 smq g~{1]
+I0.1 .02 f
+| 5/8 144
+=1 5/8 min f~}1 smq [g~{1 f~}1]
+| 2/4 72
+I1.6 .29 3
+I1.2 .74 3
+=1 2/4 qua3 [e~b smq3 f~{1 e~b qua3 c~}1] [bb smq3 c~{1 bb qua3 a}1]
+| 5/8 144
+il0.9 .15 40
+=1 5/8 min bb smq rest' c~
+/
+5 bars | 30 | 2/4 2.6 2.6  2.4 2.4 5.3 3.3 2.5 2.5  2.4 2.4 3.3 3.3 2.4 2.4 \
+ | 4 4 4 4 4.0 4.3 4.3 | 30 | 35 |
+|
+=1 bass cro. bb smq-s a' smq. blank cro bb
+| 2/4 72
+I1.1 .41 3
+I0.7 .78 3
+=1 2/4 smq3-s c~' blank qua3 [bb smq3 c~{1 bb qua3 a}1] [f smq3 g{1 f qua3 e}1]
+| 3/8 48
+=1 3/8 cro f smq-s g' smq [f e]
+| 2/4 72
+=1 2/4 cro. db qua c
+| 3/4 72
+il0.4 .15 45
+=1 3/4 min. c
+/
+5 bars | 6 6 6 8 6 | 24 | 6 6 6 8 6 \
+ | 3 3 3 3  3 3 3 3  3 3 3 3  3 3 4 4  4 4 4 4 \
+ | 4 4 4  4 4 4  4 4 4 5 5 5 |
+| 5/8 144
+=1 bass 5/8 cro. c qua. [d smq eb]
+| 2/4 72
+=1 2/4 min c
+| 5/8 144
+=1 5/8 cro. rest qua [c' B]
+| 5/4 72
+=1' 5/4 min. A(1 qua. [A)1 smq B] [A G A B]
+| 4/4 72
+il0.4 .15 50
+=1' 4/4 min c(1 qua c)1 rest qua3 [B d-I3 c]
+/
+5 bars | 3/4 4.5 4.5  6 7 6 4  4 4 4 4  5 4 \
+ | 4/4 6 6  6 6  7.5 7  7 7 | 6 6  6 6  6 6  7  9 8 \
+ | 3/4 3 3 3 3  3 3 3 3  5 5 5 4 | 5/8 6 6 6 9 7 7 |
+| 3/4 72
+=1, bass 3/4 qua eb qua3 [d eb-I3 f#] cro g smq [eb c]
+| 4/4 72
+=1 4/4 min d qua rest c# [e d]
+|
+=1 min. f# smq-s bb' blank qua3 [a g-I3 d]
+| 3/4 72
+=1 3/4 min e smq [f#' e' d' A]
+| 5/8 144
+il0.4 .15 55
+=1 5/8 cro. Bb smq-s d' blank qua [Bb' A]
+/
+5 bars | 3/4 4 4 4  4 4 4  5 5 5 | 3 3 3 3  3 3 3 3  4  6.5 4 4 4 \
+ | 5/8 2 2 2  2 2 2  2 2 2  3.5 3.5  2.5 2.5 2.3 2.3 \
+ | 2/4 3.5 3.5  3.5 3.5  6 6.5  5 4 \
+ | 5/8 2 2 2  2 2 2  2 2 2  3.5 3.5  3.5 3.5  2.3 2.3 |
+| 3/4 72
+=1 bass 3/4 min A qua3 rest [B-I3 c']
+|
+=1' min A smq-s B smq [A G# A B]
+| 5/8 144
+=1 5/8 cro. c qua3 [B, d#-I3 e]
+| 2/4 72
+=1 2/4 cro f#(1 smq [f#)1 d# f# e]
+| 5/8 144
+il0.8 .15 60
+=1 5/8 cro. g# qua3 rest [g#-I3 a#]
+/
+5 bars | 4/4 4 4 4   6.8 5 6.8  4 4 4  7  6.8 6 4 \
+ | 3/4 6 6 6 6 5 7.5 6.5 | 5/8 30 | 3/4 39 | 5/4 34 ||
+| 4/4 72
+=1 bass 4/4 cro b(1 qua3 [b)1 g#-I3 f] \
+ cro f# smq3-s b' blank qua3 [g# f#-I3 c#,]
+| 3/4 72
+=1 3/4 min d smq-s f#' blank qua [d' c#]
+| 5/8 144
+=1 5/8 min c#(1 qua c#)1
+| 3/4 72
+=1 3/4 min c# qua. [d# smq e]
+| 5/4 72
+=1 5/4 smb c#(1 cro c#)1
+
+
+9 systems 40/19/19/19/19/19/19/19/19/19 20/
+pagenum 6
+innerhead Second Solo Suite, for Cello, Peter Billam
+leftfoot (c) 2003 Peter Billam
+midi pause 4.0
+/
+5 bars | 8/8 .9 .9 1.2 1 1 .9 .9 1 | 5/8 .9 .9 1.3 1 1 \
+ | 8/8 .9 .9 1.2 1 1.2 .9 .9 1 | .9 .9 1.2 1 1.2 .9 .9 1 | 5/8 .9 .9 1 .9 .9 |
+| 8/8 1.33
+Il1.0 .03 Dance
+=1  bass 8/8 cro d' qua [G c#' d'] cro e qua d
+| 5/8 .833
+=1 5/8 cro f qua [A c#' d']
+| 8/8 1.33
+=1 8/8 cro e qua [Bb c# d'] cro f# qua e
+|
+=1  cro g qua [B d#' e'] cro f# qua e
+| 5/8 .833
+=1 5/8 cro g qua eb cro B
+/
+5 bars | 8/8 .9 .9 1.1 1 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 \
+ | 8/8 .9 .9 1 .9 .9 1.3 .9 .9 | .9 .9 1.3 1 1 .9 .9 1 | 5/8 .9 .9 1.3 1 1 |
+| 8/8 1.33
+=1, bass 8/8 cro g qua [c f# g] cro a qua g
+| 5/8 .833
+=1, 5/8 cro bb qua [d f# g]
+| 8/8 1.33
+=1  8/8 cro a qua c# cro f qua A cro c#
+|
+=1  cro d qua [G c#' d'] cro e qua d
+| 5/8 .833
+il0.4 .15 10
+=1  5/8 cro f qua [A c#' d']
+/
+5 bars | 8/8 .9 .9 1.2 1 1.2 .9 .9 1 | .9 .9 1.2 1 1.2 .9 .9 1 \
+ | 5/8 .9 .9 1 1.1 1 | 8/8 .9 .9 1.1 1.3 1.1 .9 .9 1 | 5/8 .9 .9 1.1 1.3 1 |
+| 8/8 1.33
+=1, bass 8/8 cro e qua [Bb c# d] cro f# qua e
+|
+=1, cro g qua [B d# e] cro f# qua e
+| 5/8 .833
+=1, 5/8 cro g qua [eb g a]
+| 8/8 1.33
+=1, 8/8 cro b qua [a# b c~#] cro d~ qua c~#
+| 5/8 .833
+=1, 5/8 cro b qua [a# b c~#]
+/
+5 bars | 8/8 .9 .9 1.1 1.3 1.3 .9 .9 1 | .9 .9 1 1 1.2 .9 .9 1 \
+ | 5/8 .9 .9 1 1.2 1 | 8/8 1.2 1 .9 .9 1.1 1.2 1 1 | 5/8 1.2 1 .9 .9 1 |
+| 8/8 1.33
+=1, bass 8/8 cro d~ qua [c~# b a#] cro g# qua gn
+|
+=1, cro f qua [e f g] cro ab qua g
+| 5/8 .833
+=1, 5/8 cro f qua [e d c#]
+| 8/8 1.33
+=1, 8/8 qua [d Bb] cro e qua [Bb f# Bb g(1]
+| 5/8 .833
+il0.6 .35 20
+=1  5/8 qua [g)1 Bb,] cro d' qua Bb'
+/
+5 bars | 8/8 1 1.1 .9 .9 1.1 1 1.1 1 | .9 .9 1.1 1 1.1 .9 .9 1 \
+ | 5/8 .9 .9 1.3 1.1 1 | 8/8 .9 .9 1.3 1 1.3 .9 .9 1 \
+ | .9 .9 1.2 1.1 1.3 .9 .9 1 |
+| 8/8 1.33
+=1, bass 8/8 qua [e c] cro f# qua [c e c g#]
+|
+=1, cro a qua [d g# a] cro b qua a
+| 5/8 .833
+=1, 5/8 cro c~ qua [e g# a]
+| 8/8 1.33
+=1, 8/8 cro b qua [f g# a] cro c~# qua b
+|
+=1, cro d~ qua [f# a# b] cro c~# qua b
+/
+5 bars | 5/8 .9 .9 1.2 .9 .9 | 8/8 .9 .9 1.1 1.1 1.1 .9 .9 1 \
+ | 5/8 .9 .9 1.3 1.1 1 | 8/8 .9 .9 1 .9 .9 1.2 .9 .9 \
+ | 1 1.1 1 1.1 1.1 1 1 1 |
+| 5/8 .833
+=1, bass 5/8 cro d~ qua bb cro f#
+| 8/8 1.33
+=1, 8/8 cro d~ qua [g c~# d~] cro e~ qua d~
+| 5/8 .833
+=1, 5/8 cro f~ qua [a c~# d~]
+| 8/8 1.33
+=1, 8/8 cro e~ qua g# cro c~ qua e cro g#
+|
+il0.7 .15 30
+=1, qua [a d g# a b] [c~ e a]
+/
+5 bars | 5/8 1 1.3 1 1.3 1 | 8/8 1.2 1.2 1.1 1.3 1.1 1.3 1.3 1 \
+ | 1 1.2 1.1 1.1 1.1 1.1 1.1 1 | 5/8 .9 .9 1.3 1 1 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+| 5/8 .833
+=1, bass 5/8 qua [b f g# a c~#]
+| 8/8 1.33
+=1 8/8 qua [d~ f# a# b c~#] [d~ bb f#]
+|
+=1 qua [d~ g c~# d~ e~] [f~ a d~]
+| 5/8 .833
+=1 5/8 cro e~ qua [c~ g# c,]
+| 8/8 1.33
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+/
+5 bars | 5/8 1 1 .9 .9 1 | 8/8 1 1 .9 .9 1 1 1.1 1 | 1 1.2 .9 .9 1 1 1 1 \
+ | 5/8 1.1 1 .9 .9 1 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+| 5/8 .833
+=1  bass 5/8 qua [a)1 c,] cro e qua c'
+| 8/8 1.33
+=1, 8/8 qua [f# d] cro g qua [d a d bb(1]
+|
+=1, qua [bb)1 d] cro f# qua [d g d a(1]
+| 5/8 .833
+=1, 5/8 qua [a)1 d#] cro g qua d#
+| 8/8 1.33
+il0.6 .15 40
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+/
+5 bars | 5/8 1 1 .9 .9 1 | 8/8 1 1 .9 .9 1 1 1.1 1 \
+ | .9 .9 .9 1 1.2 1 1 1 | 5/8 .9 .9 1 1.3 1 | 8/8 .9 .9 .9 1 1.3 1 1.1 1 |
+| 5/8 .833
+=1  bass 5/8 qua [a)1 c,] cro e qua c'
+| 8/8 1.33
+=1, 8/8 qua [f# d] cro g qua [d a d bb]
+|
+=1, cro. d~ qua [d g] [f# g a]
+| 5/8 .833
+=1, 5/8 cro d~ qua [e a bb]
+| 8/8 1.33
+=1, 8/8 cro. d~ qua [f a] [g# a b]
+
+9 systems 30/19/19/19/19/19/19/19/19/19 30/
+pagenum 7
+innerhead Second Solo Suite, for Cello, Peter Billam
+leftfoot (c) 2003 Peter Billam
+/
+5 bars | .9 .9 .9 1 1.3 1.1 1.3 1 | 5/8 .9 .9 1 1.3 1 \
+ | 8/8 .9 .9 1.1 1.1 1.1 .9 .9 1 | 5/8 .9 .9 1.1 1.3 1 \
+ | 8/8 .9 .9 1.2 1.2 1.1 .9 .9 1 |
+|
+=1, bass cro. d~ qua [f# b] [a# b c~#]
+| 5/8 .833
+=1, 5/8 cro d~ qua [g a bb]
+| 8/8 1.33
+=1, 8/8 cro d~ qua [c~# d~ e~] cro f~ qua e~
+| 5/8 .833
+=1, 5/8 cro d~ qua [c~# b a#]
+| 8/8 1.33
+il0.7 .20 50
+=1, 8/8 cro g# qua [gn g# a#] cro b qua a#
+/
+5 bars | 1 1.1 .9 .9 1 1 1.1 1 | 5/8 1 1.2 .9 .9 1 \
+ | 8/8 1.3 1 .9 .9 1 1.3 1.1 1 | 1.3 1 .9 .9 1 1 1 1 | 5/8 .9 .9 1.3 .9 .9 |
+|
+=1, bass qua [g# e] cro a# qua [e c~ e c~#(1]
+| 5/8 .833
+=1, 5/8 qua [c~#)1 e] cro g# qua e
+| 8/8 1.33
+=1, 8/8 qua [bb gb] cro c~ qua [gb d~ gb e~b(1]
+|
+=1, qua [e~b)1 gn] cro b qua [g c~ g d~]
+| 5/8 .833
+=1, 5/8 cro e~b qua b cro eb
+/
+5 bars | 8/8 .9 .9 1.1 1 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 \
+ | 8/8 .9 .9 1.2 1 1 .9 .9 1 | .9 .9 1.2 1 1.1 .9 .9 1 | 5/8 .9 .9 1 .9 .9 |
+| 8/8 1.33
+=1, bass 8/8 cro g qua [c f# g] cro a qua g
+| 5/8 .833
+=1, 5/8 cro bb qua [d f# g]
+| 8/8 1.33
+=1, 8/8 cro a qua [eb f# g] cro b qua a
+|
+=1, cro c~ qua [e g# a] cro b qua a
+| 5/8 .833
+il0.9 .30 60
+=1, 5/8 cro c~ qua ab cro e
+/
+4 bars | 8/8 1 1 1.1 1.1 1.2 1 1 1 | 5/8 1.2 1 1.1 1.1 1 \
+ | 8/8 1.1 1.2 1.1 1.1 1.1 1.2 1.1 1 | 1 1 1.1 1.1 1.2 1 1 1 |
+| 8/8 1.33
+=1, bass 8/8 qua [c~ f b c~ d~] [e~b g c~]
+| 5/8 .833
+=1, 5/8 qua [d~ g# b c~ e~]
+| 8/8 1.33
+=1, 8/8 qua [f~ a c~# d~ e~] [f~ d~b a]
+|
+=1, cro f~ qua [e~ f~ g~] cro a~b qua g~
+/
+5 bars | 5/8 1 1 1.1 1.1 1 | 8/8 .9 .9 1.1 1.1 1.1 .9 .9 1 \
+ | .9 .9 1.1 1.3 1.1 .9 .9 1 | 5/8 1 .9 1.3 1 .9 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+| 5/8 .833
+=1, bass 5/8 cro f~ qua [e~ f~ g~]
+| 8/8 1.33
+=1, 8/8 cro a~b qua [g~ f~ e~] cro d~ qua e~
+|
+=1, cro f~ qua [e~ d~ c~#] cro b qua c~#
+| 5/8 .833
+=1, 5/8 cro d~ qua bb cro f#
+| 8/8 1.33
+=1, 8/8 qua [e c] cro f# qua [c g# c a(1]
+/
+5 bars | 5/8 1 1 .9 .9 1 | 8/8 1 1 .9 .9 1 1 1.1 1 | 1.1 1 .9 .9 1 1.1 1 1 \
+ | 5/8 1 1 .9 .9 1 | 8/8 1 1.1 .9 .9 1.1 1 1 1 |
+| 5/8 .833
+il0.7 .40 70
+=1  bass 5/8 qua [a)1 c,] cro e qua c
+| 8/8 1.33
+=1, 8/8 qua [f# d] cro g qua [d a d bb(1]
+|
+=1, qua [bb)1 c#] cro f qua [c# g c# a(1]
+| 5/8 .833
+=1  5/8 qua [a)1 cn,] cro e qua c
+| 8/8 1.33
+=1, 8/8 qua [f# d] cro g# qua [d a# d b(1]
+/
+5 bars | 5/8 1.1 1 1 .9 1 | 8/8 .9 .9 1.2 1 1.2 .9 .9 1 \
+ | .9 .9 1 1.2 1 .9 .9 1 | 5/8 .9 .9 1.2 1 1 | 8/8 .9 .9 1 1.2 1 .9 .9 1 |
+| 5/8 .833
+=1, bass 5/8 qua [b)1 c#] cro e qua f#
+| 8/8 1.33
+=1, 8/8 cro g qua [B d# e] cro f# qua g#
+|
+=1  cro a qua [A d' c#] cro d qua e
+| 5/8 .833
+=1  5/8 cro a qua [B c# d']
+| 8/8 1.33
+=1, 8/8 cro a qua [c e d#] cro e qua f#
+/
+5 bars | .9 .9 1.1 1.2 1.2 .9 .9 1 | 5/8 .9 1 1 1 1 \
+ | 8/8 .9 .9 1.1 1 1.1 .9 .9 1 | 5/8 .9 1 1.2 1 1 \
+ | 8/8 .9 .9 1.2 1 1.3 .9 .9 1 |
+|
+il0.7 .20 80
+=1, bass cro a qua [c# f# fn] cro f# qua g#
+| 5/8 .833
+=1, 5/8 cro a qua [d e f]
+| 8/8 1.33
+=1, 8/8 cro a qua [d g# a] cro b qua a
+| 5/8 .833
+=1, 5/8 cro c~ qua [e g# a]
+| 8/8 1.33
+=1, 8/8 cro b qua [f g# a] cro c~# qua b
+/
+5 bars | .9 .9 1.2 1.3 1.3 1.1 1.3 1 | 5/8 .9 .9 1 1.3 1 \
+ | 8/8 .9 .9 1.1 1.3 1.1 .9 .9 1 | .9 .9 1.1 1.3 1.1 .9 .9 1 \
+ | 5/8 .9 .9 .9 .9 1 ||
+|
+=1, bass cro d~ qua f# [a# g#] [a# b c~#]
+| 5/8 .833
+=1, 5/8 cro d~ qua [g a bb]
+| 8/8 1.33
+=1, 8/8 cro d~ qua [c~# b c~#] cro d~ qua e~
+|
+=1, cro f~ qua [e~ d~ c~#] cro b qua c~#
+| 5/8 .833
+=1 5/8 min d~ qua rest'

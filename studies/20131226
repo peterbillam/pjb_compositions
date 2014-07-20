@@ -1,0 +1,124 @@
+6 systems /19-25-19/
+pagenum
+midi channel 0 patch 0
+/
+3 bars | 90 | 90 |
+| 1.0
+=1' treble   cha0 9/16 vol100 leg100 16 [Eb F Gb En F Gn F# E Fn]
+=2' bass cha0 9/16 vol100 leg100 8. [B_b C Db]
+|
+=1' 16 [An G F# Ab G Fn F# Ab G]
+=2' 8. [B_n C Dn]
+|
+=1' 16 [E F# G Fn F# Ab G Fn F#]
+=2' 8. [Db B_ C]
+|
+=1' 16 [G A Bb G# A Bn Bb G# A]
+=2' 8. [D E F]
+|
+=1' 16 [c# B Bb cn Bn A Bb c Bn]
+=2' 8. [Eb En F#]
+|
+=1' 16 [G# Bb Bn A Bb c Bn A Bb]
+=2' 8. [F Eb En]
+|
+i0.7 .03 omit these two bars and take the 9/8 down 4 semitones ?
+=1, 16 [B c# d cn c# eb d cn c#]
+=2' 8. [F# G# A]
+|
+=1, 16 [f eb d en eb c# d en eb]
+=2' 8. [G G# Bb]
+|
+=1, 16 [c d eb c# d en eb c# d]
+=2' 8. [A G G#]
+
+/
+2 bars | 45 |
+| 2.0
+=1' 9/8 16 rest' [c d eb c# d en eb c# 8. d] 4. rest''
+=1, 9/8 4. Eb 4 rest, 16 [F Eb D En Eb C# D En]
+=2' 9/8 8 [G A Bb G# A Bn Bb G# A]
+|
+=1' 16 rest' [d e f eb en f# fn eb 8. en] 4. rest''
+=1, 4. F 4 rest, 16 [F# E Eb Fn En D Eb F]
+=2' 8 [Bb c c# Bn cn d c# B cn]
+#|
+#=1' 16 rest' [eb f f# en fn g f# e 8. fn] 4. rest''
+#=1, 4. F# 4 rest, 16 [G# F# Fn Gn F# E Fn G]
+#=2' 8 [Bb c c# Bn cn d c# B cn]
+|
+=1' 16 rest' [f g g# f# gn a g# f# 8. gn] 4. rest''
+=1, 4. G 4 rest, 16 [Bb G# Gn A G# F# Gn A]
+=2' 8 [c# eb en d eb f en d eb]
+|
+i0.7 .83 or end here ?
+=1' 16 rest' [a b c~ bb bn c~# c~n bb 8. bn] 4. rest''
+=1, 4. B 4 rest, 16 [d c B c# cn Bb Bn c#]
+i0.7 .03 or RH down one semitone ?
+=2, 8 [e f# g fn f# g# gn fn f#]
+|
+=1' 16 rest'' [c~ d~ e~b c~# d~ e~n e~b c~# 8. d~] 4. rest''
+=1, 4. eb 4 rest, 16 [f eb d en eb c# d en]
+=2, 8 [g a bb g# a bn bb ab gn]
+|
+=1' 1 f#
+=2, 1 f#
+
+
+midi off
+
+6 systems /19-25-19/
+pagenum
+/
+2 bars | 90 | 90 |
+| 2.0
+=1' treble cha0 9/8 vol100 leg100 16 rest' [A B c A# B db c A# 8. B] 4. rest''
+=1, 9/8 4. C 4 rest, 16 [D C B_ Db C B_b B_n Db]
+=2' bass   cha0 9/8 vol100 leg100 8 [E F# G Fn Gb Ab Gn F F#]
+|
+=1' 16 rest' [Bb c c# Bn cn d c# B 8. cn] 4. rest''
+=1, 4. C 4 rest, 16 [D C B_ Db C B_b B_n Db]
+=2' 8 [F G G# F# Gn A G# F# Gn]
+|
+=1' 16 rest' [Bb c c# Bn cn d c# B 8. cn] 4. rest''
+=1, 4. C 4 rest, 16 [Eb C# Cn D C# B_ Cn D]
+=2' 8 [F# G# A Gn G# Bb A Gn G#]
+|
+=1' 16 rest' [B c# d cn c# eb d cn 8. c#] 4. rest''
+=1, 4. C# 4 rest, 16 [Eb C# Cn D C# B_ Cn D]
+=2' 8 [G A Bb G# A Bn Bb G# A]
+|
+=1' 16 rest' [e d c# eb d cn c# eb 8. d] 4. rest''
+=1, 4. C# 4 rest, 16 [B_ C# D Cn C# Eb D Cn]
+=2' 8 [B A G# Bb A Gn G# Bb A]
+|
+=1' 16 rest' [eb f f# en fn g f# e 8. fn] 4. rest''
+=1, 4. C# 4 rest, 16 [G# F# Fn Gn F# E Fn G]
+=2' 8 [Bb c c# Bn cn d c# B cn]
+
+
+| 2.0
+=1' treble 16 rest' [A B c A# B db c A# 8. B] 4. rest''
+=1, 4. C 4 rest, 16 [D C B_ Db C B_b B_n Db]
+=2' bass   8 [E F# G Fn Gb Ab Gn F F#]
+|
+=1' 16 rest' [B c# d cn c# eb d cn 8. c#] 4. rest''
+=1, 4. D 4 rest, 16 [Eb C# Cn D C# B_ Cn D]
+=2' 8 [G A Bb G# A Bn Bb G# A]
+|
+=1' 16 rest' [c d eb c# d en eb c# 8. d] 4. rest''
+=1, 4. Eb 4 rest, 16 [F Eb D En Eb C# D En]
+=2' 8 [G A Bb G# A Bn Bb G# A]
+|
+=1' 16 rest' [d e f eb en f# fn eb 8. en] 4. rest''
+=1, 4. F 4 rest, 16 [G Fn E F# Fn Eb En F#]
+=2' 8 [Bb c c# Bn cn d c# B cn]
+|
+=1' 16 rest' [f# g# a gn g# bb a gn 8. g#] 4. rest''
+=1, 4. G# 4 rest, 16 [B A G# Bb A Gn G# Bb]
+=2, 8 [c# eb en d eb f en d eb]
+|
+=1' 16 rest' [a b c~ bb bn c~# c~n bb 8. bn] 4. rest''
+=1, 4. c 4 rest, 16 [d c B c# cn Bb Bn c#]
+=2, 8 [e f# g fn f# g# gn fn f#]
+

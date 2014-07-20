@@ -1,0 +1,44 @@
+6 systems / 19-28-19 /
+midi channel 0 patch 0
+/
+2 bars | 48 | 48 |
+| 2.0
+=1  treble cha0 4 rest 8. rest 16 e~b [f~ a~ e~b f~#] [a~ e~b g~ a~]
+#=2  bass   cha0 8. rest 16 e [f# bb e g] [bb e ab bb] [fn g bn f]
+=2  bass   cha0 2. rest 16 [fn g bn f]
+|
+=1 leg99 4 <c~# c~~#> 8 [<b b~> <a# a~#>] [<g# g~#> <f# f~#>] [<fn f~n> <e e~>]
+=2 leg99 16 [g# b f a] [b f# g# c~] [f# a c~ f#] [bb c~ gn a]
+|
+=1, leg99 4 <d# d~#> 8 [<c# c~#> <B b>] \
+ [<Bb bb> <Ab ab>] [<Gb gb> vol110 <F(2 f(1>]
+=2 leg99 16 [c~# g bb c~#] [g bn c~# ab] \
+ [bb d~ ab bn] [d~ vol110 ab(4-P c~n(2 d~(1]
+| 9.73
+=1' 13/4 leg99 2. <Fr)2 f)1> vol80 4 <F Ab> 2 <F Gx> \
+ 4 <E G#> 2 <F Ab> 4 <F#l G#lx> 2. <F#l An>
+=2 13/4 leg99 2. <abrl)4 c~)2 d~x)1> vol80 4 <c~x d~> 2 <c~#x b-*> \
+ 4 <bb d~> 2 <bnl d~#> 4 <c~nlx d~nl> 2. <c~#lx d~#l>
+|
+=1' vol110 2. <F# f#> vol80 4 <F# A> 2 <F#l G#lx> \
+ 4 <Fn A> 2 <F# A> 4 <F#l A#> 2. <Gn B>
+=2  vol110 2. <c~#xl d~#l-P a~> vol80 4 <c~#xl d~#l> 2 <c~nxl d~nl-*> \
+ 4 <b d~#> 2 <c~ e~> 4 <c~ e~> 2. <b d~#>
+|
+=1' vol110 2. <F f> vol80 4 <F Ab> 2 <F#l G#lx> 4 <F#l G#lx> \
+    vol110 2 <F# f#> vol80 4 <F#l An> 2 <F#l A#> 4 <F#l A#>
+=2, vol110 2. <b d~#-P a~b> vol80 4 <b d~#> 2 <c~x d~nl-*> 4 <c~x d~> \
+    vol110 2 <c~#xl d~#l-P a~n> vol80 4 <c~#xl d~#l> 2 <d~nx e~-*> 4 <d~x e~>
+|
+=1' vol110 2. <G g> 4 <Bb d bb> 2. <A c# a> \
+    vol100 2 <Bb d g> vol90 4 <Bb e bb> 2. <A eb a> vol80 4 <Bbll enl bb>
+=2  vol110 2. <d~x-P e~ b~b> 4 <e~ g~> 2 <e~b-P g~> 4 vol60 G_ \
+    vol100 2 <g e~n> vol90 4 <g d~> 2. <g-* c~#> vol80 4 <c~# g~>
+| 6.75
+=1, 9/4 2. <c f c~> vol-10 2 <Ab d ab> 1 <G B g> 4 rest
+=2  9/4 2. <c~-P f~ a~b> vol-10 2 <c~ f~> 2. <c~# f~> 2 vol60 F_
+| 9.73
+=1' 13/4 vol80 2. <Fr f> vol75 4 <F Ab> 2 <F Gx> \
+ 4 <E G#> 2 <F Ab> 4 <F#l G#lx> 2. <F#l An>
+=2 13/4 vol80 2. <abrl c~ d~x> vol75 4 <c~x d~> 2 <c~#x b-*> \
+ 4 <bb d~> 2 <bnl d~#> 4 <c~nlx d~nl> 2. <c~#lx d~#l>

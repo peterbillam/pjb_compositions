@@ -1,0 +1,107 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	99.01.23.21.49.26;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.10.28.21.43.49;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Source material for October at Carousel
+@
+
+
+1.2
+log
+@list of references for Carousel
+@
+text
+@.nr PS 14
+.nr VS 16
+.nr LL 6.4i
+.pl 11.7i
+.LP
+.ce 1
+\s+8\f3October at the Carousel\fP\s0
+.sp 1c
+.ce 1
+\s+4\f3References\fP\s0
+.sp 1c
+.LP
+The following references are cited in the libretto . . .
+.sp 1c
+.IP \f3LIFE\fP 2.5c
+"The Kennedy Assasination Questions \- The Warren Report's Answers",
+Gerald Ford,
+Life International Vol. 37, No. 7, 19 Oct 1964
+
+.IP \f3TJR\fP 2.5c
+"The Trial of Jack Ruby", John Kaplan and Jon R. Waltz, Macmillan, 1965
+
+.IP \f3RTJ\fP 2.5c
+"Rush to Judgement", Mark Lane, Penguin, 1966
+
+.IP \f3CONS\fP 2.5c
+"Conspiracy", Antony Summers, Fontana, 1980
+
+.IP \f3MKPK\fP 2.5c
+"The Mafia Killed President Kennedy", David Scheim, W. H. Allen & Co, 1989
+
+.IP \f3KOAP\fP 2.5c
+"The Killing of a President", Robert Groden, Bloomsbury, 1993
+
+.IP \f3NAMED\fP 2.5c
+"Named", Col Davies, Bookman, 1993
+
+.IP \f3SLHO\fP 2.5c
+"The Search for Lee Harvey Oswald", Robert Groden, Bloomsbury, 1995
+@
+
+
+1.1
+log
+@add TJR
+@
+text
+@d7 1
+a7 1
+\s+8\f3The Carousel Club\fP\s0
+d13 1
+a13 1
+The following references are cited in the summary and libretto . . .
+d15 1
+a15 1
+.IP \f3LIFE\fP
+d19 2
+a20 1
+.IP \f3TJR\fP
+d22 2
+a23 1
+.IP \f3RTJ\fP
+d25 2
+a26 1
+.IP \f3CONS\fP
+d28 2
+a29 1
+.IP \f3MKPK\fP
+d31 2
+a32 1
+.IP \f3KOAP\fP
+d34 2
+a35 1
+.IP \fBNAMED\fP
+d37 2
+a38 1
+.IP \f3SLHO\fP
+@

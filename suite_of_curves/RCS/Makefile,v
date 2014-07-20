@@ -1,0 +1,63 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2001.02.25.05.14.25;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for Suite of Curves
+@
+
+
+1.1
+log
+@uses a42ps etc and does the free version
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+
+all : ${FD}/suite_of_curves.us ${SD}/suite_of_curves.us \
+ ${FREED}/suite_of_curves.pdf
+
+${FD}/suite_of_curves.a4 : title.a4 suite.a4 ${BLURB}.a4
+	${PSCAT} title.a4 suite.a4 ${BLURB}.a4 > $@@
+${FD}/suite_of_curves.us : ${FD}/suite_of_curves.a4
+	${A42US} ${FD}/suite_of_curves.a4 > $@@
+${SD}/suite_of_curves.a4 : suite.a4
+	./make_samples > $@@
+${SD}/suite_of_curves.us : ${SD}/suite_of_curves.a4
+	${A42US} ${SD}/suite_of_curves.a4 > $@@
+${FREED}/suite_of_curves.pdf : title_free.a4 suite.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} suite.a4 \
+	| ${PSCAT} title_free.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+suite.a4 : suite
+	/home/pbin/muscript suite > $@@
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > title.a4
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > p2.a4
+
+@

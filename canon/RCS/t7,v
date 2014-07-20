@@ -1,0 +1,515 @@
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2010.03.11.02.24.53;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.03.10.05.39.07;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.03.08.05.31.10;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.03.06.09.14.00;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.03.06.07.28.43;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.03.04.09.00.53;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.03.03.08.24.14;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@uses midisox to generate the canon for 7
+@
+
+
+1.7
+log
+@extended 42-43 by a bar
+@
+text
+@cat > t7.txt <<EOT
+12 systems / 19 /
+midi channel 1 patch 0 pan 51
+/
+4 bars | 72 |
+| 3/2 2.85
+=1 bass 3/2 cha1 1. G
+|
+=1 2 F# A B
+|
+=1 2 d# 1 c#(2
+|
+=1 2 c#)2 B d#
+|
+Il0.7 .06 5
+=1 2 fn ab g(1
+| 5/4 2.375
+=1 5/4 2. g)1 8 rest 4. F#
+| 3/2 2.85
+=1 3/2 4. A B d# c#(2
+|
+=1 2. c#)2 4. B d#
+|
+=1 4. fn ab 2. g
+
+|
+Il0.7 .06 10
+=1 4 G 8 [A B] [A G] 4 A 8 [c B] 4 A
+|
+=1 4 D 8 [F# G] [F# E] 4 F# G# 8 [F# E]
+|
+# extend !
+=1' 4 B 8 [A# G#] [db c] 4 B Bb 8 [An G#]
+
+|
+=1 4 leg60 G g rest f F rest
+|
+=1 4 E e rest d# D# rest
+|
+Il0.7 .06 15
+=1 4 Db db rest c C rest
+|
+=1 4. G 8 g 4 rest 4 f F rest
+|
+=1 4. E 8 e 4 rest 4 d# D# rest
+|
+=1 4. Db 8 db 4 rest 4 c C rest
+
+|
+#=1 8 G rest 83 [F# G-I3 A] 8 B rest 83 [A B-I3 c#] 8 [d'-. c#-. B-. d'-.]
+#|
+#=1 8 [c# B] 83 [G# A-I3 B] 8 c# rest 83 [d# e-I3 f#] 2 blank
+=1' 8 G rest' 83 [F# G-I3, A] 8 B rest, 83 [A B-I3, c#] 8 [d-., c#-., B-., d-.,]
+|
+Il0.7 .06 20
+=1 8 [c# B A] rest c# rest 83 [A B c#] 8 d# rest 83 [c#, d#, f,]
+|
+=1  8 [g-. f-. ebl-. g-.] 8 [f eb] 83 [d' c-I3, B] 8 A rest 83 [c B A]
+
+| 5/4 2.375
+=1 5/4 4. G(2 4 G)2 4. F# 4 A
+|
+=1 4. B 4 d# 4. c#(2 4 c#)2
+|
+=1 4. B 4 d# 4. fn 4 ab
+|
+Il0.7 .06 25
+=1 2. g(2 2 g)2
+
+| 2.85
+=1 3/2 8 G rest 16 [G F# G A] 8 B rest 16 [B A B c#] 8 [d'-. c#-. B-. d'-.]
+|
+=1 8 [c# B A] rest, c# rest, 16 [B A B c#] 8 d# rest, 16 [d# c#, d# f]
+|
+=1  8 [g-. f-. ebl-. g-.] 8 [f eb] [d' 16 c B] 8 A rest [c 16 B A]
+
+| 5/4 2.375
+=1 5/4 1 G
+| 3/2 2.85
+Il0.7 .06 30
+=1 3/2 2. c B
+|
+=1 2. e eb
+|
+=1 2. ab g
+|
+=1 4. G 8 Ab 4 G 4. c 8 B 4 c
+|
+=1 4. B 8 c 4 B 4. e 8 d# 4 e
+|
+Il0.7 .06 35
+=1 4. d# 8 e 4 d# 4. ab 8 g 4 ab
+|
+=1 4. g 8 f# 4 g 4. G 8 F# 4 G
+
+|
+=1 4. leg99 G e f-ten e
+|
+=1 4. eb d eb en-ten
+|
+=1 4. eb d c# d
+|
+Il0.7 .06 40
+=1 4. eb-ten d 2. g
+#| 5/4 2.375
+|
+=1 2. ab g
+
+| 3/2 2.85
+=1 4 F#-. d-emph A-. fn-emph B-. gn-emph
+#|
+#=1 4 d-. bb-emph c#-. a-emph e-. f#-emph
+|
+=1 4 Ab-. e-emph Bb-. g-emph db-. bb-emph
+|
+=1 4 d-. g-emph f-. ab-emph 2 f#
+
+
+| 2.85
+Il0.7 .06 45
+=1 treble 4. G_ B_b D# F#
+|
+=1 4. B G# 2 A 4 F#
+|
+=1 4. F D 2 Eb 4 C
+|
+=1 4 C# 2 A_# 4. B_ D
+|
+=1 4. E G A c
+|
+Il0.7 .06 50
+=1 4. d f g g
+
+|
+=1 16 vol60 leg180 [g a g a g a g a] [g a g a g a g a] [g a g a g a g a]
+|
+=1 16 [g a g a g a g a] [g a g a] 2. rest
+|
+=1 16 [d~b e~b d~b e~b d~b e~b d~b e~b] [d~b e~b d~b e~b d~b e~b d~b e~b] [d~b e~b d~b e~b d~b e~b d~b e~b]
+|
+=1 16 [d~b e~b d~b e~b d~b e~b d~b e~b] [d~b e~b d~b e~b] [d~b e~b] 8 rest 2 rest bass
+| 2.85
+Il0.7 .06 55
+=1 1. vol100 leg99 <G_ G>
+|
+=1 8 rest 4. <F_# F#> 2 <A_ A> 4. <B_ B> 8 <D#(2 d#'(1>
+|
+=1 2 <D#)2 d#')1> 1 <C#(2 c#(1>
+|
+=1' 2 <C#)2 c#)1> 8 rest 4. <B_ B> 2 <D# d#>
+|
+=1' 4. <F f> 8 vol110 <An(2 an(1> 1 <An)2 an)1>
+|
+Il0.7 .06 60
+=1 1. vol55 <G_ G>
+
+
+EOT
+
+muscript -midi t7.txt > t7.mid
+midisox -M t7.mid \
+ '|midisox t7.mid - mixer 1:2 pad .95 pan -0.9 pitch 700' \
+ '|midisox t7.mid - mixer 1:3 pad 1.9 pan +0.9 pitch 1400' t7_mixed.mid \
+ stat
+# trim 105 20
+aplaymidi t7_mixed.mid &
+muscript t7.txt > t7.ps
+@
+
+
+1.6
+log
+@first half-plausible version, 167 sec
+@
+text
+@d80 1
+d91 1
+d94 1
+a94 1
+=1 4. g 8 ab 4 g 4. G 8 Ab 4 G
+d103 6
+a108 3
+=1 4. eb-ten d c B
+| 5/4 2.375
+=1 5/4 1 c
+d110 5
+a114 1
+=1 3/2 4 F#-. d-emph A-. fn-emph B-. gn-emph
+d116 1
+a116 1
+=1 4 d-. bb-emph c#-. a-emph e-. f#-emph
+d120 1
+d131 1
+d143 1
+d154 1
+d165 1
+@
+
+
+1.5
+log
+@longer plausible bits
+@
+text
+@d15 1
+a16 1
+# | 9/8 2.14
+d27 1
+d40 1
+d55 1
+d67 1
+d75 1
+a75 1
+=1  8 [g-. f-. ebl-. g-.] 8 [f eb] [d' 16 c B] 8 A rest 16 [B c B A]
+d77 4
+d82 1
+a82 1
+=1 4. leg99 G A B d
+d84 1
+a84 1
+=1 4. eb d eb en
+d86 1
+a86 1
+=1 4. eb c Bb G
+d88 1
+a88 1
+=1 4 F#-. d A-. fn B-. gn
+d90 3
+a92 1
+=1 4 d#-. b bb-. c# d-. F
+d95 3
+a97 1
+=1 4. leg99 G A B c
+d99 1
+a99 1
+=1 4. d e B A
+d101 7
+a107 1
+=1 4. G# e d# c#
+a108 2
+|
+=1 1. rest
+d151 1
+a151 1
+ trim 60 50 stat
+@
+
+
+1.4
+log
+@first 32 bars and last 10 plausible
+@
+text
+@d16 3
+a18 2
+| 9/8 2.14
+=1 9/8 2. g)1 4. F#
+d74 11
+d90 1
+d92 1
+a92 1
+=1 1 rest
+d94 2
+a95 13
+#|
+#=1 2. G(2 4. G)2 F#
+#|
+#=1 4. A B d# c#(2
+#|
+#=1 2. c#)2 4. B d#
+#|
+#=1 4. fn ab 2. g
+#|
+#=1 rest
+
+| 5/4 2.375
+=1 5/4 4. G(2 4 G)2 4. F# 4 A
+d97 1
+a97 1
+=1 4. B 4 d# 4. c#(2 4 c#)2
+d99 1
+a99 1
+=1 4. B 4 d# 4. fn 4 ab
+d101 1
+a101 1
+=1 2. g(2 2 g)2
+d103 1
+a103 1
+=1 4. F# 4 A 4. B 4 d#
+d105 2
+a106 3
+=1 4. c#(2 4 c#)2 4. B 4 d#
+|
+=1 4. fn 4 ab 4. g(2 4 g)2
+d108 1
+a108 5
+=1 1. rest
+
+| 2.85
+=1 treble 3/2 16 vol60 leg180 [d e d e d e d e] \
+ [d e d e d e d e] [d e d e d e d e]
+d110 1
+a110 1
+=1 16 [d e d e d e d e] [d e d e] 2. rest
+d112 1
+a112 2
+=1 16 [ab bb ab bb ab bb ab bb] \
+ [ab bb ab bb ab bb ab bb] [ab bb ab bb ab bb ab bb]
+d114 1
+a114 1
+=1 16 [ab bb ab bb ab bb ab bb] [ab bb ab bb] 2.  rest bass
+d124 1
+a124 1
+=1' 4. <F f> 8 <An(2 an(1> 1 <An)2 an)1>
+d126 1
+a126 1
+=1 1. <G_ G>
+d135 1
+a135 1
+ stat
+@
+
+
+1.3
+log
+@plausible attempt at triplet variation
+@
+text
+@d52 1
+a52 1
+=1' 8 [c# B A] rest, c# rest, 83 [A B c#] 8 d# rest, 83 [c# d# f]
+d56 16
+d113 1
+a113 1
+=1 16 [d e d e d e d e] 2 rest rest
+d118 1
+a118 1
+=1 16 [ab bb ab bb ab bb ab bb] 1 rest bass
+d139 1
+a139 1
+ trim 0 117 stat
+@
+
+
+1.2
+log
+@more ideas; sort of variation form developing
+@
+text
+@d1 7
+a7 4
+muscript -midi >t7.mid <<EOT
+# midi channel 1 patch 0
+| 12/8 2.85
+=1 bass 12/8 cha1 1. G
+d18 2
+a19 2
+| 12/8 2.85
+=1 12/8 4. A B d# c#(2
+a24 6
+| 2.85
+=1 bass cha1 4. G A B c
+|
+=1 4. d e B A
+|
+=1 4. G# e d# c#
+a25 3
+=1 1 rest
+
+| 12/8
+d30 2
+a31 1
+=1 4 B 8 [A# G#] [db c] 4 B Bb 8 [An G#]
+d40 1
+a40 3
+=1 4. G 8 g 4 rest 4. f 8 F 4 rest
+|
+=1 4. E 8 e 4 rest 4. d# 8 D# 4 rest
+d42 1
+a42 1
+=1 4. Db 8 db 4 rest 4. c 8 C 4 rest
+d44 1
+a44 1
+=1 1 rest
+d47 4
+a50 1
+=1 4. leg99 G 4 g 4. f 4 F 4 E(2
+d52 1
+a52 1
+=1 8 E)2 4 e 4. d# 4 D# 4. Db 8 db(2
+d54 1
+a54 2
+=1 8 db)2 4. c 4 C 2. rest
+
+d57 1
+a57 1
+=1 2. G(2 4. G)2 F#
+d59 1
+a59 1
+=1 4. A B d# c#(2
+d61 1
+a61 1
+=1 2. c#)2 4. B d#
+d63 12
+a74 3
+=1 4. fn ab 2. g
+|
+=1 rest
+d83 1
+a83 1
+=1 4. g(2 4 g)2
+d90 26
+d119 1
+d121 3
+a123 2
+ '|midisox t7.mid - pad .95 pitch 700' \
+ '|midisox t7.mid - pad 1.9 pitch 1400' t7_mixed.mid
+d125 1
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d13 4
+a16 4
+|
+=1 2. g)1(1 4. g)1 F#
+|
+=1 4. A B d# c#(2
+a20 2
+|
+=1 rest
+d22 2
+a23 2
+|
+=1 4. G A B c
+d27 1
+a27 1
+=1 4. G F E D
+d31 7
+d45 1
+a45 1
+=1 4 G g rest f F rest
+d47 1
+a47 1
+=1 4 E e rest d# D# rest
+d49 1
+a49 1
+=1 4 Db db rest c C rest
+d53 7
+a59 1
+midi off
+d72 15
+d90 2
+a91 2
+ '|midisox t7.mid - pad .95 key 700' \
+ '|midisox t7.mid - pad 1.9 key 1400' t7_mixed.mid
+@

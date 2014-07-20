@@ -1,0 +1,61 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2001.02.09.03.13.41;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile including sample and fulfillment
+@
+
+
+1.1
+log
+@updated to a42us etc, added free stuff
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+
+all : ${FD}/poet.us ${SD}/poet.a4 ${FREED}/poet.pdf
+
+${FD}/poet.a4 : title.a4 p2.a4 poet.a4 ${BLURB}.a4
+	${PSCAT} title.a4 p2.a4 poet.a4 ${BLURB}.a4 > $@@
+${FD}/poet.us : ${FD}/poet.a4
+	${A42US} ${FD}/poet.a4 > $@@
+${SD}/poet.a4 : poet.a4
+	./make_samples
+${SD}/poet.us : ${SD}/poet.a4
+	${A42US} ${SD}/poet.a4 > $@@
+${FREED}/poet.pdf : title_free.a4 p2.a4 poet.a4 $(FREEBACKPAGE).a4
+	${ADDMESSAGE} poet.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 - $(FREEBACKPAGE).a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > p2.a4
+poet.a4 : poet
+	${MUSCRIPT} poet > $@@
+
+@

@@ -1,0 +1,635 @@
+5 systems 15 / 19-22-19-25-19 / 19-22-19-25-19 / 19-22-19-23-19 \
+ / 19-22-19-22-19 / 19-22-19-22-19 /
+pagenum
+title Canon  at nine semitones
+innerhead Peter Billam
+leftfoot (c) 2010 Peter J Billam
+midi channel 1 patch 0 reverb 99 pan 85
+midi channel 2 patch 0 reverb 99 pan 50
+midi channel 3 patch 0 reverb 99 pan 15
+/
+3 bars | 9/16 108 | 108 | 108 |
+| .15 .12 .13 .14 .11 .13 .15 .11 .13
+=1  treble 9/16 cha1 leg95 1 rest
+=2' treble 9/16 cha2 leg95 1 rest
+=3 bass 9/16 cha3 leg95 16 [d eb d] rest d rest [d f# a#]
+
+|
+=1 1 rest
+=2 16 [B_ C B_] rest B_ rest [B_ Eb G]
+=3 8 d# 16 rest [e d# e] 8 d# 16 rest
+
+|
+=1 16 [G# A G#] rest G# rest [G#, c e]
+=2 8 C 16 rest [Db C Db] 8 C 16 rest
+=3 8. [e f f#]
+
+/
+3 bars | 36 | 36 | 4 4 4 4 4 4 4 4 6 |
+|
+=1' 8 A 16 rest [Bb A Bb] 8 A 16 rest
+=2 8. [C# D Eb]
+=3 16 [g f# g] rest f# rest [fn gb f]
+|
+il0.3 .15 5
+=1, 8. [A# B c]
+=2 16 [E D# E] rest Eb rest [Dn Eb D]
+=3 8 f# 16 rest [g f# g] [ab g f#]
+|
+=1 16 [db c db] rest c rest [B c B]
+=2 8 D# 16 rest [E D# E] [F E D#] bass
+=3 8. A 16 rest 8 A [A 16 A]
+
+/
+3 bars | 36 | 36 | 36 |
+|
+=1 8 c 16 rest [db c db] [dn c# cn]
+=2 8. f# 16 rest 8 f# [f# 16 f#]
+=3 16 [G# A' G#] rest 8 G# 16 rest 8 G#
+|
+=1 8. Eb 16 rest 8 Eb [Eb 16 Eb]
+=2 16 [f gb f] rest 8 f 16 rest 8 f
+=3 16 [B c B] rest B rest [B c B]
+|
+=1 16 [D Eb' D] rest 8 D 16 rest 8 D
+=2 16 [g# a g#] rest g# rest [g# a g#]
+=3 1 c
+
+|
+il0.6 .25 10
+=1 16 [F Gb F] rest F rest [F Gb F]
+=2 1 a treble
+=3 16 [d eb d] rest d rest [d f# a#]
+|
+=1 1 F#
+=2 16 [B_ C B_] rest B_ rest [B_ Eb G]
+=3 8 d# 16 rest [e d# e] 8 d# 16 rest
+|
+=1 16 [G# A G#] rest G# rest [G#, c e]
+=2 8 C 16 rest [Db C Db] 8 C 16 rest
+=3 8. [e f f#]
+
+/
+3 bars | 36 | 36 | 4 4 4 4 4 4 4 4 6 |
+|
+=1' 8 A 16 rest [Bb A Bb] 8 A 16 rest
+=2 8. [C# D Eb]
+=3 16 [g f# g] rest f# rest [fn gb f]
+|
+=1, 8. [A# B c]
+=2 16 [E D# E] rest Eb rest [Dn Eb D]
+=3 8 f# 16 rest [g f# g] [g# gn f#]
+|
+il0.5 .27 15
+=1 16 [db c db] rest c rest [B c B]
+=2 8 D# 16 rest [E D# E] [F E D#] bass
+=3 8. A 16 rest 8 A [A 16 A]
+
+5 systems / 19-22-19-22-19 / 19-22-19-25-19 \
+ / 19-22-19-25-19 / 19-24-19-22-19 / 19-22-19-25-19 /
+pagenum
+innerhead Canon  at nine semitones
+leftfoot (c) 2010 Peter J Billam
+
+|
+=1 8 c 16 rest [c# cn c#] [d c# cn]
+=2 8. f# 16 rest 8 f# [f# 16 f#]
+=3 16 [G# A' G#] rest 8 G# 16 rest 8 G#
+|
+=1 8. Eb 16 rest 8 Eb [Eb 16 Eb]
+=2 16 [f gb f] rest 8 f 16 rest 8 f
+=3 16 [B c B] rest B rest [B c B]
+|
+=1 16 [D Eb' D] rest 8 D 16 rest 8 D
+=2 16 [g# a g#] rest g# rest [g# a g#]
+=3 1 c
+
+|
+=1 16 [F Gb F] rest F rest [F Gb F]
+=2 1 a treble
+=3 16 leg95 rest d rest [d# e d#] [dn eb d]
+|
+il0.2 .20 20
+=1 1 F#
+=2 16 leg95 rest B_ rest [C Db C] [B_ C B_]
+=3 16 leg95 [d# e d#] [e f e] [d# rest d#]
+|
+=1' 16 leg95 rest G# rest [A Bb A] [G# A G#]
+=2 16 leg95 [C Db C] [C# Dn C#] [Cn rest C]
+=3 16 leg95 rest e rest [f e f] [e rest f]
+
+|
+=1' 16 leg95 [A Bb A] [A# Bn A#] [An rest A]
+=2 16 leg95 rest C# rest [D C# D] [C# rest, D]
+=3 16 leg95 [f# rest' f#] [g f# g] [f# g f#]
+|
+=1' 16 leg95 rest A# rest [B A# B] [A# rest B]
+=2 16 leg95 [D# rest, D#] [E D# E] [D# E D#]
+=3 16 leg95 [g g# gn] [g# a g#] [gn rest' g#]
+|
+=1 16 leg95 [c rest c] [db c db] [c db c]
+=2 16 leg95 [E F E] [F Gb F] [E rest, F]
+=3 16 leg95 rest a rest [bb bn bb] [a bn bb]
+
+|
+il0.4 .15 25
+=1 16 leg95 [c# d c#] [d eb d] [c# rest d]
+=2 16 leg95 rest F# rest [G Ab G] [F# Ab G]
+=3 16 leg95 [b c~ b] [c~ b c~] rest 8 b
+|
+=1 16 leg95 rest d# rest [e f e] [d# f e]
+=2 16 leg95 [G# A G#] [A G# A] rest 8 G#
+=3 16 leg95 [b rest' b] [c~ d~b c~] [b rest' b]
+|
+=1 16 leg95 [f gb f] [gb f gb] rest 8 f
+=2' 16 leg95 [G# rest, G#] [A Bb A] [G# rest, G#]
+=3 16 leg95 [a# rest' a#] [b a# b] [a# b a#]
+
+|
+=1 16 leg95 [f rest' f] [f# g f#] [fn rest' f]
+=2 16 leg95 [G rest G] [Ab G Ab] [G Ab G]
+=3 16 [b rest' b] [c~ b c~] [b e~b g~]
+|
+=1 16 leg95 [e rest' e] [f e f] [e f e]
+=2 16 [G# rest G#] [A G# A] [G#, c e]
+=3 16 [c~ b c~] [d~b c~ d~b] 8 c~ treble 16 rest
+|
+il0.5 .11 30
+=1 16 [f rest' f] [gb f gb] [f a c~#]
+=2' 16 [A G# A] [Bb A Bb] 8 A 16 rest
+=3 8. [C# D Eb]
+
+5 systems / 19-20-19-22-19 / 19-22-19-23-19 \
+ / 19-21-19-25-19 / 19-22-19-22-19 / 19-22-19-23-19 /
+pagenum
+innerhead Canon  at nine semitones
+leftfoot (c) 2010 Peter J Billam
+
+/
+3 bars | 36 | 4 4 4 4 4 4 4 4 6 | 36 |
+|
+=1 16 [f# fn f#] [g f# g] 8 f# 16 rest
+=2' 8. [A# B c]
+=3 16 [E D# E] rest Eb rest [Dn Eb D]
+|
+=1 8. [g g# a]
+=2 16 [db c db] rest c rest [B c B]
+=3 8 D# 16 rest [E D# E] [F E D#] bass
+|
+=1 16 [bb a bb] rest a rest [g# a g#]
+=2 8 c 16 rest [db c c#] [dn c# cn]
+=3 8. f# 16 rest 8 f# [f# 16 f#]
+
+/
+3 bars | 36 | 36 | 36 |
+|
+=1 8 a 16 rest [bb a bb] [bn bb a]
+=2 8. Eb 16 rest 8 Eb [Eb 16 Eb]
+=3 16 [f gb f] rest 8 f 16 rest 8 f
+|
+il0.6 .20 35
+=1 8. c 16 rest 8 c [c 16 c]
+=2 16 [D Eb D] rest 8 D 16 rest 8 D
+=3 16 [g# a g#] rest g# rest [g# a g#]
+|
+=1 16 [B c B] rest 8 B 16 rest 8 B
+=2 16 [F Gb F] rest F rest [F Gb F]
+=3 1 a
+
+|
+=1 16 [d eb d] rest d rest [d eb d]
+=2 1 F#
+=3 16 [b c~ b] rest b rest [b c~ b]
+|
+=1 1 eb
+=2 16 [G# A G#] rest G# rest [G# A G#]
+=3 8 c~ 16 rest [d~b c~ d~b] 8 c~ treble 16 rest
+|
+=1 16 [f gb f] rest f rest [f gb f]
+=2' 8 A 16 rest [Bb A Bb] 8 A 16 rest
+=3 8. [C# D Eb]
+
+/
+3 bars | 36 | 4 4 4 4 4 4 4 4 6 | 36 |
+|
+il0.7 .16 40
+=1 8 f# 16 rest [g f# g] 8 f# 16 rest
+=2' 8. [A# B c]
+=3 16 [E D# E] rest Eb rest [Dn Eb D]
+|
+=1 8. [g g# a]
+=2 16 [db c db] rest c rest [B c B]
+=3 8 D# 16 rest [E D# E] [F E D#] bass
+|
+=1 16 [bb a bb] rest a rest [g# a g#]
+=2 8 c 16 rest [c# cn c#] [d c# cn]
+=3 8. f# 16 rest 8 f# [f# 16 f#]
+
+/
+3 bars | 36 | 36 | 36 |
+|
+=1 8 a 16 rest [bb a bb] [bn bb a]
+=2 8. Eb 16 rest 8 Eb [Eb 16 Eb]
+=3 16 [f gb f] rest 8 f 16 rest 8 f
+|
+=1 8. c 16 rest 8 c [c 16 c]
+=2 16 [D Eb D] rest 8 D 16 rest 8 D
+=3 16 [g# a g#] rest g# rest [g# a g#]
+|
+il0.6 .20 45
+=1 16 [B c B] rest 8 B 16 rest 8 B
+=2 16 [F Gb F] rest F rest [F Gb F]
+=3 1 a
+
+5 systems / 19-20-19-22-19 / 19-22-19-24-19 \
+ / 19-21-19-25-19 / 19-22-19-23-19 / 19-22-19-23-19 /
+pagenum
+innerhead Canon  at nine semitones
+leftfoot (c) 2010 Peter J Billam
+
+|
+=1 16 [d eb d] rest d rest [d eb d]
+=2 1 Gb
+=3 8. b 16 [b a# b] rest 8 b
+|
+=1 1 eb
+=2 8. Ab 16 [Ab G Ab] rest 8 Ab
+=3 16 [f gb f] rest f rest [f gb ab]
+|
+=1 8. f 16 [f e f] rest 8 f
+=2 16 [D Eb D] rest D rest [D Eb F]
+=3 16 [bb c~ bb] rest bb rest [bb c~ bb]
+
+|
+=1 16 [B c B] rest B rest [B c d]
+=2 16 [G A G] rest G rest [G A G]
+=3 8. e 16 [e f e] 16 rest 8 e
+|
+il0.7 .25 50
+=1 16 [e f# e] rest e rest [e f# e]
+=2 8. C# 16 [C# D C#] 16 rest 8 C#
+=3 4. a 16 [a g# f#]
+|
+=1 8. A# 16 [A# B' A#] 16 rest 8 A#
+=2 4. Gb 16 [Gb F Eb]
+=3 16 [d# e d#] rest eb rest [eb f gb]
+
+|
+=1 4. eb 16 [eb d c]
+=2 16 [C Db C] rest C rest [C Dn Eb]
+=3 8. ab 16 [ab g ab] rest 8 ab
+|
+=1' 16 [A Bb A] rest A rest [A Bn c]
+=2 8. F 16 [F E F] rest 8 F
+=3' 4. d 16 [d c# d]
+|
+=1 8. d 16 [d c# d] rest 8 d
+=2 4. B_ 16 [B_ A_# B_]
+=3 16 [e f e] [f gb f] [e f e]
+
+|
+il0.4 .20 55
+=1 4. Ab 16 [Ab G Ab]
+=2 16 [C# D C#] [D Eb D] [C# D C#]
+=3 16 [f gb f] rest f rest [f gb f]
+|
+=1 16 [A# B' A#] [B, c B,] [A# B' A#]
+=2 16 [D Eb D] rest D rest [D Eb D]
+=3 8 f# 16 rest [g f# g] 8 f# 16 rest
+|
+=1 16 [B c B] rest B rest [B c B]
+=2 8 D# 16 rest [E D# E] 8 D# 16 rest
+=3 8. [g g# a]
+
+/
+3 bars | 36 | 36 | 4 4 4 4 4 4 4 4 6 |
+|
+=1 8 c 16 rest [db c db] 8 c 16 rest
+=2 8. [E F Gb]
+=3 16 [bb a bb] rest a rest [g# a g#]
+|
+=1 8. [c# d eb]
+=2 16 [G F# G] rest F# rest [Fn Gb F]
+=3 8 a 16 rest [bb a bb] [bn bb a]
+|
+il0.6 .20 60
+=1 16 [e d# e] rest eb rest [dn eb d]
+=2 8 F# 16 rest [G F# G] [Ab G F#] bass
+=3 8. c 16 rest 8 c [c 16 c]
+
+5 systems / 19-22-19-20-19 / 19-22-19-23-19 \
+ / 19-22-19-23-19 / 19-23-19-22-19 / 19-23-19-23-19 /
+pagenum
+innerhead Canon  at nine semitones
+leftfoot (c) 2010 Peter J Billam
+
+|
+=1 8 d# 16 rest [e d# e] [f e d#]
+=2 8. a 16 rest 8 a [a 16 a]
+=3 16 [B c' B] rest 8 B 16 rest 8 B
+|
+=1 8. Gb 16 rest 8 Gb [Gb 16 Gb]
+=2 16 [g# a g#] rest 8 g# 16 rest 8 g#
+=3 16 [d eb d] rest d rest [d eb d]
+|
+=1 16 [F Gb F] rest 8 F 16 rest 8 F
+=2 16 [b c~ b] rest b rest [b c~ b]
+=3 1 eb
+
+/
+3 bars | 36 | 36 | 36 |
+|
+=1 16 [G# A G#] rest G# rest [G# A G#]
+=2 1 c~ treble
+=3 16 [f gb f] rest f rest [f a c~#]
+|
+il0.4 .20 65
+=1 1 A
+=2' 16 [D Eb D] rest D rest [D F# A#]
+=3 8 f# 16 rest [g f# g] 8 f# 16 rest
+|
+=1 16 [B c B] rest B rest [B eb g]
+=2 8 D# 16 rest [E D# E] 8 D# 16 rest
+=3 8. [g g# a]
+
+/
+3 bars | 36 | 36 | 4 4 4 4 4 4 4 4 6 |
+|
+=1 8 c 16 rest [db c db] 8 c 16 rest
+=2 8. [E F F#]
+=3 16 [bb a bb] rest a rest [g# a g#]
+|
+=1 8. [c# d eb]
+=2 16 [G F# G] rest F# rest [Fn Gb F]
+=3 8 a 16 rest [bb a bb] [bn bb a]
+|
+=1 16 [e d# e] rest eb rest [dn eb d]
+=2 8 F# 16 rest [G F# G] [G# Gn F#] bass
+=3 8. c 16 rest 8 c [c 16 c]
+
+/
+3 bars | 36 | 36 | 36 |
+|
+il0.4 .16 70
+=1 8 d# 16 rest [e d# e] [f e d#]
+=2 8. a 16 rest 8 a [a 16 a]
+=3 16 [B c' B] rest 8 B 16 rest 8 B
+|
+=1 8. Gb 16 rest 8 Gb [Gb 16 Gb]
+=2 16 [g# a g#] rest 8 g# 16 rest 8 g#
+=3 16 [d eb d] rest d rest [d eb d]
+|
+=1 16 [F Gb F] rest 8 F 16 rest 8 F
+=2 16 [b c~ b] rest b rest [b c~ b]
+=3 1 eb
+
+|
+=1 16 [G# A G#] rest G# rest [G# A G#]
+=2 1 c~ treble
+=3 16 leg95 rest d# rest [e f e] [d# e d#]
+
+|
+=1 1 A
+=2 16 leg95 rest C rest [C# D C#] [Cn Db C]
+=3 16 leg95 [e f e] [f gb f] [e rest e]
+
+|
+il0.9 .22 75
+=1' 16 leg95 rest A rest [A# B A#] [An Bb A]
+=2 16 leg95 [C# D C#] [D Eb D] [C# rest, C#]
+=3 16 leg95 rest f rest [gb f gb] [f rest' f]
+
+5 systems / 19-22-19-22-19 / 19-22-19-25-19 \
+ / 19-22-19-25-19 / 19-22-19-25-19 / 19-21-19-25-19 /
+pagenum
+innerhead Canon  at nine semitones
+leftfoot (c) 2010 Peter J Billam
+
+|
+=1 16 leg95 [A# B' A#] [B c B] [A# rest A#]
+=2 16 leg95 rest D rest [Eb D Eb] [D rest, D]
+=3 16 [gb f gb] 16 rest 8 gb 16 [gb f g#]
+
+|
+=1 16 leg95 rest B rest [c B c] [B rest B]
+=2 16 [Eb D Eb] 16 rest 8 Eb 16 [Eb D F]
+=3 4. a 16 [a bb c~]
+
+|
+=1 16 [c B c] 16 rest 8 c 16 [c B d]
+=2 4. F# 16 [F# G A]
+=3 8. d~ 16 [d~ e~b d~] rest 8 d~
+
+|
+=1 4. d# 16 [d# e f#]
+=2 8. B 16 [B c B] rest 8 B
+=3 16 [g# a g#] rest g# rest [g# a g#]
+
+|
+il0.7 .17 80
+=1 8. g# 16 [g# a g#] rest 8 g#
+=2 16 [F Gb F] rest F rest [F Gb F]
+=3 4. d~b 16 [d~b c~ bb]
+
+|
+=1 16 [d e d] rest d rest [d e d]
+=2' 4. Bb 16 [Bb A G]
+=3 8. g 16 [g f# g] rest 8 g
+
+|
+=1 4. g 16 [eb f eb]
+=2 8. E 16 [F# G# F#] rest Gn rest
+=3 16 [a b a] rest a# rest 16 [b a# b]
+|
+=1 16 rest e rest 16 [f e f] 8. f#
+=2' 16 [Ab G Ab] 8. An 16 [Bb A Bb(2]
+=3, 8. c~ 16 [d~b c~ d~b(1] 8 [d~b)1 16 f]
+|
+=1 16 [g f# g(1] 8 [g)1 16 B,] 8. A#(2
+=2' 8 [Bb)2 16 D] 8. C#(2 16 [C#)2 D Eb]
+=3, 8. e(1 16 [e)1 f gb] rest ab rest
+|
+il0.7 .40 85
+=1 16 [A#)2 B' c'] 8. d 16 [d c# d]
+=2 8. F 16 [F E F] rest G rest
+=3, 16 [ab g ab] rest bb rest 16 [bn a# b]
+|
+=1 16 rest e rest 16 [f e f] 8. g(1
+=2' 16 [Ab G Ab] 8. Bb(2 16 [Bb)2 Ab Bb(2]
+=3, 8. d~b(1 16 [d~b)1 c~ d~b(1] 8 [d~b)1 16 f]
+|
+=1 16 [g)1 f# g(1] 8 [g)1 16 B,] 8. A#(2
+=2' 8 [Bb)2 16 D] 8. C#(2 16 [C#)2 D Eb]
+=3, 8. e(1 16 [e)1 f gb] rest ab rest
+|
+=1 16 [A#)2 B' c'] rest d rest 16 [d c# d]
+=2 16 rest F rest 16 [F E F] 8. G
+=3, 16 [ab g ab] 8. bb 16 [bn c~ c~#]
+|
+=1 8. e 16 [f f# g] 8. ab(1
+=2' 16 [G# A A#] 8. B(2 16 [B)2 A# B(2]
+=3, 8. d~(1 16 [d~)1 c~# d~(1] 8. d~)1
+|
+il0.9 .10 90
+=1 16 [ab)1 g ab(1] 8. ab)1 8 [g 16 Bb,]
+=2' 8. B)2 8 [A# 16 C#] 8. D
+=3, 8 [c~# 16 e] 8. f 16 [b c~n c~#]
+
+5 systems / 19-22-19-25-19 / 19-20-19-25-19 \
+ / 19-21-19-25-19 / 19-22-19-24-19 / 19-21-19-27-19 /
+pagenum
+innerhead Canon  at nine semitones
+leftfoot (c) 2010 Peter J Billam
+
+|
+=1 8. B 16 [f f# g] 8. ab
+=2' 16 [G# A A#] 8. B 16 rest [A_# B_(2]
+=3  8. d~ 16 rest [c# d'(2] 8. d')2
+|
+=1' 16 rest [G G#(2] 8. G#)2 8 [A 16 Bb]
+=2' 8. B_)2 8 [C 16 C#] 8. D
+=3, 8 [d# 16 e] 8. f 16 [b c~ c~#]
+|
+=1 8. B 16 [f f# g] 8. ab
+=2' 16 [G# A A#] 8. B 16 rest [A_# B_(2]
+=3 8. d~ 16 rest [c# d'(2] 8. d')2
+|
+=1' 16 rest [G G#(2] 8. G#)2 8 [A 16 Bb]
+=2 8. B_)2 8 [C 16 C#] 8. D(2
+=3, 8 [d# 16 e] 8. f(1 16 [f)1 e f]
+
+# four of 5-beat 0 4 3 8 7
+|
+il0.7 .14 95
+=1 8. B'(2 16 [B')2 A# B'] 8. A#
+=2 16 [D)2 C# D] 8. C# F
+=3 8. e ab 16 [g ab bb]
+|
+=1 8. d 16 [c# d e] 8. gb
+=2 16 [E F G] 8. A G#
+=3 8. c~ b e
+|
+=1 8. f Bb d
+=2 8. C# F  16 [E F G]
+=3 8. ab 16 [g ab bb] 8. c~
+|
+=1 16 [c# d e] 8. gb 8. f
+=2 8. A G# 16 [C# D# E]
+=3 8. b 16 [e f# g] 8. ab
+|
+=1 16 [Bb c c#] 8. d 16 [c# d e]
+=2 8. F 16 [E F G] 8. A
+=3 16 [g ab bb] 8. c~ bn
+
+|
+il0.7 .15 100
+=1 8. gb 8. f 16 [Bb c c#]
+=2 8. G# 16 [C# D# E]  [F rest, F]
+=3 16 [e f# g] [ab rest' ab] [g ab bb]
+|
+=1 16 [d rest d] [c# d e] 8. gb
+=2 16 [E F G] 8. A 16 rest 8 G#
+=3 8. c~ 16 rest 8 b 16 [a# b c~#]
+# a=0 b=5 c=4 d=6, a=0 b=5 c=4 d=7, a=0 b=5 c=4 d=8, a=0 b=5 c=4 d=9
+|
+=1 8. 16 rest 8 f 16 [e f g] 8. a
+=2 16 [G Ab Bb'] 8. c B
+=3 8. e~b d~ 16 [e~n f~ e~]
+
+|
+=1 8. g# 16 [a# b a#] [e f gn]
+=2 16 [c# d c#] [G Ab Bb'] 8. cn
+=3 16 [a# b c~#] 8. e~b 16 rest 8 d~
+|
+=1 8. a 16 rest 8 g# 16 [b c~ b]
+=2 8. 16 rest 8 B 16 [d eb d] [G Ab Bb']
+=3 16 [f~ g~b f~] [a# b c~#] 8. e~b
+|
+il0.8 .07 105
+=1 16 [e f g] 8. a 16 rest 8 g#
+=2 8. c 16 rest 8 B 16 [d# e d#]
+=3 8. 16 rest 8 d~ 16 [f~# g~ f~#] [a# b c~#]
+
+4 systems / 19-25-19-30-19 / 19-30-19-35-19 \
+ / 19-30-19-35-19 / 19-30-19-35-19 10 /
+pagenum
+innerhead Canon  at nine semitones
+leftfoot (c) 2010 Peter J Billam
+
+/
+3 bars | 36 | 36 | 36 |
+|
+=1 8. c~ 16 [e f g] 8. ab
+# =2 16 [G Ab Bb'] 8. c B
+=2' 16 [G G# A#] 8. B E
+# =3 8. e~b d~ f#
+=3 8. d~ g 8 rest 16 f#
+
+# two of 3 beats
+|
+# =1 8. g# 8. c 16 [F rest, Gn]
+=1 8. db 8 rest 16 c 16 [F rest, G]
+=2 8. 8 rest 16 D# 16 [G_# rest,, B_b] [C rest, D]
+=3 16 [B rest, c#'] [eb rest' f] 8 g 16 rest
+|
+=1 16 [A rest B'] 8 c# 16 rest [F# G# A]
+=2 8 E 16 rest [A_ B_' C'] [C# D# E]
+=3 16 [c d' d#'] [e f# g] 8 g# 16 rest
+
+# 9b
+
+/
+3 bars | 9/16 108 | 108 | 108 |
+| .14 .12 .13 .14 .12 .13 .14 .12 .13
+=1  16 [Bb c c#] [d 8 c#] 16 [eb d c#]
+=2  16 [F E F] 8 [E 16 Gb] [F E G#]
+=3  16 [g ab g(1] [g)1 an ab] [g b d~#]
+|
+il0.9 .03 110
+=1  16 [f a c~#] rest' [d~ c~#] 16 [e~b d~ c~#]
+=2  16 [c e] rest' 16 [f e 16 gb] [f e G#,]
+=3  16 [g~ rest'' a~b] [g~ a~n a~b] [g~ b e~b]
+
+|
+=1  16 [f a c#] rest [d c#] 16 [eb d c#]
+=2  16 [c' E] rest [F E 16 Gb] [F E G_#]
+=3  16 [g rest' ab] [g an ab] [g B, d#]
+|
+=1 16 [F A C#] rest [D C#] 16 [Eb D C#]
+=2 16 [C E_] rest,, [F_ E_ 16 G_b] [F_ E_ G_#]
+=3' 16 [G rest, Ab] [G An Ab] [G B eb]
+
+|
+=1  16 [F A c#'] rest [d c#] 16 [f a c~#]
+=2  16 [C E] rest [F E 16 G#] [c e f]
+=3  16 [g rest' ab] [g b d~#] [g~ a~b g~]
+|
+=1  16 [d~ c~#] rest 16 [f a c#] rest [d  c#]
+=2  16 [e rest G#,] [c' E] rest [F E 16 G_#]
+=3  16 rest' [b e~b] [g rest' ab] [g B, d#]
+
+/
+4 bars | 4 5 4 5 4 4 5 5 4 | 5 4 4 5 4 4 5 4 4 | 5 5 4 4 5 5 5 4 4  | 11 ||
+|
+il0.7 .25 115
+=1 16 [F A C#] rest 16 [D F] [A, c# c~#]
+=2 16 [C E_] rest, [F_ G_# C] [E e' f']
+=3  16 [G rest, Ab] [B, eb g] [g~ a~b g~]
+|
+=1 16 [d~ c~# f] [a c# c~#] [d~ c~# f] 
+=2 16 [e G#, c] [E e' f'] [e G#, c]
+=3  16 [b e~b g] [g~ a~b g~] [b e~b g]
+|
+#=1 16 [a c# c~#] [f a c~#] [c# c~# c#]
+=1 16 [a c# c~#] [f a c~#] [c# c~# g]
+# =2 16 [E e' G#] [c' e' E] [e' E e']
+=2 16 [E e' G#] [c' e' E] [e' Bb' E]
+# =3 16 [g~ b e~b] [g~ g g~] [g g~ g]
+=3 16 [g~ b e~b] [g~ g g~] [c~# g G,]
+|
+=1 1 c#
+=2 1 E_
+# =2 16 E 8 F(2 4. F)2
+# =3 16 g# 8 G#(2 4. G)2
+=3 1 C#
+# =3 1 c~#

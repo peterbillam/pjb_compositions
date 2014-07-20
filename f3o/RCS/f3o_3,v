@@ -1,0 +1,1681 @@
+head	1.17;
+access;
+symbols;
+locks
+	pjb:1.17; strict;
+comment	@# @;
+
+
+1.17
+date	2012.03.12.02.40.40;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2012.03.07.07.08.38;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2012.03.06.09.43.11;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2012.03.06.09.23.48;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2012.03.06.08.46.29;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2012.03.06.05.41.25;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2012.03.05.08.26.19;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2012.03.05.07.46.56;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2012.03.05.07.16.57;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2012.03.04.22.30.10;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2012.03.04.10.44.06;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2012.03.04.07.07.08;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2012.03.04.06.47.14;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2012.03.02.08.17.52;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2012.02.25.04.33.06;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2012.02.24.06.35.42;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.01.26.04.18.32;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@binary 3rd mvt. the order could change...
+@
+
+
+1.17
+log
+@tweakings round bars 35
+@
+text
+@5 systems 25 / 19 25 19 25 19 / 19 25 19 24 19 \
+ / 19 24 19 25 19  / 19 25 19 27 19 / 19 25 19 25 19 /
+pagenum 
+innerhead III, Flute Trio, Peter Billam
+title I I I
+leftfoot (c) 2011 Peter J Billam
+midi channel 0 patch 73 pan 50 reverb 75
+midi channel 1 patch 73 pan 05 reverb 75
+midi channel 2 patch 73 pan 95 reverb 75
+/
+4 bars | 13/16 3 3 3 3 3 3 3 4 3 3 3 3 3 | 8/16 24 | 13/16 39 | 39 |
+| 3.023
+=1 treble  13/16 cha0 vol90 leg97 8. rest 8 [c# 8. d] 8. [c# 8 cn]
+=2' treble  13/16 cha1 vol90 leg97 8. rest 8 rest 8. G# 4 A 16 rest
+=3 treble  13/16 cha2 vol90 leg97 4.. F 16 rest 8. [F#(2 8 F)2]
+| 1.860
+=1' 8/16 8. [B(2 8 B)2] 8. A#
+=2 8/16 8. rest 8 [d# 8. e]
+=3 8/16 2 G
+| 3.023
+=1 13/16 4.. B 16 rest 8. [c(1 8 c)1]
+=2 13/16 8. [eb(1 8 e)1] 8. d 4 eb 16 rest
+=3' 13/16 8. [Ab 8 G 8. Ab] 8. [G 8 F#]
+| 3.023
+=1 4.. c# 16 rest 8. [d(1 8 d)1]
+=2 8. rest 8 [a 8. bb] 8. [a 8 g#]
+=3 8. [F(2 8 F)2] 8. E 8. [F(2 8 F)2]
+/
+4 bars | 8/16 4 4 4 4 4 4 4 3 | 13/16 4 4 4 4 4 4 4 5 4 4 4 4 3 \
+ | 8/16 4 4 4 4 4 4 4 3 | 13/16 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.860
+il0.5 .02 5
+=1  8/16 2 eb
+=2  8/16 8. [g(1 8 g)1] 8. f#
+=3  8/16 8. rest 8 [B 8. c]
+| 3.023
+=1 13/16 8. [e 8 d# 8. e] 8. [d# 8 dn]
+=2 13/16 4.. g 16 rest 8. [g#(1 8 g)1]
+=3 13/16 8. [B'(2 8 B')2] 8. A# 4 B' 16 rest
+| 1.860
+=1 8/16 8. [db(1 8 d)1] 8. c
+=2 8/16 2 a
+=3 8/16 8. rest 8 [F 8. Gb]
+| 3.023
+=1 13/16 4.. c# 16 rest 8. [d(1 8 d)1]
+=2 13/16 8. [bb 8 a 8. bb] 8. [a 8 ab]
+=3 13/16 8. [F(2 8 F)2] 8. E 4 F 16 rest
+/
+4 bars | 4 4 4 4 4 4 4 5 4 4 4 3 4 | 8/16 32 \
+ | 13/16 4 4 4 4 4 4 4 5.5 4 4 4 4 3 | 4 4 4 4 4 4 4 5 4 4 4 4 3 |
+| 3.023
+=1  4.. d# 16 rest 8. [e(1 8 e)1]
+=2  8. [g(1 8 g)1] 8. f# 4 g 16 rest
+=3  8. rest 8 [B 8. c] 8. [B 8 Bb]
+| 1.860
+il0.7 .04 10
+=1 8/16 2 f
+=2 8/16 8. rest 8 [c# 8. d]
+=3 8/16 8. [A(2 8 A)2] 8. G#
+| 3.023
+=1 13/16 8. [gb 8 f 8. gb] 8. [f 8 e]
+=2 13/16 8. [db(1 8 d)1] 8. c 4 db 16 rest
+=3' 13/16 4.. A 16 rest 8. [Bb(2 8 B)2]
+| 3.023
+=1 8. [eb(1 8 e)1] 8. d 4 eb 16 rest
+=2 8. rest 8 [G 8. Ab] 8. [G 8 F#]
+=3 4.. B 16 rest 8. [c(1 8 c)1]
+/
+4 bars | 8/16 3 3 3 3 3 3 3 2 | 13/16 3 3 3 3 3 3 3 3 3 3 3 3 2 \
+ | 8/16 3 3 3 3 4 3 3 3 | 13/16 3 3 4.5 3 3 3 3 3 3 3 4.5 3 2  |
+| 1.860
+=1  8/16 8. rest 8 [A 8. Bb']
+=2  8/16 8. [F(2 8 F)2] 8. E
+=3  8/16 2 c#
+| 3.023
+=1' 13/16 8. [A(2 8 A)2] 8. G# 4 A 16 rest
+=2 13/16 8 rest 16 [F 8 G F 16 E] 8 [F 16 G 8 A']
+=3 13/16 8. [d 8 c# 8. d] 8. [c# 8 cn]
+| 1.860
+il0.7 .04 15
+=1 8/16 8. [E 8 D# 8. E]
+=2 8/16 8 [G 16 A' 8 G] 8 [Ab 16 c']
+=3 8/16 4 B 16 rest 8. Bb
+| 3.023
+=1 13/16 8. [Eb(2 8 E)2] 8. D 4 Eb 16 rest
+=2 13/16 8 [c# 16 B 8 c# B 16 A#,] 8 [B 16 c# 8 d#]
+=3' 13/16 8. [Ab 8 G 8. Ab] 8. [G 8 F#]
+/
+3 bars | 5 4 6 5 4 5 4 6 5 4 5 5 4 \
+ | 8/16 5 4 6 4 6 5 4 4 | 13/16 5 4 5 5 4 5 4 6 5 4 5 5 4 |
+| 3.023
+=1  8 rest 16 [db 8 eb db 16 c] 8 [db 16 eb 8 f]
+=2  8. [Bb' 8 A 8. Bb'] 8. [A 8 Ab]
+=3  8. [F(2 8 F)2] 8. E 4 F 16 rest
+| 1.860
+=1 8/16 8 [eb 16 f 8 eb] 8 [en 16 f#]
+=2 8/16 4 G 16 rest 8. F#
+=3 8/16 8. [c 8 B 8. c]
+| 3.023
+=1 13/16 8 [g 16 a 8 g f# 16 g] 8 [g# 16 a# 8 b]
+=2 13/16 8. [E 8 D# 8. E] 8. [D# 8 Dn]
+=3' 13/16 8. [B'(2 8 B)2] 8. A# 4 B' 16 rest
+
+4 systems 25 / 19 25 19 25 19 / 19 24 19 28 19 \
+ / 19 24 19 28 19  / 19 23 19 28 19 /
+pagenum 
+innerhead III, Flute Trio, Peter Billam
+leftfoot (c) 2011 Peter J Billam
+/
+3 bars | 8/16 5 4 5 4 5 5 4 4 \
+ | 13/16 5 4 6 5 4 5 4 6 5 4 5 5 4 | 5 4 5 6 5 5 4 6 6 5 5 5 4 |
+| 1.860
+il0.9 .04 20
+=1  8/16 8 [a 16 g# 8 a] 8 [bb 16 c~]
+=2  8/16 4 C# 16 rest 8. c
+=3  8/16 8. rest 8 [F 8. Gb]
+| 3.023
+=1 13/16 8 [d~b 16 e~b 8 d~b c~ 16 d~b] 8 [d~n 16 e~b 8 f~]
+=2 13/16 8. [bb 8 a 8. bb] 8. [a 8 ab]
+=3 13/16 8. [F(2 8 F)2] 8. E 4 F 16 rest
+| 3.023
+=1 8 [g~ 16 f g ab] 8 [g 16 f] 16 [g ab g f e]
+=2 8. [g 8 c 8. B] 8. [c 8 Bb]
+=3 8 rest 16 [Eb 8 F Eb 16 D] 8 [Eb 16 F 8 G]
+/
+3 bars | 8/16 5 4 5 6 5 5 4 4 \
+ | 13/16 5 4 6 6 5 5 4 6 5 4 6 5 4 | 5 4 5 6 5 6 6 6 5 4 6 6 4 |
+| 1.860
+=1  8/16 8 [f 16 g a bb] 8 [a 16 bb]
+=2  8/16 8. [d 8 c# 8. d]
+=3  8/16 8 [A' 16 G 8 F] [E 16 F]
+| 3.023
+=1 13/16 8 [a 16 g a bb] 8 [c~ 16 bb] 8 [c~ 16 bb a g]
+=2 13/16 8 [c# 16 B 8 c# eb 16 f] 8 [eb 16 d 8 eb]
+=3 13/16 8. [G 8 F 8. G] 8. [A 8 G]
+| 3.023
+il0.6 .04 25
+=1 8 [f 16 gb f eb] [f gb ab] 8 [bb 16 c~ bb ab]
+=2 8 [d 16 c 8 d c 16 Bb] 8 [c 16 Bb 8 Ab,]
+#=3 8. [Ab 8 Bb' 8. Ab] 8. [Gb 8 F]
+=3 8. [G# 8 A# 8. G#] 8. [F# 8 Fn]
+/
+3 bars | 8/16 5 4 5 6 5 5 4 4 \
+ | 13/16 5 4 5 5 5 5 5 6 5 4 6 6 4 | 8/16 5 4 5 6 5 5 5 4 |
+| 1.860
+=1  8/16 8. [gb 8 ab 8. bb]
+=2  8/16 8 [Bb 16 c 8 d] 8 [db 16 c]
+#=3  8/16 8 [Eb 16 D Eb En] 8 [F 16 G]
+#=3  8/16 8 [D# 16 E F Gb] 8 [Ab 16 Gn]
+=3  8/16 8 [D# 16 E F F#] 8 [G 16 G#]
+| 3.023
+#=1 13/16 8 [b 16 bb a g] [a g a] 8 [bn 16 c~# d~ e~b]
+=1 13/16 8 [b 16 bb a g#] [a g# a] \
+ 8 [bb 16 c~ d~ e~b]
+=2 13/16 8. [c# 8 d# 8. c#] 8. [dn 8 B]
+=3 13/16 8 [A 16 G 8 F] [Eb 16 F] 8 [Gb 16 F 8 Gb]
+| 1.860
+=1 8/16 8. [e~ 8 e~b 8. d~]
+=2 8/16 8. [c 16 B A#,] [B c d]
+=3 8/16 8 [Ab 16 F# 8 G] 8 [Ab 16 An]
+/
+3 bars | 13/16 4 4 5 4 5 5 5 5 4 4 5 4 3 \
+ | 4 4 4 4 5 4 4 4 4 4 4 5 3 | 8/16 4 4 4 4 4 4 5 3 |
+| 3.023
+#=1  13/16 8 [d~b 16 c~ bb c~] 16 [d~b f# g#] 8 [bb 16 a bb c~]
+=1  13/16 8 [d~b 16 a# b c~] 16 [d~b f# g#] 8 [bb 16 an bb c~]
+=2  13/16 8 [e 16 c# 8 d#] [e 16 d#] 8 [e 16 d# 8 e]
+=3  13/16 8. [Bb' 8 G 8. F#] 8. [G 8 G#]
+| 3.023
+il1.2 .10 30
+=1 8 [e~b 16 d~ c~ d~] [e~b a b] 8 [c~ 16 a b c~]
+=2 16 [g B c d g] [a f g] [a B c d eb]
+=3' 8 [A 16 G 8 A] 8 [G 16 F] 8 [G 16 A 8 G]
+| 1.860
+=1 8/16 8 [b 16 a 8 b] 8 [a 16 b]
+=2 8/16 8 [f 16 e d e] [f B c#]
+=3' 8/16 16 [A C# D E G] [A G G#]
+
+5 systems 15 / 19 25 19 25 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19  / 19 25 19 25 19 / 19 25 19 25 19 /
+pagenum 
+innerhead III, Flute Trio, Peter Billam
+leftfoot (c) 2011 Peter J Billam
+/
+3 bars | 13/16 3 4 4 4 4 4 4 4 4 4 4 4 2 \
+ | 3 4 4 4 3 4 4 4 3 4 4 4 2 | 8/16 3 2 4 4 4 3 3 3 ||
+| 3.023
+=1  13/16 16 [c~# f f# g# c~#] [d~# b c~#] [d~# fn f# g# a]
+=2  13/16 8 [d# 16 c# 8 d#] 8 [c# 16 B] 8 [c# 16 d# 8 c#]
+=3'  13/16 8 [A 16 G# F# G#] [A Eb Fn] 8 [Gb 16 Eb F Gb]
+| 3.023
+=1 8 [b 16 a# g# a#] [b f gn] 8 [ab 16 f g ab]
+=2, 16 [eb G Ab Bb eb] [f db eb] [f G Ab Bb Bn]
+=3 8 [F 16 Eb 8 F] 8 [Eb 16 Db] 8 [Eb 16 F 8 Eb]
+| 1.860
+=1 8/16 8 [g 16 f 8 g] 8 [f 16 e]
+#=2 8/16 8 [db 16 A, Bb c] [db' G A(1]
+=2 8/16 8 [db 16 A, Bb c] 8 [db' 16 G#]
+#=3' 8/16 8 [F 16 Eb D Eb] 8 F 16 rest
+=3' 8/16 8. [F 8 En] 8 F 16 rest
+/
+3 bars | 13/16 4 4 4 4 4 4 4 4 4 4 4 3 4 \
+ | 8/16 32 | 13/16 4 4 5 4 4 4 4 4 4 4 5 4 4 |
+| 3.023
+il0.4 .15 35
+=1  13/16 cha0 vol90 leg97 8. [d 8 c# 8. d] 8. [c# 8 cn]
+=2' 13/16 cha1 vol90 leg97 8. [A'(2 8 A)2] 8. G# 4 A 16 rest
+=3  13/16 8 rest 16 [F 8 G F 16 E] 8 [F 16 G 8 A']
+| 1.860
+=1 8/16 4 B 16 rest 8. c
+=2 8/16 8. [E 8 D# 8. E]
+=3 8/16 8 [G 16 A' 8 G] 8 [Ab 16 G]
+| 3.023
+=1 13/16 8 [c# 16 B 8 c# B 16 A#,] 8 [B 16 c# 8 d#]
+=2 13/16 8. [Eb(2 8 E)2] 8. D 4 Eb 16 rest
+=3' 13/16 8. [Ab 8 G 8. Ab] 8. [G 8 Gb]
+/
+3 bars | 4 4 5 4 4 4 4 5 4 4 4 4 3 \
+ | 8/16 4 4 5 4 5 4 4 4 | 13/16 4 4 4 4 4 4 4 5 4 4 4 4 3 |
+| 3.023
+=1  8 rest 16 [db 8 eb db 16 c] 8 [db 16 eb 8 f]
+=2  8. rest 8 [a 8. bb] 8. [a 8 g#]
+=3  8. [F(2 8 F)2] 8. E 4 F 16 rest
+| 1.860
+=1 8/16 8 [eb 16 f 8 eb] 8 [en 16 f#]
+=2 8/16 4 g 16 rest 8. f#
+=3 8/16 8. rest 8 [B 8. c]
+| 3.023
+il0.4 .15 40
+=1 13/16 8. [e 8 d# 8. e] 8. [d# 8 dn]
+=2 13/16 8 [g 16 a 8 g f# 16 g] 8 [g# 16 a# 8 b]
+=3' 13/16 8. [B(2 8 B)2] 8. A# 4 B 16 rest
+/
+3 bars | 8/16 4 4 4 4 4 4 4 4 3 | 13/16 4 4 5 4 4 4 4 5 4 4 4 4 3 | 52 |
+| 1.860
+=1  8/16 4 db 16 rest 8. c
+=2  8/16 8 [a 16 g# 8 a] 8 [bb 16 c~]
+=3  8/16 8. rest 8 [F 8. Gb]
+| 3.023
+=1 13/16 8 [db 16 eb 8 db c 16 db] 8 [dn 16 eb 8 f]
+=2 13/16 8. [bb 8 a 8. bb] 8. [a 8 ab]
+=3 13/16 8. [F(2 8 F)2] 8. E 4 F 16 rest
+| 3.023
+=1 4.. eb 16 rest 8. [en(1 8 e)1]
+=2 8. [g(1 8 g)1] 8. f# 4 g 16 rest
+=3 8. rest 8 [B 8. c] 8. [B 8 Bb]
+/
+3 bars | 8/16 4 3 4 4 4 4 3 3 | 13/16 4 3 4 4 4 4 3 6 4 3 4 3 3 \
+ | 4 3 4 4 4 4 3 5 4 3 4 4 3 | 8/16 4 3 4 4 4 4 3 3 | 13/16 24 ||
+| 1.860
+=1  8/16 2 f
+=2  8/16 8. rest 8 [c# 8. d]
+=3  8/16 8. [A(2 8 A)2] 8. G#
+| 3.023
+il0.6 .22 45
+=1 13/16 8. [gb 8 f 8. gb] 8. [f 8 e]
+=2 13/16 8. [db(1 8 d)1] 8. c 4 db 16 rest
+=3 13/16 4.. A 16 rest 8. [A#(2 8 A)2]
+| 3.023
+=1 8. [eb(1 8 e)1] 8. d 4 eb 16 rest
+=2 8. rest 8 [G 8. Ab] 8. [G 8 Gb]
+=3 4.. B' 16 rest 8. [c(1 8 c)1]
+| 1.860
+=1 8/16 8. rest 8 [A 8. Bb']
+=2 8/16 8. [F(2 8 F)2] 8. E
+=3 8/16 2 c#
+| 3.023
+=1 1 A
+=2 1 F
+=3 1 d
+@
+
+
+1.16
+log
+@still much fussing over 25-26; try new 28
+@
+text
+@d152 3
+a154 1
+=1 13/16 8 [b 16 bb a g] [a g a] 8 [bn 16 c~# d~ e~b]
+d197 4
+a200 2
+=2 8/16 8 [db 16 A, Bb c] [db' G A(1]
+=3' 8/16 8 [F 16 Eb Db Eb] 8 F 16 rest
+d207 1
+a207 1
+=2'  13/16 cha1 vol90 leg97 8. [A')1(2 8 A)2] 8. G# 4 A 16 rest
+d248 2
+a249 3
+3 bars | 8/16 4 3 4 4 4 4 3 3 \
+ | 13/16 4 3 4 4 4 4 3 6 4 3 4 3 3 \
+       | 4 3 4 4 4 4 3 5 4 3 4 4 3 | 8/16 4 3 4 4 4 4 3 3 | 13/16 24 ||
+d262 1
+a262 1
+=3 4.. B 16 rest 8. [c(1 8 c)1]
+@
+
+
+1.15
+log
+@horizontal spacing
+@
+text
+@d1 2
+a2 1
+5 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 / 19 25 19 25 19  / 19 25 19 25 19 / 19 25 19 25 19 /
+d29 2
+a30 1
+4 bars | 8/16 8 | 13/16 13 | 8/16 8 | 13/16 13 |
+d49 2
+a50 1
+4 bars | 52 | 8/16 32 | 13/16 4 4 4 4 4 4 4 5 4 4 4 4 3 | 52 |
+d104 2
+a105 2
+4 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19  / 19 25 19 25 19 /
+d141 1
+a141 1
+=3 8. [G# 8 A# 8. G#] 8. [F# 8 E]
+d147 1
+a147 1
+=2  8/16 8 [Bb 16 c 8 d] 8 [c 16 dn]
+d158 1
+a158 1
+=3 8/16 8 [G 16 F# 8 G] 8 [G# 16 A']
+@
+
+
+1.14
+log
+@more hesitation round 25-28
+@
+text
+@d10 1
+a10 1
+4 bars | 13/16 13 | 8/16 8 | 13/16 13 | 13 |
+d47 1
+a47 1
+4 bars | 13 | 8/16 8 | 13/16 13 | 13 |
+d66 2
+a67 1
+4 bars | 8/16 8 | 13/16 13 | 8/16 8 | 13/16 13 |
+d86 2
+a87 1
+3 bars | 13 | 8/16 8 | 13/16 13 |
+d107 2
+a108 1
+3 bars | 8/16 8 | 13/16 13 | 13 |
+d123 2
+a124 1
+3 bars | 8/16 8 | 13/16 13 | 13 |
+d140 2
+a141 1
+3 bars | 8/16 8 | 13/16 13 | 8/16 8 |
+d157 2
+a158 1
+3 bars | 13/16 13 | 13 | 8/16 8 |
+d195 2
+a196 1
+3 bars | 13/16 13 | 8/16 8 | 13/16 13 |
+d211 2
+a212 1
+3 bars | 13 | 8/16 8 | 13/16 13 |
+d227 1
+a227 1
+3 bars | 8/16 8 | 13/16 13 | 13 |
+@
+
+
+1.13
+log
+@much fumbling round 25 and 26...
+@
+text
+@d36 1
+a36 1
+=2 13/16 4.. g 16 rest 8. [ab(1 8 a)1]
+d44 1
+a44 1
+=2 13/16 8. [bb 8 a 8. bb] 8. [a 8 g#]
+d133 2
+a134 1
+=3 8. [Ab 8 Bb' 8. Ab] 8. [Gb 8 F]
+d149 1
+a149 1
+=2 8/16 8. [c 16 B c] [B c d]
+d174 2
+a175 1
+3 bars | 13/16 13 | 13 | 8/16 8 ||
+d186 1
+a186 1
+=2 8/16 8 [db 16 c Bb c] [db' G A(1]
+d193 1
+a193 1
+=2'  13/16 cha1 vol90 leg97 8. A')1 8 rest 8. G# 4 A 16 rest
+d216 1
+a216 1
+=2 13/16 8 [g 16 a 8 g f# 16 g] 8 [g# 16 a# 8 bn]
+d233 3
+a235 1
+3 bars | 8/16 8 | 13/16 13 | 13 | 8/16 8 | 13/16 6 ||
+@
+
+
+1.12
+log
+@moved from 4+16 to 8.+8 for better leagato
+@
+text
+@d131 3
+a133 3
+=1 8 [f 16 gb f eb] [f gb ab] 8 [bb 16 an gn fn]
+=2 8 [d 16 c 8 db c 16 Bb] 8 [c 16 db 8 eb]
+=3 8. [Ab 8 Bb' 8. Ab] 8. [G 8 F]
+d137 5
+a141 3
+=1  8/16 8. [g 8 ab 8. bb]
+=2  8/16 8 [db 16 c 8 Bb] 8 [c 16 dn]
+=3  8/16 8 [Eb 16 D Eb En] 8 [F 16 G]
+d144 1
+a144 1
+=2 13/16 8. [c# 8 B 8. c#] 8. [d 8 B]
+d153 3
+a155 2
+=1  13/16 8 [d~b 16 c~ bb c~] 16 [d~b f# g#] 8 [bb 16 a bb c~]
+=2  13/16 8 [e 16 c# 8 d#] [e 16 d#] 8 [e 16 c# 8 d#]
+d224 1
+a224 1
+=2 13/16 8. [bb 8 a 8. bb] 8. [a 8 g#]
+@
+
+
+1.11
+log
+@down 2 semitones; plausible
+@
+text
+@d14 1
+a14 1
+=3 treble  13/16 cha2 vol90 leg97 2 F 4 F# 16 rest
+d16 2
+a17 2
+=1 8/16 4 B 16 rest 8. Bb
+=2 8/16 8. rest 8 [eb 8. en]
+d20 3
+a22 3
+=1 13/16 2 B 4 c 16 rest
+=2 13/16 4 eb 16 rest 8. d 4 eb 16 rest
+=3' 13/16 8. [G# 8 Gn 8. G#] 8. [Gn 8 F#]
+d24 1
+a24 1
+=1 2 c# 4 d 16 rest
+d26 1
+a26 1
+=3 4 F 16 rest 8. E 4 F 16 rest
+d30 1
+a30 1
+il0.7 .04 5
+d32 1
+a32 1
+=2  8/16 4 g 16 rest 8. f#
+d35 3
+a37 3
+=1 13/16 8. [e 8 eb 8. en] 8. [eb 8 d]
+=2 13/16 2 g 4 g# 16 rest
+=3 13/16 4 B 16 rest 8. Bb 4 Bn 16 rest
+d39 1
+a39 1
+=1 8/16 4 c# 16 rest 8. cn
+d41 1
+a41 1
+=3 8/16 8. rest 8 [F 8. F#]
+d43 1
+a43 1
+=1 13/16 2 c# 4 d 16 rest
+d45 1
+a45 1
+=3 13/16 4 F 16 rest 8. E 4 F 16 rest
+d49 2
+a50 2
+=1  2 eb 4 en 16 rest
+=2  4 g 16 rest 8. f# 4 g 16 rest
+d56 5
+a60 1
+=3 8/16 4 A' 16 rest 8. G#
+d62 3
+a64 7
+=1 13/16 8. [f# 8 fn 8. f#] 8. [fn 8 e]
+=2 13/16 4 c# 16 rest 8. cn 4 c# 16 rest
+=3 13/16 2 A 4 Bb 16 rest
+| 3.023
+=1 4 eb 16 rest 8. d 4 eb 16 rest
+=2 8. rest 8 [G 8. G#'] 8. [Gn 8 F#]
+=3 2 B 4 c 16 rest
+d69 1
+a69 1
+=2  8/16 4 F 16 rest 8. E
+d72 1
+a72 1
+=1' 13/16 4 A 16 rest 8. G# 4 A 16 rest
+d77 2
+a78 2
+=1 8/16 8. [E 8 Eb 8. En]
+=2 8/16 8 [G 16 A' 8 G] 8 [G# 16 c']
+d81 3
+a83 3
+=1 13/16 4 Eb 16 rest 8. D 4 Eb 16 rest
+=2 13/16 8 [c# 16 B 8 c# B 16 Bb] 8 [Bn 16 c# 8 eb]
+=3' 13/16 8. [G# 8 Gn 8. G#] 8. [Gn 8 F#]
+d87 3
+a89 3
+=1  8 rest 16 [c# 8 eb c# 16 cn] 8 [c# 16 eb 8 f]
+=2  8. [Bb' 8 A 8. Bb'] 8. [A 8 G#]
+=3  4 F 16 rest 8. E 4 F 16 rest
+d95 3
+a97 3
+=1 13/16 8 [g 16 a 8 g f# 16 g] 8 [g# 16 bb 8 bn]
+=2 13/16 8. [E 8 Eb 8. En] 8. [Eb 8 D]
+=3 13/16 4 B 16 rest 8. Bb 4 Bn 16 rest
+d110 1
+a110 1
+=3  8/16 8. rest 8 [F 8. F#]
+d113 2
+a114 2
+=2 13/16 8. [bb 8 a 8. bb] 8. [a 8 g#]
+=3 13/16 4 F 16 rest 8. E 4 F 16 rest
+d116 1
+a116 1
+=1 8 [g~ 16 f g g#] 8 [gn 16 f] 16 [g g# gn f e]
+d127 2
+a128 2
+=2 13/16 8 [c# 16 cn 8 d eb 16 d] 8 [eb 16 d 8 eb]
+=3 13/16 8. [G 8 F 8. G] 8. [A' 8 G]
+d131 2
+a132 2
+=1 8 [f 16 f# fn eb] [f f# g#] 8 [bb 16 a gn fn]
+=2 8 [d 16 c 8 db c 16 Bb] 8 [c 16 dn 8 eb]
+d143 1
+a143 1
+=3 13/16 8 [Ab 16 G 8 F] [Eb 16 F] 8 [Gb 16 F 8 Gb]
+d174 1
+a174 1
+=3'  13/16 8 [A 16 G# F# G#] [A Eb Fn] 8 [F# 16 Eb Fn F#]
+d178 1
+a178 1
+=3 8 [F 16 Eb 8 F] 8 [Eb 16 C#] 8 [Eb 16 F 8 Eb]
+d182 1
+a182 1
+=3' 8/16 8 [F 16 Eb C# Eb] 8 F 16 rest
+d195 3
+a197 3
+=1 13/16 8 [c# 16 B 8 c# B 16 A#,] 8 [B 16 c# 8 d#
+=2 13/16 4 Eb 16 rest 8. D 4 Eb 16 rest
+=3' 13/16 8. [Ab 8 G 8. Ab] 8. [G 8 F#]
+d203 1
+a203 1
+=3  4 Fn 16 rest 8. E 4 F 16 rest
+d210 1
+a210 1
+=1 13/16 8. [e 8 d# 8. e] 8. [eb 8 d]
+d212 1
+a212 1
+=3 13/16 4 B 16 rest 8. A# 4 B 16 rest
+d222 1
+a222 1
+=3 13/16 4 F 16 rest 8. E 4 F 16 rest
+d224 2
+a225 2
+=1 2 eb 4 en 16 rest
+=2 4 g 16 rest 8. f# 4 g 16 rest
+d232 1
+a232 1
+=3  8/16 4 A 16 rest 8. G#
+d234 1
+a234 1
+il0.6 .15 45
+d236 2
+a237 2
+=2 13/16 4 db 16 rest 8. c 4 db 16 rest
+=3 13/16 2 A 4 Bb 16 rest
+d239 3
+a241 3
+=1 4 eb 16 rest 8. d 4 eb 16 rest
+=2 8. rest 8 [G 8. Ab] 8. [G 8 F#]
+=3 2 B 4 c 16 rest
+d244 1
+a244 1
+=2 8/16 4 F 16 rest 8. E
+@
+
+
+1.10
+log
+@eliminate binary stuff, reduce speed slightly
+@
+text
+@d1 1
+a1 3
+5 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19 / 19 25 19 25 19 /
+# see ~/muz/201202/03_1400.wav and pages 44-45 of book AJ
+d12 7
+a18 7
+=1 treble 13/16 cha0 vol90 leg97 8. rest 8 [d# 8. e] 8. [d# 8 dn]
+=2' treble 13/16 cha1 vol90 leg97 8. rest 8 rest 8. A# 4 B 16 rest
+=3 treble 13/16 cha2 vol90 leg97 2 G 4 G# 16 rest
+| 1.860
+=1 8/16 4 c# 16 rest 8. cn
+=2 8/16 8. rest 8 [f 8. gb]
+=3 8/16 2 A
+d20 3
+a22 3
+=1 13/16 2 c# 4 d 16 rest
+=2 13/16 4 f 16 rest 8. e 4 f 16 rest
+=3' 13/16 8. [Bb 8 A 8. Bb] 8. [A 8 G#]
+d24 3
+a26 3
+=1 2 d# 4 e 16 rest
+=2 8. rest 8 [b 8. c~] 8. [b 8 bb]
+=3 4 Gn 16 rest 8. F# 4 G 16 rest
+d30 12
+a41 3
+=1 8/16 2 f
+=2 8/16 4 a 16 rest 8. g#
+=3 8/16 8. rest 8 [c# 8. d]
+d43 3
+a45 11
+=1 13/16 8. [gb 8 f 8. gb] 8. [f 8 e]
+=2 13/16 2 a 4 a# 16 rest
+=3 13/16 4 db 16 rest 8. c 4 db 16 rest
+| 1.860
+=1 8/16 4 eb 16 rest 8. d
+=2 8/16 2 b
+=3 8/16 8. rest 8 [G 8. Ab]
+| 3.023
+=1 13/16 2 d# 4 e 16 rest
+=2 13/16 8. [c~ 8 b 8. c~] 8. [b 8 bb]
+=3 13/16 4 G 16 rest 8. F# 4 G 16 rest
+d49 8
+a56 7
+=1 2 f 4 f# 16 rest
+=2 4 a 16 rest 8. g# 4 a 16 rest
+=3 8. rest 8 [c# 8. d] 8. [c# 8 cn]
+| 1.860
+=1 8/16 2 g
+=2 8/16 8. rest 8 [d# 8. e]
+=3 8/16 4 B' 16 rest 8. A#
+d58 7
+a64 7
+=1 13/16 8. [ab 8 g 8. ab] 8. [g 8 gb]
+=2 13/16 4 eb 16 rest 8. d 4 eb 16 rest
+=3 13/16 2 B 4 c 16 rest
+| 3.023
+=1 4 f 16 rest 8. e 4 f 16 rest
+=2 8. rest 8 [A 8. Bb'] 8. [A 8 Ab]
+=3 2 c# 4 d 16 rest
+d68 24
+a91 2
+il0.7 .04 13
+=1 8/16 8. rest 8 [B 8. c]
+d93 1
+a93 2
+=3 8/16 2 eb
+
+d95 3
+a97 11
+=1' 13/16 4 B 16 rest 8. A# 4 B 16 rest
+=2  13/16 8 rest 16 [G 8 A G 16 F#] 8 [G 16 A 8 B']
+=3  13/16 8. [e 8 d# 8. e] 8. [d# 8 dn]
+| 1.860
+=1 8/16 8. [Gb 8 F 8. Gb]
+=2  8/16 8 [A 16 B' 8 A] 8 [Bb 16 d]
+=3  8/16 4 c# 16 rest 8. cn
+| 3.023
+=1 13/16 4 F 16 rest 8. E 4 F 16 rest
+=2  13/16 8 [eb 16 db 8 eb db 16 c] 8 [db 16 eb 8 f]
+=3' 13/16 8. [Bb 8 A 8. Bb] 8. [A 8 G#]
+d99 5
+a103 14
+/
+3 bars | 13 | 8/16 8 | 13/16 13 |
+| 3.023
+=1 8 rest 16 [eb 8 f eb 16 d] 8 [eb 16 f 8 g]
+=2 8. [c 8 B 8. c] 8. [B 8 Bb]
+=3 4 Gn 16 rest 8. F# 4 G 16 rest
+| 1.860
+=1 8/16 8 [f 16 g 8 f] 8 [f# 16 g#]
+=2 8/16 4 A 16 rest 8. G#
+=3 8/16 8. [d 8 c# 8. d]
+| 3.023
+=1 13/16 8 [a 16 b 8 a g# 16 a] 8 [a# 16 c~ 8 c~#]
+=2 13/16 8. [Gb 8 F 8. Gb] 8. [F 8 E]
+=3 13/16 4 db 16 rest 8. c 4 db 16 rest
+d107 12
+a118 17
+=1 8/16 8 [b 16 a# 8 b] 8 [c~ 16 d~]
+=2 8/16 4 Eb 16 rest 8. d
+=3 8/16 8. rest 8 [G 8. Ab]
+| 3.023
+=1 13/16 8 [e~b 16 f~ 8 e~b d~ 16 e~b] 8 [e~n 16 f~ 8 g~]
+=2 13/16 8. [c~ 8 b 8. c~] 8. [b 8 bb]
+il0.6 .04 21
+=3 13/16 4 G 16 rest 8. F# 4 G 16 rest
+| 3.023
+##=1 16 [a~ b a b a] [g# gn g#] [a b a a~] rest
+#=1 8 [a~ 16 g a bb] [a ab g] 8 [an 16 b c~ d~b]
+#=2 8 a 16 [F 8 G F 16 E] 8 [F 16 G 8 A]
+#=3 8. rest 8 [c# 8. d] 8. [c# 8 cn]
+=1 8 [a~ 16 g a bb] 8 [a 16 g] 16 [a bb a g f#]
+=2 8. [a 8 d 8. c#] 8. [d 8 cn]
+=3 8 rest 16 [F 8 G F 16 E] 8 [F 16 G 8 A]
+
+d122 7
+a128 14
+##=1 8/16 16 [a~ c~# b c~# b] [b b~] rest'
+#=1 8/16 8 [c~ 16 b c~ b] 8 [c~ 16 d~]
+=1 8/16 8 [g 16 a b c~] 8 [b 16 c~]
+=2 8/16 8. [e 8 d# 8. e]
+#=3 8/16 8 [G 16 A 8 G Ab 16 c']
+=3 8/16 8 [B' 16 A 8 G] [F# 16 G]
+| 3.023
+#=1 13/16 16 [e~b f eb f eb] [d c# d] [eb f eb e~b] rest
+#=1 13/16 8 [e~ 16 d~# e~ d~#] [d~n c~# d~] [e~ d~# c~# c~n bb]
+=1 13/16 8 [b 16 a b c~] 8 [d~ 16 c~] 8 [d~ 16 c~ b a]
+#=2 13/16 8 [c# 16 B 8 c# B 16 A,] 8 [B 16 c# 8 d#]
+=2 13/16 8 [eb 16 d 8 en f 16 e] 8 [f 16 e 8 f]
+#=3 13/16 8. [Ab 8 G 8. Ab] 8. [G 8 An]
+=3 13/16 8. [A 8 G 8. A] 8. [B' 8 A]
+d131 3
+a133 5
+#=1 16 [f~ g f g f] [e d# e] [f g f f~] rest
+#=1 8 [ab 16 f gb ab] [f gb e~b] 8 [f~ 16 e~b d~b bb]
+=1 8 [g 16 ab g f] [g ab bb] 8 [c~ 16 bn an g]
+=2 8 [en 16 d 8 eb d 16 c] 8 [d 16 en 8 f]
+=3 8. [Bb 8 c 8. Bb] 8. [A 8 G]
+d137 11
+a147 19
+#=1 8/16 16 [g~ a g f# g] [a g~] rest'
+#=1 8/16 8 [b 16 a g f] [gb ab an]
+=1 8/16 8. [a 8 bb 8. c~]
+#=2 8/16 8 [eb 16 d 8 c#] 8 [d 16 c#]
+=2 8/16 8 [eb 16 d 8 c] 8 [d 16 en]
+#=3 8/16 8. [A 8 B' 8. c']
+=3 8/16 8 [F 16 E F F#] 8 [G 16 A]
+| 3.023
+#=1 13/16 16 [a~ c~# b c~# b] [bb a bb] [bn c~# d~ g~#] rest
+=1 13/16 8 [d~b 16 c~ b a] [b a b] 8 [c~# 16 d~# e~ f~]
+#=2 13/16 8. [f 8 d# 8. c#] 8. [d# 8 dn]
+=2 13/16 8. [d# 8 c# 8. d#] 8. [e 8 c#]
+=3 13/16 8 [Bb' 16 A 8 G] [F 16 G] 8 [Ab 16 G 8 Ab]
+| 1.860
+#=1 8/16 16 [c~# d# c# d# c#] [cn Bb c]
+=1 8/16 8. [g~b 8 f~ 8. e~]
+#=2 8/16 8 [db 16 c B c] [dn' G# A]
+=2 8/16 8. [d 16 c# d] [c# d e]
+=3 8/16 8 [A 16 G# 8 A] 8 [A# 16 B']
+d151 18
+a168 21
+il1.3 .11 29
+#=1 13/16 16 [f~n f g f g] 16 [f e f] 16 [gn gb f eb d]
+#=1 13/16 8 [g 16 f# e d#] 16 [e g a] 8 [c~ 16 b c~ d~n]
+=1 13/16 8 [e~b 16 d~ c~ d~] 16 [e~b ab bb] 8 [c~ 16 bn c~ d~n]
+=2 13/16 8 [gb 16 eb 8 f] [gb 16 f] 8 [gb 16 eb 8 f]
+=3 13/16 8. [c' 8 A 8. G#] 8. [A 8 A#]
+| 3.023
+i1.2 .11 Dm6
+#=1 16 [d~ b f d~ c~# d~ b f] [d~ b f d~ c~#]
+=1 8 [f~ 16 e~ d~ e~] [f~ b c~#] 8 [d~ 16 b c~# d~]
+#=2 16 [b~ a b a b] [a g# a] [b a b b~] rest'
+=2 16 [a c# d e a] [b g a] [b c# d e f]
+=3' 8 [B 16 A 8 B] 8 [A 16 G] 8 [A 16 B 8 A]
+| 1.860
+i1.2 .31 Em6
+#=1  8/16 16 [b~ b c~# b c~#] [b b~] rest'
+=1 8/16 8 [c~# 16 b 8 c~#] 8 [b 16 c~#]
+#=2  8/16 8 [a 16 g 8 a] 8 [g 16 f#]
+=2 8/16 8 [g 16 f# e f#] [g c# eb]
+#=3, 8/16 16 [e c# G e d# e c# G]
+=3' 8/16 16 [B Eb En F# A] [B A A#]
+d172 11
+a182 29
+#=1  13/16 16 [b~ b c~# b c~#] [b a# b] [c~# b c~# b~] rest'
+=1 13/16 16 [e~b g ab bb e~b] [f~ c~# e~b] [f~ gn ab bb bn]
+i0.5 .01 G#m6
+#=2 13/16 8 [g 16 ab 8 g] 8 [ab 16 g] 8 [ab 16 g 8 fn]
+=2 13/16 8 [f 16 eb 8 f] 8 [eb 16 c#] 8 [eb 16 f 8 eb]
+#=3, 13/16 16 [f d# G# f d# f d# G#] [f d# G# f d#]
+=3' 13/16 8 [B 16 A# G# A#] [B F Gn] 8 [Ab 16 F G Ab]
+| 3.023
+#=1 16 [b~b d~b e~b d~b e~b] [d~b c~ d~b] [e~b d~b e~b b~b] rest
+=1 8 [c~# 16 c~n bb c~] [c~# g a] 8 [bb 16 g a bb]
+i0.5 .01 Bbm6
+#=2 8 [eb 16 db 8 eb] 8 [db 16 cn] 8 [db 16 eb 8 f]
+=2, 16 [f A Bb c f] [g eb f] [g A Bb c c#]
+#=3, 16 [f Bb G f Bb f Bb G] [f Bb G f Bb]
+=3 8 [G 16 F 8 G] 8 [F 16 Eb] 8 [F 16 G 8 F]
+#| 1.860
+#il1.2 .08 34
+#=1 8/16 16 [a~ a b a b] [a g f]
+#i0.5 .01 then start in Em to finish at 56
+#=2 8/16 8 [eb 16 f 8 eb] 8 [c 16 B]
+#i0.5 .01 Cm6
+#=3 8/16 16 [c' A G c' A] [c' A G]
+| 1.860
+il0.6 .15 34
+=1 8/16 8 [a 16 g 8 a] 8 [g 16 f#]
+i0.5 .11 Cm6
+=2 8/16 8 [eb 16 d c d] [eb A, B(1]
+=3' 8/16 8 [G 16 F Eb F] 8 G 16 rest
+
+d186 12
+a197 17
+# recap; but the first 35-48 bars in the style of 14-21,
+# then the last 35-54 in the style of 1-13
+=1 13/16 cha0 vol90 leg97 8. [e 8 d# 8. e] 8. [d# 8 dn]
+=2' 13/16 cha1 vol90 leg97 8. B')1 8 rest 8. A# 4 B 16 rest
+#=3 13/16 cha2 vol90 leg97 2 G 4 G# 16 rest
+=3  13/16 8 rest 16 [G 8 A G 16 F#] 8 [G 16 A 8 B']
+
+| 1.860
+=1 8/16 4 c# 16 rest 8. d
+=2 8/16 8. [Gb 8 F 8. Gb]
+#=3 8/16 2 A
+=3 8/16 8 [A 16 B' 8 A] 8 [Bb' 16 A]
+| 3.023
+#=1 13/16 2 c# 4 d 16 rest
+=1 13/16 8 [eb 16 db 8 eb db 16 c] 8 [db 16 eb 8 f]
+=2 13/16 4 F 16 rest 8. E 4 F 16 rest
+=3' 13/16 8. [Bb 8 A 8. Bb] 8. [A 8 G#]
+d201 12
+a212 14
+#=1 2 d# 4 e 16 rest
+=1 8 rest 16 [eb 8 f eb 16 d] 8 [eb 16 f 8 g]
+=2 8. rest 8 [b 8. c~] 8. [b 8 bb]
+=3 4 Gn 16 rest 8. F# 4 G 16 rest
+| 1.860
+#=1 8/16 2 f
+il0.6 .15 39
+=1 8/16 8 [f 16 g 8 f] 8 [f# 16 g#]
+=2 8/16 4 a 16 rest 8. g#
+=3 8/16 8. rest 8 [c# 8. d]
+| 3.023
+=1 13/16 8. [gb 8 f 8. gb] 8. [f 8 e]
+=2 13/16 8 [a 16 b 8 a g# 16 a] 8 [a# 16 c~ 8 c~#]
+=3 13/16 4 db 16 rest 8. c 4 db 16 rest
+d216 11
+a226 12
+=1 8/16 4 eb 16 rest 8. d
+=2 8/16 8 [b 16 a# 8 b] 8 [c~ 16 d~]
+=3 8/16 8. rest 8 [G 8. Ab]
+| 3.023
+il0.6 .15 42
+=1 13/16 8 [eb 16 f 8 eb d 16 eb] 8 [en 16 f 8 g]
+=2 13/16 8. [c~ 8 b 8. c~] 8. [b 8 bb]
+=3 13/16 4 G 16 rest 8. F# 4 G 16 rest
+| 3.023
+=1 2 f 4 f# 16 rest
+=2 4 a 16 rest 8. g# 4 a 16 rest
+=3 8. rest 8 [c# 8. d] 8. [c# 8 cn]
+d230 3
+a232 3
+=1 8/16 2 g
+=2 8/16 8. rest 8 [d# 8. e]
+=3 8/16 4 B' 16 rest 8. A#
+d234 4
+a237 12
+=1 13/16 8. [ab 8 g 8. ab] 8. [g 8 gb]
+=2 13/16 4 eb 16 rest 8. d 4 eb 16 rest
+=3 13/16 2 B 4 c 16 rest
+| 3.023
+=1 4 f 16 rest 8. e 4 f 16 rest
+=2 8. rest 8 [A 8. Bb'] 8. [A 8 Ab]
+=3 2 c# 4 d 16 rest
+| 1.860
+il0.7 .04 55
+=1 8/16 8. rest 8 [B 8. c]
+=2 8/16 4 G 16 rest 8. F#
+=3 8/16 2 eb
+d239 11
+a249 3
+=1 1 B
+=2 1 G
+=3 1 en
+@
+
+
+1.9
+log
+@through to end; plausible ? close ? short ?
+@
+text
+@d12 2
+a13 2
+3 bars | 13/16 13 | 8/16 8 | 13/16 13 |
+| 2.6
+d17 1
+a17 1
+| 1.6
+d21 1
+a21 1
+| 2.6
+d25 1
+a25 3
+/
+3 bars | 13 | 8/16 8 | 13/16 13 |
+| 2.6
+d29 3
+a31 1
+| 1.6
+d35 1
+a35 1
+| 2.6
+d39 1
+a39 3
+/
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.6
+d43 1
+a43 1
+| 2.6
+d47 3
+a49 1
+| 2.6
+d53 1
+a53 3
+/
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.6
+d57 1
+a57 1
+| 2.6
+d61 1
+a61 1
+| 2.6
+d66 2
+a67 2
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.6
+a71 4
+#| 2.6
+#=1 1 B
+#=2 1 G
+#=3 1 en
+d73 1
+a73 3
+/
+3 bars | 13/16 13 | 8/16 8 | 13/16 13 |
+| 2.6
+d77 1
+a77 1
+| 1.6
+d81 1
+a81 1
+| 2.6
+d88 1
+a88 1
+| 2.6
+d92 1
+a92 1
+| 1.6
+d96 1
+a96 1
+| 2.6
+d102 1
+a102 1
+| 1.6
+d106 1
+a106 1
+| 2.6
+d111 1
+a111 1
+| 2.6
+d122 1
+a122 1
+| 1.6
+d129 1
+a129 1
+| 2.6
+d137 1
+a137 1
+| 2.6
+d146 1
+a146 1
+| 1.6
+d154 1
+a154 1
+| 2.6
+d160 1
+a160 1
+| 1.6
+d168 1
+a168 1
+| 2.6
+d175 1
+a175 1
+| 2.6
+d182 1
+a182 1
+| 1.6
+d192 1
+a192 1
+| 2.6
+d200 1
+a200 1
+| 2.6
+d208 1
+a208 1
+#| 1.6
+d215 1
+a215 1
+| 1.6
+d224 1
+a224 1
+| 2.6
+d232 1
+a232 1
+| 1.6
+d237 1
+a237 1
+| 2.6
+d244 1
+a244 1
+| 2.6
+d249 1
+a249 1
+| 1.6
+d255 1
+a255 1
+| 2.6
+d261 1
+a261 1
+| 1.6
+d265 1
+a265 1
+| 2.6
+d270 1
+a270 1
+| 2.6
+d275 2
+a276 2
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.6
+d280 1
+a280 1
+| 2.6
+d284 1
+a284 1
+| 2.6
+d288 1
+a288 3
+/
+3 bars | 8/16 8 | 13/16 13 | 13 |
+| 1.6
+d293 1
+a293 1
+| 2.6
+a296 171
+
+
+midi off 
+
+
+$N6 = g~
+$N5 = c~#
+$N4 = g
+$N3 = c#
+$N2 = G
+$N1 = C#
+$B1 = {
+=1 16 rest [$N6 $N5 $N6] rest [$N6 $N5 $N6] rest [$N6 $N5 $N6] rest [$N6 $N5 $N6]
+=2 8 rest [$N4 $N3 $N4] rest [$N4 $N3 $N4]
+=3 4 rest $N2 $N1 $N2
+}
+$B2 = {
+=1 4 rest $N5 $N6 $N5
+=2 8 rest [$N3 $N4 $N3] rest [$N3 $N4 $N3]
+=3 16 rest [$N1 $N2 $N1] rest [$N1 $N2 $N1] rest [$N1 $N2 $N1] rest [$N1 $N2 $N1]
+}
+$B = morse_thue? $B1 : $B2 ?
+/
+4 bars | 3/4 36 | 36 | 36 | 36 |
+| 2.0
+=1 treble 4/4 cha0 vol90 leg90 1 blank
+=2 treble 4/4 cha1 vol80 leg90 1 blank
+=3 treble 4/4 cha2 vol70 leg99 1 blank
+$B
+|
+$B
+
+midi off
+
+$N6 = a~n
+$N5 = e~b
+$N4 = an
+$N3 = eb
+$N2 = An
+$N1 = Eb
+|
+$B
+
+$N6 = a~b
+$N5 = d~
+$N4 = ab
+$N3 = d
+$N2 = Ab
+$N1 = D
+|
+$B
+
+$N6 = g~
+$N5 = e~b
+$N4 = g
+$N3 = eb
+$N2 = G
+$N1 = Eb
+|
+$B
+|
+$B
+
+$N6 = f~#
+$N5 = e~n
+$N4 = f#
+$N3 = en
+$N2 = F#
+$N1 = En
+|
+$B
+
+# -----------------
+
+$N6 = f~n
+$N5 = b
+$N4 = g
+$N3 = B
+$N2 = G
+$N1 = Fn
+|
+$B
+|
+$B
+
+$N6 = e~
+$N5 = a#
+$N4 = f#
+$N3 = e
+$N2 = A#
+$N1 = F#
+|
+$B
+
+$N6 = e~b
+$N5 = a
+$N4 = f
+$N3 = eb
+$N2 = B'
+$N1 = F
+|
+$B
+|
+$B
+
+# -----------------
+$N6 = e~
+$N5 = c~
+$N4 = bb
+$N3 = f#
+$N2 = Bb'
+$N1 = E
+|
+$B
+|
+$B
+
+$N6 = f~
+$N5 = b
+$N4 = f
+$N3 = B
+$N2 = A
+$N1 = Eb
+|
+$B
+
+$N6 = f~#
+$N5 = c~
+$N4 = f#
+$N3 = c
+$N2 = G#
+$N1 = D
+|
+$B
+
+$N6 = f~
+$N5 = b
+$N4 = f
+$N3 = B
+$N2 = A
+$N1 = Eb
+|
+$B
+
+$N6 = f~#
+$N5 = c~
+$N4 = f#
+$N3 = c
+$N2 = G#
+$N1 = D
+|
+$B
+
+$N6 = g~
+$N5 = e~b
+$N4 = a
+$N3 = B
+$N2 = G
+$N1 = Eb
+|
+$B
+
+$N6 = f~#
+$N5 = e~
+$N4 = bb
+$N3 = c
+$N2 = F#
+$N1 = E
+|
+$B
+
+@
+
+
+1.8
+log
+@smoother ?
+@
+text
+@d166 1
+a166 1
+=2 13/16 8. [f 8 c# 8. d#] 8. [e 8 c#]
+d172 2
+a173 3
+=2 8/16 8. [d 16 c db] [dn db c]
+=3 8/16 8 [A 16 G# 8 A] 8 [B 16 c]
+midi off
+d177 1
+a177 1
+il1.2 .08 29
+d179 4
+a182 4
+=1 13/16 8 [g 16 f# e d#] 16 [e g a] \
+ 8 [c~ 16 b c~ d~n]
+=2 13/16 8 [db 16 eb 8 db] [c 16 db] 8 [dn 16 eb 8 f]
+=3' 13/16 8. [Bb 8 Ab 8. Bb] 8. [An 8 Ab]
+d185 2
+a186 1
+#=1' 16 [d~ b f d~ c~# d~ b f] [d~ b f d~ c~#]
+d188 2
+a189 2
+=3 8 [G 16 F 8 G] 8 [F 16 E] 8 [F 16 G 8 A]
+midi off
+d192 6
+a197 3
+=1  8/16 16 [b~ b c~# b c~#] [b b~] rest'
+=2  8/16 8 [a 16 g 8 a] 8 [g 16 f#]
+=3, 8/16 16 [e c# G e d# e c# G]
+d201 2
+d204 4
+a207 3
+=1  13/16 16 [b~ b c~# b c~#] [b a# b] [c~# b c~# b~] rest'
+=2 13/16 8 [g 16 ab 8 g] 8 [ab 16 g] 8 [ab 16 g 8 fn]
+=3, 13/16 16 [f d# G# f d# f d# G#] [f d# G# f d#]
+d209 2
+d212 17
+a228 10
+=1 16 [b~b d~b e~b d~b e~b] [d~b c~ d~b] [e~b d~b e~b b~b] rest
+=2 8 [eb 16 db 8 eb] 8 [db 16 cn] 8 [db 16 eb 8 f]
+=3, 16 [f Bb G f Bb f Bb G] [f Bb G f Bb]
+| 1.6
+il1.2 .08 34
+i0.5 .01 Cm6
+=1 8/16 16 [a~ a b a b] [a g f]
+i0.5 .01 then start in Em to finish at 56
+=2 8/16 8 [eb 16 f 8 eb] 8 [c 16 B]
+=3 8/16 16 [c' A G c' A] [c' A G]
+d236 4
+a239 2
+=2' 13/16 cha1 vol90 leg97 4 B 16 rest 8. A# 4 B 16 rest
+=3 13/16 cha2 vol90 leg97 2 G 4 G# 16 rest
+d241 8
+a248 6
+=1 8/16 4 c# 16 rest 8. cn
+=2 8/16 8. rest 8 [f 8. gb]
+=3 8/16 2 A
+| 2.6
+=1 13/16 2 c# 4 d 16 rest
+=2 13/16 4 f 16 rest 8. e 4 f 16 rest
+d253 2
+a254 1
+=1 2 d# 4 e 16 rest
+d258 3
+a260 1
+=1 8/16 2 f
+d265 1
+a265 1
+=2 13/16 2 a 4 a# 16 rest
+d271 1
+a271 1
+=2 8/16 2 b
+d274 2
+a275 1
+=1 13/16 2 d# 4 e 16 rest
+d282 27
+@
+
+
+1.7
+log
+@still not sure
+@
+text
+@d142 1
+a142 1
+=2 13/16 8 [eb 16 d 8 eb f 16 eb] 8 [f 16 eb 8 f]
+d144 1
+a144 1
+=3 13/16 8. [A 8 G 8. A] 8. [G 8 A]
+d150 1
+a150 1
+=2 8 [eb 16 d 8 eb d 16 c] 8 [d 16 eb 8 f]
+d159 1
+a159 1
+=2 8/16 8 [eb 16 d 8 c] 8 [d 16 f]
+d161 1
+a161 1
+=3 8/16 8 [F 16 G F F#] 8 [G 16 A]
+d165 2
+a166 1
+=2 13/16 8. [e 8 d# 8. c#] 8. [d# 8 dn]
+d172 1
+a172 1
+=2 8/16 8. [db 16 c db] [dn db c]
+@
+
+
+1.6
+log
+@improving?
+@
+text
+@d136 1
+a136 1
+=3 8/16 8 [A 16 G 8 A] [d 16 G,]
+d140 1
+a140 1
+=1 13/16 8 [b 16 a b c~] 8 [b 16 a] 8 [b 16 c~ b a]
+d142 1
+a142 1
+=2 13/16 8 [eb 16 d 8 eb d] 16 rest 8 [eb 16 d 8 eb]
+d149 2
+a150 2
+=1 8 [g 16 ab g f#] [g ab bb] 8 [c~ 16 bn an g]
+=2 8 rest 16 [d 8 eb d 16 c] 8 [d 16 eb 8 f]
+d159 1
+a159 1
+=2 8/16 8 [eb 16 d 8 c] 8 [d 16 d#]
+d161 1
+a161 1
+=3 8/16 8 [F 16 Gb Gn Gb] 8 [Gn 16 A]
+d164 3
+a166 3
+=1 13/16 8 [b 16 c~ b a] [b a# b] 8 [c~# 16 d~# e~ f~]
+=2 13/16 8. [e 8 d# 8. e] 8. [d# 8 dn]
+=3 13/16 8 [G 16 A 8 G F# 16 G] 8 [G# 16 F# 8 G#]
+@
+
+
+1.5
+log
+@is this improving ?
+@
+text
+@d149 1
+a149 1
+=1 8 [g 16 f f# g] [f# g# a#] 8 [b 16 c~ b bb]
+d151 1
+a151 1
+=3 8. [Bb' 8 A 8. Bb'] 8. [A 8 Ab]
+d161 1
+a161 1
+=3 8/16 8 [G 16 Gb F Gb] 8 [Gn 16 A]
+@
+
+
+1.4
+log
+@is this middle-bit polishable?
+@
+text
+@d15 1
+a15 1
+=2' treble 13/16 cha1 vol90 leg97 4 B 16 rest 8. A# 4 B 16 rest
+d120 7
+a126 4
+#=1 16 [a~ b a b a] [g# gn g#] [a b a a~] rest
+=1 8 [a~ 16 g a bb] [a ab g] 8 [an 16 b c~ d~b]
+=2 8 a 16 [F 8 G F 16 E] 8 [F 16 G 8 A]
+=3 8. rest 8 [c# 8. d] 8. [c# 8 cn]
+d131 3
+a133 2
+#=1 8/16 16 [a~ c~# b c~# b] [b b~] rest'
+=1 8/16 8 [c~ 16 b c~ b] 8 [c~ 16 d~]
+d135 2
+a136 1
+=3 8/16 8 [G 16 A 8 G Ab 16 c']
+d140 5
+a144 3
+=1 13/16 8 [e~ 16 d~# e~ d~#] 8 [c~# 16 d~] 8 [c~# 16 b bb a]
+=2 13/16 8 [c# 16 B 8 c# B 16 A,] 8 [B 16 c# 8 d#]
+=3 13/16 8. [Ab 8 G 8. Ab] 8. [G 8 Gb]
+d146 1
+d149 2
+a150 2
+=1 8 [ab 16 f f# g] [f# g# a#] 8 [b 16 c~ b bb]
+=2 8 rest 16 [db 8 eb db 16 c] 8 [db 16 eb 8 f]
+d156 6
+a161 3
+=1 8/16 8 [b 16 a g f] [gb ab an]
+=2 8/16 8 [eb 16 f 8 eb] 8 [en 16 f#]
+=3 8/16 8. [A 8 B' 8. c']
+d166 1
+a166 1
+=3 13/16 8 [G 16 A 8 G F# 16 G] 8 [G# 16 A# 8 B']
+d169 5
+a173 3
+=1 8/16 8 [d~b 16 c~ b c~] [d~ g a]
+=2 8/16 8. [gb 8 f 8. e]
+=3 8/16 8 [A 16 G# 8 A] 8 [Bb 16 c]
+@
+
+
+1.3
+log
+@sketch to bar 30
+@
+text
+@d120 3
+a122 2
+=1 16 [a~ b a b a] [g# gn g#] [a b a a~] rest
+=2 8 [a 16 f 8 g f 16 e] 8 [f 16 g 8 a]
+d124 1
+d128 2
+a129 1
+=1 8/16 16 [a~ c~# b c~# b] [b b~] rest'
+d131 1
+a131 1
+=3 8/16 8 [g 16 a 8 g ab 16 c~]
+d133 3
+a135 1
+=1 13/16 8. [ab 8 g 8. ab] 8. [g 8 gb]
+d137 1
+a137 1
+=3 13/16 16 [e~b f eb f eb] [d c# d] [eb f eb e~b] rest
+d139 5
+a143 3
+=1 8 rest 16 [db 8 eb db 16 c] 8 [db 16 eb 8 f]
+=2 8. [Bb' 8 A 8. Bb'] 8. [A 8 Ab]
+=3 16 [f~ g f g f] [e d# e] [f g f f~] rest
+d147 14
+a160 11
+=1 8/16 8. [a 8 b 8. c~]
+=2 8/16 16 [g~ a g f# g] [a g~] rest'
+=3 8/16 8 [eb 16 f 8 eb] 8 [en 16 f#]
+| 2.6
+=1 13/16 16 [a~ c~# b c~# b] [bb a bb] [bn c~# d~ g~#] rest
+=2 13/16 8 [g 16 a 8 g f# 16 g] 8 [g# 16 a# 8 b]
+=3 13/16 8. [e 8 d# 8. e] 8. [d# 8 dn]
+| 1.6
+=1 8/16 8. [g~b 8 f~ 8. e~]
+=2 8/16 8 [a 16 g# 8 a] 8 [bb 16 c~]
+=3 8/16 16 [c~# d# c# d# c#] [cn Bb c]
+d165 5
+a169 3
+=1 13/16 8 [d~b 16 e~b 8 d~b] [c~ 16 d~b] 8 [d~n 16 e~b 8 f~]
+=2' 13/16 8. [Bb 8 Ab 8. Bb] 8. [An 8 Ab]
+=3 13/16 16 [f~n f g f g] 16 [f e f] 16 [gn gb f eb d]
+d172 4
+a175 3
+=1 8 [g~ 16 f~ 8 g~] 8 [f~ 16 e~] 8 [f~ 16 g~ 8 a~]
+=2 16 [b~ a b a b] [a g# a] [b a b b~] rest'
+=3 blank
+d178 3
+a180 3
+=1 8/16 16 [b~ b c~# b c~#] [b b~] rest'
+=2 8/16
+midi off 
+d185 3
+a187 3
+=1 13/16 blank
+=2 13/16 blank
+=3 13/16 blank
+d190 3
+a192 1
+=1 blank
+d196 1
+a196 1
+=1 8/16 1 blank
+d198 48
+a245 2
+=2 8/16 1 blank
+=3 8/16 1 blank
+@
+
+
+1.2
+log
+@sort of coerce through to 19 bars
+@
+text
+@d70 1
+d117 1
+d120 1
+a120 1
+=1 16 [a~ b a b a] [g# a g#] [a b a a~] rest
+d126 1
+a126 1
+=1 8/16 16 [a~ c~# b c~# b] [a# b a#]
+d132 1
+a132 1
+=3 13/16 16 [e~b f eb f eb] [d eb d] [eb f eb e~b] rest
+d136 1
+a136 1
+=3 16 [f~ g f g f] [e f e] [f g f f~] rest
+d140 2
+a141 2
+=1 8/16 8. rest 8 [b 8. c~]
+=2 8/16 16 [g~ a g a g] [f# g a]
+d144 1
+a144 1
+=1 13/16 16 [d~b eb db eb db] [c db c] [db eb db d~b] rest
+d146 1
+a146 1
+=3 13/16 8. [e 8 d# 8. e] 8. [d# 8 c#]
+d148 33
+d182 1
+d185 1
+a185 1
+midi off 
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+d12 157
+d171 146
+a316 16
+=1 treble 4/4 cha0 vol90 leg90 \
+ 16 rest [a~b d~ a~b] rest [a~b d~ a~b] rest [a~b d~ a~b] rest [a~b d~ a~b]
+=2 treble 4/4 cha1 vol80 leg90 8 rest [ab d ab] rest [ab d ab]
+=3 treble 4/4 cha2 vol70 leg99 4 rest Ab D Ab
+|
+=1 16 rest [a~b d~ a~b] rest [a~b d~ a~b] rest [a~b d~ a~b] rest [a~b d~ a~b]
+=2 8 rest [ab d ab] rest [ab d ab]
+=3 4 rest Ab D Ab
+|
+=1 4 rest d~ a~b d~
+=2 8 rest [d ab d] rest [d ab d]
+=3 16 rest [D Ab D] rest [D Ab D] rest [D Ab D] rest [D Ab D]
+|
+=1 4 rest d~ a~b d~
+=2 8 rest [d ab d] rest [d ab d]
+=3 16 rest [D Ab D] rest [D Ab D] rest [D Ab D] rest [D Ab D]
+@

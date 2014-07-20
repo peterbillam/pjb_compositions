@@ -1,0 +1,51 @@
+4 systems 15 / 19-25-19-28-19 /
+title Canon  at nine semitones
+midi channel 1 patch 0 reverb 99 pan 85
+midi channel 2 patch 0 reverb 99 pan 50
+midi channel 3 patch 0 reverb 99 pan 15
+/
+3 bars | 9/16 108 | 108 | 108 |
+| .14 .12 .13 .14 .12 .13 .14 .12 .13
+=1  treble 9/16 cha1 leg95 8 rest 16 c# [d 8 c#] 16 [eb d c#]
+=2  treble 9/16 cha2 leg95 16 rest [E F] 8 [E 16 Gb] [F E G#]
+=3  bass   9/16 cha3 leg95 16 [g ab g(1] [g)1 an ab] [g b d~#]
+|
+=1  16 [f a c~#] [d~ 8 c~#] 16 [e~b d~ c~#]
+=2  16 [c e f] 8 [e 16 gb] [f e G#,]
+=3  16 [g~ a~b g~(1] [g~)1 a~ a~b] [g~ b e~b]
+
+|
+=1  16 [f a c#] [d 8 c#] 16 [eb d c#]
+=2  16 [c' E F] 8 [E 16 Gb] [F E G#]
+=3  16 [g ab g(1] [g)1 an ab] [g b d~#]
+|
+=1  16 [f a c~#] [d~ 8 c~#] 16 [e~b d~ c~#]
+=2  16 [c e f] [e e gb] [f e G#,]
+=3  16 [g~ a~b g~(1] [g~)1 a~ a~b] [g~ b e~b]
+
+|
+=1  16 [f a c#] [d 8 c#] 16 [f a c~#]
+=2  16 [c' E F] 8 [E 16 G#] [c e f]
+=3  16 [g ab g(1] [g)1 b d~#] [g~ a~b g~(1]
+|
+=1  16 [d~ 8 c~#] 16 [f a c#] [d 8 c#]
+=2  8 [e 16 G#,] [c' E F] 8 [E 16 G#]
+=3  16 [g~)1 b e~b] [g ab g(1] [g)1 b d~#]
+
+|
+=1 16 [f a c~#] [d~ c~# f] [a c# c~#]
+=2 16 [c e f] [e G#, c] [E e' f']
+=3  16 [g~ a~b g~] [b e~b g] [g~ a~b g~]
+|
+=1 16 [d~ c~# f] [a c# c~#] [d~ c~# f] 
+=2 16 [e G#, c] [E e' f'] [e G#, c]
+=3  16 [b e~b g] [g~ a~b g~] [b e~b g]
+|
+=1 16 [a c# c~#] [f a c~#] [c# c~# c#]
+=2 16 [E e' G#] [c' e' E] [e' E e']
+=3 16 [g~ b e~b] [g~ g g~] [g g~ g]
+|
+=1 4. c~#
+=2 16 E 8 F(2 4. F)2
+#=3 16 g# 8 G#(2 4. G)2
+=3 1 g#

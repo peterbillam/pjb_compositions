@@ -1,0 +1,93 @@
+4 systems 15 /19-25-19-25-19/
+
+title 20140604   see book AO p.35
+midi channel 0 patch 73 pan 20
+midi channel 1 patch 73 pan 50
+midi channel 2 patch 73 pan 80
+
+
+/
+5 bars | 12 | 48 | 48 | 48 | 48 |
+| 0.7
+=1 treble cha0 leg100 vol90 1 blank
+=2 treble cha1 leg100 vol90 1 blank
+=3 treble cha2 leg100 vol90 1 blank
+#midi off
+=1 4 rest
+=2 4 rest
+=3 4 Ab
+| 2.8
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 Ab(2 8 Ab)2 rest 4 Ab
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+#=3 2 Ab(2 8 Ab)2 rest 4 An
+=3 2. Ab 4 An
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 4. G 8 rest 4 rest Ab
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 Ab(2 8 Ab)2 rest 4 Ab
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 Ab 4 An G
+| 2.8
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 4 Bb' Gb d D(2
+|
+=1 2 blank 1 rest
+#=2 4 rest A 2 A(2
+=2' 4 rest Bb 2 Bb(2
+=3 1 D)2(2
+|
+=1 2 blank 1 rest
+#=2 8 A)2 rest 4 A 2 A(2
+=2' 8 Bb)2 rest 4 Bb 2 Bb(2
+=3 4. D)2 8 rest 4 rest 4 D
+|
+=1 2 blank 1 rest
+#=2 8 A)2 rest 4 Bb' 4. Ab 8 rest
+=2' 4 Bb)2 4 Bn' 4. A 8 rest
+=3 1 D(2
+|
+=1 2 blank 1 rest
+#=2 4 rest A 2 A(2
+=2' 4 rest Bb 2 Bb(2
+=3 2 D)2(2 8 D)2 rest 4 D
+|
+=1 2 blank 1 rest
+#=2 8 A)2 rest 4 A 2 A
+=2' 8 Bb)2 rest 4 Bb 2 Bb
+=3 1 D(2
+|
+=1 2 blank 1 rest
+#=2' 4 Bb Ab Bn G
+=2' 4 B' A c G#
+=3 2. D)2(2 8 D)2 rest
+|
+=1 2. rest 4 Bn
+#=2 4 eb 2. Eb 
+=2 4 e 2. E(2
+=3 2 blank 1 rest
+|
+=1 2 B(1 8 B)1 rest 4 B
+=2 2.. E)2 8 rest
+# =3 leg105 8 rest D(2 83 [D)2 C# D] 8 [C# D(2] 4 D)2
+=3 leg105 8 rest D(2 83 [D)2 C# D(2] 8 [D)2 C#(2] 8 [C)2 D(2]
+|
+=1 2. B 4 c
+=2 4 rest E 2 E(2
+=3 8 [D)2 D(2] 83 [D)2 C# D(2] 4. D)2 8 rest
+|
+=1 4. Bb 8 rest 4 rest Bn
+=2 1 E)2
+=3 8 rest D(2 83 [D)2 C# D(2] 8 [D)2 C#(2] 4 C)2

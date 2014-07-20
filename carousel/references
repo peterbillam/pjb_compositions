@@ -1,0 +1,44 @@
+.nr PS 14
+.nr VS 16
+.nr LL 6.4i
+.pl 11.7i
+.LP
+.ce 1
+\s+8\f3November at the Carousel\fP\s0
+.sp 1c
+.ce 1
+\s+4\f3References\fP\s0
+.sp 2c
+.LP
+The following references are cited in the libretto . . .
+.sp 1c
+.IP \f3LIFE\fP 2.5c
+"The Kennedy Assassination Questions \- The Warren Report's Answers",
+Gerald Ford, Life International Vol. 37, No. 7, 19 Oct 1964
+
+.IP \f3TJR\fP 2.5c
+"The Trial of Jack Ruby", John Kaplan and Jon R. Waltz, Macmillan, 1965
+
+.IP \f3RTJ\fP 2.5c
+"Rush to Judgement", Mark Lane, Penguin, 1966
+
+.IP \f3DOAP\fP 2.5c
+"Death of a President", William Manchester, Pan, 1967
+
+.IP \f3CONS\fP 2.5c
+"Conspiracy", Antony Summers, Fontana, 1980
+
+.IP \f3MKPK\fP 2.5c
+"The Mafia Killed President Kennedy", David Scheim, W. H. Allen, 1989
+
+.IP \f3COS\fP 2.5c
+"JFK Conspiracy of Silence", Charles A. Crenshaw, M.D., Signet, 1992
+
+.IP \f3NAMED\fP 2.5c
+"Named", Col Davies, Bookman, 1993
+
+.IP \f3KOAP\fP 2.5c
+"The Killing of a President", Robert Groden, Bloomsbury, 1993
+
+.IP \f3SLHO\fP 2.5c
+"The Search for Lee Harvey Oswald", Robert Groden, Bloomsbury, 1995

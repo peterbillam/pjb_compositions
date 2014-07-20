@@ -1,0 +1,1086 @@
+head	1.6;
+access;
+symbols;
+locks
+	pjb:1.6;
+comment	@# @;
+
+
+1.6
+date	2010.09.24.10.58.46;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2000.08.31.09.12.39;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2000.08.04.04.34.42;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2000.07.12.23.40.52;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2000.07.12.10.37.30;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2000.05.17.06.59.28;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Drei Chöre 3) Wechsel der Zeiten
+@
+
+
+1.6
+log
+@modernise slurs (at last!), adjust spacing
+@
+text
+@4 systems 10 /19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/
+pagenum 4
+title Wechsel der Zeiten
+innerhead fÃ¼r SAT, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg JÃ¼nger, Musik (c) 2000 Peter Billam
+midi channel 1 patch 52
+/
+4 bars |2.4 |10/4 1 1 1 1 1 1 1 1.4 1 1 |9/4 9 | 10/4 1 1 1 1 1 1 1.4 1 1.4 1|
+| 2/4 72
+i0.4         Ruhig
+=1 treble     channel1 leg90 vol80 min F#
+r0.5 .07 Die
+=2 treble     channel1 leg90 vol80 min E
+=3 treble8vab channel1 leg90 vol80 min A
+| 10/4 72
+=1 10/4 vol90 leg100 smb c vol75 min. B cro rest min F#
+r0.5 .05 StÃ¤d .27 - .42 te, .80 die
+=2 10/4 vol90 leg100 smb E vol75 min. E cro rest min D
+=3 10/4 vol90 leg100 smb F# vol75 min. G cro rest min Ab
+| 9/4 72
+=1 9/4 min vol+5 G# vol+5 G# min. vol+5 Bb min Bb
+r0.5 .06 aus .25 der .46 Wild .68 - .77 nis
+=2 9/4 min vol+5 D vol+5 Eb min. vol+5 Eb min F
+=3 9/4 min vol+5 Bb vol+5 Bb min. vol+5 c min db
+| 10/4 72
+=1 10/4 smb vol+5 db min vol-15 c cro rest min. F#
+r0.5 .06 wach .28 - .43 sen, .71 Die
+=2 10/4 smb vol+5 Gb min vol-15 Gb cro rest cro B_{2 E D#}2
+=3 10/4 smb vol+5 eb min vol-15 eb cro rest min. A
+/
+3 bars |9/4 4 5 5 4 5 5 5 4 4|10/4 4 5 4 5 4 5 4 5 5 4 |11/4 4 5 4 4 4 5 4 4 5 4 4|
+| 9/4 72
+il0.4     5
+=1 treble 9/4 smb c min. B min F#
+r0.5 .06 StÃ¤d .28 - .48 te, .77 die
+=2 treble 9/4 cro E{2 A G# F#}2 E{2 D# C#}2 min Dn
+=3 treble8vab   9/4 smb F# min. G cro G#{2 A}2
+| 10/4 72
+=1 10/4 min G# G# min. Bb'{2 cro A}2 min Bb'
+r0.5 .06 aus .24 der .43 Wild .64 - .80 nis
+=2 10/4 min D cro D#{2 E}2 Eb{2 F min Gb}2 cro F{2 Gn}2
+=3 10/4 cro A#{2 B'}2 min A# smb cn min db
+| 11/4 72
+=1 11/4 min. db{1 cro Bb,}1 smb c cro rest min Bb
+r0.5 .06 wach .29 - .40 sen, .82 Sie
+=2 11/4 cro Gb{2 F min. Gb cro F}2 min Gb cro rest min Gn
+=3 11/4 smb eb eb cro rest min db
+/
+2 bars |16/4 64 |14/4 4 4 4 4 4 4 4 4 4 4 4 5 4 4|
+| 16/4 72
+=1 treble 16/4 smb db min. c   min dn  min. eb{1 min d}1 eb
+r0.5 .04 mÃ¼s .17 - .27 sen .44 der .58 Wild .76 - .87 nis
+=2 treble 16/4 smb G  min. G   min G(2 min. G)2  min F   Gb
+=3 treble8vab   16/4 smb f min. eb min Bb  min. A(2  min A)2 A
+| 14/4 72
+=1 14/4 smb gb min f min. e  min d  cro rest min Bb
+r0.5 .05 wie .19 - .30 der .45 wei .56 - .63 chen. .85 Sie
+=2 14/4 smb B  min B min. G  min G  cro rest min G
+=3 14/4 smb G# min A min. Bb min Bb cro rest d{1 e}1
+/
+2 bars |14/4 4 4 4 4 4 4 5 5 4  5 4  5 4 4 |17/4 5 4 5 5 4 4 4 5 4 4 5 4 5 4 4 4 4|
+|
+il0.4 .04 10
+=1 treble min db c dn min. eb{1 min d}1 min. eb
+r0.5 .02 mÃ¼s - .14 sen .29 der .43 Wild .63 - .78 nis
+=2 treble cro G{2 A}2 G{2 A}2 G{2 D}2 C{2 D Eb min F}2 cro F#{2 G# A}2
+=3 treble8vab min f eb Bb cro A{2 F# G A Bn'}2 min. A
+| 17/4 72
+=1 17/4 smb gb              min. f        smb e        d             min rest
+r0.5 .05 wie .17 - .25 der .43 wei .56 - .65 chen.
+=2 17/4 smb B               cro D{2 E F G}2 C#{2 D E F#}2 E{2 F# G}2 min rest
+=3 17/4 cro G#{2 A# B' c#'}2 min. An       smb Bb       Bb            min rest
+
+4 systems /19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/
+pagenum 5
+innerhead Wechsel der Zeiten, fÃ¼r SAT, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg JÃ¼nger, Musik (c) 2000 Peter Billam
+/
+3 bars |10|11|8|
+| 10/4 72
+=1 treble 10/8 min G  min. A  Bb  min Bb
+r0.5 .06 Wo .24 einst .52 nur .80 die
+=2 treble 10/8 min Eb min. F# G   min Fn
+=3 treble8vab   10/8 min c min. c db min db
+| 11/4 72
+=1 11/4 smb db min c min. Bb  min A
+r0.5 .06 Ei .22 - .36 chen   - .55 wÃ¤l .75 - .81 der
+=2 11/4 smb F min F# min. F#  min F#
+=3 11/4 smb A min Bb min. eb min c
+| 8/4 72
+=1 8/4 smb Bb  min. db  cro rest
+r0.5 .06 wuch .33 - .53 sen,
+=2 8/4 smb G   min. G  cro rest
+=3 8/4 smb db min. Bb cro rest
+/
+3 bars |10/4 4 4 4 5 5 4 5 4 4 4 \
+ | 10/4 4 4 5 4 5 4 5 4 5 4 | 8/4 5 4 5 4 4 4 4 4 |
+| 10/4 72
+il0.4 .06 15
+=1 treble 10/4 cro F#{2 G}2 min. A Bb' cro Bb,{1 c}1
+r0.5 .06 Wo .24 einst .52 nur .80 die
+=2 treble 10/4 min Eb cro Gb{2 F Gb}2 Gn{2 F En}2 min F
+=3 treble8vab   10/4 min c min. c db min db
+|
+=1 min. db cro c{1 A,}1 Bb,{1 c Bb,}1 min A
+r0.5 .02 Ei .17 - .30 chen   - .50 wÃ¤l .67 - .79 der
+=2 cro F{2 E F}2 min F# min. F# cro E{2 F#}2
+=3 min. A  min Bb       min. eb      min c
+| 8/4 72
+=1 8/4 min Bb,{1 cro c}1 min. db min rest
+r0.5 .05 wuch .27 - .40 sen,
+=2 8/4 cro G{2 F# min E}2 cro F#{2 G}2 min rest
+=3 8/4 min. db min. Bb min rest
+/
+3 bars |5|13|13|
+| 5/4 72
+=1 treble 5/4 smb dn cro rest
+r0.5 .08 Dort
+=2 treble 5/4 smb F# cro rest
+=3 treble8vab   5/4 smb B cro rest
+| 13/4 72
+=1 13/4 min. c# min B F  smb d min c#
+r0.5 .05 wach .19 - .24 sen  .40 am .56 En .70 - .84 de
+=2 13/4 min. Eb min F Eb smb F min Gb
+=3 13/4 min. A  min G# B smb A min A
+|
+il0.3 .05 20
+=1 min. B  min G# smb A  min. A   cro rest
+r0.5 .01 wie .12 - .22 der .40 Ei .54 - .67 chen.
+=2 min. Gb min Gb smb F min. Gb  cro rest
+=3 min. d min B  smb d min. c# cro rest
+/
+3 bars |9/4 5 5 5 5 5 4 5 5 4 \
+ | 11/4 5 4 5 4 5 5 5 5 5 5 4 |10/4 4 4 5 4 4 4 5 4 4 4 ||
+| 9/4 72
+=1 treble 9/4 min d min. c# min B, cro G{2 Ab}2
+r0.5 .06 Dort .28 wach .47 - .55 sen .79 am
+=2 treble 9/4 min Gb min. Eb cro Eb{2 D}2 min Eb
+=3 treble8vab   9/4 cro B'{2 A#}2 An{2 G# F#}2 min G# B'
+| 11/4 72
+=1 11/4 min. d         min c#   cro B'{2 A# G# F#}2 min G#
+r0.5 .06 En .21 - .31 de .49 wie .67 - .81 der
+=2 11/4 cro F{2 En F}2 Gb{2 F smb Gb}2              cro F Gb
+=3 11/4 min. A         min A    smb d              min B
+| 10/4 72
+=1 10/4 min. A smb.. A
+r0.5 .06 Ei .23 - .34 chen.
+=2 10/4 cro F{2 E F min. Gb cro F}2 min. Gb
+=3 10/4 min. d smb.. c#
+
+4 systems 10 /19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/19 35 19 35 19 10/
+pagenum 6
+title Wechsel der Zeiten
+innerhead fÃ¼r SAA, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg JÃ¼nger, Musik (c) 2000 Peter Billam
+/
+4 bars |2.4 |10/4 1 1 1 1 1 1 1 1.4 1 1 |9/4 9 | 10/4 1 1 1 1 1 1 1.4 1 1.4 1|
+|
+i0.4         Ruhig
+=1 treble min F#
+r0.5 .07 Die
+=2 treble min E
+=3 treble   min A_
+|
+=1 10/4 smb c min. B cro rest min F#
+r0.5 .05 StÃ¤d .27 - .42 te, .80 die
+=2 10/4 smb E min. E cro rest min D
+=3 10/4 smb F_# min. G_ cro rest min A_b
+|
+=1 9/4 min G# G# min. Bb min Bb
+r0.5 .06 aus .25 der .46 Wild .68 - .77 nis
+=2 9/4 min D Eb min. Eb min F
+=3 9/4 min B_b B_b min. C min Db
+|
+=1 10/4 smb db min c cro rest min. F#
+r0.5 .06 wach .28 - .43 sen, .71 Die
+=2 10/4 smb Gb min Gb cro rest cro B_{2 E D#}2
+=3 10/4 smb Eb min Eb cro rest min. A_
+/
+3 bars |9/4 4 5 5 4 5 5 5 4 4|10/4 4 5 4 5 4 5 4 5 5 4 |11/4 4 5 4 4 4 5 4 4 5 4 4|
+|
+il0.4     5
+=1 treble 9/4 smb c min. B min F#
+r0.5 .06 StÃ¤d .28 - .48 te, .77 die
+=2 treble 9/4 cro E{2 A G# F#}2 E{2 D# C#}2 min Dn
+=3 treble   9/4 smb F_# min. G_ cro G_#{2 A_}2
+|
+=1 10/4 min G# G# min. Bb'{2 cro A}2 min Bb'
+r0.5 .06 aus .24 der .43 Wild .64 - .80 nis
+=2 10/4 min D cro D#{2 E}2 Eb{2 F min Gb}2 cro F{2 Gn}2
+=3 10/4 cro A_#{2 B_}2 min A_# smb Cn min Db
+|
+=1 11/4 min. db{1 cro Bb,}1 smb c cro rest min Bb
+r0.5 .06 wach .29 - .40 sen, .82 Sie
+=2 11/4 cro Gb{2 F min. Gb cro F}2 min Gb cro rest min Gn
+=3 11/4 smb Eb Eb cro rest min Db
+/
+2 bars |16/4 64 |14/4 4 4 4 4 4 4 4 4 4 4 4 5 4 4|
+|
+=1 treble 16/4 smb db min. c   min dn  min. eb{1 min d}1 eb
+r0.5 .04 mÃ¼s .17 - .27 sen .44 der .58 Wild .76 - .87 nis
+=2 treble 16/4 smb G min. G   min G(2 min. G)2  min F   Gb
+=3 treble 16/4 smb F min. Eb min B_b  min. A_(2  min A_)2 A_
+|
+=1 14/4 smb gb min f min. e  min d  cro rest min Bb
+r0.5 .05 wie .19 - .30 der .45 wei .56 - .63 chen. .85 Sie
+=2 14/4 smb B  min B min. G  min G  cro rest min G
+=3 14/4 smb G_# min A_ min. B_b min B_b cro rest D{2 E}2
+/
+2 bars |14/4 4 4 4 4 4 4 5 5 4  5 4  5 4 4 |17/4 5 4 5 5 4 4 4 5 4 4 5 4 5 4 4 4 4|
+|
+il0.4 .04 10
+=1 treble min db c dn min. eb{1 min d}1 min. eb
+r0.5 .02 mÃ¼s - .14 sen .29 der .43 Wild .63 - .78 nis
+=2 treble cro G{2 A}2 G{2 A}2 G{2 D}2 C{2 D Eb min F}2 cro F#{2 G# A}2
+=3 treble min F Eb B_b cro A_{2 F_# G_ A_ B_n}2 min. A_
+|
+=1 17/4 smb gb              min. f        smb e        d             min rest
+r0.5 .05 wie .17 - .25 der .43 wei .56 - .65 chen.
+=2 17/4 smb B               cro D{2 E F G}2 C#{2 D E F#}2 E{2 F# G}2 min rest
+=3 17/4 cro G_#{2 A_# B_ C#}2 min. A_n     smb B_b      B_b           min rest
+
+4 systems /19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/19 35 19 35 19 10/
+pagenum 7
+innerhead Wechsel der Zeiten, fÃ¼r SAA, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg JÃ¼nger, Musik (c) 2000 Peter Billam
+/
+3 bars |10|11|8|
+|
+=1 treble 10/8 min G  min. A  Bb  min Bb
+r0.5 .06 Wo .24 einst .52 nur .80 die
+=2 treble 10/8 min Eb min. F# G   min Fn
+=3 treble   10/8 min C min. C Db min Db
+|
+=1 11/4 smb db min c min. Bb  min A
+r0.5 .06 Ei .22 - .36 chen   - .55 wÃ¤l .75 - .81 der
+=2 11/4 smb F min F# min. F#  min F#
+=3 11/4 smb A_ min B_b min. Eb min C
+|
+=1 8/4 smb Bb  min. db  cro rest
+r0.5 .06 wuch .33 - .53 sen,
+=2 8/4 smb G   min. G  cro rest
+=3 8/4 smb Db min. B_b cro rest
+/
+3 bars |10/4 4 4 4 5 5 4 5 4 4 4 \
+ | 10/4 4 4 5 4 5 4 5 4 5 4 | 8/4 5 4 5 4 4 4 4 4 |
+|
+il0.4 .06 15
+=1 treble 10/4 cro F#{2 G}2 min. A Bb' cro Bb,{1 c}1
+r0.5 .06 Wo .24 einst .52 nur .80 die
+=2 treble 10/4 min Eb cro Gb{2 F Gb}2 Gn{2 F En}2 min F
+=3 treble   10/4 min C min. C Db min Db
+|
+=1 min. db cro c{1 A,}1 Bb,{1 c Bb,}1 min A
+r0.5 .02 Ei .17 - .30 chen   - .50 wÃ¤l .67 - .79 der
+=2 cro F{2 E F}2 min F# min. F# cro E{2 F#}2
+=3 min. A_  min B_b       min. Eb      min C
+|
+=1 8/4 min Bb,{1 cro c}1 min. db min rest
+r0.5 .05 wuch .27 - .40 sen,
+=2 8/4 cro G{2 F# min E}2 cro F#{2 G}2 min rest
+=3 8/4 min. Db min. B_b min rest
+/
+3 bars |5|13|13|
+|
+=1 treble 5/4 smb dn cro rest
+r0.5 .08 Dort
+=2 treble 5/4 smb F# cro rest
+=3 treble   5/4 smb B_ cro rest
+|
+=1 13/4 min. c# min B F  smb d min c#
+r0.5 .05 wach .19 - .24 sen  .40 am .56 En .70 - .84 de
+=2 13/4 min. Eb min F Eb smb F min Gb
+=3 13/4 min. A_  min G_# B_ smb A_ min A_
+|
+il0.3 .05 20
+=1 min. B  min G# smb A  min. A   cro rest
+r0.5 .01 wie .12 - .22 der .40 Ei .54 - .67 chen.
+=2 min. Gb min Gb smb F min. Gb  cro rest
+=3 min. D min B_  smb D min. C# cro rest
+/
+3 bars |9/4 5 5 5 5 5 4 5 5 4 \
+ | 11/4 5 4 5 4 5 5 5 5 5 5 4 |10/4 4 4 5 4 4 4 5 4 4 4 ||
+|
+=1 treble 9/4 min d min. c# min B, cro G{2 Ab}2
+r0.5 .06 Dort .28 wach .47 - .55 sen .79 am
+=2 treble 9/4 min Gb min. Eb cro Eb{2 D}2 min Eb
+=3 treble   9/4 cro B_{2 A_#}2 A_n{2 G_# F_#}2 min G_# B_
+|
+=1 11/4 min. d         min c#   cro B'{2 A# G# F#}2 min G#
+r0.5      En     -     de         wie      -      der
+=2 11/4 cro F{2 En F}2 Gb{2 F smb Gb}2              cro F Gb
+=3 11/4 min. A_         min A_    smb D              min B_
+|
+=1 10/4 min. A smb.. A
+r0.5 .06 Ei .23 - .34 chen.
+=2 10/4 cro F{2 E F min. Gb cro F}2 min. Gb
+=3 10/4 min. D smb.. C#
+
+4 systems 10 /19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/19 35 19 35 19 10/
+pagenum 8
+title Wechsel der Zeiten
+innerhead fÃ¼r TTB, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg JÃ¼nger, Musik (c) 2000 Peter Billam
+/
+4 bars |2.4 |10/4 1 1 1 1 1 1 1 1.4 1 1 |9/4 9 | 10/4 1 1 1 1 1 1 1.4 1 1.4 1|
+|
+i0.4         Ruhig
+=1 treble8vab min F#
+r0.5 .07 Die
+=2 treble8vab min E
+=3 bass   min A
+|
+=1 10/4 smb c min. B cro rest min F#
+r0.5 .05 StÃ¤d .27 - .42 te, .80 die
+=2 10/4 smb E min. E cro rest min D
+=3 10/4 smb F# min. G cro rest min Ab
+|
+=1 9/4 min G# G# min. Bb min Bb
+r0.5 .06 aus .25 der .46 Wild .68 - .77 nis
+=2 9/4 min D Eb min. Eb min F
+=3 9/4 min Bb Bb min. c min db
+|
+=1 10/4 smb db min c cro rest min. F#
+r0.5 .06 wach .28 - .43 sen, .71 Die
+=2 10/4 smb Gb min Gb cro rest cro B_{2 E D#}2
+=3 10/4 smb eb min eb cro rest min. A
+/
+3 bars |9/4 4 5 5 4 5 5 5 4 4 \
+ | 10/4 4 5 4 5 4 5 4 5 5 4 | 11/4 4 5 4 4 4 5 4 4 5 4 4|
+|
+il0.4     5
+=1 treble8vab 9/4 smb c min. B min F#
+r0.5 .06 StÃ¤d .28 - .48 te, .77 die
+=2 treble8vab 9/4 cro E{2 A G# F#}2 E{2 D# C#}2 min Dn
+=3 bass   9/4 smb F# min. G cro G#{2 A}2
+|
+=1 10/4 min G# G# min. Bb'{2 cro A}2 min Bb'
+r0.5 .06 aus .24 der .43 Wild .64 - .80 nis
+=2 10/4 min D cro D#{2 E}2 Eb{2 F min Gb}2 cro F{2 Gn}2
+=3 10/4 cro A#{2 B}2 min A# smb cn min db
+|
+=1 11/4 min. db{1 cro Bb,}1 smb c cro rest min Bb
+r0.5 .06 wach .29 - .40 sen, .82 Sie
+=2 11/4 cro Gb{2 F min. Gb cro F}2 min Gb cro rest min Gn
+=3 11/4 smb eb eb cro rest min db
+/
+2 bars |16/4 64 |14/4 4 4 4 4 4 4 4 4 4 4 4 5 4 4|
+|
+=1 treble8vab 16/4 smb db min. c   min dn  min. eb{1 min d}1 eb
+r0.5 .04 mÃ¼s .17 - .27 sen .44 der .58 Wild .76 - .87 nis
+=2 treble8vab 16/4 smb G  min. G   min G(2 min. G)2  min F   Gb
+=3 bass   16/4 smb f min. eb min Bb  min. A(2  min A)2 A
+|
+=1 14/4 smb gb min f min. e  min d  cro rest min Bb
+r0.5 .05 wie .19 - .30 der .45 wei .56 - .63 chen. .85 Sie
+=2 14/4 smb B  min B min. G  min G  cro rest min G
+=3 14/4 smb G# min A min. Bb min Bb cro rest d{1 e}1
+/
+2 bars |14/4 4 4 4 4 4 4 5 5 4  5 4  5 4 4 |17/4 5 4 5 5 4 4 4 5 4 4 5 4 5 4 4 4 4|
+|
+il0.4    10
+=1 treble8vab min db c dn min. eb{1 min d}1 min. eb
+r0.5 .02 mÃ¼s - .14 sen .29 der .43 Wild .63 - .78 nis
+=2 treble8vab cro G{2 A}2 G{2 A}2 G{2 D}2 C{2 D Eb min F}2 cro F#{2 G# A}2
+=3 bass min f eb Bb cro A{2 F# G A Bn}2 min. A
+|
+=1 17/4 smb gb              min. f        smb e        d             min rest
+r0.5 .05 wie .17 - .25 der .43 wei .56 - .65 chen.
+=2 17/4 smb B               cro D{2 E F G}2 C#{2 D E F#}2 E{2 F# G}2 min rest
+=3 17/4 cro G#{2 A# B c#}2 min. An       smb Bb       Bb            min rest
+
+4 systems /19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/19 35 19 35 19 10/
+pagenum 9
+innerhead Wechsel der Zeiten, fÃ¼r TTB, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg JÃ¼nger, Musik (c) 2000 Peter Billam
+/
+3 bars |10|11|8|
+|
+=1 treble8vab 10/8 min G  min. A  Bb  min Bb
+r0.5 .06 Wo .24 einst .52 nur .80 die
+=2 treble8vab 10/8 min Eb min. F# G   min Fn
+=3 bass   10/8 min c min. c db min db
+|
+=1 11/4 smb db min c min. Bb  min A
+r0.5 .06 Ei .22 - .36 chen   - .55 wÃ¤l .75 - .81 der
+=2 11/4 smb F min F# min. F#  min F#
+=3 11/4 smb A min Bb min. eb min c
+|
+=1 8/4 smb Bb  min. db  cro rest
+r0.5 .06 wuch .33 - .53 sen,
+=2 8/4 smb G   min. G  cro rest
+=3 8/4 smb db min. Bb cro rest
+/
+3 bars |10/4 4 4 4 5 5 4 5 4 4 4 \
+ | 10/4 4 4 5 4 5 4 5 4 5 4 | 8/4 5 4 5 4 4 4 4 4 |
+|
+il0.4    15
+=1 treble8vab 10/4 cro F#{2 G}2 min. A Bb' cro Bb,{1 c}1
+r0.5 .06 Wo .24 einst .52 nur .80 die
+=2 treble8vab 10/4 min Eb cro Gb{2 F Gb}2 Gn{2 F En}2 min F
+=3 bass   10/4 min c min. c db min db
+|
+=1 min. db cro c{1 A,}1 Bb,{1 c Bb,}1 min A
+r0.5 .02 Ei .17 - .30 chen   - .50 wÃ¤l .67 - .79 der
+=2 cro F{2 E F}2 min F# min. F# cro E{2 F#}2
+=3 min. A  min Bb       min. eb      min c
+|
+=1 8/4 min Bb,{1 cro c}1 min. db min rest
+r0.5 .05 wuch .27 - .40 sen,
+=2 8/4 cro G{2 F# min E}2 cro F#{2 G}2 min rest
+=3 8/4 min. db min. Bb min rest
+/
+3 bars |5|13|13|
+|
+=1 treble8vab 5/4 smb dn cro rest
+r0.5 .08 Dort
+=2 treble8vab 5/4 smb F# cro rest
+=3 bass   5/4 smb B cro rest
+|
+=1 13/4 min. c# min B F  smb d min c#
+r0.5 .05 wach .19 - .24 sen  .40 am .56 En .70 - .84 de
+=2 13/4 min. Eb min F Eb smb F min Gb
+=3 13/4 min. A  min G# B smb A min A
+|
+il0.3    20
+=1 min. B  min G# smb A  min. A   cro rest
+r0.5 .01 wie .12 - .22 der .40 Ei .54 - .67 chen.
+=2 min. Gb min Gb smb F min. Gb  cro rest
+=3 min. d min B  smb d min. c# cro rest
+/
+3 bars |9/4 5 5 5 5 5 4 5 5 4 \
+ | 11/4 5 4 5 4 5 5 5 5 5 5 4 |10/4 4 4 5 4 4 4 5 4 4 4 ||
+|
+=1 treble8vab 9/4 min d min. c# min B, cro G{2 Ab}2
+r0.5 .06 Dort .28 wach .47 - .55 sen .79 am
+=2 treble8vab 9/4 min Gb min. Eb cro Eb{2 D}2 min Eb
+=3 bass   9/4 cro B{2 A#}2 An{2 G# F#}2 min G# B
+|
+=1 11/4 min. d         min c#   cro B'{2 A# G# F#}2 min G#
+r0.5      En     -     de         wie      -      der
+=2 11/4 cro F{2 En F}2 Gb{2 F smb Gb}2              cro F Gb
+=3 11/4 min. A         min A    smb d              min B
+|
+=1 10/4 min. A smb.. A
+r0.5 .06 Ei .23 - .34 chen.
+=2 10/4 cro F{2 E F min. Gb cro F}2 min. Gb
+=3 10/4 min. d smb.. c#
+@
+
+
+1.5
+log
+@add timesigs, consistent headers
+@
+text
+@d1 73
+d75 78
+a152 1
+pagenum 12
+d154 2
+a155 2
+innerhead Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg Jünger, Musik (c) 2000 Peter Billam
+d157 1
+a157 1
+4 bars | 2.4|10|9|10|
+d161 1
+a161 1
+r0.5         Die
+d163 1
+a163 1
+=3 bass   min a
+d166 1
+a166 1
+r0.5      Städ       -       te,            die
+d168 1
+a168 1
+=3 10/4 smb f# min. g cro rest min ab
+d171 1
+a171 1
+r0.5      aus     der     Wild    -    nis
+d173 1
+a173 1
+=3 9/4 min bb bb min. c~ min d~b
+d176 3
+a178 3
+r0.5      wach     -     sen,            Die
+=2 10/4 smb Gb min Gb cro rest cro B_(2 E D#)2
+=3 10/4 smb e~b min e~b cro rest min. a
+d180 1
+a180 1
+3 bars | 9|10|11|
+d184 13
+a196 13
+r0.5           Städ        -        te,            die
+=2 treble 9/4 cro E(2 A G# F#)2 E(2 D# C#)2 min Dn
+=3 bass   9/4 smb f# min. g cro g#(1 a)1
+|
+=1 10/4 min G# G# cro Bb'(2 F Gb A)2 min Bb'
+r0.5      aus        der        Wild     -     nis
+=2 10/4 min D cro D#(2 E)2 smb Eb cro F(2 G)2
+=3 10/4 cro a#(1 b)1 min a# smb c~n min d~b
+|
+=1 11/4 min. db(1 cro Bb,)1 smb c cro rest min Bb
+r0.5      wach      -      sen,                     Sie
+=2 11/4 cro Gb(2 F min. Gb cro F)2 min Gb cro rest min Gn
+=3 11/4 smb e~b e~b cro rest min d~b
+d198 1
+a198 1
+3 bars | 16|14|
+d200 4
+a203 5
+il0.4    10
+=1 treble 16/4 smb db min. c   min dn  min. eb(1 min d)1 eb
+r0.5           müs       -        sen          der          Wild         -         nis
+=2 treble 16/4 smb G  min. G   min G(2 min. G)2  min F   Gb
+=3 bass   16/4 smb f~ min. e~b min bb  min. a(1  min a)1 a
+d206 1
+a206 1
+r0.5      wie       -       der        wei    -    chen.            Sie
+d208 1
+a208 1
+=3 14/4 smb g# min a min. bb min bb cro rest d~(1 e~)1
+d210 1
+a210 1
+2 bars |14|17|
+d212 5
+a216 4
+=1 treble min db c dn min. eb(1 min d)1 min. eb
+r0.5           müs   -   sen      der        Wild        -        nis
+=2 treble cro G(2 A)2 G(2 A)2 G(2 D)2 C(2 D Eb min F)2 cro F#(2 G# A)2
+=3 bass min f~ e~b bb cro a(1 f# g a bn)1 min. a
+d219 3
+a221 3
+r0.5      wie       -       der              wei       -       chen.
+=2 17/4 smb B               cro D(2 E F)2 G(2 C# D E)2 F#(2 Fn F# G)2 min rest
+=3 17/4 cro g#(1 a# b c~#)1 min. an       smb bb       bb            min rest
+d223 4
+a226 4
+4 systems /19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/19 35 19 35 19/
+pagenum 13
+innerhead Wechsel der Zeiten, Die Zeiten, Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg Jünger, Musik (c) 2000 Peter Billam
+a229 1
+il0.4    15
+d231 3
+a233 3
+r0.5            Wo      einst          nur              die
+=2 treble 10/8 min Eb min. F# G   min F
+=3 bass   10/8 min c~ min. c~ d~b min d~b
+d236 1
+a236 1
+r0.5      Ei        -        chen  -   wäl      -      der
+d238 1
+a238 1
+=3 11/4 smb a min bb min. e~b min c~
+d241 1
+a241 1
+r0.5      wuch     -     sen,
+d243 1
+a243 1
+=3 8/4 smb d~b min. bb cro rest
+d245 2
+a246 1
+3 bars |10|10|8|
+d248 15
+a262 14
+=1 treble 10/4 cro F#(2 G)2 min. A Bb' cro Bb,(1 c)1
+r0.5            Wo      einst          nur              die
+=2 treble 10/4 min Eb cro Gb(2 F Gb)2 Gn(2 F En)2 min F
+=3 bass   10/4 min c~ min. c~ d~b min d~b
+|
+=1 min. db cro c(1 A,)1 Bb,(1 c Bb,)1 min A
+r0.5      Ei      -      chen   -   wäl      -      der
+=2 cro F(2 E F)2 min F# min. F# cro E(2 F#)2
+=3 min. a  min bb       min. e~b      min c~
+|
+=1 8/4 min Bb,(1 cro c)1 min. d min rest
+r0.5      wuch     -     sen,
+=2 8/4 cro G(2 F# min E)2 cro F#(2 G)2 min rest
+=3 8/4 min. d~b min. bb min rest
+d267 1
+a267 1
+r0.5            Dort
+d269 151
+a419 1
+=3 bass   5/4 smb b cro rest
+d422 1
+a422 1
+r0.5      wach    -    sen     am       En        -        de
+d424 1
+a424 1
+=3 13/4 min. a  min g# b smb a min a
+d428 1
+a428 1
+r0.5      wie     -     der       Ei       -       chen.
+d430 1
+a430 1
+=3 min. d~ min b  smb d~ min. c~# cro rest
+d432 2
+a433 1
+3 bars |9|11|10||
+d435 4
+a438 4
+=1 treble 9/4 min d min. c# min B, cro G(2 Ab)2
+r0.5          Dort    wach    -    sen         am
+=2 treble 9/4 min Gb min. Eb cro Eb(2 D)2 min Eb
+=3 bass   9/4 cro b(1 a#)1 an(1 g# f#)1 min g# b
+d440 1
+a440 1
+=1 11/4 min. d         min c#   cro B'(2 A# G# F#)2 min G#
+d442 2
+a443 2
+=2 11/4 cro F(2 En F)2 Gb(2 F)2 smb Gb              cro F(2 Gb)2
+=3 11/4 min. a         min a    smb d~              min b
+d446 3
+a448 3
+r0.5      Ei    -    chen.
+=2 10/4 cro F(2 E F)2 min. Gb(2 cro F min. Gb)2
+=3 10/4 min. d~ smb.. c~#
+@
+
+
+1.4
+log
+@a few changes, some xp's, align words
+@
+text
+@d4 2
+a5 2
+innerhead Gedicht: Jünger, Musik: Peter Billam
+leftfoot Gedicht (c) 1960 Friedrich Georg Jünger, (c) 2000 Peter Billam
+d15 14
+a28 14
+=1 smb c min. B cro rest min F#
+r0.5   Städ       -       te,            die
+=2 smb E min. E cro rest min D
+=3 smb f# min. g cro rest min ab
+|
+=1 min G# G# min. Bb min Bb
+r0.5   aus     der     Wild    -    nis
+=2 min D Eb min. Eb F
+=3 min bb bb min. c~ min d~b
+|
+=1 smb db min c cro rest min. F#
+r0.5   wach     -     sen,            Die
+=2 smb Gb min Gb cro rest cro B_(2 E D#)2
+=3 smb e~b min e~b cro rest min. a
+d32 15
+a46 14
+=1 treble smb c min. B min F#
+r0.5        Städ        -        te,            die
+=2 treble cro E(2 A G# F#)2 E(2 D# C#)2 min Dn
+=3 bass   smb f# min. g cro g#(1 a)1
+|
+=1 min G# G# cro Bb'(2 F Gb A)2 min Bb'
+r0.5   aus        der        Wild     -     nis
+=2 min D cro D#(2 E)2 smb Eb cro F(2 G)2
+=3 cro a#(1 b)1 min a# smb c~n min d~b
+|
+=1 min. db(1 cro Bb,)1 smb c cro rest min Bb
+r0.5   wach      -      sen,                     Sie
+=2 cro Gb(2 F min. Gb cro F)2 min Gb cro rest min Gn
+=3 smb e~b e~b cro rest min d~b
+d50 10
+a59 9
+=1 treble smb db min. c   min dn  min. eb(1 min d)1 eb
+r0.5       müs        -        sen        der        Wild         -         nis
+=2 treble smb G  min. G   min G(2 min. G)2  min F   Gb
+=3 bass   smb f~ min. e~b min bb  min. a(1  min a)1 a
+|
+=1 smb gb min f min. e  min d  cro rest min Bb
+r0.5   wie       -       der        wei    -    chen.            Sie
+=2 smb B  min B min. G  min G  cro rest min G
+=3 smb g# min a min. bb min bb cro rest d~(1 e~)1
+d64 1
+a64 1
+r0.5        müs   -   sen      der        Wild        -        nis
+d68 4
+a71 4
+=1 smb gb              min. f        smb e        d             min rest
+r0.5   wie       -       der              wei     -     chen.
+=2 smb B               cro D(2 E F)2 G(2 C# D E)2 F#(2 F F# G)2 min rest
+=3 cro g#(1 a# b c~#)1 min. an       smb bb       bb            min rest
+d76 1
+a76 1
+leftfoot Gedicht (c) 1960 Friedrich Georg Jünger, (c) 2000 Peter Billam
+d80 15
+a94 14
+=1 treble min G  min. A  Bb  min Bb
+r0.5         Wo      einst          nur              die
+=2 treble min Eb min. F# G   min F
+=3 bass   min c~ min. c~ d~b min d~b
+|
+=1 smb db min c min. Bb  min A
+r0.5   Ei        -        chen  -   wäl      -      der
+=2 smb F min F# min. F#  min F#
+=3 smb a min bb min. e~b min c~
+|
+=1 smb Bb  min. db  cro rest
+r0.5   wuch     -     sen,
+=2 smb G   min. G  cro rest
+=3 smb d~b min. bb cro rest
+d98 4
+a101 4
+=1 treble cro F#(2 G)2 min. A Bb' cro Bb,(1 c)1
+r0.5         Wo      einst          nur              die
+=2 treble min Eb cro Gb(2 F Gb)2 Gn(2 F En)2 min F
+=3 bass   min c~ min. c~ d~b min d~b
+d104 1
+a104 1
+r0.5   Ei      -      chen   -   wäl      -      der
+d108 4
+a111 4
+=1 min Bb,(1 cro c)1 min. d min rest
+r0.5   wuch     -     sen,
+=2 cro G(2 F# min E)2 cro F#(2 G)2 min rest
+=3 min. d~b min. bb min rest
+d115 9
+a123 9
+=1 treble smb dn cro rest
+r0.5         Dort
+=2 treble smb F# cro rest
+=3 bass   smb b cro rest
+|
+=1 min. c# min B F  smb d min c#
+r0.5   wach    -    sen     am       En        -        de
+=2 min. Eb min F Eb smb F min Gb
+=3 min. a  min g# b smb a min a
+d125 1
+d127 1
+a127 1
+r0.5   wie     -     der       Ei       -       chen.
+d133 14
+a146 14
+=1 treble min d min. c# min B, cro G(2 Ab)2
+r0.5       Dort    wach    -    sen         am
+=2 treble min Gb min. Eb cro Eb(2 D)2 min Eb
+=3 bass   cro b(1 a#)1 an(1 g# f#)1 min g# b
+|
+=1 min. d         min c#   cro B'(2 A# G# F#)2 min G#
+r0.5   En     -     de         wie      -      der
+=2 cro F(2 En F)2 Gb(2 F)2 smb Gb              cro F(2 Gb)2
+=3 min. a         min a    smb d~              min b
+|
+=1 min. A smb.. A
+r0.5   Ei    -    chen.
+=2 cro F(2 E F)2 min. Gb(2 cro F min. Gb)2
+=3 min. d~ smb.. c~#
+@
+
+
+1.3
+log
+@half a dozen small changes
+@
+text
+@d2 1
+d4 2
+a5 2
+lefthead Friedrich Georg Jünger
+righthead Peter Billam
+d9 1
+d16 1
+a16 1
+r0.5   Städ    -    te,         die
+d27 1
+a27 1
+=2 smb Gb min Gb cro rest cro E(2 B_ D#)2
+d33 2
+a34 2
+r0.5        Städ    -    te,        die
+=2 treble cro E(2 A G# F#)2 E(2 C# D#)2 min Dn
+d38 1
+a38 1
+r0.5   aus        der        Wild    -    nis
+d43 2
+a44 2
+r0.5   wach    -    sen,               Sie
+=2 cro Gb(2 F)2 min. Gb(2 cro F)2 min Gb cro rest min Gn
+d50 1
+a50 1
+r0.5      müs   -   sen   der   Wild    -    nis
+d55 1
+a55 1
+r0.5   wie    -    der weichen.    Sie
+d62 8
+a69 8
+r0.5   müssen der Wildnis
+=2 treble cro G(2 A)2 G(2 A)2 G(2 D)2 C(2 D Eb)2 min F cro F#(2 G# A)2
+=3 bass min f~ e~b bb cro a(1 f# g)1 a(1 bn)1 min. a
+|
+=1 smb gb              min. f        smb e        d              min rest
+r0.5   wieder weichen.
+=2 smb B               cro D(2 E F)2 G(2 C# D E)2 G(2 F# min G)2 rest
+=3 cro g#(1 a# b c~#)1 min. an       smb bb       bb             min rest
+d72 3
+a74 3
+pagenum 10
+innerhead Wechsel der Zeiten (Jünger), Die Zeiten, Peter Billam
+leftfoot (c) 2000 Peter J Billam
+d79 1
+a79 1
+r0.5            Wo       einst       nur       die
+d84 1
+a84 1
+r0.5   Ei   -   chen   -   wäl   -   der
+d89 1
+a89 1
+r0.5   wuchsen,
+d96 1
+a96 1
+r0.5   Wo einst nur die
+d101 2
+a102 2
+r0.5   Eichenwälder
+=2 cro F(2 E F)2 min Gb min. Gb cro E(2 F#)2
+d106 1
+a106 1
+r0.5   wuchsen,
+d112 1
+a112 1
+=1 treble smb d cro rest
+d118 2
+a119 2
+r0.5   wachsen am Ende
+=2 min. D# min F Eb smb F min Gb
+d123 1
+a123 1
+r0.5   wie   -   der       Ei   -   chen.
+d130 1
+a130 1
+r0.5     Dort wachsen am
+d134 4
+a137 4
+=1 min. d        min c#   cro B'(2 A# G# F#)2 min G#
+r0.5   Ende wieder
+=2 cro F(2 E F)2 Gb(2 F)2 smb Gb              cro F(2 Gb)2
+=3 min. a        min a    smb d~              min b
+d140 2
+a141 2
+r0.5   Eichen.
+=2 cro F(2 E F)2 min. Gb(2 cro F)2 min. Gb
+@
+
+
+1.2
+log
+@many mods, esp rhythmic suppleness
+@
+text
+@d6 1
+a6 1
+4 bars | 1.5|4|4|4|
+d28 1
+a28 1
+3 bars | 4|4|4|
+d45 1
+a45 1
+3 bars | 4|4|
+d57 1
+a57 1
+2 bars | 4|4|
+d74 1
+a74 1
+3 bars | 4|4|3|
+d91 1
+a91 1
+3 bars | 4|4|3|
+d95 2
+a96 2
+=2 treble min Eb cro Gb(2 F Gb)2 Gn(2 F E)2 min F
+=3 bass   min c~ c~ d~b min d~b
+d108 1
+a108 1
+3 bars | 2.5|4|4|
+d117 1
+a117 1
+=2 min. D# min F Eb smb F min F#
+d122 1
+a122 1
+=2 min. F# min F# smb Fn min. F#  cro rest
+d125 1
+a125 1
+3 bars | 4|4|3||
+d129 1
+a129 1
+=2 treble min F# min. D# cro Eb(2 D)2 min Eb
+d132 1
+a132 1
+=1 min. d        min c#    cro B'(2 A# G# F#)2 min G#
+d134 2
+a135 2
+=2 cro F(2 E F)2 F#(2 Fn)2 smb F#              cro Fn(2 F#)2
+=3 min. a        min a     smb d~              min b
+d139 1
+a139 1
+=2 cro Fn(2 E F)2 min. F#(2 cro Fn)2 min. F#
+@
+
+
+1.1
+log
+@remainder entered, first sketch
+@
+text
+@d1 1
+a1 1
+5 systems /19 24 19 24 19/19 24 19 24 19/19 24 19 24 19/19 24 19 24 19/19 24 19 24 19/
+d8 19
+a26 19
+=1 treble min. F#
+r0.5      Die
+=2 treble min. E
+=3 bass   min. a
+|
+=1 smb c B cro rest min F#
+r0.5   Städte, die
+=2 smb E E cro rest min D
+=3 smb f# g cro rest min ab
+|
+=1 min G# G# Bb Bb
+r0.5   aus der Wildnis
+=2 min D Eb Eb F
+=3 min bb bb c~ d~b
+|
+=1 smb db c cro rest smb F#
+r0.5   wachsen,               Die
+=2 smb Gb Gb cro rest cro E(1 B_ C D#
+=3 smb e~b e~b cro rest smb a
+d30 9
+a38 9
+=1 treble smb c B min. F#
+r0.5   Städte, die
+=2 treble cro E)1 A(2 G# F# E)2 C#(2 D# E)2 min. Dn
+=3 bass   smb f# g cro g#(1 a b)1
+|
+=1 min. G# G# cro Bb' F(2 Gb A)2 min Bb'
+r0.5   aus der Wildnis
+=2 min. D cro D#(2 E C)2 smb Eb cro F(2 G)2
+=3 cro a#(1 b c~#)1 min. a# smb c~n min d~b
+d41 2
+a42 2
+r0.5   wachsen,               Sie
+=2 cro Gb(2 F)2 min Gb cro Gb(2 F)2 min Gb cro rest min G
+d47 9
+a55 9
+=1 treble smb db c dn eb(1 d)1 eb
+r0.5   müssen der Wildnis
+=2 treble smb G G G C(2 F)2 Gb
+=3 bass   smb f~ e~b bb a(1 a)1 a
+|
+=1 smb gb min. f smb e d min Bb
+r0.5   wieder weichen.    Sie
+=2 smb B cro D(2 E F)2 smb G G min G
+=3 smb g# min. a smb bb bb cro d~(2 e~)2
+d61 2
+a62 2
+=2 treble cro G(2 A)2 G(2 A)2 G(2 D C)2 D(2 Eb min F)2 cro F#(2 G# A)2
+=3 bass min f~ e~b bb cro a(1 f# g a b)1 min. a
+d64 1
+a64 1
+=1 smb gb min. f smb e smb d min rest
+d66 7
+a72 2
+=2 smb B cro D(2 E F G)2 C#(2 D E)2 G(2 F# min G)2 rest
+=3 cro g#(1 a# b c~#)1 min. an smb bb bb min rest
+d76 9
+a84 9
+=1 treble smb G A Bb Bb
+r0.5      Wo einst nur die
+=2 treble smb Eb F# G F
+=3 bass   smb c~ c~ d~b d~b
+|
+=1 smb db c Bb A
+r0.5   Eichenwälder
+=2 smb F F# F# F#
+=3 smb a bb e~b c~
+d86 1
+a86 1
+=1 smb Bb c cro rest
+d88 2
+a89 6
+=2 smb G E cro rest
+=3 smb d~b bb cro rest
+
+5 systems /19 24 19 24 19/19 24 19 24 19/19 24 19 24 19/19 24 19 24 19/19 24 19 24 19/
+lefthead Wechsel der Zeiten, Friedrich Georg Jünger
+righthead Peter Billam
+d93 1
+a93 1
+=1 treble cro G(2 F# G)2 min. A Bb' cro Bb,(2 c)2
+d95 2
+a96 2
+=2 treble min. Eb cro Gb(2 F Gb)2 Gn(2 F E)2 min F
+=3 bass   min. c~ c~ d~b min d~b
+d98 1
+a98 1
+=1 min. db cro c(1 A,)1 Bb,(1 c Bb,)1 min. A
+d100 2
+a101 2
+=2 cro F(2 E F)2 min F# min. F# cro F#(2 E D#)2
+=3 min. a min bb min. e~b c~
+d111 1
+a111 1
+r0.5   Dort
+d115 1
+a115 1
+=1 smb c# B F d c#
+d117 2
+a118 2
+=2 smb D# F Eb F F#
+=3 smb a g# b a a
+d120 4
+a123 4
+=1 smb B G# A A cro rest
+r0.5   wieder Eichen.
+=2 smb F# F# Fn F# cro rest
+=3 smb d~ b d~ c~# cro rest
+d127 1
+a127 1
+=1 treble min d cro rest min. c# B, cro F(2 G Ab)2
+d129 2
+a130 2
+=2 treble min F# cro rest min. D# cro F(2 Eb D)2 min. Eb
+=3 bass   cro b(1 a# g#)1 an(1 g# f#)1 min. g# b
+d132 1
+a132 1
+=1 min. d c# cro B'(2 A# G# F#)2 min. G#
+d134 2
+a135 2
+=2 cro F(2 E F)2 min F# cro Fn smb F#(2 cro F#)2 Fn(2 F#)2
+=3 min. a a smb d~ min. b
+a140 1
+
+@

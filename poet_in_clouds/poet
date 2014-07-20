@@ -1,0 +1,795 @@
+3 systems /22 34 22 34 22 34 22/22 34 22 34 22 34 22/22 34 22 34 22 34 22 10/
+lefthead poem by Samuel Taylor Coleridge
+title The Poet in the Clouds
+righthead music by Peter Billam
+leftfoot (c) Peter J Billam 1995.
+midi channel 1 patch 52 pan 40 reverb 90
+midi channel 2 patch 52 pan 80 reverb 90
+midi channel 3 patch 52 pan 20 reverb 90
+midi channel 4 patch 52 pan 60 reverb 90
+/
+5 bars | 6/4 6 | 1 1 1.3 1 1 1 | 1 1.3 1.3 1 1 1 \
+ | 1.3 1 1 1.3 1.3 1 | 6 |
+| 6/4 100
+=1 treble 6/4 cha1 leg95 smb. rest
+=2 treble 6/4 cha2 leg95 min rest min. Eb{1 cro D}1
+r0.6 .36 Oh . . .
+=3' treble8vab 6/4 cha3 leg95 smb. Bb'(1
+r0.7 .08 Oh . . .
+=4 bass 6/4 cha4 leg95 smb rest min f{1
+r0.1 .68 Oh . . .
+|
+=1 smb. rest
+=2 smb. C
+=3 min Bb')1{2 cro G min. Ab}2(1
+=4 smb. eb}1(1
+|
+=1 smb. rest
+=2 cro rest F G{2 min. Ab}2
+r0.6 .17 it .34 is
+=3 cro Ab)1 rest min. c cro c
+r0.7 .35 it .84 is
+=4 cro eb)1 rest smb eb
+r0.1 .35 it
+|
+=1 smb. rest
+=2 cro G min Db cro rest Db Eb
+r0.6 .01 pleasant .65 with a
+=3 cro Bb' min Bb' cro rest Bb' Bb'
+r0.7 .01 pleasant .65 with a
+=4 min. f(1 min f)1 cro rest
+r0.1 .02 is
+|
+il0.2 5
+=1 smb. rest
+=2 min. F Eb
+r0.6 .01 heart .50 at
+=3 min. A(2 min A)2 cro rest
+r0.7 .01 heart
+=4 min. eb min g{1 cro f#}1
+r0.1 .01 it .50 is
+/
+5 bars | 6 | 6 | 6 | 6 | 6 |
+|
+=1 smb. rest
+=2 smb. D
+r0.6 .04 ease,
+=3 min. c min A{1 cro B'}1
+r0.7 .05 at .53 ease,
+=4 cro en smb A cro rest
+r0.2 .04 pleasant
+|
+=1 min rest F# cro G# A
+r0.7 .33 Just .67 after
+=2 min rest E cro E E
+r0.6 .33 Just .67 after
+=3 min c cro rest min c cro c
+r0.7 .01 Just .50 af - ter
+=4 min d cro rest min d cro d
+r0.2 .01 Just .50 af - ter
+|
+=1 min. d c
+r0.7 .01 sun .31 - .50 set,
+=2 min E{1 cro F#}1 min. G
+r0.6 .01 sun .31 - .50 set,
+=3 min. A min A cro rest
+r0.7 .01 sun .31 - .50 set,
+=4 min. c min e cro rest
+r0.2 .01 sun .31 - .50 set,
+|
+=1 min rest A B'
+r0.7 .34 or .67 by
+=2 min rest min. E cro F
+r0.6 .34 or .84 by
+=3 smb B min d
+r0.7 .02 or .67 by
+=4 smb g min b
+r0.2 .02 or .67 by
+|
+il0.3 .33 10
+=1 min. f d
+r0.7 .04 moonlight
+=2 min. B' E
+r0.6 .04 moonlight
+=3 min. d min B' cro rest
+r0.7 .04 moonlight
+=4 min. a a
+r0.2 .04 moonlight
+/
+5 bars | 1 1 1 1 1.3 1 | 5/4 5 | 4/4 1.3 1 1 1 | 1 1.3 1 1 | 2.6 2 |
+|
+=1 smb. B
+r0.7 .04 skies,
+=2 smb F#{1 min E}1(2
+r0.7 .04 skies . . .
+=3 smb d min rest
+r0.7 .04 skies,
+=4 smb g# cro rest f#
+r0.2 .04 skies, .80 To
+| 5/4 100
+=1 5/4 min. rest cro F{2 G}2
+r0.7 .62 To
+=2 5/4 min. E)2 min rest
+=3 5/4 cro A# smb B
+r0.7 .03 moonlight
+=4 5/4 min e min. d
+r0.2 .05 make .43 the
+| 4/4 100
+=1 4/4 min. Ab cro G
+r0.7 .10 make .76 the
+=2 4/4 cro D Eb{1 D}1 D
+r0.5 .09 To  .37 make .76 the
+=3 4/4 min. A# cro rest
+r0.7 .10 skies
+=4 4/4 min. c cro Bb 
+r0.2 .10 shift .49 - .76 ing
+|
+=1 cro A# B'{2 min A#}2
+r0.7 .05 shifting
+=2 min D D
+r0.5 .05 shift - ing
+=3 min F cro Gb F
+r0.7 .01 To .46 make the
+=4 smb Ab(1
+r0.2 .02 clouds . . .
+|
+il0.3 15
+=1 min G# cro A#{2 B'}2
+r0.7 .01 clouds .54 be
+=2 min D C#
+r0.5 .01 clouds .54 be
+=3 cro E F# E E
+r0.7 shifting clouds be
+=4 cro Ab)1 rest min G#
+r0.2 .54 be
+
+3 systems /22 34 22 40 22 34 22/22 34 22 34 22 34 22/22 34 22 34 22 34 22 10/
+pagenum 4
+innerhead The Poet in the Clouds, Peter Billam
+leftfoot (c) Peter J Billam 1995.
+/
+6 bars | 6/4 12 | 1.7 1.7 1.7 2 2.6 2 | 4/4 1.1 1.1 1.1 1.6 1.1 1.1 1.1 1.1 \
+ | 1 1 1 2.4 1 1 1 1.5 | 1 1 1 2.9 1 1 1 1 | 1 1 1 2.0 1.3 1.3 1 1 |
+| 6/4 100
+=1 6/4 min. e d#
+r0.7 .05 what .52 you
+=2 6/4 min. G# G#
+r0.7 .05 what .52 you
+=3 6/4 min. B' B'
+r0.7 .05 what .52 you
+=4 6/4 min. F# c#
+r0.2 .05 what .52 you
+|
+=1 smb c# cro rest E
+r0.7 .01 please, .75 Or
+=2 smb G# cro rest C#
+r0.7 .01 please,
+r0.5 .75 Or
+=3 smb. B
+r0.7 .01 please,
+=4 smb e cro rest f#
+r0.1 .01 please, .75 Or
+| 4/4 100
+=1 4/4 cro. Ab qua rest min G
+r0.7 .11 let .52 the
+=2 4/4 cro. C# qua rest min C#
+r0.6 .11 let .52 the
+=3 4/4 smb rest
+=4 4/4 cro. e qua rest min e
+r0.2 .11 let .52 the
+|
+=1 min.. c qua Eb
+r0.7 .01 ea .42 - .82 si
+=2 smb Cn(1
+r0.4 .01 eas .54 -
+=3 smb rest
+=4 cro. f# qua g min eb(1
+r0.2 .01 ea  .20 - .39 sily .75 -
+|  
+il0.2 20
+=1 min G F
+r0.7 .01 ly .54 per  -
+=2 cro. C)1 qua A_ cro B_b C
+r0.4 - .38 ily .75 per -
+=3 smb. rest
+=4 smb. eb)1
+r0.2 .10 -
+|
+=1 min Bb' cro A{2 G}2
+r0.7 .07 suaded
+=2 min D C
+r0.4 .07 suaded
+=3 smb. rest
+=4 cro. g qua c cro d, eb
+r0.1 .01 ea  - .38 sily .75 per   -
+/
+5 bars | 6/4 6 | 6 | 4/4 4 | 4 | 1.3 1 1.3 1 |
+| 6/4 100
+=1 6/4 cro A{1 smb F#}1 cro rest
+r0.7 .10 eyes
+=2 6/4 smb C min rest
+r0.5 .10 eyes
+=3 6/4 smb. rest
+=4 6/4 min d' cro en min. d'
+r0.1 .10 suad - ed .54 eyes
+|
+=1 min F# cro rest cro. B' A
+r0.7   Own .50 each  quaint
+=2 min. E  cro. F# F#
+r0.6   Own .50 each  quaint
+=3 min. B' cro. d e
+r0.7   Own .50 each  quaint
+=4 min a cro rest cro. b c~#
+r0.1   Own .50 each  quaint
+| 4/4 100
+=1 4/4 cro G# min B' cro rest
+r0.7      likeness
+=2 4/4 min. F# cro E(1
+r0.6      like    -    ness
+=3 4/4 min. e cro d(1
+r0.7      like    -    ness
+=4 4/4 cro d~ min d~ cro rest
+r0.1      likeness
+|
+il0.2      25
+=1 min F# cro A B'(1
+r0.7    is   -   su - ing
+=2 cro E)1 min E cro E
+r0.6 .25 is  .53 - .75 su -
+=3 cro d)1 min d cro d
+r0.7 .25 is  .53 - .75 su -
+=4 min. rest cro b
+r0.2 .75 is   -
+|
+=1 cro B')1 min G# cro B'
+r0.7       from      the
+=2 min F# cro F# F#
+r0.6  ing     from the
+=3 min e cro e e
+r0.7  ing     from the
+=4 cro c~# c~# b c~#
+r0.2   suing  from the
+/
+5 bars | 4 | 6/4 1 1 1.2 1 1 1 | 6 | 5/4 1 1 1.2 1 1 | 1.2 1 1 1 1 |
+|
+=1 min. c# cro rest
+r0.7       mould
+=2 smb F#
+r0.7       mould
+=3 min. e cro rest
+r0.7       mould
+=4 min. b cro a#(1
+r0.1 .04 mould  .76 of   -
+| 6/4 100
+=1 6/4 min G# cro A# min. d
+r0.7       of      a friend's
+=2 6/4 min. E G#
+r0.7       of            a
+=3 6/4 smb. rest
+=4 6/4 min a#)1 cro g# min f#{1 cro g#}1
+r0.1 .35 a .52 friend's
+|
+=1 min c# smb B
+r0.7   fan - cy;
+=2 min. F#{1 cro C#}1 min D(1
+r0.5 .01 friend's .67 fan
+=3 smb G# min G#
+r0.7 .01 of .67 a
+=4 smb. e
+r0.1 .01 fan .59 -
+| 5/4 100
+il0.2 30
+=1 5/4 min rest min. rest
+=2 5/4 min D)1 min. C#
+r0.5 - .43 cy;
+=3 5/4 min Bb cro Bb min Bb
+r0.7 friend's  fancy;
+=4 5/4 min e(1 min. e)1
+r0.1 .06 cy;
+|
+=1 smb rest
+=2 cro rest min D cro rest F
+r0.7 .20 or .76 with
+=3 cro rest min. Ab cro G
+r0.7 .20 or .76 with
+=4 cro rest min. f cro f
+r0.1 .20 or .76 with
+
+3 systems /22 34 22 34 22 34 22/22 34 22 34 22 34 22/22 34 22 40 22 34 22 10/
+pagenum 5
+innerhead The Poet in the Clouds, Peter Billam
+leftfoot (c) Peter J Billam 1995.
+/
+5 bars | 5 | 5 | 5 | 5 | 1 1 1 1.2 1 |
+|
+=1 smb rest
+=2 min. Bb' min G
+r0.6 .05 head .61 bent
+=3 min. f min f
+r0.7 .05 head .61 bent
+=4 min. g min a
+r0.1 .05 head .61 bent
+|
+=1 smb rest
+=2 min. C# cro rest F
+r0.45 .01 low .77 And
+=3 min. Bb min c#
+r0.7 .01 low .57 And
+=4 min. g min a
+r0.1 .01 low .57 And
+|
+il0.2 35
+=1 min. rest min rest
+=2 min. Bb min db
+r0.6 .01 cheek .60 a .84 -
+=3 min. c# min Bb
+r0.6 .01 cheek .60 a .84 -
+=4 min. g min f
+r0.1 .01 cheek .60 a .84 -
+|
+=1 min. rest min Bb
+r0.7 .60 see
+=2 min. G min rest
+r0.6 .01 slant
+=3 min Bb{1 cn}1 cro db
+r0.6 .01 slant .80 see
+=4 min. e min e
+r0.1 .01 slant .60 see
+|
+=1 min. e min eb
+r0.7 .04 riv .34 - .51 ers
+=2 min G G cro G
+r0.7 .04 see .48 rivers
+=3 min db cro Bb c db
+r0.6 .07 rivers .57 flow of
+=4 min. db min db
+r0.2 .04 riv .34 - .51 ers
+/
+5 bars | 5 | 1 1 1.2 1.2 1 | 6/4 6 | 4/4 1 1 1.2 1 | 4 |
+|
+=1 min. db min Bb'
+r0.7 .01 flow .60 of
+=2 min. G min G
+r0.7 .01 flow .60 of
+=3 smb eb cro rest
+r0.6 .01 gold
+=4 min. db' min c
+r0.2 .01 flow .60 of
+|
+=1 min. c cro rest Bb'
+r0.7 .01 gold .54 'Twixt
+=2 min Eb cro Eb Eb Eb
+r0.6 gold 'Twixt crimson
+=3 min. G min Gb
+r0.7 .01 of .50 gold
+=4 min. Bb cro rest Bb
+r0.1 .01 gold .54 'Twixt
+| 6/4 100
+il0.3 .30 40
+=1 6/4 smb gb min c
+r0.7 .04 crim .35 - .63 son
+=2 6/4 smb Eb cro Eb{1 F}1
+r0.6 .04 banks, .64 'Twixt
+=3 6/4 smb. Bb
+r0.7 .04 'Twixt
+=4 6/4 smb Ab min Ab
+r0.1 .04 crim .35 - .66 son
+| 4/4 100
+=1 4/4 min. eb cro rest
+r0.7     banks . . .
+=2 4/4 min. Gb cro C
+r0.6 .01 crim .39 - .74 son
+=3 4/4 min. Bb' cro Bb'
+r0.7 .06 crim .43 - .77 son
+=4 4/4 min Ab cro rest eb
+r0.1 .06 banks, .70 'twixt
+|
+=1 min rest Bb'
+r0.7 .51 and
+=2 smb Eb
+r0.6 .02 banks ;
+=3 min. c cro c
+r0.7 .02 banks; .72 and
+=4 min. gb cro c
+r0.1 .02 crim .43 - .72 son
+/
+5 bars | 1 1 1.2 1 | 6/4 6 | 1 1 1 1 1.2 1 | 5/4 5 | 5 |
+|
+=1 min Bb' cro rest An
+r0.7 .02 then, .75 a
+=2 min F# F#
+r0.6 .02 and .52 then
+=3 min Bb cro rest A
+r0.7 .02 then, .75 a
+=4 min. eb cro rest
+r0.1 .02 banks,
+| 6/4 100
+=1 6/4 min e cro d min c cro rest
+r0.7 .06 trav  -  eller,
+=2 6/4 smb F# min rest
+r0.7 .06 go
+=3 6/4 min A cro A min A cro rest
+r0.7 .06 trav  -  eller,
+=4 6/4 smb d min e
+r0.1 .06 go .66 From
+|
+=1 smb d cro rest Bb'
+r0.7 .01 go .77 From
+=2 smb. E
+r0.7 .01 From
+=3 min. A cro rest min G
+r0.7 .01 go .64 From
+=4 smb c cro rest c
+r0.1 .01 mount .80 to
+| 5/4 100
+il0.3  45
+=1 5/4 smb e cro c#
+r0.7 .07 mount .81 to
+=2 5/4 min. A min G
+r0.7 .07 mount .63 to
+=3 5/4 min. G min A
+r0.7 .07 mount .63 to
+=4 5/4 min. c# min c#
+r0.1 .07 mount .63 to
+|
+=1 smb f cro d
+r0.7 .04 mount .60 through
+=2 min. D min F
+r0.7 .04 mount  through
+=3 smb G cro G
+r0.7 .04 mount .60 through
+=4 min. B min B
+r0.1 .04 mount through
+
+3 systems /22 34 22 34 22 34 22/22 34 22 45 22 34 22/22 34 22 40 22 34 22 10/
+pagenum 6
+innerhead The Poet in the Clouds, Peter Billam
+leftfoot (c) Peter J Billam 1995.
+/
+6 bars | 5 | 6/4 6 | 5 | 5.2 | 4/4 4 | 4 |
+|
+=1 min. g min eb
+r0.7 .05 Cloudland,
+=2 min. Eb min G
+r0.7 .05 Cloudland,
+=3 min. F min A
+r0.7 .05 Cloudland,
+=4 min. A min G
+r0.1 .05 Cloudland,
+| 6/4 100
+I0.2  f
+=1 6/4 min. a g
+r0.7 .10 gor  -  geous
+I0.1  f
+=2 6/4 min. c F
+r0.7 .10 gor  -  geous
+I0.1   f
+=3 6/4 min. c c
+r0.7 .10 gor  -  geous
+I0.1   f
+=4 6/4 smb. F
+r0.2 .10 gor .60 - 
+|
+=1 smb. f
+r0.7   land !
+=2 min. A D
+r0.7   Cloudland,
+=3 smb. c
+r0.7 .01 gor .60 - 
+=4 smb. F
+r0.2 .01 geous
+|
+il0.4 50
+=1 smb d min c
+r0.7 .01 Cloud - land,
+=2 min G F Eb(1
+r0.7 gorgeous  land . . .
+=3 smb. Bb
+r0.7 .01 geous
+=4 smb. F(1
+r0.2 .01 land . . .
+| 4/4 100
+=1 4/4 min f eb(1
+r0.7     gorgeous . . .
+=2 4/4 min Eb)1 rest
+=3 4/4 smb G
+r0.7     land
+=4 4/4 smb F)1
+|
+=1 min. eb)1 cro c(1
+r0.7 .70 land
+=2 min Eb Bb'
+r0.7 .08 gorgeous
+I0.1 .30 p
+=3 min rest G
+r0.7 .52 Or
+I0.1 pp
+=4 vol60 smb f(1
+r0.1 .08 Or . . .
+/
+6 bars | 6/4 1 1 1.2 1 1 1 | 1 1 1.4 1 1 1 | 1 1 1.4 1 1 1 \
+ | 4/4 4 | 4 | 6/4 1 1 1.4 1 1 1 |
+| 6/4 100
+I0.15                    p
+=1 6/4 min c)1 cro rest min. F
+r0.7 .53 Or
+I0.1 .60 p
+=2 6/4 smb F cro rest vol60 F_
+r0.7 .06 land
+r0.3 .84 Or
+=3 6/4 min Bb cro G min c cro G
+r0.7 .06 list'ning to .84 the
+=4 6/4 smb. f)1(1
+|
+=1 min G cro F min Bb' cro F
+r0.7 .01 list'ning  to .82 the 
+=2 min F_ cro F_ min F_ cro F_
+r0.3 .01 list'ning to .82 the 
+=3 min. eb min rest cro G
+r0.7 .01 tide .80 with
+=4 smb. f)1(1
+|
+il0.2 55
+=1 smb Eb min rest
+r0.7  tide
+=2 min F_ cro F_ min F_ cro F_
+r0.3 tide with clos-ed
+=3 min c cro G min. Bb
+r0.7 clos-ed sight
+=4 smb. f)1(1
+| 4/4 100
+=1 4/4 smb rest
+=2 4/4 min F_ rest
+r0.3 .09 sight
+=3 4/4 min rest Bb'
+r0.7 .57 Be
+=4 4/4 min f)1 rest
+|
+=1 min rest Bb'
+r0.7 .40 blind
+=2 min rest vol100 D
+r0.5 .45 Be
+=3 min e G
+r0.7 that  blind
+=4 vol100 min g c
+r0.1  Be   that
+| 6/4 100
+=1 6/4 smb Bb min rest
+r0.7 .07 bard,
+=2 6/4 min E cro C# min G# cro C#(1
+r0.5 .05 that blind bard, blind
+=3 6/4 min. F# cro rest min E
+r0.7 .07 bard, .67 who
+=4 6/4 min c# smb F#(1
+r0.2 .07 blind  bard . . .
+/
+6 bars | 4/4 1.3 1 1 1 | 1.3 1 1 1 | 4 | 1 1.3 1.3 1 | 5/4 5 | 5 |
+| 4/4 100
+=1 4/4 cro E min G# cro E
+r0.7 .08  who on .76 the
+=2 4/4 min. C#)1 cro rest
+=3 4/4 min rest A#(2
+r0.7 .53 on . . .
+=4 4/4 smb F#)1
+|
+il0.2 60
+=1 min. c# cro E
+r0.7   Chi    -    an
+=2 min. E cro B_
+r0.5  .01 bard .75 who
+=3 min A#)2 G#
+r0.7            the
+=4 cro f# min g# cro f#
+r0.1 .01 who on .75 the
+|
+=1 smb G#
+r0.7 .01 strand
+=2 min C# cro B_ E(1
+r0.5 .01 on .50 the Chi  -
+=3 min. F# cro F#
+r0.7 .01 Chi   -    an
+=4 min e e
+r0.1 .01 Chi  -  an
+|
+=1 min rest G#
+r0.7 .50 By
+=2 cro E)1 B_ C# D#
+r0.5 .24 an strand, By
+=3 min F# F#
+r0.7 .01 strand .50 By
+=4 min. e cro c#
+r0.1 .01 strand .75 By
+| 5/4 100
+=1 5/4 min. A min F#
+r0.7    those .60 deep
+=2 5/4 min. E min E
+r0.5    those .60 deep
+=3 5/4 min. F# min F#
+r0.7    those .60 deep
+=4 5/4 min. c# min d'
+r0.1    those .60 deep
+|
+=1 min. C min D
+r0.5 .04 sounds .62 pos -
+=2 smb A_ cro C(1
+r0.4 .04 sounds
+r0.5 .79 pos -
+=3 smb G cro rest
+r0.7 .04 sounds
+=4 min e cro rest min f
+r0.1 .04 sounds .62 pos  -
+
+3 systems /22 34 22 40 22 34 22/22 34 22 34 22 34 22/22 34 22 34 22 34 22 10/
+pagenum 7
+innerhead The Poet in the Clouds, Peter Billam
+leftfoot (c) Peter J Billam 1995.
+/
+6 bars | 4/4 1.2 1.3 1 1 | 1.1 1.1 1.1 1 | 4 | 4 | 4 | 6/4 1 1 1.2 1 1 1 |
+| 4/4 100
+il0.2 .04 65
+=1 4/4 min. Eb cro G
+r0.7 .06 sessed .75 with
+=2 4/4 min C)1 C(1
+r0.5 .10 - .50 sessed
+=3' 4/4 cro rest Bb min Bb
+r0.7 .25 possessed
+=4 4/4 min. c cro c
+r0.1 .06 sessed .75 with
+|
+=1 min c Bb'
+r0.7 .09 inward
+=2 cro C)1 C C C
+r0.5 .19 with inward
+=3 cro G min G cro G
+r0.7 with in - ward
+=4 min Bb Bb
+r0.1 .09 inward
+|
+=1 smb f
+r0.7 .01 light,
+=2 smb C(1
+r0.5 .01 light . . .
+=3 min. Eb cro rest
+r0.7 .01 light,
+=4 min. G cro rest
+r0.1 .01 light,
+|
+=1 min rest c
+r0.7 .50 be .85 -
+=2 min C)1 Eb
+r0.6 .50 be .90 -
+=3 smb Eb
+r0.7 .01 be .65 -
+=4 smb G
+r0.1 .01 be .65 -
+|
+=1 min. eb cro d
+r0.7 .01 held .75 the
+=2 min G C
+r0.6 .01 held .50 the
+=3 smb F
+r0.7 .01 held
+=4 min. c cro d'
+r0.1 .01 held .75 the
+| 6/4 100
+il0.2     70
+=1 6/4 min c cro G min. Bb'
+r0.7 .11 Il   - .46 iad
+=2 6/4 smb F(1 cro F)1 G
+r0.7 .11 Il .49 - .85 i  -
+=3 6/4 min rest cro G min G cro G
+r0.7 .38 the  Il   - .84 i  -
+=4 6/4 min eb cro f min. eb
+r0.1 .11 Il  - .38 i - ad
+/
+5 bars | 1.2 1.2 1.2 1 1.2 1 | 1 1 1.2 1 1 1 | 4/4 1 1 1.2 1 | 4 | 4 |
+|
+=1 cro rest c d min eb cro c
+r0.7 .18 and the .53 Od  - .84 ys -
+=2' smb Ab cro Bb Ab
+r0.7     - ad .67 and the
+=3' cro Ab Ab Bb min Ab cro Bb
+r0.7     - ad .18 and the .53 Od  - .84 ys -
+=4 min. rest min gb cro gb
+r0.1 .53 and .84 the
+|
+=1 smb gb min rest
+r0.7 .01 see
+=2 min Bb' cro Ab' min. Bb'
+r0.7   Od  -  yssee
+=3 smb eb min rest
+r0.7 .01 see
+=4 min ab cro bb min. ab
+r0.1 .01  Od  -  yssee
+| 4/4 100
+=1 4/4 min gn cro db Bb
+r0.7 .08 Rise .54 to the
+=2 4/4 cro F min G cro F
+r0.6 .08 Rise  to .76 the
+=3 4/4 cro G min F cro G
+r0.7 .08 Rise  to .76 the
+=4 4/4 min eb cro eb eb
+r0.1 .08 Rise .54 to the
+|
+=1 min f eb(1
+r0.7 .08 swelling
+=2 cro G min. C
+r0.5 .01 swelling
+=3 min A A
+r0.7 .08 swelling ,
+=4 cro c min. G
+r0.1 .01 swelling
+|
+il0.25        75
+=1 cro eb)1 rest A B'
+r0.6 .52 of the
+=2 min C F
+r0.5 .06 of .52 the
+=3 min A G
+r0.7 .06 to .52 the
+=4 cro rest c{2 B}2 A
+r0.1 .28 of .75 the
+/
+7 bars | 4 | 4 | 4 | 4 | 1.2 1 1 1 | 4 | 4 ||
+|
+=1 smb c
+r0.6 .07 voice .70 -
+=2 smb Eb{1
+r0.5 .07 voice .80 -
+=3' cro A min B cro A
+r0.7 .07 swelling of
+=4 smb G
+r0.1 .07 voice .70 -
+|
+=1 smb B
+r0.6  ful
+=2 smb C#}1
+r0.6 .60 -
+=3 cro G min A cro G
+r0.7 .01 the voiceful
+=4 smb A
+r0.1  ful
+|
+=1 smb A{1
+r0.6   sea . . .
+=2 smb D
+r0.5 .01 ful
+=3 cro F min G cro F
+r0.7 .01 sea, of .75 the
+=4 min. B cro rest
+r0.1  sea
+|
+=1 min. G}1 cro rest
+=2 smb E
+r0.5 .01 sea . . .
+=3' min. B cro G
+r0.7 .08 voiceful ,
+=4 smb c#
+r0.1 .01 the
+|
+il0.2 80
+=1 smb F#
+r0.6 .01 voice .73 -
+=2 cro C# min D# cro C#
+r0.5 .01 the  voiceful
+=3 smb B
+r0.7 .01 voice .73 -
+=4 smb d#
+r0.1 .01 voice .73 -
+| 4/4 90
+=1 smb E
+r0.6 .01 ful
+=2 smb C#(1
+r0.5 .01 sea .
+=3 smb B
+r0.7 .01 ful
+=4 smb g
+r0.1 .01 ful
+| 4/4 70
+=1 smb D#-fermata
+r0.7 .01 sea
+=2 smb C#)1-fermata
+=3 smb B-fermata
+r0.7 .01 sea
+=4 smb a-fermata
+r0.1 .01 sea

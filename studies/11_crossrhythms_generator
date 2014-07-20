@@ -1,0 +1,255 @@
+7 systems 10 / 19-23-19 /
+title 11.  Crossrhythms
+pagenum
+midi channel 0 patch 0 pan 20
+midi channel 1 patch 0 pan 80
+$R1 = G
+$R2 = A
+$R3 = eb
+$R4 = g
+$R5 = a
+$L1 = F
+$L2 = G
+$L3 = A
+$L4 = eb
+$L5 = g
+$RB2 = [$R2 $R1]
+$RB3 = [$R3 $R2 $R1]
+$RB4 = [$R4 $R3 $R2 $R1]
+$RB5 = [$R5 $R4 $R3 $R2 $R1]
+$LB2 = [$L4 $L5]
+$LB3 = [$L3 $L4 $L5]
+$LB4 = [$L2 $L3 $L4 $L5]
+$LB5 = [$L1 $L2 $L3 $L4 $L5]
+/
+2 bars | 10/8 60 | 60 |
+| 12/8 1.8
+=1' treble 12/8 cha0 leg100 8 $RB2 $RB2 $RB2 $RB2 $RB2 $RB2
+=2,  bass  12/8 cha0 leg92  8 $LB2 $LB2 $LB2 $LB2 $LB2 $LB2
+|
+=1' 8 $RB3 $RB3 $RB3 $RB3
+=2, 8 $LB2 $LB2 $LB2 $LB2 $LB2 $LB2
+|
+=1' 8 $RB3 $RB3 $RB3 $RB3
+=2, 8 $LB2 $LB2 $LB2 $LB2 $LB2 $LB2
+|
+=1' 8 $RB2 $RB2 $RB2 $RB2 $RB2 $RB2
+=2, 8 $LB3 $LB3 $LB3 $LB3
+|
+il0.7 .03 5
+=1' 8 $RB2 $RB2 $RB2 $RB2 $RB2 $RB2
+=2, 8 $LB3 $LB3 $LB3 $LB3
+# $R1 = F#
+# $R2 = A
+# $R3 = e
+# $R4 = f#
+# $R5 = a
+# $L1 = E
+# $L2 = F#
+# $L3 = A
+# $L4 = e
+# $L5 = f#
+| 10/8 1.5
+=1' 10/8 8 $RB2 $RB2 $RB2 $RB2 $RB2
+=2' 10/8 8 $LB5 $LB5
+/
+3 bars | 60 | 60 | 60 |
+|
+=1' 8 $RB2 $RB2 $RB2 $RB2 $RB2
+=2' 8 $LB5 $LB5
+|
+=1, 8 $RB5 $RB5
+=2, 8 $LB2 $LB2 $LB2 $LB2 $LB2
+|
+=1, 8 $RB5 $RB5
+=2, 8 $LB2 $LB2 $LB2 $LB2 $LB2
+
+# $R1 = G
+# $R2 = Bb
+# $R3 = e
+# $R4 = g
+# $R5 = bb
+# $L1 = E
+# $L2 = G
+# $L3 = Bb
+# $L4 = e
+# $L5 = g
+/
+2 bars | 90 | 90 |
+| 15/8 2.25
+il0.8 .01 10
+=1, 15/8 8 $RB5 $RB5 $RB5
+=2, 15/8 8 $LB3 $LB3 $LB3 $LB3 $LB3
+|
+=1, 8 $RB5 $RB5 $RB5
+=2, 8 $LB3 $LB3 $LB3 $LB3 $LB3
+|
+=1' 8 $RB3 $RB3 $RB3 $RB3 $RB3
+=2' 8 $LB5 $LB5 $LB5
+|
+=1' 8 $RB3 $RB3 $RB3 $RB3 $RB3
+=2' 8 $LB5 $LB5 $LB5
+
+# $R1 = G
+# $R2 = B
+# $R3 = e
+# $R4 = g
+# $R5 = b
+# $L1 = E
+# $L2 = G
+# $L3 = B
+# $L4 = e
+# $L5 = g
+| 12/8 1.8
+=1, 12/8 8 $RB3 $RB3 $RB3 $RB3
+=2, 12/8 8 $LB3 $LB3 $LB3 $LB3
+|
+il0.7 .13 15
+=1, 4 $R3 8 $R2 [$R1 $R3 $R2] [$R1 $R3 $R2] [$R1 $R3 $R2]
+=2, 8 $LB3 $LB3 $LB3 $LB3
+
+6 systems / 19-25-19 /
+pagenum
+innerhead 11.  Crossrhythms
+|
+=1, 8 $R1 4 $R3 8 [$R2 $R1 $R3] [$R2 $R1 $R3] [$R2 $R1 $R3]
+=2, 8 $LB3 $LB3 $LB3 $LB3
+|
+=1, 8 [$R2 $R1 $R3(1] [$R3)1 $R2 $R1] $RB3 $RB3
+=2, 8 $LB3 $LB3 $LB3 $LB3
+
+# $R1 = Ab
+# $R2 = B
+# $R3 = f
+# $R4 = ab
+# $R5 = b
+# $L1 = F
+# $L2 = Ab
+# $L3 = B
+# $L4 = f
+# $L5 = ab
+|
+=1, 8 $RB4 $RB4 $RB4
+=2, 8 $LB3 $LB3 $LB3 $LB3
+|
+=1, 8 $RB4 $RB4 $RB4
+=2, 8 $LB3 $LB3 $LB3 $LB3
+|
+il0.7 .13 20
+=1, 8 $RB3 $RB3 $RB3 $RB3
+=2, 8 $LB4 $LB4 $LB4
+|
+=1, 8 $RB3 $RB3 $RB3 $RB3
+=2, 8 $LB4 $LB4 $LB4
+
+# $R1 = A
+# $R2 = B
+# $R3 = f
+# $R4 = a
+# $R5 = b
+# $L1 = F
+# $L2 = A
+# $L3 = B
+# $L4 = f
+# $L5 = a
+| 16/8 2.4
+=1, 16/8 8 $RB4 $RB4 $RB4 $RB4
+=2, 16/8 8 $LB4 $LB4 $LB4 $LB4
+|
+=1, 4 $R4 8 [$R3 $R2] [$R1 $R4 $R3 $R2] [$R1 $R4 $R3 $R2] [$R1 $R4 $R3 $R2]
+=2, 8 $LB4 $LB4 $LB4 $LB4
+|
+=1, 8 $R1 4 $R4 8 $R3 [$R2 $R1 $R4 $R3] [$R2 $R1 $R4 $R3] [$R2 $R1 $R4 $R3]
+=2, 8 $LB4 $LB4 $LB4 $LB4
+|
+il0.7 .13 25
+=1, 8 [$R2 $R1] 4 $R4 8 [$R3 $R2 $R1 $R4] [$R3 $R2 $R1 $R4] [$R3 $R2 $R1 $R4]
+=2, 8 $LB4 $LB4 $LB4 $LB4
+|
+=1, 8 [$R3 $R2 $R1 $R4(1] [$R4)1 $R3 $R2 $R1] [$R4 $R3 $R2 $R1] [$R4 $R3 $R2 $R1]
+=2, 8 $LB4 $LB4 $LB4 $LB4
+
+# $R1 = G#
+# $R2 = B
+# $R3 = f#
+# $R4 = g#
+# $R5 = b
+# $L1 = F#
+# $L2 = G#
+# $L3 = B
+# $L4 = f#
+# $L5 = g#
+| 20/8 3.0
+=1' 20/8 8 $RB5 $RB5 $RB5 $RB5
+=2' 20/8 8 $LB4 $LB4 $LB4 $LB4 $LB4
+|
+=1' 8 $RB5 $RB5 $RB5 $RB5
+=2' 8 $LB4 $LB4 $LB4 $LB4 $LB4
+|
+=1' 8 $RB4 $RB4 $RB4 $RB4 $RB4
+=2' 8 $LB5 $LB5 $LB5 $LB5
+|
+il0.7 .13 30
+=1' 8 $RB4 $RB4 $RB4 $RB4 $RB4
+=2' 8 $LB5 $LB5 $LB5 $LB5
+
+# $R1 = A
+# $R2 = c
+# $R3 = f#
+# $R4 = a
+# $R5 = c~
+# $L1 = F#
+# $L2 = A
+# $L3 = c
+# $L4 = f#
+# $L5 = a
+|
+=1' 8 $RB5 $RB5 $RB5 $RB5
+=2' 8 $LB5 $LB5 $LB5 $LB5
+|
+=1' 4 $R5 8 [$R4 $R3 $R2] [$R1 $R5 $R4 $R3 $R2] \
+ [$R1 $R5 $R4 $R3 $R2] [$R1 $R5 $R4 $R3 $R2]
+=2' 8 $LB5 $LB5 $LB5 $LB5
+|
+=1' 8 $R1 4 $R5 8 [$R4 $R3] [$R2 $R1 $R5 $R4 $R3] \
+ [$R2 $R1 $R5 $R4 $R3] [$R2 $R1 $R5 $R4 $R3]
+=2' 8 $LB5 $LB5 $LB5 $LB5
+|
+=1' 8 [$R2 $R1] 4 $R5 8 $R4 [$R3 $R2 $R1 $R5 $R4] \
+ [$R3 $R2 $R1 $R5 $R4] [$R3 $R2 $R1 $R5 $R4]
+=2' 8 $LB5 $LB5 $LB5 $LB5
+|
+il0.7 .13 35
+=1' 8 [$R3 $R2 $R1] 4 $R5 8 [$R4 $R3 $R2 $R1 $R5] \
+ [$R4 $R3 $R2 $R1 $R5] [$R4 $R3 $R2 $R1 $R5]
+=2' 8 $LB5 $LB5 $LB5 $LB5
+|
+=1' 8 [$R4 $R3 $R2 $R1 $R5(2] [$R5)2 $R4 $R3 $R2 $R1] \
+ [$R5 $R4 $R3 $R2 $R1] [$R5 $R4 $R3 $R2 $R1]
+=2' 8 $LB5 $LB5 $LB5 $LB5
+
+# $R1 = A
+# $R2 = c#
+# $R3 = f#
+# $R4 = a
+# $R5 = c~#
+# $L1 = F#
+# $L2 = A
+# $L3 = c#
+# $L4 = f#
+# $L5 = a
+| 12/8 1.8
+=1' 12/8 $RB4 $RB4 $RB4
+=2' 12/8 $LB4 $LB4 $LB4
+/
+3 bars | 72 | 72 | 9 ||
+|
+=1, $RB3 $RB3 $RB3 $RB3
+=2, $LB3 $LB3 $LB3 $LB3
+|
+=1' $RB2 $RB2 $RB2 $RB2 $RB2 $RB2
+=2, $LB2 $LB2 $LB2 $LB2 $LB2 $LB2
+|
+il0.5 .03 40
+=1 1. $R2
+=2 1. a

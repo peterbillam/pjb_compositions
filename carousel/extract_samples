@@ -1,0 +1,74 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 2000, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                http://www.pjb.com.au     #
+#########################################################################
+
+foreach $infile ('vs1', 'vs2', 'vs3') {
+	if (! open(I, $infile)) { die "can't open $infile: $!\n"; }
+	while (<I>) {
+		if (/^# begin sample (\w+)/) {
+			@inlines = (); @outlines = ();
+			$outfile = $1;
+			while (<I>) {
+				if (/^# end sample/) {
+					if (! open(O, $outfile)) { die "can't read $outfile: $!\n"; }
+					@outlines = <O>;
+					close O;
+					$inlines  = join '', @inlines;
+					$outlines = join '', @outlines;
+					if ($inlines ne $outlines) {
+						warn "$outfile has changed, rewriting ...\n";
+						if (! open(O, "> $outfile")) {
+							die "can't write $outfile: $!\n";
+						}
+						print O $inlines;
+						close O;
+						system "/home/pbin/muscript $outfile > $outfile.a4";
+					} else {
+						warn "$outfile is unchanged\n";
+					}
+					last;
+				}
+				push @inlines, $_;
+			}
+		}
+	}
+	close I;
+}
+
+__END__
+
+# POD Documentation (perldoc or pod2html this file)
+=head1 NAME
+
+extract_samples - extracts the free samples from November at the Carousel
+
+=head1 SYNOPSIS
+
+./extract_samples
+
+=head1 DESCRIPTION
+
+This script depends on lines such as
+   # begin sample filename
+   # end sample filename
+in the files vs1, vs2, and vs3
+
+=head1 AUTHOR
+
+Peter J Billam <peter@pjb.com.au>
+
+=head1 SEE ALSO
+
+http://www.pjb.com.au/, perl(1).
+
+=cut
+

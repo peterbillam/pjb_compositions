@@ -1,0 +1,99 @@
+#! /usr/bin/perl
+
+my $patch = '0';
+print <<EOT;
+6 systems 15 / 18-28-18 /
+title Canon  at six semitones
+midi channel 1 patch $patch reverb 99 pan 85
+midi channel 2 patch $patch reverb 99 pan 15
+/
+4 bars | 4/4 60 | 60 |
+| 4.62
+=1 treble cha1 leg999 4 rest g(1 43 g)1 g-I3 g
+=2 treble cha2 leg999 1 rest
+I0.2 .15 con Pedale sempre . . .
+|
+=1 8 [g g(1] 83 [g)1 g-I3 g] 16 [g g(1] 163 [g)1 g-I3 g(1] 4 g)1(1
+=2 1 rest
+EOT
+
+my @voice1 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	$ibar += 1;
+	$voice1[$ibar] = $_;
+}
+
+$ibar = 3; while (1) {
+	last if $ibar > 53;
+	if (5 == $ibar) { print "/\n4 bars | 60 | 60 | 60 | 60 |\n"; }
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.5 .20 $ibar\n"; }
+
+	my $s2 = $voice1[$ibar-2];
+	if ($ibar>10 and !$s2) { last; }
+	print "=1 $voice1[$ibar]\n";
+	if ($ibar > 26) { last; }
+	system "echo \"=2 $s2\" | transpose -A -6";
+
+	$ibar += 1;
+}
+exit 0;
+
+__END__
+4 rest g(1 43 g)1 g-I3 g
+8 [g g(1] 83 [g)1 g-I3 g] 16 [g g(1] 163 [g)1 g-I3 g(1] 4 g)1(1
+1 g)1
+4 rest 8 b 4 b~ 8 e~ 4 e~~
+# 4 rest c~#(1 43 c~#)1 c~#-I3 c~#
+# 4 rest ab(1 43 a)1 a-I3 a
+2. rest 4 ab(1
+43 ab)1 ab-I3 ab 8 [ab a(1] 83 [a)1 a-I3 a]
+16 [ab a(1] 163 [a)1 a-I3 a(1] 4 a)1(1 8. ab)1 bass 16 E(2 4 E)2(2
+# 1 c~#)1 tra+12 16 b
+2 E)2(2 4.. E)2 treble 16 tra+12 b
+163 [c~ b c~ d~b c~ d~b] [c~ c~# d~n c~# d~ e~b] [d~ e~b d~ d~# e~n d~#] 32 [e~ d~# e~ f~ e~ f~ g~b f~]
+8 g~b 4 c~ 8 e~ 16 rest 4.. bb tra0
+bass 4 rest 16 rest 8. A_b(2 2 A_b)2 treble
+2 rest 8 [e~~ 8. e~ 8 b~b 16 bb(1]
+8 [bb)1 e~] 4 e 8 [bb' 8. Bb' 8 e' 16 E(2]
+
+8 [E)2 8. G] 4 g 4.. <g g~>
+16 rest 2 <f# f~#> 4.. <e e~>
+
+# 2 <d d~> 8 [c~# c#, g G,]
+2 <d, d~> 8 [f~ f bb Bb,]
+# 8. [c#' 8 C# G G_ C#] bass 8. [c#, 8 g]
+8. [f' 8 F Bb' 8. B_b 8 F] [f e]
+8 rest [B, 83 b e--I3 e~] 83 rest [c~#-I3 g] rest [c~#-I3 g]
+16 rest 8. c~# 8 [g c~#] 43 <g g~> <f#, f~#-I3> <c#, c~#>
+2 <d, d~> <e, e~>
+4 <f f~> bass 83 [B_b f' Bb] treble [F B_b f'] [Bb, bb f]
+8 rest [c~# bb f~] rest 4 g 8 f~
+1 g~(1
+1 g~)1
+4 rest g(1 43 g)1 g-I3 g
+8 [g g(1] 83 [g)1 g-I3 g] 16 [g g(1] 163 [g)1 g-I3 g(1] 4 g)1
+1 bass vol40 1 E_
+
+quit
+8 [G c# C# G_] treble 16 rest 4.. <D# d#'>
+43 <E e'> <D# d#'-I3> <A_# A#'> 16 rest 4.. <B_ B'>
+43 <C# c#'> <B_ B'-I3> <A_# A#'> 2 rest bass
+1 rest
+2 rest 2 <d d~>
+
+16 treble 16 rest 2 <e e~> 4.. <d# d~#>
+16 rest 2 <c# c~#> 4.. <b B>
+8 [c~# c# g] 4 G 8 [c#' C# G] bass
+4 g 8 [c~# c#, g,] 4 G 8 c# treble
+16 rest 4.. <D# d#'> 43 <E e'> <D# d#'-I3> <A_# A#'>
+16 rest 4.. <B_ B'> 43 <C# c#'> <B_ B'-I3> <A_# A#'> bass
+1 rest
+1 rest
+16 rest 4.. <d d~>
+
+

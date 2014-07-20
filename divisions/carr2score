@@ -1,0 +1,21 @@
+#! /usr/bin/perl
+if (! open(F, 'carr')) { die "can't open carr: $!\n"; }
+my @rec = ();   # an array of bars
+my @gtr = ();   # an array of bars
+my $is_gtr_part = 0;  # start in the rec part
+my $bar_num = 0;
+print "7 systems /19 20 19/\n";
+while (<F>) {
+	if (/^pagenum 4$/) { $is_gtr_part = 1; }
+	if (/^=1/ and !$is_gtr_part) { push @rec, $_; next; }
+	if (!$is_gtr_part) { next; }
+	# we're now in the gtr part
+	print "$_";
+	if (/^\|/) {
+		my $rec_bar = $rec[$bar_num];
+		$rec_bar =~ s/^=1/=2/;
+		print $rec_bar;
+		$bar_num += 1; ;
+	}
+}
+close F;

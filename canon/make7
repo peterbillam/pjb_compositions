@@ -1,0 +1,93 @@
+#! /usr/bin/perl
+
+my $patch = '0';
+print <<EOT;
+5 systems 5 / 19-30-19-30-19 /
+title Canon  at seven semitones
+midi channel 1 patch $patch reverb 99 pan 70
+midi channel 2 patch $patch reverb 99 pan 50
+midi channel 3 patch $patch reverb 99 pan 30
+/
+2 bars | 7/2 84 | 84 |
+| 7/2 6.3
+=1 treble cha1 bre rest 2 rest rest  2 A_(2
+=2 bass   cha2 bre rest 2 rest  2 d(2  2 d)2(2
+=3 bass   cha3 bre rest 2 G(2  2 G)2(2  2 G)2
+EOT
+
+my @voice3 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	chop;
+	$voice3[$ibar] = $_;
+	$ibar += 1;
+}
+
+my $last_beat = "2 G)2";
+my $last_two_beats = "2 G)2(2 G)2";
+$ibar = 1; while (1) {
+	last if $ibar > 20;
+	if (2 == $ibar) { print "/\n2 bars | 84 | 84 |\n"; }
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.5 .20 $ibar\n"; }
+
+	#my $twoibar = $ibar + $ibar;
+	#my $s1 = double_speed("$voice3[$twoibar-7] $voice3[$twoibar-6]");
+	#my $s2 = double_speed("$voice3[$twoibar-1] $voice3[$twoibar]");
+	#if ($ibar>10 and !$s2) { last; }
+	#if ($ibar > 3) { system "echo \"=1 $s1\" | transpose -A -10"; }
+	#print "=2 $s2\n";
+	#if ($ibar > 1) { system "echo \"=3 $voice3[$ibar-1]\" | transpose -A -5"; }
+
+	my $voice3 = $voice3[$ibar];
+	last unless defined $voice3;
+	$voice3 =~ /^(.+)  (.+)  (.+)$/;
+	my $voice2 = "$last_beat $1 $2";
+	my $voice1 = "$last_two_beats $1";
+	# warn "voice3=$voice3\nvoice2=$voice2\nvoice1=$voice1\n";
+	$last_beat = $3;
+	$last_two_beats = "$2 $3";
+	if ($ibar > 0) { system "echo \"=1 $voice1\" | transpose -A -10"; }
+	if ($ibar > 0) { system "echo \"=2 $voice2\" | transpose -A +7"; }
+	print "=3 $voice3\n";
+
+	$ibar += 1;
+}
+exit 0;
+
+sub double_speed { my @words = split q{ }, $_[$[];
+	my $is_qua = 0;
+	foreach (@words) {
+		if (/^4(.*)/)  { $is_qua = 1; $_ = "8$1";  next; }
+		if (/^8(.*)/)  { $is_qua = 0; $_ = "16$1"; next; }
+		if (/^16(.*)/) { $is_qua = 0; $_ = "32$1"; next; }
+		if (/^2(.*)/)  { $is_qua = 0; $_ = "4$1";  next; }
+		if (/^1(.*)/)  { $is_qua = 0; $_ = "2$1";  next; }
+		# if ($is_qua) { tr/][//d; }
+	}
+	return "@words";
+}
+
+__END__
+1 rest 2 G(2  2 G)2(2  2 G)2
+43 G 23 F# 2 A B d# c#(2  2 c#)2(2  2 c#)2
+43 c# 23 B 2 d# 43 fn 23 g 2 ab 2 g(1  2 g)1(1  2 g)1
+2 Fn A B dn c#(2  2 c#)2(2  2 c#)2
+2 cn eb fn a 2 g(1  2 g)1(1  2 g)1
+#2 Fn A B dn c#(2  2 c#)2(2  2 c#)2
+#2 cn eb fn a 2 g(1  2 g)1(1  2 g)1
+#2 F# A B d# c#(2  2 c#)2(2  2 c#)2
+#2 B d# fn ab 2 g(1  2 g)1(1  2 g)1
+
+bre rest 2 rest  2 G(2  2 G)2
+1 c B 2 e  2 rest  2 rest
+
+#2. g f# fn 4 e(1  2 e)1  2 eb(1
+#4 eb)1 2. d c# cn  2 rest  2 rest
+
+2. g~ f~# f~n 4 e~(1  2 e~)1  2 e~b
+4. d~ c~# c~n bn bb 4 a(2  8 a)2 4. ab  23 g 43 f#(1
+43 f#)1 23 fn 4 e eb 43 d c#-I3 cn 4 B Bb  43 A Ab-I3 G  4 Gb F  2 E

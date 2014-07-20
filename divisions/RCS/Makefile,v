@@ -1,0 +1,87 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2002.03.26.06.38.14;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for divisions and carr
+@
+
+
+1.1
+log
+@added carr stuff
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+PIECE = divisions
+
+all : ${FD}/${PIECE}.us ${FREED}/${PIECE}.pdf \
+ ${FD}/carr.us ${FREED}/carr.pdf
+
+dev : ${PIECE}.a4 carr.a4 title.a4 title_free.a4 \
+ title.carr.a4 title_free.carr.a4 p2.a4
+
+${FD}/${PIECE}.a4 : title.a4 p2.a4 ${PIECE}.a4 ${BLURB}.a4
+	${PSCAT} title.a4 p2.a4 ${PIECE}.a4 ${BLURB}.a4 > $@@
+${FD}/${PIECE}.us : ${FD}/${PIECE}.a4
+	${A42US} ${FD}/${PIECE}.a4 > $@@
+${SD}/${PIECE}.a4 : ${PIECE}.a4
+	./make_samples
+${SD}/${PIECE}.us : ${SD}/${PIECE}.a4
+	${A42US} ${SD}/${PIECE}.a4 > $@@
+${FREED}/${PIECE}.pdf : title_free.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/carr.a4 : title.carr.a4 p2.a4 carr.a4 ${BLURB}.a4
+	${PSCAT} title.carr.a4 p2.a4 carr.a4 ${BLURB}.a4 > $@@
+${FD}/carr.us : ${FD}/carr.a4
+	${A42US} ${FD}/carr.a4 > $@@
+${SD}/carr.a4 : carr.a4
+	./make_samples
+${SD}/carr.us : ${SD}/carr.a4
+	${A42US} ${SD}/carr.a4 > $@@
+${FREED}/carr.pdf : title_free.carr.a4 p2.a4 carr.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} carr.a4 \
+	| ${PSCAT} title_free.carr.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${PIECE}.a4 : ${PIECE} ${MUSCRIPT}
+	${MUSCRIPT} ${PIECE} > $@@
+carr.a4 : carr ${MUSCRIPT}
+	${MUSCRIPT} carr > $@@
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+title.carr.a4 : title.carr
+	groff -ms title.carr | ${BANNERISE} > $@@
+title_free.carr.a4 : title_free.carr
+	groff -ms title_free.carr | ${BANNERISE} > $@@
+
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+@

@@ -1,0 +1,102 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2001.02.12.03.17.28;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for Die Zeiten
+@
+
+
+1.1
+log
+@uses a42us, pscat etc; does free version
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+
+all : grosse.a4 \
+ ${FD}/zeiten_2.us ${SD}/zeiten_2.us ${FREED}/zeiten_2.pdf \
+ ${FD}/zeiten_3.us ${SD}/zeiten_3.us ${FREED}/zeiten_3.pdf
+
+dev : wechsel.a4 title_wechsel.a4 grosse.a4 gestundete.a4 letter.a4 \
+ title_wechsel.a4 p2_wechsel.a4
+
+${FD}/zeiten_2.a4 : title_gestundete.a4 p2_gestundete.a4 gestundete.a4 \
+ ${BLURB}.a4
+	${PSCAT} title_gestundete.a4 p2_gestundete.a4 gestundete.a4 ${BLURB}.a4 > $@@
+${FD}/zeiten_2.us : ${FD}/zeiten_2.a4
+	${A42US} ${FD}/zeiten_2.a4 > $@@
+${FREED}/zeiten_2.pdf : title_free_gestundete.a4 p2_gestundete.a4 \
+ gestundete.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} gestundete.a4 \
+	| ${PSCAT} title_free_gestundete.a4 p2_gestundete.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/zeiten_3.a4 : title_wechsel.a4 p2_wechsel.a4 wechsel.a4 ${BLURB}.a4
+	${PSCAT} title_wechsel.a4 p2_wechsel.a4 wechsel.a4 ${BLURB}.a4 > $@@
+${FD}/zeiten_3.us : ${FD}/zeiten_3.a4
+	${A42US} ${FD}/zeiten_3.a4 > $@@
+${FREED}/zeiten_3.pdf : title_free_wechsel.a4 p2_wechsel.a4 \
+ wechsel.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} wechsel.a4 \
+	| ${PSCAT} title_free_wechsel.a4 p2_wechsel.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+grosse.a4 : grosse ${MUSCRIPT}
+	${MUSCRIPT} grosse > $@@
+gestundete.a4 : gestundete ${MUSCRIPT}
+	${MUSCRIPT} gestundete > $@@
+wechsel.a4 : wechsel ${MUSCRIPT}
+	${MUSCRIPT} wechsel > $@@
+
+letter.a4 : letter
+	groff -p -t -e -ms letter > $@@
+
+title_gestundete.a4 : title_gestundete
+	groff -ms title_gestundete | ${BANNERISE} > $@@
+title_free_gestundete.a4 : title_free_gestundete
+	groff -ms title_free_gestundete | ${BANNERISE} > $@@
+p2_gestundete.a4 : p2_gestundete
+	groff -ms p2_gestundete | ${BANNERISE} > $@@
+title_wechsel.a4 : title_wechsel
+	groff -ms title_wechsel | ${BANNERISE} > $@@
+title_free_wechsel.a4 : title_free_wechsel
+	groff -ms title_free_wechsel | ${BANNERISE} > $@@
+p2_wechsel.a4 : p2_wechsel
+	groff -ms p2_wechsel | ${BANNERISE} > $@@
+
+poems.a4 : poems
+	groff -p -t -e -ms poems > $@@
+
+${SD}/zeiten_1.us : grosse.us
+	./make_samples_1
+${SD}/zeiten_2.a4 : gestundete.a4
+	./make_samples_2
+${SD}/zeiten_2.us : ${SD}/zeiten_2.a4
+	${A42US} ${SD}/zeiten_2.a4 > $@@
+${SD}/zeiten_3.a4 : gestundete.a4
+	./make_samples_3
+${SD}/zeiten_3.us : ${SD}/zeiten_3.a4
+	${A42US} ${SD}/zeiten_3.a4 > $@@
+@

@@ -1,0 +1,218 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	2002.12.09.05.46.48;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2002.12.03.08.31.32;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Suite for Solo Recorder
+@
+
+
+1.2
+log
+@sketch up to 48, first page
+@
+text
+@12 systems 10/19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum 3
+title Recorder Suite
+innerhead Peter Billam
+leftfoot (c) 2002 Peter Billam
+/
+4 bars |9/16 9 | 9 | 8/16 8 | 8 |
+|
+=1, treble 9/16 smq [b G B c#] [e g b] [a g]
+|
+=1, smq [b G A# B] [e c# g] [b bb]
+|
+=1, 8/16 smq [a G A c d] [g eb f#]
+|
+=1, smq [a G A B c] [eb d f#]
+/
+4 bars | 7/16 7 | 7 | 6/16 6 | 6 |
+|
+il0.4    5
+=1, treble 7/16 smq [g G Bb d] [e d f#]
+|
+=1, smq [g G A Bb] [d c# e]
+|
+=1, 6/16 smq [f G Bb c] [e db]
+|
+=1, smq [f G Bn eb] g rest
+/
+4 bars |9/16 9 | 9 | 8/16 8 | 8 |
+|
+=1, treble 9/16 smq [g A c eb g] qua [f# smq g a]
+|
+il0.4 .15 10
+=1, qua [bb smq c eb bb] qua [a smq f f#]
+|
+=1, 8/16 smq [g A c eb g] qua [f# smq g]
+|
+=1, qua [a smq B eb g] qua [b smq a]
+/
+4 bars | 7/16 7 | 7 | 6/16 6 | 6 |
+|
+=1, treble 7/16 qua [b smq c# e] qua [a# smq b]
+|
+=1, qua [c~# smq d f#] qua [b smq c~#]
+|
+il0.7 .25 15
+=1, 6/16 smq [d~ f a] qua [b smq g#]
+|
+=1, qua [a smq e] qua f# smq rest
+is0.1 .9 120
+/
+4 bars |8/16 8 | 8 | 7/16 7 | 7 | 
+|
+=1, treble 8/16 qua [a smq c B] [d eb] [g f#]
+|
+=1, smq [g f# g a] [bb g d e]
+|
+=1, 7/16 qua [f smq d A] [c# B d]
+|
+il0.4 .20 20
+=1, smq [f e f g] [ab f d]
+/
+4 bars | 6/16 6 | 6 | 5/16 5 | 5 |
+|
+=1, treble 6/16 qua [e smq c e] [f# a]
+|
+=1, smq [g# f# a g#] [b c~]
+|
+=1, 5/16 qua [d~ smq g# fn a]
+|
+=1, qua [b smq eb g] rest
+/
+4 bars |8/16 8 | 8 | 7/16 7 | 7 |
+|
+il0.4    25
+=1, treble 8/16 smq [e e~ c~ b g#] [a f# d#]
+|
+=1, smq [e c B c G#] [A c e]
+|
+=1, 7/16 smq [g e~b d~ b] [c~ a f#]
+|
+=1, smq [g eb d B] [c f# g]
+/
+4 bars | 6/16 6 | 6 | 5/16 5 | 5 |
+|
+=1, treble 6/16 smq [a B d] [f e g#]
+|
+il0.4 .15 30
+=1, smq [a c eb] [g f# a]
+|
+=1, 5/16 smq [b d eb f ab]
+|
+=1, smq [b eb f g] rest
+is0.1 .9 224
+/
+4 bars |7/16 7 | 7 | 6/16 6 | 6 |
+|
+=1, treble 7/16 qua [b smq g b] [c~# d~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+|
+il0.7 .25 35
+=1, 6/16 smq [c~# g# e] [bb gn f]
+|
+=1, smq [g# e c#] [gn f Bb]
+/
+4 bars | 5/16 5 | 5 | 4/16 4 | 4 |
+|
+=1, treble 5/16 qua [bb smq d e g]
+|
+=1, qua [bb smq f g c~#]
+|
+=1, 4/16 smq [d~ bb c~ f]
+|
+il0.5 .25 40
+=1, smq [b f a d]
+/
+4 bars |7/16 7 | 7 | 6/16 6 | 6 |
+|
+=1, treble 7/16 qua [b smq g b] [c~# d~# e~]
+|
+=1, qua [b smq g a#] [b e~ d~#]
+|
+=1, 6/16 smq [c~# g# e] [bb gn f]
+|
+=1, smq [g# c# e] [f gn bb]
+/
+4 bars | 5/16 5 | 5 | 4/16 4 | 4 |
+|
+il0.6 .25 45
+=1, treble 5/16 qua [c~# smq d# g# a]
+|
+=1, qua [c~# smq f a bb]
+|
+=1, 4/16 smq [e~b f a# b]
+|
+=1, smq [e~b g b c~]
+is0.1 .9 312
+
+
+@
+
+
+1.1
+log
+@sketch in up to 34
+@
+text
+@d37 1
+a37 1
+=1, qua [a smq B eb g] qua [a smq g]
+d53 1
+a53 1
+=1, treble 8/16 qua [a smq c B] [eb d] [eb f#]
+d59 1
+a59 1
+il0.4    20
+d66 1
+a66 1
+=1, smq [g# f# g# a] [b c~]
+d87 1
+a87 1
+il0.4 .20 30
+d90 1
+a90 1
+=1, 5/16 smq [b d f eb g]
+d99 1
+a99 1
+=1, qua [b smq g a#] b blank blank
+d101 2
+a102 2
+il0.4 .25 35
+=1, 6/16 
+d104 1
+a104 1
+=1, 
+d108 1
+a108 1
+=1, treble 5/16 
+d110 1
+a110 1
+=1, 
+d112 1
+a112 1
+=1, 4/16 
+d114 23
+a136 2
+il0.4 .25 40
+=1, 
+@

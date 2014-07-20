@@ -1,0 +1,970 @@
+6 systems 10 /14 42 19/14 42 19 \
+ /14 47 19/14 47 19/14 46 19 6/14 43 19/
+pagenum 3
+innerhead Peter Billam
+title Trio With Guitar
+leftfoot (c) 2008 Peter J Billam
+midi channel 1 patch 74 pan 20
+midi channel 2 patch 74 pan 80
+midi channel 3 patch 24 pan 50
+/
+3 bars |9/8 4 4 4 4 4 6 6 6 6 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 3 3 |
+| 9/8 4.0
+i1.0  approx 135 quaver/min
+=1' treble     9/8 cha1 vol95 tra-12 \
+ cro. rest cro rest leg100 qua D cro leg90 Eb qua leg100 cn
+=1, treble     9/8 cha2 vol95 tra-12 leg100 cro. rest rest leg100 qua [C G An]
+I0.6  Tenor and Bass recorders
+=2, treble8vab 9/8 cha3 leg190 vol95 \
+ cro. rest rest rest
+i0.2 .40 6e en Re
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ [C G Anl]
+=2' smq [G-s0, f-,-s4, g-,-,-s1, G_-s3, e-,-,-s4, g-,-s1,] \
+ [G f g G_ e leg95 g] \
+ leg190 [A-s3, g-s4, a-,-s1, C-s2, eb-,-s4, g-s3,]
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ qua [C Eb C]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+/
+2 bars | 3 3 4 3 3 3 3 3 4 3 4 3 3 4 3 3 3 2.5 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 |
+|
+=1' cha1 qua [Bb d e] [g f# e] [d e c#]
+=1, cha2 qua [D E G] [Bb d c#] [Bn c# A#l,]
+=2 smq leg98 [D-s4, E-s1, G-s0, Bb'-s1, d'-s2, e'-s0,] \
+ [g-so, d~-s1, e~ f~# g~-s4, f~#-s3,] \
+ [e~{1-s3, d~}1-s1, bb-s2, g-so, e-s0, leg190 G,(1-s0,]
+|
+il0.5 .10 5
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ [C G Anl]
+=2' smq [G)1 f-s4 g-s1 G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 \
+ | 3 3 4 3 3 3 3 3 4 3 4 3 3 4 3.5 3 4 2.5 |
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ qua [C Eb C]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+|
+=1' cha1 qua [Bb d e] [g f# e] [d e c#]
+=1, cha2 qua [D E G] [Bb d c#] [Bn c# A#l,]
+=2 smq leg98 [D E G Bb' d' e'] \
+ [g d~ e~ f~# g~ f~#] \
+ [e~{1-s3, d~}1-s1, bb-s2, f#-s1, e-s0, leg190 f#-s1,]
+/
+2 bars | 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 \
+ | 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 |
+|
+=1' cha1  smq [d B qua d smq d B] qua [d smq d B d] rest'' [d B qua d smq d B]
+=1, cha2 qua [G# smq G# B G#] rest, [G# B qua G# smq G# B] qua [G# smq G# B G#] rest,
+=2  smq [b-s1, g#-s3, b-s1, d~-s4, b g#] \
+ [b d~ b g# b d~] [b' g#' b' d~' b' g#'-s4]
+=2, min. blank cro F#-s2, qua Fn-s2,
+|
+=1' cha1 smq rest'' [B G# qua B smq B] [G# qua B smq B G# B] rest'' [B G# qua B smq B]
+=1, cha2 smq [Ab qua F smq F Ab F] rest,, [F Ab qua F smq F] [Ab qua F smq F Ab F]
+=2 smq [f'-s3 ab'-s1 b'-s4 ab' f' ab'] [b ab f ab b ab] [f' ab' b' ab' f' ab']
+=2, cro. Eb-s2, rest,, cro Eb-s2, qua D-s0,
+/
+2 bars | 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 |
+|
+il0.8 .02 10
+=1' cha1 smq [Ab F qua Ab smq Ab F] qua [Ab smq Ab F Ab] rest' [Ab F qua Ab smq An B]
+=1, cha2 qua [D smq D F D] rest,, [D F qua D smq D F] qua [D smq D F G A]
+=2 smq [f' d' f' ab' f' d'] [f ab f d f ab] [f' d' f' ab' f'-s1 g'-s1]
+=2, cro. C-s2, rest,, qua [C B_ A_-s0,]
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ [C G Anl]
+=2' smq [G_-s3, f-,-,-s4, g-,-s1, G-s0, e g] [G f g G_ e leg95 g] \
+ leg190 [A-s3, g-s4, a-,-s1, C-s2, eb-,-s4, g-s3,]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3  \
+ | 3 3 4 3 3 3 3 3 4 3 4 3 3 4 3 3 3 3 |
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ qua [C Eb C]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+|
+=1' cha1 qua [Bb d e] [g f# e] [d e c#]
+=1, cha2 qua [D E G] [Bb d c#] [Bn c# A#l,]
+=2 smq leg98 [D E G Bb' d' e'] \
+ [g d~ e~ f~# g~ f~#] \
+ [e~ d~ bb g e leg190 G,(1]
+
+6 systems 6 /14 42 19 /14 42 19 \
+ /14 47 19 6 /14 42 19 5 \
+ /14 44 19 7 /14 43 19 14 /
+pagenum
+innerhead Trio With Guitar, Peter Billam
+leftfoot (c) 2008 Peter J Billam
+/
+2 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 5 5 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 5 5 |
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ [C G Anl]
+=2' smq [G)1 f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+|
+il0.6 .08 15
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ qua [C Eb C]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+/
+2 bars | 3 3 4 3 3 3 3 3 4 3 4 3 3 4 4 3 4 3 \
+ | 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 |
+|
+=1' cha1 qua [Bb d e] [g f# e] [d e c#]
+=1, cha2 qua [D E G] [Bb d c#] [Bn c# A#l,]
+=2 smq leg98 [D E G Bb' d' e'] \
+ [g d~ e~ f~# g~ f~#] \
+ [e~ d~ bb f# e leg190 f#,]
+|
+=1' cha1 smq [d B qua d smq d B] qua [d smq d B d] rest'' [d B qua d smq d B]
+=1, cha2 qua [G# smq G# B G#] rest, [G# B qua G# smq G# B] qua [G# smq G# B G#] rest,
+=2  smq [b g# b d~ b g#] [b d~ b g# b d~] [b' g#' b' d~' b' g#']
+=2, min. blank cro F# qua Fn
+/
+2 bars | 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 \
+ | 3 3 4 3 3 3 4 3 3 3 4 3 3 3 3 3 3 3 |
+|
+=1' cha1 smq rest' [B G# qua B smq B] [G# qua B smq B G# B] rest' [B G# qua B smq B]
+=1, cha2 smq [Ab qua F smq F Ab F] rest, [F Ab qua F smq F] [Ab qua F smq F Ab F]
+=2 smq [f' ab' b' ab' f' ab'] [b ab f ab b ab] [f' ab' b' ab' f' ab']
+=2, cro. Eb rest,, cro Eb qua D
+|
+=1' cha1 smq [Ab F qua Ab smq Ab F] qua [Ab smq Ab F Ab] rest' [Ab F qua Ab smq An B]
+=1, cha2 qua [D smq D F D] rest, [D F qua D smq D F] qua [D smq D F G A]
+=2 smq [f' d' f' ab' f' d'] \
+ [f ab f d f ab] \
+ [f' d' f' qua g' smq f']
+=2, cro. C rest,, qua [B_ A_ G_]
+/
+3 bars | 48 |
+|
+il0.8 .12 20
+=1' cha1 cro eb{1 leg85 qua d}1  leg100 cro eb{1 leg85 qua d}1 leg100 [eb g a]
+=1, cha2 cro B{2 leg85 qua An}2 leg100 cro B{2 leg85 qua A}2 leg100 [B rest f]
+=2' smq [F_-s1 F-s1 f-s4 F f F] [F_ F f F F_ F] [F_-s1 F-s1 g-s1 F g F]
+|
+=1' cha1 cro b{1  leg85 qua a}1 leg100 cro b{1  leg85 qua a}1 leg100 cro g  qua f
+=1, cha2 cro eb{2 leg85 qua d}2 leg100 cro eb{2 leg85 qua d}2 leg100 cro. c#
+=2' smq [f-s4, g-s1, f-s4, F f F] [f g f F f g] [f g f F f F]
+|
+=1' cha1 cro eb{1 leg85 qua d}1  leg100 cro eb{1 leg85 qua d}1 leg100 [eb g a]
+=1, cha2 cro B{2 leg85 qua An}2 leg100 cro B{2 leg85 qua A}2 leg100 [B rest f]
+=2, smq [G-s0, f~-s4, f~-s4, g-s2, f~ g] [g f~ f~ g g f~] [g f~ f~ g f~ G]
+/
+3 bars | 48 |
+|
+=1' cha1 cro bb{1 leg85 qua a}1  leg100 cro g{1 leg85 qua f}1 \
+  leg100 cro eb{1 leg85 qua d}1
+=1, cha2 cro d{2 leg85 qua c}2  leg100 cro Bb{2 leg85 qua A}2 \
+  leg100 cro G{2 leg85 qua F}2
+=2  qua rest smq [D,-s0, d~-s4, d-s1, d~-s4,] cro D' smq [D, d d~ d] cro D'
+=2, min D_ D_ qua D_(2
+|
+=1' cha1 cro c{1 leg85 qua Bb}1  leg100 cro A{1 leg85 qua G}1 \
+  leg100 cro F{1 leg85 qua E}1
+=1, cha2 cro Eb{2 leg85 qua D}2  leg100 cro C{2 leg85 qua B_b}2 \
+  leg100 cro A_{2 leg85 qua G_}2
+=2  smq [D, d d~ d] cro D' smq [D, d~ d d~] cro D smq [D d']
+=2, cro. D_r)2 min D_ cro D_(2
+|
+il0.5 .04 25
+=1' cha1 leg95 min. D cro rest qua D
+=1, cha2 leg95 min. F_ cro. rest
+=2, smq [d~ d] cro D smq [D, d~ d d~] cro D smq [D, d~ d d~]
+=2, cro D_)2 min D_ cro. D_(4
+/
+3 bars | 48 |
+|
+=1' cha1  cro E{'1 qua F cro E}'1 qua rest cro F{'1 qua Gb
+=1, cha2  smq [G_ C# G_ C# A_ C#] [G_ C# G_ C# A_ C#] [B_ D B_ D B_b D]
+=2  cro D smq [D, d~ d d~] cro D smq [D, d~ d d~] qua D(2
+=2, qua D_)4 min D_ D_
+|
+=1' cha1 min. F}'1 cro rest' qua D
+=1, cha2  smq [A_b D A_b D A_b E] [A_b F A_b F A_b F] [A_b F A_b E A_b D]
+=2  qua D)2 smq [D, d~ d d~] cro D' smq [D, d d~ d] cro D'
+=2, min D_ D_ qua D_(2
+|
+=1' cha1  cro E{'1 qua F cro E}'1 qua rest cro F qua F#
+=1, cha2  smq [G_n C# G_ C# A_ C#] [G_ C# G_ C# A_ C#] [B_ D B_ D B_ D]
+=2  smq [D, d d~ d] cro D' smq [D, d~ d d~] cro D smq [D d']
+=2, cro. D_r)2 min D_ cro D_
+
+6 systems 6 /14 42 19 /14 42 19 \
+ /14 43 19 6 /14 42 19 \
+ /14 44 19 7 /14 43 19 5 /
+pagenum
+innerhead Trio With Guitar, Peter Billam
+leftfoot (c) 2008 Peter J Billam
+/
+2 bars | 3 4 3 4 3 3 4 4 3 3 4 3 3 4 4 3 3 3 \
+ | 4 3 4 4 3 4  4 3 3 4 4 3 4 4 3 3 4 3 |
+|
+=1' cha1 qua [G A Bb'] [c# d e] [f# g a#]
+=1, cha2  qua [B_b C# D] [E F# G] [A#, B d]
+=2 smq [D_{2-s0 G_}2-s1 B_b-s3 E-s2 F#-s4 G-s0] \
+ [A,-s2 Bb-s3 c#-s1 d-s2 e-s0 f#-s1] \
+ [g-s2, a-s4, bb-s4, c~#-s4,-gs1 d~-s2, e~-s4,]
+|
+il1.0 .30 30
+=1' cha1 qua [c~ b a] [g# f# e] [d# B c]
+=1, cha2 qua [e d# c] [B A G#] [F# G# A]
+=2, smq [f~#-s1, g~#-s2, a~-s3, g~#-s2, f~#-s1, e~-s4,] \
+ [d~# c~n b a g#-gs2 f#] [e-s0 d# cn-s1 B-s0 A G#]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 \
+ | 3 4 4 3 4 4 3 4 3 3 3 3.5 3.5 3 3 4 3 3 |
+|
+=1' cha1 cro d{1 qua c# cro d}1 qua D  [Eb G A]
+=1, cha2 cro B{2 qua A#l cro B}2 qua B_ cro C  qua G
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+|
+=1' cha1 qua [B c# d#] [e f# g] [ab g fn]
+=1, cha2 qua [G# A B] [Bb Ab Gn] [F E D]
+=2 smq [f#-s1 e-s0 d#-s4 c#-s2 B-s0 Bb-s3] [Ab G F# E D C] [B_{2 C}2 D E Fn G]
+/
+2 bars | 4 3 4 4 3 3 3 3 4 4 3 4 4 4 4 3 4 3 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 |
+|
+=1' cha1 qua [e d c#] [d eb f] [g g# a#]
+=1, cha2 qua [E F G] [A B c#] [d# f e]
+=2  smq [G#, A#, B c# d# e] [f g f eb c# B] [Bb' An G#-s1 F#-s4 E-s1 F#-s3]
+|
+=1' cha1 cro b{1 qua a# cro b}1 qua B [c eb g]
+=1, cha2 cro d{2 qua c# cro d}2 qua D  [Eb A c]
+=2' smq [G-s0 f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a- C eb g]
+/
+2 bars | 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 \
+ | 4 3 4 3 4 3  4 3 4 3 4 3  4 3 4 3 4 3 |
+|
+il1.0 .01 35
+=1' cha1 qua [g# smq g# B g#] rest' [g# B qua g# smq g# B] qua [g# smq g# B g#] rest'
+=1, cha2 smq [d B qua d smq d B] qua [d smq d B d] rest, [d B qua d smq d B]
+=2  smq [b g# b d~ b g#] [b d~ b g# b d~] [b' g#' b' d~' b' g#']
+=2, min. blank cro F# qua Fn
+|
+=1' cha1 smq [Ab qua f smq f Ab f] rest' [f Ab qua f smq f] [Ab qua f smq f Ab f]
+=1, cha2 smq rest, [B G# qua B smq B] [G# qua B smq B G# B] rest, [B G# qua B smq B]
+=2 smq [f' ab' b' ab' f' ab'] [b ab f ab b ab] [f' ab' b' ab' f' ab']
+=2, cro. Eb rest,, cro Eb qua D
+/
+2 bars | 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 |
+|
+=1' cha1  qua [d' smq d' F d'] rest' [d' F qua d' smq d' F] qua [d smq d e d c#]
+=1, cha2 smq [Ab F qua Ab smq Ab F] qua [Ab smq Ab F Ab] rest, [Ab F qua Ab smq Ab An]
+=2 smq [f' d' f' ab' f' d'] [f ab f d f ab] [f' d' f' ab' f' g']
+=2, cro. C rest,, qua [C B_ A_]
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ [C G Anl]
+=2' smq [G_ f g G e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 \
+ | 3 3 4 3 3 3 3 3.4 4 3.4 4 3.4 3.4 4 3 3 3 3 |
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ qua [C Eb C]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+|
+il0.7  40
+=1' cha1 qua [Bb d e] [g f# e] [f# g a]
+=1, cha2 qua [D E G] [Bb d c#] d cro e
+=2  smq leg98 [D E G Bb' d' e'] \
+ [g d~ e~ f~# g~ f~#] \
+ [e~ d~ bb g e leg190 G,(1]
+
+6 systems 6 /14 42 19 /14 45 19 \
+ /14 45 19 6 /14 42 19 7 \
+ /14 40 19 7 /14 44 19 14 /
+pagenum
+innerhead Trio With Guitar, Peter Billam
+leftfoot (c) 2008 Peter J Billam
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 |
+|
+=1' cha1 cro b{1 qua a# cro leg85 b}1 qua leg100 B [c g an]
+=1, cha2 cro d{2 qua c# cro leg85 d}2 qua leg100 D cro Eb qua cn
+=2' smq [G)1 f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+|
+=1' cha1 cro b{1 qua a# cro leg85 b}1 qua leg100 B [c d c]
+=1, cha2 cro d{2 qua c# cro leg85 d}2 qua leg100 D [Eb F Eb]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+/
+2 bars | 6 6 8 6 6 6 6 7 8 7 8 7 7 8 7 6 8 6 \
+ | 8 6 7 7 8 6 7 7 8 7 7 7 8 6 7 7 8 6 |
+|
+=1' cha1 qua [Bb d e] [g f# e] [d e c#]
+=1, cha2 qua [D E G] [Bb d c#] [Bn c# A#l,]
+=2  smq leg98 [D E G Bb' d' e'] \
+ [g d~ e~ f~# g~ f~#] \
+ [e~ d~ bb f# e leg190 f#,]
+|
+=1' cha1 smq [d B qua d smq d B] qua [d smq d B d] rest' [d B qua d smq d B]
+=1, cha2 qua [G# smq G# B G#] rest, [G# B qua G# smq G# B] qua [G# smq G# B G#] rest,
+=2  smq [b g# b d~ b g#] [b d~ b g# b d~] [b' g#' b' d~' b' g#']
+=2, min. blank cro F# qua Fn
+/
+2 bars | 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 \
+ | 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 |
+|
+il0.6  45
+=1' cha1 smq rest'' [B G# qua B smq B] [G# qua B smq B G# B] rest'' [B G# qua B smq B]
+=1, cha2 smq [Ab qua F smq F Ab F] rest, [F Ab qua F smq F] [Ab qua F smq F Ab F]
+=2 smq [f' ab' b' ab' f' ab'] [b ab f ab b ab] [f' ab' b' ab' f' ab']
+=2, cro. Eb rest,, cro Eb qua D
+|
+=1' cha1 smq [Ab F qua Ab smq Ab F] qua [Ab smq Ab F Ab] rest'' [Ab F qua Ab smq Ab An]
+=1, cha2 qua [D smq D F D] rest, [D F qua D smq D F] qua [D smq D F qua D]
+=2  smq [f' d' f' ab' f' d'] [f ab f d f ab] [f' d' f' ab' f' g']
+=2, cro. C rest,, qua [B_ A_ G_]
+/
+2 bars | 54 | 54 |
+
+|
+=1' cha1  cro B'{1 leg85 qua An}1 leg100 cro B'{1 leg85 qua A}1 leg100 [B c d]
+=1, cha2 cro Eb{2 leg85 qua D}2 leg100 cro Eb{2 leg85 qua D}2 leg100 [Eb rest, A]
+=2' smq [F_ F f F f F] [F_ F f F F_ F] [F_ F g F g F]
+|
+=1' cha1  cro eb{1 leg85 qua d}1 leg100 cro eb{1 leg85 qua d}1 leg100 [eb g a]
+=1, cha2 cro B{2 leg85 qua A}2 leg100 cro B{2 leg85 qua A}2 leg100 [G B c#]
+=2' smq [f g f F f F] [f g f F f g] [f g f F f F]
+/
+3 bars | 54 | 5 6 6 5 5 6 6 5 5 | 6 6 5 5 6 6 5 5 6 |
+|
+=1' cha1  cro b{1 leg85 qua an}1 leg100 cro b{1 leg85 qua a}1 leg100 [b c~ b]
+=1, cha2  cro eb{2 leg85 qua d}2  leg100 cro eb{2 leg85 qua d}2 leg100 [eb d eb]
+=2, smq [G f~ f~ g f~ g] [g f~ f~ g g f~] [g f~ f~ g f~ G]
+|
+il1.1 .10 50
+=1' cha1 cro bb{1 leg85 qua a}1  leg100 cro g{1 leg85 qua f}1 \
+  leg100 cro eb{1 leg85 qua d}1
+=1, cha2 cro d{2 leg85 qua c}2  leg100 cro Bb{2 leg85 qua A}2 \
+  leg100 cro G{2 leg85 qua F}2
+=2  qua rest smq [D, d~ d d~] cro D' smq [D, d d~ d] cro D'
+=2, min D_ D_ qua D_(2
+|
+=1' cha1 cro c{1 leg85 qua Bb}1  leg100 cro A{1 leg85 qua G}1 \
+  leg100 cro F{1 leg85 qua E}1
+=1, cha2 cro Eb{2 leg85 qua D}2  leg100 cro C{2 leg85 qua B_b}2 \
+  leg100 cro A_{2 leg85 qua G_}2
+=2  smq [D, d d~ d] cro D' smq [D, d~ d d~] cro D smq [D d']
+=2, cro. D_r)2 min D_ cro D_(2
+/
+3 bars | 54 | 54 | 54 |
+|
+=1' cha1 leg95 min. D cro rest qua D
+=1, cha2 leg95 min. F_ cro. rest,,
+=2, smq [d~ d] cro D smq [D, d~ d d~] cro D smq [D, d~ d d~]
+=2, cro D_)2 min D_ cro. D_(4
+|
+=1' cha1 cro E{'1 qua F cro E}'1 qua rest cro F{'1 qua Gb
+=1, cha2 smq [G_ C# G_ C# A_ C#] [G_ C# G_ C# A_ C#] [B_ D B_ D B_b D]
+=2  cro D smq [D, d~ d d~] cro D smq [D, d~ d d~] qua D(2
+=2, qua D_)4 min D_ D_
+|
+=1' cha1  min. F}'1 cro rest qua D
+=1, cha2 smq [A_b D A_b D A_b E] [A_b F A_b F A_b F] [A_b F A_b E A_b D]
+=2  qua D)2 smq [D, d~ d d~] cro D' smq [D, d d~ d] cro D'
+=2, min D_ D_ qua D_(2
+
+5 systems /14-15-14 35 19 5 \
+ /14-17-14 36 19 /14-16-14 41 19 \
+ /14-16-14 47 19 5 /14-17-14 44 19 19/
+pagenum
+innerhead Guitar and Two Recorders, Peter Billam
+leftfoot (c) 2008 Peter J Billam
+
+/
+2 bars | 3 3 3 3 2.5 2.5 2.5 2.5 3 3 3 3 2.5 2.5 2.5 2.5 4 3 \
+ | 3 2 2 2 3.5 2 3 2 2  3 2 3 2 3.5 3.5 3 2 2  3.5 2 3.5 2 2 3 3 2 2 |
+|
+il0.5 .02 55
+=1  treble cha1 leg95 cro E{2 qua F cro E}2 qua rest cro F qua Gb
+=2 treble cha2 tra-12 vol95 leg95 smq [G_ C# G_ C# A_ C#] [G_ C# G_ C# A_ C#] [B_ D B_ D B_ D]
+=3 treble8vab cha3 vol95 smq [D, d d~ d] cro D' smq [D, d~ d d~] qua [d a smq b c~#]
+=3, treble8vab cro. D_r)2 min. D_
+|
+=1' smq [Ab F rest d c] rest [F Ab rest Ab F] rest [c d rest Ab F] rest
+=2' smq rest [Ab F rest d c] rest [F Ab rest Ab F] rest [c d rest Ab F]
+=3 smq [d~-sm, d~b-s"i",] smq3 [c~-sa, b-sm,-I3 bb-s"i",] smq [a-sm, g#-s"i",] \
+ [a-sm, bb-s"i",] smq3 [bn-sa, c~-sm,-I3 c~#-s"i",] smq [d~n-sm, c~n-s"i",] \
+ smq3 [b bb-I3 a] smq [g# a] [g# gn] 
+Is0.4 apoyando . . .
+/
+2 bars | 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 4 6.5 4 4 4 4 4 4 4 4 4 4 \
+ | 4 4 4 4 4 6 4 4 4 4 4 5 6.5 6.5 6 4 4 4 4 4 5 4 4 4 5 4 4 |
+|
+=1' smq [An G rest eb c] rest [G A rest A G] rest [c eb rest A G] rest
+=2' smq rest [An G rest eb c] rest [G A rest A G] rest [c eb rest A G]
+=3 smq3 [f# g-I3 a] smq [b a] \
+ [g f#] smq3 [g a-I3 b] smq [c~ b] \
+ smq3 [a g-I3 f#] smq [g a] [b c~]  smq3 [d~ c~-I3 b]
+|
+=1' smq [Bb Ab rest en c] rest [Ab Bb rest Bb Ab] rest [c e rest Bb Ab] rest
+=2' smq rest [Bb Ab rest en c] rest [Ab Bb rest Bb Ab] rest [c e rest Bb Ab]
+=3  smq [c~ d~] smq3 [e~ d~-I3 c~] smq [bb c~] \
+ [d~ c~] smq3 [bb an-I3 ab] smq [bb c~] [d~ e~] \
+ smq3 [f~# e~-I3 d~] smq [e~ f~#]
+/
+2 bars | 4 5 4 5 4 4 4 4 4 5 4 5 4 4 4 4 5 4 \
+ | 4 4 4 4 5 5 5 4 5 5 4 4 4 5 4 5 5 4 |
+|
+=1, smq [f c# B rest c B] [f rest B f c] rest [c B f rest B f]
+=2, smq [B rest f c# B] rest [c# B f rest B f] [c# rest c# B f] rest
+=3, smq [g~-s4 b---s2 c~#--s1 b--s4 c~#-s1 G] \
+ [c~# G b b c~# g] [c~# g b g b c~#]
+|
+il0.5 .02 60
+=1, smq [db rest f db Bb] rest [Bb f db rest f db] [Bb rest db Bb e] rest
+=2, smq [Bb f db rest f db] [Bb rest Bb f db] rest [en db Bb rest db Bb]
+=3, smq [d~b-s1 G bb-s3 G bb d~b] [bb d~b g bb d~b g] [d~b g bb g bb d~b]
+/
+2 bars | 4 4 4 4 5 4 5 5 5 4 5 4 5 4 4 4 4 4 \
+ | 5 4 5 5 5 5 4 5 4 4 5 4 4 5 4 4 4 4 |
+|
+=1, smq [db Bb e rest Bb e] [db rest d# c# A] rest [A d# c# rest d# c#]
+=2, smq [e rest db Bb e] rest [A d# c# rest d# c#] [A rest A d# c#] rest
+=3, smq [d~b G bb G bb d~b] [a c~# f# f# a c~#] [a c~# F# c~# F# a]
+b0.1 .33 C.IX
+|
+=1 qua [d' smq c#' B' F Ab] qua [F smq rest qua c#' smq B'] [An F G qua Eb] smq rest
+=2 smq [B A#, B qua d smq c#] [B' F Ab qua F] smq rest qua [c#' smq B' An F G]
+=3' smq rest' [ab-s4 g-s3 ab-s4 bb-s1 bn-s1] \
+[c~#-s3 d~-s4 c~#-s3 b-s1 g-s3 an(2-s1] [a)2 g-s4 eb-s1 qua f-s3 smq db-s3]
+=3, min. Fn-s2, cro Eb-s2, qua Db-s1,
+/
+2 bars | 4 5 4 4 5 4 4 4 4 4 5 4 4 5 4 4 4 4 \
+ | 4 5 4 4 5 4  4 4 5 4  4 4  5 5 5 4 4 4 |
+|
+=1' qua [cn smq B A G A] qua [Eb smq rest qua B smq Bb] [Ab F G qua D] smq rest
+=2 qua [Eb smq rest qua cn' smq B'] [A G A qua Eb] smq rest qua [B' smq Bb' Ab F G]
+=3' smq rest' [d-s4 eb-s1 g-s1 a-s3 bn-s4] \
+[c~-s1 d~-s3 c~-s1 b-s4 g-s1 ab(2-s4] [a)2 f-s1 c#-s1 qua d-s2 smq B-s0]
+=3, min. C--s2-gs6, cro B_b-s3, qua A_b-s1,
+|
+=1' qua [Bb smq A G E F] qua [A smq C D E F] qua [Ab smq C D E F]
+=2' qua [D smq rest qua Bb smq A] [G E F qua A smq C] [D E F qua Ab smq C]
+b0.3 .01 C.V
+=3' smq rest' [d c# d e f#] \
+[g a g fn e-s0 d(2-s4] [d)2 cn-s1 Bb-s4 qua Ab-s1 smq c-s1]
+=3, min. G_ cro F_-s3, qua E_-s2,
+
+6 systems 7 /14 46 19/14 37 19 \
+ /14 49 19/14 39 19 \
+ /14 39 19/14 47 19 10/
+pagenum
+innerhead Trio With Guitar, Peter Billam
+leftfoot (c) 2008 Peter J Billam
+/
+3 bars | 2 1.5 2 2 2 2 2 1.5 2 2 2 3.4 2 2 2 2 2 2 \
+ | 2 2 1.5 2 2 1.5 2 2 1.5 2 2 1.5 2 2 1.5 3.4 2 2 |
+|
+il0.5 .02 65
+=1' cha1 cro. F# cro rest qua D cro Eb qua c
+=1, cha2 min. B_bl qua [C G A]
+=2' treble8vab cha3 tra0 vol95 smq rest [c-s3 D-s0 c-s3 d-s1 c-s3] [d c D c d c] [eb-s2 c f-s4 c g-s1 c]
+=2, min. D_
+|
+=1' cha1 cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=1, cha2 cro B{2 qua A#l cro leg85 B}2 qua leg100 B_ qua [C G Anl]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+|
+=1' cha1  cro d{1 qua c# cro leg80 d}1 qua leg100 D qua [Eb G A]
+=1, cha2 cro B{2 qua A#l cro leg80 B}2 qua leg100 B_ qua [C Eb F]
+=2' smq [G f g G_ e g] [G f g G_ e leg95 g] leg190 [A g a C eb g]
+/
+3 bars | 4 4 4 6 5 5 4 4 4 4 3.5 3.5 4 4 4 4 4 4  | 24 18 16 \
+ | 4 4 4 4 4 6  3 3 3 3 3 3  3 3 2.5 2.5 2.5 2.5 |
+|
+=1' cha1 cro B qua e qua [d c# B] cro A qua B'
+=1, cha2 cro. G cro G qua F# cro. E
+=2  smq [E,--s1 e---s3 d~-s4 d---s2 c#--s4 C#,-s3] [B_-s2 B'-s0] [b-s1 B--s0] \
+ qua rest smq [B_-s1-gs5, B'-s0] [a-s4 A,--s1] [G_-s3 G-s0]
+|
+=1' cha1 cro A qua G cro G g G
+=1, cha2 cro. Eb min. Eb
+=2' cro. blank qua rest'' cro c~-s3, g~-s4, qua c~-s3,
+=2, smq [g-s1 G-s0 A-s4 A_-s0 B_-s3 B-s0] min. c-s1,
+|
+il0.5 .02 70
+=1' cha1 cro G qua F cro F f F
+=1, cha2 cro. Db min. Db
+=2' cro. blank qua rest' cro bb-s3, f~-s4, qua b-s2,
+=2, smq [f-s3 F-s1 G-s0 G_-s2 A_-s0 A-s1] min. Bb-s1,
+/
+3 bars | 3 3 2 2 2 2 2 2 2 2 2 2 3 3 2 2 2 2 | 12 9 8 | 12 9 8 |
+|
+=1' cha1 cro F qua Bb qua [Ab G F] cro Eb qua F
+=1, cha2 cro. Db Db C
+=2' smq [Bb-s4 bb-s2 ab-s1 Ab-s3 G_-s2 G-s0] [F_-s3 F-s4 f-s1 F-s4] \
+ qua rest smq [Bb-s4 bb-s2 ab-s1 Ab-s3 G_-s2 G-s0]
+|
+=1' cha1 cro F qua G cro A a A
+=1, cha2 cro. B_n min. B_
+=2' cro. blank qua rest'' cro a-s1, a~-s3, qua a-s1,
+=2, smq [f-s4 F-s1 G-s0 G_-s3 A_-s0 A-s1-gs4] min. d-so,
+|
+=1' cha1 cro G qua A cro B b B
+=1, cha2 cro. C# min. C#
+=2' cro. blank qua rest'' cro b-so,-s4, b~-so,-s1, qua b-so,-s4,
+=2, smq [g-s4-gs2 G--s0 A-s3 A_-s0 B_-s2 B-s0] min. e-s2,
+/
+3 bars | 54 | 4.5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 | 54 |
+|
+=1' cha1 cro B qua A# cro. B(1 qua B)1 rest qua D
+=1, cha2 cro D qua C# min. D
+=2' smq [G f g G_ e g] [G f g G_ e g] [G f g G_ e g]
+|
+il0.5 .02 75
+=1' cha1 cro. Eb G A
+=1, cha2 min. C cro. Eb
+=2, smq [c--s3 eb--s2 a-s4 B--s3 eb--s4 g-s2] \
+ [A--s1 eb--s3 a-s4 G--s0 eb--s3 g-s2] \
+ [F--s1 eb--s3 a-s4 Eb--s1 eb--s4 g-s3]
+|
+=1' cha1 cro. B(1 cro B)1 qua A# cro. B
+=1, cha2 cro. D(2 cro D)2 qua C# cro. D
+=2' smq [D f g G_ e g] [G f g G_ e g] [G f g G_ e g]
+/
+3 bars | 72 | 72 | 72 |
+|
+=1' cha1 cro. c eb cro d qua c
+=1, cha2 cro. Eb G cro F qua Eb
+=2, smq [A--s1 eb--s3 a-s4 G--s0 eb--s3 g-s2] \
+ [F--s1 eb--s3 a-s4 Eb--s1 eb--s4 g-s3] \
+ [F--s1 eb--s3 a-s4 G--s0 eb--s3 g-s2]
+|
+=1' cha1 cro. B(1 cro B)1 qua A# cro B qua d
+=1, cha2 cro. D(2 cro D)2 qua C# cro D qua B
+=2' smq [B_-s1 A-s1 F-s2 A-s1 C#-s3 A-s1] \
+ [B_-s1 B-s0 F-s3 B-s0 D-s0 B-s0] \
+ [F-s3 B-s0 B_-s1 B-s0 F-s4 B-s0]
+|
+=1' cha1 cro. eb cro g qua f cro eb qua d
+=1, cha2 cro. c cro eb qua d cro c qua B
+=2' smq [C-s3 c-s1 A-s2 c-s1 B_-s3 A-s4] \
+ [A_-s0 c-s1 G-s1 c-s1 A_-s0 c-s1] \
+ [A-s3 c-s1 A_-s0 c-s1 G-s1 c-s1]
+/
+3 bars | 5 5 5 7 6 5  5 5 4 4 4 4  4 4 4 4 4 4 | 72 | 60 ||
+|
+il0.5 .02 80
+=1' cha1 cro c qua B cro A qua G cro Eb qua C
+=1, cha2 cro A qua G cro. Eb C
+=2  smq [A,--s3 a-s1 g-s4 G,--s0 Eb,--s4 eb--s2] [c'-s3 C-s1 qua G-s3 D-s2] \
+ [Eb-s3 G-s1-gs4, A-s2]
+|
+=1' cha1 min. D('1 cro D)'1 qua C#
+=1, cha2 min. B_(2 cro B_)2 qua A_#l
+=2' cro. blank qua rest'' [f#-s2, b-so,-s3,] [f~#-s4, b-so,-s3, f#-s2,]
+=2, cro B-s3, qua A#-s1, min. B-s1,
+|
+=1' cha1 min. D cro. rest
+=1, cha2 min. B_ cro. rest
+=2' cro. rest' f~#-s"1 (RH)", b~-so,-s4,
+=2, smb G_-s1,
+midi pause 3.0
+
+midi off
+
+7 systems 15 /19-22-19/19-22-19 \
+ /19-25-19/19-22-19 \
+ /19-22-19/19-25-19 \
+ /19-22-19/
+pagenum
+innerhead Peter Billam
+title Trio With Guitar;  Tenor and Bass recorder part
+leftfoot (c) 2008 Peter J Billam
+midi channel 1 patch 74 pan 20
+midi channel 2 patch 74 pan 80
+/
+4 bars | 9/8 3 3 3 4 4 6.6 4 5.5 4 \
+ | 4 4 5 4 4 6.6 4 5.8 4 \
+ | 4 4 5 4 4 6.6 5.8 4 4 \
+ | 4 4 5.8 5.8 5.8 5.8 5.8 5.8 4 |
+| 9/8 4.0
+i0.7 .04 approx 135 quaver/min
+=1  treble     9/8 cha1 vol85 \
+ cro. rest cro rest leg100 qua D cro leg90 Eb qua leg100 cn
+=2, bass8va 9/8 cha2 vol85 leg100 cro. rest rest leg100 qua [c g an]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B [c, g an]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B qua [c eb' c]
+|
+=1 qua [Bb d e] [g f# e] [d e c#]
+=2 qua [d e g] [bb d~ c~#] [bn c~# a#,]
+/
+3 bars | 36 |
+|
+il0.5 .04 5
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B [c, g an]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B qua [c eb' c]
+|
+=1 qua [Bb d e] [g f# e] [d e c#]
+=2 qua [d e g] [bb d~ c~#] [bn c~# a#,]
+/
+2 bars | 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 \
+ | 3 4 3 4   3 4 3 4   3 4 3 4   3 4 3 4   3 3 |
+|
+=1  smq [d B qua d smq d B] qua [d smq d B d] rest [d B qua d smq d B]
+=2  qua [g# smq g# b g#] rest [g# b qua g# smq g# b] qua [g# smq g# b g#] rest
+|
+=1' smq rest [B G# qua B smq B] [G# qua B smq B G# B] rest [B G# qua B smq B]
+=2 smq [ab qua f smq f ab f] rest [f ab qua f smq f] [ab qua f smq f ab f]
+/
+3 bars | 2 3.3 2 2 2 3.3 2 2 2 3.3 2 3 2 3.3 2 2 2 2 \
+ | 3 3 3.5 3 3 4 3.5 3.5 3 | 3 3 3.5 3 3 4 3.5 3 3 |
+|
+il0.8 .02 10
+=1' smq [Ab F qua Ab smq Ab F] qua [Ab smq Ab F Ab] rest [Ab F qua Ab smq An B]
+=2  qua [d smq d f d] rest [d f qua d smq d f] qua [d smq d f g a]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B [c, g an]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B qua [c eb' c]
+/
+4 bars | 4 4 5 5 5 5 5 5 4 \
+ | 4 4 4 4 3 6 4 5 4 \
+ | 4 4 4 4 3 6 5 4 4 \
+ | 4 4 5 5 5 5 5 5 4 |
+|
+=1 qua [Bb d e] [g f# e] [d e c#]
+=2 qua [d e g] [bb d~ c~#] [bn c~# a#,]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B [c, g an]
+|
+il0.5 .04 15
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B qua [c eb' c]
+|
+=1 qua [Bb d e] [g f# e] [d e c#]
+=2 qua [d e g] [bb d~ c~#] [bn c~# a#,]
+/
+2 bars | 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 \
+ | 3 4 3 4   3 4 3 4   3 4 3 4   3 4 3 4   3 3 |
+|
+=1  smq [d B qua d smq d B] qua [d smq d B d] rest [d B qua d smq d B]
+=2  qua [g# smq g# b g#] rest [g# b qua g# smq g# b] qua [g# smq g# b g#] rest
+|
+=1' smq rest [B G# qua B smq B] [G# qua B smq B G# B] rest [B G# qua B smq B]
+=2 smq [ab qua f smq f ab f] rest [f ab qua f smq f] [ab qua f smq f ab f]
+/
+3 bars | 2 3.3 2 2 2 3.3 2 2 2 3.3 2 3.3 2 3.3 2 2 2 2 \
+ | 3 3 4 3 3 4 4 5 3 | 3 3 4 3 3 5 4 3 3 |
+|
+=1' smq [Ab F qua Ab smq Ab F] qua [Ab smq Ab F Ab] rest [Ab F qua Ab smq An B]
+=2  qua [d smq d f d] rest [d f qua d smq d f] qua [d smq d f g a]
+|
+il0.7 .04 20
+=1  cro eb{1 leg85 qua d}1  leg100 cro eb{1 leg85 qua d}1 leg100 [eb g a]
+=2 cro b{1 leg85 qua an}1 leg100 cro b{1 leg85 qua a}1 leg100 [b rest'' f~]
+|
+=1  cro b{1  leg85 qua a}1 leg100 cro b{1  leg85 qua a}1 leg100 cro g  qua f
+=2 cro e~b{1 leg85 qua d~}1 leg100 cro e~b{1 leg85 qua d~}1 leg100 cro. c~#
+
+6 systems 15 /19-25-19/
+pagenum
+innerhead Recorder part, Trio With Guitar, Peter Billam
+leftfoot (c) 2008 Peter J Billam
+/
+4 bars | 4 4 5 4 4 5 4 4 4 | 4 4 5 4 4 5 4 4 4 \
+ | 4 4 5 4 4 5 4 4 4 | 3 3 3 3 3 3 3 3 4 |
+|
+=1  cro eb{1 leg85 qua d}1  leg100 cro eb{1 leg85 qua d}1 leg100 [eb g a]
+=2 cro b{1 leg85 qua an}1 leg100 cro b{1 leg85 qua a}1 leg100 [b rest'' f~]
+|
+=1  cro bb{1 leg85 qua a}1  leg100 cro g{1 leg85 qua f}1 \
+  leg100 cro eb{1 leg85 qua d}1
+=2 cro d~{1 leg85 qua c~}1 leg100 cro bb'{2 leg85 qua a}2 \
+  leg100 cro g{2 leg85 qua f}2
+|
+=1  cro c{1 leg85 qua Bb}1  leg100 cro A{2 leg85 qua G}2 \
+  leg100 cro F{2 leg85 qua E}2
+=2 cro eb{1 leg85 qua d}1 leg100 cro c{2 leg85 qua Bb}2 \
+  leg100 cro A{2 leg85 qua G}2
+|
+il0.5 .04 25
+=1 leg95 min. D cro rest qua D
+=2 leg95 min. F cro. rest
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 4 4 4 5 4 4 \
+ | 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 |
+|
+=1  cro E{2 qua F cro E}2 qua rest cro F{2 qua Gb
+=2' smq [G c# G c# A c#] [G c# G c# A c#] [B d B d Bb d]
+|
+=1  min. F}2 cro rest qua D
+=2' smq [Ab d Ab d Ab e] [Ab f Ab f Ab f] [Ab f Ab e Ab d]
+/
+3 bars | 4.7 3 4.7 3 4.7 3 4.7 3 4.7 3 4.7 4 3 3 3 3 3 3 \
+ | 5 5 5 5 4 5 4 5 4 | 5 4 5 5 5 5 5 4 4 |
+|
+=1  cro E{2 qua F cro E}2 qua rest cro F qua F#
+=2' smq [Gn c# G c# A c#] [G c# G c# A c#] [B d B d B d]
+|
+=1  qua [G A Bb'] [c# d e] [f# g a#]
+=2 qua [Bb c# d'] [e f# g] [a#, b d~]
+|
+il0.8 .12 30
+=1  qua [c~ b a] [g# f# e] [d# B c]
+=2 qua [e~ d~# c~] [b a g#] [f# g# a]
+/
+4 bars | 5 5 5 5 5 7.5 5 5 5 \
+ | 6 6 6 6 6 6 5 6 5 | 5 6 5 6 6 6 6 6 5 \
+ | 5 5 5 5 5 7.5 6 5 5 |
+|
+=1 cro d{1 qua c# cro d}1 qua D  [Eb G A]
+=2 cro b{1 qua a# cro b}1 qua B cro c qua g
+|
+=1 qua [B c# d#] [e f# g] [ab g fn]
+=2 qua [g# a b] [bb ab gn] [f e d]
+|
+=1 qua [e d c#] [d eb f] [g g# a#]
+=2 qua [e f g] [a b c~#] [d~# f~ e~]
+|
+=1 cro b{1 qua a# cro b}1 qua B [c eb g]
+=2 cro d~{1 qua c~# cro d~}1 qua d [eb a c~]
+/
+2 bars | 54 |
+|
+il0.8 .04 35
+=1, qua [g# smq g# B g#] rest [g# B qua g# smq g# B] qua [g# smq g# B g#] rest
+=2 smq [d~ b qua d~ smq d~ b] qua [d~ smq d~ b d~] rest [d~ b qua d~ smq d~ b]
+|
+=1, smq [Ab qua f smq f Ab f] rest [f Ab qua f smq f] [Ab qua f smq f Ab f]
+=2  smq rest [b g# qua b smq b] [g# qua b smq b g# b] rest [b g# qua b smq b]
+/
+3 bars | 3 4.4 3 3 3 4.4 3 3 3 4.4 3 4.4 3 4.4 3 3 4.4 3 \
+ | 4 4 5 4 4 6 4 5 4 | 4 4 5 4 4 6 5 4 4 |
+|
+=1  qua [d' smq d' F d'] rest [d' F qua d' smq d' F] qua [d smq d e d c#]
+=2  smq [ab f qua ab smq ab f] qua [ab smq ab f ab] rest [ab f qua ab smq ab an]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B [c, g an]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D qua [Eb G A]
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B qua [c eb' c]
+
+7 systems 15 /19-25-19/19-25-19 \
+ /19-25-19/19-22-19 \
+ /19-22-19/19-25-19 5 \
+ /19-25-19/
+pagenum
+innerhead Recorder part, Trio With Guitar, Peter Billam
+leftfoot (c) 2008 Peter J Billam
+/
+4 bars | 4 4 5 5 5 5 5 5 4 \
+ | 4 4 4 4 3 6 4 5 4 \
+ | 4 4 4 4 3 6 4 5 4 \
+ | 4 4 5 5 5 5 5 5 4 |
+|
+il0.7  40
+=1 qua [Bb d e] [g f# e] [f# g a]
+=2 qua [d e g] [bb d~ c~#] d~ cro e~
+|
+=1 cro b{1 qua a# cro leg85 b}1 qua leg100 B [c g an]
+=2 cro d~{1 qua c~# cro leg85 d~}1 qua leg100 d cro eb qua c~n
+|
+=1 cro b{1 qua a# cro leg85 b}1 qua leg100 B [c d c]
+=2 cro d~{1 qua c~# cro leg85 d~}1 qua leg100 d [eb f eb]
+|
+=1 qua [Bb d e] [g f# e] [d e c#]
+=2 qua [d e g] [bb d~ c~#] [bn c~# a#,]
+/
+2 bars | 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 4 3 3 3 \
+ | 3 4 3 4   3 4 3 4   3 4 3 4   3 4 3 4   3 3 |
+|
+=1  smq [d B qua d smq d B] qua [d smq d B d] rest [d B qua d smq d B]
+=2  qua [g# smq g# b g#] rest [g# b qua g# smq g# b] qua [g# smq g# b g#] rest
+|
+il0.6  45
+=1' smq rest [B G# qua B smq B] [G# qua B smq B G# B] rest [B G# qua B smq B]
+=2 smq [ab qua f smq f ab f] rest [f ab qua f smq f] [ab qua f smq f ab f]
+/
+3 bars | 2 3.3 2 2 2 3.3 2 2 2 3.3 2 3 2 3.3 2 2 3.3 2 \
+ | 3 3 4 3 3 4 3.5 3.5 3 \
+ | 3 3 3.5 3 3 3.5 3 3.5 3 |
+|
+=1' smq [Ab F qua Ab smq Ab F] qua [Ab smq Ab F Ab] rest [Ab F qua Ab smq Ab An]
+=2  qua [d smq d f d] rest [d f qua d smq d f] qua [d smq d f qua d]
+
+|
+=1  cro B'{2 leg85 qua An}2 leg100 cro B'{2 leg85 qua A}2 leg100 [B c d]
+=2 cro eb{1 leg85 qua d}1 leg100 cro eb{1 leg85 qua d}1 leg100 [eb rest a]
+|
+=1  cro eb{1 leg85 qua d}1 leg100 cro eb{1 leg85 qua d}1 leg100 [eb g a]
+=2  cro b{1 leg85 qua a}1 leg100 cro b{1 leg85 qua a}1 leg100 [g b c~#]
+/
+4 bars | 4 4 5 4 4 5 4 4 4 | 4 4 5 4 4 5 4 4 4 \
+ | 4 4 5 4 4 5 4 4 4 | 3 3 3 3 3 3 3 3 4 |
+|
+=1  cro b{1 leg85 qua an}1 leg100 cro b{1 leg85 qua a}1 leg100 [b c~ b]
+=2 cro e~b{1 leg85 qua d~}1 leg100 cro e~b{1 leg85 qua d~}1 leg100 [e~b d~ e~b]
+|
+il0.8 .26 50
+=1  cro bb{1 leg85 qua a}1  leg100 cro g{1 leg85 qua f}1 \
+  leg100 cro eb{1 leg85 qua d}1
+=2 cro d~{1 leg85 qua c~}1 leg100 cro bb{1 leg85 qua a}1 \
+  leg100 cro g{1 leg85 qua f}1
+|
+=1  cro c{1 leg85 qua Bb}1  leg100 cro A{2 leg85 qua G}2 \
+  leg100 cro F{2 leg85 qua E}2
+=2 cro eb{1 leg85 qua d}1 leg100 cro c{2 leg85 qua Bb}2 \
+  leg100 cro A{2 leg85 qua G}2
+|
+=1 leg95 min. D cro rest qua D
+=2 leg95 min. F cro. rest
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 4 4 4 5 4 4 \
+ | 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 4 |
+|
+=1  cro E{2 qua F cro E}2 qua rest cro F{2 qua Gb
+=2' smq [G c# G c# A c#] [G c# G c# A c#] [B d B d Bb d]
+|
+=1  min. F}2 cro rest qua D
+=2' smq [Ab d Ab d Ab e] [Ab f Ab f Ab f] [Ab f Ab e Ab d]
+
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 4 4 4 4 4 4 \
+ | 5 4 4 4 4 4 5 5 5 5 4 4 4 4 5 5 4 4 |
+|
+il0.5 .02 55
+=1  leg95 cro E{2 qua F cro E}2 qua rest cro F qua Gb
+=2' leg95 smq [G c# G c# A c#] [G c# G c# A c#] [B d B d B d]
+|
+=1' smq [Ab F rest d c] rest [F Ab rest Ab F] rest [c d rest Ab F] rest
+=2  smq rest [ab f rest' d~ c~] rest [f ab rest' ab f] rest [c~ d~ rest' ab f]
+/
+2 bars | 6 5 6 5 5 5 5 5 5 5 5 5 6 6 5 5 5 5 \
+ | 6 6 5 5 5 6 6 6 6 6 6 5 5 5 6 6 6 5 |
+
+|
+=1' smq [An G rest eb c] rest [G A rest A G] rest [c eb rest A G] rest
+=2  smq rest [an g rest' e~b c~] rest [g a rest' a g] rest [c~ e~b rest' a g]
+|
+=1' smq [Bb Ab rest en c] rest [Ab Bb rest Bb Ab] rest [c e rest Bb Ab] rest
+=2  smq rest [bb ab rest' e~n c~] rest [ab bb rest' bb ab] rest [c~ e~ rest' bb ab]
+
+/
+2 bars | 6 5 6 5 5 6 5 5 5 5 6 5 6 5 5 5 5 \
+ | 5 6 6 6 6 6 5 6 5 6 6 6 6 6 6 6 6 5 |
+|
+=1, smq [f c# B rest c B] [f rest B f c] rest [c B f rest B f]
+=2, smq [b rest' f~ c~# b] rest [c~# b f~ rest' b f~] [c~# rest' c~# b f~] rest
+|
+il0.5 .02 60
+=1, smq [db rest f db Bb] rest [Bb f db rest f db] [Bb rest db Bb e] rest
+=2, smq [bb f~ d~b rest' f~ d~b] [bb rest' bb f~ d~b] rest [e~n d~b bb rest' d~b bb]
+/
+2 bars | 6 6 6 6 5 6 6 6 6 6 6 5 6 6 6 6 6 5 \
+ | 6 5 5 5 6 5 5 6 6 5 5 6 5 5 6 5 5 5  |
+|
+=1, smq [db Bb e rest Bb e] [db rest d# c# A] rest [A d# c# rest d# c#]
+=2, smq [e~ rest'' d~b bb e~] rest [a d~# c~# rest' d~# c~#] [a rest' a d~# c~#] rest
+|
+=1 qua [d' smq c#' B' F Ab] qua [F smq rest qua c#' smq B'] [An F G qua Eb] smq rest
+=2 smq [b a# b qua d~ smq c~#] [b f ab qua f] smq rest qua [c~# smq b an f g]
+/
+2 bars | 5 5 6 5 5 6 5 5 6 5 5 6 5 5 6 5 5 5 \
+ | 5 5 6 5 5 5 5 5 5 5 5 6 5 5 6 5 5 5 |
+|
+=1' qua [cn smq B A G A] qua [Eb smq rest qua B smq Bb] [Ab F G qua D] smq rest
+=2 qua [eb smq rest' qua c~n smq b] [a g a qua eb] smq rest qua [b smq bb ab f g]
+|
+=1' qua [Bb smq A G E F] qua [A smq C D E F] qua [Ab smq C D E F]
+=2, qua [d smq rest' qua bb smq a] [g e f qua a smq c] [d e f qua ab smq c]
+/
+4 bars | 4 3 4 4 4 6.6 4 4 4 \
+ | 4 4 5 4 4 6.6 5 5.7 4 \
+ | 4 4 5 4 4 6.6 5.7 4 4 | 4 4 5 5.7 5 5 4 4 5 |
+|
+il0.5 .02 65
+=1 cro. F# cro rest qua D cro Eb qua c
+=2 min. Bb qua [c, g a]
+|
+=1  cro d{1 qua c# cro leg85 d}1 qua leg100 D cro Eb qua cn
+=2  cro b{1 qua a# cro leg85 b}1 qua leg100 B qua [c, g an]
+|
+=1  cro d{1 qua c# cro leg80 d}1 qua leg100 D qua [Eb G A]
+=2  cro b{1 qua a# cro leg80 b}1 qua leg100 B qua [c, eb f]
+|
+=1 cro B qua e qua [d c# B] cro A qua B'
+=2  cro. g cro g qua f# cro. e
+/
+4 bars | 4 4 5 4 4 4 4 4 4 | 4 4 5 4 4 4 4 4 4 \
+ | 4 4 6 5 5 6 4 4 4 | 4 4 5 4 4 4 4 4 4 |
+|
+=1 cro A qua G cro G g G
+=2 cro. eb min. eb
+|
+il0.5 .02 70
+=1 cro G qua F cro F f F
+=2 cro. db min. db
+|
+=1' cro F qua Bb qua [Ab G F] cro Eb qua F
+=2 cro. db db c
+|
+=1 cro F qua G cro A a A
+=2 cro. Bn min. B
+/
+5 bars | 3 3 4 3 3 3 3 3 3 | 3 3 4 3 2 3 4 4 3 | 24 \
+ | 3 2 3 3 3 4 3 2 3 | 3 2 3 3 2 3 3 3 3 |
+|
+=1 cro G qua A cro B b B
+=2 cro. c# min. c#
+|
+=1' cro B qua A# cro. B(2 qua B)2 rest qua D
+=2' cro d qua c# min. d
+|
+il0.5 .02 75
+=1 cro. Eb G A
+=2 min. c cro. eb
+|
+=1' cro. B(2 cro B)2 qua A# cro. B
+=2' cro. d(2 cro d)2 qua c# cro. d
+|
+=1 cro. c eb cro d qua c
+=2 cro. eb g cro f qua eb
+/
+5 bars | 3 2 3 3 3 4 3 3 3 \
+ | 3 2 3 3 3 5 3 3 3 \
+ | 3 3 5 3 3 5 3 3 3 \
+ | 3 2 2 3 2 2 3 3 3 | 17 ||
+|
+=1' cro. B(2 cro B)2 qua A# cro B qua d
+=2 cro. d'(2 cro d')2 qua c# cro d' qua b
+|
+=1 cro. eb cro g qua f cro eb qua d
+=2 cro. c~ cro e~b qua d~ cro c~ qua b
+|
+il0.5 .02 80
+=1 cro c qua B cro A qua G cro Eb qua C
+=2 cro a qua g cro. eb c
+|
+=1 min. D(2 cro D)2 qua C#
+=2 min. B(2 cro B)2 qua A#
+|
+=1 min. D cro. rest
+=2 min. B cro. rest

@@ -1,0 +1,846 @@
+% start
+2 systems 120 /20 50 20/20 50 20 120/
+pagenum 3
+innerhead Peter Billam
+title Divisions on an Italian Ground
+leftfoot (c) 1980 Peter J Billam
+midi channel 1 patch 73
+midi channel 2 patch 24
+% dontstop
+/
+5 bars |3/4 12 | 12 | 1 1 1 1 1 1 1 1.5 1 1 1 1 | 12 | 12 |
+| 3/4 94
+I1.9 .08 Un poco maestoso
+I0.6     Flute
+=1 treble 3/4 cha1 leg98 min f{1 cro f
+I0.3     Guitar
+=2' treble 3/4 cha2 tra-12 leg105 min. d
+=2, 3/4 <D_-emph, D>
+i2.3      arpeggiando, apoyando el p . . .
+|
+=1 min g cro g
+=2' min. d
+=2, <G_-emph, D>
+|
+=1 cro.. e smq d cro e
+=2' min. c
+=2, min. <C-emph, E>
+|
+I0.7 .90 ,
+=1 min f cro f-.
+=2' min. c
+=2, <F_-emph, F>
+|
+=1 min d cro d}1
+=2' min. Bb
+=2, <B_b-emph, F>
+/
+3 bars | 3.3 3.3 4 | 1 1 1 1.6 2.1 1 1 1.6 1 1 1 1 | 3.3 3.3 4 ||
+|
+=1 treble smq blank cro. g{1 qua f [e d(3]
+=2' treble smq blank min. Bb
+=2, smq blank min. <G_-emph, E>
+|
+=1 qua [d)3 smq c# d] dsq [c# d qua c# smq B] cro c#
+=2' min. A
+=2, min. <A_-emph, E>
+|
+=1 min d cro d}1
+=2' min. A
+=2, min. <D_-emph, D>
+midi pause 2.2
+
+4 systems 40 /20 55 20/20 55 20/20 55 20/20 55 20 40/
+pagenum 4
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars | 8 | 17 |
+| 3/4 2.4
+=1 treble cha1 leg100 vol85 min F cro F
+I0.7 .02 f
+=2 treble cha2 tra-12 leg105 min D cro D_
+|
+i1.1 .07 leggerio ma legato . . .
+=1 smq rest rest [G-Ip, Bb' d' Bn'] [f# c# A,] Eb \
+ [fn cn-blank,-icresc, ab d] [b eb A,]
+i0.5 .04 zusammen
+=2' smq rest rest [A-s1-Ip, F#{2-s3 D}2-s0 Fn-s3] [B_b-s1 Eb-s2 G-s0] c#-s3 \
+ [B_n-s2 e-s0 Ab-s1-blank,-icresc, D-s0] [F_-s3 C#-s4 G]
+=2, qua blank min blank cro B_ qua. blank
+i1.1 .07 leggerio ma legato . . .
+/
+2 bars | 7.5 | 18 |
+|
+=1 treble min E cro rest
+I0.8      p
+=2 treble min C cro C
+I0.4    mf .61 mp
+|
+=1 smq rest rest [F-Ip, Ab c' An] [d# B,] \
+ [f# a#-blank,-icresc, an e Bb, G,] [F# c#'-blank,-idim, A Fn]
+=2' smq rest rest [G-Ip, E C Eb] [A_b-s4 Db-s2] \
+ [F-s1 B-s0-blank,-icresc, e-s0 Ab-s4 A_n c-s1] [Dn g-s4-blank,-idim, B G#]
+=2, cro. blank cro A_b  qua blank cro A_n qua blank
+/
+2 bars | 12 | 12 |
+|
+is0.7 .20 LH:1234 RH:245 (C-Klappe)
+=1 treble qua D-blank,-Ipp, rest min e-blank,-Ipppp,
+=2 treble min B_b-s1 cro Bn'
+|
+=1 min blank min. rest-fermata
+=2 min. g-so-fermata
+I0.1  pp
+/
+2 bars | .8 .8 .8 .9 .9 .9 1 1 1 1 1 1 1 1 1 1 1 1 1 .8 .8 | 3.5 ||
+| 5/4 4.0
+=1 treble smq rest dsq3 blank smq rest dsq3 blank smq rest dsq3 blank \
+ smq [C# dsq3 blank smq D dsq3 blank smq Eb] dsq3 blank \
+ smq [En G-blank-b4:3 B' G#-blank,-icresc,] [f# c# Gn,-blank-b4:3 G#,] \
+ [A, Bb,-blank-b4:3 eb c~#] [c~n bn f#---b"4:3   " c] [Ab Gn-blank-b3:2 Eb]
+=2 smq rest rest rest rest rest rest \
+ smq [c~{1-s4, a}1-s1, eb-s4,] [Bb,-s1,-icresc, Bn,-s0, g#-s3,] \
+ [gn{1-s2, en}1 F#,-s4] [E_b{2-s1 F_n}2-s3 G-s0] \
+ smq [c-s1 dsq3 blank smq g#-s4] 
+i0.2 .05 regelmäßig  .  .  .
+| 3/4 2.8
+=1 min. D
+I0.7  mf
+=2, min. d~-s0
+I0.1  mf
+midi pause 2.0
+
+4 systems 40 /19 50 20/19 55 20/19 65 20/19 60 20 40/
+pagenum 5
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars | 1 1 1 1 1 1 1.4 1  1 1 1.4 1 1.4 1 1.4 1  1.4 1 1.4 1 1 1.1 1.3 .5 .5 \
+ | 1 1 1 1 1 1 1 1  1 1 1.4 1.3 1.4 1.2 1.4 1.2  1 1 1 1 1.4 .7 .7 .5 .5 |
+| 3/4 3.1
+I0.9 .02 Etwas rasch
+=1 treble cha1 leg98 vol95 smq rest smq-s G{2 smq [D#}2-. \
+ smq-s G,{2 smq E}2-.  smq-s G,{2  smq D#}2-.] \
+ smq-s G{2 smq [E}2-.  smq-s B,{1  smq F#}1-. \
+ smq-s B,{1 smq A#}1-. smq-s B,{1  smq F#}1-.] \
+ smq-s G,{2 smq [A#}2-. smq-s B,{2  smq F#}2-. \
+ smq-s B,{2 smq G}2-.  smq-s db,{2 smq B'}2-.] blank
+i0.4       staccato
+=2 treble cha2 tra-12 leg65 vol95 \
+ smq [<F-blank,-b9P, Ab d'> <Eb Abl c#'> <F Ab d'> <Eb Abl c#'>] \
+ [<F Ab d'> <Eb Abl c#'> <F Ab d'> <F-blank,-b3P, Bbl' eb'>] \
+ [<G, Bbl, en> <F, Bbl, eb> <G,-b5P, c en> <An, c f#>]
+|
+=1 smq-s g'{1 smq [d#}1-., smq-s g'{1  smq e}1-., \
+ smq-s g'{1 smq d#}1-.,  smq-s g'{1  smq e}1-.,] \
+ smq-s B'{2 smq [G}2-.  smq-s B,{2  smq G#}2-. \
+ smq-s db,{2 smq A}2-. smq-s db,{2  smq c'}2-.] \
+ smq-s bb'{1 smq [f#}1-., smq-s bb'{1  smq g}1-., \
+ smq-s c~#'{1 smq a#}1-.,  smq-s blank  smq b-.,] blank
+=2, dsq blank smq [<Bbl-blank,-b6P, db g> <Ab dbl f#> <Bbl db g> <Abl db g>] \
+ [<Bbl db g> <Ab dbl f#> <Bbl db g> <Bn-blank,-b9P, e ab>] \
+ [<c# e bb> <Bb e an> <c# e bb> <d-ro-ro-ro g bn>]
+/
+2 bars | 1 1.4 1 1 1 1 1  1.4 1 1 1 1.4 1 1 1  1 1 1 1 1 1 1 .5 .5 \
+ | 1 1 1 1 1 1 1 1  1 1 1 1 1.4 1 1 1  1 1 1 1 1 1 1 .5 .5 |
+|
+=1 smq rest smq-s b{1 smq [a#}1-., \
+ smq-s b'{1 smq f}1-.,  smq-s G'{1  smq D,}1-.] \
+ smq-s F,{2 smq [C#}2-.  smq-s F,{2  smq D}2-. \
+ smq-s F,{2 smq C#}2-. smq-s F,{2  smq D}2-.] \
+ smq-s G,{2 smq [E}2-. smq-s F#,{2  smq E}2-. \
+ smq-s G,{2 smq E}2-.  smq-s F#,{2 smq E}2-.] blank
+=2 smq rest [<d#l-s4,-s2,-s2, gb c~> <c# f bb> <dn-s4,-s3,-s2, gb c~>] \
+ [<c# f bb> <e-s3,-s2,-s4, gb c~> <c# f bb> <e gb c~>] \
+ [<d#-blank,-b8P, ab d~> <e-blank,-b9P, ab d~b> \
+ <f-blank,-b10P, bb e~> <f#-blank,-b11P, bbl e~b>]
+b0.4      6P
+|
+=1 smq-s B'{1 smq [G#}1-., smq-s A,{1  smq E}1-., \
+ smq-s B,{1 smq  F}1-.,   smq-s B,{1  smq A}1-.,] \
+ smq-s A,{1 smq [c#}1-.,  smq-s f'{1  smq d}1-., \
+ smq-s A'{1 smq  c#}1-.,  smq-s f'{1  smq d}1-.,] \
+ smq-s blank smq rest     smq-s f#'{1 smq [a}1-., \
+ smq-s b'{2  smq e}2-.,   smq-s Gn'{1  smq C#,}1-.,] blank
+I0.4   f
+=2, dsq blank smq [<g-blank,-b12P, c~# f~> <g b e~> <g c~# f~> <g b e~>] \
+ [<g c~# f~> <g b e~> <g d~ f~> <g b e~>] \
+ [<g d~ f~> <g b e~> <g d~ f~#> <g b e~>]
+/
+2 bars | .7 .7 .7 .7 1 1 1 1  1 1 1 1 1 1 1 1  \
+   1 1 1 1 1 1 1 1  1 1 1 1 1 1 1 .5 .5 \
+ | 1 .7 .7 .7 2 1 1.4 1.4  1.5 1.2 1.5 1 1.5 1 1 1  1.3 1 1 1 1 1 1 1 .5 .5 |
+| 4/4 4.13
+=1 vol60 smq rest blank rest blank \
+ smq-s D,{2 smq [Bb'}2-. smq-s D,{2 smq A}2-.] \
+ smq-s D,{2 smq [Bb'}2-. smq-s D,{2 smq A}2-.  \
+ smq-s D,{2 smq  Bb'}2-. smq-s D,{2 smq A}2-.] \
+ smq-s D,{2 smq [Bb'}2-. smq-s D,{2 smq A}2-.  \
+ smq-s D,{2 smq  Bb'}2-. smq-s D,{2 smq A}2-.] \
+ smq-s D,{2 smq [Bb'}2-. smq-s D,{2 smq A}2-.  \
+ smq-s D,{2 smq  Bb'}2-. smq-s D,{2 smq A}2-.] blank
+I0.9 .04 pp
+I0.3 .03 p
+=2 vol60 smq rest rest [<c~#-s2,-s1, g~> <d~#-s2,-s3, g~>] \
+ [<e~-s2,-s4, g~> <c~# g~> <d~# g~> <e~ g~>] \
+ [<c~# g~> <d~# g~> <e~ g~> <c~# g~>] \
+ [<d~# g~> <e~ g~> <c~# g~> <d~# g~>]
+| 3/4 3.1
+=1 vol100 smq-s e{1 smq [g}1-., dsq blank smq rest dsq blank \
+ smq-s G', smq  Bb,-., smq-s f'{1 smq d}1-.,] \
+ smq-s db{1 smq [Bn'}1-. smq-s db{1 smq F#'}1-. \
+ smq-s A,{2 smq  c#'}2-. smq-s f{1  smq a'}1-.]  \
+ smq-s B'{1 smq [Eb,}1-., smq-s f'{2  smq c,}2-.,   \
+ smq-s ab'{2  smq d,}2-., smq-s B'{1  smq Eb,}1-.,] blank
+I0.9   f
+I0.1   ff
+=2' vol100 smq rest [<Ebl Bb f#> <D Bb g> <Ebl Bb f#>] \
+ [<D Bb g> <Ebl Bb f#> <D Bb g> <Ebl Bb f#>] \
+ [<Enl Bn g> <F B g#> <F# B a> <Gn fn a#>]
+=2, vol120 min. A_(2
+/
+2 bars | 1 1 1 1 1 1 1.4 1  1.4 1 1 1 1 1 1 1  1.4 1 1 1 1.4 1 .5 .5 \
+ | 1 1 1 1 1.3 1 1.3 1  1.3 1 1.3 1 1.3 1 1 1  1 1 1 1 1.3 1 .5 .5 ||
+|
+=1 smq-s c#{1 smq [A,}1-blank-. smq-s B'{1  smq E,}1-blank-. \
+ smq-s eb'{1 smq f}1-blank-.  smq-s g'{1  smq eb,}1---.] \
+ smq-s B,{2 smq [c#'}2-. smq-s Eb,{2  smq G}2-.   \
+ smq-s f,{2  smq d'}2-.  smq-s  A,{2  smq c'}2-.] \
+ smq-s G,{2 smq [Bn'}2-. smq-s Eb,{2  smq Ab}2-.  \
+ smq-s G,{2  smq Bb'}2-. smq-s  En,{2  smq F#}2-.] blank
+=2' vol95 smq [<G# f b-s4> <A-s2, f bb> <G# f bn> <A f bb>] \
+ [<Gn-blank,-b5P, f bn> <G# e a> <F#-blank,-b4P, d# a> <Gn d#l g#>] \
+ [<E-blank,-b2P, c#l g#> <Fn c# f#> <F B fn> <F# B e>]
+=2, min. A_)2
+b1.2    6P
+|
+=1 smq C dsq-s blank smq-s B'{2 smq [G}2-., \
+ smq-s B,{2 smq  F#}2-.,  smq-s B,{2  smq A#}2-.,] \
+ smq-s B,{2 smq [F#}2-.,  smq-s B,{2  smq A#}2-.,  \
+ smq-s B,{2 smq  F#}2-.,  smq-s G,{2  smq  E}2-.,] \
+ smq-s G'{2 smq [D#}2-.,  smq-s G,{2  smq  E}2-.,  \
+ smq-s G,{2 smq  D#}2-.,]  dsq-s blank smq rest dsq-s blank
+I0.4   f
+=2' leg100 smq [G <eb-s1,-s4, fx> <dx-s0,-s3, en> <A-s1,-s2, c>] \
+ [<A#-s0,-s3, Bx> <F#-s1,-s4, G#lx> <Fn-s0,-s3, Gnlx> <C#-s2,-s4, E>] cro Dr
+=2, qua G, blank cro blank Cn
+i1.1  legato . . .
+midi pause 2.0
+
+4 systems 50 /20 60 20/20 45 20/20 45 20/20 45 20 50/
+pagenum 6
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars | 12 | 12 |
+| 4/4 2.5
+I0.9 .02 Möglichst langsam
+=1 treble cha1 leg98 vol60 smb e(1
+I0.95 .03 pppp
+is0.7 .03 LH:1234 RH:245 (C-Klappe)
+i0.9 .35 senza  vibr.
+i0.2 .50 vibrieren lassen
+=2' treble cha2 tra-12 leg105 vol100 \
+ qua3 rest rest-blank-I3 <F e g#> d~ cro3 B'-blank-I3 min rest
+=2, smb B_b
+b0.6  8P
+I0.95 .08 p
+is0.95 .15 Die Bass-melodie sehr gesangsvoll, mit vibrato .
+|
+=1 smb e)1(1
+=2' qua rest eb qua3 [Db a-I3 c] min rest
+=2, cro blank qua [Db F#] min blank
+=2 smb G_
+b0.8  4P
+/
+2 bars | 12 | 12 |
+|
+=1 treble smb e)1(1
+=2' treble qua3 rest rest-blank-I3 <F-s3, e> cro d-s4, \
+ qua3 rest rest-blank-I3 <Bb-s3, e> cro d
+=2, min C-s2, A_
+|
+=1 smb e)1(1
+=2' qua rest g#-s4, qua3 [B f#-I3-s1, G] min d#
+=2, smb C#
+/
+2 bars | 12 | 12 |
+|
+=1 treble smb e)1(1
+=2' treble qua rest e qua3 [F# d-I3 A#(2-ten,] qua A#)2 cro. G
+=2, min B_ cro. F_# qua B_b{2-s1,
+|
+=1 smb e)1(1
+=2' qua rest cro. <A d f> qua rest cro. <F Ax B>
+=2, cro. E}2{2-s2, qua D}2-s0, cro.. E_-s2, smq rest,,
+/
+2 bars | 12 | 12 ||
+|
+=1 treble smb e)1(1
+=2' treble qua3 [F <G c#-s1,-s0,-I3> <Bb(4 d(1-s4,-s3,>] cro <Bb)4 d)1> \
+ qua rest cro. <D G#l Bn>
+=2, cro F(2-s2, qua [Fr)2 A_] min E_b
+I0.9   mf .45 f .90 mp
+i0.9 .18 cresc . . . .59 dim . . .
+|
+=1 min. e)1 cro rest
+=2' qua rest D cro <c-s0,-s1, e> qua rest cro. <D G# c>
+=2, min A_b-s2, D_
+I1.3 .45 p
+i1.3 .15 dim . . .
+midi pause 2.0
+
+5 systems 10 /20 45 20/20 45 20/20 40 20/20 40 20/20 40 20 10/
+pagenum 7
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+3 bars | 5 | 1.7 .8 .8 .8 1.3 .8 .8 .8 1.7 .8 .8 .8 \
+ | 1.7 .8 .8 .8 1 .8 .8 .7 .7 .7 .7 2.3  1 1 1.5 1 1 2.1 1.8 1 1 1.6 \
+ .7 .7 .7 .7 .7 .7 .7 .7 |
+| 3/4 2.7
+=1 treble cha1 leg98 min. a(1-ro
+I0.9 .20 p
+=2 treble cha2 tra-12 leg105 min. rest
+|
+=1 min. a)1(1-ro
+=2' smq [c~# qua. c~#-emph] smq [b qua. b-emph] \
+ smq [c~# qua. c~#-emph]
+=2, min. <D_ c# f>
+i0.6 .29 vibrieren lassen   .   .   .
+| 3/4 6.0
+i1.0 .25 scherzando
+=1 min a)1(1-ro qua a)1-ro smq rest dsq [a ab] qua g-. smq b qua an-. \
+ dsq [b{1 ab g e] qua d}1-. smq b cro an{1--igliss.-idim, g#}1(1-Ip,
+I0.9 .33 mf
+=2' smq [c~# qua. c~#-emph] qua3 f# cro3 g(2-emph-I3 cro g)2 \
+ min <B d#> qua rest min rest
+/
+2 bars | 1.2 .7 .7 .7 1.2 .7 .7 .7 1.2 .7 .7 .7 \
+ | .9 .9 .9 1.1 .8 .7 .7 .7 2.1  1 1 1.4 1 1 2.0 2.0 1 1 1.3 \
+ .7 .7 .7 .7 .7 .7 .7 .7 |
+| 3/4 2.7
+=1 treble min. g#)1(1
+=2' treble smq [b qua. b-emph] smq [a qua. a-emph] \
+ smq [b qua. b-emph]
+=2, min. <D c# f>
+| 3/4 5.9
+i0.8 .19 scherzando
+=1 min g#)1 dsq [b f#] qua c-.-Imf, smq b qua a# \
+ dsq [b{1 an g fn}1] qua Eb-. smq g# \
+ cro gn{1--igliss.-idim, f}1(1-Ip,
+=2 qua3 [d# e-emph-I3 f] cro f#{1-blank-igliss min <Fn-ivibr., A}1> min.. rest
+/
+1 bars | 1 |
+| 5/4 4.5
+=1 treble smb f)1(1 cro f)1
+=2' treble smq [bb qua. bb-emph] smq [ab qua. ab-emph] smq [bb qua. bb-emph] \
+ smq [e qua. e-emph] smq [f# qua. f#-emph]
+=2, smb <D(2 c e> cro D)2
+/
+1 bars | .8 .8 .8 .8 .8 .8 .9 .9 .9 .9 .9 1.2 \
+ 1.2 1 1.2 1.2 1.2 1  1 1 1 1.2 1.2 1.2 \
+ 1 1.2 1.2 1 1.2 1  1.2 1.2 1 1.2 1.2 1 |
+| 6/4 5.4
+i0.5      scherzando
+=1 treble qua [eb Bb,] qua3 [g Bn-blank-I3 smq3 rest' b] qua [a-emph smq b fn(1] \
+ [f)1 a qua g-emph] smq [a qua d#-emph smq a] qua [g smq f# Bb,]
+=2 treble qua3 [f# c-blank-I3 G,] smq [f#-s3, a-s1, c#-s2, Bb,-s4,] \
+ smq3 [D{2-blank,-s1, Fn}2-I3-blank,-s4, A-s3, c#'{2-s2, cn'}2-s1, f#'-s3,] \
+ [c~{1-s4, a}1-s1, f-s2, d{1-s3, eb}1-s4, Ab,-s2,] \
+ [E{2-blank,-s3, F}2-blank,-s4, A_b-s2, An{2-s3, G}2-s1, Eb-s2,] \
+ [g{1-s4, f#}1-s3, c#-s2, a-s1, eb-s4, G#,-s2,]
+/
+2 bars | 1 1 1 1.3  1 1 1.3 1.3  1.3 1.3 1 1  1.3 1 1 1 \
+ | 2.8 2.8 2.8 1.52 1.52 1.52 1.52 1.52 ||
+| 4/4 3.6
+=1 treble smb A(1
+=2' treble qua. rest' smq <c# dx> qua [<c# dx-emph> \
+ smq <B# eb> <B#(2 eb(1-emph>] [<B#)2 eb)1> <c# dx> qua <c# dx>] \
+ smq [<B# eb> qua <B# eb-emph> smq <c#(2 dx(1>]
+=2, smb D
+|
+=1 min. A)1(1-fermata leg100 qua-s [A)1{2 Ab G Gb F E Eb D Db C}2]
+i0.6 .02 dim .  .  .
+i0.45 .86 niente
+=2 smb <D_-fermata, c#)2 dx)1>
+midi pause 2.0
+
+6 systems 20 /20 30 20/20 30 20/20 30 20/20 32 20/20 35 20/20 26 20 15/
+pagenum 8
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars | 9 | 9 |
+| 9/16 1.5
+I1.4 .02 Immer staccato,  rasch
+=1 treble cha1 leg75 smq [D F Bb'] [c f g] [a d~ bb]
+I0.7 .02 mf
+=2 treble cha2 tra-12 leg105 vol120 \
+ dsq-s C#{2 smq D}2 qua rest dsq-s B,{1 smq c}1 qua rest \
+ dsq-s g#{1 smq a}1 qua rest
+I0.7 .02 ff
+|
+=1 smq [e~ c~# ab] [gb eb B,] [E Ab C#]
+=2 dsq-s e~b{1 smq f~}1 qua rest dsq-s f{1 smq f#}1 qua rest \
+ dsq-s D#{2 smq E}2 qua rest
+/
+3 bars | 9|3 3 2.5|9|
+|
+=1 treble smq [D F Bb'] [c eb g] [bb c~ ab]
+=2 treble dsq-s C#{2 dsq3 blank smq D}2 qua rest dsq-s B,{1 smq c}1 qua rest \
+ dsq-s a{1 blank smq bb}1 qua rest
+|
+=1 smq [e~ c~# ab] [f# B, A,] qua. F#
+=2 dsq-s e~b{1 blank smq f~}1 qua rest dsq-s f{1 blank smq f#}1 qua rest \
+ dsq-s F{2 dsq. blank smq F#}2 dsq3 blank qua rest
+|
+Il0.01 '
+=1 smq [Eb G Bb'] [c eb f] [g bb ab]
+=2 dsq-s D{2 blank smq Eb}2 qua rest dsq-s B,{1 smq c}1 qua rest \
+ dsq-s f#{1 smq g}1 qua rest
+/
+3 bars | 9|9|3 3 2.5|
+|
+=1 treble smq [e~ c~# b] [a f# d] [B' c#' E]
+=2 treble dsq-s e~b{1 blank smq f~}1 qua rest \
+ dsq-s g#{1 blank smq a}1 qua rest dsq-s A#{2 blank smq B'}2 qua rest
+|
+=1 smq [Eb F Ab] [Bb, db f] [ab d~b bb]
+=2 dsq-s D{2 dsq. blank smq Eb}2 qua rest dsq-s A{2 dsq. blank smq Bb'}2 \
+ qua rest dsq-s g{1 blank smq ab}1 qua rest
+|
+=1 smq [e~ b g] [e d A,] qua F# smq rest
+=2 dsq-s dsq-s e~b{1 blank smq f~}1 qua rest \
+ dsq-s d#{1 blank smq e}1 qua rest dsq-s F{2 dsq. blank qua F#}2 smq rest
+/
+3 bars | 9|9|9|
+|
+=1 treble smq [F Ab db'] [eb gb ab] [bb f~ d~b]
+=2 treble dsq-s E{2 smq F}2 qua rest dsq-s d{1 blank smq eb}1 qua rest \
+ dsq-s a{1 blank smq bb}1 qua rest
+|
+=1 smq [g~ d~ b] [a e c] [G B' E]
+=2 dsq-s f~#{1 blank smq g~#}1 qua rest dsq-s g#{1 blank smq a}1 qua rest \
+ dsq-s F#{2 blank smq G}2 qua rest
+|
+=1 smq [D F Bb'] [c eb g] [bb e~b d~]
+=2 dsq-s C#{2 blank smq D}2 qua rest dsq-s B,{1 smq c}1 qua rest \
+ dsq-s a{1 blank smq bb}1 qua rest
+/
+2 bars |9|9|
+|
+=1 treble smq [a~ e~ c~#] [ab e B,] [F# An E]
+=2 treble dsq-s g~#{1 dsq3 blank smq a~#}1 qua rest \
+ dsq-s g{1 dsq3 blank smq ab}1 qua rest dsq-s F{2 blank smq F#}2 qua rest
+|
+=1 smq [Eb Gb Bb'] [db eb gb] [ab d~b bb]
+=2 dsq-s D{2 blank smq En}2 qua rest dsq-s c{2 dsq3 blank smq c#}2 qua rest \
+ dsq-s g{1 dsq3 blank smq ab}1 qua rest
+/
+3 bars | 9|9|3 3 2.5||
+|
+=1 treble smq [D F A] [c e g] [a d~ f]
+=2 treble dsq-s C#{2 blank smq D#}2 qua rest dsq-s B{1 smq c}1 qua rest \
+ dsq-s g#{1 smq a}1 qua rest
+|
+=1 smq [c# f# G#,] [E d#' F#] [G# c#' B']
+=2 dsq-s c{1 smq d}1 qua rest dsq-s Eb{2 smq F}2 qua rest \
+ dsq-s G{2 blank smq An}2 qua rest
+|
+=1 smq [D F A] [c e g] qua d~ smq rest'
+=2 dsq-s C#{2 blank smq D}2 qua rest dsq-s B,{1 smq c}1 qua rest \
+ qua. d~ dsq blank
+midi pause 2.0
+
+4 systems 40 /20 45 20/20 45 20/20 55 20/20 55 20 40/
+pagenum 9
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+3 bars | 3 | 1 1 1.2 1.1 1.1 1.1  1.1 1.1 1.2 1 1 1  1 1 1 1 1 1 \
+ | 1 1 1 1 1 1.3  1 1 1 1 1.2 1  1 1.1 1 1.1 1 1 |
+| 1/8 0.6
+I1.4 .05 Fliessend, zart, leise
+=1 treble cha1 leg100 vol80 qua rest
+I0.2 .80 pp
+=2' treble cha2 tra-12 leg105 vol90 qua rest
+=2, smq [E_b A_]
+I1.2  mp
+| 3/4 3.0
+=1 smq3 [D, c#-I3 a f# f~n c~] [eb d~ a qua bb] smq3 rest [e c~] rest [D B']
+=2' qua [<d f#> smq e B(2] qua [<B)2 f#> <d ex>] smq [f# B(2 qua <B)2 e>]
+=2, smq [F C# D A_] qua [B_b smq E F#] qua [G smq F_# D]
+|
+=1, smq3 [bb g f~# d~ e e~b] [bb qua3 c~(1] smq3 [c~)1 rest' eb{1] \
+ [bn}1 rest Eb] [f bb g]
+=2' qua [<d g> smq en B(2] qua [<B)2 g> <d ex>] smq [g B(2 qua <B)2 e>]
+=2, smq [G Eb F C#] qua [D smq F F#] qua [Ab smq E_n Eb]
+/
+2 bars | 18 | 18 |
+|
+=1 treble smq3 [a~ e~] rest' rest rest E [d ab g f~# e~] rest' \
+ rest rest [c c# d e]
+=2' treble qua [<c e> smq g B(2] qua [<B)2 e> <c g>] smq [e B(2 qua <B)2 g>]
+=2, smq [F# C D A_] qua [B_ smq G G#] qua [A smq C E]
+|
+=1, smq3 [F g# a c# c~n f#] [F gn d qua c#] smq3 rest [A cn(1] c)1 rest rest
+=2' qua [<c e> smq f B(2] qua [<B)2 e> <c f>] smq [e B(2 qua <B)2 f>]
+=2, smq [F C# D F_#] qua [Cn smq F# G] qua [A smq C E]
+/
+2 bars | 1 1 1.3 1 1 1.2 1 1 1.3 .9 .9 .9 1 1.2 1 1.2 1 1 \
+ | .9 .9 1 1.2 1.2 1.3 1 .9 .9 1 1.1 1.1 1 1 1 1.1 1.1 1 |
+|
+=1, treble smq3 [F# d bb fn g~ c~] [eb d~ a qua bb] \
+ smq3 rest [f ab] rest [Bb'{2 d']
+i0.6 .70 cresc . . .
+=2' treble qua [<d ex-s4> smq f B(2] qua [<B)2 e> <d f>] smq [e B(2 qua <B)2 f>]
+=2, smq [F-s3, B_ C-s3, F_-s3,] qua [B_b smq G# A] qua [A# smq D# B_b]
+|
+=1 qua3 C}2 smq3 f~n [d~ g# bb] [gn qua3 a(1] smq3 [a)1 rest' eb] \
+ [bb rest D,] [ab{1 Bb, En,]
+I0.6   f
+I0.8 .12 mp
+i0.5 .71 cresc . . .
+=2' qua [<d ex> smq g B(2] qua [<B)2 e> <d g>] smq [e B(1 qua <B)1 g>]
+=2, smq [<D_ G> A_# B_ D F] [C C# D F# G] [B_ G#]
+/
+2 bars | .9 .9 1.2 1 1 1 1.2 1 1 1 .9 .9 1 1 1 1 1 1 | 18 ||
+|
+=1 treble qua3 [C#}1 smq3 e'] [Bb, a G,] [e Bb, bn f qua3 Eb,] \
+ smq3 rest [G, b En, f Eb,]
+I0.5     mf .21 p
+i0.5 .07 dim . .
+=2' treble qua [<B g> smq e c#(2-s3] qua [<c#)2 g> <B e>] \
+ smq [g c#(1-s2 qua <c#)1 g>]
+=2, smq [Ar F F#-s4, A_#-s1,] [B_-s2, D#-s1, G G#] [A# Anl-s1, D A_#]
+|
+=1 smq3 [D,-ten c# a f# f~n c~] [eb d~ a] qua D(2 D)2-fermata rest
+I0.4   mp .46 pp
+i0.4 .17 dim . . .
+=2' qua. e B d smq rest qua B-fermata
+=2, smq [Abr{1 G}1 Eb C{1 B_b}1] [F#{1-b3P, Fn}1 D{1 C#}1] qua. E_
+=2, min D_
+i1.9 .67 vibr (seitwärds)
+midi pause 2.0
+
+8 systems 50 /20/20 50/20/20 50/20/20 50/20/20 50/
+pagenum 10
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars |: 10 :|| 4.5 |
+|
+I1.0 .02 Prestissimo
+i0.3 .15 sempre legato .49 diesen Takt dreimal
+=1 treble cha1 leg98 smq-s [C# D Eb D C# D Eb D Eb D C# D Eb D C# D Eb D C# D C# D Eb D]
+I0.2      pp
+|
+=1 cha2 tra-12 leg105 smq-s [Eb En F F#-b$ G Ab An Ab G]
+i1.4 während dieser Tonleiter, ohne Pause
+i3.3  ins nächste Arpeggio übergehen
+/
+2 bars |: 3 :|| 10 |
+|
+i1.0 .13 unabhängige   Tempi,    beides   möglichst   rasch.
+=1' treble smq-s [D-s4, D-s0, e-s0, D-s0, e-s0, D-s0,] 
+I0.2       p
+i0.9 .09 ponticello
+i0.4 .97 diesen Arpeggio wiederholen bis . . 
+|
+=1 cro blank
+/
+2 bars |: 9 :|| 6 |
+|
+i0.7 .37 diesen Takt zweimal
+=1 treble smq-s [F# G Ab G F# G F# G Ab G F# G Ab G F# G Ab G F# G Ab G Ab G]
+|
+=1' smq-s [F# Fn F# G G#-b* A A# B c db c B] cro rest-fermata
+/
+2 bars ||: 2.5 :|| 10.5 |
+|
+i0.6 .97 wiederholen bis  .   .   .
+=1' treble smq-s [C#-isp,-b$ G-isi, e-ism, D-isp, e-ism, G-isi,] 
+|
+i0.8 .40 während der Tonleiter,
+=1' min. blank smq-s [C#-s3, G-b* E-s1, G F-s2, G F#-s1, G-s0, A{2-s4, Ab \
+ G F#}2 E-s4, qua-s F#] smq-s [Eb{2-s3, D Db}2 A_b-s3, qua-s Db-s1,] \
+ [G_{2-s4, F_#}2-s3,]
+/
+2 bars |: 10 :|| 4.5 |
+|
+i0.7 .35 diesen Takt dreimal
+=1 treble smq-s [D# E F E D# E F E F E D# E F E D# E F E D# E D# E F E]
+|
+=1' smq-s [F F# G G#-b$ A A# B Bb A]
+i3.3  ins nächste Arpeggio übergehen
+/
+2 bars |: 2.5 :|| 10 |
+|
+=1' treble smq-s [C-s2, Ab-s1, e D e Ab]
+|
+=1 cro blank
+/
+2 bars |: 7.5 :|| 6.5 |
+|
+i1.0 .37 diesen Takt zweimal
+=1' treble smq-s [G# A Bb A G# A G# A Bb A G# A Bb A G# A Bb A G# A Bb A Bb A]
+|
+=1' smq-s [Bb Bn c db-b* c B Bb A Ab G F# Fn E Eb D Eb En F] \
+ blank cro rest-fermata
+/
+2 bars |: 2.3 :|| 10 |
+|
+=1' treble smq-s [B_-b$ An e F e A]
+|
+=1 min. blank smq-s [B_-b* A B' F B' G B' G#-s1, B' d'-s2, B' \
+ eb'-s3, B'] [ab{1-s4, f}1-s1, d-s2, Bb,-s3, d~b{1 bb}1 g-s3, d-s2, Bn,-s4,] \
+ [gb'{2-s2, f'}2-s1, c#'-s1, G#-s1, E-s2, D-s0,]
+midi pause 2.0
+
+8 systems 50 /20/20 50/20/20 50/20/20 50/20/20 50/
+pagenum 11
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars |: 10 :|| 4.5 |
+|
+i0.6 .32 diesen Takt dreimal
+I0.4 .01 ppp
+=1' treble cha1 leg98 smq-s [E# F# G F# E# F# E# F# G F# E# F# G F# E# F# G F# G F# G F#]
+|
+=1' cha2 tra-12 leg105 smq-s [E# F# G-b* G# A Bb] qua blank rest-fermata blank
+/
+2 bars |: 2.2 :|| 10 |
+|
+=1' treble smq-s [B_b-b$ B e F e B]
+i0.7 .10 molto ponticello
+|
+=1' smb. blank smq-s [B_b-b* B C B e Eb B F B F# G G_]
+i0.2 .24 wiederholen bis  .   .   .
+/
+3 bars | 5 ||: 4.5 :|| 26 |
+|
+=1 treble smq-s [Ab G F# G Fn]
+|
+=1 smq-s [G F# G Fn]
+|
+=1 cro blank
+i0.1 wie eine Triller wiederholen   .   .   .   .   .   .   .
+/
+2 bars | 8 | 8 |
+|
+i0.5      bewegt   ( cro = 108 )
+=1 treble cro <F_ B_ E> qua rest [<F#, B, f> bb] [bb a] <E eb'>
+I0.3     f .28 4P
+i1.2 .05 feurig . . .
+|
+=1 qua [<C# G> <B_b B'>] <E_b e'> rest qua3 rest [<Ebl, Ab, d-blank-I3> c~] \
+ qua rest <C F# B'>
+/
+1 bars | 1 |
+|
+=1 treble cro blank
+i0.1 .05 .   .   .   .   .   .   .   .   .   .   .   .   .   .
+/
+2 bars | 8 | 8 |
+|
+=1' treble qua [<E-s1, A eb> <Eb-s1, en>] cro3 rest <F-I3 Gx f#> E_ \
+ qua [<A-s3, Bx> G_#-s1,]
+|
+=1 qua3 [c~# g-blank-I3 d] cro rest qua [<C# Dx G> <Cn A c#'>] [g#' G_b(2]
+I0.3 .40 ff
+i1.1 .75 vibr. (seitwärds)
+/
+1 bars | 1 ||
+|
+=1 treble smb blank blank smq-s [G F# G Ab-idim G Gb Fn E Eb D]
+i0.1 .06 .   .   .   .   .   .   .   .   .   .   .   .   .   .
+/
+2 bars | 8 | 8 ||
+|
+=1 treble qua [G_b)2 <F A c#'>] qua3 [b f-I3 cn] [F# C#-I3] rest \
+ cro3 <A# Bx' g'> qua3 <F#(2 Gx B'(1>
+|
+=1 qua3 <F#)2 Gx B')1> cro3 <C#-I3 Dx G> cro rest min <C# Ebl en'>
+=1 min blank qua rest,,, cro. F_,
+midi pause 2.0
+
+4 systems 50 /20 45 20/20 45 20/20 45 20/20 45 20 50/
+pagenum 12
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars | 4 4 4 | 4 4 4 |
+| 3/4 2.7
+I1.0 .02 Ausdrücksvoll
+=1 treble cha1 leg98 tra0 cro F qua rest F [G# A]
+=2' treble cha2 tra-12 leg105 vol110 cro <D Bb> <D Bn> <F c#>
+=2, cro D_ D_ D_
+|
+I0.3 .45 ,
+=1 qua. [G-emph smq F#] qua F# F# [Bb' d']
+=2' cro <A# d> <A# c#> <E Bb>
+=2, E_b E_b B_n
+/
+2 bars | 4 4 4 | 4 4 4 |
+|
+I0.3 .46 ,
+=1, qua. [c smq B] qua B B [d# e-ten]
+=2' cro <E Ab> <Ebl Ab> <F#l Bb>
+=2, cro C C# D
+|
+=1 cro f-ten qua rest G# [G# A]
+=2' cro <G c> <F#l c#> <Fn d>
+=2, cro E_b E_b E_b
+/
+2 bars | 4 4 4 | 4 4 4 |
+|
+=1 cro Bb' qua rest C# [C# D-ten,]
+=2' cro <Eblr c#> <D e> <C# B g>
+=2, cro A_r F_ F_
+|
+=1 qua. [D# smq E] qua. [E smq G] qua [G-ten, F#]
+=2' qua [<Dr c#l f#> <B e>] cro <D Bb e> <Ebl Bb d>
+=2, cro G_r G_ G_
+/
+2 bars | 4 4 4 | 4 4 4 ||
+|
+=1' qua [e F] [c#'-ten, Eb] qua. [Bb' smq Ab]
+=2' cro <G#rl c#> <F B> qua [<Ebl cn> B]
+=2, cro A_r A_ A_
+|
+=1 qua. [G smq F#] qua. [F# smq Fn] cro F
+I0.1 .55 f
+=2' cro <A c#> <A cn> cro a,-ro
+=2, cro B_b B_b rest,,
+midi pause 2.0
+
+4 systems 30 /20 45 20/20 45 20/20 65 20/20 55 20 30/
+pagenum 13
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars | 4.3 3.4 4 | 4.5 3.5 4 |
+| 3/4 2.9
+I1.0 .02 Graziös, leicht
+=1' treble cha1 leg98 vol85 qua [Gb{2 F}2] rest F dsq-s B{2 smq [A}2 c F# E]
+I0.8       mf
+=2' treble cha2 tra-12 leg105 \
+ smq rest [<A#-s4, Bx> <An-s2,-s3, c> <G#-s2,-s1, c#>] \
+ qua <Eb d> blank dsq blank qua [Bb Eb]
+=2, cro A_ qua blank g# dsq blank cro blank
+|
+=1' qua [Ab{2 dsq blank qua G}2] dsq blank \
+ qua rest dsq blank qua G dsq blank smq [c# eb A#-I5 G D]
+=2' smq rest [<A# Bx> <An c> <G# c#>] [<Eb d> qua g smq Bb{2] qua [A}2 Eb]
+=2, cro A_ min blank
+/
+2 bars | 2.6 2.1 1.7 1.7 2 2 | 2.6 2.1 2 2 2.3 2.3 |
+|
+=1, qua [e{1 d#}1] rest d# smq3 [e ab-I3 g bb e-blank-I3 d]
+I0.7       mp
+i0.8 .30 leichter
+=2' smq rest [<B cx> <Bbl db> <A dn>] \
+ qua [<G-stacc, eb> <F-stacc, c#>] smq [F# d Eb Bn]
+=2, cro A_
+|
+=1 smq [gb{1 qua. f}1] qua3 rest' [f-blank-I3 a] smq3 [d~b c~-blank-I3 f~#] \
+ dsq [b' f' A C#]
+=2' smq rest [<B cx> <Bbl db> <A dn>] min blank
+=2, cro A_ smq [<G# d#> g <Bnl d#> g] [<db f-blank-I6P> c~ <ex f> c~]
+/
+2 bars | 4 4 4.5 | 5 5 4 |
+|
+b1.0 .42 8va . .
+=1 qua [d~{1 dsq blank qua c~#}1] dsq blank qua rest dsq blank \
+ tra+12 qua c#' dsq blank smq [f#' fn' g#'-I5 d' cn']
+I0.95 .03 p .42 pp
+is0.95 .60 ( dynamik wichtiger als intonation )
+=2, smq rest [<f gbx> <e gn> <d# g#>] [<B bb> qua e~ smq <B bb>] \
+ qua [e~ smq <B bb> e~(1]
+|
+b1.1 .72 . . loc
+=1 smq3 [f#' fn'-I3 g#' d' c' f#'-ten] [fn' g#' d' c' rest B'-blank,-If,] \
+ tra0 smq rest [F#, c~#] rest'
+I0.7 .82 ff
+i0.4 .72 martellato
+=2, smq [e~)1 <B bb> qua e~] smq [<B bb> qua e~ smq <B bb>] \
+ qua [e~ smq <B bb> e~]
+/
+2 bars | 4 4.5 4 | 4 4.5 4 ||
+|
+=1, qua3 [E-emph a~-.-emph G-emph] smq rest \
+ [bb-emph F#-emph c~#-emph] qua3 rest [A-ten-blank-I3 b-ten]
+=2, qua3 [A_ <d~bx c~-I3> <Bx c>] smq rest [<bbx a> <abx g> <f#x g>] \
+ qua3 rest [<fnx gbl-blank-I3> <f ex>]
+|
+i1.3 .32 sanft . . .
+=1' qua [eb-ten smq G f] smq3 rest [E-I3 F# c B-I3 A] \
+ qua Fn{2-fermata F#}2-fermata
+i0.7   dim . . .
+I0.7 .37 mp .83 p
+=2, dsq blank qua [<d#x e> <ebx d>] <c#x d> cro. <cnxl dbll>
+midi pause 2.0
+
+% start
+4 systems 50 /20 45 20/20 45 20/20 45 20/20 45 20 50/
+pagenum 14
+innerhead Divisions on an Italian Ground, Peter Billam
+leftfoot (c) 1980 Peter J Billam
+/
+2 bars | 4 4 4 | 4 4 4 |
+| 3/4 72
+I1.0 .02 Etwas langsamer als das Thema
+=1 treble cha1 leg98 cro F qua rest F [G# A]
+=2' treble cha2 tra-12 leg105 qua rest' d(1 min d)1
+=2' smq rest, qua. D(2 min D)2
+=2, min. D_-emph,
+|
+=1 qua. [Bb' smq A] qua A C# [E F#]
+=2' qua3 rest' rest' d(1 min d)1
+=2' qua3 rest, cro3 D(2--I3 min D)2
+=2, min. G_-emph,
+/
+2 bars | 4 4 4 | 4 4 4 |
+|
+=1  qua. [G smq F#] qua F# Cn [E F#]
+=2' qua rest' c(1 min c)1
+=2' smq rest qua. E(2 min E)2
+=2, min. C-emph,
+|
+=1 cro Bb'{2 qua A}2 G# [Bn, c#]
+=2' qua3 rest' rest' c(1 min c)1
+=2' qua3 rest, cro3 F(2--I3 min F)2
+=2, min. F_-emph,
+/
+2 bars | 4 4 4 | 4 4 4 |
+|
+Il0.1 .43 '
+=1 cro e{1 qua d}1 c# [c# d]
+=2' qua3 rest' rest' Bb(1 min Bb)1
+=2' qua3 rest cro3 F(2--I3 min F)2
+=2, min. B_b-emph,
+|
+=1 qua. [eb smq d] qua. [d smq g] qua [g f#]
+=2' qua rest' Bb(1 min Bb)1
+=2' smq rest qua. E(2 min E)2
+=2, min. G_-emph,
+/
+3 bars | 4 4 4 | 4 4 4 | 6 ||
+|
+Il0.1 .85 '
+=1 qua [fn G,] [c#' Eb] qua. Bb' smq A
+=2' qua3 rest' rest' A(1 min A)1
+=2' qua3 rest cro3 E(2--I3 min E)2
+=2, min. A_-emph,
+|
+=1 qua. [G smq F] qua. [F smq E] qua. E smq F#
+=2' cro rest' min A(1
+=2' qua rest, D(2 min D)2(2
+=2, min. D_(4-emph,
+|
+=1 min. F#
+=2 min. <D_)4 D)2 A)1>
+

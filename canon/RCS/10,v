@@ -1,0 +1,712 @@
+head	1.8;
+access;
+symbols;
+locks
+	pjb:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2010.06.06.02.40.04;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.06.05.10.18.12;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.06.05.08.44.43;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.06.05.02.01.01;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.04.02.54.52;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.03.10.22.50;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.01.10.59.56;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.05.29.07.58.33;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Canon at Ten Semitones
+@
+
+
+1.8
+log
+@first released version
+@
+text
+@4 systems 10 /19-30-19-40-19/19-30-19-35-19/19-25-19-35-19/19-30-19-35-19 10/
+pagenum
+title Canon  at ten semitones
+innerhead Peter Billam
+leftfoot (c) 2010 Peter J Billam
+midi channel 1 patch 40 reverb 99 pan 90 vibrato 0
+midi channel 2 patch 40 reverb 99 pan 70 vibrato 0
+midi channel 3 patch 42 reverb 99 pan 30 vibrato 0
+midi channel 4 patch 42 reverb 99 pan 10 vibrato 0
+midi channel 5 patch 0 reverb 99 pan 50
+/
+3 bars | 8/4 11 7 11 7 11 7 11 7 11 7 11 7 \
+ | 11 7 11 7 11 7 11 7 11 7 11 7 | 11 7 11 7 11 7 11 7 11 7 11 7 |
+| 8.0
+=1' treble 8/4 cha1 leg100 vol75 1 blank
+=1, treble 8/4 cha2 leg100 vol75 1 rest rest
+I0.40 .55 mp
+i0.40 .65 le corde . . .
+=2' treble 8/4 cha3 leg100 vol75 1 blank
+=2, treble 8/4 cha4 leg100 vol75 1 rest rest
+i0.90 .90 Vn2
+i0.3  legatiss.
+=3  bass   8/4 cha5 leg198 vol35 \
+ 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+I0.3  pp
+i0.9 una corda     con Pedale . . .
+|
+=1' cha1 1 rest 1 rest
+=1, cha2 1 rest 2 F 4 E D
+i0.90 .03 Vn1 (G to F# !)
+i0.01 .93 Va
+=2' cha3 1 rest rest
+=2, cha4 2 G 4 F# E 2 D 4 C B_b
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+i0.1 .40 Vc
+=1' cha1 1 rest 2 Db 4 C B_b
+=1, cha2 2 C 4 B_b A_b 1 F_#(4
+=2' cha3 2 Eb 4 D C 2 B_b 4 G_# F_#
+=2, cha4 1 G_#(4 2 G_#l)4 rest,,,,
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+
+/
+2 bars | 10/4 160 | 8/4 8 8 8 8 8 8 8 8 8 8 8 9 8 8 8 8 |
+| 5.0 5.0
+=1' 10/4 cha1 2 A_b 4 F_# E_ 1. D_
+=1, 10/4 cha2 2 F_#l)4 1 rest,,,, rest,,,,
+=2' 10/4 cha3 1 E_(1 2 E_)1 2 rest, blank
+=2, 10/4 cha4 1 blank blank 4. rest, 8 F#
+i0.90 .86 Vn2
+=3  10/4 cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+| 8.0 
+il0.7 .20 5
+i0.10 .84 Vn1
+=1' 8/4 cha1 1 rest' 2.. rest' 8 d
+=1, 8/4 cha2 2.. rest, 8 E 4 F D E F
+i0.85 .38 Va
+=2' 8/4 cha3 1 rest' 1 rest'
+=2, 8/4 cha4 4 G E F# G 4. Ab 8 Bb 2 Ab(2
+=3  8/4 cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+
+/
+2 bars |3 3 3.1 3.3 3 3 3 4 3 3 3 3 3 3 3 3| 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3.2 3|
+|
+=1' cha1 4 eb c d eb 4. en 8 f# 2 e(1
+=1, cha2 4. Gb 8 Ab 1. Gb
+i0.01 .40 Vc
+=2' cha3 2.. rest' 8 C 4 Db B_b C Db
+=2, cha4 1 Ab)2 1 rest,,,
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+|
+=1' cha1 1 e)1 1 rest'
+=1, cha2 1 rest, 1 rest,
+=2' cha3 4. D 8 E 1. D
+i0.88 .75 Vn2
+=2, cha4 1 rest,,, 2. rest,, 8 [E F#]
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+/
+2 bars | 8 8 9 8 8 8 8 9 9 9 8 8 8 8 8 7 | 9 9 8 9 9 8 9 9 9 8 8 9 8 8 9 7 |
+|
+i0.10 .79 Vn1
+=1' cha1 1 rest' 2. rest' 8 [c d]
+=1, cha2 2. rest, 8 [D E] 4 F 8 [D E] 4 F 8 [E F]
+i0.88 .30 Va
+=2' cha3 1 rest' 1 rest'
+=2, cha4 4 G 8 [E F#] 4 G 8 [F# G] [Ab Bb] 4. Ab Bb(2
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+|
+=1' cha1 4 eb 8 [c d] 4 eb 8 [d eb] [en f#] 4. e f#(1
+=1, cha2 8 [Gb Ab] 4. Gb Ab(2 1 Abl)2
+i0.01 .35 Vc
+=2' cha3 2. rest' 8 [B_b C] 4 Db 8 [B_b C] 4 Db 8 [C Db]
+=2, cha4 1 Bb)2 1 rest,,,
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+
+
+4 systems /19-30-19-35-19 \
+ /19-45-19-35-19 \
+ /19-40-19-30-19 /19-35-19-30-19 6/
+pagenum
+innerhead Canon  at ten semitones
+leftfoot (c) 2010 Peter J Billam
+
+/
+2 bars | 6/4 81 | 8/4 108 |
+| 6.0
+il0.9 .20 10
+=1' 6/4 cha1 1 f#)1 2 rest'
+=1, 6/4 cha2 1 rest, 2 rest,
+=2' 6/4 cha3 8 [Dn E] 4. D E(2 2 E)2
+=2, 6/4 cha4 1 rest,,, 4 rest,, 8 [E F#]
+i0.88 .75 Va
+=3  6/4 cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+| 8.0
+i0.10 .32 Vn1
+=1' 8/4 cha1 2. rest' 8 [d e] 4 f 8 [e d] 4. e 8 d
+=1, 8/4 cha2 1 rest, 2. rest, 8 [C D]
+i0.85 .81 Vc
+=2' 8/4 cha3 
+=2, 8/4 cha4 4 G 8 [F# E] 4. F# 8 E 4 D 8 [C B_b] 4. C 8 B_b
+=3  8/4 cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+
+/
+2 bars | 8 8 9 9 8 8 8 10 8 8 9 10 8 8 8 8 | 8 8 9 9 8 8 8 8 8 8 8 10 8 8 8 7 |
+|
+=1' cha1 4 c 8 [Bb Ab] 4. Bb 8 Ab 4. Gb 8 Ab 2 Bb
+=1, cha2 4 Eb 8 [D C] 4. D 8 C 4 B_b 8 [A_b G_b] 4. A_b 8 G_b
+i0.08 .31 Vn2
+=2' cha3 2. rest 8 [Bb c] 4 db 8 [c Bb] 4. c 8 Bb
+=2, cha4 4. A_b 8 B_b 2 C 1 rest
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+=1' cha1 
+=1, cha2 4. E_n 8 F_# 2 A_b 1 rest'
+=2' cha3 4 Ab 8 [Gb En] 4. F# 8 E 4. D 8 E 2 F#
+=2, cha4 
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+
+/
+2 bars | 8 8 9 8 8 8 8 8 8 8 9 9 8 8 8 7 | 8 8 9 9 8 9 8 8 8 9 8 9 8 9 8 7 |
+|
+i0.18 .93 Vn1
+=1' cha1
+=1, cha2 1 rest, 4 F_ 8 [G_b A_b] 2 B_b
+i0.75 .41 Vc
+=2' cha3
+=2, cha4 4 G 8 [Ab Bb] 2 c d(2 8 [d)2 e] 4 f
+i0.55   Va
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+il0.9 .06 15
+=1' cha1 4 d# 8 [e f#] 2 g# a#(1 8 [a#)1 c~] 4 d~b
+=1, cha2 2 C(2 8 [C)2 D] 4 D# 2 E F#
+i0.28 .57 Vn2
+=2' cha3 1 rest'' 4 c#rll 8 [d# e] 2 f#
+=2, cha4 2 f# g# 2. a# 4 rest,
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+
+/
+3 bars | 11 7 11 14 10 7 11 7 11 7 11 7 \
+ | 11 7 11 7 11 7 11 7 11 7 11 7 | 11 7 11 7 11 7 11 7 11 7 11 7 |
+|
+=1' cha1 2 d~ e~ 2. f~# 4 rest'
+=1, cha2 2. G# 4 rest 1 rest,
+=2' cha3 2 g#(1 8 [g#)1 a#] 4 b 2 c~ d~
+=2, cha4 
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+=1' cha1 2 rest' a ab bb
+=1, cha2
+=2' cha3 2. e~ 4 rest'' 2 rest' g
+=2, cha4 1 rest, rest,
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+=1' cha1 1. c~ 2 rest'''
+=1, cha2 2 rest, fn e f#
+i0.85 .19 Va
+=2' cha3 2 f# g# 1 a#
+=2, cha4 1 rest, 2 rest, eb
+i0.88 .62 Vn1
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+
+
+4 systems /19-30-19-35-19 \
+ /19-35-19-35-19 \
+ /19-45-19-35-19/19-35-19-35-19 6/
+pagenum
+innerhead Canon  at ten semitones
+leftfoot (c) 2010 Peter J Billam
+
+/
+2 bars | 108 | 108 |
+|
+=1' cha1
+=1, cha2 1 g# rest'
+=2' cha3
+=2, cha4 2 d en 1 f#
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+il0.9 .20 20
+=1' cha1 1 rest' 1 rest''
+=1, cha2 1 rest 4 fn g 43 f e-I3 d
+i0.88 .42 Vn2
+=2' cha3 1 rest'' rest'
+=2, cha4 4 g a 43 g f#-I3 e d c-I3 Bb 4 Ab G
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+
+i0.28 .40 Vn1
+=1' cha1 1 rest' 4 db eb 43 db c-I3 Bb
+=1, cha2 43 c Bb-I3, Ab 4 Gb F 2 E rest,,
+i0.22    Va
+=2' cha3 4 eb f 43 eb d-I3 c Bb Ab-I3 F# 4 E Eb
+=2, cha4 2 F# rest,, 1 rest,,
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+=1' cha1 43 G# F#-I3 E 4 D Db 2 C rest'
+=1, cha2 1 rest,,, 2 rest,,, 4 E 4 F(2
+i0.88 .69 Vc
+=2' cha3 2 D rest' 1 rest'
+=2, cha4 2 rest,, 4 F# 4 G(2 G)2 F# 8 [E D C B_b]
+i0.85 .19 Va
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+
+/
+2 bars | 8 8 8 8 8 9 9 9 8 8 8 8 9 9 9 8 | 8 8 8 8 9 9 8 8 8 8 8 8 8 8 8 7 |
+|
+i0.20 .68 Vn2
+=1' cha1 1 rest' 2 rest' 4 c 4 db(1
+=1, cha2 4 F)2 E 8 [D C B_b A_b] 4 G_b F_ 2 E_(2
+i0.08 .18 Vn1
+=2' cha3 2 rest' 4 d 4 eb(2 eb)2 d 8 [c Bb Ab Gb]
+=2, cha4 4 A_b G_ 2. F_# rest,
+=3  cha5 43 B_b Bb-,-I3, B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+|
+=1' cha1 4 db)1 c 8 [Bb Ab F# E] 4 D C 2 B_b(4
+=1, cha2 4 E_)2 2. rest,, 1 rest,,,
+=2' cha3 4 E D 2. C rest
+=2, cha4 
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+/
+3 bars | 11 7 11 7 11 7 11 7 11 7 11 7 \
+ | 11 7 11 7 11 7 11 7 11 7 11 7 | 11 7 11 7 11 7 11 7 11 7 11 7 ||
+|
+il0.6 .20 25
+=1' cha1 4 B_b)4 2. rest 1 rest'
+=1, cha2 1 rest,,,, 2 F 4 E D
+i0.83 .37 Vn1
+i0.01 .92 Va
+=2' cha3 1 rest rest
+=2, cha4 2 G 4 F# E 2 D 4 C B_b
+i0.48 Vn2
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+
+|
+i0.18 .40 Vc
+=1' cha1 1 rest 2 Db 4 C B_b
+=1, cha2 2 C 4 B_b A_b 1 F_#(4
+=2' cha3 2 Eb 4 D C 2 B_b 4 G_# F_#
+=2, cha4 1 G_#(4 2 G_#l)4 rest,,,,
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+| 2 2 2 4.3
+=1' cha1 2 A_br 4 F_# E_ 1 D_-dim40
+=1, cha2 2 F_#lr)4 1. rest,,,,
+=2' cha3 1 E_(1 2 E_)1 2 rest,
+=2, cha4 1 blank blank
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b 4 Bb B_b
+b0.9 .95 _*
+
+@
+
+
+1.7
+log
+@plausible release candidate ?
+@
+text
+@d26 1
+a26 1
+i0.9  .10 con Pedale sempre . . .
+@
+
+
+1.6
+log
+@indicated instruments
+@
+text
+@d4 6
+a9 4
+midi channel 1 patch 40 reverb 99 pan 90
+midi channel 2 patch 40 reverb 99 pan 70
+midi channel 3 patch 41 reverb 99 pan 30
+midi channel 4 patch 42 reverb 99 pan 10
+d15 1
+a15 1
+=1' treble 8/4 cha1 leg100 vol75 bre rest
+d17 3
+a19 1
+=2' treble 8/4 cha3 leg100 vol75 bre rest
+d30 1
+a30 1
+i0.90 .05 Vn1 (G to F#)
+d44 1
+a44 1
+2 bars | 10/4 135 | 8/4 108 |
+a51 1
+
+d53 1
+a53 1
+il0.9 .20 5
+d61 1
+d63 1
+a63 1
+2 bars | 108 | 108 |
+d79 1
+a79 1
+2 bars | 108 | 108 |
+d93 1
+a93 1
+=2, cha4 1 Bb)2 1 rest'
+d98 1
+a98 1
+ /19-40-19-35-19 \
+d102 1
+d108 1
+a108 1
+=1' 6/4 cha1 1 f#)1 2 rest
+d116 2
+a117 2
+=1' 8/4 cha1 2. rest, 8 [d e] 4 f 8 [e d] 4. e 8 d
+=1, 8/4 cha2 1 rest' 2. rest' 8 [C D]
+d124 1
+a124 1
+2 bars | 108 | 108 |
+d130 1
+a130 1
+=2, cha4 4. A_b 8 B_b 1 C 2 rest
+d134 1
+a134 1
+=1, cha2 4. E_n 8 F_# 1 A_b 2 rest'
+d139 2
+d189 1
+d225 2
+d263 3
+a265 3
+=1' cha1 2 A_br 4 F_# E_ 1 D_
+=1, cha2 2 F_#lr)4 rest,,,, 1 rest,,,,
+=2' cha3 1 E_(1 2 E_)1 2 rest
+@
+
+
+1.5
+log
+@squeezed to 3 pages
+@
+text
+@d17 1
+d26 2
+d32 1
+d43 2
+a44 2
+=1, 10/4 cha2 2 F_#l)4 rest,,,, 1 rest,,,, 2 rest,,,
+=2' 10/4 cha3 1 E_(1 2 E_)1 1 rest'
+d46 1
+d51 1
+d54 1
+d63 1
+d71 1
+d77 1
+d80 1
+d87 1
+d95 1
+a95 2
+ /19-40-19-30-19 \
+ /19-40-19-25-19 6/
+d107 1
+d110 1
+d113 1
+d123 1
+d135 1
+d138 1
+d141 1
+d144 2
+a145 2
+il0.9 .20 15
+=1' cha1 1 rest' 4 c# 8 [d# e] 2 f#
+d147 2
+a148 1
+=2' cha3 4 d# 8 [e f#] 2 g# a#(1 8 [a#)1 c~] 4 d~b
+d156 3
+a158 3
+=1' cha1 2 g#(1 8 [g#)1 a#] 4 b 2 c~ d~
+=1, cha2 2. G# 4 rest, 1 rest.
+=2' cha3 2 d~ e~ 2. f~# 4 rest'
+d162 4
+a165 4
+=1' cha1 2. e~ 4 rest' 1 rest'
+=1, cha2 1 rest, 2 rest. g
+=2' cha3 2 rest' a ab bb
+=2, cha4
+d168 6
+a173 4
+=1' cha1 2 f# g# 1 a#
+=1, cha2 1 rest, 2 rest, eb
+=2' cha3 1. c~ 2 rest'
+=2, cha4 2 rest, fn e f#
+d177 3
+a179 1
+4 systems /19-30-19-35-19/19-35-19-35-19/19-40-19-35-19/19-30-19-30-19 6/
+d186 4
+a189 4
+=1' cha1 1 rest' 1 rest'
+=1, cha2 2 d en 1 f#
+=2' cha3 1 rest' rest'
+=2, cha4 1 g# rest,
+d193 1
+a193 1
+=1' cha1 1 rest' 1 rest'
+d195 2
+a196 1
+=2' cha3 1 rest' rest'
+d201 1
+d203 2
+a204 1
+=1, cha2 43 c Bb-I3, Ab 4 Gb F 2 E rest,
+d206 1
+a206 1
+=2, cha4 2 F# rest, 1 rest,
+d210 2
+a211 1
+=1, cha2 1 rest, 2 rest, 4 E 4 F(2
+d214 1
+d218 1
+d221 1
+d223 2
+a224 2
+=2, cha4 4 A_b G_ 2. F_# rest
+=3  cha5 43 B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb
+d226 3
+a228 3
+=1' cha1 4 db)1 c 8 [Bb Ab F# E] 4 D C 2 B_b(1
+=1, cha2 4 E_)2 2. rest, 1 rest,
+=2' cha3 4 E D 2. C rest'
+d235 5
+a239 3
+il0.9 .20 25
+=1' cha1 4 B_b)1 2. rest' 1 rest'
+=1, cha2 1 rest, 2 F 4 E D
+d242 1
+d246 1
+d255 1
+a255 1
+=2' cha3 1 E_(1 2 E_)1 2 rest'
+d258 1
+@
+
+
+1.4
+log
+@minor adjustments
+@
+text
+@d1 2
+a2 1
+4 systems 10 /19-30-19-35-19/19-30-19-35-19/19-30-19-35-19/19-30-19-35-19 10/
+d5 1
+a5 1
+midi channel 2 patch 41 reverb 99 pan 70
+d8 1
+a8 1
+midi channel 5 patch 43 reverb 99 pan 50
+d10 2
+a11 1
+3 bars | 8/4 108 | 108 | 108 |
+d17 1
+d20 2
+d29 4
+a32 4
+=1' cha1 2 Eb 4 D C 2 B_b 4 G_# F_#
+=1, cha2 2 C 4 B_b A_b 1 G_b(4
+=2' cha3 1 rest 2 C# 4 Cn B_b
+=2, cha4 1 A_b(4 2 A_b)4 rest,,
+d34 1
+d38 4
+a41 4
+=1' 10/4 cha1 1 E_(2 2 E_)2 1 blank
+=1, 10/4 cha2 2 G_b)4 rest 1 rest
+=2' 10/4 cha3 2 G_# 4 F_# E_ 1. D_
+=2, 10/4 cha4 1 rest rest 4. rest 8 F#
+d48 1
+a48 1
+=2' 8/4 cha3 1 rest 1 rest
+d57 1
+a57 1
+=2, cha4 1 Ab)2 1 rest
+d63 1
+a63 1
+=2, cha4 1 rest, 2. rest, 8 [E F#]
+d75 1
+a75 1
+=1, cha2 8 [Gb Ab] 4. Gb Ab(2 1 Ab)2
+d77 1
+a77 1
+=2, cha4 1 Bb)2 1 rest
+d80 8
+d133 3
+a147 1
+
+d154 8
+a167 1
+
+d176 1
+a181 1
+
+d188 1
+a194 1
+
+d201 3
+d213 4
+a216 4
+=1' cha1 2 Eb 4 D C 2 B_b 4 G_# F_#
+=1, cha2 2 C 4 B_b A_b 1 G_b(4
+=2' cha3 1 rest 2 C# 4 Cn B_b
+=2, cha4 1 A_b(4 2 A_b)4 rest,,
+d219 4
+a222 4
+=1' cha1 1 E_(2 2 E_)2 2 blank
+=1, cha2 2 G_b)4 rest 2 rest
+=2' cha3 2 G_# 4 F_# E_ 1 D_
+=2, cha4 1 rest rest 
+@
+
+
+1.3
+log
+@plausible up to end at 27 bars ?
+@
+text
+@d81 1
+a81 1
+=2, 6/4 cha4 1 rest,, 4 rest,, 8 [E F#]
+d84 2
+a85 2
+=1' 8/4 cha1 1 rest' 2. rest' 8 [c d]
+=1, 8/4 cha2 2. rest, 8 [D E] 4 F 8 [E D] 4. E 8 D
+d93 2
+a94 2
+=1' cha1 4 eb 8 [d c] 4. d 8 c 4 Bb 8 [Ab Gb] 4. Ab 8 Gb
+=1, cha2 4 C 8 [B_b A_b] 4. B_b 8 A_b 4. B_b 8 C 2 B_b
+d96 1
+a96 1
+=2, cha4 4. C 8 D 1 C 2 rest
+d99 3
+a101 3
+=1' cha1 4. Ab 8 Bb 1 Ab 2 rest'
+=1, cha2 
+=2' cha3 4 Ab 8 [Gb En] 4. F# 8 E 4. F# 8 G# 2 F#
+d161 1
+a161 1
+=1, cha2 1 rest, 2. rest, 4 F(2
+d163 1
+a163 1
+=2, cha4 2. rest,, 4 G(2 G)2 F# 8 [E D C B_b]
+d166 1
+a166 1
+=1' cha1 1 rest' 2. rest' 4 db(1
+d168 1
+a168 1
+=2' cha3 2. rest, 4 eb(2 eb)2 d 8 [c Bb Ab Gb]
+@
+
+
+1.2
+log
+@now for string orch... up to 16 bars ?
+@
+text
+@d127 49
+a175 2
+=1, cha2 
+=2' cha3 
+d178 20
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 5
+a7 5
+midi channel 1 patch 0 reverb 99 pan 90
+midi channel 2 patch 0 reverb 99 pan 70
+midi channel 3 patch 0 reverb 99 pan 30
+midi channel 4 patch 0 reverb 99 pan 10
+midi channel 5 patch 0 reverb 99 pan 50
+d11 4
+a14 4
+=1' treble 8/4 cha1 leg102 vol75 bre rest
+=1, treble 8/4 cha2 leg102 vol75 1 rest rest
+=2' treble 8/4 cha3 leg102 vol75 bre rest
+=2, treble 8/4 cha4 leg102 vol75 1 rest rest
+d27 1
+a27 1
+=2, cha4 1 A_b(4 A_b)4
+d32 3
+a34 3
+=1' 10/4 cha1 1 E_(2 E_)2 2 blank
+=1, 10/4 cha2 1 G_b)4 rest 2 rest
+=2' 10/4 cha3 2 G_# 4 F_# E_ 1. D_(2
+d42 1
+a42 1
+=2' 8/4 cha3 2 D_)2 rest 1 rest
+d46 1
+a46 1
+2 bars | 108 | 10/4 135 |
+d60 2
+a61 2
+2 bars | 8/4 108 | 108 |
+| 8.0
+d65 1
+a65 1
+=2, cha4 4 G 8 [E F#] 4 G 8 [F# G] [Ab Bb] 2 Ab 4 Bb(2
+d68 2
+a69 2
+=1' cha1 4 eb 8 [c d] 4 eb 8 [d eb] [en f#] 2 e 4 f#(1
+=1, cha2 8 [Gb Ab] 2 Gb 4 Ab(2 1 Ab)2
+d74 3
+a76 1
+|
+d78 11
+a88 11
+=1' cha1 1 f#)1 rest
+=1, cha2 1 rest, rest,
+=2' cha3 8 [Dn E] 2 D 4 E(2 1 E)2
+=2, cha4 1 rest,, 2. rest,, 8 [E F#]
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+|
+=1' cha1 1 rest' 2. rest' 8 [c d]
+=1, cha2 2. rest, 8 [D E] 4 F 8 [E D] 4. E 8 D
+=2' cha3 
+=2, cha4 4 G 8 [F# E] 4. F# 8 E 4 D 8 [C B_b] 4. C 8 B_b
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+d90 2
+d97 1
+a97 1
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+d103 28
+a130 1
+=3  cha5 43 Bb B_b-I3 Bb B_b Bb-I3 B_b Bb B_b-I3 Bb B_b Bb-I3 B_b
+@

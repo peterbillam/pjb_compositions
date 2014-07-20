@@ -1,0 +1,102 @@
+3 systems /19-25-19-25-19-25-19/
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+midi off
+/
+4 bars | 48 |
+| 4/4 1.7
+rl0.5 .01 (0,2,3,4), (-1,+1,+1,-1)
+=1' treble cha1 8 [G F# F G] [F G G F]
+=1, 4 D# E E D#
+=2' bass cha2 2 c~x d~b
+=2, 1 Bb
+|
+=1' 8 [F# G G F] [G F F G]
+=1, 4 E D# D# E
+=2' 2 d~b c~x
+=2, 1 A
+|
+=1' 8 [F# G G F] [G F F G]
+=1, 4 E D# D# E
+=2' 2 d~b c~x
+=2, 1 A
+|
+=1' 8 [G F# F G] [F G G F]
+=1, 4 D# E E D#
+=2' 2 c~x d~b
+=2, 1 Bb
+midi on
+
+3 systems /19-25-19-25-19-25-19/
+/
+4 bars | 48 |
+| 4/4 1.5
+rl0.6 .01 (0,2,3,4), (-1,+1,+1,-1)
+=1' treble cha1 8 [G F# F G] [F G G F]
+=1, 2 C Db
+=2' bass cha2 4 d# e e d#
+=2, 1 Bb
+|
+=1' 8 [F# G G F] [G F F G]
+=1, 2 Db C
+=2' 4 e d# d# e
+=2, 1 A
+|
+=1' 8 [F# G G F] [G F F G]
+=1, 2 Db C
+=2' 4 e d# d# e
+=2, 1 A
+|
+=1' 8 [G F# F G] [F G G F]
+=1, 2 C Db
+=2' 4 d# e e d#
+=2, 1 Bb
+
+/
+4 bars | 48 |
+|
+rl0.7 .01 (0,3,2,3), (-1,-1,+1,+1)
+=1' treble cha1  qua [G Ab Ab G] [Ab G G Ab]
+=1, min D C#
+=2' bass cha2  cro e f f e
+=2, smb B
+|
+=1' qua [Ab G G Ab] [G Ab Ab G]
+=1, min C# D
+=2' cro f e e f
+=2, smb A#
+|
+=1' qua [Ab G G Ab] [G Ab Ab G]
+=1, min C# D
+=2' cro f e e f
+=2, smb A#
+|
+=1' qua [G Ab Ab G] [Ab G G Ab]
+=1, min D C#
+=2' cro e f f e
+=2, smb B
+
+/
+4 bars | 48 |
+|
+rl0.8 .01 (0,2,3,3), (-1,+1,+1,+1)
+=1' treble cha1  qua [A Bb Bb A] [Bb A A Bb]
+=1, min D# E
+=2' bass cha2  cro f# g g f#
+=2, smb c#
+|
+=1' qua [Bb A A Bb] [A Bb Bb A]
+=1, min E D#
+=2' cro g f# f# g
+=2, smb cn
+|
+=1' qua [Bb A A Bb] [A Bb Bb A]
+=1, min E D#
+=2' cro g f# f# g
+=2, smb cn
+|
+=1' qua [A Bb Bb A] [Bb A A Bb]
+=1, min D# E
+=2' cro f# g g f#
+=2, smb c#
+

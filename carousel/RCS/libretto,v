@@ -1,0 +1,3897 @@
+head	1.30;
+access;
+symbols;
+locks
+	pjb:1.30;
+comment	@# @;
+
+
+1.30
+date	2002.06.23.05.17.44;	author pjb;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2000.10.24.09.02.23;	author pjb;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2000.02.04.05.05.02;	author pjb;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	99.06.20.07.49.45;	author pjb;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	99.05.05.10.43.29;	author pjb;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	99.03.02.10.35.41;	author pjb;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	99.03.02.09.52.14;	author pjb;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	99.02.24.09.19.42;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	99.02.13.20.16.27;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	99.02.03.02.49.58;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	99.02.02.04.17.04;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	99.02.02.03.24.58;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	99.01.26.10.01.19;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	99.01.23.21.12.23;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	99.01.23.04.17.56;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	99.01.13.07.01.16;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	98.12.14.06.32.19;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	98.12.12.11.50.39;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	98.10.29.02.48.36;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	98.10.29.01.07.27;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	98.09.23.06.24.54;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	98.09.21.01.53.39;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	98.04.06.10.10.09;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	97.08.17.12.11.40;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	97.08.17.10.44.05;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	97.08.07.06.11.56;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	97.08.05.13.55.46;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	97.08.04.14.39.33;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	97.08.04.14.22.00;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.08.04.14.16.38;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Libretto of Carousel Club
+@
+
+
+1.30
+log
+@remove 'happy at least' line in I/4
+@
+text
+@.AM
+.nr PS 13
+.nr VS 16
+.nr LL 6.4i
+.pl 11.7i
+.ds LH \s-2%\s0
+.ds CH \&
+.ds RH \f2\s-2November at the Carousel \- Libretto\s0\f1
+.ds LF \f2\s-2\(co Peter J Billam 1999\s0\f1
+.ds RF \f2\s-2www.pjb.com.au\s0\f1
+.LP
+.ce 1
+\s+4\f3November at the Carousel \- Libretto\fP\s0
+.sp 1c
+.SH
+Act One, Scene One; Jack Ruby's Office
+.LP
+\f2(CONS 577, KOAP 111, SLHO 174-179, COS 42-44)
+A varnished wooden desk with a phone, a metal filing cabinet,
+Rose Cheramie waiting in a chair, two bodyguards behind her.\fP
+.IP \f2Rose\fP 2c
+Hey, can I go to the bathroom ? \f2(pause)\fP
+I'm not even carrying, what' you on about ? \f2(The bodyguards smile.
+Pause; Rose gets up)\fP I need to go to the bathroom.
+.IP \f2Bodyguard\fP 2.5c
+Sit down, Rose \f2(she sits. pause. Ruby enters.)\fP
+.IP \f2Rose\fP 2c
+Sparky . . .
+.IP \f2Ruby\fP 2c
+Ah, Rose, I'm glad you're here.
+.IP \f2Rose\fP 2c
+Sparky, I need to go to the bathroom, and they won't let me.
+.IP \f2Ruby\fP 2c
+I bet you're looking forward to Louisiana, Rose !
+Been tough, the last few weeks,
+you'll have a good time when you get there, I know.
+.IP \f2Rose\fP 2c
+I just taste to see if it's good, I don't mess around.
+.IP \f2Ruby\fP 2c
+You do a good job for Houston, Rose,
+you always get the stuff there;
+\&'fact I think you probably deserve more of it . . . \f2(pause)\fP
+.IP \f2Rose\fP 2c
+Can I go to the bathroom ?
+.IP \f2Ruby\fP 2c
+But before you go to Louisiana, Rose,
+there's one extra little thing we need you to do this time. \f2(pause)\fP
+.IP \f2Rose\fP 2c
+Go on then, Sparky, tell me what it is.
+.IP \f2Ruby\fP 2c
+It's very easy, Rose, it's nothing at all,
+you don't even have to \f3do\fP anything,
+you just \f3be\fP there at the right time.
+.IP \f2Rose\fP 2c
+What's going to happen there, Sparky ?
+.IP \f2Ruby\fP 2c
+What you will \f3see\fP, Rose, is
+there's this guy running away,
+and then a cop calls out to him,
+and then the guy pulls out a gun and shoots the cop.
+That's what you'll see.
+.IP \f2Rose\fP 2c
+What happens to the guy ?
+.IP \f2Ruby\fP 2c
+Well, the other cops have to shoot him, don't they;
+but that's OK,
+because you say you saw him shoot the first cop first, didn't you.
+.IP \f2Rose\fP 2c
+But he didn't shoot the first cop first.
+.IP \f2Ruby\fP 2c
+That's OK, because you're a witness, Rose,
+and you tell them that he \f3did\fP shoot the first cop first.
+.IP \f2Rose\fP 2c
+But that's murder, Sparky !
+.IP \f2Ruby\fP 2c
+That's not murder, Rose, it's the police, it's completely legal.
+.IP \f2Rose\fP 2c
+I'm not getting involved with murder.
+.IP \f2Ruby\fP 2c
+Rose, it's only a lie, you tell them all the time.
+And the guy is scum ! He's better off dead ! \f2(pause)\fP
+.IP \f2Rose\fP 2c
+And what happens to the first cop ?
+That the guy is supposed to have shot ? \f2(pause)\fP
+Do they shoot him too ?  Shit, Sparky !
+.IP \f2Ruby\fP 2c
+Look, Rose, to go to Louisiana I need someone I can trust.
+.IP \f2Rose\fP 2c
+I'll run drugs for you, Sparky, but I draw the line at murder !
+.IP \f2Ruby\fP 2c
+Listen here, Rose\ ! or you'll not be running drugs for me no more,
+\'cause I need someone I can \f3trust\fP, Rose,
+someone who can \f3do\fP what needs to be \f3done\fP\ !
+What is this, bitch\ ?  You're a junkie\ !
+A junkie, and all of a sudden you can't tell a lie\ ?  What is this\ !
+.IP \f2Rose\fP 2c
+\f2(pause)\fP I'm sorry, I can't do this, Sparky,
+not with murder, it's different.  Try Helen . . .
+.IP \f2Ruby\fP 2c
+Helen's a screwball, Rose, no-one would believe her.
+Look, this is so easy for you, it's not murder,
+you just \f3say\fP you \f3saw\fP the \f3guy\fP \f3shoot\fP the \f3cop\fP.
+\f2(pause)\fP Listen here, Rose \- if you can't do this, if you can't do this thing,
+that means we can't work together any more, Rose.
+Is that what you want ?
+.IP \f2Rose\fP 2c
+\f2(crying)\fP I \f3can\fP't do it, not murder, I can't \f3do\fP that.  Maybe Helen will.
+\f2(pause)\fP I want to go to the bathroom. \f2(pause)\fP Sparky\ .\ .\ .
+.IP \f2Ruby\fP 2c
+\f2(to the bodyguards)\fP So give her what she wants.
+.IP \f2Bodyguard\fP 2.5c
+Come on, Rose . . .  \f2(they lead her out, crying.
+Ruby takes a couple of pills from his desk and swallows them. Enter Olsen)\fP
+.IP \f2Olsen\fP 2c
+She didn't like the idea.
+.IP \f2Ruby\fP 2c
+Bitch !
+.IP \f2Olsen\fP 2c
+Too highly strung.  Do the goons know she needs an accident now ?
+.IP \f2Ruby\fP 2c
+I told them.  Another junkie that will never tell a lie again !
+.IP \f2Olsen\fP 2c
+Hey, Jack, in a job like this,
+if we can't arrange a little perjury we're going to look pretty stupid.
+.IP \f2Ruby\fP 2c
+\f2(swaps suit jacket for his stage jacket)\fP We'll have to use Helen.
+.IP \f2Olsen\fP 2c
+What's she like as a witness ?
+.IP \f2Ruby\fP 2c
+\f2(combs hair)\fP She's a crackpot. A complete screwball. But she's very desperate.
+.IP \f2Olsen\fP 2c
+They're the most reliable.
+.IP \f2Ruby\fP 2c
+I gotta go on stage. Tell Larry to get Helen in. Helen from the Eatwell Cafe\*'.
+.IP \f2Olsen\fP 2c
+Oh, that Helen.  \f2(they look at each other)\fP
+.IP \f2Ruby\fP 2c
+Yeah.  \f2(they exit.)\fP
+
+.SH
+Act One, Scene Two; The Stage of the Carousel Club
+.LP
+\f2(SLHO 175,176,177) A small semi-circular stage,
+with three cat-walks leading out between the tables.  Drum roll.\fP
+.IP \f2Announcer\fP 3c
+\f2(off-stage)\fP Ladies and Gentlemen, your host, Jack, Ruby !
+\f2(The band plays a fanfare; Ruby enters through a curtain
+at the back to the stage and takes the microphone from its stand.)\fP
+.IP \f2Ruby\fP 2c
+Ladies and Gentlemen,
+I hope you've enjoyed your evening at the Carousel Club;
+this is your host, Jack Ruby,
+the audience is full of important people tonight,
+and I've enjoyed having you here.
+
+Yes, it's continuous shows at the Carousel Club,
+and on stage it's glamorous girls girls girls all the way\ !
+This is your Master of Ceremonies, Jack Ruby,
+and I've enjoyed having them here too.
+Every one of them !  You don't believe me ?
+Ah, November at the Carousel,
+been a busy month, and it's not finished yet\ !
+
+Some of you, ooh I recognise you,
+you've already sat through five or six of these girls
+showing you, ooohh, I swear I don't know how you manage.
+I bet you're just itching to\ .\ .\ .
+well don't go home yet\ !
+
+Get yourself another drink and settle down for the climax of the evening\ !
+You don't believe me\ ?
+You've seen girls before, but this is the most,
+the most sophisticated, the most risque\*',
+the most provocative, the most delightful.
+This is the top of the bill,
+Little Lynne will show you what you came here for\ !
+Little Lynne, luscious, lascivious, and beautiful beyond describing\ !
+Gentlemen, put your hands together to welcome our star turn, Little Lynne\ !
+\f2(enter Lynne. She does her striptease act.)\fP
+
+.SH
+Act One, Scene Three; At a Table in the Carousel Club
+.LP
+\f2(KOAP 109, NAMED 62-63)
+Ruby, Oswald, Cain, Nicoletti, and White are sitting round a table.\fP
+.IP \f2Ruby\fP 2c
+Lee, I want you to meet some friends of mine from Chicago,
+Charles and Richard.
+This is Lee Oswald, of the CIA .\ \ .\ \ .
+Lee, my friends here need to be on the top floor of the Depository
+on Friday, they need a good view, and they don't want to be disturbed.
+.IP \f2Oswald\fP 2c
+They need a good view ?
+.IP \f2Ruby\fP 2c
+When the motorcade goes through Dealy Plaza,
+about 12:30, whenever it is; that's the zero hour,
+that's the start signal for all the rest of the operation.
+These guys have the radios;
+they give the timing for the whole job, at the Trade Mart, and everywhere else.
+.IP \f2Oswald\fP 2c
+Uh-huh.
+.IP \f2Ruby\fP 2c
+So, you work there, and we need you to hang around in the lunch room
+to make sure no-one goes up the stairs and disturbs them.
+.IP \f2Oswald\fP 2c
+Hey, I don't even get to see the motorcade !
+.IP \f2Ruby\fP 2c
+Oh, Lee, it's important you don't get photographed at a window.
+You are one of the conspirators, after all . . .
+There'll be cameras going off everywhere with the President driving past,
+so you stay away from windows.
+My friends just need some peace and quiet to do their work,
+and then to get down the stairs and out the back afterwards.
+That's why you're working in the Book Depository, Lee;
+someone that won't attract attention has to guard the stairs.
+You can do that, Lee ?
+.IP \f2Oswald\fP 2c
+Of course I can.
+I guess I just wish I could be doing
+something more important for the operation.
+.IP \f2Ruby\fP 2c
+But you are, Lee !
+\f2(Cain and Nicoletti look at Ruby)\fP
+I mean, in an operation with as many people as this,
+everyone is given a role,
+and they all fit into the plan
+and in the end who knows who is the most important ?
+It could turn out to be someone no-one would have expected !
+Isn't that right, boys ?
+.IP \f2Nicoletti\fP 2c
+You put that very clearly, Sparky.
+.IP \f2Ruby\fP 2c
+Yeah . . .
+O.K. now, the getaway . . .
+twenty minutes after the motorcade,
+Lee, you come to my place, J.D. will be there,
+we wait for news from the Trade Mart,
+then J.D. drives you to the plane,
+and David takes you to Mexico.  O.K. ?
+.IP \f2Oswald\fP 2c
+So it's your place, twenty minutes after.  O.K.
+.IP \f2Ruby\fP 2c
+It gives you time to take the bus, just like you would normally,
+nothing unusual, nothing suspicious, O.K. ?
+.IP \f2Oswald\fP 2c
+O.K.
+.IP \f2Ruby\fP 2c
+Hey, Beverly, \f2(beckons)\fP come over here and meet my friends !
+Beverly, these are friends of mine from Chicago
+I want you to make feel real welcome in Dallas.
+Beverly sings at the Colony Club next door.
+You know Lee, don't you.
+Hey, Lynne \f2(beckons)\fP, 
+Lynne, this is Lee Oswald of the CIA, I know you'll like him,
+and some friends of mine from Chicago.
+.IP \f2Lynne\fP 2c
+Delighted to meet you, Lee.
+.IP \f2Oswald\fP 2c
+Likewise, maam.
+.IP \f2Lynne\fP 2c
+Hey Roscoe, where's Geneva ?
+.IP \f2White\fP 2c
+Ah, Geneva can't be here, she ain't feeling well.
+.IP \f2Lynne\fP 2c
+Hey Sparky, is Rose around ?
+I feel like having a really good time !
+.IP \f2Ruby\fP 2c
+I'll fix you up, Lynne.
+Poor Rose, she wasn't feeling so good, she couldn't even see straight,
+I had to give her the day off.
+.IP \f2Lynne\fP 2c
+Oh Sparky, you're so good to your girls !
+And you C.I.A. heroes, you're so strong and mysterious,
+you know so many things,
+I bet there's things you could tell me I don't even know yet\ .\ .\ .
+\f2(laughs)\fP, 
+.IP \f2Oswald\fP 2c
+I don't think so, maam.
+
+.SH
+Act One, Scene Four; The same table, after closing time.
+.LP
+\f2The club lights are dimmed, leaving just this table illuminated.
+Ruby, Cain, Nicoletti, Olsen, White.\fP
+.IP \f2Ruby\fP 2c
+So what d'you think of the patsy ?
+.IP \f2Nicoletti\fP 2c
+He's a jerk.
+.IP \f2Cain\fP 2c
+Tense.
+.IP \f2Nicoletti\fP 2c
+He's a spook, but he's a jerk.
+.IP \f2Cain\fP 2c
+He knows there's something he doesn't know, but he doesn't know what.
+.IP \f2Ruby\fP 2c
+He still thinks the job's at the Trade Mart.
+.IP \f2Nicoletti\fP 2c
+He's a spook.  Who knows what they think.
+.IP \f2Olsen\fP 2c
+Who cares. I'll shoot him myself after he shoots a cop ;
+J.D., in fact \f2(pause)\fP
+.IP \f2Cain\fP 2c
+That's good. \f2(smiles)\fP That's very tidy.
+.IP \f2Olsen\fP 2c
+We have to keep in mind the story.
+The story is what's important, what must come out of all this.
+The story is; Lee is a commie agent, shoots the President, O.K. ?
+He kills J.D. resisting arrest, so I have to shoot him.
+To look good, it's \f3nec\fPessary that he kill J.D.
+So I'll do that too.
+.IP \f2Cain\fP 2c
+Very professional.
+.IP \f2Olsen\fP 2c
+We have a witness who'll say the right things.
+.IP \f2Nicoletti\fP 2c
+Should have two.
+.IP \f2Ruby\fP 2c
+We're getting another.
+.IP \f2Nicoletti\fP 2c
+It's good. Especially if Lee co-operates\ .\ .\ .
+.IP \f2White\fP 2c
+Yeah. When Lee finds out it was in the Plaza instead, he'll get suspicious.
+Because he betrayed the Trade Mart to the Bureau,
+and he'll work out that we must have found out about that,
+so he'll know he's in big trouble.
+I mean, from us.
+.IP \f2Cain\fP 2c
+He won't turn up at your place, Sparky.
+Will he have a gun ?
+.IP \f2Ruby\fP 2c
+He doesn't take it to work at the Bookstore.
+.IP \f2Cain\fP 2c
+You're a Company man, what will he do, Rocks ?
+.IP \f2White\fP 2c
+He might run to the airfield on his own,
+but we set up the airfield,
+so most likely he'll go to his meeting place and just wait for a contact.
+For him, that's the Texas Cinema, in Jefferson Boulevard.
+.IP \f2Nicoletti\fP 2c
+He'll go home, pick up the gun.
+.IP \f2Cain\fP 2c
+Where's his home ?
+.IP \f2Ruby\fP 2c
+On the way to the cinema.
+.IP \f2Nicoletti\fP 2c
+Well, then.
+.IP \f2Cain\fP 2c
+That's where he'll go. Is he being followed ?
+.IP \f2White\fP 2c
+Sure, we've got Mary Bledsoe on the bus;
+he knows her, but she's just an old landlady,
+she runs a Company house, she's beyond suspicion.
+.IP \f2Ruby\fP 2c
+So if he does get off the bus, I'll send J.D. to pick him up at home,
+give him a lift; he might take it.
+.IP \f2Olsen\fP 2c
+If he goes to the cinema; well preferably he shoots a cop there;
+if not, we have to arrest him, and Jack will have to shoot him later.
+.IP \f2Cain\fP 2c
+Why arrest him ? It's so messy. Why not just shoot him straight away ?
+.IP \f2Olsen\fP 2c
+\f3No\fP, this is not Dealey Plaza, this is \f3aft\fPerwards,
+this is not the job, it's the cover-up.
+It has to look good.
+.IP \f2Cain\fP 2c
+But it looks great ! He just shot a cop !
+I mean you \f3are\fP going to do that anyway, aren't you ?
+J.D.'s so stupid and he knows so much\ .\ .\ .
+.IP \f2Olsen\fP 2c
+Sure, J.D. must get hit, 'cause that's part of the story,
+and we have to stick to the story.
+But that's not at the cinema.
+We can't shoot Lee just because he's a murder suspect !
+.IP \f2Nicoletti\fP 2c
+You can't shoot him why ?
+.IP \f2Ruby\fP 2c
+My friend, we can all remember things which didn't look good,
+but that wasn't Lee Oswald.
+This one has to look good, we understand that.
+.IP \f2Nicoletti\fP 2c
+So make him shoot a cop.
+Corner him, give him targets, spin it out, he'll crack.
+He's a spook but he's only a jerk.
+.IP \f2Olsen\fP 2c
+Alright. So, Gentlemen, this is what we have .\ .\ .\ \ 
+If Lee is with J.D., I shoot them; that's the simplest.
+If they're separated, I shoot J.D. anyway, he's too stupid to live.
+Then we corner Lee.
+Then it depends. If Lee shoots a cop, we shoot him, and that's great,
+I mean that's the story, what more d'you want\ ?  \f2(they laugh)\fP
+So we spin it out, but if Lee doesn't shoot a cop, we have to arrest him;
+then Jack will kill him before he talks in public.
+.IP \f2Cain\fP 2c
+Could all come down to you, Sparky.
+.IP \f2Ruby\fP 2c
+I'll be there !
+.IP \f2Nicoletti\fP 2c
+More than be there, Sparky.
+.IP \f2White\fP 2c
+You're the last in line, Jack.
+If he crosses that line and opens his mouth, \-
+I don't want to think about that,
+I don't even want to think about that\ !
+.IP \f2Cain\fP 2c
+This is one you have to guarantee, Jack.
+.IP \f2Ruby\fP 2c
+I guarantee that job, he won't get past me. What' you on about ?
+.IP \f2Nicoletti\fP 2c
+Good. \f2(pause)\fP
+Hey, this is hard work, this planning.
+.IP \f2White\fP 2c
+This is the hardest job I ever been on \-
+when your own President is a security risk,
+doesn't get any bigger than this\ .\ .\ .
+.IP \f2Cain\fP 2c
+Two days to go, and we'll all be heroes, with friends in power.
+.IP \f2Nicoletti\fP 2c
+Maybe three or four days if Sparky has to clean up the patsy.
+You gonna be O.K., Sparky ?
+.IP \f2Ruby\fP 2c
+I take care of myself.
+.IP \f2Nicoletti\fP 2c
+I'm sure you do.
+
+.SH
+Act Two, Scene One; The Grassy Knoll
+.LP
+\f2(KOAP 34, 37, 50-57, 188-191, 210, SHLO 114, 191, COS 60-70)
+A grassy bank sloping upwards towards a wall of chest height
+behind which is a stockade fence.
+At the upstage end of the wall there is a concrete pillar.
+Beverly Oliver is downstage-left with her movie camera.
+Abraham Zapruder climbs onto the pillar with his movie camera.
+The Black Dog Man appears at the downstage end of the wall,
+and a gunman appears behind the stockade fence.
+The motorcade becomes audible, and Abraham Zapruder
+starts filming it, panning slowly from stage left to stage right.\fP
+.LP
+\f2A shot rings out (frame 150).
+The Umbrella Man shakes the umbrella vigorously up and down.
+At frame 188, the Black Dog Man shoots, hitting President Kennedy in the throat.
+Gordon Arnold throws himself to the ground.
+About frame 230, two more shots from stage right.
+At frame 313, the gunman behind the stockade fence fires the fatal shot.
+The Umbrella Man stops shaking the umbrella up and down.  One more shot rings out.\fP
+.LP
+\f2The Umbrella Man folds his umbrella and sits down, chatting with an associate (KOAP 50, 189).
+The Black Dog Man vanishes behind the stockade fence (KOAP 56-57),
+leaving a coke bottle on the wall.
+A platoon of Secret Service Agents run across from stage left to upper stage right.
+One of them kicks Gordon Arnold, takes the film from his camera,
+and rushes up behind the wall and disappears behind the stockade fence.
+Another picks up the coke bottle.
+A crowd of bystanders, including Newsman Robert MacNeil,
+rush up the knoll and mill around, peering over the stockade fence.\fP
+.LP
+\f2Ruby enters stage left, walks across to the downstage end of the wall;
+Robert MacNeil turns away from the fence and walks off stage left.
+Ruby continues up to the stockade fence, and peers over.
+
+.SH
+Act Two, Scene Two; The Texas Cinema
+.LP
+\f2(SHLO 150-153, COS 115-117) The film 'War is Hell' is showing.
+A couple of dozen police come in with John Brewer through the exit doors at the front;
+the lights go on, blanking out the screen, but the soundtrack continues.
+Oswald is near the back row in the centre,
+Ruby is in the back row on the right; there are various other moviegoers,
+including George Applin, who is sitting close to Ruby.
+John Brewer points Oswald out to the police.
+The police move along the rows from the front,
+inspecting the ID of all the moviegoers and asking them to leave.
+Eventually they get to Oswald;\fP
+.IP \f2McDonald\fP 2.5c
+Stand up.
+.IP \f2Oswald\fP 2.5c
+\f2(he jumps up)\fP Well this is it !
+\f2(Oswald knocks Officer Nick McDonald back with a punch,
+pulls a gun and makes to shoot him.  McDonald puts up a hand
+as if to protect himself, and the gun fails to go off.)\fP
+.IP \f2Applin\fP 2.5c
+\f2(crouches down between the seats. To Ruby)\fP Buddy, you'd better move.
+There is a gun.  \f2(Ruby just looks at Applin.
+Oswald is wrestled to the ground and is arrested.)\fP
+.IP \f2Oswald\fP 2.5c
+Police brutality !  Police brutality !
+I am not resisting arrest !
+.IP \f2McDonald\fP 2.5c
+Kill the President, will you !
+\f2(Oswald is bundled out the the back of the auditorium.)\fP
+
+.SH
+Act Two, Scene Three; Inside Olsen's Car
+.LP
+\f2(CONS 481, MKPK 169) The car is parked in the courtyard of Simon's Garage,
+about one o'clock on Saturday morning,
+with Olsen in the driver's seat and Kathy in the back.
+Kathy spots Ruby outside and waves at him;
+Ruby comes over and gets in the front passenger's seat.\fP
+.IP \f2Ruby\fP 2c
+Is she in on this ?
+.IP \f2Olsen\fP 2c
+She is here as a witness, she is trusted,
+she will not intervene, but what she hears, others hear.
+This is not just between us two, Jack, not just between us three.
+.IP \f2Ruby\fP 2c
+So what the fuck happened ?
+He pulled the gun and didn't shoot ?
+Why didn't he pull the trigger ?
+.IP \f2Olsen\fP 2c
+He did pull the trigger !
+But it didn't go off, Nick put his hand up and got it stuck in the firing pin !
+.IP \f2Ruby\fP 2c
+What ! Ah, shit ! Lucky like that should be illegal.
+But he tried to shoot, you could have shot him anyway.
+.IP \f2Olsen\fP 2c
+So could you, Jack, but the plan was if he didn't shoot a cop we arrest him
+and that's what happened.  \f2(pause)\fP
+There's always some lucky ones.
+Always some lucky ones;
+your goons pushed Rose out the car and guess what,
+now she's in hospital and expected to live.
+.IP \f2Ruby\fP 2c
+The fucking jerks !  They know nothing !
+The next time they push her out the car, they run her over afterwards.
+.IP \f2Olsen\fP 2c
+Nah, the next time, they shoot her in the head first !
+.IP \f2Ruby\fP 2c
+Yeah. Then run over the head ! It looks better ! \f2(they laugh. Kathy seems upset.)\fP
+So now where is the son of a bitch ?
+.IP \f2Olsen\fP 2c
+In Homicide, Fritz's office at the moment.
+.IP \f2Ruby\fP 2c
+So clean him up, it's easy \-
+shot while trying to escape through a tenth floor window,
+you know the deal, you've done it often enough.
+.IP \f2Olsen\fP 2c
+But that wasn't Lee Harvey Oswald.
+This is different.  We can't do this one.
+This is part of the cover-up, not part of the operation,
+the idea is to \f3reduce\fP suspicion, not increase it.
+We can't do this one, Jack, you have to do it.
+.IP \f2Ruby\fP 2c
+Oh, so it's OK if the heat avoid suspicion
+provided it falls on my family, huh\ ?
+.IP \f2Olsen\fP 2c
+What family ?
+You're just an honest night club owner, you have no connections with anyone.
+Hoover himself guarantees that.
+And don't forget you guaranteed this job, Jack,
+and you guaranteed it to your family.
+.IP \f2Ruby\fP 2c
+But the son of a bitch is surrounded by cops !
+Reduce suspicion ?
+You think I'm supposed to wander in and kill him and it not look suspicious ?
+.IP \f2Olsen\fP 2c
+It's easy; we bring in the newsmen and the T.V. !
+.IP \f2Ruby\fP 2c
+What ?
+.IP \f2Olsen\fP 2c
+On Sunday morning, we transfer him to the County Jail,
+there'll be newsmen in the garage to see him get into the car.
+Batchelor will be in charge of security.
+It looks like you came in with the newsmen,
+and \f3that\fP's, where \f3you\fP, will kill him at point blank range, Jack,
+because if Oswald lives,
+everyone will know about Charles Flynn and your friends at the Bureau.
+.IP \f2Ruby\fP 2c
+\f2(furious)\fP What a shame, Harry, and she's such a pretty girl,
+such pretty ears she has !
+.IP \f2Olsen\fP 2c
+Don't waste your time, Jack, she knew before I did.
+.IP \f2Ruby\fP 2c
+\f2(stunned)\fP Shit . . .
+.IP \f2Olsen\fP 2c
+The Bureau, Jack.
+They're so keen to see the last of Lee
+that they told him about your friends there, Jack,
+and how helpful you've been to them;
+well; you can imagine how that would go down, if Lee opens his mouth\ .\ .\ .
+so if Lee lives, he opens his mouth, and you die\ .\ .\ . \f2(pause)\fP
+Him or you, Jack.  Sunday morning.
+.IP \f2Ruby\fP 2c
+They play rough.
+.IP \f2Olsen\fP 2c
+They didn't leave it to chance.
+.IP \f2Ruby\fP 2c
+\f2(to himself)\fP\ \ \  I'm not clean enough.  I've walked into a trap.
+.IP \f2Olsen\fP 2c
+\f2(suddenly relaxed)\fP OK, so it's on TV.
+OK, so you get arrested.
+Safest place to be, man !
+No inconvenient newsmen, plenty of dope, plenty of boys,
+and people there who would respect you, Jack,
+after what you're going to do, you're gonna be a hero;
+it doesn't get any bigger than that, Jack, a job like this, and on live T.V.\ !
+You're going to be a hero\ !
+And a hero with friends in power.
+.IP \f2Ruby\fP 2c
+A hero in jail, while you're off fucking your way round the world !
+.IP \f2Olsen\fP 2c
+We'll be running scared, man !
+You'll be safer in jail than we are !
+We're all in this together, Jack, and not just us three,
+and you're the one that has to do the job !
+You guaranteed this job, Jack !
+.IP \f2Ruby\fP 2c
+Shit . . .
+.IP \f2Kathy\fP 2c
+They should cut this guy inch by inch into ribbons.
+.IP \f2Olsen\fP 2c
+The son of a bitch doesn't deserve to live !
+He killed the President, remember !
+.IP \f2Kathy\fP 2c
+Where I come from he would have been dragged through the streets and hanged !
+.IP \f2Olsen\fP 2c
+They should cut this guy inch by inch into ribbons.
+.IP \f2Kathy\fP 2c
+He should be dragged through the streets and hanged !
+.IP \f2Olsen\fP 2c
+Him or you, Jack.  Point blank range, on Sunday morning.
+.IP \f2Ruby\fP 2c
+You ain't seen me close\ ?  The closer I go, the better I get.
+I'm good close up.  What 'you on about\ ?
+.IP \f2Olsen\fP 2c
+So this is how we do it.
+Oswald comes out of the office, he turns right,
+round the corner into the garage, you just wait there behind the corner.
+Point-blank range, you never have to move, he just walks into it.
+.IP \f2Ruby\fP 2c
+That's no good ! I have to come at him from his left side.
+.IP \f2Olsen\fP 2c
+But this way you're hiding behind the corner !
+.IP \f2Ruby\fP 2c
+Don't you tell me how to do it !
+You fucking baby !  You ever been up close\ ?  You can't do it !
+Three shots !
+Stomach, heart, head, from the left side, angled downwards.
+
+The stomach shot is great.
+You line it up right, it goes through everything that's in there,
+spleen, liver, kidney,
+it's fatal on its own, it hurts like hell \- it's a speciality.
+Sometimes you just leave them to die like that.
+
+Then the shot to the heart goes through both lungs too,
+then the head bows forward you can line the whole thing up
+from the top to the brainstem with just one shot.
+You must time it right, so the gun's in place just as the head comes down.
+
+And to do that, you must see it,
+you must see the insides,
+the secret of being up close is to \f3see\fP the \f3insides\fP,
+you line them up, you shoot \f3through\fP them.
+You must see it before it happens,
+before you start moving, you see the whole thing,
+so fucking clearly that it takes place be\f3cause\fP you've seen it.
+So don't try to tell me which fucking side to come from,
+you don't know the first thing about it !
+.IP \f2Olsen\fP 2c
+\f2(pause)\fP\  OK, Jack, you come at his left side.
+.IP \f2Ruby\fP 2c
+Make sure the T.V. lights are in his eyes straight away.
+I'm behind the newsmen, behind the lights;
+as he turns right, he'll want to look right, away from the lights.
+Then I push through the crowd;
+he won't even see me till I'm up close and stomach, heart, head.
+.IP \f2Olsen\fP 2c
+OK, we'll make sure the crowd's not too tight \-
+security reasons\ .\ .\ . \f2(smiles)\fP
+.IP \f2Ruby\fP 2c
+Then everybody jumps on top and beats the shit out of me.
+.IP \f2Olsen\fP 2c
+No, Jack, out of him ! \f2(they laugh\fP)
+You're not in this alone, Jack. \f2(pause)\fP
+.IP \f2Ruby\fP 2c
+Hey.  This mustn't look premeditated at all,
+from my point of view, I mean,
+cause that would make it murder !
+This has to look spontaneous, just a violent fit of rage.
+.IP \f2Olsen\fP 2c
+They'll believe that of you, Jack.
+.IP \f2Ruby\fP 2c
+Don't make fun of me, Harry !
+Tom Howard told me, he's a good man, he hasn't lost a client yet.
+We have to make a reason I could just be walking by there at the time,
+and not just hanging round H.Q. because I normally am\ .\ .\ .
+I have to have a reason to be in the neighbourhood.
+.IP \f2Olsen\fP 2c
+Western Union is pretty close, you could cable someone some money ?
+.IP \f2Ruby\fP 2c
+You want my friends mixed up in this ?
+.IP \f2Olsen\fP 2c
+One of your girls is OK, you're just an honest night-club owner.
+.IP \f2Ruby\fP 2c
+Yeah, and we'll have been closed for two days,
+they could probably use the money.
+\f2(pause)\fP\ \ \ Especially the junkies.
+.IP \f2Olsen\fP 2c
+I'll talk to Little Lynne, she'll phone you Sunday morning
+to ask for some money for the rent or something.
+.IP \f2Ruby\fP 2c
+That son of a bitch Curry, if he sees me there,
+he's the Chief, not Batchelor\ .\ .\ .
+.IP \f2Olsen\fP 2c
+Curry won't be there, Jack,
+cause he'll be taking an urgent phone call from the Mayor.
+Batchelor will be in charge, the lights will be there,
+Oswald will be there, it will all be just perfect.
+Just provided you're there . . .
+.IP \f2Ruby\fP 2c
+You know damn well I'll be there !
+
+.SH
+Act Two, Scene Four; A Corridor in the Police Station
+.LP
+\f2(SLHO 169, 185, KOAP 105, CONS 480, TJR 130, DOAP 466-470.)
+A lobby leads stage left and right,
+and a corridor leads upstage from the centre;
+a door on the stage-left side of this corridor is labelled "Homicide".
+The lobby is filled with reporters, cameramen, police and Jack Ruby.
+The centre corridor contains only police.\fP
+.IP \f2Hosty\fP 2c
+\f2(to the policeman guarding the centre corridor)\fP James Hosty, FBI.
+\f2(he is allowed through, knocks on the "Homicide" door, and Fritz lets him in.)\fP
+.IP \f2Reporter\fP 2c
+\f2(to Ruby)\fP Was that Sheriff Decker ?
+.IP \f2Ruby\fP 2c
+No, that was not Sheriff Decker, that was Captain Fritz.
+.IP \f2Reporter\fP 2c
+Who is Captain Fritz ? How do you spell it ?
+.IP \f2Ruby\fP 2c
+You spell it W-i-l-l F-r-i-t-z, he is the Homicide Captain.
+.IP \f2Curry\fP 2c
+\f2(enters down the central corridor)\fP
+.IP \f2Reporter\fP 2c
+\f2(to Ruby)\fP Who's that ?
+.IP \f2Ruby\fP 2c
+That's Police Chief Curry.
+.IP \f2Reporter\fP 2c
+Chief Curry, has Oswald been mistreated during the interrogation ?
+.IP \f2Curry\fP 2c
+No, certainly not.
+.IP \f2Reporter\fP 2c
+Then why is he hidden ?
+.IP \f2Curry\fP 2c
+Well the interrogation is still in progress.
+.IP \f2Reporter\fP 2c
+Does Oswald have links with any Cuban expatriate organisations ?
+.IP \f2Curry\fP 2c
+I'm unaware of the current status of the interrogation,
+that's what I'm going to find out,
+but it's known he is a member of the "Free Cuba Committee".
+.IP \f2Ruby\fP 2c
+\f2(shouts out)\fP That's the "Fair Play for Cuba Committee"
+.IP \f2Reporter\fP 2c
+Until you produce the suspect in public,
+those rumors of mistreatment and even torture will continue,
+and that could damage the whole case against him.
+Can you please let us see the suspect ?
+.IP \f2Curry\fP 2c
+Ah, well, I'm not sure of the current status of the interrogation,
+but, ah, I will see what can be arranged.
+If you'll excuse me\ .\ .\ .
+\f2(he enters the "Homicide" office)\fP
+.IP \f2Ruby\fP 2c
+\f2(to a reporter)\fP Hey, you should visit my club,
+I'll buy you a drink on the house,
+great girls there, you'll really enjoy yourself !  \f2(hands him a business card)\fP
+.IP \f2Reporter\fP 2c
+Ah, sure, thanks !
+\f2(Oswald appears from the "Homicide" office, handcuffed and escorted by two policemen)\fP
+Did you shoot the President ?
+.IP \f2Oswald\fP 2c
+I didn't shoot anybody, no sir. I'm just a patsy !
+.IP \f2Reporter\fP 2c
+Well why'd they arrest you ?
+.IP \f2Oswald\fP 2c
+They've brought me in because I lived in the Soviet Union !
+I need legal representation !  Can somebody get me a lawyer ?
+\f2(Oswald is shoved back in the "Homicide" office. Exit several newsmen, running)\fP
+
+.SH
+Act Two, Scene Five; The Garage in the Police Station
+.LP
+\f2(CONS 483-4, TJR 143, 186-7, KOAP 106, RTJ 200-203, SLHO 192-201,
+DOAP 721-726, COS 171-177)
+From centre stage, car ramps lead up stage left and stage right.
+A police car is just visible up the ramp stage-right.
+The TV lights are turned on.  Ruby arrives behind the TV cameras.\fP
+.IP \f2Charles\ Brown\fP 3c
+Sir, what's Sparky doing here ?
+.IP \f2Batchelor\fP 3c
+Everything's in order, except you're not in your car.
+Will you get back to your car ?
+.IP \f2Charles\ Brown\fP 3c
+Sparky should not be here, sir.
+.IP \f2Batchelor\fP 3c
+Don't worry about that, Brown,
+I'm in charge of security arrangements here.
+.IP \f2Charles\ Brown\fP 3c
+I'd like to formally request a review of those security arrangements.
+.IP \f2Batchelor\fP 3c
+National security is at stake here,
+and I'll be treating disobedience accordingly !
+Brown, you'll get back to your car !
+.LP
+\f2Charles Brown goes up the ramp stage-right.
+Fritz appears out the jail office, looks around,
+gestures for the others to follow.
+Oswald appears, his right hand handcuffed to Leavelle
+and his left elbow held by Graves.\fP
+.IP \f2Pappas\fP 2c
+\f2(to his microphone)\fP There's Oswald.
+That's the prisoner, wearing the light sweater.
+He has changed from his T-shirt.
+Being moved out toward an armored car.
+\f2(Ruby starts pushing through the crowd of cameramen)\fP There's the prisoner.
+\f2(to Oswald)\fP Have you anything to say in your defence ?
+\f2(Oswald sees Ruby, and tries to stride ahead of Leavelle and Graves to
+try to reach the car.  The car starts driving down the ramp from stage right.
+Ruby shoots Oswald in the stomach)\fP
+.IP \f2Oswald\fP 2c
+Ow ! \f2(Oswald doubles over and slumps to the floor.
+The car hits Ruby in the leg and knocks him over as it brakes to a halt.
+As Ruby falls, Graves siezes the gun.)\fP
+.IP \f2Pappas\fP 2c
+Oswald has been shot ! 
+Oswald has been shot ! 
+Oswald has been shot ! 
+\f2(All the nearest policemen jump on top of Oswald and Ruby and there is
+a wild scuffle.  Graves appears from out of the scrum holding the gun.)\fP
+.IP \f2Ruby\fP 2c
+You all know me, I'm Jack Ruby !
+.IP \f2Police\fP 2c
+Everybody stay back !  Oswald is shot ! Everybody stay back ! 
+\f2(Ruby is handcuffed, dragged to his feet and led out of the mele\*'e)\fP
+.IP \f2Graves\fP 2c
+Jack, you son of a bitch, you shot Oswald ! Why did you do it ?
+.IP \f2Ruby\fP 2c
+I had to do it; you couldn't do it.
+I did it because you couldn't do it.
+\f2(Oswald is moved onto a stretcher)\fP
+.IP \f2Archer\fP 2c
+Jack, I think you killed him.
+.IP \f2Ruby\fP 2c
+I hope the son of a bitch dies !
+I intended to shoot him three times.
+I hope I killed the son of a bitch !
+\f2(Ruby is led out through the office door.  Enter Curry,
+notices the disarray, sees Oswald on the stretcher, is mortified.)\fP
+
+.SH
+Act Three, Scene One; Jack Ruby's Trial
+.LP
+\f2The defence lawyers are Melvyn Belli and Joe Tonahill.\fP
+.IP \f2Judge\ Brown\fP 3c
+I call upon Melvyn Belli to present the case for the defence.
+.IP \f2Belli\fP 2c
+Your honour, my client pleads not guilty by reason of insanity.
+No one denies, your honour, that my client shot and killed Lee Oswald;
+he did it on prime time T.V..
+The bullet passed through the left lung, the spleen,
+both the vena cava and the aorta, the two major blood vessels in the abdomen,
+the liver, and the right kidney.
+It was a freak, lucky shot, a freak shot, but a woeful wound,
+inflicted by a violent man, a man with a long history of violence,
+a man subject to uncontrollable rages.
+Imagine the daily fury with which my client lives,
+to be a Jew boy in a Jew-hating hole like Dallas !
+.IP \f2Ruby\fP 2c
+Hey !
+.IP \f2Judge\ Brown\fP 3c
+Silence !
+.IP \f2Belli\fP 2c
+The defence will demonstrate that my client is afflicted by a
+recently discovered disease by the name of Psychomotor Epilepsy,
+a disease causing spasms of violent rage.
+This is what caused the \f3un\fPpredictable, \f3un\fPplanned, spon\f3tan\fPeous
+outburst of violent fury that my client experienced
+on the morning of Sunday 24th of November.
+A number of other medical conditions
+contribute to triggering this Psychomotor Epilepsy,
+and my client also suffers from village idiocy,
+.IP \f2Ruby\fP 2c
+What ?
+.IP \f2Belli\fP 2c
+latent homosexuality, and gonhorrea !
+.IP \f2Ruby\fP 2c
+Hey, what is this !
+.IP \f2Judge\ Brown\fP 3c
+Silence in court !
+
+.SH
+Act Three, Scene Two; The Warren Commision Hearing
+.LP
+\f2(SHLO 216-217, KOAP 93, CONS 454-456, LIFE 26-27,
+MKPK 155, 195-207, 325, NAMED 26, RTJ 232-238)
+An austere little jury room with a sink stage-right,
+a long narrow table, and a door stage-left.
+Ruby is sitting at the stage-right end of the table,
+wearing sandals and a white jumper with several buttons undone;
+Decker and another policeman are standing behind him.\fP
+.IP \f2Decker\fP 2c
+I bet you're looking forward to this, Sparky.
+Your big opportunity.
+\f2(draws revolver, holds it so that Ruby can see it, and clicks off the safety catch)\fP
+Be a man, and die\ .\ . \.
+You wouldn't die a man, though\ .\ . \.
+\f2(slowly aims revolver at Ruby's groin; pauses,
+then clicks the safety catch back on and puts the revolver back in holster.
+Enter Moore, Tonahill, Ford, Warren, and a stenographer. They sit down.  Ruby is terribly tense.)\fP
+.IP \f2Warren\fP 2c
+The hearing is open. You are Mr Jack Ruby ?
+.IP \f2Ruby\fP 2c
+Yes, sir.
+.IP \f2Warren\fP 2c
+On the morning of the 24th of November you shot and killed 
+Lee Harvey Oswald in the basement of the Dallas Police Station ?
+.IP \f2Ruby\fP 2c
+Yes,  sir.
+.IP \f2Warren\fP 2c
+Mr Ruby; had anybody ever requested to you that you do this ?
+.IP \f2Ruby\fP 2c
+No one, re\f3ques\fPted me, to do anything.
+.IP \f2Warren\fP 2c
+And had you spoken to anyone about your intention to shoot Oswald ?
+.IP \f2Ruby\fP 2c
+I never spoke to anyone about, at\f3temp\fPting, to do anything . . .
+.IP \f2Ford\fP 2c
+Did any underworld person make any effort to contact you before the shooting ?
+.IP \f2Ruby\fP 2c
+No underworld person made an \f3eff\fPort to contact me.
+.IP \f2Ford\fP 2c
+Was it premeditated at all ?
+.IP \f2Ruby\fP 2c
+It all happened that Sunday morning . . .
+.IP \f2Warren\fP 2c
+Mr Ruby, can you tell us, in your own words, why, you killed Oswald ?
+\f2(pause)\fP\ \ \ Just tell us your story.
+.IP \f2Ruby\fP 2c
+The last thing I read
+Mrs. Kennedy'd have to come back for a trial to Dallas
+for Lee Harvey Oswald, I don't know what bug got a hold of me . . .
+Suddenly the feeling, the emotional feeling came within me
+that someone owed this debt to our beloved President
+to save her the ordeal of coming back.
+I had the gun in my right hip pocket,
+and impulsively, if that is the correct word here,
+I saw him and that would be all I can say . . .
+I think I used the words 'You killed my President, you rat'.
+The next thing I know, I was down on the floor.
+.IP \f2Warren\fP 2c
+Thank you, Mr Ruby.
+\f2(to Ford)\fP Congressman, do you have any\ .\ .\ .
+.IP \f2Ruby\fP 2c
+There is more I could say.
+I want to tell the truth, and I can't tell it here.
+I want to take a lie detector test.
+Is there any way you can get me to Washington ?
+.IP \f2Warren\fP 2c
+I beg your pardon ?
+.IP \f2Ruby\fP 2c
+Is there any way of getting me to Washington ?
+.IP \f2Warren\fP 2c
+No, I don't know of any; I will be glad to talk to your counsel
+about what the situation is, Mr Ruby, when we
+.IP \f2Ruby\fP 2c
+I would like to request that I go to Washington
+and take all the lie detector tests that I have to take.
+I want to tell the truth, and I can't tell it \f3here\fP. \f2(pause)\fP
+I can't tell it here !  My life is in danger here !
+.IP \f2Warren\fP 2c
+We have taken the testimony of two or three hundred people,
+I would imagine, here in Dallas without going to Washington.
+.IP \f2Ruby\fP 2c
+But those people aren't Jack Ruby.
+.IP \f2Warren\fP 2c
+No, they weren't.
+.IP \f2Ruby\fP 2c
+They weren't.
+.IP \f2Decker\fP 2c
+Why not be a man and (\f2pause\fP) speak up ?
+These men have come a long way to give you (\f2pause\fP) your big opportunity\ .\ .\ .
+.IP \f2Ruby\fP 2c
+Unfortunately for me,
+for me giving the people the opportunity to get in power,
+because of the act I committed,
+that's put a lot of people in jeopardy of their lives.
+(\f2pause\fP) Doesn't register with you, does it ?
+.IP \f2Warren\fP 2c
+No, I don't understand that . . .
+.IP \f2Ruby\fP 2c
+\&"I realise it is a most terrible thing I have done,
+and it was a stupid thing, but I was just carried away emotionally."
+Do you follow that ?
+.IP \f2Warren\fP 2c
+Yes; I do indeed, every word.
+.IP \f2Ruby\fP 2c
+Well I must be a great actor !
+.IP \f2Ford\fP 2c
+\f2(to Warren)\fP This guy is unstable, he's a nut, just like Oswald.
+One kills the other !
+And the story he told us before, seems reasonable . . .
+.IP \f2Warren\fP 2c
+\f2(to Ford)\fP I have to concur with my colleague Judge Brown;
+this man is completely unstable.
+I assume there's no danger ?
+.IP \f2Ford\fP 2c
+\f2(to Decker)\fP You can control the situation ?
+.IP \f2Decker\fP 2c
+\f2(to Ford)\fP Quick as a shot, sir.
+\f2(Decker and the other policeman remove the safety catches on their revolvers)\fP
+.IP \f2Ruby\fP 2c
+Boys, I'm in a tough spot, I tell you that\ .\ .\ .
+.IP \f2Warren\fP 2c
+\f2(aloud, to Ford)\fP Congressman, do you have anything further\ ?
+.IP \f2Ruby\fP 2c
+You can get more out of me.
+Let's not break up too soon.
+Mister Bill Decker said be a man and speak up.
+I am making a statement now that I may not live the next hour
+when I walk out of this room.
+Do I sound sober enough to you as I say this ?
+.IP \f2Warren\fP 2c
+You do, you sound entirely sober.
+.IP \f2Ruby\fP 2c
+There is a certain organisation here, Chief Justice Warren,
+.IP \f2Warren\fP 2c
+There is indeed, Mr Ruby.
+.IP \f2Ruby\fP 2c
+If it takes my life at this moment to say it,
+and Bill Decker said 'be a man and say it',
+there is a John Birch Society right now in activity,
+and Edwin Walker is one of the top men of this organisation.
+Take it for what it is worth, Chief Justice Warren.
+.IP \f2Moore\fP 2c
+You recall that when I talked to you,
+there were certain things I asked you not to tell me,
+at the time, for certain reasons,
+and I respected your position on that
+and asked you not to tell me certain things.
+.IP \f2Ruby\fP 2c
+Chief Justice Warren, I am used as a scapegoat.
+But if I am eliminated, there won't be any way of knowing.
+Maybe something can be saved, something can be done;
+what have you got to answer to that, Chief Justice Warren ? (\f2pause\fP)
+Right now, I am the only one who can bring out the truth to our President . . .
+Does that make sense to you ?  \f2(pause)\fP
+Now maybe certain people don't want to know the truth that may come out of me.
+.IP \f2Ford\fP 2c
+Is there anything more you can tell us if,
+er, if, you went back to Washington\ ?
+.IP \f2Ruby\fP 2c
+Yes.  Are you sincere in wanting to take me back ?
+.IP \f2Ford\fP 2c
+We are most interested in all the information you have.  \f2(smiles)\fP
+.IP \f2Ruby\fP 2c
+I have been used for a purpose,
+and there will be a certain tragic occurence happening
+if you don't take my testimony and somehow vindicate me !
+.IP \f2Warren\fP 2c
+\f2(gloating)\fP But we have your testimony.
+We have it \f3here\fP. \f2(picks up stenographer's notes)\fP
+It will be in permanent form for the President of the United States
+and the Congress of the United States,
+and for the people of the entire world.
+It is here.  \f3It\fP will be recorded for all to see.
+\f3That\fP is the purpose of our coming here today.
+\f2(smiles)\fP We feel that you are entitled to have your story told.
+.IP \f2Ruby\fP 2c
+I know that your hands are tied and that you are helpless.
+.IP \f2Warren\fP 2c
+Well, Mr Ruby, is there anything more you feel you should tell us ?
+I think if I was in your position I would figure it out very carefully
+as to whether it would endanger me or not.
+I want you to feel that you are absolutely free
+to refrain from testifying any time you wish.
+.IP \f2Ruby\fP 2c
+Gentlemen, if you want to hear any further testimony,
+you will have to get me to Washington, \f3soon\fP,
+because it has something to \f3do\fP with \f3you\fP,
+Chief Justice Warren\ .\ .\ .
+.IP \f2Warren\fP 2c
+\f2(nervous)\fP Well, the public at\f3ten\fPtion it would attract,
+and the \f3peop\fPle who would be a\f3round\fP;
+we have no place \f3there\fP for you to be safe \- when we take you out \- ,
+and \f3we\fP are not law enforcement officers,
+and it \f3is\fPn't \f3our\fP responsi\f3bil\fPity
+to go into \f3an\fPything of \f3that\fP kind.
+.IP \f2Ruby\fP 2c
+You have lost me, though.
+You have lost me, Chief Justice Warren.
+.IP \f2Warren\fP 2c
+The hearing is closed.
+\f2(exeunt Ford, Warren, Tonahill and Moore.  The policemen smile broadly.)\fP
+.IP \f2Decker\fP 2c
+Come on, Sparky.  \f2(The policemen lead Ruby out.)\fP
+@
+
+
+1.29
+log
+@juggle words in Ruby's story for patter rhythm
+@
+text
+@d1 1
+a1 1
+AM
+d18 3
+a20 2
+\f2(CONS 577, KOAP 111, SLHO 174-179) A varnished wooden desk with a phone,
+a metal filing cabinet, Rose Cheramie waiting in a chair, two bodyguards behind her.\fP
+d251 1
+a251 1
+Beverly sings at the Colony Club next door,
+d292 1
+a292 1
+He will die happy at least.
+d300 1
+a300 1
+Who cares.  I'll shoot him myself after he shoots a cop ;
+d428 1
+a428 1
+\f2(KOAP 34, 37, 50-57, 188-191, 210, SHLO 114, 191.)
+d464 1
+a464 1
+\f2(SHLO 150-153) The film 'War is Hell' is showing.
+d494 6
+d787 1
+a787 1
+DOAP 721-726)
+@
+
+
+1.28
+log
+@oops - its November not October
+@
+text
+@d1 1
+a1 1
+.AM
+d21 1
+a21 1
+Hey, can I go to the toilet ? \f2(pause)\fP
+d23 1
+a23 1
+Pause; Rose gets up)\fP I need to go to the toilet.
+d31 1
+a31 1
+Sparky, I need to go to the toilet, and they wouldn't let me.
+d43 1
+a43 1
+Can I go to the toilet ?
+d107 1
+a107 1
+\f2(pause)\fP I want to go to the toilet. \f2(pause)\fP Sparky\ .\ .\ .
+d122 1
+a122 1
+Come on, Jack, in a job like this,
+d135 1
+a135 1
+Oh, that Helen.
+d166 1
+a166 1
+I bet you're just itching to get home and\ .\ .\ .
+d240 1
+a240 1
+So it's your place, twenty minutes after.
+d262 1
+a262 1
+Ah, Geneva can't be here, she got took real poorly.
+d275 3
+d819 7
+a825 3
+As Ruby falls, Graves siezes the gun.
+All the nearest policemen jump on top of Oswald and Ruby and there is a wild scuffle.
+Graves appears from out of the scrum holding the gun.)\fP
+d936 2
+a937 2
+was that Mrs. Kennedy may have to come back to Dallas for a trial
+for Lee Harvey Oswald and I don't know what bug got hold of me . . .
+d943 1
+a943 1
+I saw him and that is all I can say . . .
+d987 1
+a987 1
+\&"I realise it is a terrible thing I have done,
+@
+
+
+1.27
+log
+@add 1 warren line; minor changes
+@
+text
+@d8 1
+a8 1
+.ds RH \f2\s-2October at the Carousel \- Libretto\s0\f1
+d13 1
+a13 1
+\s+4\f3October at the Carousel \- Libretto\fP\s0
+d91 1
+a91 1
+because I need someone I can \f3trust\fP, Rose,
+d160 1
+a160 1
+Ah, October at the Carousel,
+d166 1
+a166 1
+I bet you're just itching to get home and tell the wife about it,
+d235 1
+a235 1
+Lee you come to my place, J.D. will be there,
+d450 1
+a450 1
+A crowd of bystanders, including Newsman Robert MacNeil
+d609 1
+a609 1
+He should have been dragged through the streets and hanged !
+d771 1
+a771 1
+\f2(Oswald is shoved back in the "Homicide" office)\fP
+d774 1
+a774 1
+Act Two, Scene Five; The Basement Office and the Garage in the Police Station
+d780 1
+a780 1
+Ruby arrives behind the TV cameras.\fP
+d787 1
+a787 1
+He should not be here, sir.
+d790 1
+a790 1
+I'm in charge of the security arrangements here.
+d866 2
+a867 2
+outburst of violent fury my client experienced
+on the morning of Sunday 24th of October.
+d874 1
+a874 1
+latent homsexuality, and gonhorrea !
+d889 1
+a889 1
+Decker and Olsen are standing behind him.\fP
+d957 2
+a958 3
+I want to tell the truth, and I can't tell it \f3here\fP.
+I can't tell it here !
+My life is in danger here !
+d999 1
+a999 1
+\f2(Decker and Olsen remove the safety catches on their revolvers)\fP
+d1025 2
+a1026 2
+there were certain things I asked you not to tell me at the time,
+for certain reasons,
+d1030 1
+a1030 1
+Chief Justive Warren, I am used as a scapegoat.
+d1071 4
+a1074 4
+\f2(nervous)\fP Well, the public attention it would attract,
+and the people who would be around;
+we have no place there for you to be safe \- when we take you out \- ,
+and we are not law enforcement officers,
+d1082 1
+a1082 1
+\f2(exeunt Ford, Warren, Tonahill and Moore.  Olsen and Decker smile broadly.)\fP
+d1084 1
+a1084 1
+Come on, Sparky.  \f2(Olsen and Decker lead Ruby out.)\fP
+@
+
+
+1.26
+log
+@more Kathy lines, some small changes later
+@
+text
+@d18 2
+a19 3
+\f2(CONS 577, KOAP 111, SLHO 174-179)\fP
+\f2A varnished wooden desk with a phone, a metal filing cabinet,
+Rose Cheramie waiting in a chair, two bodyguards behind her.\fP
+d22 2
+a23 2
+I'm not even carrying, what' you on about ? \f2(pause; gets up)\fP
+I need to go to the toilet.
+d958 2
+a959 2
+I can't tell it here.
+My life is in danger here.
+d971 1
+a971 1
+These men have come a long way to give you your big opportunity\ .\ .\ .
+d999 1
+a999 2
+\f2(to Ford)\fP
+Quick as a shot, sir.
+d1016 4
+a1019 1
+if it takes my life at this moment to say it,
+@
+
+
+1.25
+log
+@more detail in cinema scene moves
+@
+text
+@d600 2
+d605 3
+d614 2
+a615 2
+I'm good close up; the closer I go, the better I get.
+What 'you on about\ ?
+d638 2
+a639 2
+then the head bows forward
+you can line the whole thing up from the top to the brainstem with one shot.
+d678 1
+a678 1
+and not just hanging round H.Q. like I normally am\ .\ .\ .
+d710 2
+a711 1
+and from the centre, a corridor leads upstage.
+d713 1
+a713 2
+The centre corridor contains only police;
+a door on the stage-left side of this corridor is labelled "Homicide".\fP
+d754 1
+a754 1
+but in the circumstances, I will see what can be arranged.
+d793 1
+a793 1
+I'd like to formally request a review of the security arrangements.
+d851 1
+a851 1
+the vena cava and the aorta, the major blood vessels in the abdomen,
+d855 1
+a855 1
+subject to uncontrollable rages.
+d927 1
+a927 1
+Just tell us your story.
+d971 2
+a972 2
+Why not be a man and speak up ?
+These men have come a long way to give you the opportunity to\ .\ .\ .
+d1033 1
+a1033 1
+what have you got to answer to that, Chief Justice Warren ?
+@
+
+
+1.24
+log
+@small changes, eg the closer _I_ go
+@
+text
+@d475 3
+a477 2
+\f2(floors Officer Nick McDonald with a punch.
+Oswald pulls a gun and makes to shoot McDonald, but it fails to go off.)\fP
+d479 2
+a480 2
+\f2(to Ruby)\fP Buddy, you'd better move. There is a gun.
+\f2(Ruby just looks at Applin.
+@
+
+
+1.23
+log
+@more tweaks to conspiracy scene
+@
+text
+@d317 1
+a317 1
+It's good. Especially if Lee co-operates.
+d375 2
+a376 1
+but this one has to look good, we understand that.
+d411 3
+a413 1
+it doesn't get any bigger than this\ .\ .\ .
+a414 1
+Still, two days to go, and we'll all be heroes, with friends in power.
+d570 2
+a571 2
+well; you can imagine how that would go down, if\ .\ .\ .
+so if Lee lives, he opens his mouth, and you die . . . \f2(pause)\fP
+d608 1
+a608 1
+My family is good close up; the closer we go, the better we get.
+d627 1
+a627 1
+liver, spleen, kidney,
+d660 1
+a660 1
+You not in this alone, Jack. \f2(pause)\fP
+d688 1
+a688 1
+That bastard Curry, if he sees me there,
+d976 1
+a976 1
+\&"I realize it is a terrible thing I have done,
+@
+
+
+1.22
+log
+@no J.D. in act1/sc2, minor changes
+@
+text
+@d107 1
+a107 1
+I \f3can\fP't do it, not murder, I can't \f3do\fP that.  Maybe Helen will.
+d316 2
+a317 2
+.IP \f2Cain\fP 2c
+It's good. What happens if it goes wrong ?
+d319 2
+a320 2
+Yeah. When Lee finds out it was in the Plaza, he'll get suspicious.
+He betrayed the Trade Mart to the Bureau,
+d330 1
+a330 1
+So what would a Company man do, Rocks ?
+d335 1
+a335 1
+For him, that's the Texas Cinema, Jefferson Boulevard.
+d337 3
+a339 1
+He'll go home, pick up the gun.  Where's his home ?
+@
+
+
+1.21
+log
+@rose doesnt mention score, 1 ruby change
+@
+text
+@d184 2
+a185 2
+\f2(KOAP 109, NAMED 62-63) Ruby, Oswald, Cain, Nicoletti,
+White and J. D. Tippit are sitting round a table.\fP
+d214 1
+a214 2
+You're an important link in the chain,
+that's why you're working in the Book Depository, Lee;
+d230 1
+a230 1
+.IP \f2Cain\fP 2c
+d236 2
+a237 2
+Lee and J.D. meet at my place,
+to wait for news from the Trade Mart,
+d241 1
+a241 1
+Your place, twenty minutes after.
+d244 1
+a244 1
+nothing suspicious, O.K. ?
+d285 1
+a285 1
+A jerk.
+d297 1
+a297 1
+Who cares.  I'll shoot him myself after he shoots a cop.
+d374 1
+a374 1
+.IP \f2Cain\fP 2c
+d377 1
+a377 2
+.IP \f2Nicoletti\fP 2c
+O.K.. He's a spook but he's only a jerk.
+d402 1
+a402 1
+.IP \f2Cain\fP 2c
+a403 1
+.IP \f2Nicoletti\fP 2c
+d515 1
+a515 1
+Yeah. Then run over the head ! \f2(they laugh. Kathy seems upset.)\fP
+d582 1
+a582 1
+it doesn't get any bigger that that, Jack, a job like this, and on live T.V.\ !
+d816 1
+a816 1
+Jack, you son af a bitch, you shot Oswald ! Why did you do it ?
+d832 2
+@
+
+
+1.20
+log
+@headers and footers for extra gloss
+@
+text
+@d108 1
+a108 1
+\f2(pause)\fP I want to go to the toilet. \f2(pause)\fP Sparky, I need to score.
+d112 1
+a112 1
+Come on, Rose . . .  \f2(they lead her out.
+d371 4
+a374 1
+Oh yeah ?
+d376 2
+a377 3
+My friend, that wasn't Lee Oswald.
+We can all remember things which didn't look good,
+but this one has to look good, we understand that.
+d379 1
+a379 2
+So make him shoot a cop.  Corner him, spin it out,
+he'll crack, he's a spook but he's only a jerk.
+@
+
+
+1.19
+log
+@some extra conspiracy about not shooting Lee
+@
+text
+@d6 5
+@
+
+
+1.18
+log
+@protect quote at BOL
+@
+text
+@d154 2
+a155 2
+and I've enjoyed having them here too, every one of them.
+You don't believe me ?
+d188 1
+a188 1
+The top floor ?  Must be a reason . . .
+d190 2
+a191 1
+When the motorcade goes through Dealy Plaza about 12:30, that's the zero hour,
+d193 1
+a193 1
+These guys have radios;
+d259 1
+a259 1
+Ah, Geneva can't be here, she got took poorly.
+d279 1
+a279 1
+So what d'you think of Lee ?
+d356 15
+d372 2
+a373 2
+So make him shoot a cop.
+Corner him, spin it out, he'll crack, he's a spook but he's only a jerk.
+d375 1
+a375 1
+O.K.. So, Gentlemen, this is what we have .\ .\ .\ \ 
+d380 1
+a380 2
+I mean that's the story, what more d'you want\ ?
+\f2(they laugh)\fP
+d431 1
+a431 2
+At frame 188, the Black Dog Man shoots,
+hitting President Kennedy in the throat.
+d435 1
+a435 2
+The Umbrella Man stops shaking the umbrella up and down.
+One more shot rings out.\fP
+d437 1
+a437 2
+\f2The Umbrella Man folds his umbrella and sits down, chatting with an
+associate (KOAP 50, 189).
+d440 1
+a440 2
+A platoon of Secret Service Agents run across
+from stage left to upper stage right.
+d444 2
+a445 3
+A crowd of bystanders,
+including Newsman Robert MacNeil rush up the knoll and mill around,
+peering over the stockade fence.\fP
+d454 2
+a455 4
+\f2(SHLO 150-153)
+The film 'War is Hell' is showing.
+A couple of dozen police come in with John Brewer
+through the exit doors at the front;
+d458 1
+a458 2
+Ruby is in the back row on the right,
+there are various other moviegoers,
+d475 1
+a475 2
+Police brutality !
+Police brutality !
+d501 1
+a501 2
+and that's what happened.
+\f2(pause)\fP
+d522 1
+a522 2
+This is different.
+We can't do this one.
+d548 1
+a548 1
+and that's where you will kill him at close range, Jack,
+d602 1
+d665 1
+a665 1
+and not just at Police H.Q. like I normally am\ .\ .\ .
+d727 1
+a727 1
+Has anything been learned about the suspect as a result of the interrogation ?
+d745 1
+a745 1
+\f2(to a reporter)\fP Hey you should visit my club,
+d758 1
+a758 2
+I need legal representation !
+Can somebody get me access to a lawyer ?
+d792 1
+a792 2
+\f2(to his microphone)\fP
+There's Oswald.
+d796 4
+a799 7
+\f2(Ruby starts pushing through the crowd of cameramen)\fP
+There's the prisoner.
+\f2(to Oswald)\fP
+Have you anything to say in your defence ?
+\f2(Oswald sees Ruby,
+and tries to stride ahead of Leavelle and Graves to try to reach the car.
+The car starts driving down the ramp from stage right.
+d805 1
+a805 2
+All the nearest policemen jump on top of Oswald and Ruby and there
+is a wild scuffle.
+d824 2
+d835 1
+a835 1
+The bullet passed through the left lung,
+d837 1
+a837 1
+the liver, a kidney and the spleen.
+d967 1
+a967 1
+"I realize it is a terrible thing I have done,
+@
+
+
+1.17
+log
+@rose tastes in louisiana not houston
+@
+text
+@d37 1
+a37 1
+\'fact I think you probably deserve more of it . . . \f2(pause)\fP
+d808 2
+d811 1
+a811 1
+Everybody stay back !  Everybody stay back ! 
+d814 1
+a814 1
+Sparky ! Why did you do it ?
+@
+
+
+1.16
+log
+@group into lines for sketch a bit better
+@
+text
+@d31 1
+a31 1
+you'll have a good time when you get back to Houston, I know.
+d92 1
+a92 2
+\f2(pause)\fP
+I'm sorry, I can't do this, Sparky,
+d98 1
+a98 2
+\f2(pause)\fP
+Listen here, Rose \- if you can't do this, if you can't do this thing,
+d105 1
+a105 2
+\f2(to the bodyguards)\fP
+So give her what she wants.
+d121 1
+a121 2
+\f2(swaps suit jacket for his stage jacket)\fP
+We'll have to use Helen.
+d125 1
+a125 2
+\f2(combs hair)\fP
+She's a crackpot. A complete screwball. But she's very desperate.
+d141 1
+a141 1
+Ladies and Gentlemen, your host, Jack, Ruby !
+d548 2
+a549 2
+\f2(furious)\fP
+What a shame, Harry, and she's such a pretty girl, such pretty ears she has !
+d553 1
+a553 2
+\f2(stunned)\fP
+Shit . . .
+d569 1
+a569 2
+\f2(suddenly relaxed)\fP
+OK, so it's on TV.
+d650 1
+a650 2
+Hey.
+This mustn't look premeditated at all,
+d697 2
+a698 4
+\f2(to the policeman guarding the centre corridor)\fP
+James Hosty, FBI.
+\f2(he is allowed through, knocks on the "Homicide" door,
+and Fritz lets him in.)\fP
+d700 1
+a700 2
+\f2(to Ruby)\fP
+Was that Sheriff Decker ?
+d728 1
+a728 2
+\f2(shouts out)\fP
+That's the "Fair Play for Cuba Committee"
+d740 3
+a742 4
+\f2(to a reporter)\fP
+Hey you should visit my club, I'll buy you a drink on the house,
+great girls there, you'll really enjoy yourself !
+\f2(hands him a business card)\fP
+d745 1
+a745 2
+\f2(Oswald appears from the "Homicide" office,
+handcuffed and escorted by two policemen)\fP
+d876 1
+a876 2
+\f2(draws revolver, holds it so that Ruby can see it,
+and clicks off the safety catch)\fP
+d881 1
+a881 2
+Enter Moore, Tonahill, Ford, Warren, and a stenographer. They sit down.
+Ruby is terribly tense.)\fP
+d972 1
+a972 2
+\f2(to Warren)\fP
+This guy is unstable, he's a nut, just like Oswald.
+d976 1
+a976 2
+\f2(to Ford)\fP
+I have to concur with my colleague Judge Brown;
+d980 1
+a980 2
+\f2(to Decker)\fP
+You can control the situation ?
+d988 1
+a988 2
+\f2(aloud, to Ford)\fP
+Congressman, do you have anything further\ ?
+d1025 1
+a1025 2
+We are most interested in all the information you have.
+\f2(smiles)\fP
+d1064 1
+a1064 2
+\f2(exeunt Ford, Warren, Tonahill and Moore.
+Olsen and Decker smile broadly.)\fP
+d1066 1
+a1066 2
+Come on, Sparky.
+\f2(Olsen and Decker lead Ruby out.)\fP
+@
+
+
+1.15
+log
+@lots of detail adjustments
+@
+text
+@d13 1
+a13 1
+\f2(CONS 577, KOAP 111, SLHO 174-177, 179)\fP
+d15 1
+a15 1
+Rose Cheramie waiting in a chair, two latino bodyguards behind her.\fP
+d18 4
+a21 5
+I'm not even carrying, what' you on about ? \f2(pause)\fP
+\f2(gets up)\fP I need to go to the toilet.
+.IP \f2Bodyguard\fP 2c
+Sit down, Rose \f2(she sits. pause. 
+Ruby enters.)\fP
+d36 2
+a37 2
+you always get the stuff there; \'fact I think
+you probably deserve more of it . . . \f2(pause)\fP
+d52 2
+a53 2
+What you will \f3see\fP, Rose,
+is there's this guy running away,
+d61 2
+a62 2
+but that's OK, because you say you saw him shoot the first cop first,
+didn't you.
+d71 1
+a71 2
+That's not murder, Rose,
+it's the police, it's completely legal.
+d80 1
+a80 2
+Do they shoot him too ?
+Shit, Sparky !
+d94 1
+a94 2
+not with murder, it's different.
+Try Helen . . .
+d100 1
+a100 2
+Listen here, Rose \-
+if you can't do this, if you can't do this thing,
+d105 1
+a105 4
+\f2(pause)\fP
+I want to go to the toilet.
+\f2(pause)\fP
+Sparky, I need to score.
+d109 3
+a111 5
+.IP \f2Bodyguard\fP 2c
+Come on, Rose . . .
+\f2(they lead her out.
+Ruby takes a couple of pills from his desk and swallows them.
+Enter Olsen)\fP
+d138 1
+a138 2
+Yeah.
+\f2(they exit.)\fP
+d143 3
+a145 5
+\f2(SLHO 175,176,177)
+A small semi-circular stage, with three cat-walks leading
+out between the tables.
+Drum roll.\fP
+.IP \f2Invisible\ voice\fP 3c
+d184 2
+a185 2
+\f2(KOAP 109, NAMED 62-63)
+Ruby, Oswald, Cain, Nicoletti, White and J. D. are sitting round a table.\fP
+d297 1
+a297 1
+Who cares.  I'll shoot him myself after he shoots a cop\ .\ .\ . 
+d306 2
+a307 2
+To look good, it's \f3nec\fPessary that he kill J.D.;
+so I'll do that too.
+d467 1
+a467 1
+He pulls a gun and makes to shoot McDonald, but it fails to go off.)\fP
+d768 1
+a768 1
+Can someone get me access to a lawyer ?
+d782 1
+a782 2
+Everything's in order,
+except you're not in your car.
+d823 1
+a823 2
+Everybody stay back ! 
+Everybody stay back ! 
+d848 1
+a848 2
+the liver,
+the kidney and the spleen.
+d865 2
+a866 2
+A number of other medical conditions contribute to triggering this
+Psychomotor Epilepsy,
+d951 2
+a952 3
+No, I don't know of any;
+I will be glad to talk to your counsel about what the situation is,
+Mr Ruby, when we
+d1003 1
+a1003 1
+\f2(looks at Olsen, who removes the safety catch on his revolver)\fP
+d1048 3
+a1050 2
+I have been used for a purpose, and there will be a certain tragic occurence
+happening if you don't take my testimony and somehow vindicate me !
+@
+
+
+1.14
+log
+@add Moore; tidying up
+@
+text
+@d18 1
+a18 1
+I'm not even carrying ! \f2(pause)\fP
+d20 1
+a20 1
+.IP \f21st\ Bdgd\fP 2c
+d117 1
+a117 1
+.IP \f21st\ Bdgd\fP 2c
+d131 2
+a132 1
+Come on, Jack, if we can't arrange a perjury we're going to look pretty stupid.
+d195 1
+a195 1
+Act One, Scene Three; At a Table in the Carousel Lub
+d197 2
+a198 1
+\f2(KOAP 109, NAMED 62-63)\fP
+d208 1
+a208 1
+When the motorcade goes through Dealy Plaza about 12:30,
+d211 1
+a211 1
+they give the timing for the job at the Trade Mart, and everywhere else.
+d221 1
+a221 1
+You are one of the conspsirators, after all . . .
+d251 2
+a252 1
+then J.D. drives you to the plane.\ \  O.K. ?
+d254 6
+a259 1
+Your place, twenty minutes after.  O.K.
+d293 2
+a294 1
+\f2The club lights are dimmed, leaving just this table illuminated.\fP
+d317 2
+a318 2
+The story is, Lee is a commie agent, shoots the President,
+kills J.D. resisting arrest, so I have to shoot him.
+d320 1
+a320 1
+so if he doesn't, I'll do that too.
+d346 2
+a347 2
+but we set up the airfield, so it could be a one-way journey;
+most likely he'll go to his meeting place and just wait.
+d365 2
+a366 2
+If he goes to the cinema, preferably he shoots a cop there;
+else we have to arrest him, and Jack will have to shoot him later.
+d381 1
+a381 1
+Then it depends. If Lee shoots a cop, then we shoot him, and that's great,
+d384 1
+a384 1
+We spin it out, but if Lee doesn't shoot a cop, then we have to arrest him;
+d509 1
+a509 1
+Ah, shit ! Lucky like that should be illegal.
+d551 1
+d594 2
+a595 2
+after what you're going to do,
+it doesn't get any bigger that that, Jack, on live T.V. !
+d617 1
+a617 1
+The family is good close up; the closer we are, the better we get.
+d642 1
+a642 1
+You must time it right, so the gun's in place as the head comes down.
+d654 1
+a654 1
+\f2(pause)\fP\ \ \ \  OK, Jack, you come at his left side.
+d662 1
+a662 1
+OK, Jack we'll make sure the crowd's not too tight \-
+d730 1
+a730 1
+You spell it W-i-l-l F-r-i-t-z, he is the Homicide Captain
+d780 2
+d810 1
+a810 1
+\f2Charles Brown goes up the ramp stage-right
+d827 1
+a827 1
+The car starts driving down the ramp from stage left.
+d832 1
+a832 1
+As he falls, Graves siezes the gun.
+d839 1
+a839 1
+\f2(Ruby is handcuffed, dragged to his feet and led out of the melle\*'e)\fP
+d855 1
+a855 1
+.IP \f2Judge\ Brown\fP 2c
+d872 1
+a872 1
+.IP \f2Judge\ Brown\fP 2c
+d890 1
+a890 1
+.IP \f2Judge\ Brown\fP 2c
+d899 1
+a899 1
+and a long narrow table.
+d912 1
+a912 1
+Enter Moore, Ford, Warren, and a stenographer. They sit down.
+d915 1
+a915 1
+You are Mr Jack Ruby ?
+d993 1
+a993 1
+Doesn't register with you, does it ?
+d1006 1
+a1006 1
+This guy is unstable, He's a nut, just like Oswald.
+d1101 2
+a1102 1
+\f2(exeunt Ford, Warren and Sorrels.)\fP
+@
+
+
+1.13
+log
+@most changes as at dec98
+@
+text
+@d17 3
+a19 3
+Hey, can I go to the toilet ? \f2( pause )\fP
+I'm not even carrying ! \f2( pause )\fP
+\f2( gets up )\fP I need to go to the toilet.
+d21 2
+a22 2
+Sit down, Rose \f2( she sits. pause. 
+Ruby enters. )\fP
+d38 1
+a38 1
+you probably deserve more of it . . . \f2( pause )\fP
+d43 1
+a43 1
+there's one extra little thing we need you to do this time. \f2( pause )\fP
+d78 1
+a78 1
+And the guy is scum ! He's better off dead ! (\f2 pause \fP)
+d81 1
+a81 1
+That the guy is supposed to have shot ? (\f2 pause \fP)
+d95 1
+a95 1
+\f2( pause )\fP
+d103 1
+a103 1
+\f2(\ pause\ )\fP
+d110 1
+a110 1
+\f2( pause )\fP
+d112 1
+a112 1
+\f2( pause )\fP
+d115 1
+a115 1
+\f2( to the bodyguards )\fP
+d119 1
+a119 1
+\f2( they lead her out.
+d121 1
+a121 1
+Enter Olsen )\fP
+d133 1
+a133 1
+\f2( swaps suit jacket for his stage jacket )\fP
+d138 1
+a138 1
+\f2( combs hair )\fP
+d148 1
+a148 1
+\f2( they exit. )\fP
+d153 1
+a153 1
+\f2(SLHO 175,176,177)\fP
+d156 1
+a156 1
+Drum roll.
+d159 2
+a160 3
+.LP
+The band plays a fanfare, Ruby enters through a curtain
+at the back to the stage and takes the microphone from its stand.
+d191 1
+a191 1
+\f2( enter Lynne. She does her striptease act. )\fP
+d234 1
+a234 1
+\f2( Cain and Nicoletti look at Ruby )\fP
+d253 1
+a253 1
+Hey, Beverly, \f2( beckons )\fP come over here and meet my friends !
+d258 1
+a258 1
+Hey, Lynne \f2( beckons )\fP, 
+d280 1
+a280 1
+I bet there's so much you could tell me that I don't even know yet\ .\ .\ .
+d301 2
+a302 2
+Who cares.  I'll shoot him myslef after he shoots a cop\ .\ .\ . 
+J.D., in fact (\f2pause\fP)
+d304 1
+a304 1
+That's good. (\f2smiles\fP) That's very tidy.
+d312 3
+d349 2
+a350 2
+Sure, Mary Bledsloe on the bus;
+she's just an old landlady,
+d353 2
+a354 2
+So if he gets off the bus, I'll send J.D. to pick him up at home,
+give him a lift.
+d359 1
+a359 1
+Why arrest him ? Why not just shoot him straight away ?
+d371 4
+a374 4
+Then it depends;
+we corner him, and if Lee shoots a cop, then we shoot him, and that's great,
+I mean that's the story, what more d'you want ?
+(\f2they laugh\fP)
+d386 1
+a386 1
+I don't even want to think about that,
+d393 1
+a393 1
+Good. (\f2pause\fP)
+d412 1
+a412 1
+(\f2KOAP 34, 37, 50-57, 188-191, 210, SHLO 114, 191.)
+d416 1
+a416 1
+Beverly Oliver is (where ?) with her movie camera.
+d418 2
+a419 1
+The Black Dog Man appears at the left end of the wall.
+d455 3
+a457 1
+The lights go on, blanking out the screen, but the soundtrack continues.
+d462 1
+a462 2
+The police by the exit doors at the front;
+John Brewer points Oswald out to them.
+d469 3
+a471 3
+(\f2he jumps up\fP) Well this is it !
+\f2( He jumps up, floors Officer Nick McDonald with a punch.
+He pulls a gun and makes to shoot McDonald, but it fails to go off. )\fP
+d473 3
+a475 3
+(\f2to Ruby\fP) Buddy, you'd better move. There is a gun.
+\f2( Ruby just looks at Applin.
+Oswald is wrestled to the ground and is arrested. )\fP
+d482 1
+a482 1
+\f2( Oswald is bundled out the the back of the auditorium. )\fP
+d514 1
+a514 4
+Nah, they shoot her in the head first !
+.IP \f2Ruby\fP 2c
+Yeah. Then run over the head ! (\f2they smile. Kathy seems upset.\fP)
+
+d516 1
+d586 2
+a587 2
+You're going to be a hero !
+And a hero with freinds in power.
+d619 1
+a619 1
+You fucking baby !  You ever been up close ?  You can't do it !
+d630 1
+a630 1
+and the head bows forward
+d738 1
+a738 1
+I'm unaware of the current state of the interrogation,
+d740 1
+a740 1
+but it's known he is a member of the "Free Cuba Committee" . . .
+d750 9
+a758 4
+Ah, well, I'm not sure of the current state of the interrogation,
+but in the circumstances, I will see what can be arranged . . .
+\f2(he enters the "Homicide" door)\fP
+
+d760 3
+d770 1
+d780 1
+a780 1
+.IP \f2Charles Brown\fP 3c
+d786 1
+a786 1
+.IP \f2Charles Brown\fP 3c
+d791 1
+a791 1
+.IP \f2Charles Brown\fP 3c
+d813 3
+a815 1
+\f2(The car starts driving down the ramp from stage left.
+d827 3
+a829 2
+.IP \f2A Policeman\fP 2c
+Why the fuck ? Why did you do it ?
+d833 1
+d843 1
+a843 1
+.IP \f2Judge Brown\fP 2c
+d856 1
+a856 1
+Imagine the daily suppressed fury with which my client lives,
+d860 1
+a860 1
+.IP \f2Judge Brown\fP 2c
+d878 1
+a878 1
+.IP \f2Judge Brown\fP 2c
+d885 1
+a885 1
+MKPK 155, 195-207, 325, NAMED 26.)
+d890 1
+a890 1
+Decker and another policeman are standing behind him.\fP
+d899 3
+a901 5
+then clicks the safety catch back on
+and puts the revolver back in holster)\fP
+.LP
+\f2Enter Sorrels, Ford, Warren. They sit down.
+Ruby is terribly tense.\fP
+d944 1
+a944 1
+\f2(to Ford)\fP Congressman, do have any\ .\ .\ .
+d951 7
+a957 1
+No, there is not.
+d963 1
+d966 1
+a966 1
+I would imagine, here in dalls without going to Washington.
+d968 1
+a968 1
+But they weren't Jack Ruby.
+d975 1
+a975 1
+These men that have come a long way to give you the opportunity to\ .\ .\ .
+d991 1
+a991 1
+Well I must be a great actor.
+d1009 2
+d1030 6
+a1035 2
+.IP \f2Sorrels\fP 2c
+You remember ...
+d1037 1
+a1037 2
+Chief Justive Warren,
+I am used as a scapegoat.
+d1039 3
+a1041 2
+Right now,
+I am the only one who can bring out the truth to our President . . .
+d1053 1
+a1053 2
+I have been used for a purpose,
+and there will be a certain tragic occurence
+d1057 1
+a1057 1
+We have it here.
+d1061 3
+a1063 4
+It is here.
+It will be recorded for all to see.
+That is the purpose of our coming here today.
+We feel that you are entitled to have your story told.
+d1066 1
+a1066 1
+\f2(to Ruby)\fP
+d1070 2
+a1071 2
+If you think that anything I am asking you is endangering you in any way,
+I want you to feel absolutely free to refrain from testifying any time you wish.
+d1092 1
+a1092 1
+\f2(Olsen, Ruby and Decker.)\fP
+@
+
+
+1.12
+log
+@some cosmetics
+@
+text
+@d6 4
+a9 3
+.TL
+October at the Carousel \- Libretto
+
+d13 1
+a15 1
+(\f2CONS p577\fP)
+d42 1
+a42 1
+But before you go to Houston, Rose,
+d85 1
+a85 1
+Look, Rose, to go to Houston I need someone I can trust.
+d103 1
+d106 1
+a106 1
+that means we can't do work together any more, Rose.
+d139 1
+a139 1
+Fucked. She's a crackpot. But she's very desperate.
+d145 1
+a145 1
+Oh, that one.
+d153 1
+a153 1
+(\f2SLHO 175,176,177\fP)
+d161 1
+a161 1
+at the back to the stage and takes the microphone from it's stand.
+d166 1
+a166 1
+the audience is full of important people,
+d172 1
+a172 1
+and I've enjoyed having them too, every one of them.
+d175 1
+a175 1
+it's been a busy month, and it's not finished yet\ !
+d177 1
+a177 1
+Some of you, yes I recognise you,
+d180 1
+a180 1
+I bet you're just itching to get home and tell the wife all about it,
+d195 1
+a195 1
+Act One, Scene Three; At a Table in the Carousel CLub
+d197 1
+a197 1
+KOAP 109, NAMED 62-63
+d201 2
+a202 2
+This is Lee Oswald, of the CIA . \ \ . \ \ .
+Lee, my friends here will need to be on the top floor of the Depository
+d205 1
+a205 1
+Sounds important.
+d210 1
+a210 1
+they give the timing for the guys at the Trade Mart.
+d214 1
+a214 1
+So, you work there, and we need you to just hang around in the lunch room
+d219 2
+a220 2
+Well, Lee, it's important you don't get photographed at a window.
+You are one of the conspspirators, after all . . .
+d225 2
+a226 2
+It's an important link in the chain,
+in fact it's why you're working in the Book Depository, Lee;
+d228 1
+a228 1
+Can you do that, Lee ?
+d250 4
+a253 1
+then J.D. drives you to the plane.\ \  O.K ?
+d281 1
+a281 1
+I bet there's so much you could tell me when we're alone.
+d286 1
+a286 1
+\f2The club lights are dimmed, leaving just this table illuminated.\f2
+d288 1
+a288 1
+What d'you think of Lee ?
+d299 1
+a299 1
+.IP \f2Cain\fP 2c
+d301 3
+a303 2
+.IP \f2Ruby\fP 2c
+Who cares.  He'll be shot by a cop after he shot one of them. (\f2pause\fP)
+d305 1
+a305 1
+That's good. (\f2smiles\fP) That's neat.
+d311 1
+a311 1
+To look good, it's necessary that he kill J.D.;
+d321 3
+a323 2
+Hey. When Lee finds out it was in the Plaza, he'll get very suspicious.
+He'll work out that we must know that he betrayed the Trade Mart to the Bureau,
+d325 2
+a326 1
+.IP \f2Nicoletti\fP 2c
+d335 2
+a336 1
+but most likely he'll go to his meeting place and just wait.
+d343 7
+a349 1
+Well that's where he'll go. (\f2pause\fP)
+d351 2
+a352 2
+I'll send J.D. to pick him up at home.
+If J.D. offers him a lift to a plane, he might take the lift.
+d354 2
+a355 2
+Preferably he shoots a cop at the cinema, else we have to arrest him,
+and Jack will have to shoot him later.
+d359 1
+a359 1
+No, this is not Dealey Plaza, this is \f3aft\fPerwards,
+d366 1
+a366 2
+O.K. Gentlemen, it's been a long day.
+So; this is what we have . \ . \ . \ \ 
+d370 1
+a370 1
+if Lee shoots a cop, then we shoot him, and that's great,
+d373 1
+a373 1
+If Lee doesn't shoot a cop, then we have to arrest him;
+d386 1
+a386 1
+.IP \f2Olsen\fP 2c
+d396 2
+a397 1
+when your own President is a security risk . . .
+d399 2
+a400 2
+Still, two days to go, and you'll all be heroes, with friends in power.
+Maybe three or four days for Sparky.
+d410 2
+a411 1
+\f2A grassy bank sloping upwards towards a wall of chest height
+d413 1
+a413 1
+At the right end of the wall there is a concrete pillar.
+d418 1
+a418 1
+starts filming it, panning slowly from stage right to stage left.\fP
+d425 1
+a425 1
+About frame 320, two more shots from stage right.
+d435 1
+a435 1
+from stage right to upper stage left.
+d443 2
+a444 2
+\f2Ruby enters stage right, walks across to the left end of the wall;
+Robert MacNeil turns away from the fence and walks off stage right.
+a445 1
+( References: KOAP 34, 37, 50-57, 188-191, 210, SHLO 114, 191. )\fP
+d450 1
+a450 1
+(\f2SHLO 150 \- 153)
+d486 1
+a486 1
+she will not intervene, but what she hears, Carlos hears, and Santos.
+a487 1
+
+d489 1
+a489 1
+So what th fuck happened ?
+d503 3
+a505 2
+Your goons pushed Rose out the car and guess what,
+now she's in hospital and talking.
+d508 1
+a508 1
+The next time they push her out the car, they run over her afterwards.
+d510 1
+a510 1
+The next time they run her over, they shoot her in the head first !
+d517 1
+a517 1
+In Homicide, Fritz's office.
+d530 1
+a530 1
+Oh, so it's OK if the cops avoid suspicion
+d535 1
+d539 1
+a539 1
+But th son of a bitch is surrounded by police !
+d542 4
+d548 2
+a549 1
+You com in with the newsmen,
+d564 4
+a567 4
+that they told him about all your friends there, Jack,
+and how helpful you've been;
+well you can imagine how that would go down . . .
+so that if Lee lives, he opens his mouth, and you die . . . \f2(pause)\fP
+d571 3
+d580 2
+a581 2
+No inconvenient journalists, plenty of dope, plenty of boys,
+people there would respect you, Jack,
+d585 1
+d587 1
+a587 1
+A hero in a jail, while you're off fucking your way round the world !
+d597 1
+a597 1
+The son of a bitch doens't deserve to live !
+d603 1
+a603 1
+Him or you, Jack.  Close up, on Sunday morning.
+d605 1
+a605 1
+In my family, we're good close up; the closer we are, the better we get.
+d617 1
+a617 1
+You fucking baby !  You never been up close !  You can't do it !
+d619 1
+a619 1
+Stomach, heart, head, all from the left side, angled downwards.
+d621 2
+a622 2
+The stomach shot is magnificent.
+You line it up right and it goes through everything that's in there,
+d624 2
+a625 1
+it's fatal on its own, and it hurts like hell \- it's a speciality.
+d627 4
+a630 4
+Then the shot to the heart goes through both lungs as well,
+and as the head bows forwards
+you can line up the whole thing from the top to the brainstem with one shot.
+But you must time it right, so the gun's in place just as the head comes down.
+d635 1
+a635 1
+you line them up and shoot \f3through\fP them.
+d637 2
+a638 2
+before you start moving, you see the whole thing.
+Then it takes place because you've seen it.
+d645 1
+a645 1
+I'm behind the crowd, behind the lights;
+d648 1
+a648 1
+he won't even see me till I'm up close and through his insides.
+d651 1
+a651 1
+security reasons, you know . . . \f2(smiles)\fP
+d666 4
+a669 3
+Don't make fun of me, Harry, this is important.
+Tom Howard told me.
+We have to make a reason I could just be walking by there at the time.
+d672 1
+a672 1
+The Western Union is pretty close, you could cable someone some money ?
+d678 3
+a680 3
+Yeah, and we've been closed for two days, they could probably use the money.
+\f2(pause)\fP\ \ \ 
+Especially the junkies.
+d682 1
+a682 1
+I could talk to Little Lynne, she'll phone you Sunday morning
+d685 2
+a686 1
+That bastard Curry, he'll see me, and if he sees me . . .
+d688 1
+a688 1
+He won't be there, Jack,
+d690 2
+a691 1
+Oswald will be there, the lights will be there, it will all be just perfect.
+d699 4
+a702 3
+\f2From centre stage,
+three corridors at right angles lead stage left, upstage, and stage right.
+The front corridors are filled with reporters, cameramen, police and Jack Ruby.
+d704 1
+a704 2
+a door on the stage-right side of this corridor is labelled "Homicide".
+Refs: SLHO 185, KOAP 105, CONS 480, TJR 130.\fP
+d726 1
+a726 1
+Has Oswald been mistreated during the interrogation ?
+d736 3
+a738 1
+It's known he is a member of the "Free Cuba Committee" . . .
+d743 2
+a744 2
+As long as we are denied access to the suspect,
+those rumors of mistreatment and torture will continue,
+d748 2
+a749 2
+Ah, well, in the circumstances,
+I will see if that can be arranged . . .
+d764 24
+a787 6
+CONS 483-4, TJR 143, 186-7;
+Ruby arrives behind the TV cameras.
+An officer points that out to Decker;
+Decker tells him not to worry.
+The officer demands a review of security arrangements
+Decker orders him back to his car,
+d814 5
+d828 1
+a828 1
+.IP \f2Brown\fP 2c
+d832 2
+a833 2
+No one denies, your honour, that my client shot and killed Lee Oswald.
+He did it on prime time T.V..
+d835 1
+a835 1
+the vena cava, the major blood vessel bringing blood to the heart,
+a836 1
+the aorta, the major blood vessel in the abdomen taking blood from the heart,
+d838 1
+a838 1
+It was a lucky shot, a freak shot, and a woeful wound,
+d841 7
+a847 1
+
+d851 1
+a851 1
+This is what caused the unpredictable, unplanned, spontaneous
+a853 8
+
+Imagine the barely suppressed fury with which my client lives,
+to be a Jew boy in a Jew-hating hole like Dallas !
+.IP \f2Ruby\fP 2c
+Hey !
+.IP \f2Brown\fP 2c
+Silence in court !
+.IP \f2Belli\fP 2c
+d863 2
+a864 2
+.IP \f2Brown\fP 2c
+Silence !
+d869 20
+a888 8
+\f2SHLO 216-217, KOAP 93, 199, CONS 454-456, LIFE 26-27, MKPK 155, 195-207, 325,
+NAMED 26.
+An austere little jury room with a sink at one end,
+and a long narrow table round which they all sit.
+Ruby wears sandals and a white jumper with several buttons undone;
+he is terribly tense.
+\fP
+
+d901 1
+a901 1
+No one requested me to do anything.
+d905 1
+a905 1
+I never spoke to anyone about attempting to do anything . . .
+d909 1
+a909 1
+No underworld person made an effort to contact me.
+d911 1
+a911 1
+Was this premeditated at all ?
+d929 3
+a931 2
+.LP
+Ruby says something about there being more, or tries to drop names . . .
+d933 3
+d944 9
+d955 1
+a955 4
+\s-3\f2(In LIFE Gerald Ford reports
+"Now be a man with a bunch of men that have come a long way to give you the
+opportunity to [talk])\fP\s0
+
+d960 1
+a960 1
+has put a lot of people in jeopardy of their lives.
+d966 1
+a966 1
+and it was a stupid thing, but I was just carried away emotionally"
+d974 3
+a976 3
+This guy is unstable, He's a nut, just like Oswald !
+One kills the other ! Ha !
+But the story he told us before, seems reasonable . . .
+d979 2
+a980 1
+He does seem, as you say, unstable.
+d989 3
+a991 1
+
+d1000 10
+a1009 1
+Well, Mr Ruby, if . . .
+d1016 2
+a1017 2
+Does that make sense to you ?  . . .
+
+d1025 1
+a1025 1
+
+d1031 1
+a1031 1
+But we have your testimony.
+a1041 4
+.IP \f2Warren\fP 2c
+\f2(to Ford)\fP
+I have to concur with my colleague Judge Brown;
+this man is completely unstable.
+d1043 5
+a1047 1
+Well, Mr Ruby, is there anything more you, er, feel you should, er, tell us ?
+d1050 3
+a1052 2
+you will have to get me to Washington soon,
+because it has something to do with you, Chief Justice Warren . . .
+d1054 1
+a1054 1
+Well, the public attention it would attract,
+d1056 1
+a1056 1
+we have no place there for you to be safe when we take you out,
+d1058 2
+a1059 1
+and it isn't our responsibility to go into anything of that kind.
+d1063 6
+a1068 2
+.LP
+\f2Exeunt Ford and Warren. Exeunt Olsen, Ruby and Decker.\fP
+@
+
+
+1.11
+log
+@rework car scene, touch commission scene
+@
+text
+@a260 4
+.IP \f2Oliver\fP 2c
+\f2( no, no . . . )\fP What brings you to the Carousel Club, Lee ?
+.IP \f2Oswald\fP 2c
+Oh, the steak, maam.  I like the way they do it with the peppercorns here.
+a261 1
+Well do they really ? I never tried that !  Did you try that, Beverly ?
+d264 1
+a264 1
+Ah, Geneva can't be here, she got took poorly, she's not feeling so good.
+d270 1
+a270 1
+Poor Rose, she wasn't feeling so good, she souldn't even see straight,
+d275 1
+a275 1
+yoy know so many things,
+a276 2
+.IP \f2Oswald\fP 2c
+I'd rather talk about what I'm going to eat when we get there, ma'am.
+d281 1
+a281 1
+The club lights are dimmed, leaving just this table illuminated.
+d358 1
+a358 1
+(\2they laugh\fP)
+d395 1
+a395 1
+A grassy bank sloping upwards towards a wall of chest height
+d402 1
+a402 1
+starts filming it, panning slowly from stage right to stage left.
+d404 1
+a404 1
+A shot rings out (frame 150).
+d412 1
+a412 1
+One more shot rings out.
+d414 1
+a414 1
+The Umbrella Man folds his umbrella and sits down, chatting with an
+d420 1
+a420 1
+One of them kicks Gordon Arnold, takes the file from his camera,
+d425 1
+a425 1
+peering over the stockade fence.
+d427 1
+a427 1
+Ruby enters stage right, walks across to the left end of the wall;
+d430 1
+a430 1
+\f2( References: KOAP 34, 37, 50-57, 188-191, 210, SHLO 114, 191. )\fP
+d435 1
+a435 1
+(\f2SHLO 150 \- 153\fP)
+d446 2
+a447 2
+Eventually they get to Oswald;
+.IP \f2McDonald\fP 2c
+d449 1
+a449 1
+.IP \f2Oswald\fP 2c
+d451 3
+a453 4
+.LP
+He jumps up, floors Officer Nick McDonald with a punch.
+He pulls a gun and makes to shoot McDonald, but it fails to go off.
+.IP \f2Applin\fP 2c
+d455 3
+a457 4
+.LP
+Ruby just looks at Applin.
+Oswald is wrestled to the ground and is arrested.
+.IP \f2Oswald\fP 2c
+d461 1
+a461 1
+.IP \f2McDonald\fP 2c
+d463 1
+a463 2
+.LP
+Oswald is bundled out the the back of the auditorium.
+d475 1
+a475 1
+So what happened ?
+d494 1
+a494 1
+.IP \f2 Olsen\fP 2c
+d516 1
+a516 1
+provided it falls on my family, huh ?
+d523 1
+a523 1
+But he's surrounded by police !
+d572 1
+a572 1
+The son of a bitch doens't deserver to live !
+d576 1
+a576 2
+If he'd done that in England,
+he would have been dragged through the streets and hanged !
+d670 1
+a670 1
+From centre stage,
+d675 1
+a675 1
+Refs: SLHO 185, KOAP 105, CONS 480, TJR 130.
+d679 2
+a680 1
+\f2(he is allowed through, and enters the "Homicide" door)\fP
+d733 2
+a734 2
+CONS 483-4;  Tom Howard is waiting behind the TV cameras.
+Ruby arrives.
+a738 1
+
+d742 1
+a742 1
+and his left elbow held by Graves.
+d762 1
+a762 1
+.IP \f2Policemen\fP 2c
+d818 1
+a818 1
+SHLO 216-217, KOAP 93, 199, CONS 454-456, LIFE 26-27, MKPK 155, 195-207, 325,
+a819 1
+.LP
+d824 1
+a824 1
+\s-3(LIFE)\s0
+d899 2
+a900 1
+.IP \f2Ford\ (to\ Warren)\fP 2c
+d904 2
+a905 1
+.IP \f2Warren\ (to\ Ford)\fP 2c
+d908 2
+a909 1
+.IP \f2Ford\ (to\ Decker)\fP 2c
+d911 2
+a912 1
+.IP \f2Decker\ (to\ Ford)\fP 2c
+d935 1
+a935 1
+er, if, you went back to Washington ?
+d957 2
+a958 1
+.IP \f2Warren\ (to\ Ford)\fP 2c
+@
+
+
+1.10
+log
+@car scene tightened up a bit
+@
+text
+@d363 2
+a364 1
+if Lee shoots a cop, then we shoot him, and that's great, that's the story.
+a482 9
+And your goons didn't do so well with Rose,
+they pushed her out the car and guess what, now she's in hospital and talking.
+.IP \f2Ruby\fP 2c
+The fucking jerks !  They know nothing !
+The next time they push her out the car, they run over her afterwards.
+.IP \f2 Olsen\fP 2c
+The next time they run her over, they shoot her in the head first !
+.IP \f2Ruby\fP 2c
+Yeah. Then run over the head ! (\f2they smile. Kathy seems upset.\fP)
+d497 12
+d513 23
+d537 5
+a541 3
+there'll be some newsmen in the garage to see him get into the car.
+And that's where you kill him at close range, Jack,
+Because if Oswald lives, everyone will know about your friends at the Bureau.
+d543 2
+a544 1
+What a shame, Harry, she's such a pretty girl, such pretty ears she has !
+d548 1
+d554 2
+a555 1
+and how helpful you've been; well you can imagine how that would go down . . .
+d562 1
+d589 1
+a589 1
+
+d595 1
+a595 1
+round the corner into the garage, you just wait there.
+d632 2
+a633 2
+That's when I push through the crowd, he won't even see me
+till I'm up close and through his insides.
+d636 1
+a636 1
+for security reasons, you know . . . \f2(smiles)\fP
+d651 2
+a652 1
+Don't make fun of me, Harry, this is important. Tom Howard told me.
+d681 19
+a699 1
+SLHO 185, KOAP 105, CONS 480
+d701 3
+a703 1
+a member of the "Free Cuba Committee" . . .
+d705 15
+d721 10
+a730 4
+.br
+\f2An important distinction \-
+the Free Cuba Committee is an anti-Castro group,
+not the legend that Oswald was creating.
+d749 14
+a762 6
+.IP \f2Ruby\fP 2c
+I walked into a trap when I walked down here.
+I wasn't clean enough.
+I've taken thirty antibiotic and Dexedrine pills;
+they stimulate you.
+.IP \f2Reporter\fP 2c
+d764 18
+d788 1
+d791 4
+a794 1
+The bullet passed through the left lung, the liver, two major arteries,
+d808 1
+a808 1
+to be a Jew in a Jew-hating hell hole like Dallas !
+d829 2
+a830 1
+SHLO 216-217, KOAP, CONS 454-456, LIFE 26-27.
+d865 1
+d887 1
+a887 1
+I want to tell the truth, and I can't tell it here.
+d891 1
+a891 1
+\s-3\f2(In LIFE Cerald Ford reports
+d903 8
+a910 1
+
+d912 1
+a912 3
+This guy is unstable, and paranoid. He's a nut.
+Another nut !
+Another nut, just like Oswald !
+d914 1
+a914 3
+But aside from his paranoid ramblings,
+the story he told us before, seems reasonable,
+and certainly consistent with, everything the FBI, knows to be true . . .
+d919 1
+a919 1
+Can you control the situation whatever arises ?
+@
+
+
+1.9
+log
+@revise first half
+@
+text
+@d482 10
+d497 2
+a498 2
+He did ! But it didn't go off, Nick McDonald put his hand up
+and got it stuck in the firing pin !
+d501 1
+a501 1
+He tried to shoot, you could have shot him anyway.
+d506 1
+a506 18
+Fuck ! So now he's 
+
+.IP \f2Olsen\fP 2c
+Your goons didn't do so well with Rose,
+they pushed her out the car and she's in hospital and talking.
+.IP \f2Ruby\fP 2c
+The fucking jerks !
+Don't they know anything ?
+The next time they push her out the car, they run over her afterwards, OK ?
+.IP \f2 Olsen\fP 2c
+The next time they run her over, they shoot her in the head first !
+.IP \f2Ruby\fP 2c
+Yeah. Then run over the head ! (\f2they smile. Kathy seems upset.\fP)
+
+.IP \f2Olsen\fP 2c
+They should cut this guy inch by inch into ribbons.
+.IP \f2Kathy\fP 2c
+I
+d508 5
+a512 1
+Because if Oswald lives, they'll find out about your friends at the Bureau.
+d514 1
+a514 1
+What a shame, Harry, she was such a pretty girl, such pretty ears she has !
+d516 1
+a516 7
+\f2(to Kathy)\fP This, erm, this bit is private, Kathy.
+D'you want to wait outside ?
+.IP \f2Kathy\fP 2c
+I'm with you, Harry, I'm dead without you, Harry,
+and I know what private means.  I'll go out if you want.
+.IP \f2Olsen\fP 2c
+\f2(to Ruby)\fP OK ?
+d518 1
+a518 1
+OK.
+d520 6
+a525 3
+Your friends at the Bureau are so keen to see the last of Lee
+that they told him about your friends at the Bureau, Jack,
+so that if he lives, you die . . . \f2(pause)\fP
+d527 2
+a528 2
+\f2(to himself)\fP\ \ \  I'm not clean enough.
+I've walked into a trap.
+d543 1
+a543 1
+We're all in this together, Jack, not just us here,
+d545 11
+d574 1
+a574 1
+The stomach shot alone is magnificent.
+d577 1
+a577 1
+it's fatal by itself, and hurts like hell \- it's a speciality.
+d582 1
+a582 1
+But you must time it right, so the gun's in place as the head comes down.
+d586 2
+a587 2
+the secret of being up close is to see the insides,
+you line them up and shoot through them.
+d607 2
+a608 1
+No, Jack, out of him ! You not in this alone, Jack. \f2(pause)\fP
+d610 1
+a610 1
+One more thing.
+d618 1
+a618 2
+Don't make fun of me, Harry, this is important.
+Tom Howard told me.  He's a good man.
+d624 1
+a624 1
+I don't want my friends mixed up in this !
+d628 1
+d630 1
+a630 2
+Yeah, we've been closed for two days, they could probably use the money,
+especially the junkies.
+d632 2
+a633 2
+I could talk to Little Lynne,
+she'll phone you in the morning to ask for some money.
+d635 1
+a635 1
+That bastard Curry, he'll do everything to fuck it up.
+d638 1
+a638 1
+he'll just happen to be taking an urgent phone call from the Mayor.
+d691 2
+a692 2
+It was a lucky shot, and a woeful wound,
+inflicted by a violent man, with a long history of violence,
+d699 2
+a700 1
+outburst of violent fury on the morning of Sunday 24th of October.
+d702 1
+a702 1
+Imagine the barely suppressed fury under which client lives,
+d711 5
+a715 2
+and my client also suffers from
+village idiocy, latent homsexuality, and gonhorrea !
+@
+
+
+1.8
+log
+@added whole of first two scenes
+@
+text
+@d7 1
+a7 1
+The Carousel Club. Libretto
+d14 1
+d29 1
+a29 1
+I bet you're looking forward to going to Houston, Rose !
+d31 1
+a31 1
+you'll have a good time in Houston, I know.
+d35 2
+a36 2
+You do a good job in Houston, Rose,
+you always get the stuff here; \'fact I think
+d48 1
+a48 1
+you just be there at the right time.
+d53 4
+a56 3
+is this cop calls out to this guy,
+who's running away,
+and then this guy pulls out a gun and shoots the cop.
+d76 2
+a77 1
+The guy is scum ! He's better off dead !
+d80 1
+a80 1
+That the guy is supposed to have shot ?
+d88 1
+a88 1
+Listen here, Rose, or you'll not be running drugs for me no more,
+d90 3
+a92 3
+someone who can \f3do\fP what needs to be \f3done\fP !
+What is this, bitch ?  You're a junkie !
+A junkie, and all of a sudden you can't tell a lie ?  What is this !
+d97 1
+a97 1
+Try Helen
+d99 1
+a99 1
+Helen's a crackpot, Rose, no-one would believe her.
+d101 1
+a101 1
+you just \f3say\fP you saw the guy shoot the cop.
+d105 1
+a105 1
+Is this what you want ?
+d125 1
+a125 1
+Do those goons know she needs an accident now ?
+d127 1
+a127 2
+I told them.
+Another junkie that will never tell a lie again.
+d129 1
+a129 1
+Well come on, Jack, bearing false witness can't be too hot to handle.
+d141 5
+a145 1
+I gotta go on stage. Tell Larry to get Helen in. Helen Markham.
+d151 1
+a151 1
+SLHO 175,176,177
+d154 4
+d163 3
+a165 1
+this is your host, Jack Ruby, and I've enjoyed having you here.
+d168 1
+a168 2
+even the audience is full of important people tonight,
+and on stage it's glamorous girls girls girls all the way !
+d172 2
+d177 3
+a179 5
+showing you this bit and that bit,
+ooohh, I swear I don't know how you manage.
+I bet you're all just itching
+to get home and tell the wife all about it,
+well don't go home yet !
+d181 2
+a182 2
+Get yourself another drink and settle down for the climax of the evening !
+You don't believe me ?
+d187 3
+a189 3
+Little Lynne will show you what you came here for !
+Little Lynne, luscious, lascivious, and beautiful beyond describing !
+Gentlemen, put your hands together to welcome our star turn, Little Lynne !
+d205 4
+a208 1
+They have radios; they give the timing for the guys at the Trade Mart.
+d210 1
+a210 1
+I have training in Communications \- is that why I'm there ?
+d212 2
+a213 2
+No, you work there, so we need you to just hang around in the lunch room
+and make sure no-one goes up the stairs and disturbs them.
+d215 1
+a215 1
+Whaddya know ! I don't even get to see the motorcade !
+d217 4
+d224 1
+a224 1
+and it's why you're working in the Book Depository, Lee;
+d230 1
+a230 1
+something more important for in the operation.
+d243 15
+a257 9
+Yeah . \ \ . \ \ .
+Hey, Lynne, come over here and meet my friends !
+Lynne, these are friends of mine from Chicago
+I want you to make feel real welcome in Dallas,
+Hey, Beverly \f2( beckons )\fP, 
+\f2( to Lynne )\fP and this is Lee Oswald of the CIA.
+Lee, meet Beverly, Beverly sings at the Colony Club next door,
+Beverly, this is Lee Oswald from the CIA.
+.IP \f2Oliver\fP 2c
+d271 1
+a271 1
+Het Sparky, is Rose around ?
+d275 1
+a275 1
+Poor Rose, she wasn't feeling so good, she just didn't look right.
+d279 5
+d286 1
+a286 1
+Act One, Scene Four; Jack Ruby's Office
+d288 81
+a368 2
+The bodyguards report throwing Rose out of the car.
+Olsen comes in to say Rose survived and is in hospital.
+d370 27
+a396 9
+You fucking jerks !
+Don't you know anything ?
+The next time you push her out the car, you run over her afterwards, OK ?
+.IP \f21st\ Bdygd\fP 2c
+The next time we run her over, we shoot her in the head first !
+.IP \f22nd\ Bdygd\fP 2c
+Yeah. Then we run over the head !
+.IP \f21st\ Bdygd\fP 2c
+Yeah !  \f2( They laugh. Curtain. )\fP
+d439 1
+a439 1
+Act Two, Scene Two; A Corridor in the Police Station
+d441 14
+a454 11
+SLHO 185, KOAP 105, CONS 480
+.IP \f2Curry\fP 2c
+a member of the "Free Cuba Committee" . . .
+.IP \f2Ruby\fP 2c
+That's the "Fair Play for Cuba Committee"
+.br
+\f2An important distinction \-
+the Free Cuba Committee is an anti-Castro group,
+not the legend that Oswald was creating.
+.IP \f2Reporter\fP 2c
+Did you shoot the President ?
+d456 9
+a464 3
+I didn't shoot anybody, no sir. I'm just a patsy !
+.IP \f2Reporter\fP 2c
+Well why'd they arrest you ?
+d466 7
+a472 1
+They've brought me in because I lived in the Soviet Union !
+d483 9
+a491 4
+You fucking jerks !
+You can't even kill a patsy !
+You had it all ready for you,
+but you're so fucking stupid you forgot to bring the victim !
+d493 14
+a506 1
+Lee didn't come out, he smelt it, man !
+d508 2
+d513 1
+d640 22
+a661 1
+Act Two, Scene Four; The Basement Office and the Garage in the Police Station
+d665 4
+d680 1
+d682 16
+d699 3
+d703 8
+@
+
+
+1.7
+log
+@filled out lots of Warren scene
+@
+text
+@d1 1
+d11 131
+d146 34
+a179 1
+"Your Master of Ceremonies, Jack Ruby !"
+d184 18
+a201 1
+KOAP 109
+d203 30
+a232 1
+Lee Oswald from the CIA.
+d234 1
+d236 19
+d260 6
+a265 4
+Civillo lets Ruby know he will have to do the job himself.
+Decker comes in to say Rose survived and is in hospital.
+Civillo and Decker lean on Ruby to kill Oswald.
+.IP \f21st\ Bodyguard\fP 2c
+d267 1
+a267 1
+.IP \f22nd\ Bodyguard\fP 2c
+d269 2
+a270 2
+.IP \f21st\ Bodyguard\fP 2c
+Yeah !
+d276 35
+a310 1
+Ruby stage right,
+d334 14
+a347 8
+Act Two, Scene Three; Ruby's Appartment ?  or at the club ?
+.LP
+SHLO 179, 180, 212; KOAP 104, Calls Bill Grammer, "We will kill him".
+Olsen ?
+Civillo ? calls Ruby to remind him he owes the IRS $40,000
+and needs favours in his fight with the AGVA.
+.LP
+Or, CONS 479; Ruby sounds "very broken up"; laments being exiled to Dallas.
+a348 1
+I never felt so bad in my life, even when Ma or Pa died.
+d351 38
+d390 86
+d481 1
+a481 4
+Ruby arrives. Howard tells Ruby to say
+he shot Oswald to keep Jackie Kennedy from coming back here to testify.
+He remonds him to shoot three
+He pokes
+d487 9
+d500 7
+a506 1
+SHLO 216-217, KOAP, CONS 454-6.
+d560 4
+d632 1
+a632 1
+I have to concure with my colleague Judge Brown;
+@
+
+
+1.6
+log
+@filled out first stuff from CONS
+@
+text
+@d84 2
+a85 1
+CONS 483-4;  Tom Howard tells Ruby to say
+d87 1
+a87 1
+He lets Ruby through to the garage.
+d89 5
+d98 43
+a140 1
+SHLO 216-217, KOAP 
+a141 3
+I walked into a trap when I walked down there.
+I wasn't clean enough.
+I'd taken thirty antibiotic and Dexedrine pills; they stimulate you.
+a144 1
+
+d151 1
+a151 2
+Be a man and speak up !
+
+d160 18
+d185 4
+a188 1
+
+d196 2
+a197 1
+Is there anything more you can tell us if you went back to Washington?
+d219 6
+a224 1
+
+a227 1
+I want to tell the truth, and I can't tell it here !
+d237 2
+@
+
+
+1.5
+log
+@filled out with more authentic quotes
+@
+text
+@d6 1
+a6 1
+The Carousel Club
+d12 4
+d23 1
+d32 1
+a32 1
+.IP \f21st Bodyguard\fP 2.5c
+d34 1
+a34 1
+.IP \f22nd Bodyguard\fP 2.5c
+d36 1
+a36 1
+.IP \f21st Bodyguard\fP 2.5c
+d48 1
+a48 1
+SLHO 185 KOAP 105
+d53 4
+d67 1
+a67 1
+Act Two, Scene Three; Ruby's Appartment ?
+d69 3
+a71 2
+SHLO 180, 212; KOAP 104, Calls Bill Grammer, "We will kill him".
+Civillo calls Ruby to remind him he owes the IRS $40,000
+d73 6
+a79 2
+.SH
+Act Two, Scene Four; The Garage in the Police Station
+d82 6
+a87 2
+Act Three, Scene One; Jack Ruby's Trial
+SHLO 214-215
+d93 1
+a93 1
+.IP \f2Ruby\fP 2.5c
+d98 1
+a98 1
+.IP \f2Warren\fP 2.5c
+d101 1
+a101 1
+.IP \f2Ruby\fP 2.5c
+d106 1
+a106 1
+.IP \f2Decker\fP 2.5c
+d109 1
+a109 1
+.IP \f2Ruby\fP 2.5c
+d115 1
+a115 1
+.IP \f2Warren\fP 2.5c
+d117 1
+a117 1
+.IP \f2Ruby\fP 2.5c
+d131 1
+a131 1
+.IP \f2Ford\fP 2.5c
+d133 1
+a133 1
+.IP \f2Ruby\fP 2.5c
+d135 1
+a135 1
+.IP \f2Ford\fP 2.5c
+d138 1
+a138 1
+.IP \f2Ruby\fP 2.5c
+d142 1
+a142 1
+.IP \f2Warren\fP 2.5c
+d152 1
+a152 1
+.IP \f2Ruby\fP 2.5c
+d159 1
+a159 1
+.IP \f2Warren\fP 2.5c
+d165 1
+a165 1
+.IP \f2Ruby\fP 2.5c
+@
+
+
+1.4
+log
+@filled out Warren hearing from KOAP
+@
+text
+@d14 6
+d27 6
+d42 14
+a55 2
+.IP Oswald
+No sir, I'm just a patsy !
+d59 4
+a62 1
+SHLO 212
+d72 10
+a81 1
+Act Three, Scene Two; The Stage of the Carousel Club
+d83 5
+a87 3
+.SH
+Act Three, Scene Three; The Warren Commision Hearing
+SHLO 216-217, KOAP 
+d92 31
+a122 1
+I have been used for a purpose, and there will be a certain tragic occurence
+a136 21
+.IP \f2Ford\fP 2.5c
+Is there anything more you can tell us if you went back to Washington?
+.IP \f2Ruby\fP 2.5c
+Yes.  Are you sincere in wanting to take me back ?
+.IP \f2Ford\fP 2.5c
+We are most interested in all the information you have.
+
+.IP \f2Ruby\fP 2.5c
+I wan't to tell the truth, and I can't tell it here.
+I can't tell it here. Does that make sense to you ?  . . .
+Doesn't register with you, does it ?
+.IP \f2Warren\fP 2.5c
+No, I don't understand that . . .
+
+.IP \f2Ruby\fP 2.5c
+I am used as a scapegoat.
+But if I am eliminated, there won't be any way of knowing.
+Right now,
+I am the only one who can bring out the truth to our President . . .
+
+.IP \f2Ruby\fP 2.5c
+a149 1
+
+@
+
+
+1.3
+log
+@no ... at beginning of line
+@
+text
+@a8 63
+Dramatis Personnae
+.IP Jack\ Ruby 3c
+The owner of the Carousel Night Club. Baritone
+.IP Lee\ Harvey\ Oswald 3c
+Works for the CIA. Tenor
+.IP J.\ D.\ Tippit 3c
+A Dallas Police Officer
+Alternatively, Roscoe White with his wife Geneva
+.IP Beverly\ Oliver 3c
+A Dancer from the Colony Club next door.  Alto
+.IP Rose\ Cheramie 3c
+One of Jack Ruby's working girls.  Soprano
+.IP Two\ Latinos 3c
+Jack Ruby's Bodyguards.  Tenor and Baritone
+
+.IP Bill\ Decker 3c 3c
+Police
+.IP Harry\ Olsen 3c
+Police
+.IP Kathy\ Kay\ Coleman 3c
+Olsen's girl friend
+.IP Civillo 3c
+Or other Mafia boss.  Bass
+.IP Earle\ Warren 3c
+Chief Justice
+.IP Gerald\ Ford 3c
+From the FBI
+
+.SH
+Act One \- The Carousel Club
+.IP Scene\ One
+Jack Ruby's Office.
+Ruby, Oliver, Cherami, Bodyguards
+.IP Scene\ Two
+On Stage.
+Ruby, Little Lyn
+.IP Scene\ Three
+At a Table.
+Ruby, Oswald, Tippit, Oliver
+.IP Scene\ Four
+Jack Ruby's Office.
+Ruby, Bodyguards, Civillo, Decker
+
+.SH
+Act Two \- The Grassy Knoll and the Police Station
+.IP Scene\ One 3c
+The Grassy Knoll.
+Ruby, Oliver, Decker, a gunman, Secret Service, bystanders.
+.IP Scene\ Two 3c
+Police Station Corridor
+.IP Scene\ Three 3c
+Ruby, Olsen, Coleman
+.IP Scene\ Four 3c
+Police Station Garage
+
+.SH
+Act Three \- Courtrooms
+.IP Jack\ Ruby's\ Trial 3c
+.IP Scene\ Two 3c
+The County Jail; Warren Commision Hearing, June 1964.
+Ruby, Warren, Ford, Decker.
+
+.SH
+d49 2
+a50 2
+SHLO 216-217,
+.IP Decker
+d52 25
+a76 1
+.IP Ruby
+d80 1
+a80 1
+.IP Warren
+d82 21
+@
+
+
+1.2
+log
+@.SH syntax corrected
+@
+text
+@d117 1
+a117 2
+I can't tell it here. Does that make sense to you ?
+...
+@
+
+
+1.1
+log
+@back to Times Roman
+@
+text
+@d8 2
+a9 1
+.SH Dramatis Personnae
+d37 3
+a39 2
+.SH Act One \- The Carousel Club
+.IP Scene One
+d42 1
+a42 1
+.IP Scene Two
+d45 1
+a45 1
+.IP Scene Three
+d48 1
+a48 1
+.IP Scene Four
+d52 2
+a53 1
+.SH Act Two \- The Grassy Knoll and the Police Station
+d64 2
+a65 1
+.SH Act Three \- Courtrooms
+d71 9
+a79 4
+.SH Act One, Scene One; Jack Ruby's Office
+.SH Act One, Scene Two; The Stage of the Carousel Club
+.SH Act One, Scene Three; At a Table in the Carousel CLub
+.SH Act One, Scene Four; Jack Ruby's Office
+d85 3
+a87 1
+.SH Act Two, Scene One; The Grassy Knoll
+d91 2
+a92 1
+.SH Act Two, Scene Two; A Corridor in the Police Station
+d94 1
+a94 1
+No sir, I'm just a patsy
+d96 2
+a97 1
+.SH Act Two, Scene Three; Ruby's Appartment ?
+d100 2
+a101 1
+.SH Act Two, Scene Four; The Garage in the Police Station
+d103 2
+a104 1
+.SH Act Three, Scene One; Jack Ruby's Trial
+d107 2
+a108 1
+.SH Act Three, Scene Two; The Stage of the Carousel Club
+d110 2
+a111 1
+.SH Act Three, Scene Three; The Warren Commision Hearing
+@

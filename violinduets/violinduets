@@ -1,0 +1,607 @@
+% start
+5 systems 10 / 22-32-22 / 22-32-22 /22-44-22 /22-32-22 /22-32-22 8/
+lefthead Peter Billam
+title Duet 1
+righthead for two Violins
+leftfoot (c) 1987  Peter J Billam
+midi channel 1 patch 40
+% stop
+/
+4 bars | 1.4 1.1 1 1 | 1.8 1.4 | 4 | 4 |
+| 4/4 69
+I0.7        Largo
+=1 treble 4/4 smb rest cha1 leg97
+is0.7 .10 ( 69 beats per min approx )
+=2 treble 4/4 cha1 leg97 qua [G_ A_] cro B_b(2 cro. B_b)2 qua C
+|
+=1 smb rest
+=2 cro Db{2 C}2 min rest
+|
+=1 qua [D E] cro F(2 cro. F)2 qua G
+=2 min B_b A_
+|
+=1 cro Ab{2 G}2 min rest
+=2 min C cro B_n A_
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.5  5
+=1 min F E
+=2 qua G[ A] cro B'(2 cro. B')2 qua c'
+=2 min. G_, cro rest,
+|
+=1 min <G_ F#> cro E D
+=2 cro d c G_ A_
+|
+=1 qua B,[ c] cro d,(1 cro. d)1 qua e
+=2 min <B_ D> <D A>
+|
+=1' cro fn e min rest'
+=1, cro rest, dr c B
+=2' qua B[ c] min. rest'
+=2, min. G# cro D
+/
+4 bars | 1.2 1.5 1.2 1.4 1 1 1 1 | 1 1.4 1 1.4 1 1 1 1 | 8 | 8 |
+|
+=1' cro eb qua A rest' min rest'
+=1, cro rest,, qua [C D] cro Eb qua [Eb F]
+=2' qua A rest' min. rest'
+=2, qua [C D] cro Eb qua [Eb F] cro G
+|
+il0.5   10
+=1' cro G qua [G A] cro Bb Bb
+=2 qua G[ A] cro Bb' qua Bb,[ c d e]
+|
+=1' cro Bn min. blank
+=1, qua [D E] cro F qua [F G] cro A
+=2' cro f B min rest'
+=2, cro rest, qua [D E] cro F qua [F G]
+|
+=1 qua [A B'] cro c qua c[ d e f]
+=2 cro A qua [A B'] cro c c
+/
+4 bars | 1 1 1 1.6 1 1 1 1 | 1 1 1 1.6 1 1 1 1 \
+ | 1 1 1 1.2 1 1 1 1 | 1.2 1.5 1 1.5 1.2 1.2 1.2 1 |
+|
+=1' cro g f# fn e
+=1, min rest, A
+=2' cro. Bb qua c cro db c
+=2, min D blank
+|
+=1' cro. f qua g cro ab{2 g}2
+=1, min A rest,
+=2' min blank e
+=2, cro dn c# cn cro B
+|
+il0.6     15
+=1' cro f e eb d
+=1, min c rest,
+=2' cro. G# qua A# cro B A#
+=2, min blank G_(2
+|
+=1' min c c#
+=1, cro A G min rest,
+=2 min blank cro G{1 qua F#}1 rest'
+=2 qua G_)2[ A_] cro B_b(2 cro. B_b,)2 qua C,
+/
+4 bars | 1.4 1 .9 .9 .9 .9 .9 .9 | 1 1.4 .9 .9 .9 .9 .9 .9 \
+ | 1.8 1.8 2 1.8 | 1 1 1 1.5 1 1 .9 1 |
+|
+=1 qua E[ F#] cro G cro. G qua A
+=2' cro C# Cn E Eb
+=2, min blank C
+|
+=1' min rest' cro e eb
+=1, cro Bb min A cro rest,
+=2 qua D[ E] cro F#(2 cro. F#)2 qua G
+|
+=1' cro d cro. c# rest'
+=1, min rest, qua E[ F] cro G
+=2' cro Ab G min rest
+=2, min B_n cro C# D#
+|
+il0.5      20
+=1 cro. cn' qua d' cro e' d'
+=1 qua G,[ A,] cro rest, qua Bb,[ c] cro d
+=2 cro E <D Bb'> cro. G qua A
+
+6 systems 8 / 22-32-22 / 22-32-22 /22-32-22 /22-32-22 /22-40-22 / 22-38-22 5/
+pagenum 3
+innerhead Two Violin Duets, Peter Billam
+leftfoot (c) 1987  Peter J Billam
+/
+4 bars | 1.1 1.3 1.1 1.1 | 1 1.2 1 1 | 4 | 4 |
+|
+=1 cro. <d g> qua a cro bb a
+=2 qua rest'' e' cro f' min f'
+=2 cro Bb, A, c, d,
+|
+=1 cro. f qua g cro a g
+=2 cro e' d' cro. B' qua c'
+=2 cro Bn, rest, min E,
+|
+=1 cro. e' qua f' cro g' f'
+=1 min A, rest,
+=2 cro d' c' cro. A' qua B'
+=2 min rest, D,
+|
+=1 cro e' d' qua A'[ G'] cro F'(2
+=1 cro c
+=2 qua G_[ A_] cro B_(2 cro. B_)2 qua C
+/
+4 bars | 4.4 | 4 | 4 | 1.3 1 1 1 |
+|
+il0.4     25
+=1 cro. F,)2 qua E, Bb,[ c,] cro d(1
+=2 min rest cro D E
+=2        cro D, min. C,
+|
+=1 cro. d)1 qua e cro f e
+=2 cro rest' Ab' min G'
+=2 min B_b, cro. B_n, qua C,(2
+|
+=1 qua Bb,[ c] cro d(1 cro. d)1 qua e
+=2' cro D E qua E[ F] cro G
+=2, min Cr)2 B_b
+|
+=1 cro f# e B_b A_
+=2 qua A_[ B_] cro <G' C#(2> cro. C#)2 qua D
+/
+4 bars | 1.4 1.1 1.1 1.1 | 4 | 1.2 1 1 1 | 1 1 1 1.2 |
+|
+=1' qua G[ A] cro Bn(2 cro. B)2 qua c
+=1, min blank D
+=2 cro Eb{2 D}2 a{1 g}1
+|
+il0.3  30
+=1 cro d c(2 <c)2 g> qua f#[ e]
+=2 qua F#[ G] cro A(1 cro. A)1 qua B'
+=2 qua F#[ G] cro A rest,, E,
+|
+=1 cro d' rest' rest' d'
+=1 qua E,[ F#,] cro G, qua F#,[ E,] cro D,
+=2 cro c' B' A' qua A'[ G']
+=2 cro rest,, min D, cro rest,,
+|
+=1 qua d'[ c'] cro B' qua B'[ A' G' F#']
+=1 cro D, min. rest,
+=2 cro rest' d'(1 qua d')1 rest cro D'
+=2 cro F#, qua F#,[ E,] D,[ C, B_, A_,]
+/
+4 bars |1.1 1.4 1.4 1.1|4|1 1 1.3 1.3| .8 .6 .8 .6 .7 .6 .5 .5 |
+|
+=1 qua G,[ A, B, c] d[ e f# g]
+=2 cro rest qua [D E-is1] F#[ G A B'-is3]
+=2 smb G_
+|
+=1 cro a c(1 qua c)1[ B, c A,]
+=2' qua [c d] cro e F#-is3 Fn-is2
+=2 smb G_
+|
+il0.3     35
+=1 min Bb qua A[ G# A F#]
+=2 qua F[ E F D] min D
+=2 min G_, cro B_, B_b,
+|
+=1 cro G F# rest' qua d'[ c']
+=1 cro. A_, qua rest,, G,[ F#,] cro rest,
+=2 qua C[ B_n C <Eb] A_b> min G_(2
+/
+4 bars | 1.1 1.3 1.1 1.1 | 4 | 4 | 4 |
+|
+=1 cro rest' B' A' c'
+=1 cro E, D, F#, E,
+=2 cro G_)2 qua g[ f#] d~[ c~] cro e
+|
+=1 cro B' min d' cro c#'(1
+=1 cro G, Fn, min rest,
+=2 cro <b' d,> <a' fn,> e qua [f#{1 g}1]
+|
+=1 min <c#')1 E,> <B' D,>
+=2 cro a f# g f#
+|
+il0.3     40
+=1 min <A' F#,> <c' E,>
+=2 cro d~ c~ min e
+/
+4 bars | 4.4 | 4 | 3.5 | 3.5 ||
+|
+=1 min rest' cro d' c'
+=1 cro G, F#, min rest,
+=2 min <b' d,> <a' f#,>
+|
+=1 min B' A'
+=2 smb <e c~>
+|
+il0.1 .90 '
+=1 smb <G_ G>
+il0.02 .90 '
+=2 smb <d b>
+|
+=1 smb <G_ G-fermata>
+=2 smb <B_ D-fermata>
+midi pause 3.7
+
+5 systems 15 / 22-32-22 / 22-45-22 /22-32-22 /22-32-22 /22-32-22 /
+lefthead Peter Billam
+title Duet 2
+righthead for two Violins
+leftfoot (c) 1987  Peter J Billam
+/
+2 bars |: 6.4 | 6 |
+| 6/4 110
+=1' treble 6/4 cha1 leg92 qua [g-ten-Imf, Bb-.-Ip, A-.-Ip, Bb-.-Ip,] \
+ [e-ten Bb-. A-. Bb-.] [d-ten Bb-. A-. Bb-.]
+i0.7 .40 sim . . .
+=2 treble 6/4 cha1 leg92 qua [G_-ten D-. C#-. D-.] \
+ [A_-ten D-. C#-. D-.] [B_b D-. C#-. D-.]
+|
+=1, qua [d-ten A-. G#-. A-.] [c-ten A-. G#-. A-.] [B-ten A-. G#-. A-.]
+=2  qua [B_n-ten F-. E-. F-.] [C-ten F-. E-. F-.] [D-ten F-. E-. F-.]
+/
+2 bars | 6.4 | 6 :||
+|
+=1, qua [e-ten A-. G#-. A-.] [B-ten A-. G#-. A-.] [c-ten A-. G#-. A-.]
+=2 qua [C-ten F#-. E#-. F#-.] [D-ten F#-. E#-. F#-.] [D#-ten F#-. E#-. F#-.]
+|
+=1, qua [a-ten c-. B-. c-.] [f-ten c-. B-. c-.] [f#-ten c-. B-. c-.]
+i0.6 .03 rit  .  .  .  .78 .  .  tempo
+=2  qua [E-ten A-. G#-. A-.] [D-ten Ab-. Gn-. Ab-.] [A_-ten Eb-. D-. C-.]
+/
+3 bars | 6.6 | 3 4 | 6 |
+| 4/4 110
+il0.4     5
+=1, 4/4 qua [g-ten Bb-. A-. B-.] [f#-ten Bb-. A-. B-.]
+=2  4/4 min G_-emph qua B_{2 cro. C}2
+i0.4                   cantabile . . .
+|
+=1, qua [fn-ten B-. A-. B-.] [d-ten A-. G#-. A-.]
+=2 min D  smq rest, E{2[ D C D E}2 qua F]
+|
+=1 qua [c#-ten A,-. G#,-. A,-.] [Bb'-ten Gn-. F#-. G-.]
+=2 cro. E-emph qua D{2 cro C}2 D-emph(2
+/
+3 bars | 6.6 | 6 | 6 |
+|
+=1 qua [A-ten F#-. E#-. F#-.] [G-ten A-. Bb'-. A-.]
+=2 min D)2  smq rest, [E{2 D C D E}2 qua F]
+|
+=1 qua [Bb'-ten Eb-. D-. Eb-.] [En,-ten db-. c-. db-.]
+=2 cro F# qua [G A] cro. G qua A-emph(2
+|
+il0.6   10
+=1, qua [c-ten f-. e-. f#-.] [g-ten A-. eb-. A-.]
+=2 smq A)2[ G qua A] qua. [B'-emph smq A qua G] qua. [F#-emph smq C qua A_]
+/
+3 bars | 6.6 | 6 | 6 |
+|
+=1 cro. g-emph qua e cro. d-emph qua e{1
+i0.6             cantabile . . .
+=2 qua [G_-ten D-. C#-. Cn-.] [B_-ten G-. F-. E-.]
+|
+=1 qua f#}1 cro. g-emph qua e cro d-emph qua e{1
+=2' qua [D-ten Bb-. A-. G-.] [F#-ten c-. Bn-. A-.]
+|
+=1 qua f#}1 cro g-emph qua a qua. [b-emph smq a qua. g-emph smq f#]
+=2' qua [d-ten B-. Bb-. A-.] [G-ten C-. B_-. C#-.]
+
+6 systems 8/ 22-32-22 / 22-32-22 /22-32-22 /22-32-22 /22-36-22 8/ 20-32-20 12/
+pagenum 5
+innerhead Violin Duet 2, Peter Billam
+leftfoot (c) 1987  Peter J Billam
+/
+3 bars | 1 1 1 1.2 1 1  1 1 1 1.2 1 1  1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1.2 1 1 1 1 \
+ | 1.2 1.7 1 1 1 1 1 1.7 1 1 1 1 1 1 1 1 |
+|
+=1 qua. d[ smq c qua B,] qua. A,[ smq c qua e] qua. d[ smq c]
+=2 qua [D-ten Eb-. D-. F-.] [E-ten G#-. F#-. A-.]
+|
+il0.4      15
+=1 qua B' cro. A qua. A,[ smq B qua c] qua d(1
+=2 qua [G-ten Db-. C-. Eb-.] [F-ten Eb-. En-. F#-.]
+|
+=1 smq [d)1 e qua f#] qua. [g smq e qua c#] cro. d
+=2 qua [G-ten A-. B'-. c#'-.] [E-ten F#-. G-. A-.]
+/
+3 bars | 8.8 | 8 | 1.4 1 1 1.4 1 1 1 1 |
+|
+=1, qua [e-ten B-. Bb-. eb-.] [c-ten Bb-. a-. db-.]
+i0.01       cantabile . . .
+=2 cro D-emph, qua E cro F# qua D cro G-emph
+|
+=1 qua [c-ten g-. f#-. fn-.] [b-ten e-. eb-. a-.]
+=2 qua A cro B qua d qua. [c-emph smq d qua B,] qua B'-emph(2
+|
+=1, qua [d#-ten e-. f-. B-.] [c#-ten dn-. A-. A#-.]
+=2 smq B')2[ A qua G] cro A-emph qua Fn cro. D
+/
+3 bars | 1.1 1.1 1.1 1.4 1.1 1.1 1.1 1.1 | 8 | 1 1 1 1 1 1 1 1.3 |
+|
+il0.5    20
+i0.19 .10 cantabile . . .
+=1 qua. [B, smq c qua d] qua. [c smq B, qua A,] qua. B'[ smq A]
+=2 qua [D-ten A_-. B_b-. C-.] [D-ten Eb-. D-. F-.]
+|
+=1 qua G qua. B,[ smq c qua d] qua. c[ smq d qua e] qua d(1
+=2 qua [Eb-ten D-. En-. F-.] [A-ten F-. C-. F-.]
+|
+=1 smq [d)1 c qua B,] qua. c[ smq A, qua B,] qua [c d smq e f#]
+=2 qua [F#-ten D-. A_-. C-.] [Eb-ten A_-. G_-. C-.]
+/
+3 bars | 8.8 | 8 | 1 1 1.3 1 1 1.3 1 1 |
+|
+=1, qua [g-ten B-. c#-. d-.] [cn-ten f-. e-. eb-.]
+=2 qua. E[ smq F# qua G] qua. B'[ smq A qua G] qua. A[ smq B']
+i0.01 .09 cantabile . . .
+|
+i0.27 .01 cantabile . . .
+=1 qua. [d smq e qua f] qua. [e smq d qua e] qua. [f# smq g]
+=2' qua [c-ten B-. A-. G-.] [F-ten E-. D-. Eb-.]
+|
+il0.5   25
+=1 qua a qua. b[ smq e qua f#] qua. g[ smq B, qua c#] qua d(1
+i0.2   cantabile
+=2 qua F[{2 G#}2 B'{2 A] Gn-emph}2[ F{2 E A-emph}2]
+/
+3 bars | 5.5 5 4 4 4 4 4 4 | 5 5 5 4 5 5 5 5 5 5 5 4 \
+ | 4 5 4 4 4 5 4 4 4 5 4 4 |
+|
+i0.3            rit . . .               . . . tempo
+=1 smq [d)1 E, qua G,] cro F# qua D cro C qua A_
+=2, qua [c{1 B A-emph}1 B{1] [c d-emph}1 e{1 f]
+| 6/4 110
+=1 6/4 qua [G_-ten D-. C#-. D-.] [A_-ten D-. C#-. D-.] [B_b-ten D-. C#-. D-.]
+=2, 6/4 qua [g-ten}1 Bb-. A-. Bb-.] \
+ [e-ten Bb-. A-. Bb-.] [d-ten Bb-. A-. Bb-.]
+|
+=1' qua [Bn-ten F-. E-. F-.] [C-ten F-. E-. F-.] [D-ten F-. E-. F-.]
+=2' qua [d-ten A-. G#-. A-.] [c-ten A-. G#-. A-.] [B-ten A-. G#-. A-.]
+/
+3 bars | 5 4 5 4 5 5 5 5 5 5 5 4 \
+ | 4 5 4 4  5 5 5 5  5 5 5 4 \
+ | 4 5 4 5 4 5 4 4 2 2 2 2 ||
+|
+=1 qua [C#-ten Gb-. F-. Gb-.] [D-ten Gn-. F#-. G-.] [Eb-ten G-. F#-. En-.]
+=2, qua [e-ten Bb-. A-. Bb-.] [d-ten Bb-. A-. Bb-.] [c#-ten Bb-. A-. c#-.]
+|
+il0.8  30
+=1 qua [D-ten G-. Gb-. F-.] [B_-ten Gn-. Gb-. F-.] [A_b-ten E-. Eb-. D-.]
+=2' qua [d-ten B-. Bb-. A-.] [d-ten Bb-. A-. Ab-.] [d-ten Ab-. G-. F#-.]
+|
+=1 qua [<G_ G-.> <G_ F-.> <G_ G-.> <G_ F-.>] \
+ [<G_ G-.> <G_ F-.> <G_ G-ten>] rest min rest
+=2 qua [<Bb, e-.> <A, e-.> <Bb, e-.> <A, e-.>] \
+ [<Bb, e-.> <A, e-.> <Bb, e-ten>] rest min rest
+midi pause 3.7
+
+% start
+6 systems / 22-32-22 / 22-32-22 /22-32-22 /22-32-22 /22-32-22 /22-32-22 /
+lefthead Peter Billam
+title Duet 3
+righthead for two Violins
+leftfoot (c) 1987  Peter J Billam
+/
+5 bars | 1.1 1.1 1.1 1.1 1.3 1.1 | 6 | 6 | 6 | 6 |
+| 3/4 55
+I0.1 .65 f
+=1 treble 3/4 cha1 leg98 vol110 min rest qua rest Bb,
+i0.8      naturale . . .
+=2 treble 3/4 cha1 leg90 vol70 cro <G_ E> <G_ E> <G_ E>
+i0.6     sordino . . .
+|
+=1 min db qua db[{1 c}1]
+=2 cro <G_ Eb> <G_ Eb> <G_ Eb>
+|
+=1 min. Bb,(1
+=2 cro <A_b D> <A_b D> <A_b D>
+|
+=1 cro Bb,)1 cro. rest qua Bb
+=2 cro <G_ E> <G_ E> <G_ E>
+|
+il0.3    5
+=1 min db qua db[{1 c}1]
+=2 cro <A_ Eb> <A_ Eb> <A_ Eb>
+/
+5 bars | 5.5 | 5 | 5 | 5 | 5 |
+|
+=1 min Bb' cro A
+=2 cro <C En> <C E> <C# E>
+|
+=1 min Ab cro G
+=2 cro <D Ex> <D Ex> <D F>
+|
+=1 min rest qua rest c
+=2 cro <A_ F#> <A_ F#> <A_ F#>
+|
+=1 min eb qua [d{1 c}1]
+=2 cro <B_ Fn> <B_ F> <B_ F>
+|
+il0.3      10
+=1 min. g
+=2 cro <C F> <C F> <C F>
+/
+5 bars | 5.5 | 5 | 5 | 5 | 5 |
+|
+=1 min. d
+=2 cro <B_b G> <B_b G> <B_b G>
+|
+=1 min c(1 qua c)1 rest
+=2 cro <B_b E> <B_b E> <B_b E>
+|
+=1 min. f
+=2 cro <A_b Eb> <A_b Eb> <A_b Eb>
+|
+=1 min Bn'
+i0.5        rit . . .
+=2 cro <A_ D> <A_ D> <A_ D>
+|
+il0.3 .30 15
+=1 min Bb'
+i0.5                . . . tempo
+=2 cro <B_b E> <B_b E> <B_b E>
+/
+5 bars | 5 | 5 | 5 | 5 | 5 |
+|
+=1 min rest qua rest eb
+=2 cro <C A> <C A> <C A>
+|
+=1 min d(1 qua d)1[ c]
+=2' cro <C Ab> <C Ab> Ab
+=2, min blank qua [C,{1 D,}1]
+|
+=1 vol95 min. c
+I0.5     mp
+=2 cro <Eb Ab> <Eb Ab> <Eb Ab>
+|
+=1 vol80 min. B
+I0.5     p
+=2 cro <Eb Ab> <Eb Ab> <Eb Ab>
+|
+il0.4 .03 20
+=1 vol70 cro Bb Bb Bb
+I0.5     pp
+=2 vol70 cro <En G> <E G> <E G>
+/
+4 bars | 1/4 1 | 3/4 3 | 4/4 4 | 2/4 2 |
+| 1/4 55
+=1' 1/4 qua [Bb{2 E}2]
+i0.5         legatiss . . .
+=2 1/4 cro G
+| 3/4 55
+=1 3/4 qua [A{2 F] [A F] [A F}2]
+=2 3/4 cro G G{2 leg150 smq [G}2 qua F-is1 smq G-is4]
+| 4/4 55
+=1 4/4 qua [A Eb] [A Eb] [A Eb] [A Eb]
+i0.4     simile . . .
+=2 4/4 smq G{2[ qua F G F G F G F smq G}2]
+| 2/4 55
+=1' 2/4 qua [B D] [B D]
+=2 2/4 smq [G{2 qua F G F smq G}2]
+/
+5 bars | 1/4 1 | 3/4 3 | 2/4 2 | 2 | 1/4 .38 .25 .25 .25 |
+| 1/4 55
+il0.4     25
+=1' 1/4 qua [B D]
+=2 1/4 smq A[ qua E smq A]
+| 3/4 55
+=1' 3/4 qua [c D] [c D] [c D]
+=2 3/4 smq [G qua E G E G E smq G]
+| 2/4 55
+=1' 2/4 qua [Bb D] [Bb D]
+=2 2/4 smq [G qua F G F smq G]
+|
+=1' qua [Bb C] [Bb C]
+=2 smq [Ab qua F Ab F smq Ab]
+| 1/4 55
+=1 1/4 qua [A# C#]
+=2 1/4 smq [Ab qua Eb smq Ab]
+
+6 systems / 22-32-22 / 22-32-22 /22-32-22 /22-32-22 /22-32-22 / 22-32-22 /
+pagenum 7
+innerhead Violin Duet 3, Peter Billam
+leftfoot (c) 1987  Peter J Billam
+/
+3 bars | 3/4 3 | 4/4 4 | 4 |
+| 3/4 55
+il0.4     30
+=1 3/4 qua [A# C#] [A# C#] [A# C#]
+=2 3/4 smq G[ qua F G F G F smq G]
+| 4/4 55
+=1 4/4 qua [An Eb] [A Eb] [A Eb] [A Eb]
+=2 4/4 smq G[ qua F G F G F G F smq G]
+|
+=1' qua [B D] [B D] [B D] [B D]
+=2 smq [G qua F G F G F G F smq G]
+/
+4 bars | 2/4 8 | 3/4 1.5 1 1 1  1 1 1 1  1 1 1 1 \
+ | 4/4 1.5 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 | 1/4 4 |
+| 2/4 55
+=1' 2/4 qua [B D] [B D]
+=2 2/4 smq A[ qua E A E smq A]
+| 3/4 55
+=1' 3/4 qua [B D] [B D] [B D]
+=2 3/4 qua smq Ab[ qua F# Ab F# Ab F# smq Ab]
+| 4/4 55
+il0.5   35
+=1' 4/4 qua [Bb E] [Bb E] [Bb E] [B_b E]
+=2 4/4 smq [Ab qua F# Ab F# A_b F# A_b F# smq A_b](2
+| 1/4 55
+=1 1/4 qua [C{2 Eb]}2
+=2 1/4 leg97 cro <A_b)2 F#>
+/
+5 bars | 3/4 6 | 6 | 6 | 6 | 1 1 1 1 1.5 1.1 |
+| 3/4 55
+I0.1 .65 f
+=1 3/4 min rest vol110 qua rest c
+=2 3/4 cro <G_ E> <G_ E> <G_ E>
+|
+=1 min a qua g[ f]
+=2 cro <G_ F> <G_ F> <G_ F>
+|
+=1 min. f(1
+=2 cro <B_b Eb> <B_b Eb> <B_b Eb>
+|
+il0.5   40
+=1 cro f)1 rest eb
+=2 cro <A_b F> <A_b F> <A_b F>
+|
+=1 min c~ qua bb[ ab]
+=2 cro <A_b Gb> <A_b Gb> <B_b Gb>
+/
+5 bars | 3.3 | 3 | 3 | 3 | 3 |
+|
+=1 min g cro f
+=2 cro <B_n F> <B_ F> <B_ F>
+|
+=1 min e cro d#
+=2 cro <B_b F#> <B_b F#> <C F#>
+|
+=1 min. g#
+=2 cro <C# F#> <C# F#> <C# F#>
+|
+il0.4   45
+=1 min. d#
+=2 cro <B_ G#> <B_ G#> <B_ G#>
+|
+=1 min c#(1 qua c#)1 rest
+=2 cro <B_ F> <B_ F> <B_ F>
+/
+5 bars | 3.3 | 3 | 3 | 3 | 3 |
+|
+=1 min. f#
+=2 cro <B_b E> <B_b E> <B_b E>
+|
+=1 min. c
+=2 cro <A_ F#> <A_ F#> <A_ F#>
+|
+=1 min. B,(1
+=2 cro <B_ F> <B_ F> <C# F>
+|
+il0.4  50
+=1 cro B,)1 cro. rest qua f
+=2 cro <D F> <D F> <D F>
+|
+=1 min e(1 qua e)1[ d]
+=2 cro <D G> <D G> <E G>
+/
+5 bars | 3.3 | 3 | 3 | 2.4 | 2.4 ||
+|
+=1 vol100 min. c
+i0.5                dim . . .
+=2 cro <Eb Ab> <Eb Ab> <Eb Ab>
+|
+=1 vol90 min. Bn
+=2 cro <A_b Eb> <A_b Eb> <A_b Eb>
+|
+=1 vol80 min. Bb
+=2 cro <A_b F> <A_b F> <A_b F>
+|
+=1 min. vol70 Bb
+=2 min. <A_b D>
+|
+=1 min. vol60 Bb-fermata
+i0.5            . . .
+I0.5                    pp
+=2 min. vol60 <G_ E-fermata>
+% stop

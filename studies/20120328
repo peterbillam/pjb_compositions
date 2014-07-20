@@ -1,0 +1,53 @@
+muscript <<'EOT'
+6 systems /19-25-19/
+midi channel 1 pan 110
+midi channel 2 pan 17
+/
+2 bars | 11 | 13 |
+| 1.96
+=1 treble cha1 leg98 vol105 8 [ab d ab g d d# gb f e] 4 rest
+=2 bass   cha2 leg98 vol105 8 [Ab D Ab G D D# Gb F E] 4 rest
+| 2.32
+=1 8 [ab d ab g d gb d# e f] 2 rest
+=2 8 [Ab D Ab G D Gb D# E F] 2 rest
+| 1.96
+=1 8 [b f b bb f a f# g g#] 4 rest
+=2 8 [B F B Bb F A F# G G#] 4 rest
+| 1.64
+=1 8 [b f b bb f f# a g# gn]
+=2 8 [B F B Bb F F# A G# Gn]
+| 1.44
+=1 treble8va vol125 cc75=110 16 [F-P   c#'] 1 b
+=2 treble    vol125 cc75=110 16 [F-Ped c#'] 1 b
+| 1.96
+=1  treble vol105 cc75=64 8 [d~-* g# d~ c~# g# c~n a bb bn] 4 rest
+=2' bass   vol105 cc75=64 8 [d-*  G# d  c#  G# cn  A Bb Bn] 4 rest
+| 2.32
+=1  8 [d~-* g# d~ c~# g# a c~n b bb] 2 rest
+=2' 8 [d-*  G# d  c#  G# A cn  B Bb] 2 rest
+| 1.96
+=1 8 [e~-* bb e~ e~b bb bn d~ c~# c~n] 4 rest
+=2' 8 [e-* Bb e eb Bb Bn d c# cn] 4 rest
+| 1.64
+=1 8 [e~-* bb e~ e~b bb d~ bn c~n c~#]
+=2' 8 [e-* Bb e eb Bb d Bn cn c#]
+| 2.88
+=1 treble8va vol125 cc75=110 16 [F-P   c#'] 1 b 8 b c# G 4 rest treble 2 B
+=2 treble    vol125 cc75=110 16 [F-Ped c#'] 1 b 16 rest 8 B f 16 c# 4 rest bass 2 B
+| 1.96
+=1 vol110 cc75=64 8 [f~-* b f~ e~ b c~ e~b d~ c~#] 4 rest
+=2' vol110 cc75=64 8 [f-* B f e B c eb d c#] 4 rest
+| 2.32
+=1 vol110 8 [f~-* b f~ e~ b e~b c~ c~# d~] 2 rest
+=2' vol110 8 [f-* B f e B eb c c# d] 2 rest
+| 1.96
+=1 vol110 8 [a~b-* d~ a~b g~ d~ f~# d~# e~ f~n] 4 rest
+=2' vol110 8 [ab-* d ab g d f# d# e fn] 4 rest
+| 1.64
+=1 vol110 8 [a~b-* d~ a~b g~ d~ d~# f~# f~n e~]
+=2' vol110 8 [ab-* d ab g d d# f# fn e]
+| 5.76
+=1 treble8va vol125 cc75=110 4 blank 16 [Ab,-P eb] 1 e~b-emph bass vol40 db
+=2 treble    vol125 cc75=110 16 [F-Ped Ab B' eb'] 8 blank 1 blank bass8vab vol40 <Db db>
+
+EOT

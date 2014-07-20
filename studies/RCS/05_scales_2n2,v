@@ -1,0 +1,715 @@
+head	1.8;
+access;
+symbols;
+locks
+	pjb:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2013.02.04.09.08.47;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.01.25.00.41.55;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.01.24.04.46.51;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.01.23.23.17.34;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.01.23.09.55.46;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.01.22.05.41.15;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.01.18.01.11.09;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.01.17.09.15.12;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@5. Scales at Two Semitones
+@
+
+
+1.8
+log
+@minor tweaks, spacings; as released
+@
+text
+@7 systems 10 / 18-21-18/ 18-23-18/ 18-23-18 \
+ / 18-23-18/ 18-23-18/ 18-22-18/ 18-24-18/
+pagenum
+title 5.  Scales at Two Semitones
+innerhead Twenty Studies
+leftfoot (c) 2013 Peter J Billam
+# but should 2n2 be rolled into 08_4n4_3n3 ?
+# also, this is becoming suspiciously morse_thue ...
+midi channel 0 patch 0
+/
+3 bars | 24 | 96 | 96 |
+| 0.67
+=1  bass   cha0 2 rest
+=2  bass   cha0 8 C rest G# rest
+| 1.33
+=1, 8 rest leg100 [<abxl bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+=2  8 leg100 <c dx'> rest rest <c#l d#xl'> rest [<dnx e> leg85 <ebx f>] rest
+|
+=1, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 [<d~nx e~> leg85 <c~#xl d~#l>] rest treble
+=2, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest <gnx a>
+
+/
+3 bars | 96 | 12 12 12 12 12 14 12 12 | 94 |
+| 1.33
+=1' 8 <C Dx> rest rest <C#l D#xl> rest leg100 [<Dn Ex> leg85 <Eb Fx>] rest
+=2, 8 rest leg100 [<abxl bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+|
+=1' 8 rest leg100 [<Enl F#xl> leg85 <Fn Gx>] rest <F#l G#xl> rest rest <Gn Ax>
+=2, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 [<d~nx e~> leg85 <c~#xl d~#l>] rest
+|
+il0.5 .15 5
+=1' 4. <D# c#> 4 <Dn cn> 8 <D# c#> 4 <E d>
+=2  8 rest [A g'] rest A rest rest g
+|
+=1' 8 rest <F eb> 4 <E d> 4. <Eb db> 8 <D c>
+=2  8 A rest rest g rest [A g'] rest
+|
+=1  8 rest [D# c#'] rest D# rest rest c#
+=2' 4. <A g> 4 <G# f#> 8 <A g> 4 <A# g#>
+|
+=1  8 D# rest rest c# rest [D# c#'] rest
+=2' 8 rest <B a> 4 <Bb ab> 4. <A g> 8 <G# f#>
+/
+3 bars | 96 | 96 |
+|
+=1' 4. <D# c#> 4 <Dn cn> 8 <D# c#> 4 <E d>
+=2  8 rest [A g'] rest A rest rest g
+|
+il0.6 .02 10
+=1' 8 rest <F eb> 4 <E d> 4. <Eb db> 8 <D c>
+=2  8 A rest rest g rest [A g'] rest
+|
+=1  8 rest [D# c#'] rest D# rest rest c#
+=2' 4. <A g> 4 <G# f#> 8 <A g> 4 <A# g#>
+/
+3 bars | 96 | 96 | 13 12 13 13 12 13 12 11 |
+|
+=1  8 D# rest rest c# rest [D# Bn'] rest
+=2' 8 rest <B a> 4 <Bbl ab> 4. <A g> 8 <Bn f>
+|
+=1  8 rest leg100 [<Abl Bb'xl> leg85 <Gx An>] rest <Ax Bn'> rest rest leg100 <c#x B>
+=2  8 <c dx'> rest rest <c#l d#xl'> rest leg100 [<dnx e> leg85 <ebx f>] rest
+|
+=1, 8 leg85 <Bbxlrr cnl> rest rest <c#xl d#l> rest leg100 [<dnx e> leg85 <c#xl d#l>] rest
+=2, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest <gnx a>
+
+/
+4 bars | 96 | 13 12 12 13 12 14 11 11 | 30 | 50 |
+|
+il0.5 .13 15
+=1, 8 <cx d> rest rest <c#xl d#l> rest leg100 [<dnx e> leg85 <ebx f>] rest
+=2, 8 rest leg100 [<abxl bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+|
+#=1, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest rest
+=1, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest 4 <f#xl g#l> rest
+#=2, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 [<d~nx e~> leg85 <c~#xl d~#l>] rest
+=2, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 <d~nx e~> 4 <c~#xl d~#l>
+
+|
+=1 1 <d# c~#>
+=2 1 <G# f#>
+|
+=1 4 <gx a> 2 <dn c~n> 4 <f#xl g#l>
+=2' 4 <c dx> 2 <An gn> 4 <c#l d#xl>
+/
+3 bars | 50 | 40 | 96 |
+|
+=1, 2 <A g> 4 <c#xl d#l> <G#(2 f#(1>
+=2 2 <d c~> 4 <f#xl g#l> <d#(2 c~#(1>
+|
+il0.5 .13 20
+=1, 2. <G#)2 f#)1> 4 <cx d> bass
+#=2 2. <d#)2 c~#)1> 4 <gx a>
+=2 2. <d#)2 c~#)1> 4 dn
+|
+=1 8 rest [<e f#xl> <fnx g> <f#xl g#l>] <gnx a> 4 <abxl bbl> 8 <gnxl anl>
+=2 2. D 4 c
+
+7 systems / 18-25-18 / 18-22-18/ 18-23-18 \
+ / 18-25-18/ 18-21-18/ 18-21-18/ 18-25-18/
+pagenum
+innerhead 5.  Scales at Two Semitones
+leftfoot (c) 2013 Peter J Billam
+/
+3 bars | 12 12 14 13 12 12 13 12 \
+ | 12 12 12 14 13 12 12 13 | 12 12 12 14 13 12 12 11 |
+|
+=1 4 <f#xlrr g#l> 8 [<gnx a> <g#xl a#l>] 4 <anx b> 8 [<bbx c~> <a bnx>]
+=2' 8 rest 2 E 4 d 8 <F eb>
+|
+=1 4 <g#xlrr a#l> 8 [<anx b> <a# c~>] <b c~#x> 4 <c~nx d~> 8 <b c~#x> treble
+=2' 8 rest 4. <F#(2 e(1> 4 <F)2 e)1> <G f>
+|
+=1 8 rest [<A_# C> <B_x C#> <Cn Dx>] <C#l D#xl> 4. <Dn(2 Ex(1>
+=2 2 <G# f#'> 8 [<A, g> <A#, g#> <B, a> <c, bb>]
+/
+3 bars | 13 12 13 14 13 13 13 11 \
+ | 12 12 12 12 12 12 12 11 | 12 12 12 12 12 12 12 11 |
+|
+il0.4 .03 25
+=1 8 [<D)2 Ex)1> <D# F> <Ex F#> <Fn Gx>] 2 <F#l G#xl>
+=2 2 <c#,(2 b(1> 8 [<c,)2 b)1> <d c~> <d# c~#> <e(2 d~(1>]
+|
+=1 2. <G Ax> 4 <G Ax>
+=2, 8 [<e)2 d~)1> <f e~b> <e d~> <eb d~b>] \
+ <d c~> 4 <c# b> 8 <d c~>
+|
+=1 8 rest 2 <G, f> 4 <G, f> 8 <Gb e'>
+=2, 4 <eb d~b> 8 [<d c~> <db b>] 4 <c bb> 8 [<B a> <c bb>]
+/
+4 bars | 24 24 24 22 |
+|
+=1' 8 rest 4. <F(2 eb(1> 4 <F)2 e)1> <E(2 d'(1>
+=2, 4 <db b> 8 [<c bb> <B a>] <Bb ab> 4. <A g>
+
+|
+=1' 4 <E)2 d)1> 2 <Eb db> 4 <D c>
+=2' 1 <Bb ab>
+=2, 43 blank 23 rest,, 2 B_b
+|
+il0.6 .14 30
+=1' 4 <F eb> <E d> 2 <Eb db>
+=2, 4 <db b> <c bb> 2 <B a>
+|
+=1, 4 <F# e> <Fn eb> <Ab gb> <G f>
+=2, 4 <d c~> <c# b> <e d~> <eb d~b>
+/
+5 bars | 96 | 30 | 50 | 50 | 40 |
+|
+=1, 4 <Bb ab> <A g> 43 <c bb> <Bn an-I3> <Bb ab>
+=2, 43 <f# e~> <fn e~b-I3> <e d~> 4 <g f~> <f# e~n>
+
+|
+=1 1 <f e~b>
+=2 1 <Bb ab>
+|
+=1 4 <ax b> 2 <e d~> 4 <abxl bbl>
+=2, 4 <dx e> 2 <B a> 4 <ebxl fl>
+|
+il0.5 .18 35
+=1, 2 <B a> 4 <ebx f> <Bb(2 ab(1>
+=2 2 <e d~> 4 <abxl bbl> <f(2 e~b(1>
+|
+#=1, 2. <Bb)2 ab)1> 4 <dx e>
+=1, 2. <Bb)2 ab)1> 4 e(2
+#=2 2. <f)2 e~b)1> 4 <ax b> treble
+=2 2. <f)2 e~b)1> treble 4 d
+
+/
+3 bars | 12 13 14 13 15 12 12 11 \
+ | 12 12 14 13 11 12 13 11 | 12 12 13 14 13 12 12 11 |
+|
+# inverse of 21 and so on until 28, perhaps even to 32
+=1 2 <e)2 d~> 4 <e e~> <d d~>
+=2' 8 rest [<Bb cx> <Ax Bn> <Abl Bbxl>] <Gx An> 4 <F#l G#xl> 8 <Gn Ax>
+|
+=1 8 rest 2 <d c~> 4 <d c~> 8 <c# b>
+=2' 4 <Abrl Bbxl> 8 [<Gx An> <Gbl Abxl>] 4 <Fx Gn> 8 [<Ex F#> <Fn Gx>]
+|
+=1 8 rest 4. <c(2 bb(1> 4 <c)2 bb)1> <B a>
+=2' 4 <Gblr Abxl> 8 [<Gn Fx> <Ex F#>] <Ebl Fnxl> 4 <Dx En> 8 <Eb Fx>
+/
+3 bars | 12 15 13 15 13 12 12 11 \
+ | 13 15 13 15 12 12 12 11 | 96 |
+|
+il0.5 .13 40
+=1, 2 <Bb ab> 8 [<A g> <Ab gb> <G f> <Gb e>]
+=2  8 rest [<Ex F#> <Ebl Fnxl> <Dx En>] <Dbl Ebxl> 4. <Cx(2 Dn(1>
+|
+=1' 2 <F(2 eb(1> 8 [<F)2 eb)1> <E d> <Eb db> <D(2 c(1>]
+=2 8 [<C)2 Dx)1> <B_x C#> <B_bl Cnxl> <A_x B_n>] 2 <A_bl B_bxl> bass
+|
+=1' 8 [<D)2 c)1> <C# B> <D c> <D# c#>] <E d> 4 <F eb> 8 <E d>
+=2 2. <gxr a> 4 <gx a>
+/
+3 bars | 96 |
+|
+=1  4 <D# c#'> 8 [<E d'> <F d#'>] 4 <F#, e> 8 [<G, f> <Gb, e>]
+=2, 8 rest 2 <B a> 4 <B a> 8 <c bb>
+|
+=1, 4 <F d#> 8 [<F# e> <G f>] <G# f#> 4. <A g>
+=2, 8 rest 4. <c#(2 bn(4> 4 <c#)2 b)4> <d(2 c~(1>
+|
+il0.5 .08 45
+=1' 42 blank 23 rest'' 2 g~b
+=1 1 <Ab gb>
+=2 4 <d)2 c~)1> 2 <d# c~#> 4 <e d~>
+
+7 systems / 18-23-18/ 18-22-18 / 18-24-18 \
+ / 18-21-18/ 18-21-18/ 18-22-18 / 18-22-18 10/
+pagenum
+innerhead 5.  Scales at Two Semitones
+leftfoot (c) 2013 Peter J Billam
+/
+3 bars | 24 24 22 22 | 24 24 24 22 \
+ | 12 12 12 12 12 12 12 11 |
+|
+=1, 4 <F eb> <F# en> 2 <G f>
+=2, 4 <c# b> <d c~n> 2 <d# c~#>
+|
+=1' 4 <E d> <F eb> <D c> <Eb db>
+=2, 4 <c bb> <c# bn> <A# g#> <B a>
+|
+=1' 43 <C Bb> <B_ An-I3> <B_b(2 Ab(1> 2 <B_b)2 Ab)1> bass
+=2' 4 <G# f#> <F eb> 8 C rest G# rest
+
+/
+3 bars | 12 13 14 12 13 13 12 11 \
+ | 14 13 12 14 12 14 12 14 | 12 13 12 12 12 13 12 11 |
+| 1.33
+=1, 8 rest [<abxl bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+=2  8 <c dx'> rest rest <c#l d#xl'> rest [<dnx e> leg85 <ebx f>] rest
+|
+il0.7 .16 50
+=1, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 [<d~nx e~> leg85 <c~#xl d~#l>] rest treble
+=2, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest <gnx a>
+| 1.33
+=1' 8 <C Dx> rest rest <C#l D#xl> rest leg100 [<Dn Ex> leg85 <Eb Fx>] rest
+=2, 8 rest leg100 [<abxl bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+/
+3 bars | 12 13 12 12 12 14 12 11 \
+| 12 12 12 12 12 12 12 11 | 12 12 12 12 12 12 12 11 |
+|
+=1' 8 rest leg100 [<Enl F#xl> leg85 <Fn Gx>] rest <F#l G#xl> rest rest <Gn Ax>
+=2, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 [<d~nx e~> leg85 <c~#xl d~#l>] rest
+|
+=1' 4. <D# c#> 4 <Dn cn> 8 <D# c#> 4 <E d>
+=2  8 rest [A g'] rest A rest rest g
+|
+=1' 8 rest <F eb> 4 <E d> 4. <Eb db> 8 <D c>
+=2  8 A rest rest g rest [A g'] rest
+/
+3 bars | 12 12 12 12 12 12 12 11 \
+ | 12 12 12 12 12 12 12 11 | 12 12 12 12 12 12 12 11 |
+|
+il0.5 .05 55
+=1  8 rest [D# c#'] rest D# rest rest c#
+=2' 4. <A g> 4 <G# f#> 8 <A g> 4 <A# g#>
+|
+=1  8 D# rest rest c# rest [D# c#'] rest
+=2' 8 rest <B a> 4 <Bb ab> 4. <A g> 8 <G# f#>
+|
+=1' 4. <D#r c#> 4 <Dn cn> 8 <D# c#> 4 <E d>
+=2  8 rest [A g'] rest A rest rest g
+/
+3 bars | 12 12 12 12 12 12 12 11 \
+ | 12 12 12 12 12 12 12 11 | 12 12 12 12 12 12 12 11 |
+|
+=1' 8 rest <F eb> 4 <E d> 4. <Eb db> 8 <D c>
+=2  8 A rest rest g rest [A g'] rest
+|
+=1  8 rest [D# c#'] rest D# rest rest c#
+=2' 4. <A g> 4 <G# f#> 8 <A g> 4 <A# g#>
+|
+il0.4 .10 60
+=1  8 D#r rest rest c# rest [D# Bn'] rest
+=2' 8 rest <B a> 4 <Bbl ab> 4. <A g> 8 <Bn f>
+/
+3 bars | 12 13 14 12 12 13 13 11 \
+ | 13 13 14 14 12 14 12 11 | 12 13 14 12 12 13 12 11 |
+|
+=1  8 rest leg100 [<Abl Bb'xl> leg85 <Gx An>] rest <Ax Bn'> rest rest leg100 <c#x B>
+=2  8 <c dx'> rest rest <c#l d#xl'> rest leg100 [<dnx e> leg85 <ebx f>] rest
+|
+=1, 8 leg85 <Bbxlrr cnl> rest rest <c#xl d#l> rest leg100 [<dnx e> leg85 <c#xl d#l>] rest
+=2, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest <gnx a>
+|
+=1, 8 <cxr d> rest rest <c#xl d#l> rest leg100 [<dnx e> leg85 <ebx f>] rest
+=2, 8 rest leg100 [<abxl bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+/
+3 bars | 12 12 12 12 12 14 12 11 | 96 | 48 30 ||
+|
+#=1, 8 rest leg100 [<exl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest c~
+=1, 8 rest leg100 [<exl f#l> leg85 <fnx g>] rest 4. g# 8 c~
+#=2, 8 leg85 <bbxr c~> rest rest <bnxl c~#l> rest leg100 [<d~bxl e~bl> leg85 <c~nxl d~nl>] rest
+=2, 8 leg85 <bbxr c~> rest rest <bnxl c~#l> rest leg100 <d~bxl e~bl> 4 <c~nxl d~nl>
+
+|
+=1 8 c~~ rest [d~ c] d rest c~ rest
+=2 8 rest d~ 4 rest 8 rest c~ rest d
+|
+=1 8 D rest c rest 2 rest
+=2' 8 rest c rest D 4 C_ rest
+midi pause 2.0
+@
+
+
+1.7
+log
+@bar 48 joins up better
+@
+text
+@d1 2
+a2 1
+8 systems /18-23-18/
+d23 1
+a23 1
+2 bars | 96 | 96 |
+a29 2
+/
+2 bars | 96 | 96 |
+a36 2
+/
+2 bars | 96 | 96 |
+d44 1
+a44 1
+2 bars | 96 | 96 |
+a51 2
+/
+2 bars | 96 | 96 |
+d55 2
+a59 2
+/
+2 bars | 96 | 96 |
+d68 1
+a68 1
+2 bars | 96 | 96 |
+d74 4
+a77 3
+=1, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest rest
+# <gnx a>
+=2, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 [<d~nx e~> leg85 <c~#xl d~#l>] rest
+a78 2
+/
+2 bars | 96 | 96 |
+d85 2
+d93 2
+a94 4
+=2 2. <d#)2 c~#)1> 4 <gx a>
+
+/
+2 bars | 96 | 96 |
+d98 9
+d116 3
+d130 2
+d135 1
+a135 16
+/
+2 bars | 96 | 96 |
+# unconvincing. too jerky
+#|
+#=1' 4 <D# c#> 8 <F#l G#xl> 2 <D# c#> 8 <F#l G#xl>
+#=2' 4 <G# f#> 8 <c#l d#xl> 2 <G# f#> 8 <c#l d#xl>
+#|
+#il0.5 .13 30
+#=1' 2 <Dn cn>   8 <G Ax> 4 <D# c#>   8 <F#l G#xl>
+#=2' 2 <Gn fn> 8 <c dx> 4 <G# f#> 8 <c#l d#xl>
+#|
+#=1' 2 <Eb db> 8 <Abl Bbxl> 4 <Eb db> 8 <Gx An>
+#=2, 2 <Ab gb> 8 <dbxl ebl>    4 <Ab gb> 8 <d enx>
+#|
+#=1  4 <D c'> 8 <G Ax> 2 <Eb db'> 8 <abxl bbl>
+#=2, 4 <An gn> 8 <dx e> 2 <Ab gb> 8 <ebx f>
+d141 1
+a141 1
+il0.6 .10 30
+d147 2
+a152 2
+/
+2 bars | 96 | 96 |
+d160 1
+a160 1
+il0.5 .13 35
+d164 4
+a167 2
+=1, 2. <Bb)2 ab)1> 4 <dx e>
+=2 2. <f)2 e~b)1> 4 <ax b> treble
+d170 2
+a171 1
+2 bars | 96 | 96 |
+d174 1
+a174 1
+=1 2 <e d~> 4 <e e~> <d d~>
+d182 3
+d194 3
+a196 1
+=2 2. <gx a> 4 <gx a>
+a202 2
+/
+2 bars | 96 | 96 |
+d208 9
+d228 2
+a229 1
+2 bars | 96 | 96 |
+d234 1
+a234 1
+il0.5 .14 50
+a236 2
+/
+2 bars | 96 | 96 |
+d240 3
+a245 2
+/
+2 bars | 96 | 96 |
+d253 2
+a254 1
+2 bars | 96 | 96 |
+a261 2
+/
+2 bars | 96 | 96 |
+d263 1
+a263 1
+=1' 4. <D# c#> 4 <Dn cn> 8 <D# c#> 4 <E d>
+d265 3
+a270 2
+/
+2 bars | 96 | 96 |
+d276 1
+a276 1
+=1  8 D# rest rest c# rest [D# Bn'] rest
+d279 2
+a280 1
+2 bars | 96 | 96 |
+a286 2
+/
+2 bars | 96 | 96 |
+d288 1
+a288 1
+=1, 8 <cx d> rest rest <c#xl d#l> rest leg100 [<dnx e> leg85 <ebx f>] rest
+d290 2
+d293 4
+a296 3
+=1, 8 rest leg100 [<enxl f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest rest
+# <gnx a>
+=2, 8 leg85 <bbxlrr c~nl> rest rest <c~#xl d~#l> rest leg100 [<d~nx e~> leg85 <c~#xl d~#l>] rest
+d298 7
+@
+
+
+1.6
+log
+@to end except for a conclusion
+@
+text
+@d24 1
+a24 1
+=1, 8 <Cx D> rest rest <C#xl D#l> rest leg100 [<Dnx E> leg85 <Ebx F>] rest
+d27 1
+a27 1
+=1, 8 rest leg100 [<Enxl F#l> leg85 <Fnx G>] rest <F#xl G#l> rest rest <Gnx A>
+d66 1
+a66 1
+=1, 8 rest leg100 [<Abxl Bbl> leg85 <G Anx>] rest <A Bnx> rest rest leg100 <c#x B>
+d216 2
+a217 2
+=1' 43 <C Bb> <C# Bn-I3> <D c(1> 2 <E c)1> bass
+=2' 4 <G# f#> <A g> 8 C rest G# rest
+d231 1
+a231 1
+=1, 8 <Cx D> rest rest <C#xl D#l> rest leg100 [<Dnx E> leg85 <Ebx F>] rest
+d234 1
+a234 1
+=1, 8 rest leg100 [<Enxl F#l> leg85 <Fnx G>] rest <F#xl G#l> rest rest <Gnx A>
+d273 1
+a273 1
+=1, 8 rest leg100 [<Abxl Bbl> leg85 <G Anx>] rest <A Bnx> rest rest leg100 <c#x B>
+@
+
+
+1.5
+log
+@up to 41, and clean out the old end bit
+@
+text
+@d16 1
+a16 1
+=2  8 <c dx'> rest rest <c#l d#xl'> rest leg100 [<dnx e> leg85 <ebx f>] rest
+d20 1
+a65 1
+# this transition is too rough
+d71 1
+d191 96
+a286 2
+=1, 2 <F eb> 8 [<E d> <Eb db> <D c> <C#(2 B(1>]
+=2 8 [<C)2 Dx)1> <B_x C#> <B_bl Cnxl> <A_x B_n>] 2 <A_bl B_bxl>
+@
+
+
+1.4
+log
+@up to bar 39 53 sec
+@
+text
+@d163 2
+a164 2
+=1 4 <ax b> 2 <e d~> 4 <g#xl bbl>
+=2, 4 <d ex> 2 <B a> 4 <ebxl fl>
+d167 2
+a168 2
+=1, 2 <B a> 4 <ebxl fl> <Bb(2 g#(1>
+=2 2 <e d~> 4 <g#xl bbl> <f(2 e~b(1>
+d170 1
+a170 1
+=1, 2. <Bb)2 g#)1> 4 <dx e>
+a184 28
+
+
+midi off
+8 systems /18-23-18/
+/
+2 bars | 96 | 96 |
+|
+=1 8 rest [<Eb Fx-s2-s5> <Dx En-s1-s4>] rest \
+ <Eb-s2-s5 Fx> rest rest <Dx En-s1-s4>
+=2 8 A rest rest g rest [A# g#'] rest
+|
+=1 8 <Eb Fx> rest rest <Dx En> \
+ rest [<Eb Fx> <Dx En>] rest
+=2 8 rest [B, a] rest c, rest rest bb
+|
+=1' 8 C# rest rest B rest [D c] rest
+=2 8 rest [<gx-s1,-s4, a> <f#xl-s2,-s3, g#l>] rest \
+ <gnx-s1,-s4, a> rest rest <f#xl-s2,-s3, g#l>
+|
+=1 8 D# rest rest c# rest [E d'] rest
+=2 8 <gx a> rest rest <f#xl g#l>] \
+ rest [<gnx a> <f#xl g#l>] rest
+/
+2 bars | 96 | 96 |
+|
+=1 8 <B_-s1-s3 C#x> rest rest <B_bx Cn-s1-s5> \
+ rest [<B_n-s1-s3 C#x> <B_bx Cn-s1-s5>] rest
+=2 8 rest [Fn eb'] rest F# rest rest en
+d186 3
+a188 2
+=1 8 rest [<B_ C#x> <B_bx Cn>] rest <B_n C#x> rest rest <B_bx Cn>
+=2 8 G rest rest f rest [G# f#'] rest
+d190 2
+a191 20
+=1 8 A_ rest rest G rest [B_b Ab] rest
+=2 8 rest [<ebx f> <d enx>] rest <ebx f> rest rest <d enx>
+|
+=1' 8 B_ rest rest A rest [C Bb] rest
+=2 8 <ebxr f> rest rest <d enx> rest [<ebx f> <d enx>] rest
+/
+2 bars | 96 | 96 |
+|
+=1 1 <E d>
+=2 1 <B a>
+|
+=1' 4 <G#lr A#xl> 2 <F eb> 4 <An Bx>
+=2, 4 <ebxr f> 2 <A# g#> 4 <d enx>
+|
+=1, 2 <A# g#> 4 <d enx> 4 <B(2 a(1>
+=2' 2 <F eb> 4 <An Bx> 4 <E(2 d(1>
+|
+=1, 2. <B)2 a)1> 4 <ebxr f>
+=2' 2. <E)2 d)1> 4 <G#lr A#xl>
+
+a192 1
+# midi pause 2.0
+@
+
+
+1.3
+log
+@18 bars almost plausible
+@
+text
+@d15 1
+a15 1
+=1, 8 rest leg100 [<ablx bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+d19 1
+a19 1
+=2, 8 rest leg100 [<enlx f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest <gnx a>
+d24 1
+a24 1
+=2, 8 rest leg100 [<ablx bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+d26 1
+a26 1
+=1, 8 rest leg100 [<Enlx F#l> leg85 <Fnx G>] rest <F#xl G#l> rest rest <Gnx A>
+d31 1
+d51 1
+d66 1
+a66 1
+=1, 8 rest leg100 [<Ablx Bbl> leg85 <G Anx>] rest <A Bnx> rest rest leg100 <c#x B>
+d70 1
+a70 1
+=2, 8 rest leg100 [<enlx f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest <gnx a>
+d74 1
+d76 1
+a76 1
+=2, 8 rest leg100 [<ablx bbl> leg85 <g anx>] rest <a bnx> rest rest leg100 <c~#x b>
+d78 1
+a78 1
+=1, 8 rest leg100 [<enlx f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest rest
+d94 1
+d101 1
+a101 1
+=1 8 rest [<e f#xl> <fn gx> <f#l g#xl>] <gn ax> 4 <g# bbx> 8 <gnx a>
+d104 1
+a104 1
+=1 4 <f# g#xl> 8 [<gn ax> <g#l bbxl>] 4 <a bnx> 8 [<bbx c~> <anxl bnl>]
+d107 1
+a107 1
+=1 4 <g#x a#xl> 8 [<an b> <a# c~>] <b c~#> 4 <c~n d~> 8 <b c~#> treble
+d110 1
+a110 1
+=1 8 rest [<A_# C> <B_ C#> <Cn D>] <C# D#> 4. <Dn(2 E(1>
+d113 2
+a114 1
+=1 8 [<D)2 E)1> <D# F> <E F#> <Fn G>] 2 <F# G#>
+d124 61
+a184 2
+=1' 8 rest 4. <F(2 eb(1> 4 <F)2 e)1> <E d'>
+=2, 4 <c# b> 8 [<cn bb> <B a>] <Bb g#> 4. <A gn>
+@
+
+
+1.2
+log
+@smoother join at 12-13
+@
+text
+@d1 1
+a1 1
+6 systems /19-25-19/
+d7 1
+d78 94
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d57 2
+a58 2
+=1  8 D# rest rest c# rest [D# c#'] rest
+=2' 8 rest <B a> 4 <Bb ab> 4. <A g> 8 <G# f#>
+d62 1
+d74 2
+a75 1
+=1, 8 rest leg100 [<enlx f#l> leg85 <fnx g>] rest <f#xl g#l> rest rest <gnx a>
+@

@@ -1,0 +1,25 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 6.0c
+.ce 100
+\f3\s+9\s+9Die Gestundete Zeit\s-9\s-9\fP
+.sp 3.6c
+\f2\s+9poem by Ingeborg Bachmann\s0\fP
+.sp 1.3c
+\f2\s+9music by Peter Billam\s0\fP
+.sp 1.8c
+\f3\s+2for Choir\s0 \ ( \s-1SATB\s+1 )\fP
+.sp 3.5c
+\(co Peter J Billam, 2000
+.sp 0.7c
+\s-1This score is offered under the \f2Creative Commons
+Attribution 4.0 International\fP licence; see \f2creativecommons.org\fP
+The copyright owner remains the composer, Peter Billam.\s0
+.sp 0.7c
+\f2\s-2This edition \*(DY.\s0\fP
+.sp 0.6c
+\f2www.pjb.com.au\fP

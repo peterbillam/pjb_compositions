@@ -1,0 +1,609 @@
+%!PS-Adobe-2.0
+%%EndComments
+%%BeginProlog
+%%BeginResource: procset line_drawing
+% line_drawing.ps : to make line drawing as compact and robust as possible
+%
+% /longcurveto  usage: [ l c l c (pushxy) l c /apoint l c ] xto yto longcurveto
+%     'l' is the nominal length of the segment in mm (will be scaled !)
+%     'c' is the rightwards curvature of the segment in Radians/Metre (ditto)
+%     'pushxy' causes the x,y at that point to be left on the stack afterwards
+%     any nametype (e.g. /thispoint) causes it to be defined as in a pointdef
+%     where the curve is scaled and rotated to end at position xto, yto
+% /longcurve    usage: angle [ l c l c l c (pushxy) l c l c ] longcurve
+% /fuzzygraystroke usage: innergray outergray inwidth outwidth fuzzygraystroke
+% /fuzzygrayfill   usage: innergray outergray fuzzwidth fuzzygrayfill
+% /fuzzyrgbstroke  usage: incolour outgcolour inwidth outwidth fuzzyrgbstroke
+% /fuzzyrgbfill usage: innercolour outercolour fuzzwidth fuzzyrgbfill
+% /reversecurve usage: [ l1 c1 l2 c2 /name l3 c3 ] reversecurve
+% /pointdef     usage: /name_of_point x y pointdef
+% /pointadd     usage: x1 y1 x2 y2 pointadd
+% /pointdup     usage: x1 y1 pointdup => x1 y1 x1 y1 
+% /interpolate2 usage: x1 y1 weight1 x2 y2 weight2 interpolate2
+% /interpolate3 usage: x1 y1 weight1 x2 y2 weight2 x3 y3 weight3 interpolate3
+% /rgbdef       usage: /name_of_colour r g b rgbdef
+% /rgbmix       usage: blue 0.6 darkgray 0.4 rgbmix setrgbcolor
+%
+% hints for drawing, in 10 easy steps (-;
+% * at each junction of 3 colours, put a Point (eg "nosetip", "brow")
+% * at each boundary of 2 colours, put a Curve (eg "nosetip2brow")
+% * define at least 3 Points in x,y (eg "brow { 67 mm 200 mm } def")
+% * define the Curves (eg "nosetip2brow { 10 20 60 1 /bridge 15 -45 } def")
+% * define any remaining Points by interpolate2, interpolate3 and pointadd
+% * define any Colours (eg "/darkskin paleorange .4 brown .6 rgbmix colordef")
+% * run all the Curves and interpolations to calculate all Point positions
+%   (eg "nosetip moveto [ nosetip2brow ] brow longcurveto")
+% * make closedpaths round all coloured areas, and fill and fuzzyfill them
+% * run the Curves again, and this time stroke and fuzzystroke them
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%        This Postscript is Copyright (c) 2000, Peter J Billam          %
+%     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      %
+%                                                                       %
+% Permission is granted  to any individual or institution to use, copy, %
+% modify or redistribute this software, so long as it is not resold for %
+% profit,  and provided this notice is retained.   Neither Peter Billam %
+% nor  P J B Computing  make any representations  about the suitability %
+% of this software for any purpose. It is provided "as is", without any %
+% express or implied warranty.                http://www.pjb.com.au     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+/mm { 72 mul 25.4 div } def
+/metres { 72000 mul 25.4 div } def
+
+% ------------------ rgb defs ...
+/white       { 1    1    1    } def
+/lightgray   { 0.95 0.95 0.95 } def
+/gray        { 0.9  0.9  0.9  } def
+/mediumgray  { 0.8  0.8  0.8  } def
+/darkgray    { 0.5  0.5  0.5  } def
+/black       { 0    0    0    } def
+/red         { 1    0    0    } def
+/palered     { 1    0.75 0.75 } def
+/orange      { 1    0.7  0.0  } def
+/brown       { 0.7  0.6  0.5  } def
+/paleorange  { 1    0.85 0.75 } def
+/yellow      { 1    1    0    } def
+/green       { 0    1    0    } def
+/palegreen   { 0.75 1    0.75 } def
+/blue        { 0    0    1    } def
+/paleblue    { 0.75 0.75 1    } def
+/violet      { 0.7  0.2  0.7  } def
+/paleviolet  { 1    0.75 1    } def
+
+% ------------------ curve stuff ...
+/pushxy (pushxy) def
+/longc_nopushxy 0 def   % allow 'pushxy' ...
+/longcurveto { % usage: [ l c l c l c (pushxy) l c l c ] xto yto longcurveto
+	% 'l' is the nominal length of the segment in mm (will be scaled !)
+	% 'c' is the rightwards curvature of the segment in Radians/Metre (ditto)
+	% 'pushxy' causes the x,y at that point to be left on the stack afterwards
+	% where the curve is scaled and rotated to end at position xto, yto
+	/longct_aimy exch def /longct_aimx exch def
+	currentpoint /longct_starty exch def /longct_startx exch def
+	gsave   % prevent stroking of the trial curve
+	/longc_nopushxy 1 def  % prevent 'pushxy' for the trial curve ...
+	dup 0 exch longcurve   % do the trial curve to see where it ends
+	/longc_nopushxy 0 def  % re-allow 'pushxy' ...
+	currentpoint /longct_endy exch def /longct_endx exch def
+	grestore
+	% calculate the transformation that will take *end to *aim
+	/longct_rotation
+	longct_aimy longct_starty sub longct_aimx longct_startx sub atan
+	longct_endy longct_starty sub longct_endx longct_startx sub atan
+	sub def
+	/longct_scale
+	longct_aimy longct_starty sub dup mul longct_aimx longct_startx sub dup mul
+	add sqrt
+	longct_endy longct_starty sub dup mul longct_endx longct_startx sub dup mul
+	add sqrt div def
+	% now do the transformation and draw the curve
+	% scale leaves false pushxy's; must scan the array with mul and div
+	dup length /longct_n exch def /longct_i 0 def
+	{
+		dup longct_i get /longct_l exch def   % get current element
+		longct_l (pushxy) eq {
+		} {
+			longct_l type (nametype) eq {
+			} {
+				dup longct_i longct_l longct_scale mul put
+				/longct_i longct_i 1 add def longct_i longct_n ge { exit } if
+				dup longct_i get /longct_c exch def   % get current element
+				dup longct_i longct_c longct_scale div put
+			} ifelse
+		} ifelse
+		/longct_i longct_i 1 add def longct_i longct_n ge { exit } if
+	} loop
+	longct_rotation exch longcurve
+} def
+
+/longcurve { % usage: angle [ l c l c l c (pushxy) l c l c ] longcurve
+	% where the curve starts at angle 'angle' from the current point
+	% 'l' is the length of the segment in mm
+	% 'c' is the rightwards curvature of the segment in Radians per Metre
+	% 'pushxy' causes the x,y at that point to be left on the stack afterwards
+	% any nametype (e.g. /thispoint) causes it to be defined as in a pointdef
+	exch /longc_angle exch def
+	dup length /longc_n exch def
+	/longc_i 0 def
+	{
+		dup longc_i get /longc_l exch def
+		longc_l pushxy eq {
+			longc_nopushxy 0 eq { currentpoint 3 2 roll } if
+		} {
+			longc_l type (nametype) eq {
+				longc_l currentpoint pointdef
+			} {
+				/longc_l longc_l mm def
+				/longc_i longc_i 1 add def
+				dup longc_i get /longc_c exch def
+				/longc_radius 1 longc_c div metres def  % must test 0 & use lineto
+				% find centre of curvature
+				currentpoint
+				longc_radius longc_angle cos mul sub /longc_y exch def
+				longc_radius longc_angle sin mul add /longc_x exch def
+				% find total curved angle
+				/longc_curved_angle longc_l longc_radius div 57.2958 mul def
+				% draw arc
+				longc_c 0 gt {
+					longc_x longc_y longc_radius
+					longc_angle 90 add dup longc_curved_angle sub arcn
+				} {
+					longc_x longc_y longc_radius
+					longc_angle 90 add dup longc_curved_angle sub arc
+				} ifelse
+				% move along for next segment
+				/longc_angle longc_angle longc_curved_angle sub def
+			} ifelse
+		} ifelse
+		/longc_i longc_i 1 add def longc_i longc_n ge { exit } if
+	} loop
+	pop
+} def
+
+/reversecurve { % usage: [ l1 c1 l2 c2 /name l3 c3 ] reversecurve
+	% leaves [ l3 -c3 /name l2 -c2 l1 -l1 ] on the stack
+	dup length /reversec_i exch def
+	/reversec_array reversec_i array def
+	/reversec_j 0 def  % index into reversec_array
+	{
+		/reversec_i reversec_i 1 sub def
+		dup reversec_i get /reversec_c exch def
+		reversec_c type (nametype) ne reversec_c (pushxy) ne and {
+			/reversec_i reversec_i 1 sub def
+			dup reversec_i get /reversec_l exch def
+
+			reversec_array reversec_j reversec_l put
+			/reversec_j reversec_j 1 add def
+			reversec_array reversec_j reversec_c -1.0 mul put
+			/reversec_j reversec_j 1 add def
+		} if
+		reversec_i 0 le { exit } if
+	} loop
+	pop reversec_array 0 reversec_j getinterval
+} def
+
+/pointdef { % usage: /name_of_point x y pointdef
+	/pointdef_y exch def /pointdef_x exch def
+	% This is Really Ugly stuff; Postscript is not made for string handling.
+	/pointdef_s 50 string def
+	(                                                  ) pointdef_s copy
+	0 pointdef_x 50 string cvs dup length /pointdef_l exch def putinterval
+	pointdef_s 25 pointdef_y 50 string cvs putinterval
+	pointdef_s 50 string copy cvx def
+} def
+
+/pointadd { % usage: x1 y1 x2 y2 pointadd
+	4 1 roll exch 4 1 roll add 3 1 roll add
+} def
+
+/pointdup { % usage: x1 y1 pointdup => x1 y1 x1 y1
+	dup 3 2 roll dup 4 1 roll exch
+} def
+
+/interpolate2 { % usage: x1 y1 weight1 x2 y2 weight2 interpolate2
+	% leaves interpolated point on stack ready for "moveto" or "pointdef"
+	/intpl_w2 exch def /intpl_y2 exch def /intpl_x2 exch def
+	/intpl_w1 exch def /intpl_y1 exch def /intpl_x1 exch def
+	% normalise the weights to add up to 1 ...
+	/intpl_wtot intpl_w1 intpl_w2 add def
+	/intpl_w1 intpl_w1 intpl_wtot div def
+	/intpl_w2 intpl_w2 intpl_wtot div def
+	% interpolate and leave on stack ...
+	intpl_x1 intpl_w1 mul intpl_x2 intpl_w2 mul add
+	intpl_y1 intpl_w1 mul intpl_y2 intpl_w2 mul add
+} def
+
+/interpolate3 { % usage: x1 y1 weight1 x2 y2 weight2 x3 y3 weight3 interpolate3
+	% leaves interpolated point on stack ready for "moveto" or "pointdef"
+	/intpl_w3 exch def /intpl_y3 exch def /intpl_x3 exch def
+	/intpl_w2 exch def /intpl_y2 exch def /intpl_x2 exch def
+	/intpl_w1 exch def /intpl_y1 exch def /intpl_x1 exch def
+	% normalise the weights to add up to 1 ...
+	/intpl_wtot intpl_w1 intpl_w2 add intpl_w3 add def
+	/intpl_w1 intpl_w1 intpl_wtot div def
+	/intpl_w2 intpl_w2 intpl_wtot div def
+	/intpl_w3 intpl_w3 intpl_wtot div def
+	% interpolate and leave on stack ...
+	intpl_x1 intpl_w1 mul intpl_x2 intpl_w2 mul add intpl_x3 intpl_w3 mul add
+	intpl_y1 intpl_w1 mul intpl_y2 intpl_w2 mul add intpl_y3 intpl_w3 mul add
+} def
+
+% ------------------ gray stuff ...
+
+/gray0 1.0 def /gray1 0.95 def /gray2 0.9  def /gray3 0.85 def /gray4 0.8 def
+/gray5 0.7 def /gray6 0.6  def /gray7 0.45 def /gray8 0.25 def /gray9 0.0 def
+
+
+/fuzzygraystroke { % usage: innergray outgray inwidth outwidth fuzzygraystroke
+	/fuzzys_ow exch def /fuzzys_iw exch def
+	/fuzzys_og exch def /fuzzys_ig exch def
+	gsave 1 setlinecap 1 setlinejoin
+	% should do more intermediate steps ...
+	gsave fuzzys_ow setlinewidth fuzzys_og setgray stroke grestore
+	gsave fuzzys_iw 0.2 mul fuzzys_ow 0.8 mul add setlinewidth
+		fuzzys_ig 0.2 mul fuzzys_og 0.8 mul add setgray stroke grestore
+	gsave fuzzys_iw 0.4 mul fuzzys_ow 0.6 mul add setlinewidth
+		fuzzys_ig 0.4 mul fuzzys_og 0.6 mul add setgray stroke grestore
+	gsave fuzzys_iw 0.6 mul fuzzys_ow 0.4 mul add setlinewidth
+		fuzzys_ig 0.6 mul fuzzys_og 0.4 mul add setgray stroke grestore
+	gsave fuzzys_iw 0.8 mul fuzzys_ow 0.2 mul add setlinewidth
+		fuzzys_ig 0.8 mul fuzzys_og 0.2 mul add setgray stroke grestore
+	fuzzys_iw setlinewidth fuzzys_ig setgray stroke grestore
+} def
+
+/fuzzygrayfill { % usage: innergray outergray fuzzwidth fuzzygrayfill
+	/fuzzyf_w exch def /fuzzyf_og exch def /fuzzyf_ig exch def
+	currentlinewidth currentlinecap currentgray gsave
+	fuzzyf_ig fuzzyf_og fuzzyf_w 0.1 mul fuzzyf_w 2.0 mul fuzzygraystroke
+	grestore fuzzys_ig setgray fill setgray setlinecap setlinewidth
+} def
+
+% ------------------ colour stuff ...
+/rgbmix { % usage : colour1 weight1 colour2 weight2 rgbmix
+	/rgbmix_w2 exch def /rgbmix_b2 exch def
+	/rgbmix_g2 exch def /rgbmix_r2 exch def
+	/rgbmix_w1 exch def /rgbmix_b1 exch def
+	/rgbmix_g1 exch def /rgbmix_r1 exch def
+	% normalise weights ...
+	/rgbmix_tot rgbmix_w1 rgbmix_w2 add def
+	/rgbmix_w1 rgbmix_w1 rgbmix_tot div def
+	/rgbmix_w2 rgbmix_w2 rgbmix_tot div def
+	% leave mixed colour on stack ...
+	rgbmix_r1 dup mul rgbmix_w1 mul rgbmix_r2 dup mul rgbmix_w2 mul add sqrt
+	rgbmix_g1 dup mul rgbmix_w1 mul rgbmix_g2 dup mul rgbmix_w2 mul add sqrt
+	rgbmix_b1 dup mul rgbmix_w1 mul rgbmix_b2 dup mul rgbmix_w2 mul add sqrt
+} def
+% currentcolorspace 0 get 256 string cvs % e.g. DeviceGray or DeviceRGB
+
+/fuzzystroke { fuzzyrgbstroke } def
+/fuzzyfill   { fuzzyrgbfill } def
+
+/fuzzyrgbstroke { % usage: incolour outcolour inwidth outwidth fuzzyrgbstroke
+	/fuzzyrgbs_ow exch def /fuzzyrgbs_iw exch def
+	/fuzzyrgbs_oc 4 1 roll rgbdef /fuzzyrgbs_ic 4 1 roll rgbdef
+	gsave 1 setlinecap 1 setlinejoin
+	% should do more intermediate steps ...
+	gsave fuzzyrgbs_ow setlinewidth fuzzyrgbs_oc setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.1 mul fuzzyrgbs_ow 0.9 mul add setlinewidth
+		fuzzyrgbs_ic 0.1 fuzzyrgbs_oc 0.9 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.2 mul fuzzyrgbs_ow 0.8 mul add setlinewidth
+		fuzzyrgbs_ic 0.2 fuzzyrgbs_oc 0.8 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.3 mul fuzzyrgbs_ow 0.7 mul add setlinewidth
+		fuzzyrgbs_ic 0.3 fuzzyrgbs_oc 0.7 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.4 mul fuzzyrgbs_ow 0.6 mul add setlinewidth
+		fuzzyrgbs_ic 0.4 fuzzyrgbs_oc 0.6 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.5 mul fuzzyrgbs_ow 0.5 mul add setlinewidth
+		fuzzyrgbs_ic 0.5 fuzzyrgbs_oc 0.5 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.6 mul fuzzyrgbs_ow 0.4 mul add setlinewidth
+		fuzzyrgbs_ic 0.6 fuzzyrgbs_oc 0.4 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.7 mul fuzzyrgbs_ow 0.3 mul add setlinewidth
+		fuzzyrgbs_ic 0.7 fuzzyrgbs_oc 0.3 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.8 mul fuzzyrgbs_ow 0.2 mul add setlinewidth
+		fuzzyrgbs_ic 0.8 fuzzyrgbs_oc 0.2 rgbmix setrgbcolor stroke grestore
+	gsave fuzzyrgbs_iw 0.9 mul fuzzyrgbs_ow 0.1 mul add setlinewidth
+		fuzzyrgbs_ic 0.9 fuzzyrgbs_oc 0.1 rgbmix setrgbcolor stroke grestore
+	fuzzyrgbs_iw setlinewidth fuzzyrgbs_ic setrgbcolor stroke grestore
+} def
+
+/fuzzyrgbfill { % usage: innercolour outercolour fuzzwidth fuzzyrgbfill
+	/fuzzyrgbf_w exch def /fuzzyrgbf_oc 4 1 roll rgbdef
+	/fuzzyrgbf_ic 4 1 roll rgbdef gsave
+	fuzzyrgbf_ic fuzzyrgbf_oc fuzzyrgbf_w 0.1 mul fuzzyrgbf_w 2.0 mul
+	fuzzyrgbstroke grestore gsave fuzzyrgbs_ic setrgbcolor fill grestore
+} def
+
+/rgbdef { % usage: /name_of_colour r g b rgbdef
+	/rgbdef_b exch def /rgbdef_g exch def /rgbdef_r exch def
+	% This is Really Ugly stuff; Postscript is not made for string handling.
+	/rgbdef_s 60 string def
+	(                                                            )
+	rgbdef_s copy
+	0 rgbdef_r 60 string cvs dup length /rgbdef_l exch def putinterval
+	rgbdef_s 20 rgbdef_g 40 string cvs putinterval
+	rgbdef_s 40 rgbdef_b 20 string cvs putinterval
+	rgbdef_s 60 string copy cvx def
+} def
+%%EndResource
+
+%%EndProlog
+%%Page: 1 1
+4 0 translate 1.0 0.95 scale
+%%BeginPageSetup
+%%EndPageSetup
+
+% measurements taken from A5 sketchbook 20000109-20000223
+/hairl_t         {  51   mm 210   mm } def
+/forehead        { 117   mm 210   mm } def
+/eyebrowl_l      {  51   mm 188   mm } def
+/eyebrowl_r      {  74   mm 183   mm } def
+/eyebrowr_l      {  96   mm 180.5 mm } def
+/bridge          {  92.0 mm 171.5 mm } def
+/specsl_tr       bridge -7.2 mm -1.5 mm pointadd pointdef
+/specsl_tl       {  43.5 mm 168.2 mm } def
+/eyel_l          {  42.5 mm 161.2 mm } def
+/eyel_r          {  71   mm 164   mm } def
+/pupil_l         eyel_l 0.7 eyel_r 0.3 interpolate2 0 2.1 mm pointadd pointdef
+/hairl_b         {   0   mm 144   mm } def
+/specsl_bl       {  43.5 mm 143   mm } def
+/cheekbone_specs { 117   mm 142   mm } def
+/cheekbone_specs_b cheekbone_specs 1.3 mm -1.0 mm pointadd pointdef
+/nostrill        {  79.0 mm 119.6 mm } def
+/nostrilr        {  91.3 mm 117.5 mm } def
+/nosel_b         nostrill -2 mm -2.5 mm pointadd pointdef
+/mouthl          {  66   mm  95.7 mm } def
+/mouthr          { 102.3 mm  95.1 mm } def
+/neckback        {   0   mm  80   mm } def
+/underchin       {  86.2 mm  64.5 mm } def
+/lapel_l         {   1   mm  40.5 mm } def
+/botthroat       {  81   mm  20   mm } def
+/lapel_b         {  64   mm   3.5 mm } def
+/shirt1_b        { 102.5 mm   0   mm } def
+/shirt2_b        {  98   mm   0   mm } def
+/shirt3_b        {  94.3 mm   0   mm } def
+/shirt4_b        {  83   mm   0   mm } def
+
+% curves
+% profile
+/forehead2cheekbone {
+	18 -24 3 40 /eyebrowr_tr 3.5 50 /eyebrowr_br 2.1 50 /eyebrow_specs
+	12 35 /eyefoldrr_r 1 -500 6 -15 /eyebot_r 1 -350 6 95 17 15
+} def
+/bridge2nostril {
+	9.5 -27 /noseXspec_t 14 -14 /noseXspec_b 16.5 0.01 9 35 18 110
+} def
+/cheekbone2chin {
+	10 15 9 -15 10 18 1 -550 22 30 1 -500 8 80 2 -330 6 30 7 40 19 65
+} def
+/chin2throat  {
+	10 45 4 1 /shirt1 2 1 1 -420 10 25 4 -28 /shirt2 6 -33 4 9 /shirt3 6 9
+} def
+/mouth_l2r    { 12 5 12 39 1 -350 /mouthc 1 -350 4 30 4 190 4 25 } def
+/philtrum_br2bl { 4 180 } def
+/specsr_tl    {  % noseXspec_t to eyebrow_specs
+	8.2 60 /specsbridge_br 1 50 /specsbridge_tr 6.8 50 1.2 29 /eyefoldrr_l
+	17.8 29 6 40
+} def
+/specsr_bl    { 26 -35 } def     % noseXspec_b to cheekbone
+/specsr_bl2a  { 27 -37 } def     % noseXspec_b to cheekbone, lower path
+/specsr_bl2b  { 13 -55 } def     % cheekbone back to specsr_x, lower path
+/specsr_r     { 15 70 30 40 /specsr_x 15 55 } def % eyebrow_specs to cheekbone
+/specsl_tl2tr {
+	4 60 10 30 /specslXeyefold1 6 30 /specslXeyefold2 10 35 8 20 8 150
+} def
+/specsl_tr2bl { 25 30 4 50 /specsl_br 10 50 20 30 8 50 } def
+/specsl_bl2tl { 9 30 8 50 9 30 } def
+/specsl_br2bl { 6 35 20 30 8 35 } def
+/nostril_l2r  { 7 400 12 50 7 240 } def
+/nosel_b2t    { 2 50 6 210 5 170 4 25 } def
+/eye_lt       { 2 20 /eyel_lcorner 9 20 10 95 11 20 } def
+/eye_lb       { 1 200 2 25 3 -140 10 60 4 30 4 80 4 55 } def
+/hairl_t2b    { 45 20 /hairlXspecs 15 -55 18 55 } def
+/botthroat2neckback { 18 9 3 90 9 -30  10 25 35 -5 3 60 45 -2 } def
+/lapel_b2l    { 3 400 5 -80 8 1 3 -50 15 25 6 -1 8 50 10 -25 10 -70 } def
+
+% paths constructed round the frame and the major areas
+/framepath {
+	botleft moveto topleft lineto topright lineto botright lineto
+	closepath
+} def
+/shirtpath {
+} def
+/hairpath {
+} def
+/facepath {
+	forehead moveto [ forehead2cheekbone ] cheekbone_specs longcurveto
+	cheekbone_specs_b lineto [ cheekbone2chin ] underchin longcurveto
+	[ chin2throat ] botthroat longcurveto
+	[ botthroat2neckback ] neckback longcurveto hairl_b lineto
+	[ hairl_t2b ] reversecurve hairl_t longcurveto closepath
+} def
+/nostrilpath {
+	nostrill moveto [ nostril_l2r ] nostrilr longcurveto closepath
+} def
+
+% the line
+/thick1 0.25 mm def /thick2 0.35 mm def /thick3 0.5  mm def
+/thick4 0.7  mm def /thick5 0.9  mm def /thick6 1.2  mm def
+thick2 setlinewidth
+
+% the page
+/topleft { 0 mm 210 mm } def /topright { 140.5 mm 210 mm } def
+/botleft { 0 mm   0 mm } def /botright { 140.5 mm   0 mm } def
+% 144.5 mm 56 mm translate -1 1.17 scale
+% 4 mm 56 mm translate 1 1.17 div dup scale
+10 mm 6 mm translate 1.34 dup scale   % full A4
+
+% eyebrowl
+eyebrowl_l moveto [ 25 50 ] eyebrowl_r longcurveto
+gray5 gray0 2 mm 7 mm fuzzygraystroke
+
+% hair on left
+gsave newpath
+	hairl_t moveto [ hairl_t2b ] hairl_b longcurveto topleft lineto
+	closepath gray3 setgray fill
+grestore
+
+% profile
+newpath forehead moveto [ forehead2cheekbone ] cheekbone_specs longcurveto
+gsave newpath % hair on right
+	forehead moveto [ 18 -24 3 40 3.5 55 ] eyebrowr_br longcurveto
+	[ 10 -30 7 50 4 -40 ] forehead 8 mm 0 pointadd longcurveto
+	closepath gray3 setgray fill
+grestore
+gsave newpath % eyebrow on right
+	eyebrowr_l moveto [ 10 30 14 10 6 60 ] eyebrowr_tr longcurveto
+	[ 3 100 ] eyebrowr_br longcurveto
+	[ 7 100 15 -35 7 30 ] eyebrowr_l longcurveto
+	closepath gray5 gray0 2 mm fuzzygrayfill
+grestore
+cheekbone_specs_b moveto [ cheekbone2chin ] underchin longcurveto
+[ chin2throat ] botthroat longcurveto
+[ botthroat2neckback ] neckback longcurveto
+gsave % shading under chin
+	newpath facepath clip
+	newpath underchin 10 mm 0 pointadd moveto
+	[ 15 5 /underchin_l 15 5 15 25 40 5 10 55 30 3 ]
+	neckback 0.2 hairl_b 0.8 interpolate2 longcurveto
+	botthroat -5 mm 0 pointadd moveto [ chin2throat ] reversecurve
+	underchin_l longcurveto gray1 gray0 6 mm 12 mm fuzzygraystroke
+grestore
+stroke
+gsave underchin moveto -3 mm 0 mm rlineto thick1 setlinewidth stroke grestore
+
+% mouth
+newpath mouthl moveto [ mouth_l2r ] mouthr longcurveto
+gsave % top lip
+	/philtrum_bl mouthc -1.1 mm 5.9 mm pointadd pointdef
+	/philtrum_br mouthc  3.2 mm 5.3 mm pointadd pointdef
+	gsave newpath % philtrum
+		philtrum_br moveto [ philtrum_br2bl ] philtrum_bl longcurveto
+		[ 15 35 ] nostrilr longcurveto 3 mm 0 rlineto
+		[ 15 -35 ] philtrum_br longcurveto closepath gray1 setgray fill
+	grestore
+	[ 9 -70 ] philtrum_br longcurveto [ philtrum_br2bl ] philtrum_bl longcurveto
+	[ 8 20 18 -20 ] mouthl longcurveto closepath gray4 setgray fill
+grestore
+stroke
+% shading under lower lip
+newpath underchin 0.19 mouthl 0.06 mouthr 0.75 interpolate3 moveto
+[ 15 50 ] underchin 0.19 mouthl 0.60 mouthr 0.21 interpolate3 longcurveto
+gray2 gray0 2 mm 5 mm fuzzygraystroke
+% smile crease at left
+newpath nosel_b 0.31 mouthl 0.45 hairl_b 0.24 interpolate3 moveto
+[ 15 -50 ] mouthl 0.72 neckback 0.28 interpolate2 longcurveto
+gray1 gray0 1 mm 3 mm fuzzygraystroke
+% smile crease at right
+newpath nostrilr 10 mm 0 pointadd moveto 315 [ 15 50 ] longcurve
+gray1 gray0 1 mm 3 mm fuzzygraystroke
+
+% shirt
+newpath shirt4_b moveto [ 9 -1 1 1500 8 -90 5 -250 ] botthroat longcurveto
+[ 14 -30 6 40 4 -50 2 500 ] lapel_b longcurveto
+[ lapel_b2l ] lapel_l longcurveto
+gsave   % shading under left lapel
+	botleft lineto closepath clip
+	newpath shirt4_b moveto 120 [ 25 40 ] longcurve
+	gray3 gray0 4 mm 12 mm fuzzygraystroke
+	newpath lapel_b moveto [ lapel_b2l ] lapel_l longcurveto
+	gray3 gray0 2 mm 7 mm fuzzygraystroke
+grestore
+stroke
+shirt2 moveto [ 6 -20 9 20 /shirt1a 5 -20 3 90 ]
+shirt2 23 mm -1.0 mm pointadd longcurveto
+[ 2 200 4 2 2 100 5 -1 2 -150 7 2 /shirt1b 8 2 ] shirt2_b longcurveto stroke
+shirt1 moveto [ 1 150 1 -150 13 -10 4 200 3 10 ] shirt1a longcurveto stroke
+shirt1b moveto [ 4 -20 2 400 6 10 ] shirt1_b longcurveto stroke
+shirt3 moveto [ 10 -55 15 65 ] shirt3_b longcurveto
+gsave
+	shirt4_b lineto closepath clip
+	newpath shirt3_b moveto 120 [ 25 40 ] longcurve
+	gray3 gray0 4 mm 12 mm fuzzygraystroke
+grestore
+stroke
+
+% nose
+newpath bridge moveto [ bridge2nostril ] nostrilr longcurveto
+gsave   % shading under nose
+	[ nostril_l2r ] reversecurve nostrill longcurveto [4 500] nosel_b longcurveto
+	190 [ nosel_b2t ] longcurve closepath clip newpath 
+	nosel_b moveto [ 18 50 ] nostrilr 5 mm 0 pointadd longcurveto
+	gray2 gray0 2 mm 15 mm fuzzygraystroke
+grestore
+gray7 setgray stroke
+newpath nostrill moveto [ nostril_l2r ] nostrilr longcurveto
+gsave  % shadow inside nostril
+	closepath clip newpath
+	nostrill 0 3 mm pointadd moveto nostrilr 0 5 mm pointadd lineto
+	gray4 gray0 2 mm 9 mm fuzzygraystroke
+grestore
+gray6 setgray stroke gray9 setgray
+
+% specs on right
+newpath noseXspec_t  moveto [ specsr_tl ] eyebrow_specs   longcurveto stroke
+newpath noseXspec_b  moveto [ specsr_bl ] cheekbone_specs longcurveto stroke
+newpath eyebrow_specs moveto [ specsr_r ] cheekbone_specs longcurveto stroke
+newpath noseXspec_b moveto [ specsr_bl2a ] cheekbone_specs_b longcurveto
+[ specsr_bl2b ] specsr_x longcurveto stroke
+% eye on right (left eye)
+/eyer_tr eyefoldrr_r -1.3 mm -2.0 mm pointadd pointdef
+/eyer_tl noseXspec_t 4.0 mm  7.0 mm pointadd pointdef
+/eyer_bl noseXspec_t 2.7 mm  2.4 mm pointadd pointdef
+/pupil_r noseXspec_t 7.9 mm  5.7 mm pointadd pointdef
+/eyer_tl2tr { 10 50 15 40 } def
+/eyer_tr2bl { 2 1 3 360 10 34 6 55 4 30 } def
+/eyefoldrr_l2r { 19 50 } def
+eyer_tl moveto [ eyer_tl2tr ] eyer_tr longcurveto currentpoint
+gsave
+	[ eyer_tr2bl ] eyer_bl longcurveto closepath clip
+	newpath
+	pupil_r 5.2 mm 0 360 arc gray7 setgray fill
+	pupil_r 4.7 mm 0 360 arc gray5 setgray fill
+	pupil_r 1.3 mm 0 360 arc gray9 setgray fill
+	pupil_r 2.6 mm 2 mm pointadd 1.0 mm 0 360 arc gray0 setgray fill
+grestore
+thick4 setlinewidth stroke
+moveto [ eyer_tr2bl ] eyer_bl longcurveto thick2 setlinewidth stroke
+eyefoldrr_l moveto [ eyefoldrr_l2r ] eyefoldrr_r longcurveto stroke
+
+% eye on left (right eye)
+eyel_l moveto [ eye_lt ] eyel_r longcurveto currentpoint
+gsave
+	eyel_l moveto [ eye_lt ] eyel_r longcurveto 
+	[ eye_lb ] eyel_lcorner longcurveto closepath clip newpath
+	pupil_l 5.2 mm 0 360 arc gray7 setgray fill
+	pupil_l 4.7 mm 0 360 arc gray5 setgray fill
+	pupil_l 1.4 mm 0 360 arc gray9 setgray fill
+	pupil_l 2.6 mm 2 mm pointadd 1.0 mm 0 360 arc gray0 setgray fill
+grestore
+thick4 setlinewidth stroke
+moveto [ eye_lb ] eyel_lcorner longcurveto thick2 setlinewidth stroke
+eyel_r 0 -3 mm pointadd moveto 240 [ 13 20 ] longcurve
+gray2 gray0 1 mm 3 mm fuzzygraystroke
+% specs on left
+newpath specsl_tl moveto [ specsl_tl2tr ] specsl_tr longcurveto
+[ specsl_tr2bl ] specsl_bl longcurveto
+[ specsl_bl2tl ] specsl_tl longcurveto
+specsl_br moveto [ specsl_br2bl ] specsl_bl longcurveto
+gsave newpath % up left side of nose
+	nosel_b moveto 190 [ nosel_b2t ] longcurve gray5 setgray stroke
+grestore
+stroke
+newpath specsl_tl -1 mm 3 mm pointadd moveto
+[ 4 70 4 20 6 110 4 2 ] specslXeyefold2 longcurveto stroke
+specslXeyefold1 moveto [18 70] eyel_r -.5 mm 5.4 mm pointadd longcurveto stroke
+newpath specsl_tl moveto hairlXspecs 0 5 mm pointadd lineto stroke
+
+% remainder of specs
+bridge moveto specsbridge_br lineto stroke
+bridge 0 1 mm pointadd moveto specsbridge_tr lineto stroke
+bridge moveto specsl_tr lineto stroke
+bridge 0 1 mm pointadd moveto specsl_tr 0 1 mm pointadd lineto stroke
+
+% signature
+botleft moveto /Times-Italic findfont 10 scalefont setfont
+(Peter Billam, 2000) show
+(pjb.com.au) dup stringwidth pop botright 3 1 roll exch sub exch moveto show
+
+showpage
+%%EOF

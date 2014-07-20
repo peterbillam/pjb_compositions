@@ -1,0 +1,61 @@
+head     1.1;
+branch   ;
+access   ;
+symbols  ;
+locks    peter:1.1;
+comment  @# @;
+
+
+1.1
+date     94.12.04.14.52.32;  author peter;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@title page for trombone quintet arranged for piano duo
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 2.0i
+.ce 100
+\f3\s+9\s+9Trombone Quintet\s-9\s-9\fP
+.br
+.sp 0.4i
+\f3\s+9arranged for\s-9\fP
+.br
+.sp 0.4i
+\f3\s+9\s+9Two Pianos\s-9\s-9\fP
+.br
+.sp 1.3i
+\f3\s+9Peter Billam\s0\fP
+.sp 1.1i
+\f2\s+2Two pianos, four hands\s0\fP
+.br
+.sp 0.5i
+The original, for Trombone, Flute, Piano, Contrabass and Percussion
+.br
+(Marimba, Tympani, and Crotales or Triangle) is also available.
+.br
+Peter Billam, 5 Scott St, Glebe, Hobart \s-2TAS\s0 7000, Australia
+.br
+fax 0061-002-369410
+.br
+.sp 0.3i
+\s-2This printing 4 December 1994.\s0
+.br
+.sp 1i
+.ce 1
+\(co Peter J Billam, 1994
+@

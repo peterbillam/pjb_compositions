@@ -1,0 +1,338 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2009.12.10.05.31.54;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.12.09.10.46.12;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.12.08.04.04.52;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.12.06.23.47.29;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@auto canon generation for 3
+@
+
+
+1.4
+log
+@ditch old ending
+@
+text
+@#! /usr/bin/perl
+
+print <<'EOT';
+4 systems  10 / 19-30-19-30-19 / 
+title Canon  at three semitones
+midi channel 1 patch 74 pan 90 reverb 90
+midi channel 2 patch 74 pan 50 reverb 90
+midi channel 3 patch 74 pan 10 reverb 90
+/
+9 bars | 9/8 48 | 48 |
+| 9/8 3.0
+=1 treble 9/8 cha1 vol80 leg99 8 rest 4 F# 2. D
+=2 treble 9/8 cha2 vol80 leg99 1 rest
+=3 bass   9/8 cha3 vol80 leg99 1 rest
+EOT
+
+while (<DATA>) {
+	next if /^\s*$/;
+	push @@voice1, $_;
+}
+$ibar = 2; while (1) {
+	print "|\n";
+	if (0 == $ibar%5) { print "il0.5 .05 $ibar\n"; }
+	my $s = $voice1[$ibar-1] || "\n";
+	print "=1 $s";
+
+	if ($ibar < 4) {
+		print "=2 1 rest\n";
+	} else {
+		my $s = $voice1[$ibar-4] || "\n";
+		$s =~ tr/'//d;
+		system "echo \"=2 $s\" | transpose -A -9";
+	}
+	if ($ibar < 7) {
+		print "=3 1 rest\n";
+	} else {
+		last if $ibar > 6+@@voice1;
+		my $s = $voice1[$ibar-7];
+		$s =~ tr/'//d;
+		#$s =~ s/(['])/\\$1/g;
+		system "echo \"=3 $s\" | transpose -A +6";
+	}
+	$ibar += 1;
+}
+exit 0;
+
+print <<EOT;
+/
+9 bars | 9/8 48 | 48 |
+| 3.0
+=1 treble cha1 leg99 4. f# 8 [g# f# e] 4. f#
+#=2' treble cha2 leg99 8 [A B c#] 4. B 8 [A B c#]
+=2' treble cha2 leg99 1 blank
+#=3  bass   cha3 leg99 4 gb 8 f 4 d# 8 f 4 gb 8 f
+=2  treble cha2 leg99  4 Bb 8 Ab 4 Bb 8 c 4 Bb 8 Ab
+=3 bass cha3 leg99 1 blank
+#=3 bass cha3 leg99 4 e~ 8 e~b 4. c~# 4 e~n 8 e~b
+|
+=1 8 [g# f# e] 4. f# 8 [g# f# e]
+#=2' 4. B 8 [A B c#] 4. B
+=2 4 Bb 8 c 4 Bb 8 Ab 4 Bb 8 c
+#=3 4. d~ 4 e~ 8 e~b 4. c~#
+|
+=1 4. f# 8 [g# f# e] 4. f#
+#=2' 8 [A B c#] 4. B 4 A 8 B
+=2 4 Bb 8 c 2. Bb
+#=3 4. e~b d~ 4 e~b 8 d~
+
+|
+#=1 4 A 8 Ab 4 F# 8 G# 4 An 8 Ab
+=1 4 g 8 f# 4. e 4 g 8 f#
+=2' 4. A 8 [B A G] 4. A
+#=3 8 [c~ d~ e~] 4. d~ 8 [c~ d~ e~]
+=3 4 c~# 8 b 4 c~# 8 d~# 4 c~# 8 b
+|
+=1 4. f 4 g 8 f# 4. e
+=2' 8 [B A G] 4. A 8 [B A G]
+#=3 4. d~ 8 [c~ d~ e~] 4. d~
+=3 4 c~# 8 d~# 4 c~# 8 b 4 c~# 8 d~#
+|
+=1 4. f# fn 4 f# 8 fn
+=2' 4. A 8 [B A G] 4. A
+#=3 8 [c~ d~ e~] 4. d~ 4 c~ 8 d~
+=3 4 c~# 8 d~# 2. c~#
+
+|
+=1 8 [eb f g] 4. f 8 [eb f g]
+#=2 4 c 8 B 4 A 8 B 4 c 8 Bn
+=2' 4 Bb 8 A 4. G 4 Bb 8 A
+=3 4. c~ 8 [d~ c~ bb] 4. c~
+|
+=1 4. f 8 [eb f g] 4. f
+=2' 4. G# 4 Bb 8 A 4. Gn
+=3 8 [d~ c~ bb] 4. c~ 8 [d~ c~ bb]
+|
+=1 8 [eb f g] 4. f 4 eb 8 f
+=2 4. A G# 4 A 8 G#
+=3 4. c~ 8 [d~ c~ bb] 4. c~
+
+|
+=1 4. eb 8 [f eb c#] 4. eb
+=2 8 [F# G# A#] 4. G# 8 [F# G# A#]
+=3 4 c~# 8 c~n 4. bb 4 c~# 8 c~n
+|
+=1 8 [f eb c#] 4. eb 8 [f eb c#]
+=2 4. G# 8 [F# G# A#] 4. G#
+=3 4. b 4 c~# 8 c~n 4. bb
+|
+=1 4. eb 8 [f eb c#] 4. eb
+=2 8 [F# G# A#] 4. G# 4 F# 8 G#
+=3 4. c~ b 4 c~ 8 b
+
+|
+=1 1 blank
+=2' 4. F# 8 [G# F# E] 4. F#
+=3 8 [a b c~#] 4. b 8 [a b c~#]
+|
+=1 1 blank
+=2' 8 [G# F# E] 4. F# 8 [G# F# E]
+=3 4. b 8 [a b c~#] 4. b
+|
+=1 2. eb 4. rest
+=2' 4. F# 8 [G# F# E] 4. F#
+=3 8 [a b c~#] 4. b 4 a 8 b
+
+|
+=1 1 eb
+=2 1 blank
+=3 4. a 8 [b a g] 4. a
+|
+=1 1 blank
+=2 1 blank
+=3 8 [b a g] 4. a 8 [b a g]
+|
+=1 1 blank
+=2 2. Gb 4. rest
+=3 4. a 8 [b a g] 4. a(1
+|
+=1 1 d#
+=2 1 F#
+=3 1 a)1
+EOT
+
+exit 0;
+
+__END__
+8 rest 4 F# 2. D
+8 rest 4 D 2. Eb
+8 rest 4 F# 4. G Eb
+1 D(2
+2. D)2 8 rest 4 D
+1 Eb(2
+4. Eb)2(2 4 Eb)2 8 rest [Eb D C]
+1 D
+4. Eb(2 4 Eb)2 8 rest [Eb Db C]
+
+1 Db(2
+4. Db)2 8 rest 4 Ab 4. eb
+4. db A B'
+4. cn G# A
+2. B 8 rest 4 A
+2. G 4. G
+2. A 8 rest 4 G
+1 F(2
+2. F)2 8 rest 4 G
+
+2. A 8 [G A Bb']
+4. c d eb
+1 f
+4. F G G#
+1 A
+4. B f# e
+1 d#
+4. dn(1 4 d)1 e f#
+4. g(1 4 g)1 f# e
+
+4. d(1 4 d)1 c# B
+2. A 4. f
+1 eb(1
+4 eb)1 8 rest 4. B c
+4. d c 8 rest 4 Bb
+2. Ab 4. Bb
+1 c
+4. Bn c# d#
+4. f eb 8 rest 4 db
+
+2. B 8 rest 4 A
+2. B 8 rest 4 A
+2. B 8 rest 4 A
+2. B 8 rest 4 A
+@
+
+
+1.3
+log
+@almost joins up...
+@
+text
+@d185 1
+a185 2
+4. f 8 g f eb 4. f
+4. A 8 B A G 4. A
+d187 4
+a190 11
+4. c 8 d c Bb 4. c
+8 e d c 4. d 8 e d c
+4. e 8 f# e d 4. e
+
+4 fn 8 e 4. d 4 f 8 e
+4. eb 4 f 8 e 4. d
+4. e d# 4 e 8 d#
+
+8 db eb f 4. eb 8 db eb f
+4. eb 8 db eb f 4. eb
+8 db eb f 4. eb 4 db 8 eb
+@
+
+
+1.2
+log
+@roll in prototype ending from 3x
+@
+text
+@d6 3
+a8 3
+midi channel 1 patch 74 pan 80
+midi channel 2 patch 74 pan 50
+midi channel 3 patch 74 pan 20
+d13 1
+a13 1
+=2 bass   9/8 cha2 vol80 leg99 1 rest
+d32 1
+a32 1
+		system "echo \"=2 $s\" | transpose -A +15";
+d45 1
+d52 2
+a53 1
+=2' treble cha2 leg99 8 [A B c#] 4. B 8 [A B c#]
+d55 1
+d60 2
+a61 1
+=2' 4. B 8 [A B c#] 4. B
+d65 2
+a66 1
+=2' 8 [A B c#] 4. B 4 A 8 B
+d73 2
+a74 1
+=3 8 [c~ d~ e~] 4. d~ 8 [c~ d~ e~]
+d78 2
+a79 1
+=3 4. d~ 8 [c~ d~ e~] 4. d~
+d83 2
+a84 1
+=3 8 [c~ d~ e~] 4. d~ 4 c~ 8 d~
+d89 1
+a89 1
+=2 4 Bb 8 A 4. G 4 Bb 8 A
+d93 1
+a93 1
+=2 4. G# 4 Bb 8 A 4. Gn
+d101 1
+a101 1
+=1' 4. eb 8 [f eb c#] 4. eb
+d105 1
+a105 1
+=1' 8 [f eb c#] 4. eb 8 [f eb c#]
+d109 1
+a109 1
+=1' 4. eb 8 [f eb c#] 4. eb
+d122 1
+a122 1
+=1 1 blank
+d127 1
+a127 1
+=1 1 blank
+d133 1
+a133 1
+=3' 8 [b a g] 4. a 8 [b a g]
+d136 1
+a136 1
+=2 1 blank
+d140 1
+a140 5
+=2 1 F#(2
+=3 1 a)1(1
+|
+=1 1 c#
+=2 1 F#)2
+d170 29
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d45 95
+@

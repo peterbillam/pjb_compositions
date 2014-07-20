@@ -1,0 +1,860 @@
+head	1.13;
+access;
+symbols;
+locks
+	pjb:1.13; strict;
+comment	@# @;
+
+
+1.13
+date	2010.07.03.06.32.51;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2010.07.02.05.56.24;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2010.07.01.11.07.37;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2010.06.29.09.53.51;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2010.06.28.09.49.52;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2010.06.28.01.05.34;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.06.27.07.36.36;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.06.26.03.38.27;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.06.25.03.38.58;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.06.24.08.29.33;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.06.24.04.07.17;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.06.23.10.57.25;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.06.20.01.13.26;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@perl script to make 4-voice canon at 11 semitones
+@
+
+
+1.13
+log
+@plausible ?
+@
+text
+@#! /usr/bin/perl
+
+my $patch = '0';
+
+my @@v = ();
+my @@voice1 = ("1 rest'\n");
+my @@voice2 = ("1 rest,\n");
+my @@voice3 = ();
+my @@voice4 = ();
+my $ibar = 0;
+while (<DATA>) {
+	next if /^\s*$/;
+	next if /^#/;
+	last if /^quit/;
+	chop;
+	$v[$ibar] = $_;
+	$ibar += 1;
+}
+$ibar = 1;
+while (my $s4 = $v[$ibar]) {
+	my ($h1, $h2) = split('   ',$s4);
+	my $s2 = $v[$ibar-1];
+	my ($h1bm1, $h2bm1) = split('   ', $s2);
+	if (! $h2bm1) {
+		warn "bar $ibar doesn't have 2 halves separated by 3 spaces\n";
+	}
+	my ($h1bm2, $h2bm2) = split('   ', $v[$ibar-2]);
+	if ($ibar == 1) { $h2bm2 = "2 rest'"; }
+	my $s1 = "$h2bm2 $h1bm1";
+	$s1 =~ s/rest,/rest'/g;
+	$s1 =~ s/([()])2/${1}1/g;
+	$voice1[$ibar] = `echo "=1' cha1 $s1" | transpose +9 -A`;
+	$voice2[$ibar] = `echo "=1, cha2 $s2" | transpose -2 -A`;
+	my $s3 = "$h2bm1 $h1";
+	$s3 =~ s/rest,/rest'/g;
+	$s3 =~ s/([()])2/${1}1/g;
+	$voice3[$ibar] = `echo "=2' cha3 $s3" | transpose +11 -A`;
+	$voice4[$ibar] = "=2, cha4 $s4\n";
+	$ibar += 1;
+}
+
+print <<EOT;
+4 systems 10 /19-45-19/19-45-19/19-45-19/19-45-19 10/
+pagenum
+title Canon  at eleven semitones
+leftfoot (c) 2010 Peter J Billam
+# or: 73,71,70,70 or: 40,41,42,42 or 73,71,0,0
+midi channel 1 patch $patch reverb 99 pan 95
+midi channel 2 patch $patch reverb 99 pan 65
+midi channel 3 patch $patch reverb 99 pan 35
+midi channel 4 patch $patch reverb 99 pan 5
+/
+2 bars | 4/4 48 | 48 |
+| 3.2
+=1'  treble 4/4 cha1 leg99 $voice1[0]
+=1,  treble 4/4 cha2 leg99 $voice2[0]
+=2'  bass   4/4 cha3 leg99 2 rest'   8. c# 16 rest' 8. rest' 16 d#
+=2,  bass   4/4 cha4 leg99 $v[0]
+EOT
+
+$ibar = 1; while (1) {
+	if (2 == $ibar) { print "/\n2 bars | 48 | 48 |\n"; }
+	print "|\n";
+	if (4 == $ibar%5) { printf "il0.9 .20 %d\n",$ibar+1; }
+
+	if (! $voice4[$ibar]) { last; }
+	if ($ibar > 186) { last; }
+	print $voice1[$ibar];
+	print $voice2[$ibar];
+	print $voice3[$ibar];
+	print $voice4[$ibar];
+
+	$ibar += 1;
+}
+exit 0;
+
+__END__
+
+# Overall plan: +0 +1 +1 +2 +1 +1 +2 +1 +3 +ending
+
+# a=0 b=3 c=5 d=6 e=8 f=0 g=9 h=3
+8. D 16 rest, 8. rest, 16 E   4. F 16 [F# G(2]
+2 G)2   2 G#
+4 A# 16 rest, 8. c   4. d 16 [c B(2]
+8 [B)2 8. A# G#]   4 F Eb
+
+# a=0 b=3 c=4 d=6 e=9 f=10 g=0 h=4
+# 5
+8. D 16 rest, 8. rest, 16 E   4. F 16 [F F#(2]
+2 F#)2   4 G# 16 rest, 8. A
+2 B   4. c 16 [c# d(2]
+8 [d)2 8. B A]   4 F# E
+# 8. Eb 16 rest, 8. rest, 16 Fn   4. F# 16 [F# G(2]
+# 8. Eb 16 rest, 8. rest, 16 Fn   4 F# 8 [B 16 A G(2]
+8. Eb 16 rest, 8. rest, 16 Fn   8 [F# 16 G# A#] 8 [B 16 An Gn(2]
+# 10
+4 G)2 16 rest, 8. G#   4 A 16 rest, 8. B
+# 4 c 8. rest, 16 c   4. c# 16 [d eb(2]
+# 4 c 8. rest, 16 c   4 c# 8 [g 16 f eb(2]
+4 c 8. rest, 16 c#   8 [d 16 e f] 8 [g 16 fn eb(2]
+8 [eb)2 8. cn 8 Bb 16 Ab]   4 G F
+
+# a=0 b=1 c=5 d=6 e=8 f=0 g=1 h=7   a=2
+# rise by 2 semitones
+# 8. E 16 rest, 8. rest, 16 E   4. F 16 [G A(2]
+8. E 16 rest, 8. rest, 16 E   8 [F 16 c d] 8 [c 16 B Bb]
+4 A 16 rest, 8 [G 16 A]   4.. Bb 16 Bb
+# 15
+# 2 c   2 e
+16 [c d c Bn] 8 [c d]   2 e
+# 2 f   2 B
+8. [f 8 eb d 16 c]   4. B 16 [A G]
+
+# a=0 b=3 c=4 d=6 e=9 f=10 g=0 h=4
+# 2 F#   2 A
+4 F# G#   8. A 16 rest, 8. rest, 16 Bn
+# 2 Bb   2 c
+4 Bb 16 rest, 8. c(2   4. c)2 16 [c d]
+# 2 d#   2 e
+8. [d# 16 fn] 4 d#   4.. e 16 f#(2
+# 20
+# 2 f#   2 Bb
+# 16 [f#)2 8 fn eb db 16 Bn]   4 Bb Ab
+4 f#)2 16 rest, 8. c#   4 Bb Ab
+# 2 G   2 Bb
+4. G 8 An   4. Bb 16 [Bb Bn(2]
+# 2 Bn   2 c#
+4 Bn)2 16 rest, 8. cn   4 c# 16 rest, 8. d#
+# 2 e   4 f f
+4 e 16 [e cn dn e]   8. [f 16 g] 4 f
+# 2 g   2 B
+16 [g ab bb ab] [f# e d c]   4 B 16 [c# B A B]
+
+# another rise by 2 semitones
+# a=0 b=1 c=5 d=6 e=8 f=0 g=1 h=7   a=2
+# 25
+# 2 G#   2 A
+16 [cn Bb Ab Bb] 4 Ab   16 [An Bn c A] [B c A# B]
+# 2 c#   2 d
+4 c# 16 [c# d# e c#]   16 [dn e] 4 d 16 [eb f]
+# 2 e   2 g#
+16 [en f# gn a] 8 [e 16 fn f#]   16 [g# bb g# bb] 8 [g# 16 f# g#]
+#2 a   2 d#
+8. [a 16 a(2] [a)2 gn fn e]   16 [d# c# 8 d#(2] 16 [d#)2 d# dn cn]
+
+# last rise by one semitone
+# a=0 b=3 c=4 d=6 e=9 f=10 g=0 h=4
+#2 A#   2 c#
+# 4. A# 16 [B c#(2]   4.. c#)2 16 d(2
+8. [A# 16 cn] [dn A# B c#(2]   16 [c#)2 d# 8 c#(2] 16 [c#)2 d# e dn(2]
+# 30
+#2 d   2 e
+16 [d)2 e f d(2] [d)2 e f e(2]   16 [e)2 f g e(2] [e)2 f f# g(2]
+#2 g   2 ab
+16 [g)2 ab bb g] [ab bb g an(2]   16 [an)2 bn c~# d~] [a b c~# b]
+# 2 bb   2 d
+32 [bb c~n bb c~ bb c~ bb c~] [bb c~ bb c~ bb c~ bb c~]   2 rest,
+
+# rise by three semitones
+# 2 B   2 c
+2 rest,   4 rest, 8 [c d]
+# 2 eb   2 en
+4.. d# 16 e(2   4 e)2 16 rest, 8. f#(2
+# 35
+# 2 f#   2 g
+#4.. f#)2 16 g(2   8 [g)2 8. fn d]
+4 f#)2 8. [g 16 fn(2]    8 [f)2 8. d c#]
+# 2 B   2 G
+4 B A   4. G 8 D(2
+
+# into the ending... 4. G 8 C
+# 2 D   2 Eb
+2 D)2   4 Eb 16 rest, 8. Ab
+#2 Bb   2 G
+4.. Bb 16 G(2   4. G)2 8 D(2
+# 2 D   2 Eb
+4.. D)2 16 Eb(2   8 [Eb)2 8. F 8 G 16 Ab]
+# 40
+#2 Bb   2 G
+4.. Bb 16 G(2   4.. G)2 16 D(2
+# a=0 b=5 c=0 d=5
+2 D)2   2 G
+2 D   2 G
+2 D   2 G
+2 D   2 blank
+
+quit
+
+# a=0 b=1 c=5 d=6 e=7 f=10 g=1 h=6   a=1
+# good rise by one semitone
+2 D   2 Eb
+2 G   2 G#
+2 A   2 c
+2 eb   2 G#
+2 D#   2 E
+2 G#   2 A
+2 Bb   2 c#
+2 e   2 A
+quit
+
+# a=0 b=1 c=5 d=6 e=8 f=0 g=1 h=7   a=2
+# possible rise by 2 semitones
+2 D   2 Eb
+2 G   2 G#
+2 Bb   2 d
+2 eb   2 A
+2 E   2 F
+2 A   2 Bb
+2 c   2 e
+2 f   2 B
+quit
+
+# a=0 b=1 c=4 d=7 e=8 f=3 g=10 h=7   a=2
+# completely whole-toney; boring
+2 D   2 Eb
+2 F#   2 A
+2 Bb   2 f
+2 cn   2 A
+2 E   2 F
+2 G#   2 B
+2 c   2 g
+2 dn   2 B
+quit
+
+# a=0 b=1 c=6 d=7 e=8 f=1 g=2 h=7   a=2
+2 D   2 Eb
+2 G#   2 A
+2 Bb   2 eb
+2 en   2 A
+2 E   2 F
+2 A#   2 B
+2 c   2 f
+2 gb   2 B
+quit
+
+# a=0 b=1 c=8 d=5
+# great ending!
+2 D   2 Eb
+2 Bb   2 G
+2 D   2 Eb
+2 Bb   2 G
+# plug-compatible :-)
+# a=0 b=5 c=0 d=5
+# a possible finish on the D f# C e chord...
+2 D   2 G
+2 D   2 G
+2 D   2 G
+2 D   2 G
+quit
+
+# a=0 b=3 c=6 d=7 e=8 f=1 g=10 h=7
+# not bad: shapely
+2 D   2 F
+2 G#   2 A
+2 Bb   2 eb
+2 c   2 A
+2 D   2 F
+2 G#   2 A
+2 Bb   2 eb
+2 c   2 A
+
+# a=0 b=2 c=6 d=7 e=8 f=1 g=10 h=7
+# basically, good :-)
+2 D   2 E
+# quibble: exposed 5th scnd-half this bar et seq
+2 G#   2 A
+2 Bb   2 eb
+2 c   2 A
+2 D   2 E
+2 G#   2 A
+2 Bb   2 eb
+2 c   2 A
+quit
+
+# a=0 b=2 c=6 d=3 e=6 f=7 g=10 h=7
+# the repeated G# is poor
+2 D   2 E
+2 G#   2 f
+2 g#   2 a
+2 c   2 A
+2 D   2 E
+2 G#   2 F
+2 G#   2 A
+2 c   2 A
+quit
+
+# a=0 b=2 c=8 d=3 e=4 f=7 g=10 h=7
+# bit too leapy; chord on Bb sounds illogical
+2 D   2 E
+2 Bb   2 F
+2 F#   2 A
+2 c   2 A
+2 D   2 E
+2 Bb   2 F
+2 F#   2 A
+2 c   2 A
+quit
+
+
+# a=0 b=2 c=6 d=3 e=8 f=5 g=10 h=7
+2 D   2 E
+2 Ab   2 F
+# 2nd half of this next bar sounds rough...
+2 Bb   2 G
+2 c   2 A
+2 D   2 E
+2 Ab   2 F
+2 Bb   2 G
+2 c   2 A
+
+quit
+# u u u u u u u D
+8. D 16 rest, 8. rest, 16 D   8 E rest, 8 rest, 16 [D E]
+8 F# rest, rest, 16 [E F#]   8 G# rest, 16 rest, [E F# G#]
+8 A rest, rest, 16 [G# A]   8 A# rest, 16 rest, [G# An A#]
+8 B rest, 16 rest, [An A# B]   4 c 16 [Bb Ab G F#]
+8. D 16 rest, 8 rest, 16 [C# D]   8 E rest, 16 rest, [C# D E]
+8 F# rest, 16 rest, [D E F#]   8 G# rest, 16 [D E F# G#]
+8 A rest, 16 rest, [F# G# A]   8 A# rest, 16 [F# G# An A#]
+8 B rest, 16 [G# An A# B]   8. c 16 B [Bb Ab Gn F#]
+8. E 16 rest, 8 rest, 16 [E Fn]   8 F# rest, 16 rest, [E Fn F#]
+# 10
+8 G rest, 16 rest, [Fn F# G]   8 A rest, 16 [E F# G A]
+8 Bb rest, 16 rest, [G Ab Bb]   4 c 16 [Bn Bb An G]
+4 F# 8 [G leg50 G#]    8 leg99 [d B leg50 c leg99 eb]
+8 [G leg50 G# leg99 d A]     8 leg50 [Bb leg99 16 eb Gn] leg40 [Ab leg99 en A# leg50 Bn]
+2 blank   2 blank
+
+quit
+
+# u u u u u u D
+2 D   2 E
+2 F#   2 G#
+2 A   2 Bb
+2 Bn   2 D
+2 E   2 F
+
+quit
+# u u u u u D
+2 D   2 E
+2 F#   2 G#
+2 A   2 Bb
+2 D   2 E
+2 F   2 G
+2 A   2 Bb
+2 D   2 Eb
+2 F   2 F#
+2 G#   2 A#
+2 C#   2 D#
+2 E   2 F#
+
+quit
+8. D 16 rest, 8. rest, 16 D   8 E rest, 8 rest, 16 [D E]
+8 F rest, 8. rest, 16 A   8 G# rest, 8 rest, 16 [E F#]
+8 B rest, 16 rest, [c B A#]   8 G# rest, 16 [An B c c#]
+8 d 16 rest, f [e d db cn]   8 A# 16 [F G] [An B c dn]
+8. eb 16 rest, 4 rest,   2 rest,
+4 Eb 8. rest, 16 F   2 F#
+
+
+quit
+8. D 16 rest, 8. rest, 16 D   8 E rest, 8 rest, 16 [D E]
+8 F# rest, 16 rest, [D E F#]   8 G# rest, 16 [D E F# G#]
+8 [Bb 16 rest, A] 8 [Abl 16 rest, G]   8 [Gb 16 rest, F] 8 [E 16 rest, Eb]
+8. D 16 rest, 8. rest, 16 D   8 E rest, 8 rest, 16 [D E]
+# 5
+8 F rest, 16 rest, [D E F]   8 G rest, 16 [D E F G]
+2 G#   8 [A# B leg50 fn] leg99 B
+leg99 8 [c leg50 g] leg99 16 rest, leg99 [gb f leg50 B]   16 leg99 [eb d leg50 A leg99 db] [c A 8 Bb]
+leg50 8 e leg99 [A# Bn leg50 c#]   8 leg99 [F# leg50 G] leg99 4 Eb
+8. D 16 rest, 8. rest, 16 D   8 E rest, 8 rest, 16 [D E]
+# 10
+8 F# rest, 16 rest, [D E F#]   8 G# rest, 16 [D E F# G#]
+#
+#5 systems 10 /19-45-19/19-45-19/19-45-19/19-45-19/19-45-19 10/
+#pagenum
+#innerhead Canon  at eleven semitones, Peter Billam
+#leftfoot (c) 2010 Peter J Billam
+8. A 16 rest, 8. rest, 16 A   8 B rest, rest, 16 [A B]
+8 c# rest, 16 rest, [A B c#]   2 d
+
+
+@
+
+
+1.12
+log
+@a bridgehead around bar 20
+@
+text
+@d115 2
+a116 1
+2 F#   2 A
+d118 1
+a118 1
+4.. Bb 16 c(2   2 c)2
+d120 1
+a120 1
+2 d#   4.. e 16 f#(2
+d123 2
+a124 1
+16 [f#)2 8 fn eb db 16 Bn]   4 Bb Ab
+d126 1
+a126 1
+4.. G 16 A   4. Bb 16 [Bb Bn(2]
+@
+
+
+1.11
+log
+@gap now perhaps just 17-24
+@
+text
+@d116 4
+a119 2
+2 Bb   2 c
+2 d#   2 e
+d121 6
+a126 3
+2 f#   2 Bb
+2 G   2 Bb
+2 Bn   2 c#
+d128 1
+a128 1
+4 e 16 [e cn d e]   16 [f gn a b] 4 f
+@
+
+
+1.10
+log
+@unfinished gap now about 15-27
+@
+text
+@d107 1
+a107 1
+4 A 16 rest, 8 [G 16 A]   2 Bb
+d109 4
+a112 2
+2 c   2 e
+2 f   2 B
+d122 4
+a125 2
+2 e   2 f
+2 g   2 B
+a128 1
+2 G#   2 A
+d130 4
+a133 1
+2 c#   2 d
+d135 1
+a135 1
+4 e 8 [e 16 e f#]   16 [g# bb g# bb] 8 [g# 16 f# g#]
+d143 1
+a143 1
+8. [A# 16 c] [dn A# B c#(2]   16 [c#)2 d# 8 c#(2] 16 [c#)2 d# e dn(2]
+@
+
+
+1.9
+log
+@bars 32-44 almost plausible
+@
+text
+@d128 4
+a131 2
+2 e   2 g#
+2 a   2 d#
+d136 2
+a137 1
+4. A# 16 [B c#(2]   4.. c#)2 16 d(2
+d140 1
+a140 1
+4.. d)2 16 e(2   4.. e)2 16 g(2
+d144 1
+a144 1
+166 [bb c~n bb c~ bb c~] [bb c~ bb c~ bb c~]   2 rest,
+@
+
+
+1.8
+log
+@tweak last ten bars some more
+@
+text
+@d153 1
+a153 1
+4. B 8 A   4.. G 16 D(2
+d161 1
+a161 1
+2 D)2   4 Eb 16 rest, 8. G
+@
+
+
+1.7
+log
+@much striving and fumbling 30-end
+@
+text
+@d150 2
+a151 1
+4.. f#)2 16 g(2   8 [g)2 8. fn d]
+d159 1
+a159 1
+4.. Bb 16 G(2   4.. G)2 16 D(2
+d161 1
+a161 1
+2 D)2   2 Eb
+@
+
+
+1.6
+log
+@bars 9-13 somewhat more interesting
+@
+text
+@d100 2
+a101 2
+4 c 8. rest, 16 c   8 [d 16 e f#] 8 [g 16 fn eb(2]
+8 [eb)2 8. cn Bb]   4 G F
+d105 3
+a107 2
+8. E 16 rest, 8. rest, 16 E   4. F 16 [G A(2]
+4 A)2 16 rest, 8. Bn   2 Bb
+d133 2
+a134 1
+2 A#   2 c#
+d136 6
+a141 3
+2 d   2 e
+2 g   2 ab
+2 bb   2 d
+d144 4
+a147 2
+2 B   2 c
+2 eb   2 en
+d149 12
+a160 7
+2 f#   2 g
+2 B   2 G
+
+# into the ending...
+2 D   2 Eb
+2 Bb   2 G
+2 D   2 Eb
+d162 2
+a163 1
+2 Bb   2 G
+d165 1
+d168 1
+a168 2
+2 D   2 G
+2 D   2 G
+@
+
+
+1.5
+log
+@some steps towards a plausible first 14 bars
+@
+text
+@d93 3
+a95 1
+8. Eb 16 rest, 8. rest, 16 Fn   4. F# 16 [F# G(2]
+d97 4
+a100 2
+2 G)2   2 A
+2 c   4. c# 16 [d eb(2]
+d105 2
+a106 2
+2 E   2 F
+2 A   2 Bb
+@
+
+
+1.4
+log
+@attempt interestification of first page
+@
+text
+@d85 1
+a85 1
+8 [B)2 8. A# G#]   2 F
+d92 2
+a93 2
+8 [d)2 8. B A]   2 F#
+2 Eb   2 F#
+d95 3
+a97 3
+2 G   2 A
+2 c   2 db
+2 eb   2 G
+@
+
+
+1.3
+log
+@ongoingly plausibilised
+@
+text
+@d29 3
+a31 1
+	my $s1 = "$h2bm2 $h1bm1";   $s1 =~ s/rest,/rest'/g;
+d34 3
+a36 1
+	my $s3 = "$h2bm1 $h1";   $s3 =~ s/rest,/rest'/g;
+d57 1
+a57 1
+=2'  bass   4/4 cha3 leg99 2 rest'   8. c# 16 rest, 8. rest, 16 c#
+a80 5
+# a=0 b=2 c=5 d=6 e=7 f=10 g=0 h=6
+#2 D   2 E
+#2 G   2 G#
+#2 A   2 c
+#2 d   2 G#
+d82 4
+a85 4
+2 D   2 F
+2 G   2 G#
+2 Bb   2 d
+2 B   2 F
+a86 35
+# a=0 b=1 c=5 d=6 e=7 f=10 g=1 h=6   a=1
+# good rise by one semitone, But: very wholetoney
+# 5
+#2 D   2 Eb
+#2 G   2 G#
+#2 A   2 c
+#2 eb   2 G#
+# and another
+#2 D#   2 E
+# 10
+#2 G#   2 A
+#2 Bb   2 c#
+#2 e   2 A
+# a=0 b=4 c=5 d=6 e=10 f=0 g=1 h=5
+# 5
+#2 D   2 F#
+#2 G   2 G#
+#2 c   2 d
+#2 eb   2 G
+#2 Eb   2 G
+## 10
+#2 G#   2 A
+#2 c#   2 d#
+#2 e   2 G#
+# a=0 b=5 c=6 d=7 e=10 f=0 g=1 h=5
+# 5
+#2 D   2 G
+#2 G#   2 A
+#2 c   2 d
+#2 eb   2 G
+#2 Eb   2 G#
+# 10
+#2 A   2 A#
+#2 d   2 e
+#2 f   2 G#
+d89 4
+a92 4
+2 D   2 F
+2 F#   2 G#
+2 B   2 c
+2 d   2 F#
+a106 12
+# a=0 b=1 c=5 d=6 e=7 f=10 g=1 h=6   a=1
+# good rise by one semitone
+#2 F#   2 G
+#2 B   2 c
+#2 c#   2 e
+# 20
+#2 g   2 cn
+# and another
+#2 G   2 Ab
+#2 c   2 c#
+#2 d   2 f
+#2 g#   2 c#
+d118 1
+a119 1
+# another rise by 2 semitones
+a126 6
+# a=0 b=1 c=5 d=6 e=7 f=10 g=1 h=6   a=1
+#2 A#   2 c
+# 30
+#2 d#   2 e
+#2 f   2 g#
+#2 b   2 e
+d134 1
+a134 13
+# a=0 b=1 c=4 d=5 e=7 f=8 g=0 h=8   a=3
+#2 D   2 Eb
+#2 F#   2 G
+#2 A   2 Bb
+#2 d   2 Bb
+#2 F   2 Gb
+#2 A   2 Bb
+#2 c   2 db
+#2 f   2 db
+#2 Ab   2 B
+#2 c   2 db
+#2 d#   2 e
+#2 ab   2 e
+a146 1
+# plug-compatible :-)
+a147 1
+# a possible finish on the D f# C e chord...
+@
+
+
+1.2
+log
+@plausible half-note skeleton all way through
+@
+text
+@d74 1
+a75 1
+# a=0 b=3 c=6 d=7 e=8 f=1 g=10 h=7
+d77 6
+a82 1
+# not bad: shapely
+d84 3
+a86 3
+2 G#   2 A
+2 Bb   2 eb
+2 c   2 A
+d89 1
+a89 1
+# good rise by one semitone
+d91 4
+a94 4
+2 D   2 Eb
+2 G   2 G#
+2 A   2 c
+2 eb   2 G#
+d96 34
+a129 1
+2 D#   2 E
+d131 3
+a133 3
+2 G#   2 A
+2 Bb   2 c#
+2 e   2 A
+d145 5
+a149 4
+2 F#   2 G
+2 B   2 c
+2 c#   2 e
+2 g   2 cn
+d151 8
+d160 5
+a164 4
+2 G   2 Ab
+2 c   2 c#
+2 d   2 f
+2 g#   2 c#
+d174 1
+d176 7
+a182 3
+# last rise by one semitone
+2 A#   2 C
+2 d#   2 e
+d184 3
+a186 2
+2 f   2 g#
+2 b   2 e
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d74 218
+d305 3
+a307 1
+2 F#   2 blank
+@

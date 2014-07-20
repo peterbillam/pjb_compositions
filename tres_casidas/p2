@@ -1,0 +1,73 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 2.0c
+.ce 3
+\f3\s+9Tres Casidas del Diván del Tamarit\s-9\fP
+.br
+.sp 1.2c
+\f3music by Peter Billam, \(co 1997, 2005 Peter Billam
+.sp 0.3c
+poems by Federico García Lorca, 1898 \- 1936\fP
+.sp 1.8c
+.nr PS 11
+.nr VS 13
+.IP \  4.5c
+\f3\s+2Casida del llanto\s0\fP
+.sp 0.4c
+.IP \  4.5c
+He cerrado mi balcón
+.br
+porque no quiero oír el llanto,
+.br
+pero por detrás de los grises muros
+.br
+no se oye otra cosa que el llanto.
+.IP \  4.5c
+Hay muy pocos ángeles que canten,
+.br
+hay muy pocos perros que ladren,
+.br
+mil violines caben en la palma de mi mano.
+.IP \  4.5c
+Pero el llanto es un perro inmenso,
+.br
+el llanto es un ángel inmenso,
+.br
+el llanto es un violín inmenso,
+.br
+las lágrimas amordazan al viento,
+.br
+y no se oye otra cosa que el llanto.
+.sp 2.0c
+.IP \  4.5c
+\f3\s+2Casida de la rosa\s0\fP
+.sp 0.4c
+.IP \  4.5c
+La rosa
+.br
+no buscaba la aurora:
+.br
+casi eterna en su ramo,
+.br
+buscaba otra cosa.
+.IP \  4.5c
+La rosa
+.br
+no buscaba ni ciencia ni sombra:
+.br
+confín de carne y sueño,
+.br
+buscaba otra cosa.
+.IP \  4.5c
+La rosa
+.br
+no buscaba la rosa.
+.br
+Inmóvil por el cielo
+.br
+buscaba otra cosa.

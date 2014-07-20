@@ -1,0 +1,123 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	96.04.23.07.39.19;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	96.04.23.07.30.27;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.04.23.07.28.23;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@the poems, for page 2
+@
+
+
+1.3
+log
+@full stop after erworben
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 11
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.ce 100
+.sp 0.5i
+\f3\s+6De Profundis\s-9\fP
+.sp 0.3i
+.ce 0
+.DS B
+Durch tiefe Finsternis bin ich gegangen;
+Durch dunkle, dumpfe, sternenlose Nacht,
+Durch Wu\*:stenschluchten and durch Meeresgru\*:nde,
+Durch Feuerwa\*:lle und durch Ho\*:llenschlu\*:nde,
+Versenkt in meines Daseins tiefsten Schlacht.
+.sp 0.2i
+Und Freiheit kam, als Allem ich gestorben,
+Was gestern mir noch traut und Heimat war,
+Was ich in harter Mu\*:he, Jahr um Jahr,
+In Hoffnung auf das Morgen mir erworben.
+.sp 0.2i
+Die Freiheit kam: so wie ein Blitz im Dunkeln.
+Geblendet steh' ich \- wie dem Grab entstiegen.
+Noch ist es Nacht \- doch ho\*:r' ich Vo\*:gel fliegen
+Und seh' am klaren Himmel Sterne funkeln.
+.DE
+.ce 100
+.sp 0.5i
+\f3\s+6Nacht\s-9\fP
+.sp 0.3i
+.ce 0
+.DS B
+Die Nacht ero\*:ffnet weit
+\ \ \ des Weltenhauses Tore,
+Macht aus der Erde
+\ \ \ einen Stern in Raum,
+auf dem wir pfeilgeschwind
+\ \ \ das All durchstreifen,
+Wie wir's in ku\*:hnsten Traum
+\ \ \ uns nicht getraun.
+.sp 0.2i
+Woher ? \- Wohin ? \-
+\ \ \ Aus Nichts ? \- in Nichts ?
+Wir stu\*:rtzen durch die Zeiten,
+\ \ \ durch Ewigkeiten \-
+In unsres eignen Wesens
+\ \ \ abgrundtiefen Raum.
+.DE
+.sp 0.5i
+.ce 1
+\f2\s+4Lama Anagarika Govinda\s0\fP
+@
+
+
+1.2
+log
+@squeezed
+@
+text
+@d23 1
+a23 1
+In Hoffnung auf das Morgen mir erworben
+@
+
+
+1.1
+log
+@squeezed
+@
+text
+@d3 1
+a3 1
+.nr PS 12
+d10 1
+a10 1
+\f3\s+9De Profundis\s-9\fP
+d17 1
+a17 1
+Durch FeuerW\*:alle und durch Ho\*:llenschlu\*:nde,
+d27 1
+a27 1
+Noch ist es Nacht \- doch ho\*:r' ich Vo\*:geln fliegen
+d32 1
+a32 1
+\f3\s+9Nacht\s-9\fP
+@

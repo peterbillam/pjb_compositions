@@ -1,0 +1,192 @@
+7 systems 10 / 19-20-19/ 19-20-19/ 19-23-19 \
+ / 19-23-19 5/ 19-23-19/ 19-23-19/ 19-23-19/
+pagenum
+title 11.  Crossrhythms
+innerhead Twenty Studies
+leftfoot (c) 2013 Peter J Billam
+midi channel 0 patch 0 pan 50
+/
+2 bars | 10/8 72 | 72 |
+| 12/8 1.8
+=1' treble 12/8 cha0 vol100 leg100 8 [A G] [A G] [A G] [A G] [A G] [A G]
+=2,  bass  12/8 cha0 vol100 leg92  8 [eb g] [eb g] [eb g] [eb g] [eb g] [eb g]
+|
+=1, 8 [eb A G] [eb A G] [eb A G] [eb A G]
+=2, 8 [eb g] [eb g] [eb g] [eb g] [eb g] [eb g]
+/
+2 bars | 72 | 72 |
+|
+=1, 8 [eb A G] [eb A G] [eb A G] [eb A G]
+=2, 8 [eb g] [eb g] [eb g] [eb g] [eb g] [eb g]
+|
+=1' 8 [A G] [A G] [A G] [A G] [A G] [A G]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g]
+/
+2 bars | 72 | 10/8 60 |
+|
+il0.7 .01 5
+=1' 8 [A G] [A G] [A G] [A G] [A G] [A G]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g]
+| 10/8 1.5
+=1' 10/8 8 [A G] [A G] [A G] [A G] [A G]
+=2' 10/8 8 [F G A eb g] [F G A eb g]
+/
+3 bars | 60 | 60 | 60 |
+|
+=1' 8 [A G] [A G] [A G] [A G] [A G]
+=2' 8 [F G A eb g] [F G A eb g]
+|
+=1, 8 [a g eb A G] [a g eb A G]
+=2, 8 [eb g] [eb g] [eb g] [eb g] [eb g]
+|
+=1, 8 [a g eb A G] [a g eb A G]
+=2, 8 [eb g] [eb g] [eb g] [eb g] [eb g]
+/
+2 bars | 15/8 90 | 90 |
+| 15/8 2.25
+il0.8 .01 10
+=1, 15/8 8 [a g eb A G] [a g eb A G] [a g eb A G]
+=2, 15/8 8 [A eb g] [A eb g] [A eb g] [A eb g] [A eb g]
+|
+=1, 8 [a g eb A G] [a g eb A G] [a g eb A G]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g] [A eb g]
+/
+2 bars | 90 | 90 |
+|
+=1' 8 [eb A G] [eb A G] [eb A G] [eb A G] [eb A G]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g]
+|
+=1' 8 [eb A G] [eb A G] [eb A G] [eb A G] [eb A G]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g]
+/
+2 bars | 12/8 72 | 72 |
+| 12/8 1.8
+=1, 12/8 8 [eb A G] [eb A G] [eb A G] [eb A G]
+=2, 12/8 8 [A eb g] [A eb g] [A eb g] [A eb g]
+|
+il0.7 .13 15
+=1, 4 eb 8 A [G eb A] [G eb A] [G eb A]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g]
+
+6 systems / 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19 8/
+pagenum
+innerhead 11.  Crossrhythms
+leftfoot (c) 2013 Peter J Billam
+
+/
+2 bars | 72 | 72 |
+|
+=1, 8 G 4 eb 8 [A G eb] [A G eb] [A G eb]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g]
+|
+=1, 8 [A G eb(1] [eb)1 A G] [eb A G] [eb A G]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g]
+/
+2 bars | 72 | 72 |
+|
+=1, 8 [g eb A G] [g eb A G] [g eb A G]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g]
+|
+=1, 8 [g eb A G] [g eb A G] [g eb A G]
+=2, 8 [A eb g] [A eb g] [A eb g] [A eb g]
+/
+2 bars | 72 | 72 |
+|
+il0.7 .13 20
+=1, 8 [eb A G] [eb A G] [eb A G] [eb A G]
+=2, 8 [G A eb g] [G A eb g] [G A eb g]
+|
+=1, 8 [eb A G] [eb A G] [eb A G] [eb A G]
+=2, 8 [G A eb g] [G A eb g] [G A eb g]
+/
+2 bars | 16/8 96 | 96 |
+| 16/8 2.4
+=1, 16/8 8 [g eb A G] [g eb A G] [g eb A G] [g eb A G]
+=2, 16/8 8 [G A eb g] [G A eb g] [G A eb g] [G A eb g]
+|
+=1, 4 g 8 [eb A] [G g eb A] [G g eb A] [G g eb A]
+=2, 8 [G A eb g] [G A eb g] [G A eb g] [G A eb g]
+/
+2 bars | 96 | 96 |
+|
+=1, 8 G 4 g 8 eb [A G g eb] [A G g eb] [A G g eb]
+=2, 8 [G A eb g] [G A eb g] [G A eb g] [G A eb g]
+|
+il0.7 .13 25
+=1, 8 [A G] 4 g 8 [eb A G g] [eb A G g] [eb A G g]
+=2, 8 [G A eb g] [G A eb g] [G A eb g] [G A eb g]
+/
+2 bars | 6 6 6 6 7 6 6 6 7 6 6 6 7 6 6 5 \
+ | 20/8 6 7 6 6 6 6 7 6 6 6 6 7 6 6 6 6 7 6 6 5 |
+|
+=1, 8 [eb A G g(1] [g)1 eb A G] [g eb A G] [g eb A G]
+=2, 8 [G A eb g] [G A eb g] [G A eb g] [G A eb g]
+| 20/8 3.0
+=1, 20/8 8 [a g eb A G] [a g eb A G] [a g eb A G] [a g eb A G]
+=2, 20/8 8 [G A eb g] [G A eb g] [G A eb g] [G A eb g] [G A eb g]
+
+6 systems / 19-33-19/ 19-33-19/ 19-33-19/ 19-33-19/ 19-35-19/ 19-28-19 5/ 
+pagenum
+innerhead 11.  Crossrhythms
+leftfoot (c) 2013 Peter J Billam
+
+/
+2 bars | 3 4 3 3 3 4 4 3 3 4 3 4 3 4 3 3 4 4 3 2 \
+ | 4 3 4 3 4 3 3 4 4 3 3 3 4 3 3 3 4 4 3 2 |
+|
+=1, 8 [a g eb A G] [a g eb A G] [a g eb A G] [a g eb A G]
+=2' 8 [G A eb g] [G A eb g] [G A eb g] [G A eb g] [G A eb g]
+|
+=1, 8 [g eb A G] [g eb A G] [g eb A G] [g eb A G] [g eb A G]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+/
+2 bars | 4 3 4 3 4 3 3 4 4 3 3 3 4 3 3 3 4 4 3 2 \
+ | 3 4 4 3 3 3 4 4 3 3 3 4 4 3 3 3 4 4 3 2 |
+|
+il0.8 .07 30
+=1, 8 [g eb A G] [g eb A G] [g eb A G] [g eb A G] [g eb A G]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+|
+=1, 8 [a g eb A G] [a g eb A G] [a g eb A G] [a g eb A G]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+/
+2 bars | 3 3 4 3 3 3 3 4 3 3 3 3 4 3 3 3 3 4 3 2 \
+ | 3 3 4 4 3 3 3 4 4 3 3 3 4 4 3 3 3 4 4 2 |
+|
+=1, 4 a 8 [g eb A] [G a g eb A]  [G a g eb A] [G a g eb A]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+|
+=1, 8 G 4 a 8 [g eb] [A G a g eb]  [A G a g eb] [A G a g eb]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+/
+2 bars | 3 3 4 3 4 3 3 4 3 4 3 3 4 3 4 3 3 4 3 2 \
+ | 3 3 4 3 3 4 3 4 3 3 4 3 4 3 3 4 3 4 3 2 |
+|
+=1, 8 [A G] 4 a 8 g [eb A G a g]  [eb A G a g] [eb A G a g]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+|
+il0.7 .05 35
+=1, 8 [eb A G] 4 a 8 [g eb A G a]  [g eb A G a] [g eb A G a]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+/
+2 bars | 120 | 12/8 72 |
+|
+=1, 8 [g eb A G a(1] [a)1 g eb A G]  [a g eb A G] [a g eb A G]
+=2' 8 [F G A eb g] [F G A eb g] [F G A eb g] [F G A eb g]
+| 12/8 1.8
+=1, 12/8 [g eb A G] [g eb A G] [g eb A G]
+=2' 12/8 [G A eb g] [G A eb g] [G A eb g]
+/
+3 bars | 72 | 72 | 9 ||
+|
+=1, [eb A G] [eb A G] [eb A G] [eb A G]
+=2, [A eb g] [A eb g] [A eb g] [A eb g]
+|
+=1' [A G] [A G] [A G] [A G] [A G] [A G]
+=2, [eb g] [eb g] [eb g] [eb g] [eb g] [eb g]
+|
+il0.5 .03 40
+=1 1. A
+=2 1. a
+midi pause 2.0
+

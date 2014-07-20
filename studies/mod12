@@ -1,0 +1,133 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 2008, Peter J Billam         #
+#                          www.pjb.com.au                               #
+#                                                                       #
+#     This script is free software; you can redistribute it and/or      #
+#            modify it under the same terms as Perl itself.             #
+#########################################################################
+my $Version       = '1.0';
+my $VersionDate   = '2aug2008';
+
+while ($ARGV[$[] =~ /^-([a-z])/) {
+	if ($1 eq 'v')      { shift;
+		my $n = $0; $n =~ s{^.*/([^/]+)$}{$1};
+		print "$n version $Version $VersionDate\n";
+		exit 0;
+	} elsif ($1 eq 'c') { &whatever; shift;
+	} else {
+		print "usage:\n";  my $synopsis = 0;
+		while (<DATA>) {
+			if (/^=head1 SYNOPSIS/)     { $synopsis = 1; next; }
+			if ($synopsis && /^=head1/) { last; }
+			if ($synopsis && /\S/)      { s/^\s*/   /; print $_; next; }
+		}
+		exit 0;
+	}
+}
+my @note2ascii = qw ( A Bb B c c# d eb e f f# g ab );
+foreach my $lh_interval (3,4) {
+	foreach my $rh_interval (3,4) {
+		foreach my $parity (0, 1) {
+			print "lh_interval=$lh_interval rh_interval=$rh_interval"
+			. " parity=$parity\n";
+			my @chord = (0,$lh_interval,$lh_interval+$parity,
+			 $lh_interval+$parity+$rh_interval);
+			my @voices;   # LoL sequence of chords
+			my @sds;      # simple list of the semitone dischord count
+			foreach my $semitone (0 .. 11) {
+				push @{$voices[0]}, $chord[0];
+				push @{$voices[1]}, $chord[1];
+				push @{$voices[2]}, $chord[2];
+				push @{$voices[3]}, $chord[3];
+				push @sds, sds(@chord);
+				@chord = contrary_pairs(1, -1, @chord);
+			}
+			printf "%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s\n",
+			 # @{$voices[3]};
+			 map { $note2ascii[$_]; } @{$voices[3]};
+			printf "%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s\n",
+			 map { $note2ascii[$_]; } @{$voices[2]};
+			printf "%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s\n",
+			 map { $note2ascii[$_]; } @{$voices[1]};
+			printf "%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s%4s\n",
+			 map { $note2ascii[$_]; } @{$voices[0]};
+			printf "%4d%4d%4d%4d%4d%4d%4d%4d%4d%4d%4d\n", @sds;
+			print"\n";
+		}
+	}
+}
+
+
+sub sds {  # counts semitone dischords
+	my @a = sort map { $_ % 12; } @_;
+	my %even; my %odd;
+	foreach my $a (@a) { if ($a % 2) { $odd{$a} ++; } else { $even{$a}++; } }
+	my $sds = 0;
+	foreach my $e (keys %even) {
+		foreach my $o (keys %odd) {
+			if (11 <= abs ($e-$o)) { $sds ++;
+			} elsif (1 == abs ($e-$o)) { $sds ++;
+			}
+		}
+	}
+	return $sds;
+}
+sub contrary_pairs { my ($dbot, $dtop, @a) = @_;
+	# my @a = sort map { $_ % 12; } @a;
+	return map { $_ % 12; }
+	 ($a[0]+$dbot, $a[1]+$dbot, $a[2]+$dtop, $a[3]+$dtop);
+}
+
+
+
+
+__END__
+
+=pod
+
+=head1 NAME
+
+mod12 - Perl script to
+
+=head1 SYNOPSIS
+
+ does whatever
+
+=head1 DESCRIPTION
+
+This script
+
+=head1 OPTIONS
+
+=over 3
+
+=item I<-d gloop>
+
+gloops
+
+=item I<-v>
+
+Prints version number.
+
+=back
+
+=head1 CHANGES
+
+ 20080902  1.0  first working version
+
+=head1 AUTHOR
+
+Peter J Billam   http://www.pjb.com.au/comp/contact.html
+
+=head1 CREDITS
+
+Based on
+
+=head1 SEE ALSO
+
+ http://www.pjb.com.au/
+ perl(1).
+
+=cut
+

@@ -1,0 +1,711 @@
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2014.01.18.09.10.44;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.01.18.08.32.56;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.01.18.06.05.11;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.01.18.04.49.49;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.01.16.06.34.22;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.01.15.00.26.21;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.01.11.10.48.41;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@a sketch for 15_three_hands
+@
+
+
+1.7
+log
+@five pages
+@
+text
+@5 systems /18-21-18 27 18/
+title three-hands, from book AN pp.17-19
+midi channel 0 patch 0
+midi channel 1 patch 0  # just for the trill on high a~b
+# upbeat v. on-the-barline
+# unison v. 3vc
+# extreme-registers v. mid-human-voice-register
+# staccato 16 v. legato 8.
+/
+5 bars | 36 |
+| 1.25
+=1  treble    cha0 vol125 9/16 16 d~-.-emph 8 rest 8. rest rest
+=2  treble    cha0 vol125 9/16 16 D-.-emph 8 rest 8. rest vol80 leg100 D-P
+=3  bass      cha0 vol125 9/16 16 D-.-emph 8 rest 8. rest rest
+|
+=1 vol90 4. E vol80 8. A
+=2 8. C(2 C)2(2 C)2
+=3 8. rest rest rest
+|
+=1 vol90 8. G(2 G)2(2 G)2
+=2 8. B_b(2 B_b)2(2-P B_b)2(2
+=3 8. rest rest rest
+|
+=1 8. d e g
+=2 8. B_b)2(2 B_b)2(2 B_b)2
+=3 8. rest rest rest
+|
+il0.7 .03 5
+=1 vol90 8. f(1 f)1(1 f)1
+=2 8. <B_n(2 A(1> <B_)2(2-P A)1(1> <B_)2 A)1>
+=3 8. rest rest rest
+|
+=1  vol125 16 d~-.-emph 8 rest 8. rest rest
+=2  vol125 16 D-.-emph-* 8 rest 8. rest vol80 leg100 D-P
+=3  vol125 16 D-.-emph 8 rest 8. rest rest
+|
+=1 vol85 8. E(2 E)2(2 E)2
+=2 vol90 4. C vol80 8. A_
+=3 8. rest rest rest
+|
+=1 vol90 8. F(2 F)2(2 F)2
+=2 8. A_b(2 A_b)2(2-P A_b)2(2
+=3 8. rest rest rest
+|
+=1 8. c d f
+=2 8. A_b)2(2 A_b)2(2 A_b)2
+=3 8. rest rest rest
+|
+il0.7 .03 10
+=1 vol90 8. e(1 e)1(1 e)1
+=2 8. <A_n(2 F#(1> <A_)2(2-P F#)1(1> <A_)2 F#)1>
+=3 8. rest rest rest
+|
+=1  vol125 16 c~-.-emph 8 rest 8. rest 8. rest
+=2  vol125 16 C-.-emph-* 8 rest 8. rest 8. rest
+=3  vol125 16 C-.-emph 8 rest 8. rest 8. rest
+|
+=1  vol125 16 [e~b-. d~-.-emph] rest 8. rest rest
+=2  vol125 16 [Eb-. D-.-emph] rest 8. rest vol80 leg100 En-P
+=3  vol125 16 [Eb-. D-.-emph] rest 8. rest rest
+|
+=1 vol90 4. F# vol80 8. c
+=2 vol85 8. D(2 D)2(2 D)2
+=3 8. rest rest rest
+|
+=1 vol90 4. Bb vol80 8. Bb
+=2 vol85 8. Eb(2 Eb)2(2-P Eb)2
+=3 8. rest rest rest
+|
+il0.7 .03 15
+=1 vol90 4. c vol80 8. f
+=2 vol85 8. Ab(2 Ab)2(2 Ab)2
+=3 8. rest rest rest
+/
+5 bars | 20 | 20 | 20 | 36 | 20 |
+|
+=1 vol90 4. eb vol80 8. eb
+=2 vol85 8. An(2 A)2(2-P A)2
+=3 8. rest rest rest
+|
+=1 vol85 4. f 8. e
+=2 vol90 8. db A Bb
+=3 8. rest rest rest
+|
+=1 vol85 4. eb 8. d
+=2 vol90 8. B-P G G#
+=3 8. rest rest rest
+|
+=1 vol120 16 [d~ e~b c~# e~n d~ c~n e~b c~# d~]
+=2 vol120 16 [D-* Eb C# En D Cn Eb C# D]
+=3 vol120 16 [D Eb C# En D Cn Eb C# D]
+|
+il0.7 .03 20
+=1 vol85 8. c B A
+=2 vol90 8. E-P F C#
+=2 1 blank 1 blank-,-P
+=3 8. rest rest rest
+/
+4 bars | 20 | 12 12 9 | 20 | 12 9 9 |
+|
+=1 vol85 8. Ab Gb Fn
+=2 vol90 8. D A_# B_
+=2 8 blank 2. blank-,-P
+=3 8. rest rest rest
+|
+=1, vol125 16 [c~#-. d~-. e~-. c~n-. a~b] rest' c~~-emph 8 rest'
+=2  vol125 16 [C#-.-* D-. E-. Cn-. Ab-. e'-.] c~-emph 8 rest
+=3  vol125 16 [C#-. D-. E-. Cn-. Ab-. <E_ e'-.>] c~-emph 8 rest
+|
+=1 vol80 8. rest 4. E
+=2 vol75 8. rest 4. C
+=3 8. rest rest rest
+|
+=1  vol125 16 [e~b-. c~-. d~b-.-emph] 8. rest' vol80 A
+=2  vol125 16 [Eb-. C-. Db-.-emph] 8. rest vol75 B_
+=3  vol125 16 [Eb-. C-. Db-.-emph] 8. rest rest
+/
+4 bars | 36 |
+|
+il0.9 25
+=1  vol125 16 [c~#-. c~n-. bb-. d~-. f#-. b~b] 8. rest
+=2  vol125 16 [C#-. Cn-. B_b-. D-. F_#-. Bb'] 8. D-emph-P bass
+=3  vol125 16 [C#-. Cn-. B_b-. D-. F_#-. Bb] 8. <D_(2 D-emph>
+|
+=1  vol70 16 [D E D E D E D E D]
+=2  vol100 4. rest 8. d
+=3' vol80 8. [E D E]
+=3  vol90 1 D_)2
+|
+=1  vol70 16 [E D E D E D E D E]
+=2, vol100 4. <c e> 8. g
+=3' vol80 8. [D E D]
+=3  vol90 1 E_
+|
+=1  vol70 16 [D E D E D E D E D]
+=2, vol105 4. <Bb ab> 8. e
+=3' vol80 8. [E D E]
+=3  vol90 1 D_
+|
+=1  vol70 16 [E D E D E D E D E]
+=2, vol100 4. <d f#> 8. a
+=3' vol80 8. [D E D]
+=3  vol90 1 E_
+|
+il0.7 .03 30
+=1  vol70 16 [D E D E D E D E D]
+=2, vol105 4. <c bb> 8. f#
+=3' vol80 8. [E D E]
+=3  vol90 1 D_
+|
+=1  vol70 16 E [d e d e d e d e]
+=2, vol105 4. <f#rrxl g#l> 8. a
+=3' vol80 8. [D E D]
+=3  vol90 1 E_
+|
+=1  vol70 16 [d e d e d e d e d]
+=2' vol100 4. <gnrl bb> 8. f#
+=2, vol80 8. rest, [d er]
+=3' vol80 8. [E D E]
+=3  vol90 1 D_
+/
+4 bars | 36 | 36 | 36 | 20 |
+|
+=1  vol70 16 [e d e d e d e d e]
+=1, vol90 1 F#
+=2' vol105 4. g# 8. a#
+=2, vol80 8. [d e d]
+=3  vol90 1 E
+|
+=1' vol70 16 [d e d e d e d e d]
+=1, vol90 1 G
+=2' vol110 4. b 8. rest''
+=2, vol80 8. [e d~ e~] treble
+=3  vol90 1 d
+|
+=1  vol120 16 [g~# a~ g~n b~b g~# f~# a~ g~n g~#]
+il0.5 .03 35
+=2' vol120 16 [G#-* A Gn Bb G# F# A Gn G#]
+=3  vol120 16 [G# A Gn Bb G# F# A Gn G#]
+# get the <G B> up to treble <g~ b~>, the <d e> up to <d~ e~>
+# then a rude ff wutig, resuming inside-out to a~b-tr and <db f>
+# or g~#-tr
+# and trill and wutig can coexist, because the high trill needs no pedal
+
+|
+#M=1 cha1 vol70 16 b~b-P a~b b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b
+#P=1 vol70 1 a~b-trb
+=2' vol80 8. rest 4. <F eb-P>
+=3 vol80 8. rest rest rest
+/
+5 bars | 20 | 12 12 8 | 20 | 12 8 8 | 12 12 8 |
+|
+#M=1 cha1 vol70 16 b~b-P a~b b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b
+#P=1 vol70 1 a~b-trb
+=2' vol80 8. <E c> vol-5 <Eb db-P> vol-5 <D Bb>
+=3 vol80 8. rest rest rest
+|
+#M=1 cha1 vol70 2 blank 8 blank 16 a~b b~b a~b b~b a~b
+#M=1 cha0 vol125 16 [g~-. f~#-. e~-. g~#-. c~-. e~] 8. rest
+#P=1 cha0 vol125 16 [g~-. f~#-. e~-. g~#-. c~-. e~] 8. a~b-trb
+=2 vol125 16 [G-.-* F#-. E-. G#-. C-. E] G#-emph 8 rest
+=3' vol125 16 [G-. F#-. E-. G#-. C-. e] <G_# G#-emph> 8 rest
+|
+#M =1 cha1 vol70 16 b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b
+#P =1 vol70 1 a~b-trb
+=2' vol70 8. rest 4. <C# B-P>
+=3 vol70 8. rest rest rest
+|
+il0.9 40
+#M =1 cha1 vol70 4. blank 16 b~b a~b b~b a~b b~b a~b b~b a~b b~b a~b
+#M =1 cha0 vol120 16 [bb-.-* g-. ab-.-emph] 4. blank
+#P =1 16 [f~#-. a~-. g~#-.-emph] 8. a~b(1-trb 8. a~b)1-trb
+=2 vol120 16 [F#'-.-* A-. G#-.-emph] 8. rest vol70 <C-P G#>
+=3 vol120 16 [F#'-. A-. G#-.-emph] 8. rest rest
+|
+=1, vol125 16 [c~-. d~b-. e~b-. b-. g~] rest' b~-emph 8 rest'
+=2 vol125 16 [C-.-* Db-. Eb-. B_-. G-. eb'-.] b-emph 8 rest bass
+=3 vol125 16 [C-. Db-. Eb-. B_-. G-. <E_b eb'-.>] b-emph 8 rest bass8vab
+/
+4 bars | 4 4 4 4 4 4 4 3 3 | 12 12 8 | 4 4 4 4 4 3 3 2 2 | 4 4 4 4 4 4 4 3 3 |
+|
+=1  16 [B-. eb-. B-. eb-. f-. B-. eb-.] 8 rest
+=2, 16 [B-. eb-. B-. eb-. f-. B-. eb-.] 8 rest
+=3  16 [B_-. Eb-. B_-. Eb-. F-. B_-. Eb-.] 8 rest
+|
+=1  16 [B-. eb-. f-. g-.-emph B-. eb-.] 8. rest
+=2, 16 [B-. eb-. f-. g-.-emph B-. eb-.] 8. rest
+=3  16 [B_-. Eb-. F-. G-.-emph B_-. Eb-.] 8. rest
+|
+=1  16 [B-. eb-. f-. B-. eb-.] rest 8. rest
+=2, 16 [B-. eb-. f-. B-. eb-.] rest 8. rest
+=3  16 [B_-. Eb-. F-. B_-. Eb-.] rest 8. rest
+|
+il0.8 45
+=1  16 [c-. d-. f-. ab-. c~-.-emph c-. d-.] 8 rest
+=2, 16 [c-. d-. f-. ab-. c~-.-emph c-. d-.] 8 rest
+=3  16 [C-. D-. F-. Ab-. c-.-emph C-. D-.] 8 rest
+/
+4 bars | 36 | 36 | 36 | 20 |
+|
+=1  16 [c-. eb-. gb-. c-. eb-. c-. eb-. gb-. ab-.] treble8va
+=2, 16 [c-. eb-. gb-. c-. eb-. c-. eb-. gb-. ab-.] treble
+=3  16 [C-. Eb-. Gb-. C-. Eb-. C-. Eb-. Gb-. Ab-.] bass
+|
+=1  16 [c-. e-. f#-. bb-. d~-. e~-. f~#-emph e~ bb]
+=2, 16 [C-. E-. F#-. Bb-. d-.  e-.  f#-emph  bb ab]
+=3' 16 [C-. E-. F#-. Bb-. d-.  e-.  f#-emph  bb d~]
+|
+=1 vol125 16 [f# g fn g# f# e gn fn f#]
+=2 vol120 16 [f# g fn g# f# e gn fn f#]
+=3 vol120 16 [f~# g~ f~n g~# f~# e~ g~n f~n f~#]
+|
+=1 8. rest rest rest
+=2 8. rest rest rest
+=3 vol60 8. rest 4. <bb d~>
+/
+6 bars | 12 12 9 | 20 | 20 | 20 | 20 | 12 8 8 |
+|
+il0.8 .10 50
+#M =1 cha1 vol70 4 blank-P 32 bb ab bb ab
+#M =1 cha0 vol125 16 [g-. f#-. e-. g#-. c-. e] 8. blank
+#P=1 vol125 16 [g-. f#-. e-. g#-. c-. e] 8. ab-trb
+=2 vol125 16 [g-. f#-. e-. g#-. c-. e] 8. rest
+=3 vol125 16 [g~-. f~#-. e~-. g~#-. c~-.] rest <G# g#'-emph> 8 rest 
+|
+#M =1 cha1 vol70 16 bb ab bb ab bb ab bb ab bb ab bb ab bb ab
+#P =1 vol70 1 ab-trb
+=2' vol70 leg100 4. rest 8. B_b
+=3 vol70 8. rest rest rest
+|
+#M =1 cha1 vol70 16 bb ab bb ab bb ab bb ab bb ab bb ab bb ab
+#P =1 vol70 1 ab-trb
+=2' vol75 4. C-P vol70 8. F
+=3 vol65 leg100 1 ab
+|
+#M =1 cha1 vol70 16 bb ab bb ab bb ab bb ab bb ab bb ab bb ab
+#P =1 vol70 1 ab-trb
+=2' vol70 4. Eb 8. A_b
+=3 vol65 1 gb
+|
+#M =1 cha1 vol70 16 bb ab bb ab bb ab bb ab bb ab bb ab bb ab
+#P =1 vol70 1 ab-trb
+=2' vol70 8. B_b Eb Db
+=3 vol65 4. gb 8. en
+|
+il0.9 55
+=1 cha0 vol125 16 [g-. e-. f-.-emph] 8. rest rest
+=2 vol125 16 [G-.-* E-. F-.-emph] 8. rest vol75 blank
+=3 vol125 16 [G-. E-. F-.-emph] 8. rest rest
+/
+5 bars | 12 12 8 | 20 | 20 | 12 8 8 | 36 |
+|
+=1, vol125 16 [d#-. dn-. c-. e-. G#-. bb] 8. rest
+=2 vol125 16 [D#-. Dn-. C-. E-. G_#-. Bb'] 8. D-emph-P bass
+=3 vol125 16 [D#-. Dn-. C-. E-. G_#-. Bb] 8. <D_(2 D-emph>
+|
+=1 1 blank
+=2 1 blank
+=3 4. D_)2 vol60 8. D_
+|
+=1 1 blank
+=2 1 blank
+=3 vol60 4. D_ 8. D_
+|
+=1 vol120 16 [D-.-emph Eb-. F-.] 8. rest rest
+=2 vol120 16 [d-*-.-emph eb-. f-.] 8. rest rest
+=3 vol120 16 [D_-.-emph E_b-. F_-.] 8. rest rest
+|
+il0.9 60
+=1
+=2 vol120 16 [d-.-* d~-. g#-. e~-. a#-. b-. g~#-. f-.] rest'' treble
+=3  vol120 16 [D_-. D-. G_#-. E-. A_#-. B_-. G#-. F_-.] rest
+/
+4 bars | 3 3 4 4 4 4 4 4 3 | 3 3 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 3 3 | 3 3 4 4 4 4 4 4 3 |
+|
+=1
+=2' vol120 8 [F_# 16 F#-. C-. G#-. D-. Eb-. c-. A_-.]
+=3  vol120 8 [F_# 16 F#-. C-. G#-. D-. Eb-. c-. A_-.]
+|
+=1
+=2' vol120 8 [B_b 16 Bb-. E-. c-. F#-. G-. e-. C#-.]
+=3' vol120 8 [B_b 16 Bb-. E-. c-. F#-. G-. e-. C#-.]
+|
+=1
+=2' vol120 16 [D-. d-. G#-. e-. A#-. B-. g#-. F-.] rest
+=3' vol120 16 [D-. d-. G#-. e-. A#-. B-. g#-. F-.] rest'
+|
+=1
+=2, vol120 8 [F# 16 f#-. c-. g#-. d-. eb-. c~-. A-.]
+=3, vol120 8 [F# 16 f#-. c-. g#-. d-. eb-. c~-. A-.]
+/
+4 bars | 4 4 4 4 4 4 4 3 3 \
+ | 4 4 4 4 4 4 4 3 3 | 36 | 36 |
+|
+il0.9 65
+=1
+=2, vol120 16 [Bb 16 bb-. e-. c~-. f#-. g-. e~-. c#-.] rest
+=3, vol120 16 [Bb 16 bb-. e-. c~-. f#-. g-. e~-. c#-.] rest
+|
+=1
+=2, vol120 16 [d-. d~-. g#-. e~-. a#-. b-. g~#-. f-.] rest
+=3, vol120 16 [d-. d~-. g#-. e~-. a#-. b-. g~#-. f-.] rest'
+|
+=1, vol120 8 [F# 16 f#-. c-. g#-. d-. eb-. c~-. A-.]
+=2
+=3, vol120 8 [f# 16 f~#-. c~-. g~#-. d~-. e~b-. c~~-. a-.]
+|
+=1, vol120 8 [Bb 16 bb-. e-. c~-. gb-. ab-. bb-. c-.]
+=2' vol120 8 [B_b 16 Bb-. E-. c-. Gb-. Ab-. Bb-. C-.]
+=3
+/
+3 bars | 36 |
+|
+=1, vol110 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2  vol110 8. Ab Ab Ab
+=3 1 blank
+|
+il0.9 70
+=1, vol100 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2 vol90 16. [Ab-P A_b Ab A_b Ab A_b]
+=3' vol60 8. Ab Ab Ab
+|
+=1, vol90 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2 vol80 16. [Ab A_b Ab A_b Ab A_b]
+=3' vol70 8. Ab Ab Ab
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2 vol70 16. [B_b G_b B_b G_b B_b G_b]
+=3' vol70 8. Gb Bb Gb
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2 vol70 16. [B_b G_b B_b G_b B_b G_b]
+=3' vol70 8. Bb Gb Bb
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2 vol70 16. [Eb G_b Eb G_b Eb G_b]
+=3' vol70 8. Gb eb Gb
+|
+il0.9 75
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2 vol80 16. [C# E_ C# E_ C# E_]
+=3' vol80 8. c# E c#
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2 vol80 16. [C# E_ C# E_ C# E_]
+=3' vol80 8. E c# E
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2 vol80 16. [C# E_ C# E C# E]
+=3' vol80 8. E c# e
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2' vol80 16. [Bb Ab Bb Ab Bb Ab]
+=3, vol80 16. [ab bb ab bb ab bb]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2, vol80 16. [c Ab c Ab c Ab]
+=3, vol80 16. [ab c~ ab c~ ab c~]
+|
+il0.9 80
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2, vol80 16. [c Ab c Ab c Ab]
+=3, vol80 16. [ab c~ ab c~ ab c~]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2, vol80 16. [f Ab f Ab f Ab]
+=3, vol80 16. [ab f~ ab f~ ab f~]
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2, vol80 16. [eb Gb eb Gb eb Gb]
+=3, vol80 16. [gb e~b gb e~b gb e~b]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2, vol80 16. [eb Gb eb Gb eb Gb]
+=3, vol80 16. [gb e~b gb e~b gb e~b]
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2, vol80 16. [eb Gb eb Gb eb Gb]
+=3, vol80 16. [gb e~b gb e~b gb e~b]
+|
+il0.9 85
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2' vol80 16. [Bb Ab Bb Ab Bb Ab]
+=3, vol80 16. [bb bb bb bb bb bb]
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2, vol80 16. [c Ab c Ab c Ab]
+=3, vol80 16 [c~ ab c~ ab c~ ab c~ ab c~]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2, vol80 16. [c Ab c Ab c Ab]
+=3, vol80 16 [ab c~ ab c~ ab c~ ab c~ ab]
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2' vol80 16. [c Eb c Eb c Eb]
+=3, vol80 16 [c~ eb c~ eb c~ eb c~ eb c~]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2, vol80 16. [c# E c# E c# E]
+=3, vol80 16 [e c~# e c~# e c~# e c~# e]
+|
+il0.9 90
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2, vol80 16. [c# E c# E c# E]
+=3, vol80 16 [c~# e c~# e c~# e c~# e c~#]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2' vol80 16. [Ab Ab Ab Ab Ab Ab]
+=3, vol80 8. [ab ab ab]
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2' vol80 16. [Bb Gb Bb Gb Bb Gb]
+=3, vol80 16 [bb gb bb gb bb gb bb gb bb]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2' vol80 16. [Bb Gb Bb Gb Bb Gb]
+=3, vol80 16 [gb bb gb bb gb bb gb bb gb]
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2' vol80 16. [Bb Db Bb Db Bb Db]
+=3, vol80 16 [bb db bb db bb db bb db bb]
+|
+il0.9 95
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2' vol80 16. [c D c D c D]
+=3, vol80 16 [d c~ d c~ d c~ d c~ d]
+/
+4 bars | 36 | 36 | 7 5 5 | 11 5 5 ||
+|
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+=2' vol80 16. [c D c D c D]
+=3, vol80 16 [c~ d c~ d c~ d c~ d c~]
+|
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2' vol80 16. [c D c D 8. c]
+=3, vol80 16 [d c~ d c~ d c~ d c~] rest
+|
+=1  vol125 16 d-.-emph 8 rest 8. rest rest
+=2  vol125 16 D-*-.-emph 8 rest 8. rest rest
+=3  vol125 16 D-.-emph 8 rest 8. rest rest
+|
+=1  vol125 16 [eb-. d-.-emph] rest 8. rest rest
+=2  vol125 16 [Eb-. D-.-emph] rest 8. rest rest
+=3  vol125 16 [Eb-. D-.-emph] rest 8. rest rest
+@
+
+
+1.6
+log
+@can I squeeze this to 5 pages ?
+@
+text
+@d161 2
+d190 2
+d219 2
+a232 2
+/
+3 bars | 36 |
+d238 2
+a247 2
+/
+4 bars | 36 | 20 | 12 12 9 | 20 |
+d256 2
+a269 2
+/
+5 bars | 20 | 20 | 20 | 12 8 8 | 12 12 8 |
+d290 2
+a295 2
+/
+4 bars | 14 | 14 | 12 8 8 | 36 |
+a307 2
+/
+3 bars | 36 | 36 | 36 |
+d313 3
+d332 3
+d352 2
+@
+
+
+1.5
+log
+@124 sec; is this plausible?
+@
+text
+@d10 1
+a10 1
+3 bars | 48 |
+d58 3
+a60 3
+=1  vol125 16 e~b-. d~-.-emph rest 8. rest rest
+=2  vol125 16 Eb-. D-.-emph rest 8. rest vol80 leg100 En-P
+=3  vol125 16 Eb-. D-.-emph rest 8. rest rest
+d74 2
+d98 2
+d117 2
+d227 2
+a233 12
+#|
+#=1  16 [c-. d-. f-. c-. d-. c-. d-. f-. ab-.-emph]
+#=2, 16 [c-. d-. f-. c-. d-. c-. d-. f-. ab-.-emph]
+#=3  16 [C-. D-. F-. C-. D-. C-. D-. F-. Ab-.-emph]
+#|
+#=1  16 [c-. d-. c-. d-. f-. c-. d-.] 8 rest
+#=2, 16 [c-. d-. c-. d-. f-. c-. d-.] 8 rest
+#=3' 16 [C-. D-. c-. D-. F-. C-. D-.] 8 rest
+#|
+#=1  16 [c-. eb-. gb-. bb-.-emph c-. eb-.] 8. rest
+#=2, 16 [c-. eb-. gb-. bb-.-emph c-. eb-.] 8. rest
+#=3  16 [C-. Eb-. Gb-. Bb-.-emph C-. Eb-.] 8. rest
+d242 2
+d264 2
+d290 2
+d304 2
+d458 2
+d466 1
+a466 1
+=2' vol80 16. [c D c D c d]
+@
+
+
+1.4
+log
+@up to 112.6 sec
+@
+text
+@d303 1
+d324 1
+d345 2
+a346 1
+=1, vol80 16 [ab bb ab Bb Ab Bb ab bb ab]
+d348 1
+a348 1
+=3' vol80 8. Ab Ab Ab
+d350 3
+a352 3
+=1, vol80 16 [Bb ab bb ab Ab ab bb ab Bb]
+=2 vol90 16. [Ab A_b Ab A_b Ab A_b]
+=3' vol90 8. Ab Ab Ab
+d355 2
+a356 2
+=2 vol80 16. [B_b G_b B_b G_b B_b G_b]
+=3' vol80 8. Gb Bb Gb
+d359 2
+a360 2
+=2 vol80 16. [B_b G_b B_b G_b B_b G_b]
+=3' vol80 8. Bb Gb Bb
+d363 2
+a364 2
+=2 vol80 16. [Eb G_b Eb G_b Eb G_b]
+=3' vol80 8. Gb eb Gb
+d366 1
+d387 1
+d408 1
+d429 1
+d433 37
+@
+
+
+1.3
+log
+@very sketchy up to 81sec
+@
+text
+@a286 2
+# #M =1  cha1 vol70 4 blank-P 32 ab bb ab bb
+# #M =1, cha0 vol125 16 [d#-. dn-. c-. e-. G#-. bb] 8. blank
+d288 2
+a289 2
+=2 vol125 16 [D#-. Dn-. C-. E-. G_#-. Bb'] 8. E-emph-P bass
+=3 vol125 16 [D#-. Dn-. C-. E-. G_#-. Bb] 8. <E_(2 E-emph>
+d291 11
+a301 5
+# #M =1 cha1 vol70 16 ab bb ab bb ab bb ab bb ab bb ab bb ab bb
+# #P =1 vol70 1 ab-trb
+=3 4. E_)2 vol60 8. E_
+|
+=3 vol60 4. E_ 8. E_
+d330 96
+@
+
+
+1.2
+log
+@trimmed back to 62 sec
+@
+text
+@d114 1
+a114 1
+il0.7 .03 25
+d255 1
+d258 1
+a258 1
+#P=1 vol125 16 [g-. f#-. e-. g#-. c-. e] 8. g#-tr
+d261 65
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d111 1
+a111 1
+=2  vol125 16 [Eb-. C-. Db-.-emph] 8. rest vol75 C
+d199 1
+a199 1
+il0.7 40
+d207 2
+a208 2
+=2 vol125 16 [C-.-* Db-. Eb-. B_-. G-. eb'-.] b-emph 8 rest
+=3 vol125 16 [C-. Db-. Eb-. B_-. G-. <E_b eb'-.>] b-emph 8 rest
+d210 50
+a259 1
+
+@

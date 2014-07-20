@@ -1,0 +1,1161 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	2012.01.01.22.05.35;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2002.03.26.06.39.10;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2002.03.12.06.42.20;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2002.03.12.02.19.19;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2002.03.11.08.58.11;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Divisons by Robert Carr; flute part
+@
+
+
+1.5
+log
+@gtr bar 53-54 slur d->e moved to bar 54 e->f
+@
+text
+@11 systems 24 /19/19/19/19/19/19/19/19/19/19/19 5/
+pagenum 3
+innerhead Robert Carr, 1686
+title Divisions on an Italian Ground
+leftfoot Continuo for guitar (c) 1980 Peter J Billam
+midi channel 1 patch 73
+midi channel 2 patch 24
+/
+8 bars |1b 3/4 5 6 | 5 6 | 2 2 2 2.6 2 2 | 5 6 | 5 6 | 4 4 4.5 \
+ | 2 2 2 2.6 2 2 | 5 6 |
+|
+I0.9   Flute or Alto recorder
+=1 treble 1b 3/4 min f-mordent cro f
+|
+=1 min g cro g
+|
+=1 cro. e-tr qua d cro e
+|
+=1 min f cro f
+|
+=1 min d-tr cro d
+|
+=1 min g qua [f e]
+|
+=1 cro. c#-tr qua Bn, cro c
+|
+=1 min d cro d
+/
+8 bars |1b 12 | 6 7.5 | 12 | 5 6 | 3.5 3.5 5 | 5 4 5 | 3.5 3.5 6 | 5 6 |
+|
+il0.7   9
+=1 treble 1b cro a{1 g}1 a
+|
+=1 cro. b qua c~ [b a]
+|
+=1 cro. g qua f cro g
+|
+=1 min a cro a
+|
+=1 min g-tr qua [f e]
+|
+=1 qua [e{1 f}1] cro g qua [f{1 e}1]
+|
+=1 min e-tr qua [d{1 c#}1]
+|
+=1 min d cro d
+/
+8 bars |1b 6 7.5 | 15 | 15 | 5 6 | 5 6 | 2 2 2 2.7 2 2 | 5 6 | 3.5 3.5 5 |
+|
+il0.7   17
+=1 treble 1b cro. d qua e [f d]
+|
+=1 qua [g f g a g f]
+|
+=1 qua [e d e f g e]
+|
+=1 min f-mordent cro f
+|
+=1 min g-tr cro a
+|
+=1 cro. b-mordent qua b cro b
+|
+=1 min e-tr cro a
+|
+=1 min f-tr qua [e{1 d}1]
+/
+9 bars |1b 5 6 | 4 4 5 | 5 6 | 4 5 4 | 6 7.5 | 4 4 5 | 5 6 | 5 6 | 5 6 |
+|
+il0.7   25
+=1 treble 1b min d cro rest
+|
+=1 min B' qua rest A
+|
+=1 min A cro G
+|
+bl0.2      '
+=1 cro A qua [f f] cro f
+|
+=1 cro. d qua d [g g]
+|
+=1 cro e e qua [f{1 d}1]
+|
+=1 min c#-tr cro c
+|
+=1 min d cro d
+|
+il0.4   33
+=1 min rest cro f
+I0.01          p
+/
+8 bars |1b 12 | 5 6 | 5 6 | 5 6 | 3.5 3.5 5 | 5 6 | 5 6 | 12 |
+|
+=1 treble 1b cro f{1 cro. e}1 qua f
+|
+=1 min e-tr cro e
+|
+=1 min e cro f
+|
+=1 min d-tr cro d
+|
+=1 min e qua [e f]
+|
+=1 min c# cro c
+|
+=1 min rest cro a
+|
+il0.8 41
+=1 cro a{1 cro. g}1 qua a
+/
+7 bars |1b 4 5 | 3 4 3 | 9.5 | 1 .6 1 .6 1 .6 1 .6 1 1 1 1.4 \
+ | 1 1 1 2.4 1 1 1.4 1.4 1.4 1.4 1.4 1.2 | 1.5 1.5 1.5 1.5 2.8 2 | 4 5 |
+|
+=1 treble 1b min b cro a
+|
+=1 cro. g-tr qua f cro g
+|
+=1 cro a cro. a qua e
+|
+=1 min d qua. [f smq e]
+|
+=1 qua. [e{1 smq d] qua [c# smq d e] [f g a b}1]
+|
+=1 min e qua [d c#]
+|
+=1 min d cro d
+/
+6 bars |1b 5.5 6 | 12 | 12 | 12 | 2.7 2 2 2 2 2 | 12 |
+|
+il0.5    49
+=1 treble 1b cro. d qua e [f d]
+|
+=1 qua [g f g a g f]
+|
+=1 qua [e d e f g e]
+|
+=1 qua [f g a g f e]
+|
+=1 qua [d c# d e f d]
+|
+=1 qua [g a g f e d]
+/
+9 bars |1b 12 | 10 | 7 | 7 | 10 | 10 | 10 | 12 |
+|
+=1 treble 1b cro. c#{1-tr qua Bn,}1 cro c
+|
+=1 min d cro d
+|
+il0.3   57
+=1 min. rest
+|
+=1 min. rest
+I0.01           p
+|
+=1 cro e f g
+|
+=1 min a cro a
+|
+=1 cro f g a
+|
+=1 min b-mordent cro b
+|
+=1 cro. e-tr qua d cro e
+/
+9 bars |1b 5 6 | 2 2 2 2.7 2 2 | 12 | 2 2 2 2.7 2 2 | 12 \
+ | 5 6 | 12 | 2 2 2 2.7 2 2 | 5 6 |
+|
+=1 treble 1b min f-mordent cro f
+|
+il0.9    65
+=1 cro. f#-tr qua e cro f
+|
+=1 cro g d g
+|
+=1 cro. e-trn qua d cro c
+|
+=1 cro rest a a
+|
+=1 min d cro d
+|
+=1 cro rest b-mordent b
+|
+=1 cro. e-tr qua d cro e
+|
+=1 min f-mordent cro f
+/
+8 bars |1b 15 | 2 2 2 2.7 2 2 | 12 | 5 6 | 10 | 5 4 5 | 12 | 10 |
+|
+il0.6     73
+=1 treble 1b qua [f{1 e}1 d c B, A,]
+I0.01        f
+|
+=1 cro. B-mordent qua B cro B
+|
+=1 cro G G c
+|
+=1 min A-tr cro A
+|
+=1 min. d
+|
+=1 qua [e{1 f}1] cro g qua [f{1 e}1]
+|
+=1 min e-tr cro d
+|
+=1 min. d
+/
+8 bars |1b 5 6 | 5 6 | 12 | 5 6 | 5 6 | 4 4 5 | 12 | 10 ||
+|
+il0.6     81
+=1 treble 1b min f cro f-.
+I0.01         p
+|
+=1 min g cro g-.
+|
+=1 cro. e qua d cro e-.
+|
+=1 min f cro f-.
+|
+=1 min d cro d-.
+|
+=1 min g qua [f e]
+|
+=1 cro. c#-tr qua Bn cro c
+|
+=1 min. d-fermata
+
+8 systems 25 /20/20/20/20/20/20/20/20 15/
+pagenum 4
+innerhead Robert Carr, 1686
+title Divisions on an Italian Ground
+leftfoot Continuo for guitar (c) 1980 Peter J Billam
+midi channel 2 patch 24
+/
+6 bars |1b 3/4 6.5 | 6 | 6 | 6 | 6 | 6 |
+| 3/4 1.3
+I1.1     Guitar
+=1' treble 1b 3/4 cha2 leg110 tra-12 smq blank cro. a qua g cro a
+=1, 1b 3/4 smq blank min. <D d>
+i0.4 6e en Re
+|
+=1' cro. b qua a cro b
+=1, min. <G d>
+|
+=1' cro. g qua f cro g
+=1, min. <C G c>
+|
+=1' cro. a qua g cro a
+=1, min. <F c>
+|
+=1' cro. f qua g cro a
+=1, min. <B_ B d>
+|
+=1' qua [b-s4 d-s1 g d B d]
+=1, min. G-s3,
+/
+5 bars |1b 6 | 5 | 6 | 6 | 6 |
+|
+=1' treble 1b cro. e qua a cro g
+=1, 1b qua [A,r Bnr] cro. c#r qua A
+=1, 1b min. A_
+|
+=1' min. f
+=1, cro  d A D
+=1, min. D_
+|
+il1.1        9
+=1' qua <d f-s3-s1> rest' <e g> rest' <f a-s2-s1> rest'
+=1, min. D
+|
+=1' qua <g b> rest' <a c~> rest' <b d~-s3-s2> rest'
+=1, min. G
+|
+=1' cro. e qua d e rest'
+=1, cro c G qua c rest
+=1, min. C
+/
+6 bars |1b 6 | 6 | 6 | 1 1 1.4 1.4 1 1 | 6 | 6 |
+|
+=1' treble 1b cro. f qua g [f e]
+=1, 1b cro A c A
+=1, 1b min. F
+|
+=1' cro d e f
+=1, cro blank G A
+=1, min. B_
+|
+=1' cro g-s1-s1 d-s4-s1 B-s0-s1
+=1, cro B G D
+=1, min. G_
+|
+=1' cro. d qua Bn cro c#
+=1, cro E cro. G qua E
+=1, min. A_
+| 3/4 .33 .34 .35 .36
+=1' min. d
+=1, cro F <E G> <F A>
+=1, min. D_
+i0.6              rit  .  .  .
+| 3/4 1.3
+il0.8 17
+=1' qua rest' d-s3 cro f-s2 a-s1
+=1, min. D
+i0.6            tempo
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+|
+=1' treble 1b qua rest' d-s4 cro b-s3 f-s2
+=1, 1b min. G-s1,
+|
+=1' qua rest G-s0 cro c g
+=1, min. C
+|
+=1' qua [f{2 e}2 f g <A f> e]
+=1, min. F
+|
+=1' qua [d{2 c}2 d e d c]
+=1, min. B_
+|
+=1' qua [B d] cro <B e-s1-s4> <G f-s0-s4>
+=1, min. G_-s3,
+/
+6 bars |1b 6 | 6 | 6 | 2.3 2 2 | 6 | 2.3 2 2 |
+|
+=1' treble 1b qua [c# d] cro <c e-s1-s0> <A g>
+=1, 1b min. A_
+|
+=1' qua [d-s1 e-s3] cro <D f-s0-s4> <d a-s1-s3>
+=1, min. D_
+|
+il1.4 25
+=1' qua [a g] cro f-s4 d-s1
+=1, cro d
+=1, min. D
+|
+=1' qua [G-s0 A-s1] cro B-s1 d-s1
+=1, min. Gr-s4,
+|
+=1' qua [g f] cro e-s0 c-s1
+=1, min. <C c>
+|
+=1' qua rest' G-s0 cro A-s2 c-s1
+=1, min. F-s3,
+/
+5 bars |1b 2 1.7 1.7 | 6 | 6 | 6 | 6 |
+|
+=1' treble 1b qua [f{2 e}2] cro d B
+=1, 1b min. B_
+|
+=1' qua [b{2 a}2 g d b e]
+=1, min. G
+|
+=1' cro b qua [a b] [g a]
+=1, qua rest qua e cro c# A
+=1, min. A_
+| 3/4 .33 .34 .35 .36
+=1' qua [f g] [e f] cro d
+=1, cro d A F
+=1, min. D_
+| 3/4 1.3
+il0.9       33
+=1' vol100 cro b a a
+=1, vol85 min f cro f
+=1, min. D
+i0.3        solo   espressivo . . .
+/
+6 bars |1b 6 | 6 | 6 | 6 | 6 | 6 |
+|
+=1' treble 1b vol100 min b qua rest'' a
+=1, 1b vol85 cro f e d
+=1, 1b min. G
+|
+=1' vol100 cro a g g
+=1, vol85 min e cro e
+=1, min. C
+|
+=1' vol100 min a qua rest'' a
+=1, vol85 cro e d c
+=1, min. F-s3,-s1,
+|
+=1' vol100 cro a g g
+=1, vol85 min <B d> cro <B d>
+|
+=1' vol100 cro g qua [B d g a]
+=1, vol85 min. G
+|
+=1' vol100 cro a g g
+=1, vol85 cro. c# qua d-s1, [e-s4, c-s1,]
+=1, min. A_
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+|
+=1' treble 1b vol100 cro c# cro. d qua e
+=1, 1b min. <D A>
+i0.4             cresc  .  .  .
+|
+il1.1     41
+=1' qua [f A] cro e qua [d f]
+=1, min. D
+|
+=1' qua [g B] cro d qua [f G]
+=1, min. G_
+|
+=1' qua [e G] cro d qua [e G]
+=1, min. C
+|
+=1' qua [f A] cro c qua [A c]
+=1, min. F
+
+8 systems 15 /20/20/20/20/20/20/20/20 20/
+pagenum 5
+innerhead Divisions on an Italian Ground, Robert Carr, 1686
+leftfoot Continuo for guitar (c) 1980 Peter J Billam
+/
+6 bars |1b 6 | 6 | 1 1.4 1 1 1 1 | 6 | 1 1 1.2 1.2 1 1 | 6 |
+|
+=1' treble 1b qua [d F] cro B qua [d B]
+=1, 1b min. B_
+|
+=1' qua [e B] cro d qua [e G]
+=1, min. G_
+|
+=1' qua [e A] cro c# qua [g A]
+=1, min. A_
+| 3/4 .33 .33 .34 .35
+il1.2      48
+=1' qua [g A] [<d f> e] cro f
+=1, min. D
+| 3/4 1.3
+=1' qua [a-s3 g a b a f-s4]
+=1, min <D d> cro D
+|
+=1' qua [g d] [B d] cro G
+=1, min G-s3,
+/
+5 bars |1b 6 | 6 | 6 | 1 1 1 1.2 1 0.9 | 1 1 1 1.1 1 0.9 |
+|
+=1' treble 1b qua [g{2-s4 f}2 e d e c]
+=1, 1b min <C G> cro C
+|
+=1' qua [f c] [A c] cro F
+=1, min F
+|
+=1' qua [f-s1 d-s4 B-s3 d-s4 A-s2 d-s4]
+=1, min. B_-s1,
+|
+=1' qua [e{2 f}2 e d c# d]
+=1, min. G
+|
+=1' qua [e d e f <c# g> e]
+=1, min. A_
+/
+6 bars |1b 6 | 6 | 6 | 6 | 6 | 6 |
+| 3/4 .33 .33 .34 .35
+il0.8   56
+=1' treble 1b qua [f{2 g}2 f e f g]
+=1, 1b min. D
+| 3/4 1.3
+=1' cro vol95 <d vol110 a-s1-s3> vol95 <B vol110 g-s1-s1> vol95 <A vol110 f-s3-s2>
+=1, min. vol100 D_
+i0.3           solo  .  .  .
+|
+=1' cro vol95 <B vol110 g-s3-s4> vol95 <c vol110 a-s1-s1> vol95 <d vol110 b-s3-s2>
+=1, min. vol100 G_-s1,
+|
+=1' cro vol95 <c vol110 g-s1-s4> vol95 <A vol110 f-s2-s1> vol95 <G vol110 e>
+=1, min. vol100 C-s3,
+|
+=1' cro vol95 <c vol110 f-s3-s4> vol95 <B vol110 g> vol95 <c vol110 a-s3-s4>
+=1, min. vol100 F-s1,
+|
+=1' cro vol110 d vol95 <B vol110 e> vol95 <A vol110 f>
+=1, min vol100 B_ cro rest,,
+/
+5 bars |1b 5.4 | 5.4 | 5.4 | 6 | 6 |
+|
+=1' treble 1b cro vol95 <B vol110 e-s4-s0> vol95 <A vol110 f-s3-s2> vol95 <G vol110 g-s0-s4>
+=1, 1b min. vol100 G_-s1,
+|
+=1' cro vol95 <A vol110 g> vol95 <d vol110 f> vol95 <c# vol110 e>
+=1, min. vol100 A_
+|
+=1' cro vol95 <d vol110 f> vol95 <A vol110 e> vol95 <F vol110 d>
+=1, min. vol100 D_
+|
+il0.9 .20 65
+=1' vol100 cro. f# qua g cro a
+=1, qua rest d cro. A qua d
+=1, min. D
+|
+=1' qua [g d B d G B]
+=1, min G-s3,
+/
+6 bars |1b 6.5 | 5.5 | 6 | 5.5 | 1 1.4 1 1 1 1 | 5.5 |
+|
+=1' treble 1b cro. e qua f cro g
+=1, 1b qua rest c cro. G qua c
+=1, 1b min. C
+|
+=1' qua [f c A c F A]
+=1, min F
+|
+=1' qua rest' [d g a b d]
+=1, min. B
+b0.4 3P
+|
+=1' qua rest' [d e f g d]
+=1, min. G-s0,
+|
+=1' qua rest [A c# g a{2 e}2]
+=1, min. A_
+|
+=1' qua [f d A d F A]
+=1, min. D
+/
+6 bars |1b 6 | 6 | 6 | 6 | 6 | 1 1 1 1 1.4 1 |
+|
+il0.8    73
+=1' treble 1b qua [a{2 g}2 f e d c]
+=1, 1b min. D
+|
+=1' qua [B-s2 A-s1 G-s0 F E D]
+=1, cro. G-s4,
+|
+=1' qua [g{2 f}2 e d c B]
+=1, min. C
+|
+=1' qua [A-s2 G F E D C]
+=1, cro F-s3,
+|
+=1' qua [f{2 e}2 d c B A]
+=1, min. B_-s1,
+|
+=1' qua [b{2 a}2 g f d Bn]
+=1, min. G-s0,
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+|
+=1' treble 1b qua [c#{2 d}2 e g f e] dsq blank
+=1, 1b min. A_ smq-s D_(1
+| 3/4 .33 .33 .34 .35
+=1' qua [f{2 e}2 d A F E]
+=1, min. D_)1
+| 3/4 1.42
+il0.8       81
+=1' min <A d f> qua <A d f> rest'
+=1, min D qua D rest,
+|
+=1' min <B d g> qua <B d g> rest'
+=1, min G_ qua G_ rest,
+|
+=1' cro. e qua d e rest'
+=1, min <C G c> qua <C G c> rest,
+/
+5 bars |1b 6 | 6 | .8 .8 .8 .8 1.2 1 | 6 | 1.1 1.1 1.1 1.1 1 1 ||
+|
+=1' treble 1b min <A c f> qua <A c f> rest'
+=1, 1b min F_ qua F_ rest,
+|
+=1' min <F B d> qua <F B d> rest'
+=1, min B_ qua B_ rest,
+|
+=1' min <B d g> qua [A Bn]
+=1, min. G_
+| 3/4 .72 .74
+=1' qua [c# d] cro e qua [d c]
+=1, cro. A A
+=1, min. <A_ E>
+| 3/4 .77 .80
+=1' min d
+=1, qua rest, [A_ D A] cro d
+=1, min. D_
+
+@
+
+
+1.4
+log
+@fixed misprints prior to release
+@
+text
+@d3 1
+a3 1
+innerhead John Carr, 1684
+d6 2
+d25 1
+a25 1
+=1 cro. c#-tr qua B, cro c
+d32 1
+a32 1
+=1 treble 1b cro a(1 g)1 a
+d42 1
+a42 1
+=1 qua [e(1 f)1] cro g qua [f(1 e)1]
+d44 1
+a44 1
+=1 min e-tr qua [d(1 c#)1]
+d65 1
+a65 1
+=1 min f-tr qua [e(1 d)1]
+d81 1
+a81 1
+=1 cro e e qua [f(1 d)1]
+d93 1
+a93 1
+=1 treble 1b cro f(1 cro. e)1 qua f
+d108 1
+a108 1
+=1 cro a(1 cro. g)1 qua a
+d110 2
+a111 2
+7 bars |1b 5 6 | 12 | 12 | 1 1 1 1 1 1 1 1 1 1 1 1.4 \
+ | 1 1 1 2 1 1 1.4 1.4 1.4 1.4 1.4 1.4 | 1.7 1.7 1.7 1.7 2.7 2 | 5 6 |
+d119 1
+a119 1
+=1 min d qua. f[ smq e]
+d121 1
+a121 1
+=1 qua. [e(1 smq d] qua [c# smq d e] [f g a b)1]
+d144 1
+a144 1
+=1 treble 1b cro. c#-tr(1 qua Bn,)1 cro c
+d189 1
+a189 1
+=1 treble 1b qua [f(1 e)1 d c B, A,]
+d200 1
+a200 1
+=1 qua [e(1 f)1] cro g qua [f(1 e)1]
+d222 1
+a222 1
+=1 cro. c#-tr qua B, cro c
+d228 1
+a228 1
+innerhead John Carr, 1684
+d231 1
+d234 1
+a234 1
+|
+d236 1
+a236 1
+=1' treble 1b 3/4 smq blank cro. a qua g cro a
+d293 1
+a293 1
+|
+d297 2
+a298 2
+i0.6            rit  .  .  .
+|
+d312 1
+a312 1
+=1' qua [f(2 e)2 f g <A f> e]
+d315 1
+a315 1
+=1' qua [d(2 c)2 d e d c]
+d345 1
+a345 1
+=1' treble 1b qua [f(2 e)2] cro d B
+d348 1
+a348 1
+=1' qua [b(2 a)2 g d b e]
+d354 1
+a354 1
+|
+d358 1
+a358 1
+|
+d360 2
+a361 2
+=1' cro b a a
+=1, min f cro f
+d367 2
+a368 2
+=1' treble 1b min b qua rest'' a
+=1, 1b cro f e d
+d371 2
+a372 2
+=1' cro a g g
+=1, min e cro e
+d375 2
+a376 2
+=1' min a qua rest'' a
+=1, cro e d c
+d379 2
+a380 2
+=1' cro a g g
+=1, min <B d> cro <B d>
+d382 2
+a383 2
+=1' cro g qua [B d g a]
+=1, min. G
+d385 2
+a386 2
+=1' cro a g g
+=1, cro. c# qua d-s1, [e-s4, c-s1,]
+d391 1
+a391 1
+=1' treble 1b cro c# cro. d qua e
+d393 1
+a393 1
+i0.4         cresc  .  .  .
+d410 1
+a410 1
+innerhead Divisions on an Italian Ground, John Carr, 1684
+d413 1
+a413 1
+6 bars |1b 6 | 6 | 1 1.4 1 1 1 1 | 6 | 6 | 6 |
+d423 1
+a423 1
+|
+d427 1
+a427 1
+|
+d434 1
+a434 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d436 1
+a436 1
+=1' treble 1b qua [g-s4(2 f)2 e d e c]
+d442 1
+a442 1
+=1' qua [f-s1 d-s4 B-s3 d-s4 A-s2 d-s4(2]
+d445 1
+a445 1
+=1' qua [e)2 f e d c# d]
+d452 1
+a452 1
+|
+d454 1
+a454 1
+=1' treble 1b qua [f(2 g)2 f e f g]
+d456 3
+a458 3
+|
+=1' cro <d a-s1-s3> <B g-s1-s1> <A f-s3-s2>
+=1, min. D_
+d461 2
+a462 2
+=1' cro <B g-s3-s4> <c a-s1-s1> <d b-s3-s2>
+=1, min. G_-s1,
+d464 2
+a465 2
+=1' cro <c g-s1-s4> <A f-s2-s1> <G e>
+=1, min. C-s3,
+d467 2
+a468 2
+=1' cro <c f-s3-s4> <B g> <c a-s3-s4>
+=1, min. F-s1,
+d470 2
+a471 2
+=1' cro d <B e> <A f>
+=1, min B_ cro rest,,
+d475 2
+a476 2
+=1' treble 1b cro <B e-s4-s0> <A f-s3-s2> <G g-s0-s4>
+=1, 1b min. G_-s1,
+d478 2
+a479 2
+=1' cro <A g> <d f> <c# e>
+=1, min. A_
+d481 2
+a482 2
+=1' cro <d f> <A e> <F d>
+=1, min. D_
+d484 2
+a485 2
+il0.9 65
+=1' cro. f# qua g cro a
+d508 1
+a508 1
+=1' qua rest [A c# g a(2 e)2]
+d517 1
+a517 1
+=1' treble 1b qua [a(2 g)2 f e d c]
+d523 1
+a523 1
+=1' qua [g(2 f)2 e d c B]
+d529 1
+a529 1
+=1' qua [f(2 e)2 d c B A]
+d532 1
+a532 1
+=1' qua [b(2 a)2 g f d Bn]
+d537 1
+a537 1
+=1' treble 1b qua [c#(2 d)2 e g f e] dsq blank
+d539 2
+a540 2
+|
+=1' qua [f(2 e)2 d A F E]
+d542 1
+a542 1
+|
+d563 1
+a563 1
+|
+d567 1
+a567 1
+|
+@
+
+
+1.3
+log
+@squeezed
+@
+text
+@d3 1
+a3 1
+innerhead Robert Carr
+d7 2
+a8 1
+8 bars |1b 3/4 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
+d19 1
+a19 1
+=1 min d-mordent cro d
+d27 1
+a27 1
+8 bars |1b 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
+d34 1
+a34 1
+=1 cro g qua f cro g
+d46 1
+a46 1
+8 bars |1b 6 7.5 | 15 | 15 | 11 | 11 | 12 | 11 | 3.5 3.5 4 |
+d65 1
+a65 1
+9 bars |1b 12 | 4 4 5 | 12 | 4 5 4 | 6 7.5 | 12 | 4 4 5 | 12 | 12 |
+d89 1
+a89 1
+8 bars |1b 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
+d108 2
+a109 2
+7 bars |1b 12 | 12 | 12 | 1 1 1 1 1 1 1 1 1 1 1 1.4 \
+ | 1 1 1 2 1 1 1.4 1.4 1.4 1.4 1.4 1.4 | 12 | 12 |
+d125 1
+a125 1
+6 bars |1b 12 | 12 | 12 | 12 | 12 | 12 |
+d162 2
+a163 1
+9 bars |1b 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
+d184 1
+a184 1
+8 bars |1b 15 | 12 | 12 | 10 | 5 4 5 | 12 | 10 |
+d200 1
+a200 1
+=1 min e-tr cro e
+d204 1
+a204 1
+8 bars |1b 12 | 12 | 12 | 12 | 12 | 4 4 5 | 12 | 10 ||
+d226 1
+a226 1
+innerhead Robert Carr
+d252 1
+a252 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d262 1
+a262 1
+il0.6 9
+d296 1
+a296 1
+il0.6  17
+d326 1
+a326 1
+il1.3  25
+d340 1
+a340 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d356 1
+a356 1
+il0.7      33
+d405 1
+a405 1
+8 systems 15 /20/20/20/20/20/20/20/20 15/
+d407 1
+a407 1
+innerhead Divisions on an Italian Ground, Robert Carr
+d421 1
+a424 1
+il0.9 49
+d470 1
+a470 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d481 1
+a481 1
+il0.6 65
+d489 1
+a489 1
+6 bars |1b 6 | 6 | 6 | 6 | 1.4 1 1 1 1 1 | 6 |
+d517 1
+a517 1
+=1' qua [B-s2 A-s1 G F E D]
+d521 1
+a521 1
+=1, min. D
+d524 1
+a524 1
+=1, cro. F-s3,
+d540 1
+@
+
+
+1.2
+log
+@guitar part finished, but needs squeezing
+@
+text
+@d165 1
+a165 1
+il0.8    65
+d222 1
+a222 1
+9 systems 25 /20/20/20/20/20/20/20/20/20 15/
+d228 1
+a228 1
+5 bars |1b 3/4 6.5 | 6 | 6 | 6 | 6 |
+d246 3
+d252 3
+a254 6
+=1' treble 1b qua [b-s4 d-s1 g d B d]
+=1, 1b min. G-s3,
+|
+=1' cro. e qua a cro g
+=1, qua [A,r Bnr] cro. c#r qua A
+=1, min. A_
+d266 4
+d271 1
+a271 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d273 3
+a275 7
+=1' treble 1b cro. e qua d e rest'
+=1, 1b cro c G qua c rest
+=1, 1b min. C
+|
+=1' cro. f qua g [f e]
+=1, cro A c A
+=1, min. F
+a287 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d289 4
+a292 4
+=1' treble 1b min. d
+=1, 1b cro F <E G> <F A>
+=1, 1b min. D_
+i0.6                 rit  .  .  .
+d297 3
+a299 1
+i0.6       tempo
+d301 2
+a302 2
+=1' qua rest' d-s4 cro b-s3 f-s2
+=1, min. G-s1,
+a308 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d310 2
+a311 2
+=1' treble 1b qua [d(2 c)2 d e d c]
+=1, 1b min. B_
+d315 2
+d318 2
+a319 2
+=1' qua [c# d] cro <c e-s1-s0> <A g>
+=1, min. A_
+d324 1
+a324 1
+il1.1  25
+a327 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d329 2
+a330 2
+=1' treble 1b qua [G-s0 A-s1] cro B-s1 d-s1
+=1, 1b min. Gr-s4,
+d337 2
+d340 2
+a341 2
+=1' qua [f(2 e)2] cro d B
+=1, min. B_
+a344 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d346 3
+a348 3
+=1' treble 1b cro b qua [a b] [g a]
+=1, 1b qua rest qua e cro c# A
+=1, 1b min. A_
+d358 3
+a360 1
+i0.3        solo        espressivo . . .
+d362 3
+a364 3
+=1' min b qua rest'' a
+=1, cro f e d
+=1, min. G
+a368 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d370 3
+a372 3
+=1' treble 1b min a qua rest'' a
+=1, 1b cro e d c
+=1, 1b min. F-s3,-s1,
+d383 2
+d386 2
+a387 2
+=1' cro c# cro. d qua e
+=1, min. <D A>
+a388 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d390 3
+a392 3
+il0.6     41
+=1' treble 1b qua [f A] cro e qua [d f]
+=1, 1b min. D
+a401 3
+|
+=1' qua [d F] cro B qua [d B]
+=1, min. B_
+d403 1
+a403 1
+9 systems 15 /20/20/20/20/20/20/20/20/20 15/
+d408 1
+a408 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d410 5
+a414 2
+=1' treble 1b qua [e B] cro d qua [e G]
+=1, 1b min. G_
+d422 1
+a422 1
+il1.1 49
+d446 1
+a446 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d454 1
+d464 3
+d470 2
+a471 5
+=1' treble 1b cro d <B e> <A f>
+=1, 1b min B_ cro rest,,
+|
+=1' cro <B e-s4-s0> <A f-s3-s2> <G g-s0-s4>
+=1, min. G_-s1,
+d483 3
+d487 1
+a487 1
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d489 3
+a491 6
+=1' treble 1b qua [g d B d G B]
+=1, 1b min G-s3,
+|
+=1' cro. e qua f cro g
+=1, qua rest c cro. G qua c
+=1, min. C
+a501 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d503 2
+a504 2
+=1' treble 1b qua rest [A c# g a(2 e)2]
+=1, 1b min. A_
+a505 1
+il0.8  72
+d508 2
+d511 3
+a513 2
+=1' qua [a(2 g)2 f e d c]
+=1, min. D
+a519 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d521 2
+a522 2
+=1' treble 1b qua [A-s2 G F E D C]
+=1, 1b cro. F-s3,
+d529 2
+d532 2
+a533 2
+=1' qua [c#(2 d)2 e g f e]
+=1, min. A_ smq-s D_(1
+a536 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d538 2
+a539 2
+=1' treble 1b min <A d f> qua <A d f> rest'
+=1, 1b min D qua D rest,
+d546 2
+d549 2
+a550 2
+=1' min <A c f> qua <A c f> rest'
+=1, min F_ qua F_ rest,
+a553 2
+/
+5 bars |1b 6 | 6 | 6 | 6 | 6 |
+d555 2
+a556 2
+=1' treble 1b min <B d g> qua [A Bn]
+=1, 1b min. G_
+@
+
+
+1.1
+log
+@add half of guitar part
+@
+text
+@d222 1
+a222 1
+9 systems 40 /20/20/20/20/20/20/20/20/20 20/
+d408 1
+a408 1
+9 systems 40 /20/20/20/20/20/20/20/20/20 20/
+d423 146
+@

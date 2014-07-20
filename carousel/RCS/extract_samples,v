@@ -1,0 +1,11 @@
+head	;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+
+desc
+@Script to extract the Free Samples from vs*
+@

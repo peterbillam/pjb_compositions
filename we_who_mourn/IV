@@ -1,0 +1,368 @@
+4 systems 10 /17-25-17-20-17-20-17 /17-25-17-20-17-20-17 \
+ /17-25-17-20-17-20-17 /17-25-17-20-17-20-17 /
+title IV
+pagenum
+innerhead We Who Mourn, Peter Billam
+leftfoot (c) 2013 Peter J Billam
+midi channel 1 patch 52 pan 10 reverb 100
+midi channel 2 patch 52 pan 58 reverb 100
+midi channel 3 patch 52 pan 74 reverb 100
+midi channel 4 patch 52 pan 90 reverb 100
+midi channel 5 patch 52 pan 42 reverb 100
+
+# AM 3
+# (solo voice, 3 voices in 2-note phrases upbeat->downbeat, 5/4 an 4/4
+
+# 20130409 hmm... echo at cro of morse_thue? 8 d~ c~# b a# : c# d~ a# b ?
+# A rest-free 2-voice texture shared among 3 voices so as to be sustained,
+# each smb on min off
+# and then the lowest note of the four can go  a# g# gn f  (fractally) or sim
+# but how does that fit with the words ?
+
+# 20130410
+/
+3 bars | 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 3.6
+=1 treble8vab cha1 vol110 leg85  1 rest
+=2 bass       cha2 vol70 leg100 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 bass       cha3 vol70 leg100 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 bass       cha4 vol70 leg100 2 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+=1 8 rest F 4 d 2. c# 4 rest
+r0.6 .08 And we  knew ,
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [b a# ab g]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [b a#]
+i.2 .33 5
+|
+=1 2 rest rest d#
+r0.6 .67 we
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+i.2 .67 9
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [ab g] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+=1 1 e 2 rest
+r0.6 .01 knew ,
+=2 8 [b a# ab g] 4 rest 8 [b a# ab g] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [b a#] [ab g] 4 rest 8 [a# b]
+|
+il0.7 .03 5
+=1 2 rest rest 8 rest E G F
+r0.6 .75 for  gener -
+i.2 .01 13
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+=1 2 1 f 4 e Bb
+r0.6 .03 a .33 - .65 tions .83 we
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [b a# ab g]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest bb
+i0.2 .33 17
+|
+=1 1 d 2 rest
+r0.6 .01 knew .
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+i.4 .66 21
+=3 4 rest 8 [bb ab g f] 4 rest 8 [bb ab g f]
+=4 8 [f g] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+|
+=1 2 rest rest 8 rest F 4 G
+r0.6 .75 but what
+=2 8 [f g ab bb] 4 rest 8 [f g ab bb] 4 rest
+=3 4 rest 8 [f g ab bb] 4 rest 8 [bb ab g f]
+=4 8 [g f] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+|
+=1 1. E
+r0.6 .01 use ?
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+i0.6 .01 25
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+|
+il0.7 .03 10
+=1 2 rest 4 e c#-emph 8 d 4 f#-emph 8 fn
+r0.6 .33 Some .52 leather - .75 lunged ad
+=2 8 [c~# b a# g#] 4 rest 8 [g# a# b c~#] 4 rest
+=3 4 rest 8 [c~# b a# g#] 4 rest 8 [c~# b a# g#]
+=4 8 [g g#] 4 rest 8 [g# a#] [b c~#] 4 rest 8 [c~# b]
+i0.2 .33 29
+|
+=1 4 e-emph 8 c 4. Ab 8 rest 4 eb 8 B [d' F#]
+r0.6 .01 - ven - turer , .58 fist .73 on  steering
+=2 8 [d~ c~ a# f#] 4 rest 8 [f# g# an b] 4 rest
+=3 4 rest 8 [d~ c~ a# f#] 4 rest 8 [b g# an b]
+i0.8 .66 33
+=4 8 [a# g#] 4 rest 8 [f# g#] [an b] 4 rest 8 [f# g#]
+i0.2 .66 U
+|
+=1 2. c 8 rest 4 e c# 8 A#
+r0.6 .01 wheel , .58 he .75 held .91 the
+=2 8 [ab g f e] 4 rest 8 [ab g f e] 4 rest
+=3 4 rest 8 [ab g f e] 4 rest 8 [f g ab bb]
+=4 4 bb rest 8 [ab g] [f e] 4 rest 8 [f g]
+|
+=1 4 gb f 2 rest 8 rest A [c' B']
+r0.6 .03 levers , .75 he .83 didn't
+=2 8 [c~ b a g#] 4 rest 8 [b c~ g# a] 4 rest treble
+i0.2 .01 37 g# a b c~ .76 D E F# G
+=3 4 rest 8 [b c~ g# a] 4 rest treble 8 [C D E F#]
+=4 4 ab 4 rest 8 [b c~] [g# a] 4 rest treble 8 [C D]
+i0.2 .01 D
+|
+=1 8 [db c eb dn] 4 f 8 en 4 f# 8 g 4 g#
+r0.6 .01 listen  to  the .33 shouting .58 from .74 the back
+=2' 8 [C# D Eb F] 4 rest 8 [c B A G#] 4 rest
+i0.2 .33 41 .76 c d e f#
+=3 4 rest 8 [C# D Eb F] 4 rest 8 [c d eb f]
+=4 8 [E F#] 4 rest 8 [c' B'] [A G#] 4 rest 8 [c d]
+i0.2 .33 D
+|
+il0.7 .03 15
+=1 1 c 2 rest
+r0.6 .01 seat ,
+=2' 8 [c d eb f] 4 rest 8 [c B A G#] 4 rest
+i0.2 .01 f f# g# a .67 45
+=3 4 rest 8 [c d eb f] 4 rest 8 [B' c' G# A]
+=4 4 eb 4 rest 8 [c B] [A G#] 4 rest 8 [B c]
+i0.2 .66 U
+|
+=1 2 rest rest 4. d 8 Bb
+r0.6 .01 .66 We .87 could
+=2' 8 [A G# F# Fn] 4 rest 8 [A G# c' B'] 4 rest
+=3 4 rest 8 [A G# F# Fn] 4 rest 8 [G# A Bb' c']
+=4 4 A 4 rest 8 [A G#] [F# Fn] 4 rest 8 [G# A]
+|
+=1 1 f# 2 rest
+r0.6 .01 see ,
+=2 8 [eb d c B] 4 rest 8 [eb f f# g#] 4 rest
+=3 4 rest 8 [eb d c B] 4 rest 4 eb 8 [f f#]
+i0.2 .01 49 f# g# a b
+=4 8 [B, c] 4 rest 8 [eb f] [f# g#] 4 rest eb
+i0.2 .01 D
+|
+=1 2. a 8 B 4 g# 8 f# 4 c
+r0.6 .01 eve .23 - .50 ry - bo - dy .83 could
+=2 8 [a g# f# fn] 4 rest 8 [d eb f f#] 4 rest
+=3 4 rest 8 [a g# f# fn] 4 rest 8 [f eb d c]
+i0.2 .33 53 .67 f f# g# a
+=4 8 [f f#] 4 rest  8 [d eb] [f f#] 4 rest 8 [f eb]
+i0.2 .33 U
+|
+=1 1 eb 2 rest
+r0.6 .01 see ,
+=2' 8 [B A G# F#] 4 rest 8 [F# G# Eb Fn] 4 rest bass
+r0.6 .67 57
+=3' 4 rest 8 [B A G# F#] 4 rest 8 [C D Eb Fn]
+=4 8 [d c] 4 rest 8 [F# G#] [Eb Fn] 4 rest 8 [C D]
+i0.2 .67 U
+|
+il0.7 .03 20
+=1 8 rest 4. d 2. c# 4 rest
+r0.6 .10 we  knew ,
+=2 8 [c~ bb ab g] 4 rest 8 [bn a# ab g] 4 rest
+=3 4 rest bass 8 [c~ bb ab g] 4 rest 8 [a# bn g ab]
+=4 8 [Eb F] 4 rest bass 8 [b a#] [ab g] 4 rest 8 [a# b]
+r0.5 f gb g# a
+|
+=1 2 rest rest 8 rest D F E
+r0.6 .75  We saw it
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+i0.4 .01 61
+=3 4 rest 8 [b a# ab g] 4 rest 8 [a# b g ab]
+=4 8 [g ab] 4 rest 8 [a# b] [g ab] 4 rest 8 [a# b]
+i0.2 .01 D
+|
+=1 2 db c rest
+r0.6 .01 co .17 - .33 ming ,
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+=3 4 rest 8 [bb ab g f] 4 rest 8 [bb ab g f]
+i0.2 .33 65
+=4 8 [g ab] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+i0.2 .33 U
+|
+=1 2 rest rest 8 rest D F E
+r0.6 .75  we kept on
+=2 8 [b a# ab g] 4 rest 8 [a# b g ab] 4 rest
+=3 4 rest 8 [b a# ab g] 4 rest 8 [b a# ab g]
+i0.8 .67 69
+=4 8 [g f] 4 rest 8 [a# b] [g ab] 4 rest 8 [b a#]
+i0.2 .67 D
+|
+=1 2 db c rest
+r0.6 .01 dri .17 - .33 ving ,
+=2 8 [f g ab bb] 4 rest 8 [f g ab bb] 4 rest
+=3 4 rest 8 [f g ab bb] 4 rest 8 [bb ab g f]
+=4 8 [ab g] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+|
+il0.7 .03 25
+=1 1 blank
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+i0.8 .01 73
+=3 4 rest 8 [bb ab g f] 4 rest 8 [f g ab bb]
+=4 8 [g f] 4 rest 8 [f g] [ab bb] 4 rest 8 [f g]
+i0.2 .01 D
+|
+=1 4 rest 2. d 2 c#
+r0.6 .17 and .67 it
+=2 8 [bb ab g f] 4 rest 8 [f g ab bb] 4 rest
+i0.8 .33 77
+=3 4 rest 8 [bb ab g f] 4 rest 8 [bb ab g f]
+=4 8 [ab bb] 4 rest 8 [f g] [ab bb] 4 rest 8 [bb ab]
+i0.2 .33 U
+|
+=1 1. g
+r0.6 .01 came . . .
+=2 8 [b a d~# c~#] 4 rest 8 [a b c~# d~#] 4 rest
+i0.8 .67 81
+=3 4 rest 8 [b a d~# c~#] 4 rest 8 [b a g f]
+=4 8 [g f] 4 rest 8 [a b] [c~# d~#] 4 rest 8 [b a]
+i0.2 .67 D
+
+# communal pronunciation of:
+#   bar27 We | work(ed)? so | hard,
+#   | we | wove the | rope,
+#   | we | brewed the | poison,
+#   | and | all the | time we | knew it | was for | us !
+# the mt? Up : Dn ? moving from 3 pulses/bar to 2 pulses/bar
+# 128-81 = 47;  47/2 = 14 bars: 3 or 4 bars per line;
+# perhaps 3+3+3+5 bars, at 1 or 2 syllables per bar
+# bifurcating into 3 octaves
+# <bass f g a b   g a b c~#>
+# <bass f gb g# a treble B_ C D Eb>
+# <bass db eb f g treble Db Eb F G>
+# could +2 here and hence
+
+# <bass B c d eb   treble B_ C D Eb,  F Gb G# A>
+# <bass  G A B c#,  g a b c~#,   treble G A B c#>
+# could +2 more here
+
+# bass G is a bit too low...
+# and if that's only 7 chords, can turtle them...
+
+# <bass d eb f gb,   g# a b c~,  treble D Eb F Gb>
+# <bass db eb f g alto treble Db Eb F G>
+
+# when in the two of 121 state, either group can move +-2
+# when in the 222 state, can move -1,2,3 if ascending, +1,2,3 if descending
+# especially the +3.
+# a fair amount of freedom-of-movement...
+# The 222->121,121 doesn't have to move symmetrically, either, but also +-2
+
+# <bass f g a b> 222
+# -1 ?
+# <bass ab bb c~ d~> +3
+# -1 ?
+# <bass g# a b   c~ treble D Eb F Gb> 121
+# <bass g# a b   c~ treble E F G Ab>   0 +2
+# <bass a# b c~# d~ treble E F G Ab> +2 0
+# <bass gb ab bb c~ treble Gb Ab Bb c> 222
+# -1 ?
+# <bass a b c~# d~# treble A B c# d#> +3
+# -1 ?
+# <bass g g# a# b   treble G G# A# B  c# d e f> 121
+# <bass g g# a# b   treble G G# A# B  d# e f# g> 0 +2
+# <bass a bb c~ d~b treble A Bb c db  d# e f# g> +2 0
+# <bass f g a b     treble F G A B    f g a b> 222
+# plainly we've ended up too high, let's say 7 semitones too high
+
+|
+# 222
+=1 1 blank
+r0.8 .03 We
+=2 8 [a b f g] 4 rest 8 [a b f g] 4 rest
+=3 4 rest 8 [a b f g] 4 rest 8 [b a f g]
+=4 8 [g f] 4 rest 8 [a b] [f g] 4 rest 8 [b a]
+|
+# -1
+=1 1 blank
+r0.8 .03 work .67 so
+=2 8 [g# a# e f#] 4 rest 2. blank
+=3 4 rest 8 [g# a# e f#] 2. blank
+=4 8 [f g] 4 rest 1 blank
+i0.2 .01 U
+|
+# +3
+il0.7 .03 30
+=2 1 <g a b c~#>
+r0.8 .03 hard ,
+=3 1 blank
+i0.2 .33 U
+|
+# -1
+=2 1 <gb ab bb c~> treble
+r0.5 .03 we
+=3 1 blank
+i0.2 .67 D
+|
+# 121 ???
+=2 1 <B_b B_n C# D>
+r0.5 .07 wove .67 the
+=3 1 <e f g g#>
+|
+# 0 +2
+=2 1 <C C# Eb En>
+r0.5 .03 rope , .67 we
+=3 1 <e f g g#>
+i0.2 .01 D
+|
+# +2 0
+=2 1 <C C# Eb En>
+r0.5 .03 brewed .67 the
+=3 1 <f# g a bb>
+i0.2 .33 U
+|
+# 222
+il0.7 .03 35
+=2 1 <D E F# G#>
+r0.5 .03 poi .55 -
+=3 1 <d e f# g#>
+i0.2 .67 U
+|
+# -1
+=2 1 <C# Eb F G>
+r0.5 .03 son , .67 and
+=3 1 <c# eb f g>
+|
+# +3
+=2 1 <E F# G# Bb>
+r0.5 .03 all .67 the
+=3 1 <e f# g# bb>
+i0.2 .01 D
+|
+# -1
+=2 1 <Eb F G A>
+r0.5 .03 time .67 we
+=3 1 <eb f g a>
+i0.2 .33 U
+|
+# 121
+=2 1 <Gn G# A# B>
+=2 1 <C# D E F>
+r0.5 .03 knew .67 it
+=3 1 <c# d e f>
+i0.2 .67 D
+|
+# 0 +2
+il0.7 .03 40
+=2 1 <An Bb cn db>
+=2 1 <C# D E F>
+r0.5 .03 was .34 for
+=3 1 <c# d e f>
+|
+# +2 0
+=2 1 <An Bb cn db>
+=2 1 <D# En F# G>
+r0.5 .03 us ! .67 for
+=3 1 <d# en f# g>
+i0.2 .01 D
+|
+# 222
+=2 1 <B c# d# f>
+=2 1 <B_ C# D# F>
+=3 1 <B c# d# f>
+r0.5 .01 us !
+i0.2 .33 U

@@ -1,0 +1,435 @@
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7;
+comment	@# @;
+
+
+1.7
+date	2001.01.29.10.15.59;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2001.01.28.10.38.18;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2001.01.25.10.26.15;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2001.01.21.05.01.27;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2000.12.18.07.05.21;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2000.11.14.03.11.17;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2000.11.12.22.43.43;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@For Four Hands, from AB1,AB3,AB11 sketches
+@
+
+
+1.7
+log
+@up to bar 15
+@
+text
+@3 systems /19-35-19 40 19-35-19/19-35-19 40 19-35-19/19-35-19 40 19-35-19/
+pagenum 1
+innerhead 3rd duet, Three Duets, Peter Billam
+title For Four Hands
+leftfoot (c) 2000 Peter J Billam
+/
+3 bars |16|10|16|
+|
+=1 treble 
+=2 treble cro Db cro. Db qua Db cro. F qua F cro G cro. E qua E
+is0.5               f233
+=3 bass   
+=4 bass   
+|
+=1 
+=2 cro F cro. G qua E cro. F qua G
+=3 
+=4 
+|
+=1 
+=2 cro A cro. B' qua d cro. c# qua d cro c# cro. B qua c#
+is0.5               a233
+=3 
+=4 
+/
+2 bars |16|10|
+|
+=1 treble 
+=2 treble min d# F min. G# cro rest
+is0.5     eb233
+=3 bass   cro B cro. B qua B cro. eb qua eb cro f cro. d qua d 
+=4 bass   
+|
+il0.4             5
+=1 
+=2 min f cro Ab min c
+=3 cro eb cro. f qua d cro. eb qua f 
+=4 
+/
+3 bars |16|10|16|
+|
+=1 treble 
+=2 treble qua rest G rest [F# G A] rest [A, B, c] rest c rest [B, c d]
+is0.5     g233
+=3 bass   cro g cro. a qua c~ cro. b qua a cro g cro. a qua b
+=4 bass cro Eb cro. Eb qua Eb cro. G qua G cro A cro. F# qua F# 
+|
+=1 
+=2 qua rest A rest [B, c d] rest [d eb f]
+=3 min c~ eb cro g(1
+=4 cro G cro. A qua F# cro. G qua A 
+|
+=1 
+=2 qua rest en rest [d# c# B,] rest [c# B, A#,] rest B rest [B' A# G#]
+is0.5    b233
+=3 min g)1 cro rest min c~# cro g min b
+=4 cro B cro. c# qua e cro. d# qua e cro d# cro. c# qua d# 
+
+3 systems /19-35-19 40 19-35-19/19-35-19 40 19-35-19/19-35-19 40 19-35-19 20/
+pagenum 2
+innerhead For Four Hands, 3rd duet, Three Duets, Peter Billam
+leftfoot (c) 2000 Peter J Billam
+/
+3 bars |16|10|16|
+|
+=1 treble cro f cro. f qua f cro. a qua a cro b cro. g# qua g#
+=2 treble cro B c# cro. d qua A min F cro. d qua c#
+is0.5            a233
+=3 bass   qua rest a rest [g# a b] rest [b, c~#, d~] rest d~ rest [c~#, d~ e~] 
+=4 bass   min f A min. B cro rest
+|
+il0.8   10
+=1 cro a cro. b qua g# cro. a qua b
+=2 min. B min rest
+=3 qua rest d~ rest [c~# d~ e~] rest [e~ f~ g~]
+=4 min f cro B min d
+|
+=1 cro c~# cro. d~# qua g~b cro. f~ qua g~b cro f~ cro. e~b qua f~
+=2 cro A c cro. c# qua A min F# cro. F# qua G
+is0.8            c#233
+=3 qua rest g~b rest [f~n e~b d~b] rest [e~b d~b c~] rest d~b rest [d~b c~ bb]
+=4 qua rest eb rest [db, eb f] rest [f gb ab] rest ab rest [gb ab bb]
+/
+2 bars |16|10|
+|
+=1 treble min e~b a min. c~ cro rest
+=2' cro A qua [c B] min A cro c qua [eb d] min c
+=2, treble cro Eb cro. Eb qua Eb cro. G qua G cro A cro. F# qua F# 
+is0.5            g233
+=3 bass   cro c~ d~ cro. e~b qua c~ min a cro. e~b qua d~
+=4 bass   qua rest g rest [f# g a] rest [a b c~] rest b rest [a g f#]
+|
+=1 min e~b cro a min b
+=2' cro A qua [c B] cro c qua [eb d] cro c
+=2, cro Gr cro. A qua F# cro. G qua A 
+=3 min. c~ min rest
+=4 qua rest [a g f#] rest g rest [g f# eb]
+/
+3 bars |16|10|16|
+|
+=1 treble qua rest' b rest [a# b c~#] rest' [c~# d~# e~] rest' e~ rest' [d~# e~ f~#]
+=2, treble cro B cro. c# qua e cro. d# qua e cro d# cro. d# qua d#
+is0.5            b233
+=3  bass   cro a# b  cro. c~# qua g min e cro. e qua f#
+=4' bass   cro c# d# cro. e qua B min G cro. e qua d#
+=4, cro G_ cro. G_ qua G_ cro. B_ qua B_ cro C# cro. A_# qua A_#
+|
+il0.8  15
+=1 qua rest c~# rest blank min. blank
+=2, min e
+=4, cro B_ cro. C# qua A_# cro. B_ qua C#
+|
+=1
+=2 smb blank
+is0.5   eb233
+=3 
+=4, cro Eb cro. F qua Ab cro. G qua Ab cro G cro. F qua G
+@
+
+
+1.6
+log
+@add 2nd page, up to bar 14
+@
+text
+@d87 2
+a88 2
+=2' treble cro eb cro. eb qua eb cro. g qua g cro a cro. f# qua f# 
+=2  smb A
+d93 3
+a95 3
+=1 min e~b cro a min c~
+=2' cro g cro. a qua f# cro. g qua a
+=2,
+d101 2
+a102 2
+=1 treble qua rest b rest [a# b c~#] rest [c~# d~# e~] rest e~ rest [d~ e~ f~#]
+=2 treble 
+d104 3
+a106 3
+=3  bass   
+=4' bass   cro c# d cro. e qua B min G blank
+=4, cro G_ cro. G_ qua G_ cro. B_ qua B_ 
+d109 3
+a111 1
+=1 smb blank
+d117 1
+a117 1
+=4 
+@
+
+
+1.5
+log
+@major rewrite, new 3rd subject
+@
+text
+@d49 1
+a49 1
+=2 qua rest c rest [B, c d] rest [d eb f]
+d59 1
+a59 1
+3 systems /19-35-19 40 19-35-19/19-35-19 40 19-35-19/19-35-19 40 19-35-19/
+d66 32
+a97 11
+=1 treble smb Gn
+=2 treble min. rest qua rest B_[ C B_] C[ B_] C[ C# D# E]
+is0.5            e233
+=3 bass   min e~ f# a rest
+=4 bass   cro C cro. C qua C cro. E qua F# cro E cro. D# qua D#
+|
+il0.4                10
+=1 qua g#[ a] cro rest qua b[ c~] min rest
+=2 cro F# C min. rest
+=3 cro rest smb blank
+=4 cro E cro. F# qua D# cro. E qua F#
+d99 11
+a109 1
+2 bars |16|16|
+d111 5
+a115 11
+=1 treble smb rest
+=2 treble min. rest qua rest Bb,[ c Bb,] c[ Bb,] c[ db eb en]
+is0.5            g#233
+=3 bass   cro d)1 min. f smb blank
+=4 bass   cro G# cro. A# qua db cro. c qua db cro c cro. Bb qua c
+|
+=1' cro f cro. f qua f cro. a qua b cro a cro. g# qua g#
+=2 cro eb A min blank smb blank
+is0.5     d233  ?
+=3 smb d~
+=4 smb d
+@
+
+
+1.4
+log
+@another iteration; perhaps more chord-conscious
+@
+text
+@d7 1
+a7 1
+2 bars |16|10|
+d9 2
+a10 2
+=1 treble cro Db cro. Db qua Db cro. F qua G cro F cro. E qua E
+=2 treble
+d15 2
+a16 2
+=1 cro F cro. G qua E cro. F qua G
+=2 
+a18 2
+/
+2 bars |16|16|
+d20 2
+a21 2
+=1 treble cro A cro. B' qua d cro. c# qua d cro c# cro. B qua c#
+=2 treble 
+a22 6
+=3 bass   
+=4 bass   
+|
+=1 min d# F min. G# cro rest
+=2 cro B_ cro. B_ qua B_ cro. Eb qua F cro Eb cro. D qua D
+is0.5     eb233
+d26 7
+a32 1
+2 bars |10|16|
+d35 6
+a40 4
+=1 treble min f Ab cro c(1
+=2 treble cro Eb cro. F qua D cro. Eb qua F
+=3 bass   
+=4 bass   
+d42 2
+a43 2
+=1 min c)1 cro rest qua rest d[ eb d] eb[ d] eb[ f f# g#]
+=2 cro G cro. A qua c cro. B qua c cro B cro. A qua B
+d45 13
+a57 1
+=3 cro eb cro. eb  qua eb cro. g qua a cro g  cro. f#  qua f#
+d64 1
+a64 14
+2 bars |10|16|
+|
+=1 treble cro a eb min. rest
+=2 treble min c Eb cro G(2
+=3 bass   cro g cro. a qua f# cro. g qua a
+=4 bass
+|
+=1 min. rest qua rest c#[ d# c#] d#[ c#] d#[ e f# g]
+=2 cro G)2 rest min B F# min G
+is0.5    b233
+=3 cro b cro. c~# qua e~ cro. d~# qua e~ cro d~# cro. c~# qua d~#
+=4 
+/
+2 bars |16|10|
+d66 1
+a66 1
+=1 treble cro f# c min. rest qua a[ g#] min rest
+@
+
+
+1.3
+log
+@another reworking
+@
+text
+@d11 1
+d24 1
+d28 1
+a28 1
+=1 min d F min. G# cro rest
+d30 1
+d44 1
+d60 2
+a61 1
+=2 cro G)2 rest min B G min F#(2
+d67 3
+a69 2
+=1 treble cro a c min. rest qua a[ g#] min rest
+=2 treble cro F#)2 min rest qua rest E[ F# E] F#[ E] F#[ G# A B']
+d74 4
+a77 4
+=1 qua a[ bb] cro rest qua a[ g] min rest
+=2 cro c# G rest qua rest G[ A B']
+=3 min rest eb cro d(1
+=4 cro F cro. G qua Eb cro. F qua G
+d82 2
+a83 1
+=2 treble qua c[ B] A[ G# A B'] cro d F min. rest
+d85 1
+a85 1
+=4 bass   cro A cro. B qua d cro. c# qua d cro c# cro. B qua c#
+d88 2
+a89 1
+=2 
+d91 1
+a91 1
+=4 smb B
+@
+
+
+1.2
+log
+@more iterative surgery
+@
+text
+@d9 1
+a9 1
+=1 treble cro Db cro. Db qua Db cro. F qua F cro G cro. E qua E
+d27 1
+a27 1
+=2 cro B_ cro. B_ qua B_ cro. Eb qua Eb cro F cro. D qua D
+d41 1
+a41 1
+=3 cro eb cro. eb  qua eb cro. g qua g cro a  cro. f#  qua f#
+d55 3
+a57 3
+=1 min. rest qua rest c#[ d e] f#[ g#] a[ g# a b]
+=2 cro G)2 rest min B G# min F#(2
+=3 cro b cro. c~# qua d~ cro. e~ qua d~ cro e~ cro. c~# qua d~#
+d62 4
+a65 4
+=1 treble cro c~ e min. rest qua gb[ f] min rest
+=2 treble cro F#)2 min rest qua rest F_#[ G_# A_] B_[ C#] D[ F F# G#]
+=3 bass   min bb f# d' rest
+=4 bass   cro C cro. C qua C cro. E qua E cro F# cro. D qua D
+d68 2
+a69 2
+=1 qua a[ g#] cro rest qua a[ g] min rest
+=2 cro A C rest qua rest G[ A B']
+d78 1
+a78 1
+=4 bass   cro A cro. B qua A cro. B qua c# cro d cro. B qua c#
+d80 1
+a80 1
+=1' cro f cro. f qua f cro. a qua a cro b cro. g# qua g#
+@
+
+
+1.1
+log
+@major iterative surgery
+@
+text
+@d21 1
+a21 1
+=1 treble cro A cro. B' qua A cro. B qua c# cro d cro. B qua c#
+d34 1
+a34 1
+=1 treble min f Ab cro B'(2
+d39 2
+a40 2
+=1 min B')2 cro rest qua rest B,[ c d] eb[ d] eb[ f# g a]
+=2 cro G cro. A qua G cro. A qua B cro c cro. A qua B
+d50 1
+a50 1
+=1 treble cro c~ eb min. rest
+d55 3
+a57 3
+=1 min. rest qua rest F#[ G# A] B[ c] d[ eb f g]
+=2 cro G)2 rest min B D min F(2
+=3 cro b cro. c~# qua b cro. c~# qua d~# cro e~ cro. c~# qua d~#
+d62 4
+a65 4
+=1 treble cro ab B min. rest qua b[ a#] min rest
+=2 treble cro F)2 min rest qua rest G_#[ A_# B_] C#[ D] F[ F# G# A#]
+=3 bass   min b B d' rest
+=4 bass   cro Db cro. Db qua Db cro. F qua F cro G cro. E qua E
+d68 4
+a71 4
+=1 qua a[ g#] cro rest qua f#[ fn] min rest
+=2 cro B' D rest qua rest C#[ D E]
+=3 min rest b cro d(1
+=4 cro F cro. G qua E cro. F qua G
+d75 2
+a76 2
+=1 treble 
+=2 treble qua F[ G] G#[ A B' c#'] cro d F min. rest
+@

@@ -1,0 +1,305 @@
+4 systems 20 / 19 37 19-35-19/ 19 40 19-45-19 10 \
+ / 19 35 19-40-19 10/ 19 35 19-40-19 10/
+lefthead poem by Jack Kerouac
+title From the 228th Chorus of Mexico City Blues
+righthead music by Peter Billam
+leftfoot (c) 1993 Peter J Billam, 1959 Jack Kerouac
+midi channel 1 patch 52
+midi channel 2 patch 0
+/
+3 bars | 9/4 5 5 4 5 4 4 4 4 4 4 4 3 4 3 4 3 3 3 \
+ | 9/8 4 4 4 6 4 4 4 4 4 | 4/4 4 4 4 4 4 4 4 4 |
+| 9/4 7.2
+=1 treble  9/4 cha1 tra-12 leg100 \
+ 2 rest 4 rest 2 rest rest rest
+=2' treble 9/4 cha2 leg100 8 [F-ten Db{2-ten Eb-ten A}2-ten] \
+ 4 Gb(2-ten 43 Gb)2 e-ten-I3 d-ten 1 A-ten
+=2,        9/4 2 blank 2. blank 2 F En
+=3' bass   9/4 cha2 leg100 2 b 4 e~ 2 c~ c~ c~#
+=3,        9/4 2 b 2. a 1 g
+=3 9/4 4 blank-P 4. blank-P 2. blank-P 2 blank-P 4. blank-P
+| 9/8 4.05
+=1 9/8 4. Eb 8 C 2 En 8 D
+r0.5 .03 Praised .36 be  wood, .90 it
+=2 9/8 2 <Eb Fx> En(1 8 E)1
+=2 9/8 2 C, C,(2 8 C,)2
+=3 9/8 4 g-* a f#-P 4. a
+| 4/4 3.6
+=1 4/4 4 F 2. Eb
+r0.5 .08 is .27 milk  . . .
+=2 4/4 4 Eb 2. F
+=2 4/4 4 C, 2 Db, 4 Db,(2
+=3 4/4 2 bb' ab'(1
+=3 4/4 4 f,(2 4. f,)2 f,(2
+=3 4/4 4. blank-P 8 blank-P 2 blank
+/
+4 bars | 6/4 4 4 4 4 4 4 4 4 4 4 4 4 \
+  | 5/8 5 4 5.2 4 4 | 4 4 4 4.5 4 | 4/4 8 8 8 7 |
+| 6/4 5.4
+=1 6/4 2 rest rest 4 Db Eb
+r0.6 .66 Praised  be
+=2 6/4 4. rest' 8 d~b' [c~' a'] 2. bb']
+=2 6/4 1. <Db)2 F>
+=3 6/4 1. <ab)1 f)2 Eb>
+| 5/8 2.35
+il0.4 .09 5
+=1 5/8 8 F 2 Ab
+r0.6 .10 Honey
+=2 5/8 2 Db 8 Eb
+=3' 5/8 4. bn 4 ab
+=3, 5/8 4 rest,-P 4. f
+|
+=1 4. B' 4 A
+r0.6 .06 at .60 the
+=2 4 Db 4. Eb
+=3' 4. an 4 b
+=3, 8 rest,-P 4. f 8 f#(2-,-P
+| 4/4 3.6
+i0.3 .34 dim . . .
+=1 4/4 1 f#(2
+r0.6 .04 Source  . . .
+=2 4/4 1 eb
+=2 4/4 4 rest,, C#, A_, D#,(2
+I0.3     mf
+i0.3 .24 dim . . .
+=3 4/4 1 <a(1 f#)2(2 B_(4>
+I0.7 8vab_
+/
+5 bars | 4 4 4 6 4 3 4 3 | 32 | 32 | 32 | 6/4 48 |
+|
+=1 4 f#)2 2. rest
+=2 8 [eb' c'] [d' B'] 2 c#'
+=2 1 D#)2
+=3' 2. <a)1 f#)2> 4 f#
+=3, 1 B_)4
+I0.6 .15 . . . loc
+| 4/4 1.7 1.6
+=1 1 F#
+r0.6 Praised
+=2' 2 F# A
+=2, 4 C# 2. E
+i0.4 .20 cresc . .  accell . . .
+=3 2 a-P 4 b f#
+| 4/4 3.0
+il0.4     10
+=1 2 E(1 8 [E)1 G] 4 E
+r0.6 .06 be .61 the em -
+=2' 4. rest 4 A D 8 G
+=2, 1 C#
+=3 4 g a b a
+| 4/4 1.5 1.6
+=1' 2. B 4 F
+r0.6 .01 brace .75 of
+=2 1 <Ax B>
+=2 4 F, B_, C#, D,
+i0.1 .55 rit . . .
+=3 1 g
+=3 4 blank 2. blank-P
+| 6/4 5.1
+=1 6/4 2. A G#
+r0.6 .08 soft .50 sleep
+=2' 6/4 2. <F A> <F Ab>
+=2, 6/4 4 B_ 2. D 4 C D-s2,
+=3 6/4 2. G-P Ab-P
+/
+5 bars | 4/4 32 | 32 | 32 | 32 | 3/4 24 |
+| 4/4 1.5 1.4
+=1 4/4 1 rest
+=2 4/4 1 ab(1
+=2, 4/4 2 F 4 D Eb
+i0.3 .15 accell . . .   cresc . . .
+=3 4/4 1 <c~-s1,-s4,-s5, ab>
+| 4/4 2.7
+=1 2. rest 4 G
+r0.7 .74 The
+=2' 2. ab)1 4 D
+=2, 4 F D 2 C
+=3' 2. bbrl 4 bb
+=3, 1 abrrl-P
+| 4/4 2.7
+il0.6 .14 15
+=1 4 B' 2 Bb' 4 Ab
+r0.7 .07 valour .75 of
+=2' 4 A d db c
+=2, 4 F 2. Gb
+=3' 4 bn d~ e~b e~n(1
+=3, 4 ar 2. bb
+=3 4 blank-P 2 blank-P 4 blank-P
+| 4/4 1.35 1.6
+=1 4. c Bb' 4 Ab
+r0.7 .01 an .17 - .35 gels .75 in
+#=2' 4. Bb Abrl 4 eb
+#=2, 4. rest, Gbl 4 Gb(2
+=2' 2. Bb 4 eb
+=2, 4 rest, Gb Ab 4 Gb(2
+=3 4. e~)1 bb 4 c~
+| 3/4 1.4 1.6
+=1 3/4 4 B' eb rest
+r0.7 .13 valleys
+=2' 3/4 2. Abrl
+=2, 3/4 4 Gbrrl)2 2 F,(2
+i0.5 .01 rit . . . .70 tempo
+=3 3/4 2. d~b
+=3 3/4 4 blank 2 blank-P
+
+4 systems /19 40 19-35-19 /19 35 19-30-19 \
+ /19 49 19-30-19 /19 35 19-40-19 20 /
+pagenum 4
+innerhead From the 228th Chorus of Mexico City Blues
+leftfoot (c) 1993 Peter J Billam, 1959 Jack Kerouac
+/
+5 bars | 15/8 60 | 4/4 4 4 4 6 4 4 4 3 | 5/4 40 \
+ | 6/4 4 4 4 4 4 4 4 8 4 4 4 3 | 45 |
+| 15/8 6.875
+=1 15/8 4. d 2 D 4. Ab 2 G 8 rest
+r0.7 .07 of .25 hell .48 on .66 earth
+=2 15/8 2.. F')2 1 Bb
+=2 15/8 2 rest,, 2.. Ab, 8 rest, 4. F,
+=3 15/8 1 d~n 2.. d~b
+=3 15/8 1 blank 4. blank 2 blank-P
+| 4/4 3.6
+=1 4/4 4 Ab 2. Db
+r0.7 .10 below,
+=2' 4/4 2. rest' 4 g(1
+=2, 4/4 4. rest, 8 Bb(2 2 B)2
+=3 4/4 1 e~
+=3 4/4 4. db,-P 8 rest, 2 rest,
+| 5/4 4.5
+il0.3 .09 20
+=1 5/4 1 rest 4 rest
+=2' 5/4 4. g)1 2.. gb
+=2, 5/4 4. rest, 4 rest, 4. <E(4 Bb(2> 4 <E)4 Bb)2 a~b'>
+=3 5/4 4. rest,, 4 rest,, 4. rest,, 4  G_b,(1
+=3 5/4 4. g 2.. ab
+=3 5/4 2 blank 2. blank-,-,-,-P
+| 6/4 5.4
+=1 6/4 2 Bb 4. cb 8 Bb 2 Ab
+r0.6 .05 Praised be .56 the  Non .97 -
+=2' 6/4 2 Bb Ab Gb
+=2, 6/4 1 E 4 rest,, E,
+=3'  6/4 4 rest' 2 ab 2. d~b
+=3,  6/4 1. G_b)1
+|
+=1 2 c 2. eb 4 rest
+r0.6 .04 en - ding
+=2' 2 Bb Ab Gb
+=2, 1. Eb
+=3' 4 rest' 2 c~ bb 4 ab
+=3 1. Gb
+=3 8 blank 4. blank-,-P 1 blank
+/
+5 bars | 5 4 8 6 4 4 4 4 4 4 4 3 \
+ | 4/4 9 8 8 7 | 6 5 5 8 6 4 6 5 | 9 9 9 7 \
+ | 7/4 8 7 8 8 8 7 7 |
+|
+=1 4 en 8 [A# c#'] 2. d 4 cn
+r0.7 .02 Praised be the lights   of
+=2' 1. G#-s4-s5
+=2, 2 E D C
+=3' 4 rest' 2 a# g#-s1 4 f#-s1,
+=3 1. F_#
+=3 2 blank 8 blank 2.. blank-,-P
+| 4/4 3.6
+=1 4/4 2 d# f#
+r0.7 .08 earth - man
+#=2' 4/4 2. cn 4 c#(1
+=2' 4/4 2. cn 4 c#
+I0.7 .73 f
+=2 4/4 4 rest, 2. G#,
+=3 4/4 2 rest d#'
+=3 4/4 1 F#(2
+|
+il0.3   25
+=1 1 rest
+#=2' 4 c#)1 2 A# 4 B
+#=3' 2 g# f#
+#=3 1 F#)2
+=2' 4 B 8 [C# E] 4. G# 8 F#
+=2, 2. G_# 4 B_(2
+=3 1 F#)2
+=3 8 blank 2.. blank-,-P
+|
+=1 2 B' 4 d# c#
+r0.7 .01 Praised  be  the
+#=2 4 A D# F# A
+=2' 2 A F#
+=2, 4 B_)2 2 C# 4 E
+=3 1 <F_#-P F#>
+I0.5 .85 8vab . . .
+| 7/4 6.3
+=1 7/4 2. a 1 f#
+r0.7 .11 wat - chers
+=2' 7/4 2. rest' 4 rest' 2 a 4 f#
+=2 7/4 1.. <F_# C#l F#>
+=3 7/4 1.. tra-12 <B_ B(1> tra0
+/
+5 bars | 8 8 10 8 8 8 7 | 10 10 8 8 9 7 7 \
+ | 10 9 8 8 8 8 7 | 4/4 8 10 8 7 \
+ | 8/4 64 |
+|
+=1 1 rest 4 rest
+=2' 2 b 4 f# 2. f~# 4 f#
+=2 1 rest, 2. G#,
+=3 tra-12 1.. <B)1 B_(2> tra0
+|
+=1 2 d 1 B' 4 rest
+r0.8  Praised    be
+=2' 4 B f# 2 f~# 4 B(2 2 f#(1
+=2, 2 F# 1 <E G#> 4 rest,,
+=3 1.. <B_)2 B> tra0 treble
+I0.6            . . . loc.
+|
+il0.4    30
+=1 4 db c eb 1 g
+r0.7 my fellow man
+=2' 4 f#)1 2 f# <fn gx> g~
+=2 4 B,)2 2 c, 1 c
+=3 4 Ab'(1 2 Ab')1 1 An-P
+=3 4 rest,, 1. Eb bass
+| 4/4 3.6
+=1 4/4 1 rest
+=2' 4/4 4 rest A-ten eb-ten f-ten
+=3 4/4 1 F
+| 8/4 7.2
+=1 8/4 2 ab 4 gb 2. c 2 eb
+r0.7 .03 For .25 dwelling .75 in
+=2' 8/4 2 gb 1 ab 2 eb
+=2 8/4 1 c Bb
+=3 8/4 1 a~b(1 a~b)1
+=3 8/4 1.. e~b 4 c~
+/
+3 bars | 64 | 7/4 56 | 15/4 120 ||
+|
+=1 1. en 2 rest
+r0.7 .01 milk   -      -
+I0.1     mf
+=2 1 e{'1 4 d' 2 G#' 4 B'
+=2 2 G#, 4 F#, E,(2 1 E)2
+=3 1 br(1-P b)1
+=3 1 d~ 2 f#, e,
+| 7/4 6.3
+=1 7/4 1.. rest
+=2 7/4 1.. c}'1
+=2  7/4 2 E, 1 D(1 4 D')1
+=2, 7/4 1 blank 2. C(2
+I0.8 .17 mp
+I0.1 .03 mf
+=3' 7/4 4 rest' c~-P bb 2 e g
+=3, 7/4 1.. G
+| 15/4 .86 .86 .87 .88 .90 .92 .94 .96 .99 1.02 1.05 1.08 1.12 1.16 2.0
+il0.3     35
+=1 15/4 1 rest rest 1.. rest
+I0.1    p
+i0.6 .19 rit . . . .60 molto . . .
+=2 15/4 1 D
+=2 15/4 1 Cr)2 2 B_b,(2 B_b,)2(2 2. B_b,)2(2 1 B_b)2
+=2 15/4 4 rest' 2. d'(3 1 d)3(3 2. d')3(3 2 d')3 2 vol60 D
+i0.6 .16 dim . . .
+I0.5 .87 . . . pp
+I0.25      mp
+=3 15/4 2 ab 4 gb 2. c,(2 2 eb' 1.. en'
+=3, 15/4 2 ab 4 gb 2. c(2 2 c)2(2 1.. c)2
+=3, 15/4 bre blank 2. blank 1 vol50 C
+=3' 15/4 bre. blank 4 blank 2 G
+=3, 15/4 bre. blank 2 blank 4 vol40 C_
+=3  15/4 2 blank 8 blank 2.. blank-,-,-P 2 blank 1.. blank-,-P 64 blank-,-,-*

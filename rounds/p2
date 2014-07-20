@@ -1,0 +1,76 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.sp 2.0c
+.ce 3
+\f3\s+9Five Rounds\s-9\fP
+.sp 1.5c
+
+.PP
+.nh
+These rounds were written in 1985 and 1986.
+The first two were written for school singing,
+and the next two for the local amateur choir.
+The last was for a more advanced choir.
+Where numbers appear above a line, it means that when the
+first voice reaches this place, the numbered voice starts.
+
+.PP
+.nh
+\f2A.B.C.\fP
+is a circular canon for two voices, at two bar's distance.
+As written, the words fit the notes well;
+but it would normally be easier sung at a lower pitch.
+A reasonable tempo would be 152 crochets per minute.
+.PP
+.nh
+\f2By Doze is all Blog Dub\fP
+is a circular canon for two to eight voices.
+When sung by four voices, the first voice sings it through solo once;
+then the second voice joins in two crochets behind the first voice;
+then the third time through the third voice
+joins in one crochet behind the first voice,
+then the fourth time through the fourth voice
+joins in three crochets behind the first voice.
+The fifth to eight voices would join in four, six, five and seven
+beats behind the first voice.
+A reasonable tempo would be 184 crochets per minute.
+.PP
+.nh
+\f2The Carbon Cycle\fP
+is a double round;
+two voices, soprano and alto, start simultaneously,
+and sing once through on their own.
+On the second time through,
+after one bar the second alto starts,
+then after one further bar the second soprano starts.
+A reasonable tempo would be 84 crochets per minute.
+.PP
+.nh
+\f2The Energy Cycle\fP
+is a seven-voice round, with voices entering at 12-bar intervals.
+So when each voice reaches the rest bars, the next voice starts.
+A hand-clap halfway through each rest bar can add to the effect.
+A reasonable tempo would be 120 crochets per minute.
+.PP
+.nh
+\f2In Girum Imus Nocte et Consumimur Igni\fP
+was for centuries the longest known palindrome.
+It means "we wander in circles in the night and are consumed by fire";
+this seemed a good summary of the nuclear arms-race era.
+This piece was written without any knowledge of the film of the same title
+made by Guy Debord in 1978, but which I discovered only in 2013.
+A written-out last seven bars is provided to allow all four
+voices to finish together.
+The central seven-bar segment of the round is here written out
+twice; it could be gone through more times, by rotating staves,
+and suitably exchanging the staves of the last seven bars.
+A reasonable tempo would be 80 crochets per minute.
+
+.sp 1.0c
+.ce 1
+\f2www.pjb.com.au\fP

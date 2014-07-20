@@ -1,0 +1,27 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 4.0c
+.ce 100
+\f3\s+9\s+9Two Songs\s-9\s-9\fP
+.sp 3.5c
+\f2\s+9poems by Jack Kerouac and Dylan Thomas\s0\fP
+.sp 1.3c
+\f2\s+9music by Peter Billam\s0\fP
+.sp 1.5c
+\f3\s+2for Voice and Piano\s0\fP
+.sp 2.2c
+\(co Peter J Billam, 1993, 2005
+.sp 0.7c
+\s-1This score is licensed in electronic form to the purchaser, who
+may generate printed copies or photocopies, for their own use, or for
+the use of their pupils, or of any musicians with whom they are playing
+the piece.  All other rights, such as those of performance, recording
+and broadcast, remain reserved by the copyright holders.\s0
+.sp 0.7c
+\s-2From "Three Songs". This edition \*(DY.\s0
+.sp 1.2c
+\s+1\f2http://www.pjb.com.au\fP\s0

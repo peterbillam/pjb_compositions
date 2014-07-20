@@ -1,0 +1,106 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	99.12.13.22.40.34;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.09.16.03.46.21;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@munges first two systems of each duet to one page
+@
+
+
+1.2
+log
+@system 3 staves, not system 3 barlines
+@
+text
+@#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                                          #
+#      P J B Computing specialises in Internet Commerce, and offers Web #
+# Functionality in Perl, HTML and Java.           http://www.pjb.com.au #
+#########################################################################
+unshift (@@INC, $ENV{PLIB} || '/home/plib');
+
+$sd = '/home/pjb/www/mus/samples';
+$message = 'Sample only.  Order these duets at www.pjb.com.au/mus !';
+
+foreach $paper ('us', 'a4') {
+   open (I, "score.$paper") || die "can't open score.$paper: $!\n";
+   open (S, "> $sd/recduets.$paper")
+   || die "can't open $sd/recduets.$paper: $!\n";
+
+   while (<I>) { last if /^% system 3 staves/; print S; }   # two systems
+   while (<I>) { if (/rightshow$/) { print S; last; } }
+   while (<I>) { if (/leftshow$/) { print S; last; } }
+   while (<I>) { last if /^% system 3/;   print S; }
+   print S "565 30 /Times-Italic 9 ($message) rightshow\n";
+
+   print S "0 -421 translate\n";   # translate half a page downwards
+   while (<I>) { last if /^%%Page: 5 5/; }  # skip to start of second duet ...
+	while (<I>) { last if /^%%EndPageSetup/; }
+   while (<I>) { last if /^% system 3 staves/; print S; }   # two systems
+   while (<I>) { if (/rightshow$/) { print S; last; } }
+   while (<I>) { if (/leftshow$/) { print S; last; } }
+   while (<I>) {
+      if (/^% system 3/) { print S "pgsave restore\nshowpage\n"; last; }
+      print S;
+   }
+   close I; close S;
+}
+@
+
+
+1.1
+log
+@rightfoot positioned correctly on us paper
+@
+text
+@d25 4
+a28 13
+   while (<I>) {   # output up to first two systems of first duet ...
+      last if /^% system 3 barlines/;
+      print S;
+   }
+   while (<I>) {   # 
+      if (/leftshow$/) { print S; last; }
+   }
+   while (<I>) {   # 
+      last if /^% system 3$/;   print S;
+   }
+   while (<I>) {   # skip to start of second duet ...
+      last if /^%%Page: 5 5/;
+   }
+d30 1
+d32 4
+a35 5
+
+   while (<I>) {   # output up to first two systems of second duet ...
+      last if /^% system 3 barlines/;
+      print S;
+   }
+d38 1
+a38 1
+      if (/^% system 3$/) { print S "pgsave restore\nshowpage\n"; last; }
+@

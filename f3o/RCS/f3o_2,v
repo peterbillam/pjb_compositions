@@ -1,0 +1,998 @@
+head	1.10;
+access;
+symbols;
+locks
+	pjb:1.10; strict;
+comment	@# @;
+
+
+1.10
+date	2014.06.01.01.20.51;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.05.31.10.22.51;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.05.29.03.20.49;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2012.05.09.06.20.30;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2012.05.09.00.45.50;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2012.05.08.09.20.51;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2012.04.23.00.11.56;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2012.04.19.03.46.00;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2012.04.05.09.35.25;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.01.26.04.17.57;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@variations 2nd mvt
+@
+
+
+1.10
+log
+@polish and space what is probably the last variation
+@
+text
+@5 systems 25 / 19 24 19 27 19 / 19 25 19 25 19 \
+ / 19 25 19 25 19 / 19 25 19 25 19 / 19 25 19 25 19 /
+pagenum 
+innerhead II, Flute Trio, Peter Billam
+title I I
+leftfoot (c) 2011 Peter J Billam
+midi channel 0 patch 73 pan 05 reverb 75
+midi channel 1 patch 73 pan 50 reverb 75
+midi channel 2 patch 73 pan 95 reverb 75
+#midi off
+/
+4 bars | 3/4 36 | 36 | 36 | 36 |
+| 4.05
+=1' treble 3/4 cha0 vol90 leg99 4. F# 8 G# 4 A
+=2' treble 3/4 cha1 vol80 leg90 8 rest 2 E       leg99 8 G
+=3' treble 3/4 cha2 vol70 leg90 8 rest 2 C  leg99 8 C#
+|
+=1  leg99 4. Ab 8 Bb 4 c
+=2' leg90 2 F#(2 leg99 8 [F#)2 G#]
+=3' leg90 2 D(2  leg99 8 [D)2 E]
+|
+=1  cha0 leg99 4. B 8 c# 4 d
+=2  cha1 leg90 8 rest 4. A   leg99 8 [B' A#]
+=3' cha2 leg99 8 rest 4 Fn 8 G 4 Ab
+|
+=1, cha0 leg90 4. c# leg99 8 d# [f-ten e-ten]
+=2  cha1 leg90 2 B 8 [c-ten B-ten]
+=3' cha2 leg90 2 G 8 [Ab-ten G-ten]
+/
+6 bars | 2/4 6 6 6 5 | 6 6 6 5 | 6 6 6 5 | 7 6 6 5 \
+ | 3/4 6 6 6 6 6 5 | 12 ||
+| 3.0
+=1 2/4 cha0 leg99 8 [eb-ten d c Bb]
+=2' 2/4 cha1 leg99 2 Bb(2-ten
+=3' 2/4 cha2 leg99 4. Gb-ten 8 F(2
+|
+=1 cha0 leg90 2 c(1
+=2' cha1 leg90 8 Bb)2 4 A 8 Ab
+=3' cha2 leg90 8 F)2 4. E
+|
+=1' cha0 leg90 8 [c)1 leg99 B A G]
+=2' cha1 leg99 2 G(2
+=3' cha2 leg99 4. Eb 8 D(2
+|
+=1' cha0 leg99 2 A
+=2' cha1 leg99 8 [G)2 F# E D#]
+=3' cha2 leg99 8 D)2 4. Db
+| 4.05
+=1  3/4 cha0 leg90 2 G# leg99 4 A
+=2' 3/4 cha1 leg90 4 E 8 [Fn E(2] leg99 [E)2 D#]
+=3' 3/4 cha2 leg90 2. C(2
+|
+=1' cha0 leg90 2. F#-fermata
+=2' cha1 leg90 2. E-fermata
+=3' cha2 leg90 2. C)2-fermata
+#=1' treble 3/4 cha0 vol90 leg90 2 F# leg99 4 A
+#=2' treble 3/4 cha1 vol80 leg90 2 E  leg99 4 G
+#=3' treble 3/4 cha2 vol70 leg90 2 C  leg99 4 Eb
+#|
+#=1  leg90 2 G# leg99 4 c
+#=2' leg90 2 F# leg99 8 [F# G#]
+#=3' leg90 2 D  leg99 4 En
+#|
+#=1  cha0 leg90 2 B leg99 4 d
+#=2  cha1 leg90 2 A leg99 4 c
+#=3' cha2 leg90 2 Fn leg99 4 An
+#|
+#=1, cha0 leg90 2 c# leg99 4 f
+#=2  cha1 leg90 2. B
+#=3' cha2 leg90 2. Gn
+#/
+#6 bars | 2/4 24 | 24 | 24 | 24 | 3/4 36 | 20 ||
+#| 2.7
+#=1 2/4 cha0 leg99 8 [eb d c Bb]
+#=2' 2/4 cha1 leg99 4. Bb 8 rest
+#=3' 2/4 cha2 leg99 2 Gb
+#|
+#=1 cha0 leg90 2 c(1
+#=2' cha1 leg90 2 A
+#=3' cha2 leg90 2 E
+#|
+#=1' cha0 leg90 8 [c)1 leg99 B A G]
+#=2' cha1 leg99 4.. G 16 rest
+#=3' cha2 leg99 2 Eb
+#|
+#=1' cha0 leg99 2 A
+#=2' cha1 leg99 4 F# 8 [E D#]
+#=3' cha2 leg99 2 C#
+#| 4.05
+#=1  3/4 cha0 leg90 2 G# leg99 4 A
+#=2' 3/4 cha1 leg90 2 E leg99 4 D#
+#=3' 3/4 cha2 leg90 2. Cn
+#|
+#=1' cha0 leg90 2. F#
+#=2' cha1 leg90 2. En
+#=3' cha2 leg90 2. C
+
+# first var contrasted; vary the inversion,
+# not necessarily just monotonically rising
+
+/
+2 bars | 12 |
+| 3.0
+I0.7 .06 Var 1
+$B1 = leg120 32-s [E F# E F# E F# E F# E F#]
+$B2 = leg120 32-s [B c B c B c B c B c B c]
+=1 treble cha0 vol70 $B1 $B1 $B1
+=2 treble cha1 vol70 4 blank 8 blank $B2 $B2
+=3 treble cha2 vol70
+|
+$B3 = leg120 32-s [G A G A G A G A G A]
+=1 $B1 $B1 $B1
+=2 $B2 $B2 4 blank 8 blank
+=3 $B3 $B3 $B3
+|
+$B2 = leg120 32-s [D Eb D Eb D Eb D Eb D Eb D Eb]
+=1 $B1 $B1 4 blank 16 blank
+=2 $B2 $B2 $B2
+=3 $B3 $B3 $B3
+|
+$B1 = leg120 32-s [G# F# G# F# G# F# G# F# G# F# G# F#]
+$B2 = leg120 32-s [D C# D C# D C# D C# D C#]
+=1 $B1 $B1 $B1
+=2 $B2 $B2 $B2
+=3 $B3 $B3 [Bb, G, E, F#, A, c# cn G#, A, f# c~]
+|
+$B1 = leg120 32-s [A B' A B' A B' A B' A B' A B']
+$B3 = leg120 32-s [e~ f~ e~ f~ e~ f~ e~ f~ e~ f~]
+=1 4. blank $B1 $B1
+=3 $B3 [c~ f# A, G#, cn c# A, F#, E, G, Bb,] \
+ [c d c d c d c d c d]
+|
+$B2 = leg120 32-s [B c# B c# B c# B c# B c#]
+$B3 = leg120 32-s [c d c d c d c d c d]
+=1 $B1 $B1 $B1
+=2 $B2 $B2 $B2
+=3 $B3 $B3 4 blank 16 blank
+|
+$B3 = leg120 32-s [E F E F E F E F E F]
+=1 $B1 $B1 $B1
+=2 $B2 4 blank 16 blank 32-s [B cn B c B c B c B c]
+=3 $B3 $B3 $B3
+|
+$B1 = leg120 32-s [D Eb D Eb D Eb D Eb D Eb D Eb]
+$B2 = leg120 32-s [B c B c B c B c B c]
+=1 4. $B1 $B1 $B1
+=2 $B2 $B2 $B2
+=3 $B3 $B3 4 blank 16 blank
+|
+# it means: trill slightly faster or slightly slower
+$B1 = leg120 32-s [D# E D# E D# E D# E D# E]
+$B2 = leg120 32-s [B c# B c# B c# B c# B c#]
+$B3 = leg120 32-s [G A G A G A G A G A G A]
+=1 4 blank 16 blank $B1 $B1
+=2 $B2 $B2 $B2
+=3 $B3 4 blank 8 blank $B3
+|
+$B1 = leg120 32-s [F G F G F G F G F G]
+$B2 = leg120 32-s [B c# B c# B c# B c# B c#]
+$B3 = leg120 32-s [G A G A G A G A G A G A]
+#=1 4. blank $B1 $B1
+=1 4 blank 2 f(1
+=2 $B2 $B2 4 blank 16 blank
+=3 $B3 $B3 $B3
+|
+$B2 = leg120 32-s [Bb c Bb c Bb c Bb c Bb c Bb c]
+$B3 = leg120 32-s [Gb Ab Gb Ab Gb Ab Gb Ab Gb Ab]
+=1 4 f)1 2 en
+=2 $B2 $B2 $B2
+=3 $B3 4 blank 16 blank $B3
+|
+$B2 = leg120 32-s [Ab Bb Ab Bb Ab Bb Ab Bb Ab Bb]
+=1 4. eb 4 d 8 rest
+# =1 4. eb rest
+#=1 2. rest
+=2' 4 blank 16 blank $B2 $B2
+=3 $B3 $B3 4 blank 16 blank
+|
+$B1 = leg120 32-s [G# A G# A G# A G# A G# A G# A]
+$B3 = leg120 32-s [E F# E F# E F# E F# E F#]
+=1' $B1 4 blank 16 blank $B1
+=2 8 rest 4. c(1 8 [c)1 B(2]
+=3 $B3 $B3 $B3
+|
+$B1 = leg120 32-s [G A G A G A G A G A G A]
+$B3 = leg120 32-s [Eb F Eb F Eb F Eb F Eb F]
+=1' $B1 $B1 4 blank 8 blank 
+=2' 4. B)2 Bb(2
+=3 4 blank 16 blank $B3 $B3
+|
+$B1 = leg120 32-s [F Gb F Gb F Gb F Gb F Gb F Gb]
+$B3 = leg120 32-s [C# D# C# D# C# D# C# D# C# D#]
+=1' $B1 $B1 $B1
+=2' 8 [Bb)2 A(2] 2 A)2
+=3 $B3 4 blank 16 blank $B3
+|
+$B1 = leg120 32-s [G# A# G# A# G# A# G# A# G# A#]
+$B2 = leg120 32-s [E F# E F# E F# E F# E F#]
+$B3 = leg120 32-s [C D C D C D C D C D]
+=1  $B1 $B1 $B1
+=2' $B2 $B2 $B2
+=3  $B3 $B3 $B3
+|
+#$B1 = leg120 32-s [A B A B A B A B A B]
+#$B2 = leg120 32-s [Eb G Eb G Eb G Eb G Eb G]
+#$B3 = leg120 32-s [C Eb C Eb C Eb C Eb C Eb]
+#=1' 32-s [G# A# G# A# G# A# G# A# G# A#] $B1 $B1
+#=2  32-s [E F# E F# E F# E F# E F#] $B2 $B2
+#=3  32-s [C D C D C D C D C D] $B3 $B3
+=1 $B1 $B1 $B1
+=2' $B2 $B2 $B2
+=3 $B3 $B3 $B3
+|
+#$B1 = leg120 32-s [B c B c B c B c B c]
+#$B2 = leg120 32-s [G# A G# A G# A G# A G# A G# A]
+#$B3 = leg120 32-s [E F# E F# E F# E F# E F#]
+$B1 = leg120 32-s [A B A B A B A B A B]
+$B2 = leg120 32-s [Eb G Eb G Eb G Eb G Eb G]
+$B3 = leg120 32-s [C Eb C Eb C Eb C Eb C Eb]
+=1, $B1 $B1 $B1
+=2 $B2 $B2 $B2
+=3 $B3 $B3 $B3
+
+/
+2 bars | 72 | 72 |
+| 3.0 
+I0.7 .06 Var 2
+=1, leg85 163 vol115 [e~ vol-13 f#-I3 vol-13 e vol-13 F#] 83 rest-I3 4 rest \
+ 8 rest 163 [eb vol+13 g-I3 vol+13 a]
+=2, leg85 163 vol115 [d~ vol-13 e-I3  vol-13 d vol-13 E]  83 rest-I3 4 rest \
+ 8 rest 163 [G vol+13 f-I3 vol+13 g]
+=3, leg85 163 vol115 [c~ vol-13 d-I3  vol-13 c vol-13 D]  83 rest-I3 4 rest \
+ 8 rest 163 [Fn vol+13 eb-I3 vol+13 fn]
+|
+=1, 163 vol115 [f~# vol-13 g#-I3 vol-13 f# vol-13 G#] 83 rest-I3 4 rest 8 rest 163 [Gn vol+13 fn-I3 vol+13 gn]
+=2, 163 vol115 [e~ vol-13 f#-I3 vol-13 e vol-13 F#] 83 rest-I3 4 rest 8 rest 163 [A vol+13 g-I3 vol+13 a]
+=3, 163 vol115 [d~ vol-13 e-I3 vol-13 d vol-13 E] 83 rest-I3 4 rest 8 rest 163 [f vol+13 a-I3 vol+13 b]
+|
+=1, 163 vol115 [a~ vol-13 b-I3 vol-13 a vol-13 B] 83 rest-I3 4 rest \
+ 8 rest 163 [g# vol+13 c~-I3 vol+13 d~]
+=2, 163 vol115 [g~ vol-13 a-I3 vol-13 g vol-13 A] 83 rest-I3 4 rest 8 rest 163 [c vol+13 bb-I3 vol+13 c~]
+=3, 163 vol115 [f~ vol-13 g-I3 vol-13 f vol-13 G] 83 rest-I3 4 rest \
+ 8 rest 163 [Bb vol+13 g#-I3 vol+13 bb]
+|
+=1 leg99 8 vol110 [e~b 163 d~ c~-I3 bb] 163 [a ab-I3 rest' vol-5 83 e~b 163 d~] \
+ [c~ b-I3 an 83 ab] 163 vol-5 d~(1
+=2 leg99 83 vol110 [bb  163 a ab gb-I3 f] rest 83 vol-5 [bb  163 an ab-I3 gb] \
+ [f  rest'-I3 83 vol-5 an 163 ab-I3 g]
+=3 leg99 163 vol110 [gb f-I3 eb d c#-I3 vol-5 gb(1]  [g)1 f-I3 eb d c#-I3] \
+ rest 83 [f 163 e d 83 c#-I3]
+|
+=1 163 [d~)1 c~#-I3 b bb 83 c~#-I3] 163 [c~n bb-I3 83 a vol-5 c~] 163 [b a 83 vol-5 b 163 bb ab]
+=2 83 [f# ab 163 g f#]  83 [fn vol-5 g 163 f# fn] 83 vol-5 [f# 163 fn e 83 vol-5 f]
+=3 83 [e 163 eb db 83 c] vol-5 83 [eb 163 dn c 83 vol-5 d] 163 [c# B 83 c# 163 cn Bb]
+|
+=1 83 vol-5 [bb 163 a g vol-5 83 a] 163 [g vol-5 83 ab 163 vol-5 gb 83 gn] \
+ 163 [f 83 vol-5 f#-I3 163 leg85 vol100 db fn-I3 g]
+=2 163 [e d 83 vol-5 eb 163 c# dn] 163 [cn vol-5 83 db 163 B vol-5 83 c] \
+ 8 rest leg85 vol100 163 [F, eb-I3 f]
+=3 83 vol-5 [c 163 Bb 83 vol-5 Bn 163 A,] \
+ 83 vol-5 [Bb' 163 Ab 83 vol-5 An 163 G] 83 vol-5 [F# 163 E] leg85 vol100 [Eb, db-I3 eb]
+|
+=1, 163 vol115 [e~ vol-13 f# vol-13 e vol-13 F#] 83 rest 4 rest 4 rest
+=2, 163 vol115 [d~ vol-13 e  vol-13 d vol-13 E]  83 rest 4 rest 4 rest
+=3, 163 vol115 [c~ vol-13 d  vol-13 c vol-13 D]  83 rest 4 rest 4 rest
+
+| 3.0
+I0.7 .06 Var 3
+=1 leg55 8 [e~ 16 rest'' e~] 16 rest'' [e~ 8 e~] 16 rest'' [e~ 8 e~] 8 [e~b 16 rest'' e~b]
+=2 leg55 4 e 8 rest e rest e 4 eb
+=3 leg55 2 E 4 rest E
+|
+=1 16 rest'' [d~ 8 d~] 8 [d~ 16 rest'' d~] 8 [d~ 16 rest'' d~] 16 rest'' [d~ 8 d~]
+=2 8 rest d 4 d d 8 rest d
+=3 4 rest E 2 E
+|
+=1 16 rest'' [d~ 8 d~] 8 [d~ 16 rest'' d~] 8 [d~ 16 rest'' d~] 16 rest'' [d~ 8 d~]
+=2 8 rest d 4 d d 8 rest d
+=3 4 rest E 2 E
+|
+=1 8 [c~# 16 rest'' c~#] 16 rest'' [c~# 8 c~#] 16 rest'' [c~# 8 c~#] 8 [c~# 16 rest'' c~#]
+=2 4 c# 8 rest c# rest c# 4 c#
+=3 2 E 4 rest E
+
+|
+=1 16 rest'' [c~n 8 c~] 8 [c~ 16 rest'' c~] 8 [c~ 16 rest'' c~] 16 rest'' [c~ 8 c~]
+=2 8 rest cn 4 c c 8 rest c
+=3 4 rest E 2 E
+|
+=1 8 [b 16 rest'' b] 16 rest'' [b 8 b] 16 rest'' [b 8 b] 8 [b 16 rest'' b]
+=2 4 c# 8 rest c# rest c# 4 c#
+=3 2 E 4 rest E
+|
+=1 8 [c~n 16 rest'' c~] 16 rest'' [c~ 8 c~] 16 rest'' [c~ 8 c~] 8 [c~ 16 rest'' c~]
+=2 4 d 8 rest d rest d 4 d
+=3 2 E 4 rest E
+|
+=1 16 rest'' [c~ 8 c~] 8 [c~ 16 rest'' c~] 8 [c~ 16 rest'' c~] 16 rest'' [c~ 8 c~]
+=2 8 rest d 4 d d 8 rest d
+=3 4 rest E 2 E
+
+
+midi on
+midi channel 0 patch 73 pan 50
+midi channel 1 patch 73 pan 05
+midi channel 2 patch 73 pan 95
+/
+1 bars | 1 |
+| 5.0
+I0.7 .06 Var 4
+=1' treble 10/4 cha0 leg95 \
+ 16 [E F#-.] 8 rest 16 [F# E-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.] 2 rest \
+ 16 [F# A-.] 8 rest 16 [A F#-.] 4 rest 16 [E F#-.] 8 rest 16 [F# E-.]
+=2, treble 10/4 cha1 leg99 4. rest 4 rest 4. rest 2 rest 4. rest 4 rest 4. rest
+=3 treble 10/4 cha2 leg99 4. rest 4 rest 4. rest \
+ 165 [e d# e-I5 f e] [d# e d#-I5 dn d#] e rest 4 rest 4 rest 4. rest
+| 2.0
+=1 4/4 1 rest
+=2, 4/4 165 [c B c-I5 db c] [B A# B-I5 c db] [c B c-I5 db dn] [db c B-I5 c db]
+=3 4/4 1 rest
+| 5.0
+=1' 10/4 16 [F# A-.] 8 rest 16 [A F#-.] 4 rest 16 [A c-.] 8 rest 16 [c A-.] 2 rest \
+ 16 [A c-.] 8 rest 16 [c A-.] 4 rest 16 [G A-.] 8 rest 16 [A G-.]
+=2 10/4 16 c rest 4 rest rest 4. rest 165 [e f e-I5 d# e] [f e f-I5 gb f] \
+ e rest 4 rest 4 rest 4. rest
+=3 10/4 4. rest 4 rest 4. rest 2 rest 4. rest 4 rest 4. rest
+| 4.0
+=1 8/4 1 rest rest
+=2 8/4 1 rest rest
+=3 8/4 \
+ 165 [c~ d~b c~-I5 b c~] [d~b d~n d~b-I5 c~ b] [c~ d~b c~-I5 b a#] [b c~ d~b-I5 c~ b] \
+ 165 [c~ d~b c~-I5 b c~] [d~b d~n d~b-I5 c~ b] [c~ d~b c~-I5 b a#] [b c~ d~b-I5 c~ b]
+
+| 5.0
+i0.7 .01 1st half of this bar, 2nd half of FA AF EA AE
+#=1' 16 [F# G#-.] 8 rest 16 [G# F#-.] 4 rest 16 [G# B-.] 8 rest 16 [B G#-.] \
+# 2 rest \
+# 16 [G# B-.] 8 rest 16 [B G#-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.]
+=1' 10/4 16 [F# G#-.] 8 rest 16 [G# F#-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.] \
+ 2 rest \
+ 16 [Fn A-.] 8 rest 16 [A F-.] 4 rest 16 [E A-.] 8 rest 16 [A E-.]
+=2 10/4 4. rest 4 rest 4. rest 165 [d d# e-I5 f gb] [f e eb-I5 dn eb] \
+ d rest 4 rest 4 rest 4. rest
+=3 10/4 16 c~ rest 4 rest 4 rest 4. rest 165 [d c# d-I5 eb d] [c# cn B-I5 c c#] \
+ d rest 4 rest 4 rest 4. rest
+| 2.0
+=1 4/4 1 rest
+=2, 4/4 165 [c B c-I5 db c] [B A# B-I5 c db] [c B c-I5 db dn] [db c B-I5 c db]
+=3, 4/4 4 rest 165 [B c c#-I5 d d#] \
+ [e d# e-I5 f f#] [g f# fn-I5 e d#]
+midi on
+| 5.0
+#=1 10/4 \
+# 16 [F A-.] 8 rest 16 [A F-.] 4 rest 16 [A B'-.] 8 rest 16 [B' A-.] 2 rest \
+# 16 [A, c-.] 8 rest 16 [c A,-.] 4 rest 16 [E A-.] 8 rest 16 [A E-.]
+r0.6 .01 bar 4: GBc#, GBc#f
+=1 10/4 \
+ 16 [B c#-.] 8 rest 16 [c# B-.] 4 rest 16 [c# e-.] 8 rest 16 [e c#-.] 2 rest \
+ 16 [c# f-.] 8 rest 16 [f c#-.] 4 rest 16 [B c#-.] 8 rest 16 [c# B-.]
+#r0.5 .01 bar 3: ABdf, Acd
+=2 10/4 16 dn rest 4 rest rest 4. rest 165 rest' rest' [g-I5 g#, an] [bb a g#-I5 a ab] 16 gn rest 4 rest 4 rest 4. rest
+=3 10/4 16 dn rest 4 rest 4 rest 4. rest 165 [g ab g-I5 f#, g] [ab g f#-I5 fn f#] 16 g rest 4 rest 4 rest 4. rest
+
+| 4.0
+=1 8/4 2 rest \
+ 85 [A, 165 Bb-I5 c c#] 85 [d 165 e-I5 f g] \
+ 85 [g# 165 a-I5  b c~] [d~b c~ b-I5  c~ b] \
+ [bb a bb a g#] [a ab gn gb f]
+=2 8/4 165 [e~ f~ e~ d~# e~] [f~ e~ d~# e~ f~] \
+ [e~ e~b d~n e~b d~] [c~ b c~ d~b c~] \
+ [b c~ b a g] [f e f gb] rest \
+ [gb f e f e] 4 rest
+=3 8/4 4 rest 165 [d~# e~ d~# d~n d~b] \
+ [c~ b bb a] rest' [bb a g# a g#] \
+ [gb f e f gn] [ab g f e eb] \
+ [d db c B] rest [c' B' Bb' A Ab]
+
+| 4.0
+=1 165 [e f e d# e] [f e f gb f] \
+ [e d# e f e] 4 rest \
+ 4 rest 165 [d~# e~ d~# d~n d~b] \
+ [c~ b bb a] rest 4 rest
+=2 2 rest \
+ 4 rest 165 [e eb d eb f] \
+ 165 [gb f eb d db] [c' B' Bb' A] rest \
+ 165 [Bb' A Ab G Gb] 85 [F 165 F# G# An]
+=3 85 [G 165 G#-I5 A# B'] 85 [c 165 d eb f] \
+ 85 [f# 165 g a a#] 85 [b 165 c~ c~# d~#] \
+ [e~ f~ e~ d~# e~] [f~ e~ d~# e~ f~] \
+ [e~ e~b d~n e~b d~n] [c~n b c~ d~b c~]
+
+| 5.0
+r0.5 .01 bar 5: Gb Bb + eb,d,c,Bb
+=1 10/4 \
+ 16 [Bb eb-.] 8 rest 16 [eb Bb-.] 4 rest 16 [d Bb-.] 8 rest 16 [Bb d-.] 2 rest \
+ 16 [c Bb-.] 8 rest 16 [Bb c-.] 4 rest 16 [Gb Bb'-.] 8 rest 16 [Bb' Gb-.]
+=2 10/4 16 Bb' rest 4 rest rest 4. rest \
+ 165 rest rest [f f# g] [ab g f# g gb] 16 fn rest 4 rest rest 4. rest
+=3 10/4 16 bb  rest 4 rest rest 4. rest \
+ 165 [f gb f e f] [gb f e d# e] 16 f rest 4 rest rest 4. rest
+| 2.0
+=1 4/4 1 rest
+=2, 4/4 165 [eb d eb-I5 en eb] [d c# d-I5 eb en] [eb d eb-I5 en f] [e eb d-I5 eb en]
+=3, 4/4 4 rest 165 [d eb en-I5 f f#] [g f# g-I5 g# a] [bb a g#-I5 gn f#]
+#midi off
+| 5.0
+r0.5 .01 bar 7: Eb G + c,B,A,G
+=1' 10/4 \
+ 16 [c G-.] 8 rest 16 [G c-.] 4 rest 16 [G B-.] 8 rest 16 [B G-.] 2 rest \
+ 16 [G A-.] 8 rest 16 [A G-.] 4 rest 16 [G' Eb-.] 8 rest 16 [Eb G'-.]
+=2 10/4 16 f rest 4 rest 4 rest 4. rest \
+ 165 [d d# e-I5 f gb] [f e eb-I5 dn eb] \
+ d rest 4 rest 4 rest 4. rest
+=3 10/4 16 f rest 4 rest 4 rest 4. rest \
+ 165 [d c# d-I5 eb d] [c# cn B-I5 c c#] \
+ d rest 4 rest 4 rest 4. rest
+| 4.0
+=1 8/4 1 rest rest
+=2 8/4 1 rest rest
+=3 8/4 \
+ 165 [c~ d~b c~-I5 b c~] [d~b d~n d~b-I5 c~ b] [c~ d~b c~-I5 b a#] [b c~ d~b-I5 c~ b] \
+ 165 [c~ d~b c~-I5 b c~] [d~b d~n d~b-I5 c~ b] [c~ d~b c~-I5 b a#] [b c~ d~b-I5 c~ b]
+| 5.0
+r0.5 .01 bar 8: A + F#,E,D#
+=1 10/4 \
+ 16 [F# A-.] 8 rest 16 [A F#-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.] 2 rest \
+ 16 [A E-.] 8 rest 16 [E A-.] 4 rest 16 [D# A-.] 8 rest 16 [A D#-.]
+=2 10/4
+=3 10/4 16 c~ rest 4 rest rest 4. rest \
+ 2 rest 1 rest
+| 2.0
+=1 4/4 1 rest
+=2 4/4 1 rest
+=3 4/4 1 rest
+| 5.0
+r0.5 .01 bar 9: <E G#> <D# A>
+=1 10/4 \
+ 16 [E G#-.] 8 rest 16 [G# E-.] 4 rest 16 [G# E-.] 8 rest 16 [E G#-.] 2 rest \
+ 16 [A E-.] 8 rest 16 [E A-.] 4 rest 16 [D# A-.] 8 rest 16 [G# D#-.]
+=2 10/4
+=3 10/4
+| 5.0
+r0.5 .01 bar 10: <E F#>
+=1 10/4 \
+ 16 [E F#-.] 8 rest 16 [F# E-.] 4 rest 16 [E F#-.] 8 rest 16 [F# E-.] 2 rest \
+ 16 [E F#-.] 8 rest 16 [F# E-.] 4 rest 16 [E F#-.] 8 rest 16 [F# E-.]
+=2 10/4
+=3 10/4
+
+# from sketches/20140531 and book AO p.34
+/
+4 bars | 8/4 6 6 6 6 6 6 6 5 | 7.5 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 4/4 7.3 6 6 5 | 7/4 6 6 6 6 6 6 5 |
+| 8/4 4.8
+I0.7 .23 pp
+=1  treble 8/4 cha2 leg100 vol60 4 rest rest rest 2 e~(1 2. e~)1
+I0.5 .12 pp
+=2  treble 8/4 cha1 leg100 vol60 4 rest rest 2. c~ 2 d~ 4 c#(1
+I0.5  pp
+=3  treble 8/4 cha0 leg100 vol60 1 f~# 2 g# 2 a(1
+|
+=1 4 g 2. f# Bb 4 G#
+=2 2. c#)1 2. d 2 E(2
+=3 2 a)1 2. G# c(1
+|
+=1 2. A 1 c# 4 d(1
+=2 4 E)2 2. F 2 g ab(1
+=3 2 c)1 2. B a#
+| 4/4 2.4
+=1 4/4 4 d)1 2. c#
+=2 4/4 2 ab)1 2 g(1
+=3 4/4 2. b 4 d~#(1
+| 7/4 4.2
+=1 7/4 1 f~n 2. e~
+=2 7/4 2 g)1 2. cn 2 B(1
+=3 7/4 2. d~#)1 2. ab 4 g(1
+/
+5 bars | 5/4 6.5 6 6 6 5 | 4/4 6 6 6 5 \
+ | 7/4 6 6 6 6 6 6 5 | 6 6 6 6 6 6 5 | 5/4 30 ||
+| 5/4 3.0
+=1 5/4 2. e~b 2 d~(1
+=2 5/4 4 B)1 2. Bb 4 c(1
+=3 5/4 2 g)1 2. f#
+| 4/4 2.4
+=1 4/4 2 d~)1 2 e(1
+=2 4/4 1 c)1
+=3 4/4 2. a 4 ab(1
+| 7/4 4.2
+=1 7/4 4 e)1 2. eb 2. db
+=2 7/4 2. B 2. A 4 e(1
+=3 7/4 2 ab)1 2. g 2 f#(1
+|
+=1 1 c 2. C
+=2 2 e)1 4 fn 2. e 4 d#(1
+i0.6 .60 rit  .  .  .
+=3 4 f#)1 1 G# 2 A(2
+| 5/4 .65 .7 .85 1.0 1.5
+=1 5/4 2. c 2 C-fermata
+=2 5/4 4 d#)1 1 E-fermata
+i0.6 .10 molto  .  .  .
+=3 5/4 2 A)2 2. F#-fermata
+
+
+midi off
+@
+
+
+1.9
+log
+@roll in sketches/20140531 ; 242 sec
+@
+text
+@d452 2
+a453 12
+4 bars | 48 | 42 | 48 | 60 |
+| 8/4 4.8
+I0.7 .09 pp
+=1  treble cha2 leg100 vol80 4 rest rest 2 e~(1 2. e~)1 4 g
+I0.5 .01 pp
+=2  treble cha1 leg100 vol80 4 rest 2. c~ 2 d~ 2 c#(1
+I0.5 pp
+=3  treble cha0 leg100 vol80 2. f~# 2 g# 2. a(1
+| 7/4 4.2
+=1 2. f# Bb 4 G#
+=2 2 c#)1 2. d 2 E(2
+=3 4 a)1 2. G# c(1
+d455 11
+d468 9
+a476 5
+=3 2 c)1 2. B bb
+| 10/4 6.0
+=1 4 d)1 2. c# f~ e~
+=2 2 ab)1 2. g cn 2 B'(2
+=3 2. b d~# ab 4 g(1
+d478 2
+a479 5
+6 bars | 24 | 30 | 24 | 18 | 42 | 24 ||
+| 4/4 2.4
+=1 2. e~b 4 d~(1
+=2' 4 B)2 2. Bb
+=3 2 g)1 gb(1
+d481 3
+a483 3
+=1 2 d~)1 2. e(1
+=2 2. c 2 C
+=3 4 gb)1 2. A 4 ab(1
+d485 3
+a487 7
+=1 4 e)1 2. eb
+=2' 2. B 4 A(2
+=3 2 ab)1 g(1
+| 3/4 1.8
+=1 2. db
+=2 2 A)2 4 E(2
+=3 4 g)1 2 f#(1
+d489 4
+d494 1
+a494 1
+=2 2 E)2 4 f 2. e 4 d#(1
+d497 3
+a499 3
+| 4/4 .7 .85 1.0 1.5
+=1 2. c 4 C-fermata
+=2 4 d#)1 2. E-fermata
+d501 1
+a501 1
+=3 2 A)2 F#-fermata
+@
+
+
+1.8
+log
+@timing of theme more refined, more voice-leady
+@
+text
+@d53 3
+a55 3
+=1' cha0 leg90 2 F#-fermata
+=2' cha1 leg90 2 E-fermata
+=3' cha2 leg90 2 C)2-fermata
+d449 52
+@
+
+
+1.7
+log
+@closing in; really just needs polishing
+@
+text
+@d1 1
+a1 1
+5 systems 25 / 19 25 19 25 19 / 19 25 19 25 19 \
+d10 1
+a10 1
+midi off
+d14 7
+a20 7
+=1' treble cha0 vol90 leg99 4. F# 8 G# 4 A
+=2' treble cha1 vol80 leg90 2 E       leg99 4 G
+=3' treble cha2 vol70 leg90 2 C  leg99 4 Eb
+|
+=1  leg99 4. G# 8 Bb 4 c
+=2' leg90 2 F# leg99 8 [F# G#]
+=3' leg90 2 D  leg99 4 En
+d23 2
+a24 2
+=2  cha1 leg90 2 A   leg99 4 c
+=3' cha2 leg99 4. Fn 8 G [An Ab]
+d26 3
+a28 3
+=1, cha0 leg90 4. c# leg99 8 d# [f e]
+=2  cha1 leg90 2 B 8 [c B]
+=3' cha2 leg90 2 Gn 8 [Ab G]
+d30 2
+a31 1
+6 bars | 2/4 24 | 24 | 24 | 24 | 3/4 36 | 12 ||
+d33 3
+a35 3
+=1 2/4 cha0 leg99 8 [eb d c Bb]
+=2' 2/4 cha1 leg99 2 Bb
+=3' 2/4 cha2 leg99 4. Gb 8 F
+d38 2
+a39 2
+=2' cha1 leg90 4. A 8 Ab
+=3' cha2 leg90 2 E
+d42 2
+a43 2
+=2' cha1 leg99 2 G
+=3' cha2 leg99 4. Eb 8 D
+d46 2
+a47 2
+=2' cha1 leg99 4 F# 8 [E D#]
+=3' cha2 leg99 2 C#
+d50 2
+a51 2
+=2' 3/4 cha1 leg90 4 E 8 [F E] leg99 4 Eb
+=3' 3/4 cha2 leg90 2. Cn
+d54 2
+a55 2
+=2' cha1 leg90 2 En-fermata
+=3' cha2 leg90 2 C-fermata
+@
+
+
+1.6
+log
+@more filling in the 2 wild 8/4 bars
+@
+text
+@d338 1
+a338 1
+=1' 16 [F# G#-.] 8 rest 16 [G# F#-.] 4 rest 16 [F# A-.] 8 rest 16 [A F#-.] \
+d341 1
+a341 1
+=2 4. rest 4 rest 4. rest 165 [d d# e-I5 f gb] [f e eb-I5 dn eb] \
+d343 1
+a343 1
+=3 16 c~ rest 4 rest 4 rest 4. rest 165 [d c# d-I5 eb d] [c# cn B-I5 c c#] \
+d361 1
+a361 1
+=3 10/4 4. rest 4 rest 4. rest 165 [g ab g-I5 f#, g] [ab g f#-I5 fn f#] 16 g rest 4 rest 4 rest 4. rest
+d380 2
+a381 2
+ 2 rest \
+ 2 rest
+d410 6
+a415 2
+=2 10/4
+=3 10/4
+d419 3
+a421 1
+=3 8/4 1 rest rest
+d428 2
+a429 1
+=3 10/4
+@
+
+
+1.5
+log
+@filled in most of the 165 bits in var4
+@
+text
+@d355 1
+a359 1
+r0.5 .01 bar 4: GBc#, GBc#f
+d364 4
+a367 3
+=1 8/4 2 rest 85 [A, 165 Bb-I5 c c#] \
+ 85 [d 165 e-I5  f g] 85 [g# 165 a-I5  b c~] \
+ [d~b c~ b-I5  c~ b] [bb a bb a g#] [a ab gn f# g]
+d370 6
+a375 3
+ [b c~ b a g] [f e f gb f] [e eb d c#] rest 4 rest
+=3 8/4 4 rest 165 [d~# e~ d~# d~n c~#] \
+ [c~n b bb a] rest' [bb a g# a g#] [gb f e f gn] 2. rest
+d378 11
+a388 5
+=1 1 rest rest
+=2 1 rest 2. rest 85 [F 165 F# G# A]
+=3 \
+ 85 [G 165 G#-I5 A# B'] 85 [c 165 d eb f] 85 [f# 165 g a a#] \
+ 85 [b 165 c~ c~# d~#] [e~ f~ e~ d~# e~] [f~ e~ d~# e~ f~] \
+@
+
+
+1.4
+log
+@rolled a in; theme and 4 vars, 196 sec
+@
+text
+@d10 1
+d302 1
+d350 1
+d360 3
+a362 2
+=2 10/4 16 dn rest 4 rest rest 4. rest 2 rest 4. rest 4 rest 4. rest
+=3 10/4 4. rest 4 rest 4. rest 165 [g ab g-I5 f#, g] [ab g ab-I5 an ab] 16 g rest 4 rest 4 rest 4. rest
+d364 9
+a372 3
+=1 8/4 1 rest rest
+=2 8/4 1 rest rest
+=3 8/4 1 rest rest
+d375 5
+a379 2
+=2 1 rest rest
+=3 1 rest rest
+d386 4
+a389 2
+=2 10/4
+=3 10/4
+d392 3
+a394 2
+=2 4/4 1 rest
+=3 4/4 1 rest
+d431 1
+@
+
+
+1.3
+log
+@plausible 7-bar 2nd variation :-)
+@
+text
+@d102 1
+d225 24
+a248 23
+=1, leg85 163 vol115 [e~ vol-13 f# vol-13 e vol-13 F#] 83 rest 4 rest \
+ 8 rest 163 [eb vol+13 g vol+13 a]
+=2, leg85 163 vol115 [d~ vol-13 e  vol-13 d vol-13 E]  83 rest 4 rest \
+ 8 rest 163 [G vol+13 f vol+13 g]
+=3, leg85 163 vol115 [c~ vol-13 d  vol-13 c vol-13 D]  83 rest 4 rest \
+ 8 rest 163 [Fn vol+13 eb vol+13 fn]
+|
+=1, 163 vol115 [f~# vol-13 g# vol-13 f# vol-13 G#] 83 rest 4 rest 8 rest 163 [Gn vol+13 fn vol+13 gn]
+=2, 163 vol115 [e~ vol-13 f# vol-13 e vol-13 F#] 83 rest 4 rest 8 rest 163 [A vol+13 g vol+13 a]
+=3, 163 vol115 [d~ vol-13 e vol-13 d vol-13 E] 83 rest 4 rest 8 rest 163 [f vol+13 a vol+13 b]
+|
+=1, 163 vol115 [a~ vol-13 b vol-13 a vol-13 B] 83 rest 4 rest \
+ 8 rest 163 [g# vol+13 c~ vol+13 d~]
+=2, 163 vol115 [g~ vol-13 a vol-13 g vol-13 A] 83 rest 4 rest 8 rest 163 [c vol+13 bb vol+13 c~]
+=3, 163 vol115 [f~ vol-13 g vol-13 f vol-13 G] 83 rest 4 rest \
+ 8 rest 163 [Bb vol+13 g# vol+13 bb]
+|
+=1 leg99 8 vol110 [e~b 163 d~ c~-I3 bb] 163 [a ab rest' vol-5 83 e~b 163 d~] \
+ [c~ b an 83 ab] 163 vol-5 d~(1
+=2 leg99 83 vol110 [bb  163 a ab gb f] rest 83 vol-5 [bb  163 an ab gb] \
+ [f  rest 83 vol-5 an 163 ab g]
+=3 leg99 163 vol110 [gb 163 f eb d c#] 83 vol-5 gb  163 [f eb d c#] rest \
+ 83 [f 163 e d 83 c#]
+d250 1
+a250 1
+=1 163 [d~)1 c~# b bb 83 c~#] 163 [c~n bb 83 a vol-5 c~] 163 [b a 83 vol-5 b 163 bb ab]
+d265 34
+d301 3
+a303 2
+midi off
+# just not possible to make this kind of rhythm other than euro-celtic-dance
+d305 25
+a329 3
+3 bars | 1 |
+|
+=1 blank
+d331 36
+a366 34
+/
+4 bars | 3/4 36 | 36 | 36 | 36 |
+| 3.0
+=1' treble 6/8 cha0 vol70 16 4 rest 16 rest E 4 A(2 16 [A)2 F#]
+=2' treble 6/8 cha1 vol70 leg90 2. rest
+=3' treble 6/8 cha2 vol70 leg90 2. rest
+|
+=1  leg90 4 e(1 16 [e)1 c] 4 f#(1 16 [f#)1 c]
+=2'
+=3'
+|
+=1  leg90 8. [e 8 f# 16 g#] 4 a(1 16 [a)1 g#]
+=2 
+=3'
+|
+=1  leg90 4 a(1 16 [a)1 b] 4. c~(1
+=2 
+=3'
+|
+=1 2. c~)1(1
+=2 4 rest 16 rest  G 4 eb(1 16 [eb)1 A,]
+=3
+|
+=1 2. c~)1
+=2 4 g(1 16 [g)1 c] 4 a(1 16 [a)1 eb]
+=3
+|
+=1
+=2 4 g(1 16 [g)1 eb] 4 g(1 16 [g)1 a]
+=3
+|
+=1
+=2 2. b
+=3
+d368 48
+a415 46
+# midi off
+midi pause 2.0
+/
+4 bars | 3/4 36 | 36 | 36 | 36 |
+| 4.5
+=1' treble cha0 vol90 leg99 4. F# 8 G# 4 A
+=2' treble cha1 vol80 leg90 2 E       leg99 4 G
+=3' treble cha2 vol70 leg90 2 C  leg99 4 Eb
+|
+=1  leg99 4. G# 8 Bb 4 c
+=2' leg90 2 F# leg99 8 [F# G#]
+=3' leg90 2 D  leg99 4 En
+|
+=1  cha0 leg99 4. B 8 c# 4 d
+=2  cha1 leg90 2 A   leg99 4 c
+=3' cha2 leg99 4. Fn 8 G [An Ab]
+|
+=1, cha0 leg90 4. c# leg99 8 d# [f e]
+=2  cha1 leg90 2 B 8 [c B]
+=3' cha2 leg90 2 Gn 8 [Ab G]
+/
+6 bars | 2/4 24 | 24 | 24 | 24 | 3/4 36 | 12 ||
+| 3.0
+=1 2/4 cha0 leg99 8 [eb d c Bb]
+=2' 2/4 cha1 leg99 2 Bb
+=3' 2/4 cha2 leg99 4. Gb 8 F
+|
+=1 cha0 leg90 2 c(1
+=2' cha1 leg90 4. A 8 Ab
+=3' cha2 leg90 2 E
+|
+=1' cha0 leg90 8 [c)1 leg99 B A G]
+=2' cha1 leg99 2 G
+=3' cha2 leg99 4. Eb 8 D
+|
+=1' cha0 leg99 2 A
+=2' cha1 leg99 4 F# 8 [E D#]
+=3' cha2 leg99 2 C#
+| 4.05
+=1  3/4 cha0 leg90 2 G# leg99 4 A
+=2' 3/4 cha1 leg90 4 E 8 [F E] leg99 4 Eb
+=3' 3/4 cha2 leg90 2. Cn
+|
+=1' cha0 leg90 2 F#-fermata
+=2' cha1 leg90 2 En-fermata
+=3' cha2 leg90 2 C-fermata
+@
+
+
+1.2
+log
+@just before squeezing by one bar
+@
+text
+@d221 41
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d13 3
+a15 3
+=1' treble 3/4 cha0 vol90 leg90 2 F# leg99 4 A
+=2' treble 3/4 cha1 vol80 leg90 2 E  leg99 4 G
+=3' treble 3/4 cha2 vol70 leg90 2 C  leg99 4 Eb
+d17 1
+a17 1
+=1  leg90 2 G# leg99 4 c
+d21 7
+a27 7
+=1  cha0 leg90 2 B leg99 4 d
+=2  cha1 leg90 2 A leg99 4 c
+=3' cha2 leg90 2 Fn leg99 4 An
+|
+=1, cha0 leg90 2 c# leg99 4 f
+=2  cha1 leg90 2. B
+=3' cha2 leg90 2. Gn
+d29 2
+a30 2
+6 bars | 2/4 24 | 24 | 24 | 24 | 3/4 36 | 20 ||
+| 2.7
+d32 2
+a33 2
+=2' 2/4 cha1 leg99 4. Bb 8 rest
+=3' 2/4 cha2 leg99 2 Gb
+d36 1
+a36 1
+=2' cha1 leg90 2 A
+d40 2
+a41 2
+=2' cha1 leg99 4.. G 16 rest
+=3' cha2 leg99 2 Eb
+d48 1
+a48 1
+=2' 3/4 cha1 leg90 2 E leg99 4 D#
+d51 44
+a94 3
+=1' cha0 leg90 2. F#
+=2' cha1 leg90 2. En
+=3' cha2 leg90 2. C
+d171 2
+d266 1
+a266 1
+# midi on
+@

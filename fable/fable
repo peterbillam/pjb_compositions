@@ -1,0 +1,260 @@
+5 systems 54 /19-35-19/ 19-37-19/ 19-35-19/ 19-35-19/ 19-35-19 20/
+pagenum 2
+innerhead Peter Billam
+title Fable
+leftfoot (c) 1987 Peter J Billam
+midi channel 1 patch 0
+/
+2 bars | 16 | 16 |
+| 8/4 80
+i0.7 .02 Cantabile, espressivo
+=1' treble 8/4 channel1 leg98 \
+ cro rest qua [D Eb] min Ab(2 qua Ab)2 cro. G qua [F Gb Ab db]
+=2' bass   8/4 channel1 leg98 \
+ qua rest' min bb qua gb min f qua bb cro. bn(1 cro b)1(1
+=2, 8/4 min.. c qua d smb eb(2
+|
+=1' cro db(1 cro. db)1 qua [c Bb A] cro. A qua G cro F# Fn(1
+=1, cro. blank qua Eb min. En cro. Eb cro. D
+=2' cro. b)1 
+=2, qua eb)2 f min.. gb cro gn qua a cro. bb qua c
+/
+3 bars | 1.2 1 1 1 1 1 1 1 1 1.4 1 \
+ | 1.2 1 1.2 1.2 1 1 1 1 1 1 1 1 1 1 | 1.2 1 1 1.45 1 1 1 1 1 1 |
+| 11/8 160
+=1'  treble 11/8 cro F)1 qua [E F] cro d cro. c# cro cn(1
+=2'  bass   11/8 qua rest' min ab min an(1 qua a)1 ab(1
+=2,  11/8 min.. B(2 qua d# cro. e
+| 7/4 80
+=1' 7/4 cro cn)1 qua [G Ab] cro. eb cro db qua c cro B cro A(1
+=1, 7/4 qua rest, cro. Db(2 cro Db)2 min Eb(2 qua Eb)2 cro. F(2
+=2' 7/4 qua a)1
+=2, 7/4 cro. f(2 cro f)2 cro gb qua gn min a(1 qua [a)1 b]
+| 11/8 160 155
+=1' 11/8 qua A)1 cro e G c F cro B(1
+=1, 11/8 min F)2 min Eb cro. D(2
+i0.4 .11 rall e decresc . . .
+=2, 11/8 cro c~ min bb a qua g
+/
+2 bars | 1 1 1 1 1 1 1 1 1 1 1 1 1.3 1 1 1 1 1 1 1.6 1 1 1 1.3 1 1 \
+ | 1 1 1 1 1.8 1 1.8 1 1.8 1 1.8 1 |
+| 13/4 75 72
+=1' treble 13/4 cro B)1 qua [Bb A E] cro. E Eb D C \
+ cro B_b qua A_ cro A_b min G_
+=2' bass 13/4 qua d~)1 cro c~(1 cro. c~)1 c~# min. a cro. g f# qua e(3 min e)3
+=2, 13/4 min.. f# cro. g cro f qua e cro. eb min.. d qua c cro Bb
+I0.4 .96 ff
+| 6/4 130
+=1 6/4 cro rest' e(1--tr# smb e)1(1--tr#
+=1, 6/4 leg170 min rest, qua [<E c> <G#x A#l>] [<E c> <Gnx Anl>] \
+ [<E c> <Gbx Abl>] [<E c> <Gnx Anl>]
+I0.8 .20 f
+i0.2 .03 piú mosso . . .
+=2 6/4 vol125 smb. C(1
+i0.8 .10 Ped___
+/
+2 bars | 12 | 10 |
+|
+=1 smb. e)1(1--tr#
+=1, qua [<E c> <G#x A#l>] [<E c> <Gnx Anl>] [<E c> <Gbx Abl>] \
+ [<C An> <Dbx Ebl>] min blank
+i0.9 .80 dim . . .
+=2, smb C)1
+=2' smb blank vol100 qua [<g e~n> <abl bbxl>] [<e c~> <gx an>]
+| 5/4 130
+=1 5/4 min e)1(1--tr# min. e)1{1--tr#
+=2, 5/4 qua [<e c~> <gbx abl>] [<e c~> <gnx anl>] [<e c~> <g#x a#l>] \
+ [<e c~> <gnx anl>] [<e c~> <gbx abl>]
+/
+3 bars | 10 | 8 | 6 |
+|
+=1, treble qua [eb}1 G] [d G]  [db G]  [c G]   [Bb G]
+=2, bass   qua [c c~]   [d c~] [eb c~] [en c~] [f c~]
+| 4/4 130
+=1' 4/4 qua [A G] [Bb G] [A G] [Bb G]
+=2, 4/4 qua [e c~] [eb c~] [en c~] [eb c~]
+| 3/4 130
+=1' 3/4 qua [Bn F#] [B Fn] [B E]
+=2, 3/4 qua [g# e~b] [g# d~] [g# c~#]
+
+6 systems 14 /19-33-19 3/19-33-19/19-35-19/19-33-19 10/19-33-19 10/19-32-19 3/
+pagenum 3
+innerhead Fable, Peter Billam
+leftfoot (c) 1987 Peter J Billam
+/
+4 bars | 13 | 12 | 12 | 12 |
+|
+=1' treble qua [B F#] [B Fn] [B E] smq blank
+=2, bass   qua [g# e~b] [g# d~] [g# c~#] smq blank treble
+|
+=1' qua [c Ab] [c G] [c F#]
+=2' qua [B_b F] [B_b E] [B_b Eb]
+|
+=1' qua [B Ab] [B G]  [B F#]
+=2' qua [C# F] [C# E] [C# Eb]
+|
+=1' qua [<D B> <F Ab>] [<D B> <E G>] [<D B> <Ebl Gb>]
+=2  bass cro3 rest min E(2-trn
+/
+3 bars | 12 | 1 1 1 1 1.3 1.6 1.3 1 | 24 |
+|
+=1' treble qua [<D B> <F Ab>] [<D B> <E G>] [<D B> <Ebl Gb>]
+=2  bass   min. E)2(2-tr
+| 2/4 130
+=1' 2/4 qua [<D B> <F Ab>] [<D B> <E G>]
+=2  2/4 cro E)2-tr smq [F E D# E]
+I0.4 .96 ff
+| 6/4 130
+=1  6/4 leg100 cro <F# B'> e(1--tr# smb e)1(1--tr#
+=1, 6/4 min rest, leg170 qua [<E c> <G#x A#l>] [<E c> <Gnx Anl>] \
+ [<E c> <Gbx Abl>] [<E c> <Gnx Anl>]
+I0.8 .16 f
+=2 6/4  vol125 smb. Dn(2
+/
+2 bars | 12 | 10 |
+|
+=1 treble smb. e)1(1--tr#
+=1, qua [<E c> <G#x A#l>] [<E c> <Gnx Anl>] [<E c> <Gbx Abl>] \
+ [<C An> <Dbx Ebl>] min blank
+=2, smb D)2
+=2' vol100 smb blank leg170 qua [<g e~n> <abl bbxl>] [<e c~> <gx an>]
+| 5/4 130
+=1 5/4 min e)1(1--tr# min. e)1{1--tr#
+=2, 5/4 qua [<e c~> <gbx abl>] [<e c~> <gnx anl>] [<e c~> <g#x a#l>] \
+ [<e c~> <gnx anl>] [<e c~> <gbx abl>]
+/
+3 bars | 10 | 8 | 6 |
+|
+=1, treble qua [eb}1 G] [d G]  [db G]  [c G]   [Bb G]
+=2, bass   qua [c c~]   [d c~] [eb c~] [en c~] [f c~]
+| 4/4 130
+=1' 4/4 qua [A G] [Bb G] [A G] [Bb G]
+=2, 4/4 qua [e c~] [eb c~] [en c~] [eb c~]
+| 3/4 130
+=1' 3/4 qua [Bn F#] [B Fn] [B E]
+=2, 3/4 qua [g# e~b] [g# d~] [g# c~#]
+/
+4 bars | 13 | 12 | 12 | 12 |
+|
+=1' treble qua [B F#] [B Fn] [B E] smq blank
+=2, bass   qua [g# e~b] [g# d~] [g# c~#] smq blank treble
+|
+=1' qua [c Ab] [c G] [c F#]
+=2' qua [B_b F] [B_b E] [B_b Eb]
+|
+=1' qua [B Ab] [B G]  [B F#]
+=2' qua [C# F] [C# E] [C# Eb]
+|
+=1' qua [<D B> <F Ab>] [<D B> <E G>] [<D B> <Ebl Gb>]
+=2  bass cro3 rest min E(2-trn
+/
+3 bars | 12 | 1 1 1 1 1.3 1.6 1.3 1 | 16 |
+|
+=1' treble qua [<D B> <F Ab>] [<D B> <E G>] [<D B> <Ebl Gb>]
+=2  bass   min. E)2(2-tr
+| 2/4 130
+=1' 2/4 qua [<D B> <F Ab>] [<D B> <E G>]
+=2  2/4 leg100 cro E)2-tr smq [F E D# E]
+| 4/4 130
+=1' 4/4 qua [<F B> <G#l A#xl>] [<F B> <Gnl Anxl>] \
+ [<F B> <Gbl Abxl>] [<F B> <Gnl Anxl>]
+=2  4/4 min C# C#
+
+6 systems 14 /19-32-19 3/19-32-19/19-33-19/19-35-19 10/19-35-19 10/19-35-19 3/
+pagenum 4
+innerhead Fable, Peter Billam
+leftfoot (c) 1987 Peter J Billam
+/
+3 bars | 8 | 8 | 8 |
+|
+=1' treble qua [<F B> <G# A#xl>] [<F B> <Gn Anxl>] \
+ [<F B> <Gb Abxl>] [<F B> <Gn Anxl>]
+=2  bass  cro D G qua [G# c#] [d, eb]
+|
+=1, qua [<G e> <B d>] [<G e> <Bbl db>] [<G e> <A c>] [<G e> <Bbl db>]
+=2  min F# G
+|
+=1, qua [<Bn f> <dnx e>] [<B f> <dbx ebl>] \
+ [<B f> <c dnx>] [<B f> <dbx ebl>]
+=2  cro G# c# qua [d, g] [g# a]
+/
+3 bars | 8 | 8 | 8 |
+|
+=1  treble qua [<c a> <e g>] [<c a> <ebl gb>] [<c a> <d f>] [<c a> <ebl gb>]
+=2  bass   cro F F# qua [G A] [Bb c]
+|
+=1  qua [<c a> <e g>] [<c a> <ebl gb>] [<c a> <d f>] [<c a> <ebl gb>]
+=2  cro d, eb qua [en f] [g bb]
+|
+=1  qua [<d b> <g#x a#l>] [<d b> <gnx anl>] \
+ [<d b> <gbx abl>] [<d b> <gnx anl>]
+=2  qua [e f# a b] [g# c~# d~ e~b]
+/
+3 bars | 1.2 1 1.2 1 1.2 1 1.2 1 | 8 | 8 |
+|
+=1  treble qua [<f b> <g#x a#l>] [<f b> <gnx anl>] \
+ [<f b> <gbx abl>] [<f b> <gnx anl>]
+=2  bass   qua [a c~ e~b] [bb c~ e~n] [bn c~#]
+|
+=1, leg98 qua [<f# c~> <d ab>] cro rest qua [<Bb e> <G c#>] cro rest
+=2, qua [d~ e~] [<b f~> <g c~#>] cro rest qua [<eb a> <c f#>]
+| 4/4 115 105 95 88
+=1  qua [<C# G> <A_ Eb>] min. rest
+i0.2 .01 rall e decresc . . .
+=2' min rest' qua [<ab d~> <e bb>] [<f# c~> <d ab>]
+=2,  cro rest, qua [<Ab d> <E Bb>] cro rest, D
+/
+3 bars | 8 | 8 | 8 |
+| 4/4 80
+=1  treble min rest qua [D# E] cro F#(2
+i0.6 .05 andante
+=2' bass   qua [d# e] min. bb(1
+=2, qua. [C smq Db] qua. [C smq Db] qua. [C smq Db] qua. [C smq Db]
+|
+=1  qua F#)2 cro Fn qua E min Eb
+=2' cro bb)1 cro. bn qua [bb a ab(1]
+=2, qua. [Dn smq Eb] qua. [D smq Eb] qua. [G smq Ab] qua. [B smq Bb]
+|
+=1' min D qua [G Ab] cro Bb(1
+=2' qua [ab)1 an] min. c~n(1
+=2, qua. [E smq F] qua. [E smq F] qua. [E smq F] qua. [E smq F]
+/
+3 bars | 1 1 1 1.5 1 1 1 1 1 1 1 1 1 1 1 1 | 16 | 16 |
+| 4/4 80 75
+=1' treble cro Bb)1 min Bb cro A
+=1, qua rest, Db Dn cro Eb En qua Eb
+i0.2 .50 meno mosso
+=2' bass qua c~)1
+=2, qua. [G# smq A] qua. [G# smq A] qua. [c smq c#] qua. [d smq eb]
+| 4/4 70
+=1' cro. Ab qua G cro. Gb qua F
+=1, min. D cro C#
+=2' cro rest'' min bb cro a
+=2, qua [en f] cro. e d#
+|
+=1' qua [E F] cro. E D#
+=1, cro rest,, min B_b cro A_
+=2' cro. ab qua g cro. gb qua f
+=2, min. dn cro c#
+/
+4 bars | 8 | 8 | 8 | 5 ||
+|
+=1' treble min. D cro C#(1
+=1, cro. A_b qua G_ cro. G_b qua F_
+=2' bass qua [e f] cro. e d#
+=2, cro rest, min Bb cro A{1
+I0.3 .93 f
+|
+=1 vol-10 leg150 qua [C#)1 Eb F Ab] [Bb, db eb f]
+I0.5 .02 p
+=2' smb rest'
+=2 smb Eb}1(1
+i0.8 .10 Ped___
+|
+=1' qua [ab bb] vol-5 [f ab bb] [f ab bb]
+i0.5 .09 decresc . . .
+=2 smb Eb)1(1
+|
+is0.2 .80 6nov87
+=1 smb c~
+=2 smb Eb)1

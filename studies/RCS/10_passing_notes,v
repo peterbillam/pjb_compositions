@@ -1,0 +1,1875 @@
+head	1.26;
+access;
+symbols;
+locks
+	pjb:1.26; strict;
+comment	@# @;
+
+
+1.26
+date	2014.04.03.00.08.18;	author pjb;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2014.04.02.10.14.45;	author pjb;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2014.04.02.09.59.04;	author pjb;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2014.04.02.03.32.24;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2014.04.02.02.04.17;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2014.04.01.22.43.02;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2014.04.01.09.31.45;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2014.04.01.09.12.41;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.04.01.03.52.14;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.04.01.00.45.37;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.03.31.09.48.36;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.03.30.06.58.08;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.03.30.03.49.00;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.03.30.02.00.30;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.03.29.02.23.25;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.03.29.00.46.18;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.03.29.00.02.22;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.03.28.08.49.21;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.03.27.03.14.53;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.03.26.05.01.37;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.03.26.00.05.55;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.03.25.09.58.46;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.03.25.08.06.02;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.03.23.08.53.24;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.03.14.03.06.23;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.03.13.10.57.33;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@sketching for 10_ , name still undecided
+@
+
+
+1.26
+log
+@as released
+@
+text
+@6 systems 10 /19-35-19/ 19-30-19/ 19-30-19 \
+ / 19-30-19/ 19-30-19 / 19-30-19 10/
+pagenum
+title 10.  Passing Notes
+innerhead Twenty Studies
+leftfoot (c) 2014 Peter J Billam
+midi channel 0 patch 0
+
+/
+4 bars | 11 | 5 5 5 5 5 5 5 2 | 5 5 5 5 5 5 5 2 | 5 5 5 5 5 5 5 2 |
+| .5
+=1' treble cha0  vol100 leg100 4 <F_#rr A_ B_x C#ll D#xll>
+I0.4    f
+=2' bass cha0  vol100 leg100 4 <F#rr A Bx c#ll d#xll>
+| 2.0
+bl0.4 .74 ,
+=1' 2 <G_brrlll A_bxll B_bll Cx Eb> leg90 \
+ 4 <F_# A_nllll B_nxlll C#lll D#xll> leg100 \
+ <G_nlll A_x B_ C#xll Enlll>
+=2' 2 <Gbrrlll Abxll Bbll cx eb> leg90 \
+ 4 <F# Anllll Bnxlll c#lll d#xll> leg100 \
+ <Gnlll Ax B c#xll enlll>
+|
+i0.2 .65 simile
+=1 2 <G_ B_b Cx D Ex> leg90 4 \
+ <G_ A_x B_nll C#xll E> leg100 <F_# A_ B_x C#ll D#xll>
+=2' 2 <G Bb cx d ex> leg90 4 <G Ax Bnll c#xll e> leg100 <F# A Bx c#ll d#xll>
+| 2.0
+=1' 2 <F_#rl G_#xl B_bl Cx Eb> leg90 4 \
+ <F_#lll A_ B_nxlll C#llll D#xll> leg100 <A_ B_x C#ll D#xll F#ll>
+=2' 2 <F#lr G#lx Bbl cx eb> leg90 4 \
+ <F#lll A Bnxlll c#llll d#xll> leg100 <A Bx c#ll d#xll f#ll>
+/
+3 bars | 10 10 10 9 | 10 10 10 9 | 10 10 10 9 |
+|
+=1 2 <A_r Cx D Ex F#> leg80 4 <C Dx E F#xll A> leg100 <B_ D Ex F#ll G#lx>
+=2' 2 <Ar cx d ex f#> leg80 4 <c dx e f#xll a> leg100 <B d ex f#ll g#xl>
+|
+il0.7 .02  5
+=1' 2 <B_r C#xll D#ll Fx G#> leg90 \
+ 4 <B_ Dn Ex F#ll G#xll> leg100 <Cnll Dx E F#xll A>
+=2, 2 <Brr c#xl d#l f g#x> leg90 \
+ 4 <Bx dnx e f#xll g#ll> leg100 <cnxl d ex f#l a>
+|
+=1' 2 <Cr Eb Fx G Ax> leg90 4 <Eb Fx G Ax c> leg100 <D F Gx A Bx>
+=2, 2 <crr ebx f gx a> leg90 4 <ebx f gx a c~> leg100 <d fx g ax b>
+/
+3 bars | 10 9 9 9 | 13 10 10 9 | 10 10 10 9 |
+|
+=1' 2 <Drr Ex F#ll G#xll B> leg90 4 <D Fnll Gnxll A Bx> leg100 <F Gx A Bx d>
+=2, 2 <dxrrr e f#xll g#ll b> leg90 4 <d fnxll gnll ax b> leg100 <fx g ax b d~>
+|
+bl0.7 .28 ,
+=1' leg80 4 <Frr Abll Bbxll c dx>  leg100 2 <Abll Bbxll c dx f> \
+ leg100 vol75 4 <G Bb cx d ex>
+I0.7 .69 mp
+=2, leg80 4 <frrr abxll bbll c~x d~> leg100 2 <abrxll bbll c~x d~ f~> \
+ leg100 vol75 4 <g-P bbx c~ d~x e~>
+|
+=1' 2 <G_r A_x B_ C#xll E> leg90 4 <G_ B_bll Cnllx D Ex> \
+ leg100 <A_bll B_bxll C Dx F>
+=2' vol110 8 rest-* [e A Ab] 4. G 8 Gb
+I0.05 .13 f
+/
+3 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+il0.7 .03 10
+=1' 2 <G_#r B_x C#ll Eb Fx> leg90 \
+ 4 <G_#ll B_blll Cnxll D F> leg100 <G_n B_bll Cx D Enxll>
+=2 8 rest [F B_ C#] 4. D 8 D#
+|
+=1' 2 <G_r A_x B_ C#xll E> leg90 4 <G_ B_blll Cnllx D Ex> leg100 <B_b Cx D Ex G>
+=2' 8 E [e A Ab(2] A)2 4 G 8 Gb
+| 
+=1' 4 leg85 <B_brrll Dbxll Ebll Fx G> leg100 \
+ 2 <Dbrll Ebxll F Gx Bb> 4 <C Eb Fx G Ax>
+=2 2 Fr 8 rest [F# G G#]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1' 2 <Cr Dx E F#xll A> leg90 4 <C Eblll Fnxll G Ax> leg100 <Dbll Ebxll F Gx Bbl>
+=2 vol110 83 rest [A-I3 B] 16 [c, d f e] [eb f f# g] 83 [fn d-I3 eb]
+|
+=1' 2 <C#llrr E F#xll G#ll A#xl> leg90 4 \
+ <E F#xlll G#lll A#xl c#l> \
+ leg100 <Ebll Gbllll Abxll Bbll cnxl>
+=2' 16 [e c# d B] 83 [G# rest,-I3 F#] [Gn A-I3 Bb] 16 [cn d eb d]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+il0.8 .01 15
+=1 2 <Eb Fx Gll Axll c'> leg90 4 \
+ <Ebll Gbllll Abxll Bb'll cx'> leg100 \
+ <Gb,xlll Ab,ll Bbxll c eb>
+=2 16 [eb en f f#] 83 [g c,-I3 c#,] [G# rest,-I3 B] 16 [c, d eb d]
+|
+=1, leg80 4 <F#rrrll Ax B c#xll d#ll> leg100 \
+  2 <Ax B c#xlll d#ll f#l> 4 <A(4 cnxll(2 dnll(6 ex(3 f#l(1>
+=2 83 [d#r e-I3 f] vol100 16 [f#' dn' eb' A#] [B G# An Eb] 4 D(2
+
+6 systems / 19-30-19/ 19-35-19/ 19-32-19 \
+ / 19-32-19/ 19-35-19/ 19-30-19 5 /
+pagenum
+innerhead 10.  Passing Notes
+leftfoot (c) 2014 Peter J Billam
+
+/
+3 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1, 2 <Arr)4 cx)2 d)6 ex)3 f#ll)1> leg80 \
+ 4 <Ax B c#xlll d#ll f#l> leg100 \
+ <G#l(2 Bx c#lll ebxlll fnll(1>
+=2 4 Dr)2 D_ 8 [D_# E_] 4 F_(1
+|
+=1, 2 <G#rr)2 Bbll cx d f)1> leg80 4 \
+ <G#l Bnxlll c#ll ebxll f> leg100 \
+ <Ax B c#xll ebxlll f#ll>
+=2 4 F_)1 8 [F_# G_] 2 G_#
+|
+=1, 2 <Ar cx d ex f#l> leg80 4 \
+ <Ax B c#xll ebxlll f#ll> leg100 \
+ <G#l(2 B c#xl ebxlll fnl(1>
+=2 8 [A_ B_] 4. C 8 [C# D# E]
+/
+2 bars | 3 3 3 2 3 2 3 2 3 3 2 2 3 3 2 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+il0.8 .01 20
+=1, leg80 4 <G#rrl)2 Bbxl c dx f)1> leg100 \
+ 2 <F Abxll Bbll cx d> 4 <Gb,xlll Ab,ll Bbxll c eb>
+=2 1 Fr
+|
+=1 2 <F#,rrrll A,x B c#xll d#l> leg80 4 \
+ <Gb,xllll Ab,lll Bbxlll cnll eb> leg100 \
+ <Ebll(2 Gbllll Abxll Bb'll cx'(1>
+=2 vol110 83 rest [F#-I3 G#] 16 [A B d' c#] [cn, d eb en] 83 [eb' B-I3 c#]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1' 2 <Eb)2 Fx G Ax c)1> leg80 4 <C Eb Fx G Ax> leg100 <Dbll Ebxll F Gx Bb>
+=2' 16 [eb' B c A] 83 [G rest,-I3 Eb] [F G#-I3 A] 16 [Bb c db c]
+|
+=1' 2 <C#llrr Ex F# Abll Bbxll> leg80 4 \
+ <Dbllll Ebxll Fnll Gx Bbl> leg100 \
+ <B_bllr(2 Dbxll Ebll Fx G(1>
+=2 16 [c#, d eb en] 83 [f#' A-I3 Bb] [G rest,-I3 A] 16 [Bb cn db' c]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1' leg80 4 <B_b)2 Cx D Ex G)1> leg100 2 \
+ <G_ B_b Cx D Ex> 4 <A_bll B_bxll C Dx F>
+=2' 83 [A# B-I3 c] vol100 16 [d An Bb D#] \
+ 16 [E F F# G] 4 G#-P
+I0.1 .98 mp
+|
+il0.8 .13 25
+I0.3 .05 f
+=1 vol110 8 rest [d# g# a] 4. bb 8 a(1
+=2, vol75 2 <g#lrr-* bx c~#ll e~bx f~> leg80 4 \
+ <abxllll bbll c~nxll d~ f~> leg100 <gnll(2 bbxll c~ d~x e~nll(1>
+/
+3 bars | 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 2 \
+ | 3 3 3 3 4 5.3 4 4 3 3 3 3 3 3 3 2 \
+ | 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1 4. a)1 8 [<e e~> g gb] 4 f
+=2, 2 <gr)2 ax b c~#x e~)1> leg80 4 \
+ <g bbxlll c~nll d~x e~> leg100 <abxll bbll c~x d~ f~>
+|
+=1 4 rest 16 [g# a a# b] 2 c~
+=2, 2 <g#lrr bx c~#ll e~bx f~> leg80 4 \
+ <abxllll bbll c~nxll d~ f~> leg100 <gnl(2 bbxll c~ d~x e~nl(1>
+|
+=1 4. rest 8 [e G, Gb,] 4 F
+=2, leg80 4 <gxrr)2 a bx c~#ll e~)1> leg100 \
+ 2 <er gx a bx c~#ll> 4 <fx g ax b d~>
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+#=1 vol110 83 rest [A#-I3 B'] 16 [c, d gb f] [e f f# gn] 83 [fn c#-I3 d]
+=1 vol110 83 rest [A#-I3 B'] 16 [c, d gb f] \
+ [d e f gn] 83 [fn c#-I3 d]
+=2, 2 <frrrl abxll bbll c~x d~> leg80 4 \
+ <fx g anxll bnll d~> leg100 <d(2 fx g ax b(1>
+|
+il0.8 .01 30
+=1  16 [e c# d B] 83 [G# rest--I3 F#] [G# A#-I3 B'] 16 [c# d eb d]
+=2, 2 <dxrrr)2 e f#xll g#ll b)1> leg80 4 <B dx e f#xlll g#ll> leg100 <Bx c#lll ebxlll fnll abl>
+
+6 systems /19-30-19/ 19-25-19/ 19-27-19 \
+ / 19-30-19 6/ 19-30-19 5/ 19-30-19 14 /
+pagenum
+innerhead 10.  Passing Notes
+leftfoot (c) 2014 Peter J Billam
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+#=1 16 [eb en f g] 83 [g# c,-I3 c#,] [G# rest--I3 A] 16 [Bb cn eb d]
+=1 16 [eb en f g] 83 [g# c,-I3 c#,] [G# rest--I3 A] 16 [Bb cn e d#]
+=2' 2 <G#rrll B c#xll ebll fx> leg80 4 \
+ <Ablll Bbxll cnll dx f> leg100 <F(2 Abll Bbxll c dx(1>
+|
+=1, 83 [c# d-I3 e] vol100 16 [f c# dn A#,] \
+ [B c# e f] 4 a(1
+=2' leg80 4 <Frr)2 Gnxlll Anlll Bnxll d)1> leg100 2. <D Fx G Ax B>
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1 8 a)1 [f# B Bb] 2 A
+=2' 2 <Drr Ex F#ll G#xll B> leg80 4 \
+ <D Fnll Gnxll A Bx> leg100 <Eb(2 Fx G Ax c(1>
+|
+=1 8 rest Bb 16 [c c# d# e] 2 f
+=2' 2 <Eblrrr)2 Gblll Abxll Bbll cx)1> leg90 4 \
+ <Eblll Fnxll Gnll Ax c> leg100 <D(2 Fx G Ax Bn(1>
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+il0.8 .01 35
+=1 16 [d c# B Bb] 4. G# 8 A 16 [f e d db]
+=2' 2 <Dr)2 Ex F#ll G#xll B)1> leg90 4 <D Fnll Gnxll A Bx> leg100 <F Gx A Bx d>
+|
+=1 8 cr 4 Ab 8 c 16 [ab g gb f] 4 e
+=2' leg80 4 <Frr Abll Bbxll c dx> leg100 2 <Abll Bbxll c dx f> 4 <G(2 Bb cx dl exl(1>
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1 4 rest 16 [g f# e eb] 8 d 4 Bb 8 d
+=2' 2 <Gr)2 Ax B c#llx e)1> leg90 4 \
+ <G Bbll cnxll d ex> leg100 <Abll Bbxll c dx f>
+|
+=1 16 [c# d d# e] 8 f 4 c# 8 f 16 [A#, B cn c#]
+=2' 2 <G#llrr Bx c# ebll fx> leg90 4 \
+ <B c#xll ebll fx ab> leg100 \
+ <Bbl(2 dblll ebxll f gx(1>
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1 8 d 4 Bb 8 d 16 [d# e f f#] 8 [g eb(1]
+=2, 2 <Bbxrr)2 c dxll ell g)1> leg90 4 \
+ <Bblll dbxlll ebll fx g> leg100 <c#ll(2 ebxll f gx bbll(1>
+|
+il0.8 .01 40
+=1 8 [eb)1 g] 16 [f# g g# a] 8 bb 4 gb 8 <bb(2 b~b(1>
+=2, leg80 4 <c#lrrr)2 e f#xll g#ll bbl)1> \
+ leg100 2 <exr f#lll g#xlll a#ll d~b> leg100 vol75 4 <d#ll f#xlll g#lll bbx c~>
+
+/
+3 bars | 4 3 4 3 3 3 3 3 3 3 3 3 3 3 3 2| 4 3 4 3 3 3 3 3 3 3 3 3 3 3 3 2| 15||
+| 1.08 1.16
+=1 2 <bbrr)2 b~b)1> 4 <gb g~b> 4 <bb(2 b~b(1>
+i0.7 .14 poco rit . . .
+=2' 2. <exrr f#lll g#xll bbll d~b> 4 <d#llll f#xll g#ll bb c~x>
+=2, 4 rest,,-P  2. A_b 
+| 1.26 1.38
+=1 2 <bbrr)2 b~b)1> 4 <gb g~b> 4 <bb(2 b~b(1>
+=2' 2. <exrr f#lll g#xll bbll d~b> 4 <d#llll f#xll g#ll bb c~x>
+=2, 4 rest,, 2. A_b
+| 1.52 1.68
+=1 1 <bb)2 b~b)1>
+=2 1 A_b 64 blank-,-*
+
+midi pause 2.0
+@
+
+
+1.25
+log
+@enough for today
+@
+text
+@d30 1
+a30 1
+ <F_#l A_ B_nxll C#ll Eb> leg100 <A_ B_x C#ll D#xll F#ll>
+d32 1
+a32 1
+ <F#l A Bnxll c#ll eb> leg100 <A Bx c#ll d#xll f#ll>
+d36 2
+a37 2
+=1 2 <A_r Cx D Ex F#> leg80 4 <Cx D Ex F# A> leg100 <B_ D Ex F#l G#lx>
+=2' 2 <Ar cx d ex f#> leg80 4 <cx d ex f# a> leg100 <B d ex f#l g#xl>
+d41 1
+a41 1
+ 4 <B_ Dn Ex F#ll G#xll> leg100 <Cnl D Ex F# A>
+d45 2
+a46 2
+=1' 2 <C Eb Fx G Ax> leg90 4 <Eb Fx G Ax c> leg100 <D F Gx A Bx>
+=2, 2 <cr ebx f gx a> leg90 4 <ebx f gx a c~> leg100 <d fx g ax b>
+d60 1
+a60 1
+=1' 2 <G_xr A_ B_x C# E> leg90 4 <G_ B_bll Cnllx D Ex> \
+d69 2
+a70 2
+=1' 2 <G_#r B_x C#l Eb Fx> leg90 \
+ 4 <G_# B_bll Cnxll D F> leg100 <G_n B_bll Cx D Enxll>
+d73 1
+a73 1
+=1' 2 <G_xr A_ B_x C# E> leg90 4 <G_ B_bll Cnllx D Ex> leg100 <B_b Cx D Ex G>
+d82 1
+a82 1
+=1' 2 <Crx D Ex F# A> leg90 4 <C Ebll Fnxll G Ax> leg100 <Dbll Ebxll F Gx Bb>
+d85 3
+a87 2
+=1' 2 <C#rr E F#xll G#ll Bb> leg90 4 <Ex F#ll G#xll Bbll c#xll> \
+ leg100 <D#ll F#xll G#ll Bbll cnxll>
+d90 1
+a90 1
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+d98 3
+a100 3
+=1, leg80 4 <F#rrl A Bx c#ll ebl> leg100 \
+  2 <A Bx c#ll ebxll f#l> 4 <A(4 cnxll(2 d(6 enxl(3 f#l(1>
+=2 83 [d# e-I3 f] vol100 16 [f#' dn' eb' A#] [B G# An Eb] 4 D(2
+d112 4
+a115 3
+=1, 2 <Ar)4 c)2 dx)6 e)3 f#x)1> leg80 \
+ 4 <A Bx c#ll ebxll f#l> leg100 <G#(2 Bx c#ll ebxll fnl(1>
+=2 4 D)2 D_ 8 [D_# E_] 4 F_(1
+d118 2
+a119 1
+ <G# Bnx c# ebx f> leg100 <Ax B c#xll ebxl f#l>
+d122 3
+a124 2
+=1, 2 <Ar c dx e f#x> leg80 4 \
+ <Ax B c#xl ebxlll f#ll> leg100 <G#l(2 B c#xl ebxlll fnl(1>
+d160 1
+a160 1
+=2, vol75 2 <g#rr-* b c~#x e~bxl f~> leg80 4 \
+d173 1
+a173 1
+ <g#l bbxll c~nll d~x f~> leg100 <gnl(2 bbxll c~ d~x e~nl(1>
+d176 2
+a177 1
+=2, leg80 4 <grr)2 ax b c~#x e~)1> leg100 2 <er g ax b c~#x> 4 <fx g ax b d~>
+d184 2
+a185 1
+=2, 2 <frrrl abxll bbll c~x d~> leg80 4 <f gnxl a bnx d~> leg100 <d(2 fx g ax b(1>
+d189 1
+a189 1
+=2, 2 <dxrrr)2 e f#xll g#ll b)1> leg80 4 <B dx e f#xll g#ll> leg100 <Bx c#lll ebxlll fnll abl>
+d201 1
+a201 1
+=2' 2 <G#rl B c#xll ebll fx> leg80 4 \
+d215 2
+a216 2
+=2' 2 <Eb)2 F# G#x Bb cx)1> leg90 4 \
+ <Eb Fnx Gnll Ax c> leg100 <D(2 Fx G Ax Bn(1>
+d230 2
+a231 1
+=2' 2 <Gxr)2 A Bx c# e)1> leg90 4 <G Bbll cnxll d ex> leg100 <G#l Bb cx d f>
+d234 3
+a236 2
+=2' 2 <G#rr Bx c# ebl fx> leg90 4 \
+ <Bx c#ll ebxll f abl> leg100 <Bblll(2 c#xll ebll fx g(1>
+@
+
+
+1.24
+log
+@much fussing with accidentals
+@
+text
+@d193 2
+a194 1
+=1 16 [eb en f g] 83 [g# c,-I3 c#,] [G# rest--I3 A] 16 [Bb cn eb d]
+d196 1
+a196 1
+ <G#ll Bbxll cnll dx f> leg100 <F(2 Abll Bbxll c dx(1>
+d218 2
+a219 2
+=1 8 c 4 Ab 8 c 16 [ab g gb f] 4 e
+=2' leg80 4 <Frx G# Bbl cx d> leg100 2 <G#l Bb cx d f> 4 <Gnl(2 Bb cx dl exl(1>
+d234 1
+a234 1
+ <Bbll c#xll ebll fx g> leg100 <c#ll(2 ebxll f gx bbll(1>
+d239 1
+a239 1
+ leg100 2 <exr f#ll g#xll bbl d~b> leg100 vol75 4 <d#ll f#xlll g#lll bbx c~>
+@
+
+
+1.23
+log
+@plausible ? needs spacing of accidentals
+@
+text
+@a8 1
+# TiM 90 and 91 both nice :-)
+d10 1
+a10 2
+5 bars | 11 | 5 5 5 5 5 5 5 2 | 5 5 5 5 5 5 5 2 \
+            | 5 5 5 5 5 5 5 2 | 5 5 5 5 5 5 5 2 |
+d12 1
+a12 2
+# AO p.19: starting from the beginning yet again...
+=1' treble cha0  vol100 leg100 4 <F_#r A_ B_x C#l Eb>
+d14 1
+a14 1
+=2' bass cha0  vol100 leg100 4 <F#r A Bx c#l eb>
+d17 6
+a22 4
+=1' 2 <F_#rl G_#xl B_bl Cx Eb> leg90 \
+ 4 <F_#ll A_ B_nxll C#ll Eb> leg100 <G_n A_x B_ C#xll Enl>
+=2' 2 <F#lr G#lx Bbl cx eb> leg90 \
+ 4 <F#ll A Bnxll c#ll eb> leg100 <Gn Ax B c#xll enll>
+d26 2
+a27 3
+ <G_ A_x B_nll C#xll E> leg100 <F_# A_ B_x C#l Eb>
+=2' 2 <G Bb cx d ex> leg90 4 \
+ <G Ax Bnll c#xll e> leg100 <F# A Bx c#l eb>
+d30 1
+a30 1
+ <F_#l A_ B_nxll C#ll Eb> leg100 <A_ B_x C# Ebll F#xll>
+d32 3
+a34 1
+ <F#l A Bnxll c#ll eb> leg100 <A Bx c# ebll f#xll>
+d36 2
+a37 7
+=1 2 <A_r Cx D Ex F#> leg80 4 <Cx D Ex F# A> \
+ leg100 <B_ D Ex F#l G#lx>
+=2' 2 <Ar cx d ex f#> leg80 4 <cx d ex f# a> \
+ leg100 <B d ex f#l g#xl>
+/
+4 bars | 10 10 10 9 | 10 10 10 9 \
+ | 10 10 10 9 | 13 9 9 9 |
+a44 1
+# try to rise 12st somehow, then RH recycles the chords, LH runs 16,83
+d47 2
+d58 6
+a63 1
+ leg100 vol75 4 <g bbx c~ d~x e~>
+d65 2
+a66 7
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1' 2 <G_xr A_ B_x C# E> leg90 4 <G_ B_bll Cnllx D Ex> leg100 <G_#l B_b Cx D F>
+# =2 vol110 83 rest [E-I3 F#] 16 [G A c B] [Bb c c# d'] 83 [cn A-I3 Bb]
+#=2 vol110 8 rest e [A Ab] 83 [G G-I3 Gb] 4 F
+=2' vol110 8 rest [e A Ab] 4. G 8 Gb
+I0.1 .05 f
+a70 1
+#=2 16 [B G# A F#] 83 [Eb rest,,-I3 C#] [D En-I3 Fn] 16 [F# Gn Bb A]
+a71 2
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+a73 1
+#=2' 16 [B c c# d] 83 [cn G#-I3 A] [E rest,-I3 Gn] 16 [A Bb db c]
+d76 3
+a78 3
+=1' 4 leg85 <B_brll C#xll Eb Fx G> leg100 2 <C# Ebl Fx G Bb> 4 <Cnl Eb Fx G Ax>
+#=2  83 [c#, e-I3 f] 16 [g e f d] [eb' cn c# A#] 83 [B rest--I3 cn]
+=2 2 F 8 rest [F# Gn G#]
+d82 1
+a82 1
+=1' 2 <Crx D Ex F# A> leg90 4 <C Ebll Fnxll G Ax> leg100 <C#l Eb Fx G Bb>
+d87 1
+a87 2
+=2' 16 [e c# d B] 83 [G# rest,-I3 F#] \
+ [Gn A-I3 Bb] 16 [cn d eb d]
+d92 4
+a95 4
+=1' 2 <Ebr Fx Gll Axll c> leg90 4 \
+ <Eblll F#xll G#ll Bb cx> leg100 <F#lll G#xll Bbll cx eb>
+=2 16 [eb en f f#] 83 [g c,-I3 c#,] \
+ [G# rest,-I3 B] 16 [c, d eb d]
+a96 2
+#=1, leg80 4 <F#rrl A Bx c#ll ebl> leg100 \
+# 2 <A Bx c#ll ebxll f#l> vol75 4 <G#l B c#xl ebxll fnl>
+d99 1
+a99 2
+=2 83 [d# e-I3 f] vol100 16 [f#' dn' eb' A#] \
+ [B G# An Eb] 4 D(2
+d112 1
+a112 2
+ 4 <A Bx c#ll ebxll f#l> leg100 \
+ <G#(2 Bx c#ll ebxll fnl(1>
+d115 2
+a116 1
+=1, 2 <G#rr)2 Bbll cx d f)1> leg80 4 <G# Bnx c# ebx f> leg100 <Ax B c#xll ebxl f#l>
+d120 1
+a120 2
+ <Ax B c#xl ebxlll f#ll> leg100 \
+ <G#l(2 B c#xl ebxlll fnl(1>
+d123 1
+a123 1
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+d126 2
+a127 2
+=1, leg80 4 <G#rrl)2 Bbx c dx f)1> leg100 \
+ 2 <F Abxll Bbll cx d> 4 <F#l Abll Bbxll c eb>
+d130 3
+a132 3
+=1' 2 <F#rl Ax B c#xll d#ll> leg80 4 \
+ <F#lll G#xll Bbll cnxl ebl> leg100 \
+ <Ebllll(2 F#xll G#ll Bblll cx(1>
+d138 1
+a138 1
+=2' 16 [eb' B c A] 83 [G rest,-I3 Eb] [Fn G#-I3 A] 16 [Bb c db c]
+d140 3
+a142 2
+=1' 2 <C#lrr E F#xll G#lll Bbl> leg80 4 \
+ <C#ll Ebllll Fnxll Gnlll Bb> leg100 <B_bll(2 C#xll Eb Fx G(1>
+d147 2
+a148 1
+=1' leg80 4 <B_b)2 Cx D Ex G)1> leg100 2 <G_ B_b Cx D Ex> 4 <G_#l B_b Cx D F>
+d151 1
+d153 3
+a155 2
+il0.8 .01 25
+=1 vol110 8 rest d# [g# a] 4. bb 8 a(1
+d157 1
+a157 1
+ <g#l bbxll c~nll d~x f~> leg100 <gnl(2 bbxll c~ d~x e~nll(1>
+d159 7
+a165 5
+3 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 \
+ | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1 4. a)1 8 <e e~> [g gb] 4 f
+=2, 2 <g)2 a b c~# e~)1> leg80 4 <g bb c~n d~ e~> leg100 <g# bb c~ d~ f~>
+d171 2
+a172 2
+=1 4. rest 8 e [G Gb] 4 F
+=2, leg80 4 <g)2 a b c~# e~)1> leg100 2 <e g a b c~#> 4 <f g a b d~>
+d176 1
+d178 2
+a179 2
+ [e f f# gn] 83 [fn c#-I3 d]
+=2, 2 <fxrrrl g#ll bbxll c~ d~x> leg80 4 <f gnxl a bnx d~> leg100 <d(2 fx g ax b(1>
+d182 2
+a183 3
+=1  16 [e c# d B] 83 [G# rest--I3 F#] \
+ [G# A#-I3 B'] 16 [c# d eb d]
+=2, 2 <dxrr)2 e f#xll g#ll b)1> leg80 4 <B dx e f#xll g#ll> leg100 <Bx c#lll ebxlll fnll abll>
+d193 1
+a193 2
+=1 16 [eb en f g] 83 [g# c,-I3 c#,] \
+ [F rest--I3 A] 16 [Bb cn eb d]
+a196 1
+#=1 2. blank 16 [B c d d#]
+d199 1
+a199 1
+=2' leg80 4 <Frr)2 Gnxlll Anll Bnxll d)1> leg100 2. <D Fn Gnx An Bx>
+d203 1
+a203 2
+#=1 8 e 4 B 8 e 16 [d c# B Bb] 4 A
+=1 8 a)1 f# [B Bb] 2 A
+d238 1
+a238 1
+ leg100 2 <exr f#ll g#xll bbxl c~#l> leg100 vol75 4 <eb f#x g# bbx c~n>
+d241 1
+a241 1
+3 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2| 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2| 15||
+d243 3
+a245 2
+=1 2 <bb)2 b~b)1> 4 <gb g~b> 4 <bb(2 b~b(1>
+=2' 2. <exllr f#ll g#x bb c~#> 4 <eb f#x g# bbx c~n>
+d248 2
+a249 2
+=1 2 <bb)2 b~b)1> 4 <gb g~b> 4 <bb b~b>
+=2' 2. <exllr f#ll g#x bb c~#> 4 <eb f#x g# bbx c~n>
+d252 1
+@
+
+
+1.22
+log
+@within tweaking-distance ?
+@
+text
+@d1 2
+a2 1
+6 systems 10 /19-35-19/ 19-30-19/ 19-30-19 / 19-30-19/ 19-30-19 / 19-30-19 8/
+d5 2
+d8 1
+d113 6
+a118 1
+6 systems /19-30-19/ 19-40-19/ 19-30-19/
+d120 2
+a121 1
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+a129 2
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+d135 2
+a141 2
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+d147 2
+a151 2
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+d156 2
+a161 2
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+d167 3
+a172 2
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+d178 1
+a178 1
+=1 4. blank 8 e [G Gb] 4 F
+d191 6
+d201 3
+a203 2
+ [G# rest--I3 B'] 16 [c, d fn e]
+=2' 2 <G#rl B c#xll ebll fx> leg80 4 <G# Bbx cn dx f> leg100 <F(2 Ab Bbx c dx(1>
+d206 2
+a207 2
+=1, 83 [d# e-I3 f] vol100 16 [g c# dn A#,] \
+ [B G# An en] 4 g(1
+d213 1
+a213 1
+=1 8 g)1 f# [B Bb] 2 A
+a249 1
+6 systems /19-30-19/ 19-40-19/ 19-30-19/
+d251 1
+a251 1
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+@
+
+
+1.21
+log
+@more footling
+@
+text
+@d147 1
+a147 1
+=2 16 [c#, d eb en] 83 [f#' A-I3 Bb] [F rest,-I3 G] 16 [Bb cn db' c]
+d150 1
+a150 1
+=2' 83 [A# B-I3 c] vol100 16 [d Bb] 8 rest \
+d156 3
+a158 2
+=1 vol110
+=2, vol75 2 <g#rr-* b c~#x e~bxl f~> leg80 4 <g# bb c~n d~ f~> leg100 <gn(2 bb c~ d~ e~n(1>
+d160 1
+a160 1
+=1 4. blank 8 <e e~> [g gb] 4 f
+d165 3
+a167 1
+=2, 2 <g# b c~# e~b f~> leg80 4 <g# bb c~n d~ f~> leg100 <gn(2 bb c~ d~ e~n(1>
+d174 3
+a176 1
+=2, 2 <fxrr g# bbx c~ d~x> leg80 4 <fx gn ax bn d~> leg100 <d(2 fx g ax b(1>
+d179 3
+a181 1
+=2, 2 <dx)2 e f#x g# b)1> leg80 4 <B dx e f#x g#> leg100 <Bx c# ebx fn ab>
+d185 3
+a187 1
+=2' 2 <G# B c#x eb fx> leg80 4 <G# Bbx cn dx f> leg100 <F(2 Ab Bbx c dx(1>
+d190 3
+a192 1
+=2' leg80 4 <F)2 Gnx An Bnx d)1> leg100 2. <D Fn Gnx An Bx>
+d197 3
+a199 2
+=1 8 rest f# [B Bb] 2 A
+=2' 2 <D Ex F# G#x B> leg80 4 <D Fn Gnx A Bx> leg100 <Eb(2 Fx G Ax c(1>
+d208 2
+a209 2
+=1 16 [d c# B Bb] 2 Ab 16 [f e d db]
+=2' 2 <Dr)2 Ex F#ll G#xll B)1> leg90 4 <D Fnll Gnxll A B> leg100 <F Gx A Bx d>
+d220 2
+a221 1
+=2' 2 <G#llrr Bx c#l eb fx> leg90 4 <Bx c# ebx f g#> leg100 <Bb(2 c#x eb fx gn(1>
+d230 1
+a230 1
+=1 8 [eb)1 g] 16 [f# g g# a] 8 bb 4 gb 8 bb
+d238 1
+a238 1
+=1 2 <bb b~b> 4 <gb g~b> 4 <bb(2 b~b(1>
+d248 1
+a248 442
+midi off
+
+6 systems /19-30-19/ 19-40-19/ 19-30-19/
+/
+4 bars | 11 | 5 5 5 5 5 5 5 2 \
+ | 5 5 5 5 5 5 5 2 | 5 5 5 5 5 5 5 2 |
+| .5
+# AO p.19: starting from the beginning again...
+=1' treble cha0  vol100 leg100 4 <F_#r A_ B_x C#l Eb>
+I0.4    f
+=2' bass cha0  vol100 leg100 4 <F#r A Bx c#l eb>
+| 2.0
+=1' 2 <F_#rl G_#xl B_bl Cx Eb> leg90 4 <F_# A_ B_nx C# Eb> leg100 <A_ B_x C# Eb F#x>
+=2' 2 <F#lr G#lx Bbl cx eb> leg90 4 <F# A Bnx c# eb> leg100 <A Bx c# eb f#x>
+|
+=1 2 <A_ C Dx E F#lx> leg90 4 <A_ B_x C#l Ebxl F#> leg100 <F_# A_ B_x C#' Ebxll'>
+=2' 2 <A c dx e f#lx> leg90 4 <A Bx c#l ebxl f#> leg100 <F# A Bx c#l' eb'>
+|
+=1 2 <F_# G_#x B_b Cx Eb> leg90 4 <F_#l A_lll B_nxll C#ll Eb> leg100 <A_(2 B_x, C#ll Eb F#x(1>
+=2' 2 <F#r G#x Bb cx eb> leg90 4 <F#l A Bnxll c#ll eb> leg100 <A(2 Bllx c#ll eb f#x(1>
+/
+3 bars | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 \
+ | 6 5 5 6 5 6 5 4 |
+|
+# three staves ?
+=1' 4 <A_)2 C Dx E F#xl)1> 4 <B_b(2 Cx D Ex G(1> 4 <B_b)2 C#x(4 Eb(2 Fnx(3 G)1> <B_nxl C#l)4 Eblx)2 F)3 Abxl>
+i0.4 .12 dim . . .
+I0.5 .90 p
+=2, 4 <Ar)2 cx d ex f#l)1> 4 <Bbx(2 c dx el g(1> 4 <Bx)2 c#ll(4 ebllx(2 fnl(3 gx)1> <Bnl cx)4 e)2 fx)3 ab>
+|
+#=1' vol80 2 <B_r Fn>
+#=2, vol70 2 <c#xlrr d#l g#>
+=1' vol80 8 [G# 16 A# B] 8 [c d] 2 c#
+=1, vol80 4 C# 8 [D 16 D# E] 2 F
+=1, vol70 2 blank 8 blank B_ 16 [Cn Dn 8 Eb]
+=2' vol70 2 fr 8 [g 16 g# a#] 4 b
+=2, vol70 2. <d# b> 8 [d# 16 e f#]
+|
+=1' vol80 8 [B 16 c# d] 8 [eb f] 2 en
+=1, vol80 4 E 8 [F 16 F# G] 2 G#
+=1, vol70 2 blank 8 blank D 16 [Eb F 8 F#]
+=2' vol70 2 g#r 8 [bb 16 bn c~#] 4 d~
+=2, vol70 2. <f# d~> 8 [f# 16 g a]
+Il .05 .02 nah...
+
+midi off
+
+6 systems /19-30-19/
+pagenum
+title 10.  Passing Notes
+midi channel 0 patch 0
+# TiM 90 and 91 both nice :-)
+
+/
+4 bars | 11 | 5 5 5 5 5 5 5 2 \
+ | 5 5 5 5 5 5 5 2 | 5 5 5 5 5 5 5 2 |
+| .5
+# AO p.19
+=1' treble cha0 vol100 leg100 4 <A_ C Dx E F#x>
+I0.4    f
+=2, bass   cha0 vol100 leg100 4 <A cx d ex f#>
+| 2.0
+=1' 2 <A_ B_x C# Ebx F#> 4 <A_ Cn Dx En F#x> <Cx D Ex F# A>
+=2, 2 <Axr B c#x eb f#> 4 <A cnx d enx f#> <cx d ex f# a>
+|
+=1 2 <Cr Eb Fx G Ax> 4 <C Dx Enl F#xl A> <A_ C Dx E' F#llx'>
+=2 2 <c,rr ebx, f gx a> 4 <cx, d, enxl f#l a> <Al cxlll dll' exll' f#'>
+|
+=1 2 <A_ B_x C# Ebx F#'> 4 <A_l Cnlll Dxll Enll' F#x'> <Cxlll, Dll, Exll F# A>
+=2  2 <Ar Bx c# eb' gb'> 4 <Al cnlll dllx' enll' f#x'> <cxlll, dll exll f# a>
+/
+3 bars | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 \
+ | 6 5 5 6 5 6 5 4 |
+|
+=1' 4. <C, Ebx, F Gx A> 4 <C#x Eb Fx Gl Bb> 4 <C# En F# G# Bb> 8 <Dxl(2 El F# G#x Bb(1>
+I0.5 .90 p
+=2, 4. <c, ebx, f gx a> 4 <c#x eb fx gl bb> 4 <Bb c# en f# g#> 8 <G#(2 Bb dx' e' f#x'(1>
+|
+il0.7 .03 5
+i0.7 .18 f#224
+=1' vol70 4. Bb)1(1 4 Bb)1 4. Bb
+=1, vol70 leg105 4. D)2 4 Eb 4. En
+=2' vol70 leg105 8 [f#)1 g f#] [fn g] [g# a bb]
+=2, vol70 4. G#)2(2 4 G#)2 4. F#
+|
+i0.7 .01 eb242
+=1' vol70 4. <B_r A> 4 <Cr Bb> 4. <C#r A>
+=1, vol70 8 [Eb En Eb] [D En] [F F# G]
+=2' vol70 8 [eb en eb] [d en] [f f# g]
+=2, vol70 4. F 4 F# 4. G
+/
+3 bars | 5/4 5 5 5 5 5 5 5 5 5 4 | 4/4 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 |
+| 2.5
+i0.7 .01 f#224
+=1' 5/4 vol70 4. Bb(1 4 Bb)1 4. Bb vol100 4 <D Ex F# G# Bn>
+=1, 5/4 vol70 leg105 4. D 4 Eb 4. En 4 blank
+I0.5 .83 f
+=2' 5/4 vol70 leg105 8 [f# g f#] [fn g] [g# a bb] 4 blank
+=2, 5/4 vol70 4. G#(2 4 G#)2 4. F# 4 vol100 <d, ex, f# g# bn>
+| 2.0 
+=1' 4/4 vol105 2 <D Fx G Ax B(1> 4 <D Ex F# G# B)1> <B_l Dlll Exll F#ll G#x>
+=2, 4/4 vol105 2 <d fx g ax b(1> 4 <d ex f# g# b)1> <Bl dxlll ell f#xll g#>
+|
+=1 2 <B_(2 C#x Eb Fx G#'> 4 <B_)2 Dlll Enxll F#ll' G#x'> <Dxlll, Ell, F#xll G# B>
+=2 2 <Br(2 c#x eb f' g#'> 4 <B)2 dlll enxll' f#ll' g#x'> <dxlll, ell f#xll g# b>
+/
+3 bars | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 | 5/4 5 5 5 5 5 5 5 5 5 4 |
+|
+il0.7 .03 10
+=1' 4. <D, Fx, G Ax B> 4 <Ebx F Gx Al c> 4 <Eb F# G# Bb c> 8 <Enxl(2 F#l G# Bbx c(1>
+I0.6 .85 p
+=2, 4. <d, fx, g ax b> 4 <ebx f gx al c~> 4 <c eb f# g# bb> 8 <Bb(2 c enx' f#' g#x'>
+|
+i0.7 .01 bb224
+=1' vol75 4. c)1(1 4 c)1 4. Bb
+=1, vol75 4. D(2 4 D)2 4. D
+=2' vol75 leg105 4. f# 4 g 4. g#
+=2, vol75 leg105 8 [Bb)2 Bn Bb] [A Bn] [c c# d]
+| 2.5
+i0.7 .01 b224
+=1' 5/4 vol75 8 [B c B] [Bb c] [c# d eb] 4 blank
+=1, 5/4 vol75 4. C#(2 4 C#)2 4. B_ vol110 4 <G A Bn c# en>
+I0.7 .76 f
+=2' 5/4 vol75 4. g 4 g# 4. a 4 blank
+=2, 5/4 vol75 4. eb(2 4 eb)2 4. eb vol110 4 <gn a b c~# e~n>
+/
+3 bars | 4/4 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 |
+| 2.0
+=1  4/4 2 <Gr, Bbx c dx e> 4 <Gx, A, Bnx c# e> <E Gx A Bnx' c#'>
+=2, 4/4 2 <gr bbx c~ d~x e~> 4 <gx a bnx c~# e~> <e gx a bx c~#>
+|
+=1, 2 <Fxr G Ax B d> 4 <F Ablx Bbl cx d> <Ablx Bbl cx d f>
+=2, 2 <fxr g ax b d~> 4 <f ablx bbl c~x d~> <ablx bbl c~x d~ f~>
+|
+=1 8 [e g f#] [a g] [bb a c~]
+=2 4. ab(2 4 ab)2 4. ab
+
+midi off
+6 systems /19-30-19/
+|
+i0.7 .02 I think it goes off the rails round here
+=1' 4. <E F# G# A# db> 4 <D# F# G# A# c> <D# Fn Gn An c> 8 <Dn F G A B(1>
+=2, 4. <e f# g# a# d~b> 4 <d# f# g# a# c~> <d# fn gn an c~> 8 <dn f g a b>
+| 2.0
+il0.7 .03 15
+=1' vol75 8 [B)1 c B] [Bb c] [c# d eb]
+# 4 blank
+=1, vol75 4. C#(2 4 C#)2 4. B_ vol110
+# 4 <G A Bn c# en>
+I0.7 .76 f
+=2' vol75 4. a 4 g# 4. a
+# 4 blank
+=2, vol75 4. eb(2 4 eb)2 4. eb vol110
+# 4 <gn a b c~# e~n>
+/
+3 bars | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 |
+| 2.0
+=1, vol110 4. <G, Bb c d e> 4 <G, A, Bn c# e> <F#, A, Bn c# eb> 8 <F# G# A# cn eb(1>
+I0.6 .93 mp
+=2, vol110 4. <g, bb c~ d~ e~> 4 <g, a, bn c~# e~> <f#, a, bn c~# e~b> 8 <f# g# a# c~n e~b>
+|
+=1' vol85 8 [eb)1 d en] [eb f] 4. blank
+=1, vol85 4. A 4 Bbl vol110 4 <Ab Bb c# eb f#> 8 <G Bb c# eb fn>
+I0.7 .56 f
+=2' vol85 4. c~# 4 c~# 4. blank
+=2, vol85 4. f 4 fl vol110 4 <ab bb c~# e~b f~#> 8 <g bb c~# e~b f~n>
+
+
+6 systems /19-30-19/
+
+midi off
+/
+3 bars | 30 | 30 |
+|
+i0.7 .01 f#224
+=1' vol80 4. g#(1 4 g#)1 4. f#
+# 4 gn(1
+=1, vol80 4. Bb(2 4 Bb)2 4. Bb
+# 4 A(2
+=2' vol70 leg105 4. d~ 4 e~b 4. e~n
+# 4 e~b
+=2, vol70 leg105 8 [f# g f#] [fn g] [g# a bb]
+# 4 bn(2
+|
+i0.7 .01 g224
+=1' vol70 8 [g g# gn] [f# g#] [a bb bn]
+# 4 c~
+=1, vol80 4. A(2 4 A)2 4. G
+# 4 G#
+=2' vol70 4. e~b 4 e~n 4. f~
+# 4 e~
+=2, vol80 4. b(2 4 b)2 4. b
+# 4 bb
+|
+i0.9 e242
+=1' vol80 8 [e~ f~ e~] [e~bl f~] [f~# g~ g~#]
+# 4 a~
+=1, vol80 4. c~ 4 c~#lr 4. d~
+# 4 e~b
+=1, vol80 4. f# 4 gr 4. g#
+# 4 a
+=2' vol80 8 [e~ f~ e~] [e~b f~] [f~# g~ g~#]
+# 4 a~
+=2, vol80 4. bb 4 bnl 4. c~
+# 4 c~#
+
+midi off
+
+/
+4 bars | 15 | 5 5 5 5 5 5 5 5 5 2 \
+ | 5 5 5 5 5 5 5 5 5 2 | 5 5 5 5 5 5 5 5 5 2 |
+| .90
+# Hmmm  AO p.19 is 6st lower than this...   20140323
+# plan: these 4.3 bars -6st, then the bb224 bars +8st ; should join up.
+# but that puts the +800 bars much too high :-(
+=1' treble 10/8 cha0 vol80 leg100 4. <Eb Gb Abx Bb cx>
+I0.5 .01 f
+=2, bass   10/8 cha0 vol80 leg100 4. <eb gbx ab bbx c~>
+| 3.0
+=1  2 <Eb Fx G Ax c'> 4. <Eb Gb Abx Bb' cx'> <Gbx, Ab, Bbx c eb>
+=2, 2 <ebrx f gx a c~> 4. <eb gbx ab bbx c~> <gbx ab bbx c~ e~b>
+|
+=1  2 <F#, Ax, B dbx eb> 4. <Gb, Abx, Bb c eb> <Ebl Gblll Abllx Bbll' cx'>
+=2 2 <f#, ax, b d~bx e~b> 4. <gb, abx, bb c~ e~b> <ebl gblllx abll bbllx c~>
+|
+=1  2 <Eb Fx G Ax c'> 4. <Ebl Gblll Abllx Bbll' cx'> <Gblllx, Abll, Bbllx c eb>
+=2, 2 <ebrx f gx a c~> 4. <ebl gblllx abll bbllx c~> <gblllx abll bbllx c~ e~b>
+/
+3 bars | 5 5 5 5 5 5 5 5 5 4 |
+|
+=1, 2 <F#, Ax, B dbx eb> 4. <Gx A Bx dbl en> \
+ 4 <G Bb cn dn en> 8 <Abxl Bbl c dx e>
+=2, 2 <f#, ax, b d~bx e~b> 4. <gx a bx d~bl e~n> \
+ 4 <g bb c~n d~n e~n> 8 <abxl bbl c~x d~ e~>
+
+midi off
+
+# 201403230 book AO 18
+/
+5 bars | 8/8 21 | 12 12 12 12 12 12 12 21 \
+ | 5/8 12 12 12 12 21 | 3/8 12 12 21 | 3 3 3 3 5 5 5 11 3 3 3 4 |
+| 0.4
+=1 treble 8/8 cha0 vol100 32 [d~ d~ d~ d~]
+I0.5 .01 f
+=2 bass 8/8 cha0 vol100 32 [C_ C_ C_ C_]
+| 3.2
+=1 8 e 4. rest 4. rest 32 [d d d d]
+=2 8 F_# 4. rest 4. rest 32 [C_ C_ C_ C_]
+| 2.0
+=1 5/8 8 F 4. rest 32 [d d d d]
+=2 5/8 8 G_ 4. rest 32 [C C C C]
+| 1.2
+=1 3/8 8 E rest 32 [D D D D]
+=2 3/8 8 G# rest 32 [C C C C]
+|
+=1 8 F_ 32 [D D D D] 8 F_#(2
+I0.1 .60 p
+=2 8 A 32 [C C C C] 8 A#(1
+# midi on
+/
+2 bars | 5/4 30 | 30 |
+| 3.0
+i0.7 .01 bb224
+=1' 5/4 vol80 4. D(1 4 D)1 4. D 4 C#
+=1, 5/4 vol70 leg105 4. F_#)2 4 G_ 4. A_b 4 G_
+=2' 5/4 vol70 leg105 8 [A#)1 B A#] [An B] [c c# d] 4 eb
+=2, 5/4 vol80 4. C(2 4 C)2 4. B_b 4 A_
+|
+i0.7 .01 g242
+=1' vol80 8 [G Ab G] [F# G#] [An A# B] 4 c(1
+=1, vol80 4. C# 4 D 4. C# 4 D(2
+=2' vol80 8 [g ab g] [f# g#] [an a# b] 4 c~
+=2, vol80 4. eb 4 en 4. f 4 f#
+=2, vol80 4. A 4 A# 4. B 4 A#(2
+/
+2 bars | 30 | 30 |
+|
+i0.7 .01 bb224
+=1' vol80 4. c)1(1 4 c)1 4. A# 4 B(1
+=1, vol80 4. D)2(2 4 D)2 4. D 4 C#(2
+=2' vol70 leg105 4. f# 4 g 4. ab 4 g
+=2, vol70 leg105 8 [A#)2 B A#] [An B] [c c# d] 4 eb(2
+|
+i0.7 .01 b224
+=1' vol70 8 [B)1 c B] [A# c] [c# d d#] 4 en
+=1, vol80 4. C#)2(2 4 C#)2 4. B_ 4 Cn
+=2' vol70 4. g 4 g# 4. a 4 g#
+=2, vol80 4. eb)2(2 4 e)2 4. eb 4 d
+/
+2 bars | 30 | 30 |
+|
+i0.7 .01 ab242
+=1' vol80 8 [g# a g#] [gnl a] [bb bn c~] 4 c~#
+=1, vol80 4. e 4 fnrl 4. f# 4 g
+=1, vol80 4. A# 4 Br 4. c 4 c#
+#=1, vol80 8 [G# A G#] [Gn A] [A# Bn c] 4 c#
+=2' vol80 8 [g# a g#] [gn a] [bb bn c~] 4 c~#
+=2, vol80 4. d 4 ebl 4. en 4 f
+
+midi off
+
+6 systems /18-30-19/
+
+# 20140313
+# Goal: I want to establish the 2 x 5/8 metre
+# A passing note that comes within a semitone of a chord-note
+#   must resolve to it, or turn back.
+#   Particularly bad is to trample through it,
+#   from a dischord on one side to a dischord on the other and onwards...
+# Only one passing-note at once is advised.
+/
+3 bars | 12 | 60 | 60 |
+| 0.35
+# This downward motion is more like the ending. Here we want elan...
+=1, treble cha0 vol110 32 [f e eb db]
+I0.5 .09 ff
+=2' bass   cha0 vol110 32 [B c c# d#]
+| 3.5
+=1  4 <c c~> rest 32 [c~ bb ab gb] 4 <e e~> rest leg105 vol65 8 d
+I0.5 .75 p
+=2' 4 <E e>  rest 32 [E F# G# A#]  4 <C c>  rest leg105 vol60 treble 8 rest
+|
+# too much the usual squirmy...
+=1' 4 d 8 c# 8 [d 8 e] 4. f# 8 e 4 d#
+=1, 8 rest, rest, 8 Bb(2 4. Bb)2 8 cn 4 d 4 A
+=2' 4. G#l  4 leg95 Gn 4. G#-P 8 F# 4 Fn
+=2, 4. F#lr 4 E 4 D 8 [B_b C-*] 4 C#-P
+# =2 1 <C#-P F>
+/
+2 bars | 60 | 60 |
+# |
+# =1 1 <A d#>
+# =2 1 <C#-P F>
+
+
+4 systems /19-25-19-30-19/
+# title AK 20120703
+/
+3 bars |: 36 | 36 | 36 |
+| 2.4
+=1 treble 4 rest vol100 leg100 83 [eb d-I3 db] 4 c
+=2 treble 8 rest vol65 leg100 4 <A_ B_x> <A_ B_x> 8 <A_b C>
+=3' bass  8 rest' vol65 leg100 4 f f 8 e
+=3, bass vol90 leg100 2 G 4 Ab
+|
+=1  4 rest vol100 83 [d d#-I3 e] 4 f
+=2  8 rest vol65  4 <A_ B_x> <A_ B_x> 8 <B_ D#>
+=3' 8 rest' vol65  4 f f 8 f
+=3, 2 vol90 G 4 db
+|
+=1  4 rest vol100 83 [f# g-I3 g#] 4 a
+=2  8 rest vol65  4 <B_b E> <B_b E> 8 <A_n F>
+=3' 8 rest' vol65  4 ab ab 8 g
+=3, 2 vol90 c 4 db
+/
+3 bars | 36 | 36 | 36 |
+|
+# =1  4 rest rest vol100 83 [ab g-I3 gb]
+=1  4 rest rest vol100 83 [gb f-I3 e]
+=2  8 rest vol65  4 <B_b E> <B_b E> 8 <D F#>
+=3' 8 rest' vol65  4 ab ab 8 ab
+=3, 2 vol90 c 4 e
+|
+=1  vol100 2 f 83 [d d#-I3 e]
+=2  8 rest vol65  4 <Db G> <Db G> 8 <C Ab>
+=3' 8 rest'' vol65  4 a a 8 bb
+=3, 2 vol90 eb 4 gb
+|
+=1  vol100 2 f 83 [gb f-I3 e]
+=2' 8 rest vol65  4 <Eb A> <Eb A> 8 <D Bb>
+=3' 8 rest'' vol65  4 b b 8 c~
+=3, 2 vol90 f 4 ab
+|
+=1  vol100 2 eb 4 rest
+=2' vol65  8 rest 4 <Eb B> <Eb B> 8 <Eb A>
+=3' vol65  8 rest'' 4 c~# c~# 8 b
+=3, vol90  2 g 4 c#
+|
+=1  vol100 83 [bb a-I3 ab] 4 g 83 [gb f-I3 e]
+=2  vol65  8 rest 4 <C# G> <C# G> 8 <C E>
+=3' vol65  8 rest' 4 b a 8 ab
+=3, vol90  2 D# 4 E
+|
+=1  vol100 4 eb 83 [eb d-I3 db] 4 c
+=2  vol65  8 rest 4 <C# G> <C# G> 8 <C E>
+=3' vol65  8 rest' 4 b a 8 ab
+=3, vol90  2 F 4 F#
+| 2.4
+=1 treble 4 B vol100 leg100 83 [eb d-I3 db] 4 c
+=2 treble 8 rest vol65 leg100 4 <A_ B_x> <A_ B_x> 8 <A_b C>
+=3' bass  8 rest' vol65 leg100 4 f f 8 e
+=3, bass vol90 leg100 2 G 4 Ab
+|
+=1  4 rest vol100 83 [d d#-I3 e] 4 f
+=2  8 rest vol65  4 <A_ B_x> <A_ B_x> 8 <B_ D#>
+=3' 8 rest' vol65  4 f f 8 f
+=3, 2 vol90 G 4 db
+|
+=1  4 rest vol100 83 [f# g-I3 g#] 4 a
+=2  8 rest vol65  4 <B_b E> <B_b E> 8 <A_n F>
+=3' 8 rest' vol65  4 ab ab 8 g
+=3, 2 vol90 c 4 db
+|
+=1  4 rest rest vol100 83 [ab g-I3 gb]
+# =1  4 rest rest vol100 83 [gb f-I3 e]
+=2  8 rest vol65  4 <B_b E> <B_b E> 8 <D F#>
+=3' 8 rest'' vol65  4 ab ab 8 ab
+=3, 2 vol90 c 4 e
+|
+=1  vol100 2 f 83 [d d#-I3 e]
+=2  8 rest vol65  4 <Db G> <Db G> 8 <C Ab>
+=3' 8 rest'' vol65  4 a a 8 bb
+=3, 2 vol90 eb 4 gb
+|
+=1  vol100 2 f 83 [gb f-I3 e]
+=2' 8 rest vol65  4 <Eb A> <Eb A> 8 <D Bb>
+=3' 8 rest'' vol65  4 b b 8 c~
+=3, 2 vol90 f 4 ab
+|
+=1  vol100 2 eb 4 rest
+=2' vol65  8 rest 4 <Eb B> <Eb B> 8 <Eb A>
+=3' vol65  8 rest'' 4 c~# c~# 8 b
+=3, vol90  2 g 4 c#
+|
+=1  vol100 83 [bb a-I3 ab] 4 g 83 [gb f-I3 e]
+=2  vol65  8 rest 4 <C# G> <C# G> 8 <C E>
+=3' vol65  8 rest' 4 b a 8 ab
+=3, vol90  2 D# 4 E
+|
+=1  vol100 4 eb 83 [eb d-I3 db] 4 c
+=2  vol65  8 rest 4 <C# A> <C# G> 8 <C F#>
+=3' vol65  8 rest' 4 b b 8 a
+=3, vol90  2 F 4 F#
+|
+=2 vol65  8 rest 4 <B_b D F> <B_b D F> 8 <B_nl C#xl E>>
+=3, vol90  2 G 4 G#
+|
+=2 vol65  8 rest 4 <B_b D F> <B_b D F> 8 <B_nl D#l F#>
+=3, vol90  4 G g g#
+|
+=2 vol65  8 rest 4 <C E G> <C#l D#xl F#l> 8 <Dn Ex G>
+=3, vol90  4 a a# b
+@
+
+
+1.20
+log
+@enough for today
+@
+text
+@d150 2
+a151 2
+=2' 83 [A# B-I3 c] vol100 16 [d B c An] \
+ [Bb F# Gn C] 4 G_#
+d156 2
+a157 1
+=2, vol75 2 <g#rr b c~#x e~bxl f~> leg80 4 <g# bb c~n d~ f~> leg100 <gn(2 bb c~ d~ e~n(1>
+d159 1
+d166 1
+d180 1
+a180 1
+=1 2. blank 16 [B c d d#]
+d185 2
+a186 1
+=1 8 e 4 c# 8 e 16 [d c# B Bb] 4 A
+d189 1
+a189 1
+=1 4 rest 16 [c c# d# e] 2 f
+d199 1
+a199 1
+=1 8 c 4 Ab 8 c 16 [ab g f e] 4 eb
+@
+
+
+1.19
+log
+@needs another 8 bars of RH
+@
+text
+@d123 3
+a125 1
+=1, 2 <Ar c dx e f#x> leg80 4 <A Bx c#lll ebxl f#l> leg100 <G#l(2 Bx c#lll ebxl fnl(1>
+d129 1
+a129 1
+=1, leg80 4 <G#xrrrll)2 Bbll cx d f)1> leg100 \
+d136 2
+a137 2
+ <F#ll G#xll Bbl cnxl eb> leg100 \
+ <Ebll(2 F#xll G#l Bbl cx(1>
+d145 1
+a145 1
+=1' 2 <C#lr E F#xll G#ll Bbl> leg80 4 \
+d150 2
+a151 1
+=2' 83 [c# d-I3 d#] vol100 16 [e cn c# G#] [Bb F# Gn C#] 4 G_#
+d156 1
+a156 1
+=2, vol75 2 <g# b c~# e~b f~> leg80 4 <g# bb c~n d~ f~> leg100 <gn(2 bb c~ d~ e~n(1>
+@
+
+
+1.18
+log
+@still worryingly incoherent
+@
+text
+@d133 4
+a136 1
+=1' 2 <F#rl Ax B c#xll d#ll> leg80 4 <F# G# Bb cn eb> leg100 <Eb(2 F# G# Bb c(1>
+d138 2
+a139 1
+=1' 2 <Eb)2 F G A c)1> leg80 4 <C Ebx F Gx A> leg100 <Dbxll Ebll Fx G Bb>
+d143 3
+a145 1
+=1' 2 <C# E F# G# Bb> leg80 4 <C# Eb Fn Gn Bb> leg100 <B_b(2 C# Eb F G(1>
+d147 2
+a148 1
+=1' leg80 4 <B_b)2 C D E G)1> leg100 2 <G_ B_b C D E> 4 <G_# B_b C D F>
+d179 1
+a179 1
+=1 2 e 16 [d c# B Bb] 4 A
+d183 2
+a184 1
+=2' 2 <Eb)2 F# G#x Bb cx)1> leg90 4 <Eb Fnx Gnll Axll c> leg100 <D(2 F Gx Al Bn(1>
+d190 1
+a190 1
+=2' 2 <Dlr)2 Exl F#l G#x B)1> leg90 4 <Dl Fn Gnxll All B> leg100 <F Gx A Bll dxll>
+d192 2
+a193 2
+=1 2 c 16 [ab g f e] 4 eb
+=2' leg80 4 <Fr G#x Bb cx d> leg100 2 <G#x Bb cx d f> 4 <Gn(2 Bb cx dl exl(1>
+d197 2
+a198 2
+=1 4 rest 16 [g f# e eb] 2 d
+=2' 2 <Grr)2 Axl Bl c# ex)1> leg90 4 <Gx Bbx cn dxll ell> leg100 <G#xl Bb cx dl f>
+d200 2
+a201 2
+=1 16 [c# d d# e] 2 f 16 [A#, B cn c#]
+=2' 2 <G#r Bx c# ebx f> leg90 4 <Bx c# ebx f g#> leg100 <Bb(2 c#x eb fx gn(1>
+d205 3
+a207 2
+=1 1 d
+=2, 2 <Bbxrrr)2 c dxll ell g)1> leg90 4 <Bb c#xll ebll fx g> leg100 <c#x(2 eb fx g bb(1>
+d210 3
+a212 1
+=2, leg80 4 <c#rrr)2 exll f#ll g#x bb)1> leg100 2 <exllr f#ll g#x bb c~#> leg100 vol75 4 <eb f#x g# bbx c~n>
+@
+
+
+1.17
+log
+@plausible to bar 16 ?
+@
+text
+@d78 1
+a78 1
+=2' 8 E [e A Ab(2] A)2 4 G 8 Gb(2
+d82 1
+a82 1
+=2 8 Gb)2 2 F 8 [F# Gn G#]
+d91 1
+a91 1
+=2' 16 [e c# d B] 83 [G# rest,,-I3 F#] \
+d105 4
+a108 3
+  2 <A Bx c#ll ebxll f#l> 4 <A(4 cn(2 d(5 en(3 f#(1>
+=2 83 [d# e-I3 f] 16 [f#' dn' eb' A#] \
+ [B G# An Eb] 4 D
+d113 4
+a116 1
+=1, 2 <A)4 c)2 d)5 e)3 f#)1> leg80 4 <A B c# eb f#> leg100 <G#(2 B c# eb fn(1>
+d118 2
+a119 1
+=1, 2 <G#)2 Bb c d f)1> leg80 4 <G# Bn c# eb f> leg100 <A B c# eb f#>
+d123 2
+a124 1
+=1, 2 <A c d e f#> leg80 4 <A B c# eb f#> leg100 <G#(2 B c# eb fn(1>
+d127 3
+a129 1
+=1, leg80 4 <Ab)2 Bb c d f)1> leg100 2 <F Ab Bb c d> 4 <F# Ab Bb c eb>
+d133 1
+a133 1
+=1' 2 <F# A B c# d#> leg80 4 <F# G# Bb cn eb> leg100 <Eb(2 F# G# Bb c(1>
+d135 1
+a135 1
+=1' 2 <Eb)2 F G A c)1> leg80 4 <C Eb F G A> leg100 <Db Eb F G Bb>
+d192 1
+d197 1
+d212 1
+a212 1
+=2' 4 <exllr f#ll g#x bb c~#> 4 <eb f#x g# bbx c~n>
+@
+
+
+1.16
+log
+@badly stuck on the free voice
+@
+text
+@d63 4
+a66 2
+=2 vol110 83 rest [E-I3 F#] 16 [G A c B] [Bb c c# d'] 83 [cn A-I3 Bb]
+I0.2 .05 f
+d71 2
+a72 2
+=2 16 [B G# A F#] 83 [Eb rest,,-I3 C#] \
+ [D En-I3 Fn] 16 [F# Gn Bb A]
+d77 3
+a79 3
+=2' 16 [B c c# d] 83 [cn G#-I3 A] \
+ [E rest,-I3 Gn] 16 [A Bb db c]
+|
+d81 2
+a82 1
+=2  83 [c#, e-I3 f] 16 [g e f d] [eb' cn c# A#] 83 [B rest--I3 cn]
+d87 1
+d91 2
+d99 2
+d106 2
+a107 1
+
+@
+
+
+1.15
+log
+@prototype ending sketch
+@
+text
+@d15 1
+d21 1
+d53 1
+d56 1
+a56 1
+I0.7 .71 mp
+d103 1
+a103 1
+=1, 2 <A)4 c)2 d)5 e)3 f#)1> leg80 4 <A B c# eb f#> leg100 <G# B c# eb fn>
+d105 1
+a105 1
+=1, 2 <G# Bb c d f> leg80 4 <G# Bn c# eb f> leg100 <A B c# eb f#>
+d109 1
+a109 1
+=1, 2 <A c d e f#> leg80 4 <A B c# eb f#> leg100 <G# B c# eb fn>
+d112 1
+a112 1
+=1, leg80 4 <Ab Bb c d f> leg100 2 <F Ab Bb c d> 4 <F# Ab Bb c eb>
+d116 1
+a116 1
+=1' 2 <F# A B c# d#> leg80 4 <F# G# Bb cn eb> leg100 <Eb F# G# Bb c>
+d118 1
+a118 1
+=1' 2 <Eb F G A c> leg80 4 <C Eb F G A> leg100 <Db Eb F G Bb>
+d122 1
+a122 1
+=1' 2 <C# E F# G# Bb> leg80 4 <C# Eb Fn Gn Bb> leg100 <B_b C# Eb F G>
+d124 1
+a124 1
+=1' leg80 4 <B_b C D E G> leg100 2 <G_ B_b C D E> 4 <G_# B_b C D F>
+d129 1
+a129 1
+=2, vol75 2 <g# b c~# e~b f~> leg80 4 <g# bb c~n d~ f~> leg100 <gn bb c~ d~ e~n>
+d131 1
+a131 1
+=2, 2 <g a b c~# e~> leg80 4 <g bb c~n d~ e~> leg100 <g# bb c~ d~ f~>
+d135 1
+a135 1
+=2, 2 <g# b c~# e~b f~> leg80 4 <g# bb c~n d~ f~> leg100 <gn bb c~ d~ e~n>
+d137 1
+a137 1
+=2, leg80 4 <g a b c~# e~> leg100 2 <e g a b c~#> 4 <f g a b d~>
+d141 1
+a141 1
+=2, 2 <fxrr g# bbx c~ d~x> leg80 4 <fx gn ax bn d~> leg100 <d fx g ax b>
+d144 1
+a144 1
+=2, 2 <dx e f#x g# b> leg80 4 <B dx e f#x g#> leg100 <Bx c# ebx fn ab>
+d148 1
+a148 1
+=2' 2 <G# B c#x eb fx> leg80 4 <G# Bbx cn dx f> leg100 <F Ab Bbx c dx>
+d150 2
+a151 1
+=2' leg80 4 <F Gnx An Bnx d> leg100 2. <D Fn Gnx An Bx>
+d155 2
+a156 1
+=2' 2 <D Ex F# G#x B> leg80 4 <D Fn Gnx A Bx> leg100 <Eb Fx G Ax c>
+d158 2
+a159 1
+=2' 2 <Eb F# G#x Bb cx> leg90 4 <Eb Fnx Gnll Axll c> leg100 <D F Gx Al Bn>
+d164 2
+a165 1
+=2' 2 <Dlr Exl F#l G#x B> leg90 4 <Dl Fn Gnxll All B> leg100 <F Gx A Bll dxll>
+d167 2
+a168 1
+=2' 2 <Fr G#x Bb cx d> leg80 4 <G#x Bb cx d f> leg100 <Gn Bb cx dl exl>
+d172 2
+a173 1
+=2' 2 <Grr Axl Bl c# ex> leg90 4 <Gx Bbx cn dxll ell> leg100 <G#xl Bb cx dl f>
+d175 1
+a175 1
+=2' 2 <G#r Bx c# ebx f> leg90 4 <Bx c# ebx f g#> leg100 <Bb c#x eb fx gn>
+d179 1
+a179 1
+=2, 2 <Bbxrrr c dxll ell g> leg90 4 <Bb c#xll ebll fx g> leg100 <c#x eb fx g bb>
+d182 1
+a182 1
+=2, leg80 4 <c#rrr exll f#ll g#x bb> leg100 2 <exllr f#ll g#x bb c~#> leg100 vol75 4 <eb f#x g# bbx c~n>
+d187 1
+a187 1
+|
+d191 1
+a191 1
+|
+d195 1
+a195 1
+|
+@
+
+
+1.14
+log
+@chords to bar 40?
+@
+text
+@d175 13
+@
+
+
+1.13
+log
+@chords to bar 33 ?
+@
+text
+@d152 22
+@
+
+
+1.12
+log
+@I think we're on our way...
+@
+text
+@d1 1
+a1 1
+6 systems /19-30-19/ 19-40-19/ 19-30-19/
+d30 1
+a30 1
+=1 2 <A_r Cx D Ex F#> leg90 4 <Cx D Ex F# A> \
+d32 1
+a32 1
+=2' 2 <Ar cx d ex f#> leg90 4 <cx d ex f# a> \
+d87 50
+a136 3
+il0.7 .03 15
+=1' 2 <Ebrr Fx Gll Axll c> leg90 4 \
+ <Eblll F#xll G#ll Bb cx> leg100 <F#ll G#xll Bbll cx eb>
+d138 14
+a151 3
+=1, leg80 4 <F#rr A Bx c#ll ebl> leg100 \
+ 2 <A Bx c#ll ebxll f#l> vol75 4 <G# B c#xl ebxll fnl>
+
+@
+
+
+1.11
+log
+@to bar 12 ?
+@
+text
+@d35 2
+a36 1
+4 bars | 5 5 5 5 5 5 5 4 |
+d51 2
+a52 2
+=1' 2 <Frr Abll Bbxll c dx>  leg80 4 <Abll Bbxll c dx f> \
+ leg100 vol75 <G Bb cx d ex>
+d54 2
+a55 2
+=2, 2 <frrr abxll bbll c~x d~> leg80 4 <abxll bbll c~x d~ f~> \
+ leg100 vol75 <g bbx c~ d~x e~>
+d63 1
+a63 1
+il0.7 .02  10
+d75 2
+a76 2
+=1' 2 <B_brll C#xll Eb Fx G> leg90 4 <C# Ebl Fx G Bb> leg100 <Cnl Eb Fx G Ax>
+=2  83 [c#, e-I3 f] 16 [g e f d] [eb' cn c# A#] 83 [B rest,-I3 cn]
+d79 15
+@
+
+
+1.10
+log
+@add those cursed x's and l's to bars 1-10
+@
+text
+@d50 5
+a54 2
+=1' 2 <Frr Abll Bbxll c dx>   4 <Abll Bbxll c dx f>    <G Bb cx d ex>
+=2, 2 <frrr abxll bbll c~x d~> 4 <abxll bbll c~x d~ f~> <g bbx c~ d~x e~>
+d56 1
+a56 1
+2 bars | 5 5 5 5 5 5 5 4 |
+d60 1
+d62 1
+d65 4
+d71 2
+d75 3
+@
+
+
+1.9
+log
+@a more musical and more fertile beginning ?
+@
+text
+@d15 9
+a23 5
+=1' 2 <F_#rl G_#xl B_bl Cx Eb> leg90 4 <F_# A_ B_nx C# Eb> leg100 <G_n A_ B_ C# En>
+=2' 2 <F#lr G#lx Bbl cx eb> leg90 4 <F# A Bnx c# eb> leg100 <Gn A Bx c# en>
+|
+=1 2 <G_ B_b C D E> leg90 4 <G_ A_ B_n C# E> leg100 <F_# A_ B_x C#' Ebxll'>
+=2' 2 <G Bb c d e> leg90 4 <G A Bnx c#l e> leg100   <F# A Bx c#l' eb'>
+d25 9
+a33 5
+=1' 2 <F_#rl G_#xl B_bl Cx Eb> leg90 4 <F_# A_ B_nx C# Eb> leg100 <A_ B_x C# Eb F#x>
+=2' 2 <F#lr G#lx Bbl cx eb> leg90 4 <F# A Bnx c# eb> leg100 <A Bx c# eb f#x>
+|
+=1 2 <A_ C Dx E F#lx> leg90 4 <C Dx E F#lx A> leg100 <B_ Dx E F#lx G#>
+=2' 2 <A c dx e f#lx> leg90 4 <c dx e f#lx a> leg100 <Bx dx e f#lx g#>
+d38 8
+a45 6
+=1' 2 <B_ C# D# F G#> leg90 4 <B_ Dnx E F#lx G#> leg100 <Cn Dnx E F#lx A>
+=2, 2 <B c# d# f g#> leg90 4 <Bx dnx e f#lx g#> leg100 <cn dnx e f#lx a>
+|
+i0.8 .01 try to rise 12st somehow, then RH recycles the chords, LH runs 16,83
+=1' 2 <C Eb F G A> leg90 4 <Eb F G A c> leg100 <D F G A B>
+=2, 2 <c eb f g a> leg90 4 <eb f g a c~> leg100 <d f g a b>
+d47 2
+a48 2
+=1' 2 <D E F# G# B> leg90 4 <D Fn Gn A B> leg100 <F G A B d>
+=2, 2 <d e f# g# b> leg90 4 <d fn gn a b> leg100 <f g a b d~>
+d50 2
+a51 2
+=1' 2 <F Ab Bb c d>   4 <Ab Bb c d f>    <G Bb c d e>
+=2, 2 <f ab bb c~ d~> 4 <ab bb c~ d~ f~> <g bb c~ d~ e~>
+d55 9
+a63 2
+=1' 2 <G_lr A_xl B_l C#x E> leg90 4 <G_ B_b Cnx D E> leg100 <G_# B_b Cx D F>
+=2 vol110 83 rest [E-I3 F#] 16 [G A c B] [Bb c c# d'] 83 [c A-I3 Bb]
+@
+
+
+1.8
+log
+@try another restart
+@
+text
+@d1 1
+a1 1
+6 systems /19-30-19/
+d6 42
+d49 3
+d73 1
+d77 9
+a85 1
+=2, 4 <Ar)2 cx d ex f#l)1> 4 <Bbx(2 c dx el g(1> 4 <Bbx)2 c#(4 ebx(2 fn(3 gx)1> <Bnl c#xl)4 ebl)2 fx)3 ab>
+d87 6
+a92 2
+=1' vol80 2 <B_r Fn>
+=2, vol70 2 <c#xlrr d#l g#>
+@
+
+
+1.7
+log
+@much footling
+@
+text
+@d11 37
+d119 11
+a129 2
+=1  4/4 2 <G, Bb c d e> 4 <G, A, Bn c# e> <E G A Bn' c#'>
+=2, 4/4 2 <g bb c~ d~ e~> 4 <g a bn c~# e~> <e g a b c~#>
+d131 2
+a132 1
+=1' 4. <E F# G# A# db> 4 <D# F# G# A# c> <D# Fn Gn An c> 8 <Dn F G A B>
+d136 1
+a136 1
+=1' vol75 8 [B c B] [Bb c] [c# d eb]
+d141 1
+a141 1
+=2' vol75 4. g 4 g# 4. a
+d148 1
+a148 1
+=1, vol110 4. <G, Bb c d e> 4 <G, A, Bn c# e> <F#, A, Bn c# eb> 8 <F# G# A# cn eb>
+d152 1
+a152 1
+=1' vol85 8 [eb d en] [eb f] 4. blank
+@
+
+
+1.6
+log
+@bar 17 but unconvinced
+@
+text
+@d25 2
+a26 1
+3 bars | 5 5 5 5 5 5 5 4 |
+d40 1
+a40 1
+=1' vol70 4. A 4 Bb 4. A
+a42 1
+=2, vol70 4. b 4 c~ 4. c~#
+d85 2
+a86 2
+=1' 4. <E F# G# A# c#> 4 <C# E F# G# A#> <Db Eb Fn Gn Bb> 8 <B_b Db Eb F G>
+=2, 4. <e f# g# a# c~#> 4 <c# e f# g# a#> <db eb fn gn bb> 8 <Bb db eb f g>
+d89 1
+a89 2
+i0.7 .20 b224
+=1' vol75 8 [G G# A] [Bb c] [c# d eb]
+d94 1
+a94 1
+=2' vol75 4. a 4 g# 4. a
+d101 1
+a101 2
+=1  vol110 4. <G, Bb c d e> 4 <G, A, Bn c# e> \
+ <E G A Bn' c#'> 8 <E F# G# A# c#'(1>
+d103 1
+a103 2
+=2, vol110 4. <g bb c~ d~ e~> 4 <g a bn c~# e~> \
+ <e g a b c~#> 8 <e f# g# a# c~#>
+d105 2
+a106 2
+=1' vol85 8 [c#)1 cn d] [c# eb] 4. blank
+=1, vol85 4. G 4 Abl vol110 4 <G A Bn c# en> 8 <En G A B c#>
+d108 2
+a109 2
+=2' vol85 4. b 4 b 4. blank
+=2, vol85 4. eb 4 ebl vol110 4 <gn a b c~# e~n> 8 <en g a bn c~#>
+@
+
+
+1.5
+log
+@up the tempo; re-shorten bar 15
+@
+text
+@d103 2
+a104 1
+ <E G A Bn' c#'> 8 <E F# G# A# c#'>
+d107 6
+@
+
+
+1.4
+log
+@maybe I have a first 38 sec ?
+@
+text
+@d4 1
+a4 1
+midi channel 0 patch 90
+d10 1
+a10 1
+| .65
+d15 1
+a15 1
+| 2.4
+d30 1
+a30 1
+| 2.4
+d46 1
+a46 1
+| 3.0
+d53 1
+a53 1
+| 2.4 
+d72 1
+a72 1
+| 3.0
+d80 2
+a81 2
+3 bars | 4/4 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 | 5/4 5 5 5 5 5 5 5 5 5 4 |
+| 2.4
+d87 7
+a93 4
+| 3.0
+i0.7 .01 b224
+=1' 5/4 vol75 8 [B c B] [Bb c] [c# d eb] 4 blank
+=1, 5/4 vol75 4. C#(2 4 C#)2 4. B_ vol110 4 <G A Bn c# en>
+d95 11
+a105 2
+=2' 5/4 vol75 4. g 4 g# 4. a 4 blank
+=2, 5/4 vol75 4. eb(2 4 eb)2 4. eb vol110 4 <gn a b c~# e~n>
+@
+
+
+1.3
+log
+@another candidate first few bars ?
+@
+text
+@d4 131
+a134 1
+midi channel 0 patch 0
+a162 1
+
+d186 1
+a186 1
+midi on
+@
+
+
+1.2
+log
+@about to tighten bar 2 a lot
+@
+text
+@d5 97
+d103 6
+a108 1
+# goal: I want to establish the 2 x 5/8 metre
+d122 5
+a126 4
+=1' 4 d 8 c# 4 d 8 e 4. f# 8 e
+=1, 8 rest, rest, 8 Bb(2 2 Bb)2 8 cn 4 d
+=2' 4. G#l  4 leg95 Gn 8 F#-P 4. G# 8 F#
+=2, 4. F#lr 4. E 4 D 8 B_b C-*
+d129 3
+a131 3
+|
+=1 1 <A d#>
+=2 1 <C#-P F>
+a132 1
+midi off
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 1
+d10 1
+d19 1
+@

@@ -1,0 +1,25 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 3.0c
+\f3\s+9Die Zeiten\s-9\fP
+.sp 2.0c
+.LP
+\f2Wechsel der Zeiten\fP
+.LP
+Die Städte, die aus der Wildnis wachsen,
+.br
+Sie müssen der Wildnis wieder weichen.
+.br
+Wo einst nur die Eichenwälder wuchsen,
+.br
+Dort wachsen am Ende wieder Eichen.
+.IP \\   4.0c
+\f2Friedrich Georg Jünger\fP
+.sp 1.2c
+.ce 1
+\f2\(co 2000 Peter Billam\fP

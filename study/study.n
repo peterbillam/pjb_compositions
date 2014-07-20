@@ -1,0 +1,258 @@
+* Piano Study, Peter J Billam, may 94
+*
+6 systems / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 /
+/
+3 bars | 14 | 8.3 | 13.3 |
+|
+rl0.8 Piano Study
+=1 treble 13/8 cro. rest qua  Db, db,  Eb, eb, Eb,  db, Db, db,  Eb, eb, 
+is Db Eb
+=2 bass 13/8 qua eb, Eb, eb, cro rest (smb ab cro. Bn,) cro. Bb, cro Bb,
+|
+=1 8/8 qua db, d~b, db,  eb, Eb,  db, Db, db, 
+=2 8/8 (cro. Bb, g,) (cro Bb, f#,) (cro. An, f#,)
+|
+r0.8          (c) Peter J Billam, May 1994
+=1 13/8 qua Bb, bb, Bb, db, Db,  cro Bb, qua Bb,  Db, db, Db, cro Bb'
+is Db Bb
+=2 13/8 (smb eb cro. f') cro f#' qua g' cro bb' cro ab, qua e, f, bb,
+/
+3 bars | 14 | 8.3 | 13.3 |
+|
+is Gb Bb
+=1 treble 13/8 cro Gb, Gb,  qua Bb,  Gb, gb, Gb,  cro Bb, qua Bb,  Gb, gb
+=2 bass 13/8 (qua e, d~b,) gb, ab, (cro e d~b) cro. rest qua (eb, c~,) bb, ab, cro (eb, c~,)
+| 5
+Il 5
+=1 8/8 qua Bb, bb, Bb, gb, Gb, cro Bb, qua Bb,
+=2 8/8 (cro e, c~#,) qua ab, (cro. e, c~#) cro bb,
+|
+is Eb Bb
+=1 13/8 qua Eb, eb, Eb, Bb, B_b, cro (Eb' G_') qua Eb' B_b, Bb, B_b, cro Eb'
+=2 13/8 cro. (G, f,) (cro Ab, gb,) qua F cro eb cro. ab,  qua Gb eb
+/
+3 bars | 9 | 13.3 | 13.3 |
+|
+=1 treble 8/8 cro. rest cro rest qua B_b, Bb, B_b,
+=2 bass 8/8 qua bb, Bb, bb, eb, e~b, cro. c'
+|
+is Bb c
+=1 13/8 cro C, qua C,  B_b, Bb, C, c, C, Bb, B_b, Bb,  C' c'
+=2 13/8 qua rest cro c, (cro F, d') (cro F, cro. eb') qua F#, (cro. G, cro eb') qua en' (cro Ab, e')
+|
+is Ab C
+=1 qua Ab, ab, Ab,  c, C,  Ab, A_b, Ab,  C, c, C,  cro Ab'
+=2 cro f qua Bb cro d cro. d cro. eb qua bb ab
+/
+3 bars | 9 | 13.3 | 13 |
+| 10
+Il 10
+=1 treble 8/8 cro. rest qua D, Ab, C' c' C'
+=2 bass 8/8 qua c~, c, c~, cro ab, cro. f,
+|
+is G# B
+=1 13/8 qua G#, G_#, G#, B_' B'  G#, g#, G#, B' B_' B'  G#, g#,
+i  pp
+=2 13/8 smb e
+|
+is F# B
+=1 qua f#, f~#, f#, b, B, f#, F#, f#, B, b, B, f#' F#'  
+=2 (cro. e, d~,) cro a (min. d#, c~#,) cro a,
+/
+3 bars | 9 | 13.3 | 8.3 |
+|
+=1 treble 8/8 qua B' B_' B'  F#, f#, B, b, B, 
+=2 bass 8/8 (cro. e, d~,) (cro e, d~,) cro. a,
+|
+is F# c
+=1 13/8 qua f#, F#, f#, c, c~,  f# f~#, f#, c~, c, c~, f#, f~#,
+=2 13/8 qua (cro. a, e~,) (cro a, d~,) (smb e~b cro. ab,) cro. bb, cro bb,
+| 15
+i 8va . . . . |
+=1 8/8 qua c, c~, c, f~#, f#, c~, c, c~,
+=2 8/8 smb (a e~)
+/
+3 bars | 14 | 13.3 | 8.3 |
+|
+is D c
+=1 treble 13/8 qua d, d~, d,  c~, c,  d' D' d'  c, c~, c,  d' D' 
+=2 bass 13/8 qua 
+|
+is D F
+=1 qua F' F_' F' D' d'  F, f, F,  d' D' d' F, f,
+=2 qua 
+|
+=1 8/8 qua d, d~, d, f, F, d' D' d' 
+=2 8/8 qua
+
+* page 2, bars 19 - 36
+6 systems / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 /
+/
+3 bars | 14 | 8.3 | 13.3 |
+|
+is F A
+=1 treble 13/8 qua A a A f F A A_ A F f F A A_ 
+=2 bass 13/8 qua rest
+| 20
+Il 20
+=1 8/8 qua F F_ F A_ A F f F 
+=2 8/8 qua
+|
+is F c
+=1 13/8 qua c' C' c'  f, F,  c, c~, c,  f' F' f'  c, c~,
+=2 13/8 qua 
+/
+3 bars | 14 | 8.3 | 13.3 |
+* G# B
+|
+is F B
+=1 treble 13/8 qua f, f~, f, b, B,  f' F' f' B, b, B, f' F'
+=2 bass 13/8 qua 
+|
+=1 8/8 qua B' B_' B'  F, f,  B, b, B,
+=2 8/8 qua
+|
+is C# B
+=1 13/8 qua c#, C#, c#,  B, b,  c#, c~#, c#,  b, B, b,  c#, c~#,
+=2 13/8 qua 
+/
+3 bars | 14 | 8.3 | 13.3 |
+| 25
+is D Bb
+=1 treble 13/8 qua d, d~, d, bb, Bb, d' D' d' Bb, bb, Bb, d' D' 
+=2 bass 13/8 qua 
+|
+=1 8/8 qua Bb, B_b, Bb, D' d' Bb, bb, Bb, 
+=2 8/8 qua 
+|
+is G Bb
+=1 13/8 qua g' G' g' Bb, bb, g, g~, g, bb, Bb, bb, g, g~, 
+=2 13/8 qua 
+/
+3 bars | 9 | 13.3 | 13.3 |
+|
+i 8va . . .
+=1 treble 8/8 qua Bb, bb, Bb, g, G, Bb, B_b, Bb,
+=2 bass 8/8 qua
+|
+i      . . . |
+=1 13/8 qua F, f, F, bb, Bb, f' F' f'  Bb, bb, Bb,  f' F'
+is F Bb
+=2 13/8 qua
+| 30
+is Ab Bb
+=1 qua Ab, A_b, Ab,  B_b, Bb,  Ab, ab, Ab,  Bb, B_b, Bb,  Ab, ab,
+=2 qua 
+/
+3 bars | 9 | 13.3 | 13.3 |
+|
+=1 treble 8/8 qua Bb, bb, Bb, ab, Ab, Bb' B_b'
+=2 bass 8/8 qua 
+|
+is Bb db
+=1 13/8 qua Db, db, Db,  Bb' rest smb rest
+=2 13/8 min rest qua bb d~b db d~b bb b~b bb d~b db
+|
+is Bb gb
+=1 qua
+=2 qua gb Gb gb Bb bb gb g~b gb bb Bb bb gb g~b
+/
+3 bars | 9 | 13.3 | 8.3 |
+|
+is Bb Eb
+=1 treble 8/8 qua B_b Bb B_b  Eb min rest
+=2 bass 8/8 min rest qua eb, bb, Bb, bb,
+| 35
+Il 35
+=1 13/8 qua
+=2 13/8 qua eb e~b eb bb, Bb,  eb, Eb, eb,  Bb, bb, Bb,  eb, Eb, 
+|
+is Bb c
+=1 8/8 qua
+=2 8/8 qua c C c Bb bb c c~ c 
+
+* page 3, bars 37 - 54
+6 systems / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 / 24-31-24 /
+/
+3 bars | 14 | 13.3 | 8.3 |
+|
+is Ab C
+=1 treble 13/8 qua
+=2 bass 13/8 qua ab, Ab, ab,  c, c~,  ab, a~b, ab,  c~, c, c~, ab, a~b,
+|
+is G# B
+=1 qua B_ B B_ G# rest smb rest
+=2 min rest qua g# b, B, b, g#, g~#, g#, b, B,
+|
+=1 8/8
+=2 8/8 qua g#, G#, g#,  B, b,  g#, g~#, g#,
+/
+3 bars | 14 | 8.3 | 13.3 |
+| 40
+is F# B
+=1 treble 13/8 
+=2 bass 13/8 qua b B b f# f~# b b~ b f~# f# f~# b b~
+|
+is F# C
+=1 8/8 qua  F#, f#, F#, c, C,  F#, F_#, F#,
+=2 8/8
+|
+is D C
+=1 13/8 qua D' d' D'  c C  cro. rest qua C' c' C' cro. rest
+=2 13/8 cro. rest qua rest  d,~ d, d~,  cro rest  d,  d~, d,
+/
+3 bars | 14 | 8.3 | 13.3 |
+|
+=1 treble cro. rest cro rest qua C c C cro. rest qua C c
+=2 bass qua c~' c' c~'  d, d~,  cro. rest  qua d~, d, d~,  cro rest
+|
+is D F
+=1 8/8 qua D' d' D' F min rest
+=2 8/8 cro. rest qua f  d~ d d~
+| 45
+is F A
+=1 13/8
+=2 13/8 qua f f~ f a A f F f A a A f F
+/
+3 bars | 14 | 8.3 | 13.3 |
+|
+is F C
+=1 treble 
+=2 bass qua c C c F f  c c~ c  F f F  c c~
+|
+=1 8/8
+=2 8/8 qua f, f~, f,  c~, c,  f, F, f,
+|
+is F B
+=1 13/8
+=2 13/8 qua B b B f F B B_ B F f F B B_
+/
+3 bars | 9 | 13.3 | 13.3 |
+|
+is C# B
+=1 treble 8/8 
+=2 bass 8/8 qua C# C_# C# B_ B C# c# C#
+| 50
+is Bb D
+=1 13/8
+=2 13/8 qua Bb B_b Bb D d Bb bb Bb d D d Bb bb
+|
+=1 qua
+=2 qua d d~ d bb Bb d D d Bb bb Bb d D
+/
+4 bars | 9 | 13.3 | 13 | 8.3 ||
+|
+is G Bb
+=1 treble 8/8
+=2 bass 8/8 Bb, B_b, Bb, G, g, Bb, bb, Bb,
+|
+is F Bb
+=1 13/8
+=2 13/8 f F f Bb bb f f~ f bb Bb bb f f~
+|
+is Ab Bb or Eb Db
+=1 qua Db, db, Db,  Eb, rest smb rest
+=2 cro. rest  qua rest eb d~b db d~b eb e~b eb d~b db
+| 55
+=1 8/8
+=2 8/8 smb (eb d~b)

@@ -1,0 +1,107 @@
+6 systems 15 / 18-28-18 /
+title Canon  at six semitones
+midi channel 1 patch 0 reverb 99 pan 85
+midi channel 2 patch 0 reverb 99 pan 15
+/
+4 bars | 4/4 60 | 60 |
+| 4.62
+=1 treble cha1 leg999 4 rest g(1 43 g)1 g-I3 g
+=2 treble cha2 leg999 1 rest
+I0.2 .15 con Pedale sempre . . .
+|
+=1 8 [g g(1] 83 [g)1 g-I3 g] 16 [g g(1] 163 [g)1 g-I3 g(1] 4 g)1(1
+=2 1 rest
+|
+=1 1 g)1
+
+=2 4 rest c#(1 43 c#)1 c#-I3 c#
+|
+=1 4 rest 8 b 4 b~ 8 e~ 4 e~~
+
+=2 8 [c# c#(1] 83 [c#)1 c#-I3 c#] 16 [c# c#(1] 163 [c#)1 c#-I3 c#(1] 4 c#)1(1
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+il0.5 .20 5
+=1 2. rest 4 ab(1
+
+=2 1 c#)1
+|
+=1 43 ab)1 ab-I3 ab 8 [ab a(1] 83 [a)1 a-I3 a]
+
+=2 4 rest 8 f 4 f~ 8 bb 4 b~b
+|
+=1 16 [ab a(1] 163 [a)1 a-I3 a(1] 4 a)1(1 8. ab)1 bass 16 E(2 4 E)2(2
+
+=2 2. rest 4 d(1
+|
+=1 2 E)2(2 4.. E)2 treble 16 tra+12 b
+
+=2 43 d)1 d-I3 d 8 [d d(1] 83 [d)1 d-I3 d]
+|
+=1 163 [c~ b c~ d~b c~ d~b] [c~ c~# d~n c~# d~ e~b] [d~ e~b d~ d~# e~n d~#] 32 [e~ d~# e~ f~ e~ f~ g~b f~]
+
+=2 16 [d d(1] 163 [d)1 d-I3 d(1] 4 d)1(1 8. d)1 bass 16 B_b(2 4 B_b)2(2
+|
+il0.5 .20 10
+=1 8 g~b 4 c~ 8 e~ 2 bb tra0
+
+=2 2 B_b)2(2 4.. B_b)2 treble 16 tra+12 f
+|
+=1 bass 8 rest 2.. Eb treble
+
+=2 163 [f# fn f# g f# g] [f# g g# gn g# a] [g# a g# a bb a] 32 [bb a bb bn bb bn c~ b]
+|
+=1 2 rest 8 [c~~# c~# g~ g(1]
+
+=2 8 c~ 4 f# 8 bb 2 e tra0
+|
+=1 8 g)1 8 [c~# c# g] 4 G 8 [c#' C#]
+
+=2 bass  8 rest 2.. A_ treble
+|
+=1 8 G 4. G_  2 <e e~>
+
+=2 2 rest 8 [g~ g c~# c#(1]
+|
+il0.5 .20 15
+=1 16 rest 2 <d# d~#> 4.. <c# c~#>
+
+=2 8 c#)1 8 [g G c#] 4 C# 8 [G' G_]
+|
+=1 16 rest 4.. <b B> 8 [c~# c# g G,(2]
+
+=2 8 C# 4. C_# 2 <Bb bb>
+|
+=1 8 [G)2 c#' C# G] 4 G_ bass 8 [c~# c#,]
+
+=2 16 rest 2 <A a> 4.. <G g>
+|
+=1 8 g, 4 G 8 c# treble 16 rest 4.. <D# d#'>
+
+=2 16 rest 4.. <f F> 8 [g G c# C#,(2]
+|
+=1 43 <E e'> <D# d#'-I3> <A_# A#'> 16 rest 4.. <B_ B'>
+
+=2 8 [C#)2 G' G_ C#] 4 C_# bass 8 [g G,]
+|
+il0.5 .20 20
+=1 43 <C# c#'> <B_ B'-I3> <A_# A#'> 2 rest bass
+
+=2 8 c#, 4 C# 8 G treble 16 rest 4.. <A_ A'>
+|
+=1 1 rest
+
+=2 43 <B_b Bb'> <A_ A'-I3> <E_ E'> 16 rest 4.. <F_ F'>
+|
+=1 2 rest 2 <d d~>
+
+=2 43 <G_ G'> <F_ F'-I3> <E_ E'> 2 rest bass
+|
+=1 
+=2 1 rest
+|
+=1 
+=2 2 rest 2 <G# g#>
+|
+il0.5 .20 25

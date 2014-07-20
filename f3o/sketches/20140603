@@ -1,0 +1,148 @@
+4 systems 15 /19-25-19-25-19/
+
+midi off
+
+title 20140603
+midi channel 0 patch 73 pan 20
+midi channel 1 patch 73 pan 50
+midi channel 2 patch 73 pan 80
+
+
+/
+3 bars | 48 | 48 | 48 |
+| 2.4
+i0.7 .01 starting from 044 guaranteed safe:
+=1 treble cha0 leg100 vol90 1 blank
+=2 treble cha1 leg100 vol90 1 blank
+=3 treble cha2 leg100 vol90 1 blank
+=1 83 [B c B] 8 [c B] 4 c rest
+=2 4 rest 83 [G Ab G] 8 [Ab G] 4 Ab
+=3 4 rest rest 83 [D# E D#] 8 [E D#]
+|
+=1 83 [c db c] 8 [db c] 4 db rest
+=2 4 rest 83 [G# A G#] 8 [A G#] 4 A
+=3 4 E rest 83 [E F E] 8 [F E]
+|
+=1 83 [c# d c#] 8 [d c#] 4 d rest
+=2' 4 rest 83 [A Bb A] 8 [Bb A] 4 Bb
+=3 4 F rest 83 [F Gb F] 8 [Gb F]
+
+/
+3 bars | 48 | 48 | 48 |
+|
+i0.7 .01 fill in the gaps
+=1 83 [B c B] 8 [c B] 4 c 16 [d~ d~b c~ b]
+=2 4 rest 83 [G Ab G] 8 [Ab G] 4 Ab
+=3 4 rest rest 83 [D# E D#] 8 [E D#]
+|
+=1 83 [c db c] 8 [db c] 4 db 16 [e~b d~ d~b c~]
+=2 16 [bb a ab g] 83 [G# A G#] 8 [A G#] 4 A
+=3 4 E 16 [gb f e d#] 83 [E F E] 8 [F E]
+|
+=1 83 [c# d c#] 8 [d c#] 4 d 16 [e~ e~b d~ c~#]
+=2 16 [b bb a ab] 83 [A Bb' A] 8 [Bb' A] 4 Bb'
+=3 4 F 16 [g gb f e] 83 [F Gb F] 8 [Gb F]
+
+/
+3 bars | 48 | 48 | 48 |
+|
+i1.0 .01 starting from 034 sounds more musical:
+=1 83 [B c B] 8 [c B] 4 c 16 [d~ d~b c~ b]
+=2 4 rest 83 [G Ab G] 8 [Ab G] 4 Ab
+=3 4 E rest 83 [E F E] 8 [F E]
+|
+=1 83 [c db c] 8 [db c] 4 db 16 [e~b d~ d~b c~]
+=2 16 [bb a ab g] 83 [G# A G#] 8 [A G#] 4 A
+=3 4 F 16 [gb f e d#] 83 [F Gb F] 8 [Gb F]
+|
+=1 83 [c# d c#] 8 [d c#] 4 d 16 [e~ e~b d~ c~#]
+=2 16 [b bb a ab] 83 [A Bb' A] 8 [Bb' A] 4 Bb'
+=3 4 F# 16 [g gb f e] 83 [F# G F#] 8 [G F#]
+
+/
+3 bars | 48 | 48 | 48 |
+|
+i1.0 .01 starting from 033 has more energy
+=1 83 [B c B] 8 [c B] 4 c 16 [d~ d~b c~ b]
+=2 4 rest 83 [G# A G#] 8 [A G#] 4 A
+=3 4 F rest 83 [F Gb F] 8 [Gb F]
+|
+=1 83 [c db c] 8 [db c] 4 db 16 [e~b d~ d~b c~]
+=2 16 [bb a ab g] 83 [A Bb' A] 8 [Bb' A] 4 Bb'
+=3 4 F# 16 [gb f e eb] 83 [F# G F#] 8 [G F#]
+|
+=1 83 [c# d c#] 8 [d c#] 4 d 16 [e~ e~b d~ c~#]
+=2 16 [b bb a ab] 83 [A# B' A#] 8 [B' A#] 4 B'
+=3 4 G 16 [g gb f e] 83 [G Ab G] 8 [Ab G]
+
+midi on
+
+4 systems 15 /19-25-19-25-19/
+title the 2v3 sounds lame, and the 4/4 boring :-(
+midi channel 0 patch 73 pan 20
+midi channel 1 patch 73 pan 50
+midi channel 2 patch 73 pan 80
+/
+3 bars | 48 | 48 | 48 |
+| 2.4
+i1.0 .01 starting from 034 
+=1 treble cha0 leg100 vol90 1 blank
+=2 treble cha1 leg100 vol90 1 blank
+=3 treble cha2 leg100 vol90 1 blank
+=1 83 [B c B] 8 [c B] 4 c 16 [d~ d~b c~ b]
+=2 4 rest 83 [G Ab G] 8 [Ab G] 4 Ab
+=3 4 rest rest 83 [E F E] 8 [F E]
+|
+=1 83 [c db c] 8 [db c] 4 db 16 [e~b d~ d~b c~]
+=2 16 [bb a ab g] 83 [G# A G#] 8 [A G#] 4 A
+=3 4 F 16 [gb f e d#] 83 [F Gb F] 8 [Gb F]
+|
+=1 83 [c# d c#] 8 [d c#] 4 d 16 [e~ e~b d~ c~#]
+=2 16 [b bb a ab] 83 [A Bb' A] 8 [Bb' A] 4 Bb'
+=3 4 F# 16 [g gb f e] 83 [F# G F#] 8 [G F#]
+
+/
+3 bars | 48 | 48 | 36 |
+|
+i1.5 .01 starting from 033 has more energy
+=1 83 [d eb d] 8 [eb d] 4 eb 16 [f~ e~ e~b d~]
+=2 16 [c~ b bb a] 83 [B c B] 8 [c B] 4 c
+=3 4 G 16 [ab g gb f] 83 [G# A G#] 8 [A G#]
+|
+=1 83 [d# e d#] 8 [e d#] 4 e 16 [g~b f~ e~ e~b]
+=2 16 [d~b c~ b bb] 83 [c db c] 8 [db c] 4 db
+=3 4 A 16 [a ab g f#] 83 [A Bb' A] 8 [Bb' A]
+| 1.8
+#=1 83 [e f e] 8 [f e] 4 f 16 [g~ g~b f~ e~]
+#=2 16 [d~ d~b c~ b] 83 [c# d c#] 8 [d c#] 4 d
+#=3 4 A# 16 [bb a ab g] 83 [A# B' A#] 8 [B' A#(2]
+=1 83 [e f e] 8 [f e] 16 [g~ g~b f~ e~]
+=2 16 [d~ d~b c~ b] 83 [c# d c#] 83 [d c# d]
+=3 4 A#' 16 [bb a ab g] 83 [A# B' A#]
+
+/
+3 bars | 48 | 36 | 36 |
+| 2.4
+i0.8 .03 back to 034
+#=1 83 [f gb f] 8 [gb f] 4 gb 16 [a~b g~ g~b f~]
+=1 83 [f gb f] 8 [gb f] 16 [gb ab e~ f~#] 16 [a~b g~ g~b f~n]
+=2 16 [e~b d~ d~b c~] 83 [c# d c#] 8 [d c#] 4 d
+=3 8 [B' A#] 16 [bb a ab g] 83 [A# B' A#] 8 [B' A#]
+i0.9 .01 shorten some bars to 3/4 and  turn the F1 cro into rising smqs \
+gives complex-sounding almost chaotic counterpoint
+| 1.8
+i0.8 .03 back to 044
+#=1 83 [f# g f#] 8 [g f#] 4 g 16 [a~b g~ g~b f~]
+#=2 16 [e~ e~b d~ c~#] 83 [d eb d] 8 [eb d] 4 eb
+#=3 4 A#)2 16 [c~ b bb a] 83 [A# B' A#] 8 [B' A#(2]
+=1 83 [f# g f#] 8 [g f#] 16 [a~b g~ g~b f~]
+=2 16 [e~ e~b d~ c~#] 83 [d eb d] 8 [eb d]
+=3 4 B' 16 [c~ b bb a] 83 [A# B' A#]
+|
+i0.8 .03 back to 045
+#=1 83 [g ab g] 8 [ab g] 4 ab 16 [a~ a~b g~ f~#]
+#=2 16 [e~ e~b d~ c~#] 83 [d eb d] 8 [eb d] 4 eb
+#=3 4 A#)2 16 [c~ b bb a] 83 [A# B' A#] 8 [B' A#]
+=1 83 [g ab g] 8 [ab g] 16 [a~ a~b g~ f~#]
+=2 16 [e~ e~b d~ c~#] 83 [d eb d] 8 [eb d]
+=3 8 [B' A#] 16 [c~ b bb a] 83 [A# B' A#]

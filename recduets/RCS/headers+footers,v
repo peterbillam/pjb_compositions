@@ -1,0 +1,56 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	96.06.10.08.30.27;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@page numbers, co notices, titles
+@
+
+
+1.1
+log
+@allegro & andante
+@
+text
+@.nr PS 14
+.nr VS 18
+.pl 11.7i
+.LP
+\&
+.ce 100
+\f2\(co Peter J Billam, 1991\fP
+.sp 0.1i
+\f2\(co Peter J Billam, 1991\fP
+.sp 0.2i
+\f2Peter Billam\fP
+.sp 0.2i
+\f2Peter Billam\fP
+.sp 0.5i
+\s+9\s+6\f2Two Recorder Duets\fP\s-6\s-9
+.sp 0.5i
+\s+9\s+6\f21\fP\s-6\s-9
+.sp 0.5i
+\s+9\s+6\f2Two Recorder Duets\fP\s-6\s-9
+.sp 0.5i
+\s+9\s+6\f22\fP\s-6\s-9
+.sp 1.1i
+\f2Two Recorder Duets, Peter Billam\fP
+.sp 0.1i
+\f2Two Recorder Duets, Peter Billam\fP
+.sp 0.1i
+\f22 \ \ \ 3 \ \ \ 4 \ \ \ 5 \ \ \ 6 \ \ \ 7 \ \ \ 8\fP
+.sp 0.1i
+\s+7\f23allegro\fP\s0
+.sp 0.1i
+\s+7\f2andante\fP\s0
+@

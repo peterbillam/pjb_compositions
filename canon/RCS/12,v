@@ -1,0 +1,698 @@
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2009.11.28.10.38.58;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.07.09.03.29.43;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.07.08.05.59.42;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.07.05.06.04.15;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.06.29.10.21.21;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.06.29.05.33.29;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.06.28.01.41.26;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@At Twelve Semitones
+@
+
+
+1.7
+log
+@somewhat desquirmed 23,25,27
+@
+text
+@5 systems 10 /19-25-19-25-19/19-25-19-25-19/19-25-19-25-19 \
+ /19-25-19-25-19/19-25-19-25-19 10/
+pagenum 2
+innerhead The Art of Canon, Peter Billam
+title At Twelve Semitones
+leftfoot (c) 2009 Peter J Billam
+midi channel 1 patch 0 pan 90
+midi channel 2 patch 0 pan 60
+midi channel 3 patch 0 pan 30
+midi channel 4 patch 0 pan 5
+
+/
+6 bars | 48 |
+| 4/4 2.5
+=1  treble cha1 leg99 1 rest
+=2  treble cha2 leg99 1 rest
+=3' bass   cha3 leg99 4 rest leg85 G 2 leg99 d(2
+|
+=1  1 rest
+=2  1 rest
+=3' 4 d)2 leg80 c# leg99 c# leg80 cn leg99
+|
+=1  1 rest
+=2  4 rest leg85 G_ leg99 2 D(2
+=3  4 c B leg80 Bb leg99 f
+|
+=1  1 rest
+=2  4 D)2 leg80 C# leg99 C# leg80 Cn leg99
+=3  4 e f f# g
+|
+il0.5 .05 5
+=1  4 rest leg85 G 2 leg99 d(1
+=2  4 C B_ leg80 B_b leg99 F
+=3  4 eb en f g
+|
+=1  4 d)1 leg80 c# leg99 c# leg80 cn leg99
+=2  4 E F F# G
+=3  2 a A
+|
+=1  4 c B leg80 Bb leg99 f
+=2  4 Eb En F G
+=3' 4 rest leg85 G 2 leg99 d(2
+|
+=1  4 e f f# g
+=2  2 A A_
+=3' 4 d)2 leg80 c# leg99 c# leg80 cn leg99
+|
+=1  4 eb en f g
+=2  4 rest leg85 G_ 2 leg99 D(2
+=3  4 c B leg80 Bb leg99 f
+|
+il0.5 .20 10
+=1  2 a A
+=2  4 D)2 leg80 C# leg99 C# leg80 Cn leg99
+=3  4 e f f# e
+|
+=1  4 rest leg85 G 2 leg99 d(1
+=2  4 C B_ leg80 B_b leg99 F
+=3  4 eb en f g
+|
+=1  4 d)1 leg80 c# leg99 c# leg80 cn leg99
+=2  4 E F F# E
+=3  2 a A
+/
+5 bars | 48 |
+|
+=1  4 c B leg80 Bb leg99 f
+=2  4 Eb En F G
+=3  4 rest Ab G 8 [Bb An]
+|
+=1  4 e f f# e
+=2  2 A A_
+=3' 2 cn 4 leg85 B 8 leg99 [d c#]
+|
+il0.5 .06 15
+=1  4 eb en f g
+=2  4 rest A_b G_ 8 [B_b A_n]
+=3  4 cn B leg85 Bb leg99 f
+|
+=1  2 a A
+=2  2 C 4 leg80 B_ 8 leg99 [D C#]
+=3  4 e f f# e
+|
+=1' 4 rest Ab G 8 [Bb An]
+=2  4 Cn B_ leg80 B_b leg99 F
+=3  4 d# e f g
+|
+=1  2 c 4 leg80 B 8 leg99 [d c#]
+=2  4 E F F# E
+=3  4 a leg85 2 A leg99 8 [e f#]
+|
+=1  4 cn B leg80 Bb leg99 f
+=2  4 D# E F G
+=3  2 g 4 d' db'
+|
+il0.5 .04 20
+=1  4 e f f# e
+=2  4 A leg80 2 A_ leg99 8 [E F#]
+=3' 2 c B
+
+|
+=1 4 d# e f g
+=2 2 G 4 D' Db'
+=3 2 Bb A
+|
+=1 4 a 2 leg80 A leg99 8 [e f#]
+=2 2 C B_ bass
+=3 4 G F# A D
+|
+=1 2 g 4 d db
+=2 2 bb a
+#=3 8 [Eb D Eb En(2] [E)2 D# E F#]
+=3 4 Eb 8 [D Eb] 4 En 8 [D F#]
+|
+=1  2 c B
+=2 4 g f# a d
+=3 4. E 8 F# 4. E 8 G
+|
+il0.5 .04 25
+=1 2 Bb A
+#=2 8 [eb d eb en(1] [e)1 d# e f#]
+=2 4 eb 8 [d eb] 4 en 8 [d f#]
+=3 4. F# 8 G 2 F#
+|
+=1 4 G F# A D
+=2 4. e 8 f# 4. e 8 g
+=3 8 [G F# A G#] 4. B 8 Bb
+|
+#=1 8 [Eb D Eb En(2] [E)2 D# E F#]
+=1 4 Eb 8 [D Eb] 4 En 8 [D F#]
+=2 4. f# 8 g 2 f#
+=3 8 [A G# B A#] 2 c#
+
+4 systems /19-25-19-25-19/19-25-19-25-19-25-19/
+pagenum
+/
+5 bars | 48 |
+|
+=1 4. E 8 F# 4. E 8 G
+=2 8 [g f# a g#] 4. b 8 bb
+=3' 4 d 8 [c# B] 4 c# d
+|
+=1 4. F# 8 G 2 F#
+=2 8 [a g# b a#] 2 c~#
+=3 2 e 8 [d#' B A c#]
+|
+il0.5 .04 30
+=1  8 [G F# A G#] 4. B 8 Bb
+=2  4 d~ 8 [c~# b] 4 c~# d~
+=3  2 e 8 [d#' B A# E]
+|
+=1 8 [A G# B' A#] 2 c#
+=2 2 e~ 8 [d~# b a c~#]
+=3 4. F# 8 G# 4 A 8 [Gn E]
+|
+=1 4 d 8 [c# B] 4 c# d
+=2 2 e~ 8 [d~# b a# e]
+=3 2 F# 4 Ab 8 [G Ab]
+|
+=1, 2 e 8 [d# B A c#]
+=2 4. f# 8 g# 4 a 8 [gn e]
+=3 4 An 8 [c B] 2 c#
+=4  bass   cha4 vol120 leg99 1 rest
+|
+=1, 2 e 8 [d# B A# E]
+=2 2 f# 4 ab 8 [g ab]
+=3 4 A# 8 [B A#] 2 e(1
+=4 1 rest
+|
+il0.5 .04 35
+=1' 4. F# 8 G# 4 A 8 [Gn E]
+=2  4 an 8 [c~ b] 2 c~#
+=3  1 e)1
+=4  2 rest G_
+|
+=1  2 F# 4 Ab 8 [G Ab]
+=2 4 a# 8 [b a#] 2 e~(2
+=3  1 rest
+=4  1 D(2
+|
+=1  4 An 8 [c B] 2 c#
+=2 1 e~)2
+#I0.5 .01 C,D,E .55 B,c#,f
+=3 8 rest [g f# g] [g# a g# a]
+=4  2 D)2 leg70 C# leg99
+|
+=1  4 A# 8 [B' A#] 2 e(1
+=2  1 rest treble
+#I0.5 .01 F#,A#,c# .50 F,G,c
+=3 8 [bb e d# e] [g bb a bb]
+=4  2 C# leg70 Cn leg99
+|
+=1  1 e)1
+=2  8 rest [G F# G] [G# A G# A]
+=3  2 c~ b
+=4  2 C B_
+|
+il0.5 .04 40
+=1 1 rest
+=2' 8 [Bb E D# E] [G Bb A Bb]
+=3  2 leg75 bb leg99 f
+=4  2 leg70 B_b leg99 F
+|
+=1 8 rest [g f# g] [g# a g# a]
+=2  2 c B
+=3  2 e f
+=4  2 E F
+|
+=1  8 [bb e d# e] [g bb a bb]
+=2  1 Bb
+=3  2 f# g
+=4  2 F# G
+/
+8 bars | 48 | 48 | 48 | 48 | 48 | 48 | 36 | 24 ||
+|
+=1  2 c~ b
+=2  2 A G(2
+=3' 4 rest leg85 G 2 leg99 d(2
+=4  2 Eb En
+|
+=1  2 bb a
+=2  1 G)2
+=3' 4 d)2 leg80 c# leg99 c# leg80 cn leg99
+=4  2 F G
+|
+il0.7 45
+=1  1 g(1
+=2  4 rest leg85 G_ 2 leg99 D(2
+=3  4 c B A f(1
+=4  1 A
+|
+=1  1 g)1
+=2  4 D)2 leg80 C# leg99 C# leg80 Cn leg99
+=3  2 f)1 e(1
+=4  1 A_
+|
+=1  4 rest leg85 G 2 leg99 d(1
+=2  4 C B_ A_ F#
+=3  1 e)1(1
+=4  2 rest, G_(1
+|
+=1  4 d)1 leg80 c# leg99 c# leg80 cn leg99
+=2  1 G
+=3  2 e)1 eb
+=4  1 G_)1
+|
+=1  2 c B(1
+=2  1 G(2
+=3  1 d(1
+=4  1 G_(1
+|
+=1  1 B)1
+=2  1 G)2
+=3  1 d)1
+=4  1 G_)1
+@
+
+
+1.6
+log
+@more-or-less reconciled the join
+@
+text
+@d7 4
+a10 4
+midi channel 1 patch 0 pan 75
+midi channel 2 patch 0 pan 55
+midi channel 3 patch 0 pan 35
+midi channel 4 patch 0 pan 15
+d112 2
+a113 1
+=3 8 [Eb D Eb En(2] [E)2 D# E F#]
+d121 2
+a122 1
+=2 8 [eb d eb en(1] [e)1 d# e f#]
+d129 2
+a130 1
+=1 8 [Eb D Eb En(2] [E)2 D# E F#]
+d226 1
+a226 1
+il0.5 45
+@
+
+
+1.5
+log
+@tentatively joined end bit to beginning bit
+@
+text
+@d17 1
+a17 1
+=3' bass   cha3 leg99 4 rest G 2 d(2
+d24 1
+a24 1
+=2  4 rest G_ 2 D(2
+d32 1
+a32 1
+=1  4 rest G 2 d(1
+d42 1
+a42 1
+=3' 4 rest G 2 d(2
+d49 1
+a49 1
+=2  4 rest G_ 2 D(2
+d57 1
+a57 1
+=1  4 rest G 2 d(1
+d73 1
+a73 1
+=3' 2 cn 4 B 8 [d c#]
+d78 1
+a78 1
+=3  4 cn B Bb f
+d81 1
+a81 1
+=2  2 C 4 B_ 8 [D C#]
+d85 1
+a85 1
+=2  4 Cn B_ B_b F
+d88 1
+a88 1
+=1  2 c 4 B 8 [d c#]
+d90 1
+a90 1
+=3  4 a A e f#
+d92 1
+a92 1
+=1  4 cn B Bb f
+d98 1
+a98 1
+=2  4 A A_ E F#
+a103 1
+I0.3 .07 ugh
+d106 1
+a106 1
+=1 4 a A e f#
+d108 1
+a108 1
+=3 2 G 4 F# E
+d112 1
+a112 1
+=3 8 [Eb D F En] [F E G F#]
+d115 2
+a116 3
+=2 2 g 4 f# e
+#=3 4. A 8 Bb 4. A 8 B_
+=3 4. E 8 F 4. E 8 G
+d120 1
+a120 2
+=2 8 [eb d f en] [f e g f#]
+#=3 4. C 8 Db 2 blank
+d123 2
+a124 2
+=1 2 G 4 F# E
+=2 4. e 8 f 4. e 8 g
+d127 1
+a127 1
+=1 8 [Eb D F En] [F E G F#]
+d136 1
+a136 1
+=1 4. E 8 F 4. E 8 G
+d167 1
+a172 1
+il0.5 .04 35
+d174 1
+a174 1
+=2 4 a# 8 [b a#] 2 e~(1
+d179 2
+a180 2
+=2 1 e~)1
+I0.5 .01 C,D,E .55 B,c#,f
+d186 1
+a186 1
+I0.5 .01 F#,A#,c# .50 F,G,c
+d195 1
+a200 1
+il0.5 .04 40
+d215 1
+a215 1
+=3' 4 rest G 2 d(2
+d223 1
+d225 1
+a225 1
+=2  4 rest G_ 2 D(2
+a228 1
+il0.5 .04 45
+d234 1
+a234 1
+=1  4 rest G 2 d(1
+@
+
+
+1.4
+log
+@much tweaking of last page
+@
+text
+@d4 1
+a4 1
+innerhead I, The Art of Canon, Peter Billam
+d6 1
+a6 1
+leftfoot (c) 2006 Peter J Billam
+d11 1
+a11 1
+midi off
+d13 2
+a14 2
+5 bars | 48 |
+| 3.0
+d64 2
+d104 2
+d108 2
+a109 1
+=2 2 C B_
+d112 2
+d116 17
+a132 1
+
+a135 1
+midi on
+d139 12
+a150 3
+=1  treble cha1 leg99
+=2  bass   cha2 leg99
+=3' bass   cha3 leg99 2 e 8 [d# B A# E]
+d152 1
+a152 1
+=1 
+d154 1
+a154 1
+=3 4. F# 8 G 4 A 8 [G E]
+d156 1
+a156 1
+=1 
+d161 1
+a161 1
+=2 4. f# 8 g 4 a 8 [g e]
+d163 1
+d168 1
+a168 2
+/
+5 bars | 48 |
+d170 4
+a173 4
+=1' treble cha1 leg99 4. F# 8 G 4 A 8 [G E]
+=2 bass cha2 leg99 4 an 8 [c~ b] 2 c~#
+=3  bass   cha3 leg99 1 e)1
+=4  bass   cha4 vol120 leg99 2 rest G_
+d175 1
+d200 1
+a200 1
+=3  1 bb
+d203 1
+d206 1
+a206 1
+=3  1 rest
+d211 1
+a211 1
+=3  1 rest
+d213 2
+a224 2
+/
+6 bars | 48 | 48 | 48 | 48 | 48 | 48 ||
+d231 1
+d240 1
+a240 1
+=4  2 rest G_(1
+@
+
+
+1.3
+log
+@last 16 bars probably in place
+@
+text
+@d1 2
+a2 1
+4 systems 10 /19-35-19-35-19/19-35-19-35-19/19-35-19-35-19/19-35-19-35-19 10/
+a10 1
+
+d25 1
+a25 1
+=3  4 c B Bb f
+d33 1
+a33 1
+=2  4 C B_ B_b F
+d40 1
+a40 1
+=1  4 c B Bb f
+d50 1
+a50 1
+=3  4 c B Bb f
+d58 1
+a58 1
+=2  4 C B_ B_b F
+d65 1
+a65 1
+=1  4 c B Bb f
+d88 1
+a88 1
+=3  4 a A 2 e
+d92 1
+a92 1
+=3  4 eb d d' db'
+d95 15
+a109 3
+=1  4 e f f# g
+=2  4 A A_ 2 E
+=3' 4 db c B c#
+d111 1
+a111 1
+3 systems /19-30-19-30-19-30-19/
+d114 24
+d139 4
+a142 4
+=1' treble cha1 leg99 2 D# 4 F 8 [E F]
+=2  treble cha2 leg99 4 A_ 8 [C B_] 2 C#
+=3  bass   cha3 leg99 1 rest
+=4  bass   cha4 leg99 2 rest G_
+d145 1
+a145 1
+=2  4 A_# 8 [B_ A_#] 2 E(2
+d149 2
+a150 2
+=1  4 A 8 [c B] 2 c#
+=2  1 E)2
+d153 1
+a153 1
+=4  2 D)2 leg80 C# leg99
+d156 1
+a156 1
+=2  
+d159 1
+a159 1
+=4  2 C# leg80 Cn leg99
+d166 1
+d169 1
+a169 1
+=4  2 B_b F
+d173 1
+d178 1
+@
+
+
+1.2
+log
+@try to fit to the augmented entry
+@
+text
+@d103 2
+a104 2
+=1' treble cha1 leg99 2 D 4 C# 8 [E D#]
+=2  treble cha2 leg99 4 F_# 8 [A_ G_#] 2 B_b
+d108 2
+a109 2
+=1  2 F# 4 Fn 8 [Ab G]
+=2  4 A_ 8 [C B_] 2 D
+d113 4
+a116 4
+=1  4 F# 8 [A G#] 2 Bb
+=2  
+I0.5 .01 F#-Bb,c .55 B,c#,f
+=3  2 rest 4 f 8 [e g]
+d119 1
+a119 1
+=1  4 A 8 [c B] 2 d
+d122 1
+a122 1
+=3  2 f# 8 [a g# b bb]
+d125 3
+a127 2
+=2  2 rest 4 F 8 [E G]
+=3  2 a rest
+d130 2
+a131 1
+=2' 2 F# 8 [A G# B Bb]
+d134 2
+a135 2
+=1  2 rest 4 f 8 [e g]
+=2  2 A rest
+d138 2
+a139 1
+=1  2 f# 8 [a g# b bb]
+d142 2
+a143 1
+=1  2 a rest
+d147 2
+d154 1
+d159 1
+d161 1
+a161 1
+=3  1 f)1(1
+d166 1
+a166 1
+=3  1 f)1
+d171 1
+a171 1
+=3  2 e eb
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d11 1
+d31 1
+d52 1
+d55 1
+a55 1
+=3  4 e f f# g
+d62 1
+a62 1
+=2  4 E F F# G
+d67 1
+d69 1
+a69 1
+=1  4 e f f# g
+d71 1
+d73 1
+d75 2
+d79 19
+d101 1
+d103 3
+d108 3
+d113 4
+d119 4
+d125 2
+d129 1
+d132 2
+d136 1
+d139 1
+d149 1
+a149 1
+=3  4 c B Bb f(1
+d157 1
+a157 1
+=2  4 C B_ B_b F
+d162 1
+a162 1
+=2  1 F#
+@

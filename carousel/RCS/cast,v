@@ -1,0 +1,582 @@
+head	1.16;
+access;
+symbols;
+locks
+	pjb:1.16;
+comment	@# @;
+
+
+1.16
+date	99.06.20.07.08.35;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	99.05.05.22.14.29;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	99.03.02.09.35.35;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	99.02.13.20.27.16;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	99.02.02.03.28.10;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	99.01.24.21.34.44;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	99.01.24.21.33.57;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	99.01.24.21.08.00;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	99.01.23.21.38.21;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	99.01.13.06.43.53;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	99.01.13.06.23.09;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	98.12.14.06.36.26;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	98.12.14.05.42.37;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.12.12.09.26.46;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.10.29.02.23.53;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.09.21.01.54.03;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@The Carousel Club; Dramatis Personnae
+@
+
+
+1.16
+log
+@many changes in voice. refs omitted
+@
+text
+@.nr PS 13
+.nr VS 16
+.nr LL 6.4i
+.pl 11.7i
+.ds RH \f2\s-2October at the Carousel \- Cast\s0\f1
+.ds LF \f2\s-2\(co Peter J Billam 1999\s0\f1
+.ds RF \f2\s-2www.pjb.com.au\s0\f1
+.LP
+.ce 1
+\s+8\f3October at the Carousel\fP\s0
+.sp 0.5c
+.ce 1
+\s+4\f3Cast\fP\s0
+.sp 0.5c
+
+.IP Rose\ Cheramie 4c
+One of Jack Ruby's working girls, Mezzo.
+.IP Bodyguard 4c
+Works for Jack Ruby, Latin-american, Bass.
+.IP Jack\ Ruby 4c
+The owner of the Carousel Night Club, Tenor.
+.IP Harry\ Olsen 4c
+Police, Baritone.
+.IP Announcer 4c
+Works at the Carousel Club, Tenor.
+.IP Little\ Lynne 4c
+Lynnette Carlin, stripper at the Carousel Club, Soprano.
+.IP Lee\ Harvey\ Oswald 4c
+Works for the CIA, Tenor.
+.IP Roscoe\ White 4c
+With the Dallas Police since two weeks, formerly CIA, Baritone.
+.IP Richard\ Cain 4c
+Works for the CIA, Mafia, and Chicago police, Tenor.
+.IP Charles\ Nicoletti 4c
+Gangster from Chicago, Bass.
+.IP 'Nick'\ McDonald 4c
+Maurice McDonald, Dallas Police Officer, Baritone.
+.IP George\ Applin 4c
+Cinema-goer, Bass
+.IP Kathy\ Kay\ Coleman 4c
+Olsen's girl friend, Soprano.
+.IP James\ Hosty 4c
+Works for the FBI, Bass-baritone.
+.IP Reporter 4c
+Tenor
+.IP Jesse\ Curry 4c
+Dallas Police Chief, not in on the conspiracy, Baritone.
+.IP Charles\ Batchelor 4c
+Assistant Police Chief, Dallas Police, Bass.  
+.IP Charles\ Brown 4c
+Dallas Police Officer, not in on the conspiracy, Tenor.
+.IP Ike\ Pappas 4c
+Radio newsman, works for WNEW, based in New York, Bass.
+.IP L.\ C.\ Graves 4c
+Detective in the Dallas Police, Baritone.
+.IP D.\ R.\ Archer 4c
+Detective in the  Dallas Police Auto Theft Bureau, Baritone./
+.IP Judge\ Joe\ Brown 4c
+Judge from Dallas, Tenor.
+.IP Melvyn\ Belli 4c
+A lawyer from San Francisco, Bass-Baritone.
+.IP Bill\ Decker 4c
+Dallas County Sherrif, Bass
+.IP Earle\ Warren 4c
+Chief Justice of the Supreme Court, Baritone.
+.IP Gerald\ Ford 4c
+Congressman, works for the FBI, Baritone.
+.IP Elmer\ Moore 4c
+Works for the Secret Service, Tenor.
+.bp
+
+.SH
+Non-Singing Parts
+.LP
+2nd Bodyguard,
+Beverly Oliver \f2(KOAP 86)\fP,
+Abraham Zapruder,
+the Black Dog Man \f2(KOAP 192)\fP,
+the Umbrella Man (Louis Steven Witt) \f2(KOAP 188)\fP,
+Gordon Arnold \f2(KOAP 32)\fP,
+Newsman Robert MacNeil \f2(KOAP 49)\fP,
+Secret Service Agents \f2(KOAP 51-57)\fP,
+John Brewer \f2(SLHO 146)\fP,
+Detective Jim R. Leavelle  \f2(SLHO 196)\fP,
+Joe Tonahill \f2(TJR 183)\fP,
+a stenographer,
+police, press, TV.
+
+.SH
+Possible Sharings of Minor Singing Parts
+.IP \ \ \ \(bu
+Bodyguard, Charles Nicoletti, George Applin, Charles Batchelor, Bill Decker;
+Bass.
+.IP \ \ \ \(bu
+Little Lynne, Kathy Kay Coleman; Soprano.
+Little Lynne's striptease (Act I Scene II)
+can be done by a separate non-singing artist.
+.IP \ \ \ \(bu
+Announcer, Richard Cain, Charles Brown, Elmer Moore; Tenor.
+.IP \ \ \ \(bu
+Roscoe White, James Hosty, Melvyn Belli; Bass-Baritone.
+.IP \ \ \ \(bu
+Jesse Curry, Earle Warren; Baritone.
+.IP \ \ \ \(bu
+Nick McDonald, D. R. Archer, Gerald Ford; Baritone.
+.IP \ \ \ \(bu
+L. C. Graves, Elmer Moore, Baritone.
+.IP \ \ \ \(bu
+Reporter ?
+.IP \ \ \ \(bu
+Ike Pappas ?
+@
+
+
+1.15
+log
+@Gerald Ford is a congressman
+@
+text
+@d21 1
+a21 1
+The owner of the Carousel Night Club \f2(MKPK 150)\fP, Tenor.
+d33 1
+a33 1
+Works for the CIA, Mafia, and Chicago police \f2(NAMED 63)\fP, Tenor.
+d35 1
+a35 1
+Gangster from Chicago \f2(NAMED 63)\fP, Bass.
+d43 1
+a43 1
+Works for the FBI. \f2(SLHO 223)\fP, Bass-baritone.
+d47 1
+a47 1
+Dallas Police Chief, not in on the conspiracy.
+d53 1
+a53 1
+Radio newsman, works for WNEW, based in New York.
+d55 1
+a55 1
+Detective in the Dallas Police.
+d57 1
+a57 1
+Detective in the  Dallas Police Auto Theft Bureau \f2(TJR 142)\fP.
+d59 1
+a59 1
+Judge from Dallas.
+d65 1
+a65 1
+Chief Justice of the Supreme Court, Tenor.
+d67 1
+a67 1
+Congressman, Works for the FBI, Baritone.
+d69 1
+a69 1
+Works for the Secret Service, Baritone.
+d85 1
+a85 1
+Joe Tonahill  \f2(TJR 183)\fP,
+d99 1
+a99 1
+Announcer, Richard Cain, Charles Brown, Earle Warren; Tenor.
+d103 2
+a111 2
+.IP \ \ \ \(bu
+Jesse Curry ?
+@
+
+
+1.14
+log
+@Nicoletti and Applin are basses
+@
+text
+@d5 3
+d13 1
+a13 1
+\s+4\f3Dramatis Personnae\fP\s0
+d67 1
+a67 1
+Works for the FBI, Baritone.
+a75 1
+J. D. Tippit \f2(KOAP 97, SLHO 127)\fP,
+d77 3
+a79 1
+Abraham Zapruder, the Black Dog Man, the Umbrella Man (Louis Steven Witt),
+d84 2
+a85 2
+Detective Jim R. Leavelle,
+Joe Tonahill,
+@
+
+
+1.13
+log
+@announcer is tenor
+@
+text
+@d32 1
+a32 3
+Gangster from Chicago \f2(NAMED 63)\fP, Baritone.
+.IP Kathy\ Kay\ Coleman 4c
+Olsen's girl friend, Soprano.
+d36 3
+a38 1
+Cinema-goer, Tenor
+d88 2
+a89 1
+Bodyguard, Charles Batchelor, Bill Decker; Bass.
+d95 1
+a95 1
+Richard Cain, George Applin, Charles Brown, Earle Warren; Tenor.
+d99 1
+a99 1
+Announcer, Nick McDonald, Archer, Gerald Ford; Baritone.
+d101 1
+a101 1
+Nicoletti, Graves, Elmer Moore, Baritone.
+@
+
+
+1.12
+log
+@ref for Brewer
+@
+text
+@d22 1
+a22 1
+Works at the Carousel Club, Baritone.
+d40 1
+a40 1
+Works for the F.B.I. \f2(SLHO 223)\fP, Bass-baritone.
+d53 1
+a53 1
+.IP \ D.\ R.\ Archer 4c
+d58 1
+a58 1
+A Mafia lawyer from San Francisco, Bass-Baritone.
+@
+
+
+1.11
+log
+@announcer is baritone
+@
+text
+@d79 1
+a79 1
+John Brewer,
+@
+
+
+1.10
+log
+@squeeze, add various voices
+@
+text
+@d22 1
+a22 1
+Works at the Carousel Club, Bass-baritone.
+@
+
+
+1.9
+log
+@add reporter
+@
+text
+@d16 1
+a16 1
+Latino, works for Jack Ruby, Bass.
+d28 1
+a28 1
+Works for the Dallas Police since two weeks, formerly of the CIA, Baritone.
+d30 1
+a30 1
+Works for the Chicago police, the CIA, and the Mafia \f2(NAMED 63)\fP, Tenor.
+d35 1
+a35 1
+.IP "Nick"\ McDonald 4c
+d48 1
+a48 1
+Dallas Police Officer, not in on the conspiracy.
+d51 1
+a51 1
+.IP L.\ C.\ Graves 6c
+d53 2
+a54 2
+.IP \ D.\ R.\ Archer 6c
+works for Dallas Police as Detective in the Auto Theft Bureau \f2(TJR 142)\fP.
+d58 1
+a58 1
+A Mafia lawyer from San Francisco.
+d60 1
+a60 1
+Dallas County Sherrif
+d94 1
+a94 1
+Richard Cain, George Applin, Earle Warren; Tenor.
+d96 1
+a96 1
+Announcer, Roscoe White, James Hosty, Melvyn Belli; Bass-Baritone.
+d98 1
+a98 1
+Announcer, Nick McDonald, Gerald Ford; Baritone.
+d100 7
+a106 1
+Elmer Moore, Baritone.
+@
+
+
+1.8
+log
+@add Hosty, Applin
+@
+text
+@d24 1
+a24 1
+Lynnette Carlin, works at the Carousel Club as a stripper, Soprano.
+d35 2
+a36 2
+.IP Maurice\ "Nick"\ McDonald 6c
+Dallas Police Officer, Baritone.
+d41 2
+a46 1
+In charge of security arrangements for Oswald's assasination.
+d51 4
+a54 4
+.IP Detective\ L.\ C.\ Graves 6c
+Dallas Police Officer.
+.IP Detective\ D.\ R.\ Archer 6c
+Dallas Police Officer, works for the Auto Theft Bureau \f2(TJR 142)\fP.
+@
+
+
+1.7
+log
+@possible role-sharings
+@
+text
+@d21 2
+d37 4
+d51 3
+a53 1
+Dallas Police officer.
+d66 1
+d68 2
+a70 1
+\f3Non-singing parts\fP:
+d72 1
+a72 1
+J. D. Tippett \f2(KOAP 97, SLHO 127)\fP,
+a78 1
+George Applin,
+a82 1
+.bp
+d93 3
+a95 1
+Richard Cain, Earle Warren; Tenor.
+d97 1
+a97 1
+Roscoe White, Melvy Belli; Bass-Baritone.
+d99 1
+a99 1
+Nick McDonald, Elmer Moore; Baritone.
+@
+
+
+1.6
+log
+@beverly oliver non-singing
+@
+text
+@d28 1
+a28 1
+Works for the Chicago police, the CIA, and the Mafia \f2(NAMED 63)\fP.
+d30 1
+a30 1
+Gangster from Chicago \f2(NAMED 63)\fP.
+d34 1
+a34 1
+Dallas Police Officer, Baritone
+d61 1
+d74 16
+@
+
+
+1.5
+log
+@remove Tom Howard
+@
+text
+@d7 1
+a7 1
+\s+8\f3The Carousel Club\fP\s0
+a12 2
+.IP Jack\ Ruby 4c
+The owner of the Carousel Night Club (MKPK 150), Tenor.
+d15 6
+a20 4
+.IP Roscoe\ White 4c
+Works for the Dallas Police since two weeks, formerly of the CIA, Baritone.
+.IP Two\ Latinos 4c
+Jack Ruby's Bodyguards, Basses.
+d25 6
+a30 4
+.IP Beverly\ Oliver 4c
+A Dancer from the Colony Club next door (KOAP 86), Alto.
+.IP Harry\ Olsen 4c
+Police, Baritone.
+a32 2
+.IP Bill\ Decker 4c
+Dallas County Sherrif
+d50 2
+d61 2
+d64 3
+a66 3
+Gordon Arnold (KOAP 32),
+Newsman Robert MacNeil,
+Secret Service Agents,
+d70 1
+@
+
+
+1.4
+log
+@add Elmer Moore
+@
+text
+@a30 1
+
+a41 1
+
+d44 2
+a45 2
+.IP Tom\ Howard 4c
+A Mafia lawyer from Dallas, Tenor.
+d66 1
+a66 1
+Detective L. C. Graves,
+@
+
+
+1.3
+log
+@added Charles Brown (transfer car driver)
+@
+text
+@d34 1
+a34 1
+.IP Maurice\ "Nick"\ McDonald 4c
+d56 2
+@
+
+
+1.2
+log
+@add Graves
+@
+text
+@d8 1
+a8 1
+.sp 1c
+d11 1
+a11 1
+.sp 1c
+d41 3
+d56 1
+a56 1
+.sp 1c
+@
+
+
+1.1
+log
+@added minor chars in cinema scene
+@
+text
+@d34 2
+d41 2
+a42 2
+.IP Maurice\ "Nick"\ McDonald 4c
+Dallas Police Officer, Baritone
+@
