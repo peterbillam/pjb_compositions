@@ -1,0 +1,30 @@
+2 systems 10/19-30-19 30 19-30-19 30 19-30-19/19-30-19 30 19-25-19 30 19-25-19/
+title 20141021 ; from 20140914, to segue from 20141013
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 8 patch 45 pan 50 reverb 45   # pizz
+
+/
+3 bars | 16 | 96 | 96 |
+| 0.42
+=1 treble cha1 leg90 vol90 16 d 8 [c# 16 d]
+=2 treble cha2 leg90 vol90 16 rest 8. rest
+=3 alto   cha3 leg90 vol90 16 rest 8. rest
+=4 alto   cha4 leg90 vol90 16 rest 8. rest
+=5 bass   cha5 leg90 vol90 16 rest 8. rest
+=6 bass   cha6 leg90 vol90 16 rest 8. rest
+| 2.4
+=1 8 [D 16 d'] 8 [c# 16 d] 8 [D 16 E] 8 [D 16 d'(2] \
+   8 [d')2 16 D] 8 [E 16 D] 8 [d' 16 D] 8 [E 16 D]
+i0.54 .01 rabbit? 16 8 16 : 8 ?
+=2 1 blank
+|
+=1 8 rest 16 d 8 [c# 16 d] 8 [D 16 d'] 8 [c# 16 d] \
+   8 [D 16 E] 8 [D 16 d'(2] d')2 rest 16 d 8 [c# 16 d]

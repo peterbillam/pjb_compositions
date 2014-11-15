@@ -1,0 +1,105 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.10.08.00.16.00;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@tristan-like +n-1 and +n-1-1 (and inverse)
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@6 systems 10 /19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/
+title 20140914
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+
+# book.AO  p.44
+/
+2 bars | 28 | 28 |
+| 2.8
+=1' treble   cha2 leg80 vol89 4. <C E>  8 <C E> 4. <C# A> 8 <D F#> \
+ 4. <D# B> 8 <E G#> 4 <Dbl Fn db>
+=2' bass     cha6 leg99 vol89 4 rest 4. F# 8 [G F# G#] [A G#] [B A#] 4 leg190 B \
+ treble
+i0.7 .03 colla bassa
+# #M=3' bass8vab cha7 leg99 vol89 8 rest G 4. F# 8 [G F# G#] [A G#] [B A#] 4 leg190 B
+|
+=1, leg99 cha1 4 rest 4. <G g> 8 [<Ab ab> <G g> <An an>] \
+ [<Bb bb> <A a>] [<c~ c> <Bn bn>] 4 <e~ e>
+=2' leg80 cha3 4. <Db F> 8 <F_ Db F> 4. <B_bl Dn Bb> 8 <G_ Eb G> \
+ 4. <C En c> 8 <A_ F A> 4 leg190 <D F#> bass
+/
+2 bars | 28 | 28 |
+|
+=1' leg80 4. <D F#> 8 <D F#> 4. <D# B> 8 <E G#> 4. <Fn c#> 8 <F# Bb> 4 <Ebl Gn eb>
+=2' leg99 cha6 8 rest A 4. G# 8 [A G# A#] [B A#] [db c] 4 leg190 db treble
+# #M=3' cha7 leg99 8 rest A 4. G# 8 [A G# A#] [B A#] [db c] 4 leg190 db
+|
+=1, cha1 leg99 4 rest 4. <A a> 8 [<Bb bb> <A a> <Bn bn>] [<c c~> <B b>] [<d~ d> <c# c~#>] 4 <f~# f#>
+=2' cha3 leg80 4. <Eb G> 8 <G_ Eb G> 4. <Cl En c> 8 <A_ F A> 4. <D F# d> 8 <B_ G B> 4 <E G# e>
+
+midi pause 1.0
+/
+2 bars | 28 | 28 |
+| 3.6
+i0.7 .01 20141008  trying to make the motive more tristan-like  +n -1 -1
+=1' 4. <C E> 8 <C E> 4. <B_ A> 8 <E Ab> 4. <D# G> 8 <D# G> 4. <Dn c> 8 <G B>
+i0.2 .05 also nice to have some 10's and not just 4's and 8's  :-)
+=2 1 blank
+|
+=1' 2 <F#rl A#>
+
+midi pause 1.0
+/
+2 bars | 28 | 28 |
+| 3.6
+i0.7 .01 inverted
+=1' 4. <E Cn> 8 <E C> 4. <Fn G_n> 8 <C G_#> 4. <C# A_> 8 <C A_> 4. <Dn E_> 8 <A_ F_n>
+|
+=1' 2 <A_# F_#lr>
+
+midi pause 1.0
+/
+3 bars | 28 | 28 | 5 |
+| 3.6
+i0.7 .01 join 'em up
+=1' 4. <C E> 8 <C E> 4. <B_ A> 8 <E Ab> 4. <D# G> 8 <D# G> 4. <Dn c> 8 <G B>
+|
+=1' 4. <A# F#l> 8 <A# F#l> 4. <B C#> 8 <F# D> 4. <G Eb> 8 <G Eb> 4. <G# A_#> 8 <D# B_>
+|
+=1' 2 <E C>
+
+midi pause 1.0
+/
+3 bars | 17 | 13 | 2 |
+| 3.35
+=1' 4. <C E> 8 <C E> 4. <B_ A> 8 <E Ab> 4. <D# G> 8 <D# G> 4 <Dn c> 8 <G B>
+| 2.95
+i0.7 .01 faster on the descent ...
+=1' 4. <A# F#l> 8 <A# F#l> 4 <B C#> 8 <F# D> 4 <G Eb> 8 <G Eb> 4 <G# A_#> 8 <D# B_>
+|
+=1' 2 <E C>
+
+@

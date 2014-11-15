@@ -1,0 +1,78 @@
+2 systems 10 / 19-30-19 30 19-30-19 30 19-30-19 \
+ / 19-30-19 30 19-30-19 30 19-30-19 /
+title 20141011
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+# book.AO  p.44
+/
+4 bars | 5 | 48 | 48 | 48 |
+| 0.21
+=1  treble   cha1 leg99 vol90 8 c
+i0.4 .04 becoming rapidly thicker, with more and more simultaneous movement
+=2  treble   cha2 leg99 vol90 8 rest
+i0.5 .01 from   tiny sketchbook
+=3  alto     cha3 leg99 vol90 8 rest
+=4' alto     cha4 leg99 vol90 8 rest
+=5' tenor    cha5 leg99 vol90 8 rest
+=6' tenor    cha6 leg90 vol90 8 rest
+| 2.4
+i0.9 .01 Bb233
+=1 1 Bb 8 rest [Bb c eb]
+=2 2 rest rest rest
+=3 4. rest 8 [d eb g] 2. f#
+=4 2 rest rest 4. rest 8 f
+=5 2. rest 8 rest d 2 eb
+=6 2 rest rest 8 rest c 4 Bb(1
+i0.4 .04 coming to rest after 15..20 sec
+|
+i0.9 .01 Bb2222
+=1 1 d 8 rest [c d gb]
+=2 8 rest Bb 1 c 4 rest
+=3 4. rest 8 f# 2. g# 8 rest a#
+=4 2 f# 8 rest [f# e c] 4. Bb 8 F#
+=5 8 rest [c d f#] 1 e
+=6 2. Bb)1 8 rest [Bb c e] 4 d
+|
+i0.9 .01 B242
+=1 1 f 4. rest 8 f
+=2 8 rest eb 2 db 8 rest c 2 c#
+=3 2. b 8 rest ab 2 g(1
+=4 2 G 8 rest A# 2. B
+=5 4. rest 8 [A# B d#] 2. c#(1
+=6 8 rest [B' A' F] 2 G 8 rest [G, A c#]
+/
+3 bars | 48 | 48 | 48 |
+|
+i0.9 .01 B233
+=1 1 e 8 rest c# 4 B(1
+=2 8 rest A# 2 B' 8 rest d# 2 e
+=3 2. g)1 8 rest [f# g a] 4 g(1
+=4 4. rest 8 [d# e ab] 2 g 8 rest b
+=5 2 c#)1 8 rest B 2. c#
+=6 1 B 8 rest [B c# e]
+|
+i0.9 .01 B2222
+=1 2. B)1 8 rest [B c# f] 4 eb
+=2 8 rest [c# d# gb] 1 f
+=3 4. g)1 8 [g# a c~] 2 b 8 rest a
+=4 2 an 8 rest [ab g e] 2 f
+=5 8 rest B 1 c# 8 rest B
+=6 1 d# 8 rest [c# d# g]
+|
+i0.9 .01 c242 ?  Bb242 ?
+=1 4. rest 8 [B c e] 2. d
+=2 8 rest [c' Bb' Gb] 2 Ab blank
+=3 2 ab 8 rest c~ 2. bb
+=4 8 rest [g ab b] 4 bb 8 rest ab 2 gb
+=5 8 [cn eb] 1 d 4 rest
+=6 1 f# 8 rest 4. blank

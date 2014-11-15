@@ -1,10 +1,15 @@
-head	1.2;
+head	1.3;
 access;
 symbols;
 locks
-	pjb:1.2; strict;
+	pjb:1.3; strict;
 comment	@# @;
 
+
+1.3
+date	2014.08.10.07.53.49;	author pjb;	state Exp;
+branches;
+next	1.2;
 
 1.2
 date	2014.05.23.23.30.11;	author pjb;	state Exp;
@@ -22,9 +27,9 @@ desc
 @
 
 
-1.2
+1.3
 log
-@changed start of 3rd line so as to move upwareds
+@rotate last chord all instruments
 @
 text
 @3 systems 70 /19-50-19/19-50-19/19-50-19 70/
@@ -35,6 +40,7 @@ leftfoot (c) 2014 Peter J Billam
 midi channel 0  patch 56 pan 30
 midi channel 1  patch 57 pan 70
 
+midi off
 /
 8 bars | 6 | 4 4 4 4  4 4 4 4  4 4 4 6 \
  | 4 4 4 4  4 4 4 4  4 4 4 8 \
@@ -129,6 +135,173 @@ i1.2 .01 cymbal trill cresc to end . . .
 =1, 2. <A#)4 f#)2 a#)1>
 =2, 2. <F#)4 f#)2 c~#)1>
 i1.0 .70 ta ta TA
+
+midi on
+
+
+3 systems 10 /19-30-19 30 19-30-19/19-30-19 30 19-30-19 \
+ /19-30-19-30-19-30-19 40 19-40-19/
+pagenum
+title Fanfare
+innerhead Fanfare for the Lord Mayor of Hobart
+leftfoot (c) 2014 Peter J Billam
+midi channel 0  patch 56 pan 30
+midi channel 1  patch 57 pan 70
+
+/
+8 bars | 6 | 4 4 4 4  4 4 4 4  4 4 4 6 \
+ | 4 4 4 4  4 4 4 4  4 4 4 8 \
+ | 48 | 48 | 48 | 48 | 45
+| 0.25
+=1  treble cha0  vol100 leg100 16 rest
+i0.5   Four   Trumpets
+=2  treble cha0  vol100 leg100 16 rest
+=3  tenor cha1 vol100 leg100 16 Bb-.
+i0.5   Four   Trombones
+=4  tenor cha1 vol100 leg100 16 rest
+| 3.0
+=2, 2 rest, 8. rest, 16 C-.
+=3 2. eb(1
+|
+=1' 2 rest' 8. rest' 16 G-.
+=2, 2. F(2
+=3 2. eb)1(1
+|
+=1' 2. c
+=2, 2. F)2
+=3 2. eb)1
+|
+=1' 4 rest 4. <Ab c> 8 rest
+=2' 4 rest 4. F 8 rest
+=3 4 rest 4. eb 8 rest
+|
+=1' 2. <A(3 d(1>
+=2' 2. F#(2
+=3 2. d(1
+|
+=1' 2 <A)3 d)1> 4 rest
+=2' 2 F#)2 4 rest
+=3 2 d)1 4 rest
+|
+=1 2 rest 8. rest
+=3 2 rest 8. rest
+
+/
+8 bars | 6 | 4 4 4 4  4 3 3 3  5 5 5 6 \
+ | 4 4 4 4  4 4 4 4  4 4 4 8 \
+ | 48 | 48 | 48 | 48 | 45
+| 0.25
+=1  vol110 16 rest
+=2  16 rest
+=3 vol110 16 c#-.
+=4  16 rest
+| 3.0
+=2 2 rest, 8. rest, 16 G#-.
+=3 2. f#(1
+|
+=1' 2 rest' 8. rest' 16 e-.
+=2, 2. c#(2
+=3 2. f#)1(1
+|
+=1' 2. a
+=2, 2. c#)2
+=3 2. f#)1
+|
+=1, 4 rest 2 <e a>
+=2  4 rest 2 A
+=3 4 rest 2 f#
+|
+=1, 2. <e(2 g#(1>
+=2  2. A#(4
+=3 2. f#(1
+|
+=1, 2  <e)2 g#)1> 4 rest
+=2  2  A#)4 4 rest
+=3 2 f#)1 4 rest
+|
+=1 2 rest 8. rest
+=3 2 rest 8. rest
+
+/
+8 bars | 6 | 4 4 4 4  4 4 4 4  4 4 4 6 \
+ | 4 4 4 4  4 4 4 4  4 4 4 8 \
+ | 48 | 11 8 7 8 7 8 | 48 | 48 | 48 ||
+| 0.25
+=1  treble cha0 vol110 16 rest
+=2  treble cha0 vol110 1 blank
+=3  treble cha0 vol110 16 rest
+=4  treble cha0 vol110 1 blank
+=5  tenor  cha1 vol110 16 d-.
+=6  tenor  cha1 vol110 16 rest
+| 3.0
+=2  2 rest, 8. rest, 16 F-.
+=5 2. g(1
+|
+=1  2 rest' 8. rest' 16 Bb-.
+=2  2. c(,2
+=5 2. g)1(1
+|
+=1  2. f
+=2  2. c),2
+=5 2. g)1 bass
+=6 2. blank bass
+|
+=1  8 rest' 2 bb 8 rest
+I0.5 .85 fff
+=2  8 rest' 2 f  8 rest
+=3  8 rest' 2 d  8 rest
+I0.5 .85 fff
+=4  8 rest' 2 Bb 8 rest
+=5' 8 rest' 2 d~ 8 rest'
+=5, 8 rest  2 bb 8 rest
+I0.5 .85 fff
+=6' 8 rest' 2 bb 8 rest'
+=6, 2. rest,
+|
+=1  vol126 2. a#(1
+=2  vol126 4. f# 8 rest 4 A#(2
+=3  vol126 2  A#(2 8 A)2 rest
+=4  vol126 8 a# rest 2 f#(1
+=5, vol126 2. f#
+=5' vol126 4 c~# rest' F#(1
+=6' vol126 4 rest'' 2 c~#(1
+=6, vol126 2 F# 4 rest,,
+i1.2 .01 cymbal trill cresc to end . . .
+|
+=1  8 a#)1 rest 2 f#(1
+=2  2 A#)2(2 8 A)2 rest
+=3  2. a#(1
+=4  4. f#)1 8 rest 4 A#(2
+=5, 4 rest,,, 2 F#
+=5'  4 F#)1 rest' c~#(1
+=6' 2 c~#)1 4 rest''
+=6, 2. f#(2
+|
+=1  4. f#rl)1 8 rest 4 A#
+i0.5 .30 sempre
+I0.5 .85 fff
+=2  2. a#
+=3  2.  8 a#)1 rest 2 f#
+i0.5 .30 sempre
+I0.5 .85 fff
+=4  2. A#)2
+=5, 4 rest, 2 f#
+i0.5 .30 sempre
+I0.5 .85 fff
+=5' 2. c~#)1
+=6' 2. F#r
+=6, 4 f#)2 rest,, F#
+i1.0 .70 ta ta TA
+@
+
+
+1.2
+log
+@changed start of 3rd line so as to move upwareds
+@
+text
+@d9 1
+d103 157
 @
 
 

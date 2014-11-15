@@ -1,0 +1,89 @@
+2 systems 10/19-30-19 30 19-30-19 30 19-30-19/19-30-19 30 19-25-19 30 19-25-19/
+title 20141102 ; for use in mvt1 at 150sec
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 8 patch 45 pan 50 reverb 45   # pizz
+/
+4 bars | 16 | 96 | 96 | 96 |
+| 0.4
+=1 treble cha1 leg90 vol90 1 blank
+=2 treble cha2 leg90 vol90 1 blank
+=3 alto   cha3 leg90 vol90 1 blank
+=4 alto   cha4 leg90 vol90 1 blank
+=5 bass   cha5 leg90 vol90 1 blank
+=6 bass   cha6 leg90 vol90 4 f
+| 2.4
+il0.9 .04 A242 .52 A224
+=1  1 rest 4 rest eb
+=2 4. rest blank 2. blank
+=3  1 blank
+=4 2 rest 8 rest blank 2. blank
+=6' 2. B 4 c 2 db(2
+|
+il0.9 .04 Ab223
+=1 2. Bb 4 c 2 db(1
+=2 1 blank
+=3 2 blank
+=4' 4. blank
+=5 1 rest 4 rest e~
+=6 1 db)2 2 rest
+|
+il0.9 .04 G242 .52 G224
+=1 1 db)1
+=3 1 rest 4 rest c#
+=5 2. a 4 a# 2 b(1
+/
+3 bars | 96 | 96 | 96 |
+|
+il0.9 .04 F#223
+=1 1 blank
+=3 2. G# 4 A# 2 B(2
+=5 2 b)1 1 blank
+=6 1 rest 4 rest d~
+|
+il0.9 .04 F242 .52 F224
+=1 1 blank 4 rest B
+=3 2 B)2 1 blank
+=6 2. g 4 g# 2 a(1
+|
+il0.9 .04 E233
+=1 2. F# 4 G# 2 A
+=6 2 a)1 1 blank
+
+midi off
+2 systems 10/19-30-19 30 19-30-19 30 19-30-19/19-30-19 30 19-25-19 30 19-25-19/
+/
+4 bars | 16 | 96 | 96 | 96 |
+| 0.4
+=1 treble cha1 leg90 vol90 1 blank
+=2 treble cha2 leg90 vol90 1 blank
+=3 alto   cha3 leg90 vol90 1 blank
+=4 alto   cha4 leg90 vol90 1 blank
+=5 bass   cha5 leg90 vol90 4 g
+=6 bass   cha6 leg90 vol90 1 blank
+| 2.4
+=1 4. rest 8 a 4. d# 8 e 2 f(2
+=2 1 rest 4 rest d
+=5 2. d~b 4 c~ 2 b(1
+|
+=1 1 f)2 2 rest
+=2' 2. A 4 A# 2 B(2
+=3 2 rest rest 4 rest c#
+=4' 4. rest 8 c# 4. G 8 G# 2 A
+=5 1 b)1 2 rest
+|
+=1 4. rest 8 f 4. B 8 c 2 c#
+=2' 1 B)2 2 rest
+=3 2. f 4 e 2 d#(1
+/
+2 bars | 96 | 96 | 96 |
+|
+=1 1 blank
+=3 2 d#)1 1 blank

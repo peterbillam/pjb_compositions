@@ -1,0 +1,77 @@
+2 systems 10 /17-20-17-20-17-20-17-20-17-20-17-20-17 \
+ /17-20-17-20-17-20-17-20-17-20-17-20-17 /
+# what I really want to do is Metamorphosen, or Cantus in memoriam BB
+# but what I need to do is something for the enjoyment of the players,
+# or psychedelia
+title String Orchestra
+pagenum 2
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+
+# book.AO  p.1  stav.8
+# written-out-blur at qua ?
+# muscript -midi str_orch | midiecho -c 2 -d 420 -s 0 -e 1 \
+#  | midiecho -c 4 -d 420 -s 0 -e 3 | aplaymidi -p TiMidity -
+
+/
+5 bars | 3/2  24 | 24 | 28 | 28 | 24 |
+| 3/2 4.0
+i0.5 .07 4 sec/bar
+=1 treble     3/2 cha1 leg99 vol65 1. rest
+=2 treble     3/2 cha2 leg99 vol70 2. eb 2 B 4 G(2
+=3 alto       3/2 cha3 leg99 vol75 1. rest
+=4 alto       3/2 cha4 leg99 vol80 2 eb db A
+=5 bass       3/2 cha5 leg99 vol80 4  eb db B A G F
+=6 bass       3/2 cha6 leg99 vol80 1. rest
+=7 bass8vab   3/2 cha7 leg99 vol80 1. rest
+|
+=1 2 blank 1. rest
+=2 4 G)2 2 Eb B_n 4 G_
+=3 2 blank 1. rest
+=4 2 F Db rest
+=5 4 Eb rest 2 rest A
+=7 4 rest db B A G F
+| 1.0
+=1 blank
+| 5.2
+i0.7 .01 see AO pp43
+=1 4/2 2 A F D 4 C# 8 [B_ G_#]
+=2 4/2
+=3 4/2 4 rest <G(2 B(1> 4. <G)2 B)1> 8 <G B> 1 <G# e>
+=4 4/2
+=5 4/2
+=6 4/2
+=7 4/2
+| 6.5
+=1
+=2 4. <B_ Eb> 8 <B_ Eb> 4. <C A> 8 <C A> 4. <Eb G> 8  <Eb G> \
+ 4. <Ab, f> 8 <Ab, f> 4 <e g> <f ab f~>
+=3
+=4
+=5 1 eb 2 B Ab 4 G 8 [F D]
+=6 
+=7 
+| 1.5
+=1
+=2 1 <e c~ e~>
+=3
+=4
+=5 1 A_
+=6 
+=7 
+| 6.5
+i0.7 .01 see AO pp44
+=1
+=2 4 rest 2. A 2 F D 4 C# 8 [B_ G_#]
+=3
+=4 4. <E G#> 8 <E G#> 4. <F c'> 8 <F c'> 4. <G B> 8 <G B> 1 <G# e'>
+=5
+=6
+=7

@@ -1,0 +1,97 @@
+6 systems 10 /19-30-19/ 19-30-19 / 19-30-19/ 19-30-19/ 19-25-19/ 19-25-19/
+title 20141021 ; from 20140914, to segue from 20141013
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+
+# book.AO  p.44
+/
+2 bars | 28 | 28 |
+| 3.2
+=1' treble   cha2 leg80 vol89 1 blank
+=2' bass     cha6 leg99 vol89 1 blank
+=1' 4. <C E> 8 <C E> 4. <B_ A> 8 <E Ab> 4. <Eb G> 8 <Eb G> 4. <D c> 8 <G B>
+=2  8 rest G 4 F# 8 rest [G A c] 2 B 8 rest e 4 d
+|
+=1' 4. <F# Bb> 8 <F# Bb> 4. <Fn eb> 8 <Bb d> 4. <A c#> 8 <A c#> 4. <G# f#> 8 <c# fn>
+=2 8 rest [d e ab] 2 g 8 rest g 4 f# 8 rest [c~ bb g]
+
+| 2.8
+i0.7 .35 going into cycle?cro:qua? to feed into 20141015
+=1' 4. <e cl> 8 <e cl> 4 <f G> 8 <c G#> 4. <c# A> 8 <c# A> 4 <d E> 8 <A F>
+=2 8 [ab c~] 4 bb(1 4. bb)1 8 rest f 4 g(1 8 g)1 4 c#
+| 2.4
+=1' 4 <A# F#l> 8 <A# F#l> 4 <B C#> 8 <F# D> 4 <G Eb> 8 <G Eb> 4 <G# A_#> 8 <D# B_>
+=2 8 [d f# e(1] 4. e)1 8 rest [B c#(2] 4. c#)2
+
+midi off
+|
+=1' 4. <e cl> 8 <e cl> 4. <f G> 8 <c G#> 4. <c# A> 8 <c# A> 4. <d E> 8 <A F>
+=2 2 g# blank 1 blank
+|
+i0.7 .01 or could go cycle?cro:qua? to feed into 20141015
+=1' 4. <A# F#l> 8 <A# F#l> 4. <B C#> 8 <F# D> 4. <G Eb> 8 <G Eb> 4. <G# A_#> 8 <D# B_>
+midi on
+
+| 1.8 
+=1' 2 <E C>
+
+midi off
+
+6 systems 10 /19-30-19/ 19-30-19 / 19-30-19/ 19-30-19/ 19-25-19/ 19-25-19/
+
+midi pause 1.0
+/
+3 bars | 16 | 13 | 2 |
+| 3.6
+=1' 4. <C E> 8 <C E> 4. <B_ A> 8 <E Ab> 4. <Eb G> 8 <Eb G> 4. <D c> 8 <G B>
+| 2.925
+i0.7 .01 faster on the descent
+=1' 4. <A# F#l> 8 <A# F#l> 4 <B C#> 8 <F# D> 4 <G Eb> 8 <G Eb> 4 <G# A_#> 8 <D# B_>
+| 1.8 
+=1' 2 <E C>
+
+midi off
+
+6 systems 10 /19-30-19/ 19-30-19 / 19-30-19/ 19-30-19/ 19-25-19/ 19-25-19/
+
+midi pause 1.0
+/
+3 bars | 14 | 14 | 2 |
+| 3.15
+i0.7 .01 grouped in pairs
+=1' 4. <C E> 8 <C E> 4 <B_ A> 8 <E Ab> 4. <Eb G> 8 <Eb G> 4 <D c> 8 <G B>
+|
+=1' 4. <A# F#l> 8 <A# F#l> 4 <B C#> 8 <F# D> 4. <G Eb> 8 <G Eb> 4 <G# A_#> 8 <D# B_>
+| 1.8 
+=1' 2 <E C>
+
+midi pause 1.0
+/
+3 bars | 14 | 14 | 2 |
+| 3.15
+i0.7 .01 differently grouped in pairs
+=1' 4 <C E> 8 <C E> 4. <B_ A> 8 <E Ab> 4 <Eb G> 8 <Eb G> 4. <D c> 8 <G B>
+|
+=1' 4 <A# F#l> 8 <A# F#l> 4. <B C#> 8 <F# D> 4 <G Eb> 8 <G Eb> 4. <G# A_#> 8 <D# B_>
+| 1.8 
+=1' 2 <E C>
+midi pause 1.0
+/
+3 bars | 14 | 14 | 2 |
+| 3.15
+i0.7 .01 morse-thue grouped in pairs
+=1' 4 <C E> 8 <C E> 4. <B_ A> 8 <E Ab> 4. <Eb G> 8 <Eb G> 4 <D c> 8 <G B>
+|
+=1' 4. <A# F#l> 8 <A# F#l> 4 <B C#> 8 <F# D> 4 <G Eb> 8 <G Eb> 4. <G# A_#> 8 <D# B_>
+| 1.8 
+=1' 2 <E C>
+
+midi on

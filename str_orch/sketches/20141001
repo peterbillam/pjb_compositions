@@ -1,0 +1,80 @@
+2 systems 10 / 19-30-19-30-19-30-19-30-19-30-19-30-19 \
+ / 19-30-19-30-19-30-19-30-19-30-19-30-19 /
+title 20141001
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+# book.AP  p.3
+/
+3 bars | 48 | 48 | 48 |
+$V1 = morse_thue? 8 bb rest : 4 rest ?
+$V2 = morse_thue? 8 rest 16 <dx e> rest : 16 <dx e> rest 8 rest ?
+$A2 = morse_thue? [<Bb e> rest' rest' <Bb e>] : rest' [<Bb e> <Bb e>] rest' ?
+$C1 = morse_thue? [d rest' rest' d] : rest' [d d] rest' ?
+| 3.6
+=1  treble   cha8 leg99 vol95
+=2  treble   cha2 leg99 vol76
+=3  alto     cha3 leg99 vol75
+=4' alto     cha4 leg99 vol75
+=5' tenor    cha8 leg99 vol75
+=6' bass     cha6 leg99 vol75
+=7' bass8vab cha8 leg90 vol90
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6' 1 rest
+=7 8 bb 4. rest 2 rest
+|
+=1 $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6' 1 rest
+=7 2 rest 8 bb 4. rest
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 2. rest 4 g
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6 2. rest 4 g
+=7 2 rest 8 bb 4. rest
+/
+3 bars | 48 | 48 | 48 |
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 2 f# 4 g ab(1
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6  2 f# 4 g ab(1
+=7 8 bb 4. rest 2 rest
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 4 ab)1 rest 2 ab
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6 4 ab)1 rest 2 f#
+=7 2 rest 8 bb 4. rest
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 4 g 2 f# 4 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6 4 g 2 ab 4 rest
+=7 2 rest 8 bb 4. rest
+

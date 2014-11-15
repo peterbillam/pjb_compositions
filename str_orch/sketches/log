@@ -1,0 +1,29 @@
+20141018
+
+    20140914          ar 5 qua/sec          7/4 2-voice tristans
+    2014101[135]      at 5 qua/sec          6v cntrpnt
+    20140912          at 10 smq/sec         jig
+      BUT there is a qua voice, which is 5 qua/sec ... :-)
+      OR  equivalently, at half speed for a while ...
+
+    20141004 20141002 at 8 smq/sec          murmer, seethe
+      11/16, also not coprime with 8;  but just feasible at 10smq/sec ...
+	  although so different in texture that a tempo-change is no problem
+
+    20141001          at 4.44 smq/sec       rhythmic texture
+      could be 4 or 5; both are fine :-)    could work as glue, to and fro
+
+20141019
+	Just as the jig 20140912 could follow on from 20141015
+	so the 'cro. qua' rhythm of 20140914 could follow on from 20141013
+	So 20141019 could return shortened so as to spawn different offspring
+
+20141020
+	and indeed 20140914 can end in cycle?cro:qua? and thus precede 20141015
+	muscript -midi 20141013 20140914 20141015 | midisox_lua - -d
+
+	See 20141020
+	Now to rethink the dancy 20140912 and join up
+
+20141021
+	perhaps :  1) 6v counterpoint  2) rhythm  3) sad but dignified

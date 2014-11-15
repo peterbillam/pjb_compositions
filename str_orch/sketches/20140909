@@ -1,0 +1,48 @@
+5 systems 10 /19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/
+title 20140909
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+
+# book.AO  p.44
+/
+4 bars | 6/4  24 | 24 | 24 | 24 |
+| 6/4 4.2
+i0.5 .07 4 sec/bar
+=1' treble     6/4 cha3 leg99 vol89 4 E 2 Bb 4 A 2 Ab
+=2  treble     6/4 cha4 leg99 vol80 4 4 C 2 Db 4 F 2 B_
+|
+=1' 4 E 2 Bb 4 A 2 Ab
+=2  4 4 C 2 Db 4 F 2 B_
+| 1.0
+=1 blank
+/
+2 bars | 6/4  24 | 24 |
+| 3.9
+=1  treble cha1 4 a g# f# e d# c~# b a g f~ e~ d~# c~#
+=2' treble cha3 2 E 2 Bb 2 A  2 e 2 eb bb 4 a
+=2, treble cha4 2 C 2 C# 2 F# 2 G 2 c  c# 4 f#
+#|
+#=1  cha1 4 a g# f# e dn c~ b a g f~ e~ d~# c~#
+#=2' cha3 2 E 2 Bb 2 A 2 d 2 eb bb 4 a
+#=2, cha4 2 C 2 C# 2 F 2 F# 2 c c# 4 f#
+|
+=1 cha1 4 c~ b a g f e~b d~ c~ b g~# g~n f~# e~n
+=2' cha3 2 G 2 c# 2 cn 2 f 2 f# c~# 4 c~n
+=2, cha4 2 Eb 2 En 2 G# 2 A 2 eb en 4 a
+midi pause 1.5
+
+/
+2 bars | 6/4  24 | 24 |
+| 3.9
+=1  treble cha1 leg105 vol100 4 A g f eb db c~ bb ab gb f~
+=2' treble cha3 2 E A Ab d c#
+=2, treble cha4 2 C C#-iwt, F-imaj, F#-iwt, A#l-imaj,
+

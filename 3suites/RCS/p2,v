@@ -1,4 +1,28 @@
-.\" header = mushead
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.08.04.01.33.37;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Page Two comments for all the 3suites
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
 .AM
 .nr PS 12
 .nr VS 15
@@ -52,3 +76,4 @@ These suites can be obtained from \f2http://www.pjb.com.au/mus\fP
 .sp 1.2c
 .ce 1
 \f2\(co 2000 Peter Billam\fP
+@

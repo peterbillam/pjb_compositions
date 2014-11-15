@@ -1,0 +1,163 @@
+6 systems 10 /19-30-19/ 19-30-19/ 19-30-19 8/ 19-30-19/ 19-30-19/ 19-30-19/
+title 20140912
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+
+# book.AO  p.44
+midi off
+/
+3 bars | 1.4 | 24 | 12 7 |
+| 1/4 0.10
+=1' treble   cha3 leg99 vol89 16 B_
+| 2.4
+i0.7 .01 rabbit?up:down?
+=1' 8 [C 16 Eb] 8 [D 16 F] 8 [Gb 16 D] 8 [Eb 16 Gb] \
+ 8 [F 16 G#] 8 [A 16 Gb] 8 [F 16 G#] 8 [A 16 B]
+|
+=1' 8. c 8 [B' 16 G#] 8 [A 16 F] 8 [Gb 16 Eb] 4. D rest
+
+/
+3 bars | 1.4 | 24 | 15 |
+| 1/4 0.1
+=1' treble   cha3 leg99 vol89 16 B_
+| 2.4
+i0.7 .01 continuing the rabbit
+=1' 8 [C 16 Eb] 8 [D 16 F] 8 [Gb 16 D] 8 [Eb 16 Gb] \
+ 8 [F 16 G#] 8 [A 16 Gb] 8 [F 16 G#] 8 [A 16 B]
+| 1.5
+=1' 8. c 8 [B' 16 G#] 8 [A 16 F] 8 [Gb 16 D] 8 Eb 16 F
+/
+2 bars | 24 | 12 7 |
+| 2.4
+#=1' 8 [F 16 G#] 8 [Gn 16 Bb] 8 [Bn 16 G] 8 [G# 16 B] 8 [Bb 16 c#] 8 [d 16 Bn] 8 [Bb 16 c#] 8 [d 16 e]
+#|
+#=1' 8. f 8 [e' 16 c#] 8 [d 16 Bb] 8 [Bn 16 G] 2. G#
+=1 8 [F# 16 A] 8 [G# 16 B'] 8 [c' 16 G#] 8 [A, 16 c] 8 [B 16 d] 8 [eb 16 c] 8 [B 16 d] 8 [eb 16 f]
+|
+=1 8. gb 8 [f 16 d] 8 [eb 16 B] 8 [c 16 eb] 2. d
+
+6 systems 10 /19-30-19/ 19-30-19/ 19-30-19 8/ 19-30-19/ 19-30-19/ 19-30-19/
+
+
+/
+3 bars | 1.4 | 24 | 6 6 4 6 |
+| 1/4 0.10
+=1' treble   cha3 leg99 vol89 16 B_
+=2  alto     cha4 leg99 vol89 16 rest
+| 2.4
+i0.7 .01 rabbit?up:down?
+=1' 8 [C 16 Eb] 8 [D 16 F] 8 [Gb 16 D] 8 [Eb 16 Gb] \
+ 8 [F 16 G#] 8 [A 16 Gb] 8 [F 16 G#] 8 [A 16 B]
+=2 4 A 8 Ab 4 Bb 8 c 4 db 8 c 4 dn 8 c#
+|
+=1' 8. c 8 [B' 16 G#] 8 [A 16 F] 8 [Gb 16 Eb] 4. D 8. rest 8 rest 16 B_
+=2 4 d 8 eb 4 B 8 Bb 8. [Ab 8 G 16 E] 4 F 8 rest
+/
+2 bars | 24 | 24 |
+| 2.4
+i0.7 .01 continuing the rabbit
+=1' 8 [C 16 Eb] 8 [D 16 F] 8 [Gb 16 D] 8 [Eb 16 Gb] \
+ 8 [F 16 G#] 8 [A 16 Gb] 8 [F 16 G#] 8 [A 16 B]
+=2 4 A 8 Ab 4 Bb 8 c 4 db 8 c 4 dn 8 c#
+| 1.5
+=1' 8. c 8 [B' 16 G#] 8 [A 16 F] 8 [Gb 16 D] 8 Eb 16 F
+=2 4 d 8 eb 4. B 8 rest 16 d
+# 8 [Bb 8. c']
+/
+2 bars | 24 | 12 7 |
+| 2.4
+=1 8 [F# 16 A] 8 [G# 16 B'] 8 [c' 16 G#] 8 [A, 16 c] 8 [B 16 d] 8 [eb 16 c] 8 [B 16 d] 8 [eb 16 f]
+=2 4 eb 8 d 4. f 4 b 8 c 4. G#
+|
+=1 8. gb 8 [f 16 d] 8 [eb 16 B] 8 [c 16 eb] 4. d(1 4 d)1 16 rest B
+=2 4 eb 8 d 4. ab 4 gb 8 f 4 B 16 rest B
+
+/
+2 bars | 24 | 24 |
+| 2.4
+=1, 8 [c 16 eb] 8 [d 16 f] 8 [gb 16 d] 8 [eb 16 gb] 8 [f 16 g#] 8 [a 16 gb] 8 [f 16 g#] 8 [a 16 b]
+=2 4 c' 8 B 4 A# 8 c 4 db 8 c 4 dn 8 e
+|
+=1, 8. c~ 8 [b 16 g#] 8 [a 16 f] 8 [gb 16 eb] 4. d 8. rest 8 rest 16 B
+=2 4 f 8 eb 4 B 8 Bb 8. [Ab 8 G 16 E] 4 F 8 rest
+/
+
+
+4 systems /19-25-19-25-19-25-19/ 19-25-19-25-19-25-19/ 19-25-19-25-19-25-19/
+
+midi on
+
+/
+3 bars | 1.4 | 24 | 6 6 4 6 |
+| 1/4 0.10
+=1' treble     cha3 leg99 vol99 16 B_
+=2  alto     cha4 leg99 vol89 16 rest
+=3  bass      cha1 leg99 vol89 16 rest
+=4 treble     cha2  leg99 vol89 16 rest
+| 2.4
+i0.7 .01 rabbit?up:down?
+=1' 8 [C 16 Eb] 8 [D 16 F] 8 [Gb 16 D] 8 [Eb 16 Gb] \
+ 8 [F 16 G#] 8 [A 16 Gb] 8 [F 16 G#] 8 [A 16 B]
+=2 4 A 8 Ab 4 Bb 8 c 4 db 8 c 4 dn 8 c#
+=3 2 c 4 ab 2 f 4 e
+=4 1. d
+|
+=1' 8. c 8 [B' 16 G#] 8 [A 16 F] 8 [Gb 16 Eb] 4. D 8. rest 8 rest 16 B_
+=2 4 d 8 eb 4 B 8 Bb 8. [Ab 8 G 16 E] 4 F 8 rest
+=3 2 f 4 G# 2 A# 4 B
+=4 1. d
+/
+2 bars | 24 | 12 |
+| 2.4
+i0.7 .01 continuing the rabbit
+=1' 8 [C 16 Eb] 8 [D 16 F] 8 [Gb 16 D] 8 [Eb 16 Gb] \
+ 8 [F 16 G#] 8 [A 16 Gb] 8 [F 16 G#] 8 [A 16 B]
+=2 4 A 8 Ab 4 Bb 8 c 4 db 8 c 4 dn 8 c#
+=3 2 c 4 ab 2 f 4 e
+=4 1. d
+| 1.2
+=1' 8. [c 8 B 16 G#] 8 [A 16 F] 8 [Gb 16 F]
+=2 4 d 8 eb 4 B 16 rest d
+=3 2 f 4 d
+=4 2. d
+/
+2 bars | 24 | 24 |
+| 2.4
+=1 8 [F# 16 A] 8 [G# 16 B'] 8 [c' 16 G#] 8 [A, 16 c] 8 [B 16 d] 8 [eb 16 c] 8 [B 16 d] 8 [eb 16 f]
+=2 4 eb 8 d 4. f 4 B 8 c 4. Ab
+=3 2 c 4 d 2 f# 4 bb
+|
+=1 8. gb 8 [f 16 d] 8 [eb 16 B] 8 [c 16 eb] 4. d(1 8 d)1 rest 16 rest B
+=2 4 eb 8 d 4. ab 4 gb 8 f 4 B 16 rest B
+#=3 2 c~ 4 g# 2 a 4 f#
+=3 2 c~ 4 e~b c~ b 4 a
+
+/
+2 bars | 24 | 12 |
+|
+=1, 8 [c 16 eb] 8 [d 16 f] 8 [gb 16 d] 8 [eb 16 gb] 8 [f 16 g#] 8 [a 16 gb] 8 [f 16 g#] 8 [a 16 b]
+=2 4 c' 8 B 4 A# 8 c 4 db 8 c 4 dn 8 e
+=3 2 ab 4 gb 2 f 4 e
+=4 1. d
+| 1.2
+=1, 8. c~ 8 [b 16 g#] 8 [a 16 f] 8 [gb 16 eb]
+# 4. d 8. rest 8 rest 16 B
+=2 4 f 8 eb 4 B 8 Bb
+# 8. [Ab 8 G 16 E] 4 F 8 rest
+=3 2 d 4 c#
+=4 2. d
+
+/
+2 bars | 24 | 24 |
+| 2.4
+=1' 1 d
+=2  1 B
+=3 1 d

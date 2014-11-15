@@ -19,20 +19,25 @@ PIECE2 = 3suites_1_alto
 PIECE3 = 3suites_1_bass
 PIECE4 = 3suites_2
 PIECE5 = 3suites_3
+PIECE6 = 3suites_1_gtr
 TITLE1 = title_1
 TITLE2 = title_1_alto
 TITLE3 = title_1_bass
 TITLE4 = title_2
 TITLE5 = title_3
+TITLE6 = title_1_gtr
+PLAY = 3suites_1_gtr
 
 dev : ${TITLE1}.a4 ${TITLE2}.a4 ${TITLE3}.a4 ${TITLE4}.a4 ${TITLE5}.a4 \
- p2.a4 ${PIECE1}.a4 ${PIECE2}.a4 ${PIECE3}.a4 ${PIECE4}.a4 ${PIECE5}.a4
+ p2.a4 ${PIECE1}.a4 ${PIECE2}.a4 ${PIECE3}.a4 ${PIECE4}.a4 ${PIECE5}.a4 \
+ ${TITLE6}.a4 ${PIECE6}.a4
 
 all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
 	  ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf \
 	  ${A4D}/${PIECE3}.pdf  ${USD}/${PIECE3}.pdf \
 	  ${A4D}/${PIECE4}.pdf  ${USD}/${PIECE4}.pdf \
-	  ${A4D}/${PIECE5}.pdf  ${USD}/${PIECE5}.pdf
+	  ${A4D}/${PIECE5}.pdf  ${USD}/${PIECE5}.pdf \
+	  ${A4D}/${PIECE6}.pdf  ${USD}/${PIECE6}.pdf
 dist1:
 	upload ${A4D}/${PIECE1}.pdf
 	upload ${USD}/${PIECE1}.pdf
@@ -48,6 +53,9 @@ dist4:
 dist5:
 	upload ${A4D}/${PIECE5}.pdf
 	upload ${USD}/${PIECE5}.pdf
+dist6:
+	upload ${A4D}/${PIECE6}.pdf
+	upload ${USD}/${PIECE6}.pdf
 
 ${A4D}/${PIECE1}.pdf : ${TITLE1}.a4 p2.a4 ${PIECE1}.a4 ${FREEBACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE1}.a4 \
@@ -144,6 +152,24 @@ ${MP3D}/${PIECE5}.mp3 : ${PIECE5}
 	lame -h t.wav $@
 	rm t.wav
 
+${A4D}/${PIECE6}.pdf : ${TITLE6}.a4 p2.a4 ${PIECE6}.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE6}.a4 \
+	| ${PSCAT} ${TITLE6}.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+${USD}/${PIECE6}.pdf : ${TITLE6}.a4 p2.a4 ${PIECE6}.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE6}.a4 \
+	| ${PSCAT} ${TITLE6}.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${XMLD}/${PIECE6}.xml : ${PIECE6}
+	${MUSCRIPT} -xml ${PIECE6} > $@
+${SRCD}/${PIECE6}.txt : ${PIECE6}
+	cp ${PIECE6} $@
+${MP3D}/${PIECE6}.mp3 : ${PIECE6}
+	${MUSCRIPT} -midi ${PIECE6} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@
+	rm t.wav
 
 ${TITLE1}.a4 : ${TITLE1}
 	groff -ms ${TITLE1} | ${BANNERISE} > $@
@@ -157,20 +183,31 @@ ${TITLE4}.a4 : ${TITLE4}
 	groff -ms ${TITLE4} | ${BANNERISE} > $@
 ${TITLE5}.a4 : ${TITLE5}
 	groff -ms ${TITLE5} | ${BANNERISE} > $@
+${TITLE6}.a4 : ${TITLE1}
+	sed 's/4for.*instrument/7transposed for guitar/' ${TITLE1} \
+	| groff -ms | ${BANNERISE} > $@
 
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > p2.a4
 
 ${PIECE1}.a4 : ${PIECE1}
 	${MUSCRIPT} ${PIECE1} > $@
+	pkill -HUP gv
 ${PIECE2}.a4 : ${PIECE2}
 	${MUSCRIPT} ${PIECE2} > $@
+	pkill -HUP gv
 ${PIECE3}.a4 : ${PIECE3}
 	${MUSCRIPT} ${PIECE3} > $@
+	pkill -HUP gv
 ${PIECE4}.a4 : ${PIECE4}
 	${MUSCRIPT} ${PIECE4} > $@
+	pkill -HUP gv
 ${PIECE5}.a4 : ${PIECE5}
 	${MUSCRIPT} ${PIECE5} > $@
+	pkill -HUP gv
+${PIECE6}.a4 : ${PIECE6}
+	${MUSCRIPT} ${PIECE6} > $@
+	pkill -HUP gv
 
 one.mid : one
 	${MUSCRIPT} -midi one > $@
@@ -182,3 +219,5 @@ two.mid : two
 	${MUSCRIPT} -midi two > $@
 three.mid : three
 	sed '/pagenum 24/q' three | ${MUSCRIPT} -midi > $@
+play : ${PLAY}
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - - stat | aplaymidi -p TiMidity - &

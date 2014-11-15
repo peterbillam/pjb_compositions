@@ -1,0 +1,38 @@
+2 systems 10/19-30-19 30 19-30-19 30 19-30-19/19-30-19 30 19-30-19 30 19-30-19/
+title 20141114
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+
+/
+2 bars | 96 | 96 |
+| 2.4
+i0.9 .01 c#233
+=1 treble cha1  leg99 vol100 1 blank
+=2 treble cha2  leg99 vol90 1 blank
+=3 alto   cha3  leg99 vol90 8 1 blank
+=4' alto  cha4  leg99 vol90 1 blank
+=5' bass  cha5  leg99 vol90 1 blank
+=6' bass  cha6  leg90 vol85 1 blank
+=4 2 rest rest 4 c f#(2
+=5 2 rest 4 e 2 bb 4 a
+=6 4 G# 2 d 4 c# 2 cn
+|
+=1 2 rest rest 4 c~ f~#(1
+=2 2 rest 4 e 2 bb 4 a
+=3 4 g# 2 d~ 4 c~# 2 c~n(1
+=4 4 f#)2 fn 1 e
+=5 2 g#
+|
+=1 4 f~#)1 f~n 1 e~
+=2 1 g#
+=3 1 c~)1

@@ -1,0 +1,294 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2014.11.14.02.35.13;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.11.12.10.14.21;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.11.11.08.33.52;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.11.11.00.38.27;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@for after the final jig
+@
+
+
+1.4
+log
+@plausible die-away; ready for AP p.10 ?
+@
+text
+@2 systems 10/19-30-19 30 19-30-19 30 19-30-19/19-30-19 30 19-30-19 30 19-30-19/
+title 20141111
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+% p4
+
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+
+/
+2 bars | 96 | 96 |
+| 2.4
+i0.9 .01 c#233
+=1 treble cha1  leg99 vol100 1 blank
+=2 treble cha2  leg99 vol90 1 blank
+=3 alto   cha3  leg99 vol90 8 1 blank
+=4' alto  cha4  leg99 vol90 1 blank
+=5' tenor cha5  leg99 vol90 1 blank
+=6' bass  cha6  leg90 vol85 1 blank
+=1  4. gb 8 rest 8 a 4 d# 8 e 4. f# 8 rest
+#=2  8 rest F# 4 eb 8 [d c#(1] 4. c#)1 8 rest [eb' A(2]
+=2' 4 rest F F# B 2 A
+#=3  4 rest 8 c# 4 a 8 g# 4. f# 4 rest 8 d#
+#=3  2 rest 8 c 4 a 8 g# 4. f# 4 rest 8 f# 4 c# 8 d
+=3  4 rest 8 c 4 a 8 g# 4 f# 8 rest [G# A d#']
+=4  4. rest 8 A 4 eb 8 d 2 c# 8 rest
+=5  cha5 8 rest 8 A 4 gb 8 [f eb(1] 4 eb)1 4. rest 8 c#
+=6 8 f# 4 e~b 8 d~ 4. c~# 8 rest 4 eb b(1
+|
+i0.9 .32 c#242
+=1 4 rest 8 c~# 4 f# 8 g 2 a 8 rest e
+=2 8 rest f# 4 c# 8 d 4. eb 2 rest
+# 8 f 4 B 8 [cn c#]
+#=3 4 a 8 ab 4. g 4 rest 8 c~# 4 g 8 g#
+#=3 2 blank 4 g 2 c# 4 d#
+=3 4. c#' 8 rest 4 B 2 g 4 f#
+=4 8 f# 4 d# 8 e 4 fn(1 8 f)1 8 rest 8 g 4. eb
+#=5 4 a 8 [ab g(1] 4. g)1 rest 8 an Bb(1
+=5 4 a 8 [ab g] 4 db 8 eb 4. f 4 rest
+# =6 4. d#' 4 rest 8 b 4 d# 8 e 4. f
+=6 4 b)1 a 2 g 8 rest [c#, d# a]
+/
+2 bars | 96 | 96 | 
+|
+i0.9 .01 d233
+=1 4 bb 8 a 4 g 8 rest bb 4 e 8 f# 4 g
+=2 8 rest Bb 4 e 8 eb 4. d 8 rest [d c A,]
+=3 4. e 8 Bb 4 d 8 c 4. Bb 4 rest
+=4 4 rest g a c~ 4. bb 8 rest
+=5 8 G 4 d 8 c 4. Bb 8 rest 4 G E(2
+=6 4 g 8 d 4 g 8 f# 2 e 8 rest d'
+|
+i0.9 .32 d242
+=1 8 rest d 4 G 8 Ab 4. Bb' 8 rest [Gb Ab c']
+=2 4 Bb 8 d 4 Bb 8 c 2. d
+=3 2 blank 4 e 2 ab 4 g
+=4 8 g 4 e 8 f 4. gb 8 rest 4 d G#(2
+=5 4 E)2 F# 1 G#
+=6 4 Bb 8 c 4. d' 4 rest 8 e 4 c 8 d'
+
+
+/
+2 bars | 96 | 96 | 
+|
+i0.9 .01 eb233   Should use +2+2 and -2-2 more here
+=1 2 B' rest 4 F B'(2
+=2 8 rest Eb 4 Ab 8 G 4. F 2 blank
+=3 2 f 4 rest d# 2 D#
+=4 4 G#)2 A# 2 B rest
+=5 4 rest Eb F A#' 2 G#
+=6 2. eb 8 rest B 4 eb 8 [d' c#(2]
+|
+i0.9 .32 eb242
+=1 4 B')2 Bb' 1 A
+=3 4 E 1 F 4 blank
+=4 1 blank
+=6 4. c#)2 8 rest 4 c# 2 F 4 G
+
+
+
+midi off
+
+2 systems 10/19-30-19 30 19-30-19 30 19-30-19/19-30-19 30 19-30-19 30 19-30-19/
+title 20141015
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+% p4
+
+/
+3 bars | 5 5 5 6 5 6 5 6 5 6 5 6 | 5 5 5 6 5 6 5 6 5 6 5 6 | 5 5 5 6 5 6 5 6 5 6 5 6 |
+| 4.8
+i0.9 .01 c#233
+=1 treble cha1  leg99 vol100 1 blank
+=2 treble cha2  leg99 vol90 1 blank
+=3 alto   cha3  leg99 vol90 8 1 blank
+=4' alto  cha4  leg99 vol90 1 blank
+=5' tenor cha5  leg99 vol90 1 blank
+=6' bass  cha6  leg90 vol85 1 blank
+=1  4. gb 4 rest 8 a 4 eb 8 fn 4. gb
+=2  8 rest F# 4 eb 8 [d c#(1] 4. c#)1 8 rest [eb' A(2]
+=3  4 rest 8 c# 4 a 8 g# 4. f# 4 rest 8 d#
+=4  4. rest 8 A 4 eb 8 d 4 c#(1 8 c#)1 4 rest
+=5  cha5 4. rest 8 rest 8 db 4 gb 8 [f eb(1] 4 eb)1 8 rest
+=6  4 a 8 g# 4. f# 4 rest 8 a 4 c# 8 d'
+|
+i0.9 .41 c#2222
+=1 4 rest 8 c~# 4 a 8 a# 4. b 4 rest 8 f
+=2 8 [A)2 A# 8 B'(2] 4. B')2 8 rest f 4 B 8 [c c#]
+=3 4 a 8 ab 4. g 4 rest 8 c~# 4 g 8 g#
+=4 8 f# 4 d# 8 e 4 fn(1 8 f)1 4 rest 8 g 4 eb
+=5 8 rest c# 4 a 8 [ab g(1] 4. g)1 8 rest an Bb(1
+=6 4. d#' 4 rest 8 b 4 d# 8 e 4. f
+|
+i0.9 .01 d242
+=1 4 d~ 8 d~b 4. c~ 4 rest 8 d~b 4 bb 8 c~
+=2 4. d 8 rest c 4 gb 8 [f e(1] 4. e)1
+=3 4. bb 4 rest 8 e 4 c~ 8 bn 4. bb
+=4 8 e 4 f#(1 8 f#)1 4 rest 8 d 4 ab 8 g 4 f#
+=5 8 [Bb,)1 c d(1] 4. d)1 8 rest d 4 g# 8 [f# e(1]
+=6 4 rest 8 e 4 bb 8 a 4. ab 4 rest 8 d~
+/
+3 bars | 5 5 5 6 5 6 5 6 5 6 5 6 | 5 5 5 6 5 6 5 6 5 6 5 6 | 5 5 5 6 5 6 5 6 5 6 5 6 |
+|
+i0.9 .01 d233
+=1  4. d~ 4 rest 8 bb 4 e~ 8 e~b 4. d~
+=2  8 rest bb 4 e 8 [f# g(1] 4. g)1 8 rest [d bb(1]
+=3  4 rest 8 g 4 Bb 8 c 4. d 4 rest 8 Bb
+=4  4. rest 8 d~ 4 e 8 f# 4 g(1 8 g)1 4 rest
+=5  4. e)1 8 rest 8 d~ 4 bb 8 [c~ d~(1] 4. d~)1
+=6  4 g 8 a 4. bb 4 rest 8 g 4 e~ 8 e~b
+|
+i1.2 .41 d2222
+=1 4 rest 8 bb 4 d~ 8 d~b 4. c~ 4 rest 8 bn
+=2 8 [bb)1 a g(1] 4. g)1 8 rest d 4 bb 8 [ab gn(1]
+=3 4 g 8 f# 4. e 4 rest 8 c 4 f# 8 e
+=4 8 bb 4 e 8 f 4 f#(1 8 f#)1 4 rest 8 g# 4 d~
+=5 8 rest e 4 bb 8 [a g#(1] 4. g#)1 8 rest d a(1
+=6 4. d~ 4 rest 8 d~ 4 g~b 8 f~ 4. e~
+|
+i1.4 .01 eb242 ?  db242 ?
+=1 4 f~ 8 f~# 4. g~ 4 rest 8 blank 4 C# 8 D
+=2 4. g)1 8 rest a 4 d# 8 [e f(1] 4. f)1
+=3 4. eb 4 rest 8 f 4 c# 8 d 4 eb 8 rest
+=4 8 c~# 4 b(1 8 b)1 4 rest 8 c~# 4 g 8 g# 4 a
+=5 8 [a)1 ab g(1] 4. g)1 8 rest blank 4 blank blank bass
+=6 4 rest 8 e~b 4 a 8 a# 4. b 4 rest 8 blank
+
+
+@
+
+
+1.3
+log
+@three bars almost there; but are they relevant?
+@
+text
+@d54 1
+a54 1
+=2 8 rest Bb 4 e 8 eb 4. d 2 rest
+d56 1
+a56 1
+=4 4 rest g a c~ 2 bb
+d61 2
+d64 1
+a64 1
+=4 8 g 4 e 8 f 2 gb rest
+d66 1
+a66 1
+=6 4 Bb 8 c 2. d' 4. blank
+a67 1
+midi off
+d73 6
+a78 3
+=1 1 blank 4 F B(2
+=3 1 f 2 blank
+=5 4 rest G Ab c 2 B
+d81 4
+a84 2
+=1 4 B)2 Bb 1 A
+=6 2 blank 4 c# 2 a 4 g#
+@
+
+
+1.2
+log
+@gradually filling out and extending
+@
+text
+@d19 1
+a19 1
+| 3.6
+d38 1
+a38 1
+=1 4 rest 8 c~# 4 g 8 g# 2 a 8 rest e
+d53 1
+a53 1
+=1 4 bb 8 a 4. g 2. blank
+d55 4
+a58 4
+=3 1 e 2 blank
+=4 4 rest f# g c~ 2 bb
+=5 8 G 4 d 8 c 4. Bb 8 rest 4 Bb E(2
+=6 4 g 8 blank 4 blank 8 blank 2 blank 4 rest
+d62 1
+d64 1
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d27 1
+a27 1
+=1  4. gb 4 rest 8 a 4 d# 8 e 4. f#
+d29 1
+a29 1
+=2 4 rest F F# B 2 A(2
+d31 5
+a35 4
+=3  4 a 8 g# 4. f# 4 rest 8 f# 4 c# 8 d
+=4  4. rest 8 A 4 eb 8 d 4 c#(1 8 c#)1 4 rest
+=5  cha5 4. rest 8 rest 8 db 4 gb 8 [f eb(1] 4 eb)1 8 rest
+=6 1 blank 4 eb b(1
+d38 3
+a40 2
+=1 4 rest 8 c~# 4 a 8 a# 4. b 4 rest 8 f
+=2 8 [A)2 A# 8 B'(2] 4. B')2 8 rest f 4 B 8 [c c#]
+d43 4
+a46 3
+=3 4. d# 8 rest 4 B 2 g 4 f#
+=4 8 f# 4 d# 8 e 4 fn(1 8 f)1 4 rest 8 g 4 eb
+=5 8 rest c# 4 a 8 [ab g(1] 4. g)1 8 rest an Bb(1
+d48 1
+a48 1
+=6 4 b)1 a 1 g
+d53 2
+d56 3
+a58 2
+=4 4 rest f# g b 2 a#
+=5 1 blank 4 Bb E(2
+d61 1
+a61 1
+=3 2 blank 4 f 2 ab 4 g
+d63 3
+@

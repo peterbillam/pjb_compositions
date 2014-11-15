@@ -1,0 +1,167 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2014.10.10.02.52.35;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.10.09.05.01.36;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@splicing, see AP07 and Not Fade Away :-)
+@
+
+
+1.2
+log
+@much fiddling
+@
+text
+@2 systems 10 / 19-30-19-30-19-30-19-30-19-30-19 \
+ / 19-30-19-30-19-30-19-30-19-30-19 /
+title 20141009
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+# book.AO  p.44
+/
+4 bars | 5 | 25 | 25 | 25 |
+| 0.4
+i0.7 .01 from 20140918
+=1  treble   cha8 leg99 vol105
+=2  treble   cha2 leg99 vol76
+=3  alto     cha3 leg99 vol75
+=4' alto     cha4 leg99 vol120 4 rest
+=5' bass     cha8 leg99 vol75
+=6' bass     cha6 leg90 vol120 4 <D(2 c(1>
+| 2.4
+=1 1 blank
+i0.5 .01 splicing; see AP07
+=2 1 blank
+=4 2 <F#rl G#xl> 4 <F#l G#xl> 2. <Fn A>
+=6' 2 <D)2 c)1> 4 <D c> 2. <Eb B>
+| 2.4
+$N1-4 = f : a : b : f~
+$V1 = morse_thue? 8 $N4 rest : 4 rest ?
+$V2 = morse_thue? 8 rest 16 <$N2 $N3> rest : 16 <$N2 $N3> rest 8 rest ?
+$A2 = morse_thue? [<$N1 $N3> rest' rest' <$N1 $N3>] : rest' [<$N1 $N3> <$N1 $N3>] rest' ?
+$C1 = morse_thue? [$N2 rest' rest' $N2] : rest' [$N2 $N2] rest' ?
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+i0.9 .21 from 20141001
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6  cha8 8 F 4. rest 2 rest 1 rest
+|
+=4 2 <F#rl G#xl> 4 <Fn A> 2. <F#l G#xl>
+=6' cha6 2 <D c> 4 <Eb B> 2. <D c>
+/
+3 bars | 25 | 25 | 25 |
+|
+$N1-4 = d : g# : d~ : f~#
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6  cha8 2 rest 8 D 4. rest
+|
+=1 1 blank
+i0.5 .01 higher !
+=2 1 blank
+=2, vol+20 2 <f#r G#l> 4 <f# g#l> 2. <fn a> vol-20
+=4' 2 <D c> 4 <d c> 2. <eb B>
+|
+$N1-4 = f : a : b : f~
+=1  cha8 $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6  cha8 2 rest 8 F 4. rest
+|
+=1 1 blank
+=2 1 blank
+=4 2 <F#rl G#xl> 4 <Fn A> 2. <F#l G#xl>
+=5 1 blank
+=6' cha6 2 <D c> 4 <Eb B> 2. <D c>
+|
+$N1-4 = d : g# : d~ : f~#
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6  cha8 8 D 4. rest 2 rest 1 rest
+
+|
+=2 2 <F#rl G#xl> 4 <fn-emph A,> 2. <f#l G#xl,>
+=4' 2 <D c> 4 <eb-emph B> 2. <D c>
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6  cha8 2 rest 8 D 4. rest
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d19 1
+a19 1
+| 0.5
+d21 1
+a21 1
+=1  treble   cha8 leg99 vol95
+d27 1
+a27 1
+| 3.0
+d33 1
+a33 2
+|
+i0.9 .21 from 20141001
+d41 1
+d63 2
+a64 2
+=4 2 <F#rl G#xl> 4 <F#l G#xl> 2. <Fn A>
+=6' cha6 2 <D c> 4 <D c> 2. <Eb B>
+d67 1
+a67 5
+$V1 = morse_thue? 8 $N4 rest : 4 rest ?
+$V2 = morse_thue? 8 rest 16 <$N2 $N3> rest : 16 <$N2 $N3> rest 8 rest ?
+$A2 = morse_thue? [<$N1 $N3> rest' rest' <$N1 $N3>] : rest' [<$N1 $N3> <$N1 $N3>] rest' ?
+$C1 = morse_thue? [$N2 rest' rest' $N2] : rest' [$N2 $N2] rest' ?
+=1  $V1 $V1 $V1 $V1
+d72 1
+a72 1
+=6  cha8 8 F 4. rest 2 rest 1 rest
+d74 2
+d77 1
+d81 11
+@

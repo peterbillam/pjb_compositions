@@ -1,0 +1,111 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.10.02.03.16.28;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@primal swamp murmur? crowd murmer?
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@4 systems 5 / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 \
+ / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 /
+title 20141002
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+# book.AP  p.3
+/
+3 bars | 44 | 44 | 44 |
+| 1.375
+=1  treble   cha2 leg99 vol36
+=2  alto     cha3 leg99 vol75
+=3' alto     cha4 leg99 vol75
+=4' bass     cha5 leg99 vol35
+midi off
+=1 2 G(2
+=2 163 [eb d eb d eb d] [d# en d# e d#]
+=3 163 [db c db c db c] [c# dn c# d c#]
+=4 2 bb(1
+|
+=1 2 G)2(2
+=2 163 [e f e f e f] [e d# e d# e]
+=3 163 [d eb d eb d eb] [d c# d c# d]
+=4 2 bb)1(1
+|
+=1 2 G)2(2
+=2 163 [eb d eb d eb d] [d# en d# e d#]
+=3 163 [db c db c db c] [c# dn c# d c#]
+=4 2 bb)1(1
+/
+3 bars | 44 || 44 | 44 |
+|
+=1 2 G)2 83 blank
+=2 163 [e f e f e f] [e d# e d# e]
+=3 163 [d eb d eb d eb] [d c# d c# d]
+=4 2 bb)1 83 blank
+
+|
+midi on
+=1 2 G(2
+=2 163 [eb d eb d eb d] [d# en d# e d#]
+=3 163 [db c db c db c] [c# dn c# d c#]
+=4 2 bb(1
+|
+=1 2 G)2(2
+=2 163 [e f e f e f] [gb f gb f gb]
+=3 163 [d eb d eb d eb] [en d# e d# e]
+=4 2 bb)1(1
+/
+3 bars | 44 | 44 | 44 |
+|
+=1 2 G)2(2
+=2 163 [f e f e f e]  [d# en d# e d#]
+=3 163 [eb d eb d eb d] [c# d c# d c#]
+=4 2 bb)1(1
+|
+=1 2 G)2(2
+=2 163 [d c# d c# d c#] [d eb d eb d]
+=3 163 [c' B c' B c' B] [c db c db c]
+=4 2 bb)1(1
+|
+=1 2 G)2(2
+=2 163 [d# en d# e d# e] [f e f e f]
+=3 163 [c# dn c# d c# d] [eb d eb d eb]
+=4 2 bb)1(1
+/
+3 bars | 44 | 44 | 44 |
+|
+=1 2 G)2(2
+=2 163 [gb f gb f gb f] [e f e f e]
+=3 163 [en d# e d# e d#] [dn c# d c# d]
+=4 2 bb)1(1
+|
+=1 2 G)2
+=2 163 [eb d eb d eb d] [c# d c# d c#]
+=3 163 [db c db c db c] [B c' B c' B]
+=4 2 bb)1
+@
