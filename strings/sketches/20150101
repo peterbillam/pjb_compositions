@@ -1,0 +1,70 @@
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title 20150101   another Rhythm
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 8 patch 45 pan 50 reverb 45
+
+# book.AO  p.44
+
+/
+3 bars | 48 | 48 | 48 |
+| 3.556
+=1' treble     cha1 leg90 vol95 1 blank
+=2  treble     cha8 leg90 vol110 1 blank
+=3' alto       cha3 leg59 vol90 1 blank
+=4  alto       cha8 leg90 vol110 1 blank
+=5' bass       cha5 leg90 vol90 1 blank
+=6  bass       cha8 leg90 vol120 1 blank
+=1 16 [c~ b rest'' b] [c~ rest'' b c~] rest'' c~ b rest'' [b c~ rest'' c~]
+=2  8 A A rest A A rest A A
+=3  4 g g rest g
+=4  2 f f
+=5 1 eb
+=6 1 Eb
+|
+=1 16 [b rest'' c~ b] rest'' b c~ rest'' [b c~ rest'' c~] [b rest'' c~ b]
+=2 8 rest A A rest A A rest A
+=3 4 g rest g g
+=4 2 rest f
+=5 1 d
+=6 1 D
+|
+=1 16 rest'' b c~ rest'' [c~ b rest'' b] [c~ rest'' b c~] rest'' c~ b rest''
+=2 8 A rest A A rest A A rest
+=3 4 rest g g rest
+=4 2 f rest
+=5 1 rest
+=6 1 rest
+
+
+/
+3 bars | 48 | 48 | 48 |
+| 3.556
+=1 16 [c~ b rest'' b] [c~ rest'' b c~] rest'' c~ b rest'' [b c~ rest'' c~]
+=2  8 d eb rest eb d rest eb d
+=3  4 f gb rest gb
+=4 2 G# A
+=5 1 rest
+=6 2 G# A
+|
+=1 16 [b rest'' c~ b] rest'' b c~ rest'' [b c~ rest'' c~] [b rest'' c~ b]
+=2 8 rest d eb rest eb d rest d
+=3 4 f rest gb f
+=4 2 rest A
+=5 1 rest
+=6 2 rest A
+|
+=1 16 rest'' b c~ rest'' [c~ b rest'' b] [c~ rest'' b c~] rest'' c~ b rest''
+=2 8 eb rest d eb rest eb d rest
+=3 4 rest f gb rest
+=4 2 G# rest
+=5 1 rest
+=6 2 G# rest
+

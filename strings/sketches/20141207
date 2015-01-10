@@ -1,0 +1,78 @@
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title Retrograde Seethe
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+| 1.778
+i0.3 .02 mm 132-136  approx.
+=1  treble   cha1  leg99 vol120 bend50
+=2  treble   cha2  leg99 vol120 bend50
+=3  alto     cha3  leg99 vol120 bend50
+=4' alto     cha4  leg99 vol120 bend50
+=5' tenor    cha5  leg99 vol120 bend50
+=6' bass     cha6  leg99 vol120 bend50
+=1 2 blank 1 rest
+#=2 vol-3 16 [eb d eb d] [d# en d# vol-3 16 e] [f e f e] vol-3 [f e f f#]
+=2 vol-3 16 [gb f e f] vol-3 [e f e f] [e d# e d#] vol-3 [dn eb d eb]
+#=3 vol-3 16 [c~ b c~ b] [b c~ b vol-3 16 c~]  [b c~ c~# c~n] vol-3 [c~# d~ c~# d~]
+=3 vol-3 16 [d~ c~# d~ c~#] [c~n vol-3 d~b c~ b] [c~ b c~ b]  vol-3 [c~ b c~ b]
+#=4 vol-3 16 [a bb a bb] [a bb a vol-3 bb] [a bb bn a#] vol-3 [b c~ b c~]
+=4 vol-3 16 [c~ b c~ b] vol-3 [a# b a# vol-3 an] [bb a bb a] [bb a bb a]
+#=5 vol-3 16 [f e f e] [f gb f vol-3 f#] [gn f# g f#] vol-3 [g f# g ab]
+=5 vol-3 16 [ab g f# g] vol-3 [f# g vol-3 f# g] [gb fn gb f] [e f e f]
+=6 2 blank 1 rest
+# book.AP  p.3
+|
+=1 2 blank 1 rest
+=2 vol-3 16 [d eb d eb] [d eb d c#] [d c# d c#] vol-3 [cn db c db]
+=3 vol-3 16 [bb bn bb a] [bb a bb a] [bb a bb a] vol-3 [bb a bb a]
+=4 vol-3 16 [g# a ab gn] vol-3 [ab g ab g] [ab g ab g] [ab g ab g]
+=5 vol-3 16 [e f e f] vol-3 [e f e d#] [e d# e d#]   [dn eb d eb]
+=6 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2  vol-3 16 [db c db c] [db c db c] [B c B vol-3 c] [B' A# B' c']
+=3  vol-3 16 [an g# a g#] [g ab g g#] [g ab g vol-3 ab] [g ab g ab]
+=4  vol-3 16 [gn f# g f#] [f gb f f#] [f gb f vol-3 gb] [f gb f gb]
+=5  vol-3 16 [eb d eb d] [eb d eb d] [c# d c# vol-3 d] [db c c# dn]
+=6 2 blank 1 rest
+
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+|
+=1 2 blank 1 rest
+=2' vol+3 16 [A A# B A#] [B A# B A#] [B  A# B A#] [B A# B A#]
+=3  vol+3 16 [f gb f gb] [f gb f f#] [gn f# g f#] [g ab g ab]
+=4  vol+3 16 [d# e d# e] [d# e d# e] [f  e  f e]  [f gb f gb]
+=5  vol+3 16 [B c db  c] [db c db c] [db c db c]  [db c db c]
+=6 2 blank 1 rest
+|
+il0.6 .01 10
+=1 2 blank 1 rest
+=2' 16 [G Ab G Ab] [G Ab vol+3 16 An G#] [A G# A G#] [A Bb A Bb]
+=3  16 [f gb f gb] [f gb vol+3 16 f gb] [f gb f gb] [f gb f gb]
+=4  16 [eb en d# e] [d# e vol+3 16 d# e] [d# e d# e] [d# e d# e]
+=5  16 [A Bb A Bb] [A Bb vol+3 16 Bn A#] [B A# B A#] [B c B c]
+=6 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 16 [G Ab G Ab] [G Ab G Ab] [G Ab G Ab] [G Ab G Ab]
+=3 16 [eb d eb d] [eb d d# en] [d# e d# e] [f e f e]
+=4 16 [db c db c] [db c c# dn] [c# d c# d] [eb d eb d]
+=5 16 [A Bb A Bb] [A Bb A Bb] [A Bb A Bb] [A Bb A Bb]
+=6 2 blank 1 rest
+

@@ -1,0 +1,2303 @@
+head	1.13;
+access;
+symbols;
+locks
+	pjb:1.13; strict;
+comment	@# @;
+
+
+1.13
+date	2015.01.09.00.53.52;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2015.01.08.05.14.02;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2015.01.08.02.14.00;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2015.01.07.08.43.12;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2015.01.07.06.59.32;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.12.30.08.42.28;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.12.06.03.01.30;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.12.04.09.33.48;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.12.04.00.32.09;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.12.03.04.31.19;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.11.24.05.22.10;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.11.24.03.27.18;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.11.13.07.59.28;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@candidate material for 2nd movement (or section)
+@
+
+
+1.13
+log
+@roll in a second seethe bitlet
+@
+text
+@3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+# must put something in here...
+
+title mvt2
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+$BENDS1 = 8 bend50 blank 64 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4
+$BENDB1 = 64 bend50 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3
+$CRE1 = 64 cc11=10 blank cc11=20 blank cc11=30 blank cc11=40 blank cc11=50 \
+ blank cc11=60 blank cc11=70 blank cc11=80 blank cc11=90 \
+ blank cc11=100 blank cc11=110 blank cc11=120 blank cc11=127
+$DIM1 = 64 cc11=127 blank cc11=120 blank cc11=110 blank cc11=100 blank cc11=90 \
+ blank cc11=80 blank cc11=70 blank cc11=60 blank cc11=50 \
+ blank cc11=40 blank cc11=30 blank cc11=20 blank cc11=10
+
+# book.AP  p.3
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+| 1.778
+i0.3 .05 pizz , sul G , glissando
+=1  treble   cha10 leg99 vol110 bend50
+=2  treble   cha2  leg99 vol36 bend50
+=3  alto     cha3  leg99 vol75 bend50
+i0.3 .02 mm 132-136  approx.
+=4' alto     cha4  leg99 vol75 bend50
+=5' bass     cha5  leg99 vol35 bend50
+=6' bass     cha11 leg99 vol110 bend50
+#P=1 8 rest 4. G{1 16-s A}1 blank 2 rest
+#M=1 8 rest 4. G 2 rest
+#M=1 $BENDS1 2 blank
+=2 4 rest 2. G(2
+=3 4 rest 16 [eb d eb d] [eb d d# en] [d# e d# e]
+=4 4 rest 16 [db c db c] [db c c# dn] [c# d c# d]
+=5 4 rest 2. Bb(2
+#P=6 2 A{1 16-s B}1 blank 2 rest
+#M=6 2 A 2 rest
+#M=6 $BENDB1 2 blank
+i0.4 .01 pizz , glissando
+|
+=1 2 blank 1 rest
+=2 1 G)2(2
+=3 16 [f e f e] [f e d# e] [d# e eb dn] [eb d eb d]
+=4 16 [eb d eb d] [eb d c# d] [c# d db cn] [db c db c]
+=5 1 Bb)2(2
+=6 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 1 G)2 83 blank
+=3 16 [d# en d# e] [d# e f e]  [f  e f  e] [d# e d# e]
+=4 16 [c# dn c# d] [c# d eb d] [eb d eb d] [c# d c# d]
+=5 1 Bb)2 83 blank
+=6 2 blank 1 rest
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+|
+=1 2 blank 1 rest
+=2 1 G(2
+=3 16 [eb d eb d] [eb d d# en] [d# e d# e] [f e f e]
+=4 16 [db c db c] [db c c# dn] [c# d c# d] [eb d eb d]
+=5 1 bb(2
+=6 2 blank 1 rest
+|
+il0.6 .01 5
+=1 2 blank 1 rest
+=2 1 G)2
+=3 16 [f gb f gb] [f gb f e] [f e f e] [d# e d# e]
+=4 16 [d# e d# e] [d# e eb dn] [eb d eb d] [c# d c# d]
+=5 1 bb)2
+=6 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 1 G(2
+=3 16 [eb d c# d] [c# d c# d] [eb d eb d] [d# en d# e]
+=4 16 [db' c' B c'] [B c' B c'] [db c db c] [c# dn c# d]
+=5 1 Bb(2
+=6 2 blank 1 rest
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+|
+=1 2 blank 1 rest
+=2 1 G)2(2
+=3 16 [d# e f e] [f e f gb] [f gb f gb] [f e f e]
+=4 16 [c# d eb d] [eb d d# en] [d# e d# e] [eb dn eb d]
+=5 1 Bb)2(2
+=6 2 blank 1 rest
+
+|
+i0.3 .45 pizz , sul G , glissando
+#P=1 2 rest 16 blank 8 rest 4. F{2 16-s G}2
+#M=1 2 rest 8 rest cha10 bend50 4. F
+#M=1 2 blank $BENDS1 cha8
+=2 2. G)2 16 vol50 [G Ab G Ab]
+=3 16 [f e eb d] [eb d eb d] [c# d c# d] [c# d c# d]
+=4 16 [eb d db c] [db c db c] [B c' B c'] [B c' B c']
+=5 2. Bb)2 tenor 16 vol50 [A Bb A Bb]
+#P=6 2 rest 16 blank 2 G{2 16-s A}2
+#M=6 2 rest cha11 bend50 2 G
+#M=6 2 blank $BENDB1 cha8
+i0.1 .15 pizz , glissando
+|
+=1 2 blank 1 rest
+=2 vol70 16 [G Ab G Ab] [G Ab G Ab] [G Ab G Ab] [G Ab G Ab]
+=3 vol70 16 [eb d eb d] [eb d d# en] [d# e d# e] [f e f e]
+=4 vol70 16 [db c db c] [db c c# dn] [c# d c# d] [eb d eb d]
+=5 vol60 16 [A Bb A Bb] [A Bb A Bb] [A Bb A Bb] [A Bb A Bb]
+=6 2 blank 1 rest
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+|
+il0.6 .01 10
+=1 2 blank 1 rest
+=2' 16 [G Ab G Ab] [G Ab vol+3 16 An G#] [A G# A G#] [A Bb A Bb]
+=3  16 [f gb f gb] [f gb vol+3 16 f gb] [f gb f gb] [f gb f gb]
+=4  16 [eb en d# e] [d# e vol+3 16 d# e] [d# e d# e] [d# e d# e]
+=5  16 [A Bb A Bb] [A Bb vol+3 16 Bn A#] [B A# B A#] [B c B c]
+=6 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2' vol+3 16 [A A# B A#] [B A# B A#] [B  A# B A#] [B A# B A#]
+=3  vol+3 16 [f gb f gb] [f gb f f#] [gn f# g f#] [g ab g ab]
+=4  vol+3 16 [d# e d# e] [d# e d# e] [f  e  f e]  [f gb f gb]
+=5  vol+3 16 [B c db  c] [db c db c] [db c db c]  [db c db c]
+=6 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2  vol+3 16 [B' A# B' c'] [B c B vol+3 c] [db c db c] [db c db c]
+=3  vol+3 16 [g ab g ab] [g ab g vol+3 ab] [g ab g g#] [an g# a g#]
+=4  vol+3 16 [f gb f gb] [f gb f vol+3 gb] [f gb f f#] [gn f# g f#]
+=5  vol+3 16 [db c c# dn] [c# d c# vol+3 d] [eb d eb d] [eb d eb d]
+=6 2 blank 1 rest
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+|
+=1 2 blank 1 rest
+=2 vol+3 16 [db c db c] [c# dn c# d] vol+3 [c# d eb d] [eb d eb d]
+=3 vol+3 16 [a bb a bb] [a  bb a bb] vol+3 [a bb a bb] [a bb bn bb]
+=4 vol+3 16 [g ab g ab] [g  ab g ab] vol+3 [g ab g ab] [g g# an g#]
+=5 vol+3 16 [eb d eb d] [d# e d# e]  vol+3 [d# e f e]  [f e  f  e]
+=6 2 blank 1 rest
+|
+i0.4 .81 pizz .  .  .
+=1 2 blank 1 rest
+=2 vol+3 16 [eb d eb d] [d# en d# vol+3 16 e] [f e f e] vol+3 [f e f f#]
+=3 vol+3 16 [b c~ b c~] [b c~ b vol+3 16 c~]  [b c~ c~# c~n] vol+3 [c~# d~ c~# d~]
+=4 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn a#] vol+3 [b c~ b c~]
+=5 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
+=6 2 blank 1 rest
+# book.AP  p.3
+
+$DOWN1 = 8 bend50 blank bend-3 blank bend-2 blank bend-2 blank bend-2 \
+  blank bend-2 blank bend-2 blank bend-2 blank bend-2 \
+  blank bend-2 blank bend-2 blank bend-2 blank bend-2
+
+|
+il0.6 .10 15
+=1  cha8 leg99 vol95 bend50
+=2  cha2 leg99 vol76 bend50
+=3  cha3 leg99 vol75 bend50
+=4' cha4 leg99 vol75 bend50
+=5' cha8 leg99 vol75 bend50
+=6' cha8 leg99 vol95 bend50
+=1  4 bb rest 2 rest
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+Il0.2 .07 the Rhythm
+=3 1 rest
+=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 [d rest' rest' d] rest' [d d] rest'
+i0.8 .02 pizz
+=6 4 Bb 2. rest
+i0.1 .01 pizz
+/
+3 bars | 48 | 48 | 48 |
+|
+=1 2 rest 4 bb rest
+=2 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 1 rest
+=4, 8 rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=5 8 rest' [d d] rest' [d rest' rest' d]
+=2 1 rest
+|
+i0.5 .91 arco
+=1 2 rest 4 bb rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 2 blank 1 rest
+=4, 8 rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=5, 8 rest' [d d] rest' [d rest' rest' d]
+=6 2 blank 1 rest
+|
+=1 cha1 vol+3 16 [eb d eb d] [d# en d# vol+3 16 e] [f e f e] vol+3 [f e f f#]
+=2 vol+3 16 [B c B c] [B c B vol+3 16 c] [B c c# cn] vol+3 [c# d c# d]
+=3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn bb] vol+3 [b c~ b c~]
+=4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
+=5 2 rest
+/
+3 bars | 48 | 48 | 48 |
+|
+i0.4 .71 pizz  .   .   .
+=1  8 bb rest 4 rest cha8 2 rest
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=3  2 blank 1 rest
+=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 [d rest' rest' d] rest' [d d] rest'
+=6  4 Bb rest 2 rest
+|
+il0.6 .05 20
+=1  4 rest bb bb rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3  2 blank 1 rest
+=4, 8 rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=5, 8 rest' [d d] rest' [d rest' rest' d]
+=6 2 rest 4 Bb rest
+|
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=3 2 rest vol70 bend50 ab-cre25
+=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 [d rest' rest' d] rest' [d d] rest'
+=6 4 Bb rest 2 rest
+/
+3 bars | 48 | 48 | 48 |
+|
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+i0.2 .20 glissando  .   .   .
+=3 1 vol80 ab{2
+=3 $DOWN1
+=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 [d rest' rest' d] rest' [d d] rest'
+=6 4 Bb rest 2 rest
+|
+=1  4 rest bb bb rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 1 g}2{2
+=3 $DOWN1
+=4, 8 rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=5, 8 rest [d d] rest 4 rest cha5 vol70 ab
+=6 2 rest 4 Bb 8 rest' d~
+|
+=1  4 rest bb bb rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 4 4 bend50 vol70 f#}2 rest 2 rest
+=4, 16 rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>] [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+i0.2 .20 glissando  .   .   .
+=5, 1 vol80 ab{2
+=5 $DOWN1
+=6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~
+# rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]
+/
+3 bars | 48 | 48 | 48 |
+|
+il0.6 .10 25
+=1  4 bb rest rest bb
+=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
+# =3 4 g 2 f# 4 rest
+=3 2 bend50 vol70 rest 4 rest ab-cre25
+=4, 16 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest' rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=5  1 g}2{2
+=5 $DOWN1
+#=6, 8. [Bb 16 d~] rest'' [d~ d~] rest'' # rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+|
+=1  4 bb rest rest bb
+=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
+#=3 2 f# 4 g ab(1
+i0.2 .20 glissando  .   .   .
+=3 1 vol80 ab{2
+=3 $DOWN1
+=4, 16 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest' rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=5, 4 bend50 vol70 f#}2 rest 2 rest
+#=6, 16 rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]  # 8. [Bb 16 d~] rest'' [d~ d~] rest''
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+|
+=1  4 rest f# f# rest
+=2  8 rest [<dx e> <dx e>] rest <dx e> rest rest <dx e>
+=3 1 vol80 g}2{2
+=3 $DOWN1
+=4  16 rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>] [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest
+=5, 2 rest vol70 4 rest c~(2
+=6 8 rest' [d~ d~] rest' 4 F# 8 rest' d~
+
+/
+3 bars | 48 | 48 | 48 |
+|
+i0.3 .30 sempre pizz, .66 glissando
+#P=1 4 f# rest 16 blank 8 rest 4. G#{1 16-s A#}1
+#M=1 4 f# rest cha10 bend50 8 rest vol110 4. G#
+#M=1 2 blank $BENDS1
+i0.8 .22 forte,   sul G
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 8 <dx e> rest 4 rest 8 rest [f#-emph <dx e>] rest
+i0.2 .26 pizz
+#P=3  4 f#}2 8 rest d rest  [d d] rest
+#M=3 4 bend50 vol70 f#}2 rest cha8 rest  [d d] rest
+=4  16 [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>]
+=5, 1 vol80 c~)2{2
+=5 $DOWN1
+#P=6, cha8 8. [F# 16 d~] 4 rest 16 blank 2 Bb{1 16-s c}1
+#M=6, cha8 8. [F# 16 d~] cha11 bend50 4 rest 16 blank vol110 2 Bb
+#M=6 2 blank $BENDB1
+i0.2 .30 pizz, .60 glissando
+|
+I1.5 .01 splice in something wierd here !?
+i0.9 .01 should maybe swap vla1 and vln1 here . . .
+=1  cha8 bend50 vol95 4 rest f# f# rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+i0.1 .40 arco
+=3 2 rest cha3 bend50 4 rest vol80 c~(1
+=4  16 rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>] [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest
+=5, 1 vol80 b}2{2
+=5 $DOWN1
+=6 cha8 8 rest' [d~ d~] rest' 4 F# 8 rest' d~
+|
+il0.6 .10 30
+=1  4 rest f# f# rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+i0.1 .15 glissando .  .  .
+=3  1 vol80 c~)1{2
+=3 $DOWN1
+=4  16 [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>]
+=5, 1 vol80 bb}2{2
+=5 $DOWN1
+=6, 8 rest' [d~ d~] rest' 8. [F# 16 d~] 8 rest' d~
+/
+3 bars | 48 || 48 | 48 |
+|
+i0.4 .30 sul D
+#=1  2 f# 4 rest cha1 vol80 c(2
+=1  4 f# 8 rest cha1 vol80 c(2 2 c)2{2
+#M=1 2 blank $DOWN1
+=2  8 <dx e> rest rest <dx e> rest [<dx e> f#-emph] rest
+=3  2 vol80 b}2{2 bb}2{2
+#M=3 $DOWN1 $DOWN1
+=4  16 [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>]
+=5, 2 vol80 a}2{2 4 bend50 g}2 rest
+#M=5 $DOWN1 2 blank
+#=6, 8. [F# 16 d~] rest'' [d~ d~] rest''  rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]
+=6, 8. [F# 16 d~] 8 rest'' d~  rest' [d~ d~] rest'
+|
+% 32
+=1' 2 vol80 B}2{2 Bb}2{2
+#M=1  $DOWN1 $DOWN1
+=2 16 rest' [<d c~> <d c~>] rest' [<d c~> rest' rest' <d c~>] [<d c~> rest' rest' <d c~>] rest' [<d c~> <d c~>] rest'
+=3  2 vol80 a}2{2 ab}2{2
+#M=3  $DOWN1 $DOWN1
+I0.2 ff
+i0.2 .05 pizz, .20 glissando
+#P=4 8 rest 4. g{2 16-s a}2 blank 2 rest
+#M=4 cha10 vol125 8 rest 4. g 2 rest
+#M=4 $BENDS1 2 blank cha4
+=5 16 [<d c~> rest' rest' <d c~>] 8 rest [<d c~> <d c~>] rest 16 [<d c~> rest' rest' <d c~>]
+#P=6 2 A{1 16-s B}1  8. [c, 16 d~] 8 rest'' d~
+#M=6 cha11 vol125 2 A cha8 bend50 vol80 8. [c, 16 d~] 8 rest'' d~
+#M=6 cha11 $BENDB1 2 blank
+i0.1 .10 glissando
+|
+=1' 2 vol80 A}2{2 Ab}2{2
+#M=1  $DOWN1 $DOWN1
+=2 16 [<d c~> rest' rest' <d c~>] rest [<d c~> <d c~>] rest rest [<d c~> <d c~>] rest [<d c~> rest' rest' <d c~>]
+=3  2 vol80 g}2{2 gb}2{2
+#M=3  $DOWN1 $DOWN1
+i0.2 arco .  .  . .60 glissando .  .  .
+=4 4 rest 8 vol90 rest bb(1 2 bb)1{2
+#M=4 2 blank $DOWN1
+=5 8 rest' <d c~> 16 [<d c~> rest' rest' d{1] [c~}1 rest'' rest'' <d c~>] 8 rest' <d c~>
+=6, 8. [c 16 d~] 8 rest' d~ rest' [d~ d~] rest'
+/
+3 bars | 48 | 48 | 48 |
+|
+=1' 2 vol80 G}2{2 Gb}2{2
+#M=1  $DOWN1 $DOWN1
+=2 16 [<d c~> rest' rest' <d c~>] rest [<d c~> <d c~>] rest rest [<d c~> <d c~>] rest [<d c~> rest' rest' <d c~>]
+=3  2 vol80 f}2{2 bend50 4 e}2 rest
+#M=3  $DOWN1 2 blank
+=4  1 a}2{2
+#M=4 $DOWN1
+=5 8 rest' <d c~> 16 [<d c~> rest' rest' d{1] [c~}1 rest'' rest'' <d c~>] 8 rest' <d c~>
+=6 2 blank 1 rest
+i0.2 .30 arco . . .
+|
+il0.7 .05 35 
+r0.6 .50 <E G Bb>
+=1  2 vol80 F}2{2 bend50 4 E}2 rest
+#M=1 $DOWN1 2 blank
+=3  4 rest Bb(1 2 Bb)1{2
+#M=3 2 blank $DOWN1
+=4  2 ab}2{2 g}2{2
+#M=4 $DOWN1 $DOWN1
+=6  cha6 vol126 1 C(1
+#M=6 $CRE1
+I0.7 ppp
+i0.7 .25 cresc  .   .   .
+|
+#r0.6 .01 <E F# A> .50 <Eb F# A>
+=1 1 blank
+=3 1 A}2
+=4 1 f#}2
+=6  1 C)1
+#M=6 $DIM1
+I0.7 ff .95 ppp
+i0.7 .25 dim  .   .   .
+
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+#|
+#r0.6 .01 <D F A> .50 <D F Ab>
+#=1 1 blank
+#|
+#r0.6 .01 <D E G> .50 <C# E G>
+#=1 1 blank
+#|
+#r0.6 .01 <C Eb G> .50 <C Eb Gb>
+#=1 1 blank
+
+/
+5 bars | 48 | 48 | 48 | 48 | 48 |
+| 1.6
+# a second Rhythm ?  from sketches 20150101 ?
+i1.1 .02 mm 145-155  approx.
+=1 cha1 8 [c~ b rest'' b] [c~ rest'' b c~]
+=2 cha8 4 d eb rest eb
+=3 cha3 2 f gb
+=4 cha8 1 G#
+=5 cha5 2 blank 1 rest
+=6 cha8 1 G#
+|
+=1  8 rest'' c~ b rest'' [b c~ rest'' c~]
+=2  4 d rest eb d
+=3  2 rest gb
+=4  1 A
+=5 2 blank 1 rest
+=6  1 A
+|
+=1 8 [b rest'' c~ b] rest'' b c~ rest''
+=2 4 rest d eb rest
+=3 2 f rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+=6 2 blank 1 rest
+|
+=1 8  [b c~ rest'' c~] [b rest'' c~ b]
+=2 4  eb d rest d
+=3 2  gb f
+=4 1  A
+=5 2 blank 1 rest
+=6 1  A
+|
+=1 8 rest'' b c~ rest'' [c~ b rest'' b]
+=2 4 eb rest d eb
+=3 2 rest f
+=4 1 G# rest
+=5 2 blank 1 rest
+=6 1 G# rest
+/
+3 bars | 48 | 96 | 96 |
+|
+=1 8 [c~ rest'' b c~] rest'' c~ b rest''
+=2 4 rest eb d rest
+=3 2 gb rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+=6 2 blank 1 rest
+# a plan ? started at 9 notes/sec; this is 5;
+# could then accel to 5.5 6 6,5 7 8 and then do the Seethe downwards at 9 ?
+
+# must put something in here...
+|
+=1 cha1 vol+3 16 [eb d eb d] [d# en d# vol+3 16 e] [f e f e] vol+3 [f e f f#]
+i0.2 .01 arco
+=2 cha2 vol+3 16 [B c B c] [B c B vol+3 16 c] [B c c# cn] vol+3 [c# d c# d]
+=3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn bb] vol+3 [b c~ b c~]
+i0.2 .01 arco
+=4 cha4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
+=5 2 rest
+|
+=1 vol+3 16 [g f# g f#] [g g# gn vol+3 16 g#] [a g# a g#] vol+3 [a g# a bb]
+=2 vol+3 16 [eb en eb en] [eb en eb vol+3 16 en] [eb en f e] vol+3 [f f# fn f#]
+=3 vol+3 16 [c~# d~ c~# d~] [c~# d~ c~# vol+3 16 d~] [c~# d~ e~b d~] vol+3 [d~ e~n d~ e~]
+=4 vol+3 16 [a g# a g#] [a bb a vol+3 16 bb] [bn bb bn bb] vol+3 [bn bb bn c~]
+=5 2 rest
+/
+6 bars | 48 |
+
+| 1.6
+=1 cha1 8 [b c~ rest'' c~] [b rest'' c~ b]
+i0.2 .01 pizz
+=2 cha8 4 eb d rest d
+=3 cha3 2 gb f
+i0.2 .01 pizz
+=4 cha8 1 A
+=5 cha5 2 blank 1 rest
+=6 cha8 1 A
+|
+=1 8  rest'' b c~ rest'' [c~ b rest'' b]
+=2 4  eb rest d eb
+=3 2  rest f
+=4 1  G#
+=5 2 blank 1 rest
+=6 1  G#
+|
+=1 8 [c~ rest'' b c~] rest'' c~ b rest''
+=2 4 rest eb d rest
+=3 2 gb rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+=6 2 blank 1 rest
+|
+=1 8  [c~ b rest'' b] [c~ rest'' b c~]
+=2 4  d eb rest eb
+=3 2  f gb
+=4 1  G#
+=5 2 blank 1 rest
+=6 1  G#
+|
+=1 8 rest'' c~ b rest'' [b c~ rest'' c~]
+=2 4 d rest eb d
+=3 2 rest gb
+=4 1 A
+=5 2 blank 1 rest
+=6 1 A
+|
+=1 8  [b rest'' c~ b] rest'' b c~ rest''
+=2 4  rest d eb rest
+=3 2  f rest
+=4 2 blank 1  rest
+=5 2 blank 1 rest
+=6 2 blank 1  rest
+
+
+
+# see diary 20141118..20141123:
+#  GlissPizz->Seethe (splice) Rhythm (fade) Slide (fade)
+#  GlissPizz (fade) Seethe (fade) Rhythm (to be filled in here) Rhythm (fade)
+#  GlissPizz (one last and into) Seethe down mixed with Slide
+# see diary 20141205:
+#  To make numerous GlissPizz interesting, I need at least High and Low
+#  Again I have the feeling I need more material; I'm at 62sec and
+#  have to fill 300sec with GlissPizz, Rhythm and Seethe :-(
+#  Also, more Splice! less cross-fade...  and where's my MessaDiVoce ?
+
+# see AP.20141203 for interesting ways down from 033,
+#   which could recur in mvt3 in non-gliss guise...
+
+# 20141210   (from the diary)
+#   What's missing ?
+#   1 counterpoint   2 ryhthm     3 harmony
+#   1 fluent         2 chopped    3 smooth
+#   1 episodic       2 spliced    3 long arch
+#   1 craft          2 sfx        3 emotion
+#   1 culture        2 chaos      3 grief
+#
+# mvt2 needs more material.  At least another Rhythm, probably another Seethe,
+# and some stand-alone GlissPizz bit;
+# but the Slide should not be multiplied beyond necessity
+# (though it would be cute to give it the chord-sequence of mvt3...)
+
+
+midi pause 1.0
+
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title end of mvt2 ; 20150104 rebarred
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
+$BENDS1 = 8 bend50 blank 64 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4
+$BENDB1 = 64 bend50 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3
+$CRE1 = 64 cc11=10 blank cc11=20 blank cc11=30 blank cc11=40 blank cc11=50 \
+ blank cc11=60 blank cc11=70 blank cc11=80 blank cc11=90 \
+ blank cc11=100 blank cc11=110 blank cc11=120 blank cc11=127
+$DIM1 = 64 cc11=127 blank cc11=120 blank cc11=110 blank cc11=100 blank cc11=90 \
+ blank cc11=80 blank cc11=70 blank cc11=60 blank cc11=50 \
+ blank cc11=40 blank cc11=30 blank cc11=20 blank cc11=10
+
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.788
+=1 treble cha1  leg99 vol70 cc11=100
+=2 treble cha10 leg99 vol70 cc11=100
+=3  alto  cha3  leg99 vol75 cc11=100
+=4' alto  cha4  leg99 vol75 cc11=100
+=5' bass  cha11 leg99 vol70 cc11=100
+=6' bass  cha6  leg99 vol70 cc11=100
+=1 4 rest 2. F(2
+i0.3 .05 pizz , sul G , glissando
+#P=2 8 rest 4. G{1 16-s A}1 blank 2 rest
+#M=2 8 rest 4. G 2 rest
+#M=2 $BENDS1 2 blank
+=3' 4 rest 16 [B c B c]   [B A# B A#] [B Bb An Bb]
+=4  4 rest 16 [A Bb A Bb] [A G# A G#] [A Ab Gn Ab]
+#P=5 2 A{1 16-s B}1 blank 2 rest
+#M=5 2 A 2 rest
+#M=5 $BENDB1 2 blank
+i0.7 .01 pizz , glissando
+=6 4 rest 2.  d(1
+|
+=1  1 F)2(2
+=2  cha2 2 blank 1 rest
+=3' 16 [A Bb A A#] [Bn A# B A#] [B c B c] [B c B A#]
+=4  16 [G Ab G G#] [An G# A G#] [A Bb A Bb] [A Bb A G#]
+=5  cha5 2 blank 1 rest
+=6 1 d)1(1
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.778
+=1  1 F)2(2
+=3' 16 [B A# B A#] [B c B c]   [B c B A#]  [B A# B Bb]
+=4  16 [A G# A G#] [A Bb A Bb] [A Bb A G#] [A G# A Ab]
+=6  1 d)1(1
+| 1.778
+=1  1 F)2 83 blank
+=3' 16 [A Bb A Bb] [A A# Bn A#] [B A# B c] [B c B c]
+=4  16 [G Ab Gn Ab] [Gn G# A G#] [A G# A Bb] [A B A B]
+=6  1 d)1 83 blank
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 1 F(2
+=3 16 [B A# B A#] [B Bb An Bb] [A Bb A G#] [A G# A G#]
+=4 16 [A G# A G#] [A Ab Gn Ab] [G Ab G F#] [G F# G F#]
+=6 1 D(1
+| 1.778
+=1  1 F)2(2
+=3  16 [A Bb A Bb] [A A# Bn A#] [B A# B c'] [db c db c]
+=4  16 [G Ab G Ab] [G G# An G]  [A G A A#]  [B A# B A#]
+=6  1 D)1(1
+|
+=1 1 F)2(2
+=3' 16 [db c' B c'] [B c' B A#] [B A# B Bb] [An Bb A Bb]
+=4 16 [Bn Bb A Bb]  [A Bb A G#] [A G# A Ab] [Gn Ab G Ab]
+=6 1 D)1
+
+| 1.778
+=1  1 F)2(2
+=2  1 blank
+=3  16 [A G# A G#] [A G# A Bb] [A Bb A Bb] [B c' B c']
+=4  16 [G F# G F#] [G F# G Ab] [G Ab G Ab] [A Bb A Bb]
+=5  1 blank
+=6  1 d(1
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 2. F)2(1 16 [F)1 E F E]
+i0.2 .35 pizz , sul G , glissando
+#P=2 2 rest 16 blank 8 rest 4. F{2 16-s G}2
+#M=2 2 rest 8 rest cha10 vol125 bend50 4. F
+#M=2 2 blank $BENDS1 cha2
+=3 16 [B, c db c]  [db c db c] [B c' B c']  [B c' B c']
+=4 16 [A A# Bn A#] [B A# B Bb] [An Bb A Bb] [A Bb A Bb]
+#P=5 2 rest 16 blank 2 G{2 16-s A}2
+#M=5 2 rest cha11 bend50 vol125 2 G
+#M=5 2 blank $BENDB1 cha5
+i0.8 .25 pizz , glissando
+=6 2. d)1   16 [eb d eb d]
+
+| 1.778
+i0.8 .01 in small quantities only . . . lower ?  higher ? . . . condensing . . .
+=1  vol70 16 [F E F E]   [F E F E]   [F E F E]    [F E F E]
+=3' vol70 16 [B c B c]   [B c B Bb]  [A B A B]    [A G# A G#]
+=4  vol70 16 [A Bb A G#] [A G# A Ab] [Gn Ab G Ab] [G F# G F#]
+=6, vol60 16 [eb d eb d] [eb d eb d] [eb d eb d]  [eb d c# d]
+/
+2 bars | 48 | 48 |
+|
+=1  16 [F E vol+3 D# E] [D# E D# E] [Eb Dn Eb D] [Eb D C# D]
+=2 2 blank 1 rest
+=3  16 [A G# vol+3 A G#] [A G# A G#] [A G# A G#] [A G# A G#]
+=4  16 [G F# vol+3 G F#] [G F# G F#] [G F# G F#] [G F# G F#]
+=5 2 blank 1 rest
+=6' 16 [c# d vol+3 c# d] [c# d c# d] [db cn db c] [db c B c]
+|
+i0.8 .01 could do this also with semitone-trills
+=1 vol+3  16 [C# D C# D]  [C# D C# D]  vol+3 [C# D C# D] [C# D Db Cn]
+=3 vol+3  16 [A G# A Ab] [Gn Ab G Ab] vol+3 [G F# G F#] [G F# G F#]
+=4 2 blank 1 rest
+=5 vol76  16 [g f# g gb] [fn gb f gb] vol+3 [f e f e] [f e f e]
+=6 vol+3  16 [B c B  c]  [B  c  B c]  vol+3 [B c B c] [B c B A#]
+/
+2 bars | 48 | 48 |
+|
+=1 vol+3 16 [Db C Db C] [B_  C B_ C] [B_  C B_ C] vol+3 [B_ C B_ C]
+=3 vol+3 16 [G F# G F#] [G  F# G Gb] [Fn Gb F Gb] vol+3 [F E F E]
+=5 vol+3 16 [f e f e] [f e f e] [d# e d# e] vol+3 [eb dn e d]
+=6 vol+3 16 [B A# B Bb] [An Bb A Bb] [A  Bb A Bb] vol+3 [A Bb A Bb]
+|
+=1 vol+3 16 [B_ A_# B_ A_#] [B_ vol+3 B_b A_n B_b] [A_ B_b A_ B_b]  vol+3 [A_ B_b A_ B_b]
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 vol+3 16 [F E F E] [F       vol+3 E F E] [F   E D# E] [Eb Dn E D]
+=5 vol88 16 [e d e d] [e       vol+3 d eb d] [eb' d' c# d'] [db' cn db' c]
+=6 vol+3 16 [A G# A G#] [A     vol+3 Ab Gn Ab] [G Ab G Ab] [G Ab G Ab]
+/
+2 bars | 48 | 48 |
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3' 16 vol+3 [A G# A Ab] [Gn Ab G Ab]  [G vol+3  Ab G F#] [G F# G F#]
+=4  16 vol+3 [E D# E Dn] [Eb D C# D]   [Db vol+3 Cn Db C] Db 8. rest
+=5' 16 vol+3 [db c db c] [db  c B c]    [B vol+3  A# B Bb] [An Bb A Bb]
+=6  16 vol+3 [G F# G Gb] [Fn Gb F Gb] [F vol+3   Gb F E] [F E F E]
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 16 [Fn Gb F Gb] [F E F E]   [F E F E]   [F E D# E]
+=4 2 blank 1 rest
+=5 16 [A G# A G#] [A Ab Gn Ab] [G Ab G Ab] [G F# G F#]
+=6 16 [F E D# E] [D# E Eb Dn] [Eb D Eb D]  [C# D C# D]
+
+$BIGBEND = 64 bend0 blank bend5 blank bend10 blank bend15 blank bend20 blank \
+ bend25 blank bend30 blank bend35 blank bend40 blank \
+ bend45 blank bend50 blank bend55 blank bend60 blank \
+ bend65 blank bend70 blank bend75 blank bend80 blank \
+ bend85 blank bend90 blank bend95 blank bend100
+$MIDBEND = 64 bend0 blank bend5 blank bend10 blank bend15 blank bend20 blank \
+ bend25 blank bend30 blank bend35 blank bend40 blank \
+ bend45 blank bend50
+
+# 8 + 8 + 10 + 10 + 10 st
+/
+2 bars | 48 | 48 |
+| 1.778
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 16 [D# E Eb D] [Db C Db C] Db 8. rest 4 rest
+=4 2 blank 1 rest
+=5 16 [F Gb F Gb] [F  E F  E] [F G# A Ab] Gn 8. rest
+#P=6 1 C#{2
+#M=6 2 Eb G
+#M=6 $BIGBEND $BIGBEND
+i0.01 .25 glissando  .   .   .
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+i0.1 .30 glissando  .   .   .
+#P=5 1 A{2
+#M=5 2 B eb
+#M=5 $BIGBEND $BIGBEND
+#P=6 32-s A'}2 2 blank 1 rest
+/
+2 bars | 48 | 48 |
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+#P=5 32-s f'}2 2 blank 1 rest
+i0.1 .30 glissando  .   .   .
+#P=6 1 f{2
+#M=6 2 g b 4 d~#
+#M=6 $BIGBEND $BIGBEND $MIDBEND
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+i0.1 .30 glissando  .   .   .
+#P=3 1 eb{2
+#M=3 2 f a 4 c~#
+#M=3 $BIGBEND $BIGBEND $MIDBEND
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+#P=6 32-s e~b'}2 2 blank 1 rest
+/
+3 bars | 48 | 48 | 48 ||
+|
+=1 bend50 1 b~(1
+i0.1 .30 glissando  .   .   .
+#P=2 1 c#{2
+#M=2 2 eb g 4 b
+#M=2 $BIGBEND $BIGBEND $MIDBEND
+#P=3 32-s c~#'}2 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+I0.2 .90 ppp
+=6 2 blank 1 rest
+I0.2 .90 ppp
+| 2.8
+=1 bend50 1 b~)1(1
+=2 bend50 1 b}2(1
+i0.5 .05 ritardando  .   .   .
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+i0.5 .05 ritardando  .   .   .
+=5 bend50 1 vol125 C#(1
+#M=5 $CRE1
+i0.2 .20 cresc  .    .   .
+I0.2 .92 fff
+=6 bend50 1 vol125 C#(1
+#M=6 $CRE1
+i0.2 .20 cresc  .    .   .
+I0.2 .92 fff
+| 4.0
+i0.2 .20 dim  .    .   . .85 niente
+=1 1 b~)1-fermata
+#M=1 $DIM1
+i0.2 .20 dim  .    .   . .85 niente
+=2 1 b)1-fermata
+#M=2 $DIM1
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 1 C#)1-fermata
+#M=5 $DIM1
+i0.6 .20 dim  .    .   . .85 niente
+=6 1 C#)1-fermata
+#M=6 $DIM1
+i0.2 .20 dim  .    .   . .85 niente
+@
+
+
+1.12
+log
+@small refinements
+@
+text
+@d81 1
+a88 1
+il0.6 .01 5
+d412 1
+a412 1
+r0.6 .01 <E F# A> .50 <Eb F# A>
+d434 2
+a435 2
+3 bars | 48 | 48 | 48 |
+| 3.2
+d438 43
+a480 20
+=1 cha1 16 [c~ b rest'' b] [c~ rest'' b c~] rest'' c~ b rest'' [b c~ rest'' c~]
+=2 cha8 8 d eb rest eb d rest eb d
+=3 cha3 4 f gb rest gb
+=4 cha8 2 G# A
+=5 cha5 1 rest
+=6 cha8 2 G# A
+|
+=1 16 [b rest'' c~ b] rest'' b c~ rest'' [b c~ rest'' c~] [b rest'' c~ b]
+=2 8 rest d eb rest eb d rest d
+=3 4 f rest gb f
+=4 2 rest A
+=5 1 rest
+=6 2 rest A
+|
+=1 16 rest'' b c~ rest'' [c~ b rest'' b] [c~ rest'' b c~] rest'' c~ b rest''
+=2 8 eb rest d eb rest eb d rest
+=3 4 rest f gb rest
+=4 2 G# rest
+=5 1 rest
+=6 2 G# rest
+d485 16
+a500 1
+midi pause 1.0
+d502 44
+a545 21
+| 3.2
+=1 cha1 16 [b c~ rest'' c~] [b rest'' c~ b] rest'' b c~ rest'' [c~ b rest'' b]
+=2 cha8 8 eb d rest d eb rest d eb
+=3 cha3 4 gb f rest f
+=4 cha8 2 A G#
+=5 cha5 1 rest
+=6 cha8 2 A G#
+|
+=1 16 [c~ rest'' b c~] rest'' c~ b rest'' [c~ b rest'' b] [c~ rest'' b c~]
+=2 8 rest eb d rest d eb rest eb
+=3 4 gb rest f gb
+=4 2 rest G#
+=5 1 rest
+=6 2 rest G#
+|
+=1 16 rest'' c~ b rest'' [b c~ rest'' c~] [b rest'' c~ b] rest'' b c~ rest''
+=2 8 d rest eb d rest d eb rest
+=3 4 rest gb f rest
+=4 2 A rest
+=5 1 rest
+=6 2 A rest
+@
+
+
+1.11
+log
+@add the glisspizzes in the coda
+@
+text
+@d545 2
+a546 2
+=5' bass  cha5  leg99 vol70 cc11=100
+=6' bass  cha11 leg99 vol70 cc11=100
+d572 1
+a572 1
+=6 2 d)1(1
+d625 2
+d629 1
+d632 1
+d636 1
+a636 1
+=1 vol+3 16 [C# D C# D]  [C# D C# D]  vol+3 [C# D C# D] [C# D Db Cn]
+d638 2
+a639 2
+=4 vol+3  16 [G F# G Gb] [Fn Gb F Gb] vol+3 [F E F E F] [E F E F]
+=5 1 blank
+d641 2
+d646 1
+a646 1
+=4 vol+3 16 [F E F E] [F    E F E] [D#   E D# E] vol+3 [Eb Dn E D]
+a647 2
+
+
+d655 2
+d682 2
+d704 2
+@
+
+
+1.10
+log
+@just after rolling in sketches/20150106
+@
+text
+@d462 1
+d542 1
+a542 1
+=2 treble cha2  leg99 vol70 cc11=100
+d546 6
+a551 3
+=6' bass  cha6  leg99 vol70 cc11=100
+=1 1 f(2
+=2 1 blank
+d554 5
+a558 2
+=5 1 blank
+=6 1 D(1
+d560 2
+a561 1
+=1  1 f)2(2
+d564 2
+a565 1
+=6 1 D)1(1
+d569 1
+a569 1
+=1  1 f)2(2
+d572 1
+a572 6
+=6 2 D)1(1
+#|
+#=1  1 f)2(2
+#=3' 16 [A Bb A Bb] [A A# Bn A#] [B A# B c]  [B c B c]
+#=4  16 [G Ab G Ab] [G G# An G#] [A G# A Bb] [A Bb A Bb]
+#=6  2 D)1(1
+d574 1
+a574 1
+=1  1 f)2 83 blank
+d577 1
+a577 1
+=6  1 D)1 83 blank
+d581 1
+a581 1
+=1 1 f
+d586 1
+a586 1
+=1  1 F(2
+d606 5
+a610 1
+=1 2. F)2(2 16 [F)2 E F E]
+d613 4
+d649 1
+a649 1
+=5 vol+3 16 [e d e d] [e       vol+3 d eb d] [eb' d' c# d'] [db' cn db' c]
+a706 1
+% four to go
+a718 1
+% three to go
+a730 1
+% two to go
+d733 1
+d736 1
+d739 1
+a739 1
+i0.2 .30 cresc  .    .   .
+d743 1
+a743 1
+i0.2 .30 cresc  .    .   .
+d746 2
+a747 3
+% last
+i0.2 .30 dim  .    .   . .85 niente
+=1 1 b~)1
+d749 2
+a750 2
+i0.2 .30 dim  .    .   . .85 niente
+=2 1 b)1
+d754 1
+a754 1
+=5 1 C#)1
+d756 2
+a757 2
+i0.2 .30 dim  .    .   . .85 niente
+=6 1 C#)1
+d759 1
+a759 1
+i0.2 .30 dim  .    .   . .85 niente
+@
+
+
+1.9
+log
+@just before rolling in sketches/20150106
+@
+text
+@d2 3
+d460 3
+a512 1
+#midi off
+d515 4
+a518 2
+4 systems 5 / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19  / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 /
+title 20141004 :   inverse of 20141012
+d523 14
+d538 26
+a563 68
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+| 1.222
+=1  treble cha2  leg99 vol70 bend50
+=2  alto   cha3  leg99 vol75 bend50
+=3' alto   cha4  leg99 vol75 bend50
+=4' bass   cha5  leg99 vol70 bend50
+# midi off
+=1  2 f(2
+=2  16 [A Bb A B A B] [A G# A G A]
+=3' 16 [B c B c B c] [B Bb Bn Bb Bn]
+=4  2 D(1
+|
+=1 2 f)2(2
+=2 16 [G# Gn G# Gn G# Gn] [G# A G A G]
+=3 16 [Bb A B A B A] [B Bn Bb Bn Bb]
+=4 2 D)1(1
+|
+=1 2 f)2(2
+=2 16 [A Bb A B A B] [A G# A G A]
+=3'16 [B c B c B c] [B Bb Bn Bb Bn]
+=4 2 D)1(1
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 ||4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1  2 f)2 83 blank
+=2  16 [G# Gn G# Gn G# Gn] [G# A G A G]
+=3  16 [Bb A B A B A] [B Bn Bb Bn Bb]
+=4  2 D)1 83 blank
+|
+=1 2 f(2
+=2 16 [A Bb A B A B] [A G# A G A]
+=3' 16 [B c B c B c] [B Bb Bn Bb Bn]
+=4 2 d(1
+|
+=1 2 f)2(2
+=2 16 [G# Gn G# Gn G# Gn] [F# G F G F]
+=3 16 [Bb A B A B A] [G# A G A G]
+=4 2 d)1(1
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1  2 f)2(2
+=2  16 [G G# Gn G# Gn G#] [A G A G A]
+=3  16 [A Bb A B A B] [Bn Bb Bn Bb Bn]
+=4  2 d)1(1
+|
+=1 2 f)2
+is0.4 interesting; could go through d eb and remain regular...
+=2 16 [Bb Bn Bb Bn Bb Bn] [Bb A B A B]
+=3 16 [c db c db c db] [c' B c' B c']
+=4 2 d)1
+|
+=1 2 F(2
+=2 16 [A G# A G A G] [Gn G# Gn G# Gn]
+=3 16 [B Bb Bn Bb Bn Bb] [A B A B A]
+=4 2 d~(1
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1  2 F)2(2
+=2  16 [F# G F G F G] [G# Gn G# Gn G#]
+=3  16 [G# A G A G A] [Bb A B A B]
+=4  2 d~)1(1
+|
+=1 2 F)2
+=2 16 [A Bb A B A B] [Bn Bb Bn Bb Bn]
+=3 16 [B c' B c' B c'] [db c db c db]
+=4 2 d~)1
+d565 26
+a590 1
+#=1 1 blank
+d592 14
+a605 1
+4 systems 5 / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19  / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 /
+d607 1
+a607 3
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+| 1.222
+d609 9
+a617 17
+=1 vol70 16 [F E F E F E] [F E F E F]
+=2 vol70  16 [A Bb A B A B] [A G# A G A]
+=3' vol70  16 [B c B c B c] [B Bb Bn Bb Bn]
+=4 tenor vol60  16 [eb d e d e d] [e d e d e]
+|
+=1 16 [E F E F E F] [E F E F E]
+=2 16 [G# Gn G# Gn G# Gn] [F# G F G F]
+=3 16 [Bb A B A B A] [G# A G A G]
+=4 16 [d eb d e d e] [d e d e d]
+|
+i0.8 .01 watch out for the phase changes . . .
+=1 vol+3 16 [Eb En Eb En Eb En] [Eb D E D E]
+=2 vol+3 16 [G F# G F G F] [G F G F G]
+=3 vol+3 16 [A G# A G A G] [A G A G A]
+=4 vol+3 16 [c# d c d c d] [c cn c# cn c#]
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |9/16 4 4 4 4 4 4 4 4 3 |
+d620 42
+a661 43
+=1 vol+3 16 [D C# D C D C] [D C D C D]
+=2 vol+3  16 [F# G F G F G] [F Fn F# Fn F#]
+=3 vol+3  16 [G# A G A G A] [G Gn G# Gn G#]
+=4 vol+3  16 [c B c B c B] [c B c B c]
+|
+=1 vol+3 16 [C# D C D C D] [C Cn C# Cn C#]
+=2 vol+3 16 [F E F E F E] [F E F E F]
+=3 vol+3 16 [G F# G F G F] [G F G F G]
+=4 vol+3 16 [B c B c B c] [B Bb Bn Bb Bn]
+| 1.000
+=1 9/16 vol+3 16 [C B_ C B_ C] [B_ C B_ C]
+=2 9/16 vol+3 16 [E F E F E] [Eb En Eb En]
+=3 9/16 vol+3 16 [F# G F G F] [Fn F# Fn F#]
+=4 9/16 vol+3 16 [Bb A B A B] [A B A B]
+/
+3 bars | 9 | 7 | 7 |
+|
+=1 vol+3 16 [B_ C B_ C B_] [B_b B_n B_b B_n]
+=2 vol+3  16 [Eb D E D E] [D E D E]
+=3 vol+3  16 [F E F E F] [E F E F]
+=4 vol+3  16 [A Bb A B A] [G# A' G A']
+| 0.778
+=1' 7/16 vol+3 16 [B_b A_ B_ A_] [B_ A_ B_]
+=2 7/16 vol+3 16 [D Eb D E] [D C# D]
+=3 7/16 vol+3 16 [E F E F] [E Eb En]
+=4 7/16 vol+3 16 [G# Gn G# Gn] [G# Gn G#]
+|
+=1' vol+3 16 [A_ B_b A_ B_] [A_ G_# A_]
+=2 vol+3 16 [C# Cn C# Cn] [C# Cn C#]
+=3 vol+3 16 [Eb D E D] [E D E]
+=4 vol+3 16 [G G# Gn G#] [Gn F# G]
+/
+3 bars | 5 | 5 | 5 |
+| 0.555
+=1 5/16 vol+3 16 [G_# G_n G_#] [G_n G_#]
+=2  5/16 vol+3 16 [C C# Cn] [B_ C]
+=3  5/16 vol+3 16 [D Eb D] [C# D]
+=4  5/16 vol+3 16 [F# Fn F#] [Fn F#]
+|
+=1 vol+3 16 [G_ G_# G_n] [F_# G_]
+=2 vol+3 16 [B_ B_b B_n] [B_b B_n]
+=3 vol+3 16 [C# Cn C#] [Cn C#]
+=4 vol+3 16 [F F# Fn] [E F]
+d663 87
+a749 1
+midi on
+@
+
+
+1.8
+log
+@trying to find a plan for >35
+@
+text
+@d361 2
+a362 1
+i0.3  pizz, .20 glissando
+d368 2
+a369 3
+#M=6 cha11 vol125 2 A bend50 8. [c, 16 d~] 8 rest'' blank
+#M=6 $BENDB1 2 blank cha8
+#M=6 2.. blank bend50 vol80 8 d~
+d400 1
+a400 1
+=3  4 rest bb(1 2 bb)1{2
+d411 1
+a411 1
+=3 1 a}2
+d420 10
+d431 47
+a478 9
+|
+r0.6 .01 <D F A> .50 <D F Ab>
+=1 1 blank
+|
+r0.6 .01 <D E G> .50 <C# E G>
+=1 1 blank
+|
+r0.6 .01 <C Eb G> .50 <C Eb Gb>
+=1 1 blank
+d507 1
+a507 1
+midi off
+@
+
+
+1.7
+log
+@some bug fixes; try out first messa-di-voce
+@
+text
+@d20 4
+a23 3
+$BENDB1 = 64 bend50 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4
+d107 1
+a107 1
+=2 2. G)2 16 [G Ab G Ab]
+d110 1
+a110 1
+=5 2. Bb)2 tenor 16 [A Bb A Bb]
+d303 1
+a303 1
+#M=1 4 f# rest cha10 8 rest vol110 4. G#
+d307 3
+a309 4
+#P=3' 4 f#}2 rest 16 blank 2 Bb{1 16-s c}1
+#M=3 4 bend50 vol70 f#}2 rest cha11 vol110 2 Bb
+#M=3 2 blank $BENDB1
+i0.9 .30 pizz, .60 glissando
+d313 4
+a316 1
+=6, cha8 8. [F# 16 d~] 8 rest' d~ rest'  [d~ d~] rest'
+d318 2
+d323 1
+a323 1
+=3 2 rest cha3 bend50 4 rest vol80 c~(2
+d327 1
+a327 1
+=6 8 rest' [d~ d~] rest' 4 F# 8 rest' d~
+d332 2
+a333 1
+=3  1 vol80 c~)2{2
+d342 1
+d355 1
+d361 4
+a364 4
+#il0.3 .03 when to change to <C D> ?
+#P=4 8 rest 4. g{1 16-s a}1 blank 2 rest
+#M=4 vol125 8 rest 4. g 2 rest
+#M=4 $BENDS1 2 blank
+d367 4
+a370 2
+#M=6 vol125 2 A bend50 vol80 8. [c, 16 d~] 8 rest'' d~
+#M=6 $BENDB1 2 blank
+d377 1
+d396 2
+d400 1
+a400 1
+=3  4 rest bb(2 2 bb)2{2
+d402 1
+a402 1
+=4  2 ab}2{2 g}2
+d404 1
+a404 1
+=6  cha6 vol126 1 C(2
+d406 2
+d409 5
+a413 1
+=6  1 C)2
+d415 16
+d446 13
+d460 1
+d471 4
+a474 4
+=1 treble cha2  leg99 vol70 bend50
+=2 alto cha3  leg99 vol75 bend50
+=3' alto cha4  leg99 vol75 bend50
+=4' bass cha5  leg99 vol70 bend50
+d539 1
+d541 1
+d608 2
+@
+
+
+1.6
+log
+@up to 33 bars ?
+@
+text
+@d17 2
+a18 2
+$BENDS1 = 8 bend50 blank 64 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+d23 6
+d84 1
+d103 3
+a105 3
+#P=1 2 rest 16 blank 8 rest 4. G{2 16-s A}2
+#M=1 2 rest 8 rest 4. F
+#M=1 2 blank $BENDS1
+d110 3
+a112 3
+#P=6 2 rest 16 blank 2 A{2 16-s B}2
+#M=6 2 rest 2 G
+#M=6 2 blank $BENDB1
+d307 1
+a307 1
+#M=3 4 bend50 vol70 f#}2 rest cha10 vol110 2 Bb
+d313 1
+a313 1
+=6, 8. [F# 16 d~] 8 rest' d~ rest'  [d~ d~] rest'
+d355 1
+a355 1
+#M=4 vol110 8 rest 4. g 2 rest
+d357 1
+a357 1
+=5 16 [<d c~> rest' rest' <d c~>] rest [<d c~> <d c~>] rest rest [<d c~> <d c~>] rest [<d c~> rest' rest' <d c~>]
+d359 1
+a359 1
+#M=6 vol110 2 A bend50 vol80 8. [c, 16 d~] 8 rest'' d~
+d367 3
+a369 1
+=5 16 rest' [<d c~> <d c~>] rest' [<d c~> rest' rest' <d c~>] [<d c~> rest' rest' <d c~>] rest' [<d c~> <d c~>] rest'
+d379 5
+a383 1
+=5 16 rest' [<d c~> <d c~>] rest' [<d c~> rest' rest' <d c~>] [<d c~> rest' rest' <d c~>] rest' [<d c~> <d c~>] rest'
+d386 11
+a396 1
+#M=1  $DOWN1 2 blank
+d398 9
+d408 2
+@
+
+
+1.5
+log
+@up to bar 31
+@
+text
+@d44 1
+a44 1
+#M=6 2 A 2. rest
+a93 14
+$BENDS2 = {
+ 2 blank \
+ 8 bend50 blank 32 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3
+}
+$BENDB2 = {
+ 2 blank \
+ 32 bend50 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3
+}
+
+d98 1
+a98 1
+#M=1 $BENDS2
+d105 1
+a105 1
+#M=6 $BENDS2
+d159 1
+a159 2
+$DOWN1 = {
+ 8. bend50 blank bend-3 8 blank bend-2 blank bend-2 blank bend-2 \
+a161 1
+}
+d262 1
+a262 1
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+d272 1
+a272 1
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+d283 1
+a283 1
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+d286 1
+a286 1
+=4  16 [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>]
+d303 1
+a303 1
+=4  16 rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>] [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest
+d306 1
+a306 1
+=6, 8. [F# 16 d~] rest'' [d~ d~] rest''  rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]
+d312 1
+a312 1
+=4  16 [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>]
+d322 1
+a322 1
+=4  16 rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>] [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest
+d325 1
+a325 1
+=6, 16 rest'' [d~ d~] rest'' [d~ rest'' rest'' d~] 8. [F# 16 d~] rest'' [d~ d~] rest'' 
+d329 25
+a353 8
+=1  2 f# 4 rest cha1 vol80 c(2
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3  1 vol80 b}2{2
+=3 $DOWN1
+=4  16 rest [<e f#x> <e f#x>] rest [<e f#x> rest rest <e f#x>] [<e f#x> rest rest <e f#x>] rest [<e f#x> <e f#x>] rest
+=5, 1 vol80 a}2{2
+=5 $DOWN1
+=6, 8. [F# 16 d~] rest'' [d~ d~] rest''  rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]
+d355 7
+a361 14
+=1  1 vol80 c)2{2
+=1  $DOWN1
+il0.3 .03 when to change to <C D> ?
+=2 1 blank
+il0.3 .13 speed up the gliss ?
+=3  1 vol80 bb}2{2
+=3  $DOWN1
+=5  4 vol80 bend50 4 ab}2 4 rest 2 rest
+=6  1 blank
+|
+=1  1 vol80 B}2{2
+=1  $DOWN1
+=3  1 vol80 a}2{2
+=3  $DOWN1
+d365 6
+a370 7
+=1  1 vol80 Bb}2{2
+=1  $DOWN1
+=3  1 vol80 bend50 4 ab}2 4 rest 2 rest
+|
+il0.6 .10 35
+=1  1 vol80 A}2{2
+=1  $DOWN1
+d372 2
+a373 1
+=1  1 vol80 bend50 4 Ab}2 4 rest 2 rest
+@
+
+
+1.4
+log
+@pre-process the morse-thue patterns
+@
+text
+@d17 1
+a17 2
+$BENDS1 = {
+ 8 bend50 blank 64 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+d19 2
+a20 4
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 2 blank
+}
+$BENDB1 = {
+ 64 bend50 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+d22 1
+a22 2
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 2 blank
+}
+d38 1
+a38 1
+#M=1 $BENDS1
+d45 1
+a45 1
+#M=6 $BENDB1
+d128 1
+d223 1
+a223 1
+=1 4 bb rest cha8 2 rest
+d309 10
+a318 3
+=1  2 f# 4 rest f#
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 4 bend50 vol70 f#}2 rest 2 rest
+d324 1
+a324 1
+=1  4 rest f# f# rest
+d326 2
+a327 1
+=3 2 rest 4 rest vol80 c~(2
+d334 12
+a345 1
+=1  2 f# 4 rest f#
+d347 2
+a348 1
+=3  1 vol80 c~)2
+d350 1
+a350 1
+=5, 1 vol80 bb}2
+d353 27
+@
+
+
+1.3
+log
+@transition to UpSeethe, 18sec
+@
+text
+@d1 1
+a1 2
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d30 1
+a30 3
+3 bars | 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+d33 8
+a40 9
+=1  treble   cha10 leg99 vol110
+=2  treble   cha2  leg99 vol36
+=3  alto     cha3  leg99 vol75
+i0.5 .05 9 smq/sec
+=4' alto     cha4  leg99 vol75
+=5' bass     cha5  leg99 vol35
+i0.3 .05 pizz , glissando
+=6' bass     cha11 leg99 vol110
+#P=1 8 rest 4. G{2 16-s A}2 blank 2 rest
+d47 1
+a47 1
+#P=6 2 A{2 16-s B}2 blank 2 rest
+d49 2
+a50 1
+#M=6 $BENDS1
+a64 1
+
+d66 1
+a66 2
+3 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+d86 1
+a86 1
+=5 1 Bb(1
+d89 1
+a89 1
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+d95 1
+a95 1
+=5 1 Bb)1(1
+d100 1
+a100 1
+ 8 bend50 blank 64 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+d106 1
+a106 1
+ 64 bend50 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+d111 1
+d120 1
+a120 2
+=5 2. Bb)1 tenor 16 [A Bb A Bb]
+i0.3 .45 pizz , glissando
+d124 1
+d132 1
+a132 4
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+d134 1
+a134 1
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+d136 1
+d143 32
+d176 5
+a180 2
+midi off
+
+d182 17
+d200 16
+a215 1
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |9/16 4 4 4 4 4 4 4 4 3 |
+d217 5
+a221 14
+=2' vol+3 16 [A A# B A# B A# B] [A# B A# B A#]
+=3  vol+3 16 [f gb f gb f gb f] [f# gn f# g f#]
+=4  vol+3 16 [d# e d# e d# e d#] [e f e f e]
+=5  vol+3 16 [B c db c db c db] [c db c db c]
+|
+=2  vol+3 16 [B' A# B' A# B' A#] [B c B c B]
+=3  vol+3 16 [g ab g ab g ab] [g ab g ab g]
+=4  vol+3 16 [f gb f gb f gb] [f gb f gb f]
+=5  vol+3 16 [db c db c db c] [c# dn c# d c#]
+| 1.000
+=2 9/16 vol+3 16 [c db c db c] [db c db c]
+=3 9/16 vol+3 16 [ab g ab g g#] [an g# a g#]
+=4 9/16 vol+3 16 [gb f gb f f#] [gn f# g f#]
+=5 9/16 vol+3 16 [d eb d eb d] [eb d eb d]
+d223 1
+a223 1
+3 bars | 9 | 7 | 7 |
+d225 22
+a246 14
+=2  vol+3 16 [db c db c c#] [dn c# d c#]
+=3 vol+3 16 [a bb a bb a] [bb a bb a]
+=4 vol+3 16 [g ab g ab g] [ab g ab g]
+=5 vol+3 16 [eb d eb d d#] [en d# e d#]
+| 0.777
+=2 7/16 vol+3 16 [d eb d eb] [d eb d]
+=3 7/16 vol+3 16 [bb a bb a] [bb bn bb]
+=4 7/16 vol+3 16 [g# gn g# gn] [g# a g#]
+=5 7/16 vol+3 16 [e f e f] [e f e]
+|
+=2 vol+3 16 [eb d eb d] [eb en eb]
+=3 vol+3 16 [b c~ b c~] [b c~ b]
+=4 vol+3 16 [a bb a bb] [a bb a]
+=5 vol+3 16 [f e f e] [f f# fn]
+d248 28
+a275 28
+3 bars | 5 | 5 | 5 |
+| 0.555
+=2 5/16 vol+3 16 [e f e] [f e]
+=3 5/16 vol+3 16 [c~ b c~] [c~# c~n]
+=4 5/16 vol+3 16 [bb a bb] [bn bb]
+=5 5/16 vol+3 16 [f# g f#] [g f#]
+|
+=2 vol+3 16 [f e f] [f# fn]
+=3 vol+3 16 [c~# d~ c~#] [d~ c~#]
+=4 vol+3 16 [b c~ b] [c~ b]
+=5 vol+3 16 [g f# g] [g# gn]
+
+2 systems 10 / 19-30-19-30-19-30-19-30-19-30-19-30-19 \
+ / 19-30-19-30-19-30-19-30-19-30-19-30-19 /
+title 20141001
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+# book.AP  p.3
+a277 20
+$V1 = morse_thue? 8 bb rest : 4 rest ?
+$V2 = morse_thue? 8 rest 16 <dx e> rest : 16 <dx e> rest 8 rest ?
+$A2 = morse_thue? [<Bb e> rest' rest' <Bb e>] : rest' [<Bb e> <Bb e>] rest' ?
+$C1 = morse_thue? [d rest' rest' d] : rest' [d d] rest' ?
+| 3.555
+=1  treble   cha8 leg99 vol95
+=2  treble   cha2 leg99 vol76
+=3  alto     cha3 leg99 vol75
+=4' alto     cha4 leg99 vol75
+=5' tenor    cha8 leg99 vol75
+=6' bass     cha6 leg99 vol75
+=7' bass8vab cha8 leg90 vol90
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+i0.5  4.44 smq/sec,  upped to 4.5 smq/sec
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6' 1 rest
+=7 8 bb 4. rest 2 rest
+d279 30
+a308 15
+=1 $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 1 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6' 1 rest
+=7 2 rest 8 bb 4. rest
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 2. rest 4 g
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6 2. rest 4 g
+=7 2 rest 8 bb 4. rest
+d312 25
+a336 23
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 2 f# 4 g ab(1
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6  2 f# 4 g ab(1
+=7 8 bb 4. rest 2 rest
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 4 ab)1 rest 2 ab
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6 4 ab)1 rest 2 f#
+=7 2 rest 8 bb 4. rest
+|
+=1  $V1 $V1 $V1 $V1
+=2  $V2 $V2 $V2 $V2
+=3 4 g 2 f# 4 rest
+=4, 16 $A2 $A2 $A2 $A2
+=5, 16 $C1 $C1 $C1 $C1
+=6 4 g 2 ab 4 rest
+=7 2 rest 8 bb 4. rest
+a337 9
+6 systems 15 /19-25-19/19-25-19 15/19-25-19 15/19-25-19 15/19-25-19/19-25-19/
+title 20141105  for p21
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+a338 15
+/
+3 bars | 18/16 48 | 48 | 12/16 36 |
+| 1.48148
+=1 treble cha1 18/16 1 blank
+#i0.5 .05 10 smq/sec, lowered to 9 smq/sec at which it is uncomfortably slow :-(
+i0.5 .05 4.5 qua./sec ( 3 against 2 )
+=2 treble cha2 18/16 1 blank
+=1 18/16 8 [Gb 16 Ab] 8 [Gb 16 F] 8 [Gb 16 F] 4 Gb 8 rest 8 [Gb 16 Ab]
+=2 18/16 4 D 8 rest 8 [D 16 Eb] 8 [D 16 C] 8 [D 16 C] 8 [D 16 Eb]
+|
+=1 8 [Gb 16 F] 8 [Gb 16 Ab] 8 [Gb 16 Ab] 4 Gb 8 rest 8 [Gb 16 F]
+=2 4 D 8 rest 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 Eb] 8 [D 16 C]
+| 0.985185
+=1 12/16 8 [Gb 16 F] 8 [Gb 16 Ab] 8 Gb 16 rest 8 [Gb 16 An]
+=2 12/16 8 D 16 rest 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 B_]
+d340 1
+a340 70
+#
+#/
+#2 bars | 18/16 48 | 48 |
+#| 1.48148
+#=1 18/16 8 [Gb 16 Ab] 8 [Gb 16 F] 8 [Gb 16 F] 4. Gb 8 [Gb 16 Ab]
+#=2 18/16 4. D 8 [D 16 Eb] 8 [D 16 C] 8 [D 16 C] 8 [D 16 Eb]
+#|
+#=1 8 [Gb 16 F] 8 [Gb 16 Ab] 8 [Gb 16 Ab] 4. Gb 8 [Gb 16 F]
+#=2 4. D 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 Eb] 8 [D 16 C]
+#midi pause 1.5
+#
+#/
+#2 bars | 48 | 48 |
+#| 1.97556
+#=1 8 [Gb 16 Ab] 8 [Gb 16 F] 8. Gb 8 [Gb 16 F] \
+#  8 [Gb 16 Ab] 8 [Gb 16 F] 8. Gb 8 [Gb 16 Ab]
+#=2 8. D 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 Eb] \
+#  8. D 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 C]
+#|
+#=1 8 [Gb 16 Ab] 8 [Gb 16 F] 8. Gb 8 [Gb 16 F] \
+#  8 [Gb 16 Ab] 8 [Gb 16 Ab] 8. Gb 8 [Gb 16 F]
+#=2 8. D 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 Eb] \
+#  8. D 8 [D 16 C] 8 [D 16 C] 8 [D 16 Eb]
+#midi pause 1.5
+
+/
+2 bars | 48 | 48 |
+| 1.97556
+=1 8 [Gb 16 Ab] 8 [Gb 16 F] 8 [Gb 16 F] 8 [Gb 16 Ab] \
+  8. Gb(2 Gb)2(2 Gb)2 8 [Gb 16 F]
+=2 8. D(2 D)2(2 D)2 8 [D 16 C] \
+ 8 [D 16 Eb] 8 [D 16 Eb] 8 [D 16 C] 8 [D 16 Eb]
+|
+=1 8 [Gb 16 Ab] 8 [Gb 16 Ab] 8 [Gb 16 F] 8 [Gb 16 F] \
+  8. Gb(2 Gb)2(2 Gb)2 8 [Gb 16 An]
+=2 8. D(2 D)2(2 D)2 8 [D 16 C] \
+ 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 Eb] 8 [D 16 B_]
+
+/
+3 bars | 18/16 48 | 48 | 12/16 36 |
+| 1.48148
+=1 18/16 4 G# 8 rest 8 [G# 16 F#] 8 [G# 16 A] 8 [G# 16 A] 8 [G# 16 F#]
+=2 18/16 8 [C 16 D] 8 [C 16 B_] 8 [C 16 B_] 4 C 8 rest 8 [C 16 D]
+|
+=1 4 G# 8 rest 8 [G# 16 A] 8 [G# 16 F#] 8 [G# 16 F#] 8 [G# 16 A]
+=2 8 [C 16 B_] 8 [C 16 D] 8 [C 16 D] 4 C 8 rest 8 [C 16 B_]
+| 0.985185
+=1 12/16 8 G# 16 rest 8 [G# 16 A] 8 [G# 16 F#] 8 [G# 16 Fn]
+=2 12/16 8 [C 16 B_] 8 [C 16 D] 8 C 16 rest 8 [C 16 Eb]
+
+/
+3 bars | 48 | 48 | 24 |
+| 1.97556
+% prob_1
+=1 8 [Gb 16 Ab] 8 [Gb 16 F] 8. Gb 8 [Gb 16 Ab] \
+  8 [Gb 16 F] 8 [Gb 16 F] 8. Gb 8 [Gb 16 Ab]
+=2 8. D 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 C] \
+  8. D 8 [D 16 Eb] 8 [D 16 Eb] 8 [D 16 C]
+
+|
+% prob_2
+=1 8 [Gb 16 Ab] 8 [Gb 16 F] 8 [Gb 16 F] 8 [Gb 16 Ab] \
+  8. Gb(2 Gb)2(2 Gb)2 8 [Gb 16 F]
+=2 8. D(2 D)2(2 D)2 8 [D 16 C] \
+ 8 [D 16 Eb] 8 [D 16 Eb] 8 [D 16 C] 8 [D 16 Eb]
+| 0.888889
+=1 8 [Gb 16 Ab] 8 [Gb 16 F] 8. Gb 8 [Gb 16 Ab]
+=2 8. D 8 [D 16 C] 8 [D 16 Eb] 8 [D 16 C]
+
+
+a345 8
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+d350 4
+a353 4
+=1 treble cha2  leg99 vol70
+=2 alto cha3  leg99 vol75
+=3' alto cha4  leg99 vol75
+=4' bass cha5  leg99 vol70
+a417 1
+
+a418 1
+
+a484 2
+
+
+@
+
+
+1.2
+log
+@add GlissPizz at start; knock Seethe into 4/4
+@
+text
+@d18 1
+a18 1
+$BENDS = {
+d23 1
+a23 1
+$BENDB = {
+a43 1
+# midi off
+d46 1
+a46 1
+#M=1 $BENDS
+d50 1
+a50 1
+=5 4 rest 2 Bb(2
+d53 1
+a53 1
+#M=6 $BENDS
+d73 1
+d77 2
+a78 1
+=5 1 bb(1
+d80 2
+a81 1
+=2 1 G)2(2
+d84 2
+a85 1
+=5 1 bb)1(1
+d87 2
+a88 1
+=2 1 G)2(2
+d91 2
+a92 1
+=5 1 bb)1(1
+d96 1
+d100 29
+a128 1
+=5 1 bb)1(1
+d130 6
+a135 4
+=2 1 G)2
+=3 16 [f e eb d] [eb d eb d] [c# d c# d] c#   8. blank
+=4 16 [eb d db c] [db c db c] [B c' B c'] B   8. blank
+=5 1 bb)1
+d140 9
+d152 1
+a152 21
+4 systems 5 / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 \
+ / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 /
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+| 1.222
+i0.8 .01 in small quantities only . . . lower ?  higher ? . . . condensing . . .
+=1 vol70 16 [G Ab G Ab G Ab] [G Ab G Ab G]
+=2 vol70 16 [eb d eb d eb d] [d# en d# e d#]
+=3 vol70 16 [db c db c db c] [c# dn c# d c#]
+=4 tenor vol60 16 [A Bb A Bb A Bb] [A Bb A Bb A]
+|
+=1  16 [Ab G Ab G Ab G] [Ab G Ab G Ab]
+=2  16 [e f e f e f] [gb f gb f gb]
+=3  16 [d eb d eb d eb] [en d# e d# e]
+=4  16 [Bb A Bb A Bb A] [Bb A Bb A Bb]
+|
+i0.8 .01 watch out for the phase changes . . .
+=1' vol+3 16 [A G# A G# A G#] [A Bb A Bb A]
+=2  vol+3 16 [f gb f gb f gb] [f gb f gb f]
+=3  vol+3 16 [d# e d# e d# e] [d# e d# e d#]
+=4  vol+3 16 [B A# B A# B A#] [B c B c B]
+d156 9
+a164 9
+=1' vol+3 16 [A# B A# B A# B] [A# B A# B A#]
+=2  vol+3 16 [gb f gb f gb f] [f# gn f# g f#]
+=3  vol+3 16 [e d# e d# e d#] [e f e f e]
+=4  vol+3 16 [c db c db c db] [c db c db c]
+|
+=1  vol+3 16 [B' A# B' A# B' A#] [B c B c B]
+=2  vol+3 16 [g ab g ab g ab] [g ab g ab g]
+=3  vol+3 16 [f gb f gb f gb] [f gb f gb f]
+=4  vol+3 16 [db c db c db c] [c# dn c# d c#]
+d166 4
+a169 4
+=1 9/16 vol+3 16 [c db c db c] [db c db c]
+=2 9/16 vol+3 16 [ab g ab g g#] [an g# a g#]
+=3 9/16 vol+3 16 [gb f gb f f#] [gn f# g f#]
+=4 9/16 vol+3 16 [d eb d eb d] [eb d eb d]
+d173 4
+a176 4
+=1  vol+3 16 [db c db c c#] [dn c# d c#]
+=2 vol+3 16 [a bb a bb a] [bb a bb a]
+=3 vol+3 16 [g ab g ab g] [ab g ab g]
+=4 vol+3 16 [eb d eb d d#] [en d# e d#]
+d178 9
+a186 9
+=1 7/16 vol+3 16 [d eb d eb] [d eb d]
+=2 7/16 vol+3 16 [bb a bb a] [bb bn bb]
+=3 7/16 vol+3 16 [g# gn g# gn] [g# a g#]
+=4 7/16 vol+3 16 [e f e f] [e f e]
+|
+=1 vol+3 16 [eb d eb d] [eb en eb]
+=2 vol+3 16 [b c~ b c~] [b c~ b]
+=3 vol+3 16 [a bb a bb] [a bb a]
+=4 vol+3 16 [f e f e] [f f# fn]
+d190 9
+a198 11
+=1 5/16 vol+3 16 [e f e] [f e]
+=2 5/16 vol+3 16 [c~ b c~] [c~# c~n]
+=3 5/16 vol+3 16 [bb a bb] [bn bb]
+=4 5/16 vol+3 16 [f# g f#] [g f#]
+|
+=1 vol+3 16 [f e f] [f# fn]
+=2 vol+3 16 [c~# d~ c~#] [d~ c~#]
+=3 vol+3 16 [b c~ b] [c~ b]
+=4 vol+3 16 [g f# g] [g# gn]
+#|
+#=1 1 blank
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 3
+a3 3
+4 systems 5 / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 \
+ / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 /
+title 20141002
+d15 13
+d31 13
+a43 7
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+| 1.222
+i0.5 .05 8 smq/sec, upped to 9 smq/sec
+=1  treble   cha2 leg99 vol36
+=2  alto     cha3 leg99 vol75
+=3' alto     cha4 leg99 vol75
+=4' bass     cha5 leg99 vol35
+d45 43
+a87 33
+=1 2 G(2
+=2 163 [eb d eb d eb d] [d# en d# e d#]
+=3 163 [db c db c db c] [c# dn c# d c#]
+=4 2 Bb(2
+|
+=1 2 G)2(2
+=2 163 [e f e f e f] [e d# e d# e]
+=3 163 [d eb d eb d eb] [d c# d c# d]
+=4 2 Bb)2(2
+|
+=1 2 G)2(2
+=2 163 [eb d eb d eb d] [d# en d# e d#]
+=3 163 [db c db c db c] [c# dn c# d c#]
+=4 2 Bb)2(2
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 ||4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 2 G)2 83 blank
+=2 163 [e f e f e f] [e d# e d# e]
+=3 163 [d eb d eb d eb] [d c# d c# d]
+=4 2 Bb)2 83 blank
+
+|
+# midi on
+=1 2 G(2
+=2 163 [eb d eb d eb d] [d# en d# e d#]
+=3 163 [db c db c db c] [c# dn c# d c#]
+=4 2 bb(1
+|
+=1 2 G)2(2
+=2 163 [e f e f e f] [gb f gb f gb]
+=3 163 [d eb d eb d eb] [en d# e d# e]
+=4 2 bb)1(1
+d91 15
+a105 29
+=1 2 G)2(2
+=2 163 [f e f e f e]  [d# en d# e d#]
+=3 163 [eb d eb d eb d] [c# d c# d c#]
+=4 2 bb)1(1
+|
+=1 2 G)2(2
+is0.4 interesting; could go through d eb and remain regular...
+=2 163 [d c# d c# d c#] [d eb d eb d]
+=3 163 [c' B c' B c' B] [c db c db c]
+=4 2 bb)1(1
+|
+=1 2 G)2(2
+=2 163 [d# en d# e d# e] [f e f e f]
+=3 163 [c# dn c# d c# d] [eb d eb d eb]
+=4 2 bb)1(1
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 2 G)2(2
+=2 163 [gb f gb f gb f] [e f e f e]
+=3 163 [en d# e d# e d#] [dn eb d eb d]
+=4 2 bb)1(1
+|
+=1 2 G)2
+=2 163 [eb d eb d eb d] [c# d c# d c#]
+=3 163 [db c db c db c] [B c' B c' B]
+=4 2 bb)1
+#|
+#=1 1 blank
+d113 9
+a121 9
+=1 vol70 163 [G Ab G Ab G Ab] [G Ab G Ab G]
+=2 vol70 163 [eb d eb d eb d] [d# en d# e d#]
+=3 vol70 163 [db c db c db c] [c# dn c# d c#]
+=4 tenor vol60 163 [A Bb A Bb A Bb] [A Bb A Bb A]
+|
+=1  163 [Ab G Ab G Ab G] [Ab G Ab G Ab]
+=2  163 [e f e f e f] [gb f gb f gb]
+=3  163 [d eb d eb d eb] [en d# e d# e]
+=4  163 [Bb A Bb A Bb A] [Bb A Bb A Bb]
+d124 4
+a127 4
+=1' vol+3 163 [A G# A G# A G#] [A Bb A Bb A]
+=2  vol+3 163 [f gb f gb f gb] [f gb f gb f]
+=3  vol+3 163 [d# e d# e d# e] [d# e d# e d#]
+=4  vol+3 163 [B A# B A# B A#] [B c B c B]
+d131 9
+a139 9
+=1' vol+3 163 [A# B A# B A# B] [A# B A# B A#]
+=2  vol+3 163 [gb f gb f gb f] [f# gn f# g f#]
+=3  vol+3 163 [e d# e d# e d#] [e f e f e]
+=4  vol+3 163 [c db c db c db] [c db c db c]
+|
+=1  vol+3 163 [B' A# B' A# B' A#] [B c B c B]
+=2  vol+3 163 [g ab g ab g ab] [g ab g ab g]
+=3  vol+3 163 [f gb f gb f gb] [f gb f gb f]
+=4  vol+3 163 [db c db c db c] [c# dn c# d c#]
+d141 4
+a144 4
+=1 9/16 vol+3 163 [c db c db c] [db c db c]
+=2 9/16 vol+3 163 [ab g ab g g#] [an g# a g#]
+=3 9/16 vol+3 163 [gb f gb f f#] [gn f# g f#]
+=4 9/16 vol+3 163 [d eb d eb d] [eb d eb d]
+d148 4
+a151 4
+=1  vol+3 163 [db c db c c#] [dn c# d c#]
+=2 vol+3 163 [a bb a bb a] [bb a bb a]
+=3 vol+3 163 [g ab g ab g] [ab g ab g]
+=4 vol+3 163 [eb d eb d d#] [en d# e d#]
+d153 9
+a161 9
+=1 7/16 vol+3 163 [d eb d eb] [d eb d]
+=2 7/16 vol+3 163 [bb a bb a] [bb bn bb]
+=3 7/16 vol+3 163 [g# gn g# gn] [g# a g#]
+=4 7/16 vol+3 163 [e f e f] [e f e]
+|
+=1 vol+3 163 [eb d eb d] [eb en eb]
+=2 vol+3 163 [b c~ b c~] [b c~ b]
+=3 vol+3 163 [a bb a bb] [a bb a]
+=4 vol+3 163 [f e f e] [f f# fn]
+d165 9
+a173 9
+=1 5/16 vol+3 163 [e f e] [f e]
+=2 5/16 vol+3 163 [c~ b c~] [c~# c~n]
+=3 5/16 vol+3 163 [bb a bb] [bn bb]
+=4 5/16 vol+3 163 [f# g f#] [g f#]
+|
+=1 vol+3 163 [f e f] [f# fn]
+=2 vol+3 163 [c~# d~ c~#] [d~ c~#]
+=3 vol+3 163 [b c~ b] [c~ b]
+=4 vol+3 163 [g f# g] [g# gn]
+a307 1
+midi on
+d377 2
+a378 2
+=2  163 [A Bb A B A B] [A G# A G A]
+=3' 163 [B c B c B c] [B Bb Bn Bb Bn]
+d382 2
+a383 2
+=2 163 [G# Gn G# Gn G# Gn] [G# A G A G]
+=3 163 [Bb A B A B A] [B Bn Bb Bn Bb]
+d387 2
+a388 2
+=2 163 [A Bb A B A B] [A G# A G A]
+=3'163 [B c B c B c] [B Bb Bn Bb Bn]
+d394 2
+a395 2
+=2  163 [G# Gn G# Gn G# Gn] [G# A G A G]
+=3  163 [Bb A B A B A] [B Bn Bb Bn Bb]
+d399 2
+a400 2
+=2 163 [A Bb A B A B] [A G# A G A]
+=3' 163 [B c B c B c] [B Bb Bn Bb Bn]
+d404 2
+a405 2
+=2 163 [G# Gn G# Gn G# Gn] [F# G F G F]
+=3 163 [Bb A B A B A] [G# A G A G]
+d411 2
+a412 2
+=2  163 [G G# Gn G# Gn G#] [A G A G A]
+=3  163 [A Bb A B A B] [Bn Bb Bn Bb Bn]
+d417 2
+a418 2
+=2 163 [Bb Bn Bb Bn Bb Bn] [Bb A B A B]
+=3 163 [c db c db c db] [c' B c' B c']
+d422 2
+a423 2
+=2 163 [A G# A G A G] [Gn G# Gn G# Gn]
+=3 163 [B Bb Bn Bb Bn Bb] [A B A B A]
+d429 2
+a430 2
+=2  163 [F# G F G F G] [G# Gn G# Gn G#]
+=3  163 [G# A G A G A] [Bb A B A B]
+d434 2
+a435 2
+=2 163 [A Bb A B A B] [Bn Bb Bn Bb Bn]
+=3 163 [B c' B c' B c'] [db c db c db]
+d446 9
+a454 9
+=1 vol70 163 [F E F E F E] [F E F E F]
+=2 vol70  163 [A Bb A B A B] [A G# A G A]
+=3' vol70  163 [B c B c B c] [B Bb Bn Bb Bn]
+=4 tenor vol60  163 [eb d e d e d] [e d e d e]
+|
+=1 163 [E F E F E F] [E F E F E]
+=2 163 [G# Gn G# Gn G# Gn] [F# G F G F]
+=3 163 [Bb A B A B A] [G# A G A G]
+=4 163 [d eb d e d e] [d e d e d]
+d457 4
+a460 4
+=1 vol+3 163 [Eb En Eb En Eb En] [Eb D E D E]
+=2 vol+3 163 [G F# G F G F] [G F G F G]
+=3 vol+3 163 [A G# A G A G] [A G A G A]
+=4 vol+3 163 [c# d c d c d] [c cn c# cn c#]
+d465 9
+a473 9
+=1 vol+3 163 [D C# D C D C] [D C D C D]
+=2 vol+3  163 [F# G F G F G] [F Fn F# Fn F#]
+=3 vol+3  163 [G# A G A G A] [G Gn G# Gn G#]
+=4 vol+3  163 [c B c B c B] [c B c B c]
+|
+=1 vol+3 163 [C# D C D C D] [C Cn C# Cn C#]
+=2 vol+3 163 [F E F E F E] [F E F E F]
+=3 vol+3 163 [G F# G F G F] [G F G F G]
+=4 vol+3 163 [B c B c B c] [B Bb Bn Bb Bn]
+d475 4
+a478 4
+=1 9/16 vol+3 163 [C B_ C B_ C] [B_ C B_ C]
+=2 9/16 vol+3 163 [E F E F E] [Eb En Eb En]
+=3 9/16 vol+3 163 [F# G F G F] [Fn F# Fn F#]
+=4 9/16 vol+3 163 [Bb A B A B] [A B A B]
+d482 4
+a485 4
+=1 vol+3 163 [B_ C B_ C B_] [B_b B_n B_b B_n]
+=2 vol+3  163 [Eb D E D E] [D E D E]
+=3 vol+3  163 [F E F E F] [E F E F]
+=4 vol+3  163 [A Bb A B A] [G# A' G A']
+d487 9
+a495 9
+=1' 7/16 vol+3 163 [B_b A_ B_ A_] [B_ A_ B_]
+=2 7/16 vol+3 163 [D Eb D E] [D C# D]
+=3 7/16 vol+3 163 [E F E F] [E Eb En]
+=4 7/16 vol+3 163 [G# Gn G# Gn] [G# Gn G#]
+|
+=1' vol+3 163 [A_ B_b A_ B_] [A_ G_# A_]
+=2 vol+3 163 [C# Cn C# Cn] [C# Cn C#]
+=3 vol+3 163 [Eb D E D] [E D E]
+=4 vol+3 163 [G G# Gn G#] [Gn F# G]
+d499 9
+a507 9
+=1 5/16 vol+3 163 [G_# G_n G_#] [G_n G_#]
+=2  5/16 vol+3 163 [C C# Cn] [B_ C]
+=3  5/16 vol+3 163 [D Eb D] [C# D]
+=4  5/16 vol+3 163 [F# Fn F#] [Fn F#]
+|
+=1 vol+3 163 [G_ G_# G_n] [F_# G_]
+=2 vol+3 163 [B_ B_b B_n] [B_b B_n]
+=3 vol+3 163 [C# Cn C#] [Cn C#]
+=4 vol+3 163 [F F# Fn] [E F]
+@

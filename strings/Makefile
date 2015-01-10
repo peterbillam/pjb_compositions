@@ -12,8 +12,8 @@ A42US = /home/pbin/a42us
 PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-PIECE = str_orch
-PLAY = mvt1
+PIECE = strings
+PLAY = mvt2
 
 dev : ${PLAY}.a4 title.a4
 all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
@@ -46,15 +46,15 @@ title.a4 : title
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
 play :
-	muscript -midi ${PLAY} | midisox_lua - -d stat trim 235
+	muscript -midi ${PLAY} | midisox_lua - -d stat
 play1 :
 	muscript -midi mvt1 | midisox_lua - -d stat
 play2 :
-	muscript -midi mvt2 | midisox_lua - -d stat # trim 235
+	muscript -midi mvt2 | midisox_lua - -d stat trim 62 fade 0 32 0
 play3 :
-	muscript -midi mvt3 | midisox_lua - -d stat # trim 235
+	muscript -midi mvt3 | midisox_lua - -d stat # trim 210
 playall :
-	muscript -midi ${PLAY} | midisox_lua - -d stat # tempo 0.9
+	muscript -midi mvt1 mvt2 mvt3 | midisox_lua - -d stat # tempo 0.9
 mvt1.a4 : mvt1
 	${MUSCRIPT} mvt1 > $@
 	pkill -HUP gv
@@ -64,12 +64,12 @@ mvt2.a4 : mvt2
 mvt3.a4 : mvt3
 	${MUSCRIPT} mvt3 > $@
 	pkill -HUP gv
-str_orch : mvt1 mvt2 mvt3
+strings : mvt1 mvt2 mvt3
 	chmod 644 $@
 	cat mvt1 mvt2 mvt3 > $@
 	chmod 444 $@
-str_orch.a4 : str_orch
-	muscript str_orch > $@
+strings.a4 : strings
+	muscript strings > $@
 	pkill -HUP gv
 t.mid : t
 	${MUSCRIPT} -midi t > $@

@@ -1,0 +1,223 @@
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title mvt2
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 40 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  2 reverb 45
+midi channel 4 patch 41 pan 98 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 60 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+$BENDS1 = 8 bend50 blank 64 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4
+$BENDB1 = 64 bend50 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3
+$CRE1 = 64 cc11=10 blank cc11=20 blank cc11=30 blank cc11=40 blank cc11=50 \
+ blank cc11=60 blank cc11=70 blank cc11=80 blank cc11=90 \
+ blank cc11=100 blank cc11=110 blank cc11=120 blank cc11=127
+$DIM1 = 64 cc11=127 blank cc11=120 blank cc11=110 blank cc11=100 blank cc11=90 \
+ blank cc11=80 blank cc11=70 blank cc11=60 blank cc11=50 \
+ blank cc11=40 blank cc11=30 blank cc11=20 blank cc11=10
+
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+| 1.375
+=1 treble cha1  leg99 vol70
+=2 treble cha2  leg99 vol70
+=3  alto  cha3  leg99 vol75
+=4' alto  cha4  leg99 vol75
+=5' bass  cha5  leg99 vol70
+=6' bass  cha6  leg99 vol70
+# midi off
+=1  2 f(2
+=2  1 blank
+=3  163 [A Bb A B A B] [A G# A G A]
+=4' 163 [B c B c B c] [B Bb Bn Bb Bn]
+=5  1 blank
+=6  2 D(1
+|
+=1 2 f)2(2
+=3 163 [G# Gn G# Gn G# Gn] [G# A G A G]
+=4 163 [Bb A B A B A] [B Bn Bb Bn Bb]
+=6 2 D)1(1
+|
+=1  2 f)2(2
+=3  163 [A Bb A B A B] [A G# A G A]
+=4' 163 [B c B c B c] [B Bb Bn Bb Bn]
+=6 2 D)1(1
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 ||4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1  2 f)2 83 blank
+=3  163 [G# Gn G# Gn G# Gn] [G# A G A G]
+=4  163 [Bb A B A B A] [B Bn Bb Bn Bb]
+=6  2 D)1 83 blank
+|
+=1 2 f(2
+=3 163 [A Bb A B A B] [A G# A G A]
+=4' 163 [B c B c B c] [B Bb Bn Bb Bn]
+=6 2 D(1
+|
+=1 2 f)2(2
+=3 163 [G# Gn G# Gn G# Gn] [F# G F G F]
+=4 163 [Bb A B A B A] [G# A G A G]
+=6 2 D)1(1
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1  2 f)2(2
+=3  163 [G G# Gn G# Gn G#] [A G A G A]
+=4  163 [A Bb A B A B] [Bn Bb Bn Bb Bn]
+=6  2 D)1(1
+|
+=1 2 f)2(2
+is0.4 interesting; could go through d eb and remain regular...
+=3 163 [Bb Bn Bb Bn Bb Bn] [Bb A Bb A Bb]
+=4 163 [c db c db c db] [c' B c' B c']
+=6 2 D)1(1
+|
+=1 2 f)2
+=3 163 [A G# A G# A G#] [Gn G# Gn G# Gn]
+=4 163 [B Bb Bn Bb Bn Bb] [A Bb A Bb A]
+=6 2 D)1(1
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1  2 F(2
+=2  1 blank
+=3  163 [F# G F# G F# G] [Ab G Ab G Ab]
+=4  163 [G# A G# A G# A] [Bb A Bb A Bb]
+=5  1 blank
+=6  2 D)1(1
+|
+=1 2 F)2(2
+=3 163 [A Bb A Bb A A#] [Bn A# B A# B]
+=4 163 [B c' B c' B c'] [db c db c db]
+=6 2 D)1
+| .625
+=1 4 F)2(2 16 F)2(2
+=3 163 [Bb A Bb A Bb]
+=4 163 [c' B c' B c']
+=5 4 d(1 16 d)1
+
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |
+midi on
+| 1.375
+i0.8 .01 in small quantities only . . . lower ?  higher ? . . . condensing . . .
+=1 vol70 163 [F)2 E F E F E] [F E F E F]
+=3' vol70  163 [B c B c B c] [B c B c B]
+=4 vol70  163 [A Bb A Bb A Bb] [A G# A G# A]
+=5 bass vol60  163 [eb d eb d eb d] [eb d eb d eb]
+|
+=1 163 [E F E F E F] [E F E F E]
+=3 163 [Bb A B A B A] [G# A G A G]
+=4 163 [Ab G Ab G Ab G] [F# G F G F]
+=5 163 [d eb d eb d eb] [d' c# d' c# d']
+|
+i0.8 .01 watch out for the phase changes . . .
+=1 vol+3 163 [D# E D# E D# E] [Eb Dn Eb D Eb]
+=3 vol+3 163 [A G# A G# A G#] [A G# A G# A]
+=4 vol+3 163 [G F# G F# G F#] [G F# G F# G]
+=5' vol+3 163 [c# d c# d c# d] [db cn db c db]
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 |9/16 4 4 4 4 4 4 4 4 3 |
+|
+i0.8 .01 could do this also with semitone-trills
+=1 vol+3 163 [D C# D C# D C#] [D C# D C# D]
+=3 vol+3  163 [G# A G# A G# A] [Ab Gn Ab G Ab]
+=4 vol+3  163 [F# G F# G F# G] [Gb Fn Gb F Gb]
+=5 vol+3  163 [c B c B c B] [c B c B c]
+|
+=1 vol+3 163 [C# D C# D C# D] [Db Cn Db C Db]
+=3 vol+3 163 [G F# G F# G F#] [G F# G F# G]
+=4 vol+3 163 [F E F E F E] [F E F E F]
+=5 vol+3 163 [B c B c B c] [B A# B A# B]
+| 1.125
+=1 9/16 vol+3 163 [C B_ C B_ C] [B_ C B_ C]
+=3 9/16 vol+3 163 [F# G F# G Gb] [Fn Gb F Gb]
+=4 9/16 vol+3 163 [E F E F E] [D# E D# E]
+=5 9/16 vol+3 163 [Bb A Bb A Bb] [A Bb A Bb]
+
+
+/
+3 bars | 9 | 7 | 7 |
+|
+=1 vol+3 163 [B_ C B_ C B_] [A_# B_ A_# B_]
+=3 vol+3  163 [F E F E F] [E F E F]
+=4 vol+3  163 [Eb D E D E] [D E D E]
+=5 vol+3 163 [A Bb A Bb A] [G# A G# A]
+| 0.875
+=1' 7/16 vol+3 163 [B_b A_ B_b A_] [B_b A_ B_b]
+=3 7/16 vol+3 163 [E F E F] [E Eb En]
+=4 7/16 vol+3 163 [D Eb D Eb] [D C# D]
+=5 7/16 vol+3 163 [Ab G Ab G] [Ab G Ab]
+|
+=1' vol+3 163 [A_ B_b A_ B_b] [A_ G_# A_]
+=3 vol+3 163 [Eb D E D] [E D E]
+=4 vol+3 163 [Db C Db C] [Db C Db]
+=5 vol+3 163 [G Ab G Ab] [G F# G]
+/
+3 bars | 5 | 5 | 5 |
+| 0.625
+=1 1 blank
+r0.5 .01 diary 20150104: longer Seethe down,
+=2 1 blank
+=3 5/16 vol+3 163 [Ab G Ab] [G Ab]
+=4 5/16 vol+3 163 [D Eb D] [C# D]
+=5' 5/16 vol+3 163 [c db c] [B c]
+=6 5/16 vol+3 163 [Gb F Gb] [F Gb]
+|
+=1 1 blank
+r0.5 .01 long fast gliss from bass  C# to treble b to reach an octave with harmonic b~
+=2 1 blank
+r0.6 .21 then a bass C# messa di voce, with the high b's matching it int the dim al niente
+=3 vol+3 163 [G Ab G] [F# G]
+=4 vol+3 163 [Db C Db] [C Db]
+=5 vol+3 163 [B A# B] [A# B]
+=6 vol+3 163 [F Gb F] [E F]
+| .875
+=1 1 blank
+=2
+=6 163 [E D# E] [Eb Dn] [C# D]
+
+$BIGBEND = 64 bend0 blank bend5 blank bend10 blank bend15 blank bend20 blank \
+ bend25 blank bend30 blank bend35 blank bend40 blank \
+ bend45 blank bend50 blank bend55 blank bend60 blank \
+ bend65 blank bend70 blank bend75 blank bend80 blank \
+ bend85 blank bend90 blank bend95 blank bend100 blank
+$MIDBEND = 64 bend0 blank bend5 blank bend10 blank bend15 blank bend20 blank \
+ bend25 blank bend30 blank bend35 blank bend40 blank \
+ bend45 blank bend50 blank
+| 2.0
+#M=6 2 Eb G 4 B
+#M=6 $BIGBEND $BIGBEND $MIDBEND
+| 2.0
+#M=4 2 Db F A
+#M=4 $BIGBEND $BIGBEND $BIGBEND
+| 2.0
+#M=2 2 Db F A
+#M=2 $BIGBEND $BIGBEND $BIGBEND
+| 2.0
+#M=1 2 db f a
+#M=1 $BIGBEND $BIGBEND $BIGBEND
+| 2.8
+=1 bend50 1 b~(1
+=2 bend50 1 b(1
+=6 bend50 1 vol125 C#(1
+#M=6 $CRE1
+| 4.0
+=1 1 b~)1
+#M=1 $DIM1
+=2 1 b)1
+#M=2 $DIM1
+=6 1 C#)1
+#M=6 $DIM1

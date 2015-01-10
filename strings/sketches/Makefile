@@ -1,15 +1,16 @@
-PIECE=20141114
+PIECE=20150106
 ALL=20141020 20140912 20141001 20141002 \
  20140914 20140920 \
  20140909 20140910 20141009 \
  20141020 20141001 20141004 20140918
+
+dev : ${PIECE}.a4
+
 edit :
 	vi ${PIECE}
 	muscript ${PIECE} > ${PIECE}.a4
 	pkill -HUP gv
 	muscript -midi ${PIECE} | midisox_lua - -d stat
-
-dev : ${PIECE}.a4
 
 play :
 	muscript -midi ${PIECE} | midisox_lua - -d stat

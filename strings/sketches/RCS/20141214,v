@@ -1,0 +1,180 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.12.14.05.55.28;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@from AP.12-13 ; 2nd page is interesting
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+4 systems 10/18 25 18 25 18/
+title AP.12   mt long:short    but which mvt ? which piece ?
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+2 bars | 96 | 96 |
+| 2.0
+=1  treble   cha1  leg99 vol99 bend50
+=2  alto     cha3  leg90 vol75 bend50
+=3' bass     cha6  leg90 vol75 bend50
+midi off
+=1 4 rest 8 [F# G] 4 A 8 Bb 4 c F# 8 G#
+=2' 2. <Bb(2 cx(1> 4. <Bb)2 cx)1> vol+10 <A c> vol-10
+=3 2. <er(2 f#x(1> 4. <e)2 f#x)1> <e f#x>
+|
+=1 8 Bb 4 c db 8 eb 4 f 8 [gb Bb] 4 c
+=2' 4. <Bb cx> <Bb(2 cx(1>  2. <Bb)2 cx)1>
+=3 4. vol+10 <er f#x> vol-10 <d#l(2 f#(1> 2. <d#l)2 f#)1>
+/
+2 bars | 96 | 96 |
+|
+=1 8 rest 4 c db 8 eb 4 f 8 [g c] 4 db
+=2' 4. <Bb cx> <Bb(2 db(1>  2. <Bb)2 db)1>
+=3  4. <er f#x> <fnx(2 g(1> 2. <fx)2 g)1>
+|
+=1 4 dn 8 [e G#,] 4 A# 8 B 4 c# d# 8 An
+=2, 2. <Bbrl(2 dn(1> 4. <Bb)2 d)1> <Bnl eb>
+=3 2. <f#xr(2 g#l(1> 4. <f#x)2 g#l)1> <fn a>
+/
+2 bars | 96 | 96 |
+|
+=1 8 rest 4 B c 8 d 4 e 8 [f# Bb] 4 c
+=2, 4. <c eb> <c(2 en(1>  2. <c)2 e)1>
+=3  4. <gx a> <gbl(2 bb(1> 2. <gbl)2 bb)1>
+|
+=1 4 c# 8 [d# e] 4 f# 8 g 4 a d# 8 e
+=2 2. <c#(2 e(1> 4. <c#)2 e)1> <c# f(1>
+=3 2. <abxr(2 bbl(1> 4. <abxl)2 bbl)1> <anxl bnl>
+/
+2 bars | 96 | 96 |
+|
+=1 4 f 8 [g B] 4 c# 8 d 4 e G 8 A
+=2, 2. <d(2 f)1(1> 4. <d)2 f)1> vol+10 <B d> vol-10
+=3 2. <ax(2 b(1> 4. <ax)2 b)1> <f a>
+|
+=1 8 Bb 4 c E 8 F# 4 G 8 [A C#] 4 D#
+=2' 4. <A#rl c#(1> <Anl(2 c#)1(1>  2. <A)2 c#)1>
+=3 4. <e g#> <d#l(2 gn(1> 2. <d#l)2 g)1>
+
+4 systems 10/18 25 18 25 18/
+title 4 and 2   has the most swing
+/
+2 bars | 96 | 96 |
+| 2.0
+midi on
+i0.9 .01 it's missing the obvious voice in mt2 min cro
+=1 4 rest 8 [F# G] 4 A 8 Bb 4 c F# 8 G#
+=2' 2. <Bb(2 cx(1> 4 <Bb)2 cx)1> 2 <A c>
+=3 2. <er(2 f#x(1> 4 <e)2 f#x)1> 2 <e f#x>
+i0.9 .01 the supple syncopation of the jiggy in mvt1 survives from cycle to morse_thue :-)
+i1.5 .01 we still tend to hear the solo line in 6/8, so the augmentations go against it . . .
+|
+=1 8 A 4 Bb c 8 eb 4 f 8 [gb Bb] 4 c
+=2' 2 <Bb cx>  4 <Bb(2 cx(1>  2. <Bb)2 cx)1>
+=3  2 <er f#x> 4 <d#l(2 f#(1> 2. <d#l)2 f#)1>
+/
+2 bars | 96 | 96 |
+|
+=1 8 rest 4 c db-i? 8 eb 4 f 8 [g c] 4 db
+=2' 2 <Bb cx> 4 <Bbl(2 db(1>  2. <Bbl)2 db)1>
+=3  2 <er f#x> 4 <fnx(2 g(1> 2. <fx)2 g)1>
+|
+=1 4 dn 8 [e Ab,] 4 Bb 8 c 4 d eb 8 An
+=2, 2. <Bbrl(2 dn(1> 4 <Bb)2  d)1>   2 <Bnl eb>
+=3 2. <f#rrxl(2 g#l(1> 4 <f#xl)2 g#l)1> 2 <fn a>
+/
+2 bars | 96 | 96 |
+|
+=1 8 rest 4 B c 8 d 4 e 8 [f# Bb] 4 c
+=2, 2 <c eb> 4 <c(2 en(1>  2. <c)2 e)1>
+=3  2 <gx a> 4 <gbl(2 bb(1> 2. <gb)2 bb)1>
+|
+=1 4 c# 8 [d# e] 4 f# 8 g# 4 c# d# 8 e
+=2 2. <c#r(2 e(1> 4 <c#)2 e)1> 2 <c# f(1>
+=3 2. <abrrxl(2 bbl(1> 4 <abxl)2 bbl)1> 2 <anxl bnl>
+/
+2 bars | 96 | 96 |
+|
+=1 4 f 8 [g B] 4 c# 8 d 4 e G 8 A
+=2, 2. <d(2 f)1(1> 4 <d)2 f)1>  2 <B d>
+=3 2. <ax(2 b(1>   4 <ax)2 b)1> 2 <f a>
+|
+i1.3 .74 or Eb F
+i0.8 .74 leading to %+1
+=1 8 Bb 4 c Eb-i? 8 F 4 G 8 [A Db] 4 Eb
+=2' 2 <A#rl c#(1> 4 <Anl(2  c#)1(1>  2. <A)2 c#)1>
+=3  2 <e    g#> 4 <d#l(2 gn(1> 2. <d#l)2 g)1>
+
+midi off
+
+4 systems 10/18 25 18 25 18/
+title even
+/
+2 bars | 96 | 96 |
+| 2.0
+=1 4 rest 8 [F# G] 4 A 8 B 4 c F# 8 G#
+=2' 2. <Bb cx> <A c>
+=3 2. <er f#x> <e f#x>
+|
+=1 8 Bb 4 c db 8 eb 4 f 8 [gb Bb] 4 c
+=2' 2. <Bb cx>  <Bb cx>
+=3  2. <er f#x> <d#l f#>
+/
+2 bars | 96 | 96 |
+|
+=1 8 rest 4 c db 8 eb 4 f 8 [g c] 4 db
+=2' 2. <Bb cx>  <Bb db>
+=3  2. <er f#x> <fnx g>
+|
+=1 4 dn 8 [e G#,] 4 A# 8 B 4 c# d# 8 An
+=2, 2. <Bbrl dn> <Bnl eb>
+=3 2. <f#xr g#l> <fn a>
+/
+2 bars | 96 | 96 |
+|
+=1 8 rest 4 B c 8 d 4 e 8 [f# Bb] 4 c
+=2, 2. <c eb> <c e>
+=3  2. <gx a> <gbl bb>
+|
+=1 4 c# 8 [d# e] 4 f# 8 g 4 a d# 8 e
+=2 2. <c# e> <c# f(1>
+=3 2. <ab bb> <anxl bnl>
+/
+2 bars | 96 | 96 |
+|
+=1 4 f 8 [g B] 4 c# 8 d 4 e G 8 A
+=2, 2. <d f)1> <B d>
+=3  2. <ax b>  <f a>
+|
+=1 8 Bb 4 c E 8 F# 4 G 8 [A C#] 4 D#
+=2' 2. <A#rl c#(1> <Anl c#)1>
+=3  2. <e    g#> <d#l gn>
+@

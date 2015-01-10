@@ -614,7 +614,8 @@ il0.5 .30 20
 =1' 5/8 4. <D# Gx A c)1> 4 <D#r(2 F#l Bb cx>
 =2 5/8 4 D# 8 F [F# D#]
 | 1.76
-=1' 8/8 2 <D#r)2 F#l A c#> 8 rest 4. <Eblr Gx A c#'>
+=1  8/8 2 blank 8 rest 16 blank 4. blank
+=1' 8/8 2 <D#r)2 F#l A c#> 8 blank 4. <Ebl Gx A c#'>
 #=2 8/8 4 A 8 F 4 F# G 8 Eb
 =2 8/8 4 A 8 c 4 c# vol85 d# 8 vol70 f
 i0.01 .53 dim .75 . . .
@@ -694,7 +695,7 @@ I0.3 .001 p
 =2, 8/8 2 <fr g#x b e~b> 8 rest 4. <f#lr(2 g#xl b d~>
 |
 =1  4 Bb 8 c 4 Ab 8 rest [Bb c]
-=2 1 <f#xr)2 g# c~x d~l>
+=2 1 <f#xlr)2 g#l c~x d~>
 =2, 2 rest, 8 rest, 4. Bb
 /
 3 bars | 5/8 30 | 8/8 48 | 5/8 30 | 8/8 48 |

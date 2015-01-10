@@ -1,0 +1,513 @@
+3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title 20141208: pp sord semplice; tune on vla
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+$CRE1 = 16 cc11=10 blank cc11=20 blank cc11=30 blank cc11=40 blank cc11=50 \
+ blank cc11=60 blank cc11=70 blank cc11=80 blank cc11=90 \
+ blank cc11=100 blank cc11=110 blank cc11=120 blank cc11=127
+$DIM1 = 16 cc11=127 blank cc11=120 blank cc11=110 blank cc11=100 blank cc11=90 \
+ blank cc11=80 blank cc11=70 blank cc11=60 blank cc11=50 \
+ blank cc11=40 blank cc11=30 blank cc11=20 blank cc11=10
+
+/
+3 bars | 12 | 13/4 13 | 10/4 10 |
+| 4.2 3.2
+I0.7 .09 lento
+=1  treble   cha1  leg99 vol40 bend50
+I0.5 .02 pp
+i0.5 .15 sordino, semplice, legato
+=2  treble   cha2  leg99 vol40 bend50
+=3  alto     cha3  leg99 vol40 bend50
+=4' alto     cha4  leg99 vol40 bend50
+=5' bass     cha5  leg99 vol40 bend50
+=6' bass     cha6  leg99 vol40 bend50
+=1 1 B(1-fermata B)1(1-fermata
+=2 2 blank 1 rest rest
+=3 23 blank 13 rest-fermata 1 a-fermata
+I0.5 .90 pp
+=4 2 blank 1 rest rest
+=5 2 blank 1 rest rest
+=6 2 blank 1 rest rest
+| 6.5 6.5
+=1 13/4 2. B)1(1 2 B)1  2. Bb  2. A(2 2 A)2(2
+=3 13/4 2. ab(1  2 ab)1 2. g(1 2. g)1 2 gb
+=4 13/4 2. gb 2 f(1 2. f)1 2. e 2 eb
+##M=7 bass cha9 1 B_b
+| 5.0 5.0
+=1 10/4 2. A)2 2 Ab    2. G(2 2 G)2
+=3 10/4 2. f(1 2 f)1   2. e(1 2 e)1
+=4 10/4 2. d(1 2 d)1(1 2. d)1 2 db(1
+##M=7 bass cha9 1 B_b
+/
+3 bars | 13/4 13 | 13 | 10/4 10 |
+| 6.5 6.5
+=1 13/4 2. Gb(2 2 Gb)2 2. F   2. E(2 2 E)2(2
+=2 13/4 2 blank 1 rest
+=3 13/4 2. eb(1 2 eb)1 2. d(1 2. d)1 2 db
+=4 13/4 2. db)1 2 c'(2 2. c')2 2. B 2 Bb
+=5 13/4 2 blank 1 rest
+=6 13/4 2 blank 1 rest
+##M=7 bass cha9 1 B_b
+|
+Il0.8 .01 5
+i0.3 .01 dim .   .   .  .35 niente
+=1  2. E)2(2 4 E)2 rest vol125 2. f#(1 2 f#)1
+i0.9 .50 crescendo molto . . .
+#M=1 $DIM1 $CRE1
+#P=2 2. f#(1 2 f#)1(1 2. f#)1(1 2 f#)1(1
+#M=2 1 vol125 f#
+#M=2 $CRE1
+i0.9 .01 niente .25 cresc  .    .   .
+=3 2. <c(2 e(1> 2 <c)2(2 e)1(1> 2. <c)2(2 e)1(1> 4 <c)2 e)1> rest
+#=3 $DIM1
+#i0.9 .15 dim  .    .   . .82 niente
+=4 2. A(2 2 A)2(2 2. A)2(2 4 A)2 rest
+##M=7 bass cha9 1 B_b
+=5  leg99 vol120 2. rest 2 rest 2. c(2 2 c)2
+#M=5 2. blank $CRE1
+#i0.5 .07 anger ?
+i0.4 .45 niente   cresc  .   .   .
+=6  leg90 vol120 2. rest 2 rest 2. C(2 2 C)2
+#M=6 2. blank $CRE1
+
+| 5.0
+I0.3 .02 fff
+I0.35 .14 pesante
+=1 6/4 2. vol120 A_b 2 C 4 rest
+#P=2 6/4 2. f#)1(1 2. f#)1
+#M=2 6/4 1 f#-dim60
+#M=2 $DIM1
+i0.9 .15 dim  .    .   .
+I0.9 .02 fff
+=3 6/4 2. vol120 Gb  2 Ab 4 rest
+I0.6 .02 fff
+I0.6 .14 pesante
+=4 6/4 2. vol120 D   2 D 4 rest
+=5 6/4 2 c 4 d 2 e 4 d
+I0.4 .02 fff
+I0.4 .14 pesante
+=6 6/4 2 C 4 D 2 E 4 C(2
+/
+5 bars | 36  | 36 | 36 |
+|
+=1 2. A_b  2 C  4 rest
+=2 1 blank
+=3 2. Gb   2 Ab 4 rest
+=4 2. D    2 D  4 rest
+=5  2 c 4 d 2 e 4 c(2
+=6  2 C)2 4 D 2 E 4 C(2
+|
+=1  2. A_b    C
+=3  2. Gb     Bb
+=4  2. D      F#
+=5  2 c)2 4 d 2 e 4 f# 
+=6  2 C)2 4 D 2 E 4 F#
+|
+=1  2. E        2. F#
+=3  2. d        2 c   4 d
+=4  2. Bb       2. Bb
+=5  2 g# 4 f#   2 e   4 d
+=6  2 G# 4 E(2  2 E)2 4 D
+|
+Il0.8 .01 10
+=1  2. G 2 B 4 rest
+=2  1 blank
+=3  2. eb 2 g 4 rest
+=4  2. A 2 G 4 rest
+=5  2. eb 2 eb 4 d'
+=6  2 C 4 D 2. Eb(2
+|
+=1' 2. G 2 B 4 c#
+=2  1 blank
+=3  2. eb 2 g 4 a
+=4  2. A 2 eb 4 rest
+=5  2 c  4 d 2. eb
+=6  2 Eb)2 4 F 2. G
+
+
+3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+# 20141028: cro=72 , soft-attack chords cro rest cro cro rest cro rest cro
+# with 5 or 8 cros on one chord ;  plus a tune or two
+/
+5 bars | 24 | 7/4 5 5 6 4 4 4 4 | 5 5 6 4 4 4 4 | 5 5 6 5 4 5 5 | 35 |
+|
+#P=1 2. d(1  d)1
+#M=1 1. d-dim60
+i0.8 .03 dim  .   .   .
+#P=3 2. bb(1 bb)1
+#M=3 1. bb-dim60
+i0.8 .03 dim  .   .   .
+=4 2. cha8 cc11=125 vol125 Ab cha4 rest
+i0.8   pizz .55 arco
+#P=5 2. e(1  e)1
+#M=5 1. e-dim60
+i0.9 .03 dim  .   .   .
+=6 2. cha8 cc11=125 vol125 Ab cha6 rest
+i0.1   pizz .95 arco
+
+| 7.0
+I0.3 .01 pp
+=1  7/4 vol50 cc11=90 2 d  leg105 4 f# leg90 1 d
+I0.3 .01 pp
+=2  7/4 vol40 cc11=90 2 c  leg99  4 c  leg90 1 c
+=3  7/4 vol40 cc11=90 2 ab leg105 4 bb leg90 1 ab
+I0.7 .01 pp
+=4  7/4 vol50 cc11=90 2 f  leg105 4 e  leg90 1 f
+I0.7 .01 pp
+=5  7/4 1 blank
+=6  7/4 1 blank
+|
+=1  leg95 2 d  leg105 4 a  leg90 1 d
+=2  leg95 2 c  leg105 4 eb leg90 1 c
+=3  leg95 2 ab leg105 4 bn leg90 1 ab
+=4  leg95 2 f  leg99  4 f(1  leg90 1 f)1
+|
+Il0.8 .01 15
+=1  leg95 2 d  leg105 4 a  2. bb leg105 4 gb
+=2  leg95 2 c  leg99  4 eb 2. eb leg99  4 eb
+=3  leg95 2 ab leg105 4 b  2. c~ leg105 4 c~
+=4  leg95 2 f(1  leg105 4 f)1  2. f# leg105 4 bb
+|
+=1  1 f-dim40
+i0.6  .20 dim  .   .   .
+=2  1 eb-dim40
+i0.65 .20 dim  .   .   .
+=3  1 bn-dim40
+i0.7  .20 dim  .   .   .
+=4  1 an-dim40
+i0.8  .20 dim  .   .   .
+/
+5 bars | 6/4 5 5 6 5 5 5 | 5 5 6 5 5 5 |
+| 5.0
+I0.6 .01 fff
+I0.7 .14 pesante
+=1 6/4 2. vol120 A_-emph 2 C# 4 rest
+#P=2 6/4 2. g(1-emph 2. g)1
+#M=2 6/4 1 g-emph-dim60
+#M=2 $DIM1
+i0.9 .15 dim  .    .   .
+I0.8 .01 fff
+=3 6/4 2. vol120 G-emph  2 A 4 rest
+I0.6 .01 fff
+I0.6 .14 pesante
+=4 6/4 2. vol120 Eb-emph 2 Eb 4 rest
+=5 6/4 2 db-emph 4 eb 2 f 4 eb
+I0.4 .01 fff
+I0.4 .14 pesante
+=6 6/4 2 Db-emph, 4 Eb 2 F 4 Db(2
+|
+=1 2. A_ C#
+=2 2. rest rest
+=3 2. G B
+=4 2. Eb G
+=5 2 db 4 eb 2 f 4 g
+=6 2 Db)2 4 Eb 2 F 4 G
+|
+=1 2. F 2. G
+=2 2. F 2. G
+=3 2. d# 2 c# 4 d#
+=4 2. B 2. B
+=5 2 a 4 g 2 f 4 d#
+=6 2 A 4 F(2 2 F)2 4 D#
+|
+Il0.8 .01 20
+=1 2. Ab 2 c 4 rest
+=2 2. Ab 2 c 4 rest
+=3 2. e 2 g# 4 rest
+=4 2. Bb 2 G# 4 rest
+=5 2. e 2 e 4 d#
+=6 2 C# 4 D# 2. E(2
+|
+=1  2. Ab 2 c 4 d
+=2  2. Ab 2 c 4 d
+=3 2. e 2 g# 4 a#
+=4 2. Bb 2 e 4 rest
+=5 2 c# 4 d#' 2 e 4 f#
+=6 2 E)2 4 F# 2. G#
+/
+4 bars | 36  | 36 | 36 |
+|
+=1 2. eb 2. f
+=2 cha2 cc11=120 vol125 2. c# 2 B 4 c#
+=3 2. a 2. a
+=4 2. A 2 B 4 c#'
+=5 2 g 4 eb(1 2 eb)1 4 c#
+#=6 2 G 4 F 2. Eb
+=6 2 A 4 G 2 F 4 Eb
+|
+=1 2. f# 2 bb 4 rest
+=2 2. d 2 f# 4 rest
+=3 2. g# 2 f# 4 rest
+=4 2. d 2 f# 4 rest
+=5 2. B 2 d' 4 cn
+#=6 2 D 4 C# 2. D(2
+=6 2. D(2 D)2(2
+# links to high 20140918, but too recycled-stuff :-(
+#=1 2. f# 2. bb-dim60
+#=2 2. d 2. f#-dim60
+#=3 2. g# 2. f#-dim60
+#=4 2. d 2. f#-dim60
+#=5 2. B 2. d~-dim60
+#=6 2 D 4 C# 2 D-dim50 4 rest
+|
+=1 2. f# 2 bb 4 c~
+=2 2. d 2 f# 4 g#
+=3 2. g# 2 d~ 4 c~
+=4 2. d 2 f# 4 rest
+i0.8  .90 pizz
+=5 2 B 4 c# 2. d'
+=6 2 D)2 4 E 2 F# 4 rest
+i0.1  .90 pizz
+|
+Il0.8 .85 25
+#P=1 2. d~(1  d~)1
+#M=1 1. d~-dim60
+i0.8 .03 dim  .   .   .
+#P=2 2. bb(2 bb)2
+#M=2 1. bb-dim60
+i0.8 .03 dim  .   .   .
+#P=3 2. bb(2 bb)2
+#M=3 1. bb-dim60
+i0.8 .03 dim  .   .   .
+=4 2. cha8 cc11=125 vol125 g# cha4 rest
+i0.8 .55 arco
+#P=5 2. e(1  e)1
+#M=5 1. e-dim60
+i0.9 .03 dim  .   .   .
+=6 2. cha8 cc11=125 vol125 G# cha6 rest
+i0.1 .95 arco
+
+
+
+3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+/
+4 bars | 7/4 4 4 6 3 3 3 3 | 4 4 6 3 3 3 3 \
+ | 4 4 6 3 3 3 3 6 | 4 4 6 3 3 5 3 |
+| 6.0 
+=1' vol60 leg99 7/4 2 A# 4 B 1 A#
+=2 vol45 leg99 7/4 2 Ab 4 G 1 Ab
+=3 vol45 leg99 7/4 2 e 4 f 1 e
+=4 vol50 leg99 7/4 2 d 4 c# 1 d
+|
+=1 2 Bb 4 f 1 Bb
+=2' 2 G# 4 Bn 1 G#
+=3 2 e 4 g 1 e
+=4 2 c# 4 c#(1 1 c#)1
+| 6.9
+=1 2 Bb 4 f 1 gb 4 d
+=2' 2 G# 4 Bn 1 B 4 B
+=3 2 e 4 g 1 ab 4 ab
+=4 2 c#(1 4 c#)1 1 d 4 gb
+| 6.0
+=1  2 c# 4 d 1 db(1
+#=2' 2 leg105 B 4 A# 2. B 2 4 vol40 leg99 Bb(2
+=2' 2 leg105 B 4 A# 1 B-dim10
+#=3  2 leg105 g 4 ab 1 g-dim10
+=3  2 leg105 g 4 ab 2 g(1 8 g)1 rest 4 leg99 vol40 ab(1
+=4  2 f 4 e 1 f-dim10
+
+# 20141220
+/
+3 bars | 13/4 13 | 10/4 10 | 13/4 13 |
+| 6.5 6.5
+Il0.9  25
+#I1.0  20141219: pp sord semplice; tune on vla
+I0.5 .09 lento
+=1  treble   cha1  leg99 vol40 bend50
+I0.5 .02 pp
+i0.5 .15 semplice, legato
+=2  treble   cha2  leg99 vol40 bend50
+=3  alto     cha3  leg99 vol40 bend50
+i0.5 .15 semplice, legato
+=4' alto     cha4  leg99 vol40 bend50
+=5' tenor    cha5  leg99 vol40 bend50
+=6' bass     cha6  leg99 vol40 bend50
+#=1 1 B(1-fermata B)1(1-fermata
+#=2 2 blank 1 rest rest
+#=3 23 blank 13 rest-fermata 1 a-fermata
+#=4 2 blank 1 rest rest
+#=5 2 blank 1 rest rest
+#=6 2 blank 1 rest rest
+#| 6.5 6.5
+=1  13/4 2. db)1(1 2 db)1 2. c 2. B(1 2 B)1(1
+=2' 13/4 2. Bb(2 2 Bb)2 2. A(2 2. A)2 2 Ab
+=3  13/4 2. ab)1 2 g(1 2. g)1 2. gb 2 f
+=4  13/4 leg105 4 rest gb 2 f eb 4 leg85 d 2 leg105 en 4 eb 2 d 4 c#(1
+| 5.0 5.0
+=1 10/4 2. B)1 2 Bb' 2. A(2 2 A)2
+=2 10/4 2. G(2 2 G)2 2. Gb(2 2 Gb)2
+=3 10/4 2. e(1 2 e)1(1 2. e)1 2 eb(1
+=4 10/4 4 leg85 c#)1 leg105 4 d 2 db cn 4 leg85 B 2 leg105 db' 4 c'(2
+| 6.5 6.5
+=1 13/4 2. Ab(2 2 Ab)2 2. G 2. F#(2 2 F#)2(2
+=2 13/4 2. F(2 2 F)2 2. E(2 2. E)2 2 Eb
+=3 13/4 2. eb)1 2 d(1 2. d)1 2. db 2 c
+=4 13/4 4 c')2 leg85 B 2 leg105 c' B 4 Bb 2 leg85 A 4 leg105 Bn 2 Bb 4 A
+#|
+#=1 2. F#)2 1. blank
+#=2 2. D 1. blank
+#=3 2. B 1. blank
+#=4 2. G# 1. blank
+/
+4 bars | 13 | 6/4 6 | 6 | 6 |
+|
+i0.3 .01 dim .   .   .  .35 niente
+=1  2. F#)2(2 4 F#)2 rest vol125 2. d~(1 2 d~)1
+i0.9 .50 crescendo molto . . .
+#M=1 $DIM1 $CRE1
+#P=2 2. g#(1 2 g#)1(1 2. g#)1(1 2 g#)1(1
+#M=2 1 vol125 g#
+#M=2 $CRE1
+i0.9 .01 niente .25 cresc  .    .   .
+=3 2. <d(2 f#(1> 2 <d)2(2 f#)1(1> 2. <d)2(2 f#)1(1> 4 <d)2 f#)1> rest
+=4 2. B(2 2 B)2(2 2. B)2(2 4 B)2 rest
+=5 leg99 2. G#(2 4 G#)2 rest vol120 2. d(1 2 d)1 bass
+#M=5 2. $DIM1 $CRE1
+i0.4 .01 dim .   .   .  .25 niente .50 niente   cresc  .   .   .
+=6 leg90 vol120 2. rest 2 rest 2. D(2 2 D)2
+#M=6 2. blank $CRE1
+
+| 5.0
+I0.3 .01 fff
+I0.2 .14 pesante
+=1 6/4 2. vol120 B_b 2 D 4 rest
+#P=2 6/4 2. g#)1(1 2. g#)1
+#M=2 6/4 1 g#-dim60
+#M=2 $DIM1
+i0.8 .15 dim  .    .   .
+I0.8 .01 fff .90 fff
+=3 6/4 2. vol120 G# 2 Bb 4 rest
+I0.5 .01 fff
+I0.5 .14 pesante
+=4 6/4 2. vol120 E 2 E 4 rest
+=5 6/4 2 d' 4 e 2 f# 4 e
+I0.4 .01 fff
+I0.4 .14 pesante
+=6 6/4 2 D 4 E 2 F# 4 D(2
+|
+Il0.4 .07 30
+=1 2. B_b D
+=2 2. B_b D
+=3 2. G# c
+=4 2. E G#
+=5 2 d 4 e 2 f# 4 f#
+=6 2 D)2 4 E 2 F# 4 G#
+|
+=1 2. F# 2. G#
+=2 2. F# 2. G#
+=3 2. e 2 d 4 e
+=4 2. c 2. c
+=5 2 bb 4 g# 2 f# 4 e
+=6 2 Bb 4 F#(2 2 F#)2 4 E
+
+3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+/
+4 bars | 36  | 36 | 36 |
+|
+=1 2. A 2 c# 4 d#
+=2 1 blank
+=3 2. f 2 a 4 b
+=4 2. B 2 f 4 rest
+=5 2 d 4 e 2 f 4 g
+=6 2 F 4 G 2. A
+|
+=1 2. e 2. f#
+=2 cha2 cc11=120 vol125 2. d 2 c 4 d
+=3 2. bb 2. bb
+=4 2. Bb 2 c 4 d
+=5 2 g# 4 e(1 2 e)1 4 d
+=6 2 A# 4 G# 2 F# 4 E
+|
+=1 2. g 2 b 4 c~#
+=2 2. eb 2 g 4 a
+=3 2. a 2 d~# 4 c~#
+=4 2. eb 2 g 4 rest
+i0.8  .90 pizz
+=5 2 c 4 d 2. eb
+=6 2 Eb 4 F 2 G 4 rest
+i0.1  .90 pizz
+|
+Il1.3 .01 35
+#P=1 2. d~#(1  d~#)1
+#M=1 1. d~#-dim50
+i0.8 .03 dim  .   .   .
+#P=2 2. b(2 b)2
+#M=2 1. b-dim60
+i0.8 .03 dim  .   .   .
+#P=3 2. b(2 b)2
+#M=3 1. b-dim60
+i0.8 .03 dim  .   .   .
+=4 2. cha8 cc11=125 vol125 a cha4 rest
+i0.8 .55 arco
+#P=5 2. f(1  f)1
+#M=5 1. f-dim60
+i0.9 .03 dim  .   .   .
+=6 2. cha8 cc11=125 vol125 A cha6 rest
+i0.1 .95 arco
+
+/
+3 bars | 7/4 28 | 8/4 32 | 7/4 28 |
+| 7.0
+# AP.13
+=1 7/4 vol50 leg105 4. d~# 4 c~# 4 b a 4 a~b g~b 8 f~(1
+=2 7/4 vol50 leg90 2 eb(1  8 eb)1  leg105 4. g 2. leg90 eb
+=3 7/4 vol50 leg90 2 d~b 8 rest leg99  4. d~b(1 2. leg90 d~b)1
+=4 7/4 vol50 leg90 2 a(1   8 a)1   leg105 4. b 2. leg90 a
+=5 tenor  7/4 vol50 leg90 2 gb(1 8 gb)1 leg105 4. f 2. leg90 gb
+=6  7/4 
+| 8.0
+=1 8/4 vol50 8 f~)1 4 e~b d~b c~ bb a g~ f~ 8 d~#(1
+=2 8/4 vol50 leg90 2 d#(1 8 d#)1 leg105 4. e 1 leg90 c#
+=3 8/4 vol50 leg90 2 d~b(1 8 d~b)1 leg105 4. bb 1 leg90 a
+=4 8/4 vol50 leg90 2 a(1 8 a)1 leg105 4. ab 1 leg90 g
+=5 8/4 vol50 leg90 2 gb(1 8 gb)1 leg105 4. d 1 leg90 eb
+=6  8/4
+| 7.7
+=1 7/4 vol50 8 d~#)1 4 c~# 4 b 4 bb ab g~ f~ 8 e~(1
+=2 7/4 vol50 leg90 2 B(1  8 B)1  leg105 4. c  2. leg90 B
+=3 7/4 vol50 leg90 2 a(1  8 a)1  leg105 4. g# 2. leg90 a
+=4 7/4 vol50 leg90 2 g(1  8 g)1  leg105 4. gb 2. leg90 f
+=5 7/4 vol50 leg90 2 eb(1 8 eb)1 leg105 4. d  2. leg90 c#
+=6  7/4 
+/
+3 bars | 8/4 32 | 7/4 28 | 28 |
+| 8.8
+=1 8/4 vol50 8 e~)1 4. e~b 4. d~b c~ b a(1
+=2 8/4 vol50 leg90 2 B(1   8 B)1   leg105 4. c(1 4 c)1 2. B(1
+=3 8/4 vol50 leg90 2 g(1   8 g)1   leg105 4. g# 1 leg90 f#-dim40
+i0.8 .55 dim  .   .   . .80 niente
+=4 8/4 vol50 leg99 2 e     8 rest  leg95 4. e(1 1 leg90 e)1-dim40
+i0.8 .55 dim  .   .   . .80 niente
+=5 8/4 vol50 leg99 2 db(1 8 db)1 leg95 4. c(1 1 leg90 c)1-dim40
+i0.8 .55 dim  .   .   . .80 niente
+=6 8/4 vol50 leg99 1 blank
+| 8.8
+=1 vol40 leg99 1 a)1-dim40
+i0.8 .10 dim  .    .    . .80 niente
+=2 vol40 leg99 1 B)1-dim40
+i0.8 .10 dim  .    .    . .80 niente
+=3 vol50 leg99 cha8 2 rest rest 1 rest
+=4 vol50 leg99 cha8 2. rest 4 B 1 rest
+i0.8 .08 pizz
+=5 vol55 leg99 cha8 2. rest 4 A 1 rest
+i0.8 .08 pizz
+=6 vol55 leg99 cha8 2. rest 4 B 1 rest
+i0.1 .08 pizz

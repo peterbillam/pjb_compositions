@@ -1,0 +1,58 @@
+
+3 systems 10/17-18-17 25 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title mvt3: pp sord semplice; tune on vla
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+3 bars | 12 | 13/4 13 | 10/4 10 |
+| 4.2 3.2
+I0.7 .09 lento
+=1  treble   cha1  leg99 vol40 bend50
+I0.5 .02 pp
+i0.5 .15 sordino, semplice, legato
+=2  treble   cha2  leg99 vol40 bend50
+=3  alto     cha3  leg99 vol40 bend50
+=4' alto     cha4  leg99 vol40 bend50
+=5' tenor    cha5  leg99 vol40 bend50
+=6' bass     cha6  leg99 vol40 bend50
+=1 1 B(1-fermata B)1(1-fermata
+=2 2 blank 1 rest rest
+=3 23 blank 13 rest-fermata 1 a-fermata
+=4 2 blank 1 rest rest
+=5 2 blank 1 rest rest
+=6 2 blank 1 rest rest
+| 6.5 6.5
+=1 13/4 2. B)1(1 2 B)1  2. Bb  2. A(2 2 A)2(2
+=2 13/4 2. Gb    2 F(2  2. F)2 2. E   2 Eb
+=3 13/4 2. ab(1  2 ab)1 2. g(1 2. g)1 2 gb
+#M=7 bass cha9 1 B_b
+| 5.0 5.0
+=1 10/4 2. A)2 2 Ab    2. G(2 2 G)2
+=2 10/4 2. D(2 2 D)2(2 2. D)2 2 Db(2
+=3 10/4 2. f(1 2 f)1   2. e(1 2 e)1
+#M=7 bass cha9 1 B_b
+/
+3 bars | 13/4 13 | 13 | 10/4 10 |
+| 6.5 6.5
+=1 13/4 2. Gb(2 2 Gb)2 2. F   2. E(2 2 E)2
+=2 13/4 2. Db)2 2 C(2  2. C)2 2. B_  2 B_b
+=3 13/4 2. eb(1 2 eb)1 2. d(1 2. d)1 2 db
+#M=7 bass cha9 1 B_b
+|
+=1 2. E
+=2 2. A_
+=3 2. c
+#M=7 bass cha9 1 B_b
+
