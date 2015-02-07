@@ -1,0 +1,326 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2015.01.24.00.19.34;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.01.23.04.16.28;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.01.22.08.36.33;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@from diary of same date
+@
+
+
+1.3
+log
+@with mt holes ; musch more interesting
+@
+text
+@3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+# What is there, then that contrasts with Seet, but starts the same ?
+# with leaps ---_--__-___-__--_---_-- ? with trills ?
+# If leaps, then there can also be an out-of-phase eg line
+# we have no line so far in mvt2, though...
+# I could gliss, but that might be an excess;
+# could we localise a Rhythm into a narrow register ?
+# why not? it would have to commit to a chord, but it does already, so why not?
+# | 16/4 4' 2 4' 1, 2' 2, 1' | 4, 2 4, 1' 2, 2' 1, | 4' 2 4' 1, 2' 2, 1' |
+
+title 20150122
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+| 1.778
+=1  treble cha1 leg115 vol75 bend50
+=2  treble cha2 leg115 vol75 bend50
+=3  alto   cha3 leg115 vol75 bend50
+=4' alto   cha4 leg115 vol75 bend50
+=5' bass   cha5 leg99 vol90 bend50
+=6' bass   cha6 leg99 vol90 bend50
+=1 1 blank
+=2 1 blank
+=3 2. blank 16 [e f gb f]
+=4 2. blank 16 [d d# e d#]
+=5 1 blank
+=6 1 blank
+|
+=1 4 rest 16 [d~ e~b d~ e~b] [e~n d~# e~ d~#] [e~ d~# e~ d~#]
+=2 4 rest 16 [c~ d~b c~ d~b] [d~n c~# d~ c~#] [d~ c~# d~ c~#]
+=3 16 [gb f e f] 2. rest
+=4 16 [e eb d eb] 2. rest
+#=5 cha8 vol115 8 [C Db] [G F#] [c B] [gb f]
+=5 cha8 vol115 8 [C Db] 4 rest rest 8 [gb f]
+=6 2 blank 1 rest
+|
+=1 16 [d~n e~b d~ e~b] 4 rest 16 [d~ d~# e~n d~#] [e~ e~b d~n e~b]
+=2 16 [c~n d~b c~ d~b] 4 rest 16 [c~ c~# d~n c~#] [d~ d~b c~n d~b]
+#=4 cha8 vol115 8 [Bb A] [c# d] [e f] [bb a]
+=4 cha8 vol115 4 rest 8 [c# d] [e f] 4 rest
+=5 cha5 vol90 4 rest 16 [F# G Ab G] 2 rest
+=6 4 rest 16 [E F Gb F] 2 rest
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+|
+=1 2 rest 16 [d~ d~# e~n d~#] 4 rest
+=2 2 rest 16 [c~ c~# d~n c~#] 4 rest
+#=3 cha8 vol115 8 [e~ d~#] [a# b] [c~# d~] [g~b f~]
+=3 cha8 vol115 4 rest 8 [a# b] [c~# d~] 4 rest
+=4 cha4 vol75 1 blank
+=5 16 [F# G Ab G] [Ab G F# G] 4 rest 16 [F# G F# G]
+=6 16 [E F Gb F] [Gb F E F] 4 rest 16 [E F E F]
+|
+I0.4 .60 f
+=1 2. vol100 rest 4 f~#(1
+#=2 cha8 vol115 8 [d~ e~b] [b a#] [e~n d~#] 4 rest
+=2 cha8 vol115 8 [d~ e~b] 4 rest 2 rest
+=3 cha3 vol75 2. blank 16 [e f gb f]
+=4 2. blank 16 [d d# e d#]
+=5 16 [Ab G Ab G] [Ab G Ab G] [F# G F# G] 4 rest
+=6 16 [Gb F Gb F] [Gb F Gb F] [E F E F] 4 rest
+|
+=1 4 f~#)1 2. rest vol75 
+#=2 4 rest 8 [c~# d~] [a# b] [eb d]
+=2 4 rest 8 [c~# d~] [a# b] 4 rest
+=3 16 [gb f e f] 2. rest
+=4 16 [e eb d eb] 2. rest
+=5 4 rest 16 [F# G F# G] [Ab G Ab G] [Ab G Ab G]
+=6 4 rest 16 [E F E F] [Gb F Gb F] [Gb F Gb F]
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+|
+=1 4 rest 16 [d~ d~# e~n d~#] 2 rest
+=2 cha2 vol115 4 rest 16 [c~ c~# d~n c~#] 2 rest
+#=3 cha8 vol125 8 [b c~] [a g#] [d c#] [A# B]
+=3 cha8 vol125 8 [b c~] 4 rest rest 8 [A# B]
+=4 1 blank
+=5 16 [F# G F# G] 4 rest 16 [F# G Ab G] [Ab G F# G]
+=6 16 [E F E F] 4 rest 16 [E F Gb F] [Gb F E F]
+|
+=1 16 [d~ d~# e~n d~#] [e~ e~b d~n e~b] 4 rest 16 [d~ e~b d~ e~b]
+=2 16 [c~ c~# d~n c~#] [d~ d~b c~n d~b] 4 rest 16 [c~ d~b c~ d~b]
+=3 cha3 vol75 1 blank
+#=4 cha8 vol115 8 [A Bb] [G F#] [Eb D] [C Db]
+=4 cha8 vol115 8 [A Bb] 4 rest rest 8 [C Db]
+=5 2 rest 16 [F# G Ab G] 4 rest
+=6 2 rest 16 [E F Gb F] 4 rest
+|
+=1 16 [e~n d~# e~ d~#] [e~ d~# e~ d~#] [d~n e~b d~ e~b] 4 rest
+=2 16 [d~n c~# d~ c~#] [d~ c~# d~ c~#]  [c~n d~b c~ d~b] 4 rest
+=3 2. blank 16 [e f gb f]
+=4 cha4 vol75 2. blank 16 [d d# e d#]
+#=5 cha8 vol115 8 [B Bb] [G# A] [F# Gn] 4 C
+=5 cha8 vol115 4 rest 8 [G# A] [F# Gn] 4 C
+=6 2 rest 4 rest vol120 C(2
+
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+/
+2 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+| 1.778
+=1  treble cha1 leg115 vol75 bend50
+=2  treble cha2 leg115 vol75 bend50
+=3  alto   cha3 leg115 vol75 bend50
+=4' alto   cha4 leg115 vol75 bend50
+=5' bass   cha5 leg99 vol90 bend50
+=6' bass   cha6 leg99 vol90 bend50
+=1 4 rest 16 [d~ e~b d~ e~b] [e~n d~# e~ d~#] [e~ d~# e~ d~#]
+=2 4 rest 16 [c~ d~b c~ d~b] [d~n c~# d~ c~#] [d~ c~# d~ c~#]
+=3 16 [gb f e f] 2. rest
+=4 16 [e eb d eb] 2. rest
+#=5 cha8 vol115 8 [C Db] [G F#] [c B] [gb f]
+=5 cha8 vol115 4 rest 8 [G F#] [c B] 4 rest
+=6 4 C)2 rest vol90 2 rest
+|
+=1 16 [d~n e~b d~ e~b] 4 rest 16 [d~ d~# e~n d~#] [e~ e~b d~n e~b]
+=2 16 [c~n d~b c~ d~b] 4 rest 16 [c~ c~# d~n c~#] [d~ d~b c~n d~b]
+#=4 cha8 vol115 8 [Bb A] [c# d] [e f] [bb a]
+=4 cha8 vol115 8 [Bb A] 4 rest rest 8 [bb a]
+=5 cha5 vol75 4 rest 16 [F# G Ab G] 2 rest
+=6 4 rest 16 [E F Gb F] 2 rest
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+|
+=1 2 rest 16 [d~ d~# e~n d~#] 4 rest
+=2 2 rest 16 [c~ c~# d~n c~#] 4 rest
+#=3 cha8 vol115 8 [e~ d~#] [a# b] [c~# d~] [g~b f~]
+=3 cha8 vol115 8 [e~ d~#] 4 rest rest 8 [g~b f~]
+=4 cha4 vol75 1 blank
+=5 16 [F# G Ab G] [Ab G F# G] 4 rest 16 [F# G F# G]
+=6 16 [E F Gb F] [Gb F E F] 4 rest 16 [E F E F]
+|
+I0.4 .60 f
+=1 2. vol100 rest 4 f~#(1
+#=2 cha8 vol115 8 [d~ e~b] [b a#] [e~n d~#] 4 rest
+=2 cha8 vol115 4 rest 8 [b a#] [e~n d~#] 4 rest
+=3 cha3 vol75 2. blank 16 [e f gb f]
+=4 2. blank 16 [d d# e d#]
+=5 16 [Ab G Ab G] [Ab G Ab G] [F# G F# G] 4 rest
+=6 16 [Gb F Gb F] [Gb F Gb F] [E F E F] 4 rest
+|
+=1 4 f~#)1 2. rest vol75 
+#=2 4 rest 8 [c~# d~] [a# b] [eb d]
+=2 4 rest rest rest 8 [eb d]
+=3 16 [gb f e f] 2. rest
+=4 16 [e eb d eb] 2. rest
+=5 4 rest 16 [F# G F# G] [Ab G Ab G] [Ab G Ab G]
+=6 4 rest 16 [E F E F] [Gb F Gb F] [Gb F Gb F]
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+|
+=1 4 rest 16 [d~ d~# e~n d~#] 2 rest
+=2 cha2 vol115 4 rest 16 [c~ c~# d~n c~#] 2 rest
+#=3 cha8 vol125 8 [b c~] [a g#] [d c#] [A# B]
+=3 cha8 vol125 4 rest 8 [a g#] [d c#] 4 rest
+=4 1 blank
+=5 16 [F# G F# G] 4 rest 16 [F# G Ab G] [Ab G F# G]
+=6 16 [E F E F] 4 rest 16 [E F Gb F] [Gb F E F]
+|
+=1 16 [d~ d~# e~n d~#] [e~ e~b d~n e~b] 4 rest 16 [d~ e~b d~ e~b]
+=2 16 [c~ c~# d~n c~#] [d~ d~b c~n d~b] 4 rest 16 [c~ d~b c~ d~b]
+=3 cha3 vol75 1 blank
+#=4 cha8 vol115 8 [A Bb] [G F#] [Eb D] [C Db]
+=4 cha8 vol115 4 rest 8 [G F#] [Eb D] 4 rest
+=5 2 rest 16 [F# G Ab G] 4 rest
+=6 2 rest 16 [E F Gb F] 4 rest
+|
+=1 16 [e~n d~# e~ d~#] [e~ d~# e~ d~#] [d~n e~b d~ e~b] 4 rest
+=2 16 [d~n c~# d~ c~#] [d~ c~# d~ c~#]  [c~n d~b c~ d~b] 4 rest
+=3 2. blank 16 [e f gb f]
+=4 cha4 vol75 2. blank 16 [d d# e d#]
+#=5 cha8 vol115 8 [B Bb] [G# A] [F# Gn] 4 C
+=5 cha8 vol115 8 [B Bb] 4 rest rest C
+
+@
+
+
+1.2
+log
+@2nd page, to be modified; to 30sec, though
+@
+text
+@d35 2
+a36 2
+=5' bass   cha5 leg99 vol75 bend50
+=6' bass   cha6 leg99 vol75 bend50
+d48 2
+a49 1
+=5 cha8 vol115 8 [C Db] [G F#] [c B] [gb f]
+d54 3
+a56 2
+=4 cha8 vol115 8 [Bb A] [c# d] [e f] [bb a]
+=5 cha5 vol75 4 rest 16 [F# G Ab G] 2 rest
+d63 2
+a64 1
+=3 cha8 vol115 8 [e~ d~#] [a# b] [c~# d~] [g~b f~]
+d71 2
+a72 1
+=2 cha8 vol115 8 [d~ e~b] [b a#] [e~n d~#] 4 rest
+d79 2
+a80 1
+=2 4 rest 8 [c~# d~] [a# b] [eb d]
+d90 2
+a91 1
+=3 cha8 vol125 8 [b c~] [a g#] [d c#] [A# B]
+d99 2
+a100 1
+=4 cha8 vol115 8 [A Bb] [G F#] [Eb D] [C Db]
+d108 4
+a111 1
+=5 cha8 vol115 8 [B Bb] [G# A] [F# Gn] 4 C
+d123 2
+a124 2
+=5' bass   cha5 leg99 vol75 bend50
+=6' bass   cha6 leg99 vol75 bend50
+d129 3
+a131 2
+=5 cha8 vol115 8 [C Db] [G F#] [c B] [gb f]
+=6 2 blank 1 rest
+d135 2
+a136 1
+=4 cha8 vol115 8 [Bb A] [c# d] [e f] [bb a]
+d144 2
+a145 1
+=3 cha8 vol115 8 [e~ d~#] [a# b] [c~# d~] [g~b f~]
+d152 2
+a153 1
+=2 cha8 vol115 8 [d~ e~b] [b a#] [e~n d~#] 4 rest
+d160 2
+a161 1
+=2 4 rest 8 [c~# d~] [a# b] [eb d]
+d171 2
+a172 1
+=3 cha8 vol125 8 [b c~] [a g#] [d c#] [A# B]
+d180 2
+a181 1
+=4 cha8 vol115 8 [A Bb] [G F#] [Eb D] [C Db]
+d189 2
+a190 1
+=5 cha8 vol115 8 [B Bb] [G# A] [F# Gn] 4 C
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d47 2
+a48 2
+=4 16 [e d# dn eb] 2. rest
+=5 2 blank 1 rest
+d53 2
+a54 1
+=5 4 rest 16 [F# G Ab G] 2 rest
+d61 25
+a85 1
+=3 1 blank
+d87 47
+d137 4
+a140 1
+=3 2. blank 16 [e f gb f]
+d145 2
+a146 2
+=1 1 blank
+=2 1 blank
+d155 2
+a156 2
+=2 4 rest 16 [c~ c~# d~n c~#] 2 rest
+=3 1 blank
+d163 2
+d171 2
+a172 1
+=4 2. blank 16 [d d# e d#]
+@

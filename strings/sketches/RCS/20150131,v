@@ -1,0 +1,146 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.02.01.10.43.39;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.01.31.05.00.40;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@to combine the Rhythm with a trill-based quasi-Seethe
+@
+
+
+1.2
+log
+@correct vln2 in 3rd bar
+@
+text
+@3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+title 20150131 ; the Rhythm with rising and falling trills
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 1.778
+i0.7 .40 pizz .  .  .
+=1  treble cha8 leg99  vol99  bend50
+i0.5 .01 chord-sequence from 042 must be not just slidy;
+=2  treble cha2 leg99  vol80  bend50
+=3  alto   cha3 leg130 vol99  bend50
+=4' alto   cha4 leg99  vol80  bend50
+=5' tenor  cha5 leg130 vol80  bend50
+=6' bass   cha8 leg99  vol99  bend50
+i0.2  pizz  .   .   .
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+#=3, 16-s [c db c db c] [db c db c db] [c db c db c] [db c db c db]
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+|
+=1  4 rest bb bb rest
+i0.5 .01 leaps would allow the Seethe to cross through; they interact.
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+i0.1 .03 this loss of MT-phase actually works really well
+=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1  4 bb rest rest bb
+i0.5 .01 and the Seethe doesn't have to be comtinuous . . .
+#=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 1 blank
+=4, 8 rest [<Bb e> <Bb e>] rest [<Bb e> rest rest <Bb e>]
+=5, 1 blank
+=6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~
+|
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=3 1 blank
+=4, 8 rest [<Bb e> <Bb e>] rest [<Bb e> rest rest <Bb e>]
+=5, 1 blank
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1  4 rest bb bb rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 1 blank
+=4, 8 rest [<Bb e> <Bb e>] rest [<Bb e> rest rest <Bb e>]
+=5, 1 blank
+=6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~
+|
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=3 1 blank
+=4, 8 rest [<Bb e> <Bb e>] rest [<Bb e> rest rest <Bb e>]
+=5, 1 blank
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+|
+=1  4 rest bb bb rest
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d24 1
+d40 1
+d43 1
+a43 1
+i0.1 .03 this loss of phase actually works really well
+d51 3
+a53 1
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+@

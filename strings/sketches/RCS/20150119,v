@@ -1,0 +1,137 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.01.21.02.59.06;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@experiments toward a Son-Of-Rhythm
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+title 20151119
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+| 1.778
+Il0.4 .10 the Rhythm
+=1  treble cha1 leg99 vol75 bend50
+=2  treble cha2 leg99 vol75 bend50
+=3  alto   cha3 leg99 vol75 bend50
+=4' alto   cha4 leg99 vol75 bend50
+=5' tenor  cha5 leg99 vol75 bend50
+=6' bass   cha6 leg99 vol75 bend50
+=1' 2 Bb 4 A rest
+=2, 16 [d c#] 8 rest' rest' 16 [c# d] 8 rest' 16 [c# d d c#] 8 rest'
+=3 16 [bb a] 8 rest' rest' 16 [a bb] 8 rest' 16 [a bb bb a] 8 rest'
+=4 4 rest 8 [e f] [f e] 4 rest
+i0.8 .02 pizz
+=5 2 ab 4 g rest
+i0.1 .01 pizz
+=6 1 rest
+|
+#=1 2 rest 4 Bb rest
+=1' 2 rest A
+#=4 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=4 8 [f e] 4 rest 4 rest 8 [e f]
+=6 1 rest
+#=3, 8 rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=3 8 rest' 16 [a bb bb a] 8 rest' 16 [bb a] 8 rest' rest' 16 [a bb]
+#=2 8 rest' [d d] rest' [d rest' rest' d]
+=2, 8 rest' 16 [c# d d c#] 8 rest' 16 [d c#] 8 rest' rest' 16 [c# d]
+=5 2 rest gn
+|
+#=1 2 rest 4 Bb rest
+=1' 4 Bb rest 2 A
+#=4  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=4 8 [f e] 4 rest 4 rest 8 [e f]
+=6 2 blank 1 rest
+#=3, 8 rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
+=3 8 rest' 16 [a bb bb a] 8 rest' 16 [bb a] 8 rest' rest' 16 [a bb]
+# =2, 8 rest' [d d] rest' [d rest' rest' d]
+=2, 8 rest' 16 [c# d d c#] 8 rest' 16 [d c#] 8 rest' rest' 16 [c# d]
+=5 4 ab rest 2 g
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+|
+=1' 2 Bb 4 A rest
+#=4  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=4 4 rest 8 [e f] [f e] 4 rest
+#=3, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=3 16 [bb a] 8 rest' rest' 16 [a bb] 8 rest' 16 [a bb bb a] 8 rest'
+#=2, 8 [d rest' rest' d] rest' [d d] rest'
+=2, 16 [d c#] 8 rest' rest' 16 [c# d] 8 rest' 16 [c# d d c#] 8 rest'
+=5  2 ab g(1
+=6  2. rest 4 e(1
+|
+=1' vol90 8 [A A#-.] [A# B-.] [A# B] [B c-.]
+=2, 8 rest' 16 [c# d d c#] 8 rest' 16 [d c#] 8 rest' rest' 16 [c# d]
+=3 8 rest' 16 [a bb bb a] 8 rest' 16 [bb a] 8 rest' rest' 16 [a bb]
+=4 8 [f e] 4 rest 4 rest 8 [d# e-.]
+=5  4 g)1 gb-. gb f-.
+=6 2 e)1 4 eb rest
+|
+#=1  4 Bb rest rest Bb
+=1  8 [A# B'] [B c] [B c] [c c#-.]
+=2, vol83 16 [d c# c# d] vol90 16 [c# d d eb] 16 [c# d d eb] [d d# d# en]
+=3  16 [bb a] 8 rest' vol90 rest' 16 [a bb] 16 [a a# a# bn] [a# b b c~]
+=4 8 [d d#] [d# e] [d# e] [e f-.] 4 rest
+=5 4 gb f f e-.
+=6 2 eb 4 d rest
+
+/
+3 bars | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 4 |
+| 1.778
+=1, 16 [a g#] 8 rest' rest' 16 [g# a] 8 rest' 16 [g# a a g#] 8 rest'
+=2 16 [f e] 8 rest' rest' 16 [e f] 8 rest' 16 [e f f e] 8 rest'
+=3 2 f~ 4 e~ rest
+i0.8 .02 pizz
+=4 2 e~b 4 d~ rest
+=5 4 rest 8 [b c~] [c~ b] 4 rest
+=6 1 rest
+i0.1 .01 pizz
+|
+=1, 8 rest' 16 [g# a a g#] 8 rest' 16 [a g#] 8 rest' rest' 16 [g# a]
+=2 8 rest' 16 [e f f e] 8 rest' 16 [f e] 8 rest' rest' 16 [e f]
+=3 2 rest e~
+=4 2 rest d~
+=5 8 [c~ b] 4 rest 4 rest 8 [b c~]
+=6 1 rest
+|
+=1, 8 rest' 16 [g# a a g#] 8 rest' 16 [a g#] 8 rest' rest' 16 [g# a]
+=2 8 rest' 16 [e f f e] 8 rest' 16 [f e] 8 rest' rest' 16 [e f]
+=3 4 f~ rest 2 e~
+=4 4 e~b rest 2 d~
+=5 8 [c~ b] 4 rest 4 rest 8 [b c~]
+=6 2 blank 1 rest
+
+@

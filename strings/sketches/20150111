@@ -1,0 +1,141 @@
+4 systems 5 / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 \
+ / 19-20-19-20-19-30-19 / 19-20-19-20-19-30-19 /
+title 20141118
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+# book.AP  p.3
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.778
+bl0.5 .05 the Seethe ,  covering a cluster of 6  (C..F)
+% seethe_6
+=1  treble   cha2 leg99 vol50
+=2  alto     cha3 leg99 vol75
+=3' alto     cha4 leg99 vol75
+=4' bass     cha5 leg99 vol50
+# midi off
+=1 1 G(2
+=2 16 [eb d eb d] [eb d d# en] [d# e d# e] [f e f e]
+=3 16 [db c db c] [db c c# dn] [c# d c# d] [eb d eb d]
+i0.3 .01 to be reasonable, moved barlines to get into 3/4 . . .
+=4 1 Bb(2
+|
+=1 1 G)2(2
+=2 16 [f e d# e] [d# e eb dn] [eb d eb d] [d# en d# e]
+=3 16 [eb d c# d] [c# d db cn] [db c db c] [c# dn c# d]
+=4 1 Bb)2(2
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 1 G)2(2
+=2 16 [d# e f e] [f e f e] [d# e d# e] [eb dn eb d]
+=3 16 [c# d eb d] [c# d c# d] [db cn db c] [c# d eb d]
+=4 1 Bb)2(2
+|
+=1 1 G)2
+=2 16 [eb d d# en] [d# e d# e] [f e f e] 4 blank
+=3 16 [db c c# dn] [c# d c# d] [eb d eb d] 4 blank
+=4 1 Bb)2
+
+midi pause 1.778
+
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.778
+bl0.5 .05 the Seethe ,  covering a cluster of 5  (C..E)
+% seethe_5
+=1 1 Gb(2
+=2 16 [eb d eb d] [eb d d# en] [d# e d# e] [eb dn eb d] 
+=3 16 [db c db c] [db c c# dn] [c# d c# d] [eb d eb d]
+i0.4 .01 two of these, perhaps at different timescales, fit in an octave
+=4 1 bb(2
+|
+=1 1 Gb)2(2
+=2 16 [eb d d# en] [d# e d# e] [eb dn eb d] [eb d c# d]
+=3 16 [eb d c# d] [c# d db cn] [db c db c] [db c db c]
+=4 1 bb)2(2
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 1 Gb)2(2
+=2 16 [c# d c# d] [eb d eb d] [eb d d# en] [d# e d# e]
+=3 16 [db c db c] [db c db c] [db c c# dn] [c# d c# d]
+=4 1 bb)2(2
+|
+=1 1 Gb)2 83 blank
+=2 16 [eb d eb d] [eb d d# en] [d# e d# e] 4 blank
+=3 16 [eb d eb d] [eb d c# d] [c# d db cn] 4 blank
+=4 1 bb)2 83 blank
+
+midi pause 1.778
+
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.778
+bl0.5 .05 a Seethe ,  covering a cluster of 4  (C..Eb)
+% seethe_4
+=1 8 [G Ab Ab G] [Ab G G Ab]
+=2 16 [d eb eb d] [eb d d eb] [eb d d eb] [d eb eb d]
+=3 16 [c db db c] [db c c db] [db c c db] [c db db c]
+=4 1 <Bb(2 f>
+|
+=1 8 [Ab G G Ab] [G Ab Ab G]
+=2 16 [eb d d eb] [d eb eb d] [d eb eb d] [eb d d eb]
+=3 16 [db c c db] [c db db c] [c db db c] [db c c db]
+=4 1 <Bb)2(2 f>
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 8 [Ab G G Ab] [G Ab Ab G]
+=2 16 [eb d d eb] [d eb eb d] [eb d d eb] [eb d d eb]
+=3 16 [db c c db] [c db db c] [c db db c] [db c c db]
+=4 1 <Bb)2(2 f>
+|
+=1 1 F
+=1 8 [G Ab Ab G] [Ab G G Ab]
+=2 16 [d eb eb d] [eb d d eb] [eb d d eb] 4 blank
+=3 16 [c db db c] [db c c db] [db c c db] 4 blank
+=4 1 <Bb)2 f>
+
+midi pause 1.778
+
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.778
+bl0.5 .05 a Seethe ,  covering a cluster of 3  (C..D)
+% seethe_3
+=1 8 [G Ab Ab G] [Ab G G Ab]
+=2 vol50 4 E F F E
+=3 vol85 16 [db c db c] [db c c# dn] [c# d c# d] [c# d c# d]
+i0.4 .01 three of these, perhaps at different timescales, fit in an octave
+=4 1 <Bb(2 e>
+|
+=1 8 [Ab G G Ab] [G Ab Ab G]
+=2 4 F E E F
+=3 16 [c# d db cn] [db c db c] [c# dn c# d] [c# d db cn]
+=4 1 <Bb)2(2 e>
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 8 [Ab G G Ab] [G Ab Ab G]
+=2 4 F E E F
+=3 16 [db c db c] [c# dn c# d] [c# d db cn] [db c db c]
+=4 1 <Bb)2(2 e>
+|
+=1 8 [G Ab Ab G] [Ab G G Ab]
+=2 4 E F F E
+=3 16 [eb d eb d] [eb d c# d] [c# d db cn] 4 blank
+=4 1 <Bb)2 e>
+
+
+# Don't forget the Jiggy from 20141118 !

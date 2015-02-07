@@ -1,0 +1,219 @@
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+title 20150201 ; the Rhythm with chord-sequence and trills
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 1.778
+I0.9 .10 <B_b D E>
+i0.7 .40 pizz .  .  .
+=1  treble cha8 leg99  vol99  bend50
+i0.5 .01 chord-sequence from 042 must be not just slidy;
+=2  treble cha2 leg99  vol80  bend50
+=3  alto   cha3 leg130 vol80  bend50
+I0.5 .01 TOO PRETTY :-(
+=4' alto   cha4 leg99  vol80  bend50
+=5' tenor  cha5 leg130 vol80  bend50
+=6' bass   cha8 leg99  vol99  bend50
+i0.2  pizz  .   .   .
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+#=3, 16-s [c db c db c] [db c db c db] [c db c db c] [db c db c db]
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+|
+=1  4 rest bb bb rest
+i0.5 .01 leaps would allow the Seethe to cross through; they interact.
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+i0.1 .03 this loss of MT-phase actually works really well
+=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <D E Ab>
+=1  4 rest ab ab rest
+i0.5 .01 and the Seethe doesn't have to be comtinuous . . .
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=3 1 blank
+=4, 8 rest [<Ab e> <Ab e>] rest [<Ab e> rest rest <Ab e>]
+=5, 1 blank
+=6 8 rest' [d~ d~] rest' 4 Ab 8 rest' d~
+|
+I0.9 .10 <C# F G>
+=1  4 g rest rest a
+=2  4 rest 8 <c# f> rest 8 <c# f> rest 4 rest
+=3 1 blank
+=4, 8 rest [<G f> <G f>] rest [<G f> rest rest <G f>]
+=5, 1 blank
+=6 4 G 8 rest' c~# rest' c~# 4 c~#
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <F G B>
+=1  4 rest bn b rest
+=2  8 <fx g> rest 4 rest 4 rest 8 <fx g> rest
+=3 1 blank
+=4, 8 rest [<Bn g> <B g>] rest [<B g> rest rest <B g>]
+=5, 1 blank
+=6 8 rest' [b b] rest' 4 F 8 rest' b
+|
+=1  4 b rest rest b
+=2  4 rest 8 <fx g> rest 8 <fx g> rest 4 rest
+=3 1 blank
+=4, 8 rest [<B g> <B g>] rest [<B g> rest rest <B g>]
+=5, 1 blank
+=6 4 F 8 rest' b rest' b 4 b
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <F Ab B>
+=1  4 b rest rest b
+=2  4 rest 8 <f ab> rest 8 <f ab> rest 4 rest
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 [<B ab> rest rest <B ab>] rest [<B ab> <B ab>] rest
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+=6 4 B 8 rest' d~ rest' d~ 4 d~
+|
+I0.9 .10 <F An B>
+=1  4 rest b b rest
+=2  8 <f an> rest 4 rest 4 rest 8 <f a> rest
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+=4, 8 [<B an> rest rest <B a>] rest [<B a> <B a>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 8 rest' [d~ d~] rest' 4 B 8 rest' d~
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <A B eb>
+=1  4 rest b b rest
+=2  8 <eb a> rest 4 rest 4 rest 8 <eb a> rest
+=3 1 blank
+=4, 8 rest [<B a> <B a>] rest [<B a> rest rest <B a>]
+=5, 1 blank
+=6 8 rest' [e~b e~b] rest' 4 A 8 rest' e~b
+|
+=1  4 b rest rest b
+=2  4 rest 8 <eb a> rest 8 <eb a> rest 4 rest
+=3 1 blank
+=4, 8 rest [<B a> <B a>] rest [<B a> rest rest <B a>]
+=5, 1 blank
+=6 4 A 8 rest' e~b rest' e~b 4 e~b
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <Ab c d>
+=1  4 c~ rest rest c~
+=2  4 rest 8 <d ab> rest 8 <d ab> rest 4 rest
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 [<c ab> rest rest <c ab>] rest [<c ab> <c ab>] rest
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+=6 4 Ab 8 rest' d~ rest' d~ 4 d~
+|
+I0.9 .10 <c d f#>
+=1  4 rest c~ d~ rest
+=2  8 <d f#> rest 4 rest 4 rest 8 <d f#> rest
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+=4, 8 [<c f#> rest rest <c f#>] rest [<c f#> <c f#>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 8 rest' [d~ d~] rest' 4 Gb 8 rest' d~
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <B eb f>
+=1  4 e~b rest rest e~b
+=2  4 rest 8 <B fn> rest 8 <B f> rest 4 rest
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 [<Bn fn> rest rest <B f>] rest [<B f> <B f>] rest
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+=6 4 F 8 rest' e~b rest' e~b 4 e~b
+|
+=1  4 rest e~b e~b rest
+=2  8 <B f> rest 4 rest 4 rest 8 <B f> rest
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+=4, 8 [<B f> rest rest <B f>] rest [<B f> <B f>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 8 rest' [e~b e~b] rest' 4 F 8 rest' e~b
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <eb f a>
+=1  4 rest e~b e~b rest
+=2,  8 <eb a> rest 4 rest 4 rest 8 <eb a> rest
+=3 1 blank
+=4, 8 rest [<A f> <A f>] rest [<A f> rest rest <A f>]
+=5, 1 blank
+=6 8 rest' [e~b e~b] rest' 4 F 8 rest' e~b
+|
+I0.9 .10 <eb f# a>
+=1  4 e~b rest rest e~b
+=2, 4 rest 8 <eb a> rest 8 <eb a> rest 4 rest
+=3 1 blank
+=4, 8 rest [<A f#> <A f#>] rest [<A f#> rest rest <A f#>]
+=5, 1 blank
+=6 4 F# 8 rest' e~b rest' e~b 4 e~b
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <eb g a>
+=1  4 rest e~b e~b rest
+=2, 8 <A g> rest 4 rest 4 rest 8 <A g> rest
+=3 1 blank
+=4, 8 rest [<eb g> <eb g>] rest [<eb g> rest rest <eb g>]
+=5, 1 blank
+=6 8 rest' [e~b e~b] rest' 4 G 8 rest' e~b
+|
+=1  4 e~b rest rest e~b
+=2, 4 rest 8 <A g> rest 8 <A g> rest 4 rest
+=3 1 blank
+=4, 8 rest [<eb g> <eb g>] rest [<eb g> rest rest <eb g>]
+=5, 1 blank
+=6 4 A 8 rest' e~b rest' e~b 4 e~b
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+I0.9 .10 <g a c~#>
+=1  4 d~b rest rest d~b
+=2, 4 rest 8 <A g> rest 8 <A g> rest 4 rest
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 [<c# g> rest rest <c# g>] rest [<c# g> <c# g>] rest
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+=6 4 A 8 rest' c~# rest' c~# 4 c~#
+|
+I0.9 .10 <f# bb d~>
+=1  4 rest c~ bb rest
+=2, 8 <A# f#> rest 4 rest 4 rest 8 <A# f#> rest
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+=4, 8 [<d f#> rest rest <d f#>] rest [<d f#> <d f#>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~

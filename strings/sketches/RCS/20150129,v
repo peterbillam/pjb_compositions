@@ -1,0 +1,90 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.01.29.01.23.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@a fractal to lead into 'end of'
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+title 20150129 ; a fractal to lead into 'end of'
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 1.778
+=1  treble cha1 leg99  vol90  bend50
+=2  treble cha8 leg99  vol90  bend50
+=3  alto   cha3 leg99  vol90  bend50
+=4' alto   cha4 leg99  vol90  bend50
+=5' bass   cha5 leg99  vol90  bend50
+=6' bass   cha6 leg99  vol90  bend50
+=1 2 blank 1 rest
+=2 8 rest G rest G 4 rest 8 G rest
+=3' 4 rest 16 [B c  B  c] 4 rest 16 [B c  B  c]
+=4  4 rest 16 [A Bb A Bb] 4 rest 16 [A Bb A Bb]
+=5 2 rest f
+=6 1 D
+|
+=1 2 blank 1 rest
+=2 8 G rest rest G rest G 4 rest
+=3' 2 rest 16 [B c  B  c] 4 rest
+=4  2 rest 16 [A Bb A Bb] 4 rest
+=5 2 rest f
+=6 2 blank 1 rest
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 2 blank 1 rest
+=2 8 G rest G rest rest G rest G
+=3' 16 [B c  B  c] 4 rest 4 rest 16 [B c  B  c]
+=4  16 [A Bb A Bb] 4 rest 4 rest 16 [A Bb A Bb]
+=5 2 blank 1 rest
+=6 1 D
+|
+=1 2 blank 1 rest
+=2 4 rest 8 G rest G rest rest G
+=3' 4 rest 16 [B c  B  c] 4 rest rest
+=4  4 rest 16 [A Bb A Bb] 4 rest rest
+=5 2 f rest
+=6 2 blank 1 rest
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 2 blank 1 rest
+=2 8 rest G 4 rest 8 G rest G rest
+=3' 16 [B c  B  c] 4 rest 16 [B c  B  c] 4 rest
+=4  16 [A Bb A Bb] 4 rest 16 [A Bb A Bb] 4 rest
+=5 2 f rest
+=6 2 blank 1 rest
+@

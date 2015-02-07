@@ -1,0 +1,73 @@
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title mvt2 ; 20150113
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 40 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  2 reverb 45
+midi channel 4 patch 41 pan 98 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 60 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+$BENDS1 = 8 bend50 blank 64 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank bend+4 blank bend+4
+$BENDB1 = 64 bend50 blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3 \
+ blank bend+3 blank bend+3 blank bend+3 blank bend+3
+$CRE1 = 64 cc11=10 blank cc11=20 blank cc11=30 blank cc11=40 blank cc11=50 \
+ blank cc11=60 blank cc11=70 blank cc11=80 blank cc11=90 \
+ blank cc11=100 blank cc11=110 blank cc11=120 blank cc11=127
+$DIM1 = 64 cc11=127 blank cc11=120 blank cc11=110 blank cc11=100 blank cc11=90 \
+ blank cc11=80 blank cc11=70 blank cc11=60 blank cc11=50 \
+ blank cc11=40 blank cc11=30 blank cc11=20 blank cc11=10
+
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.788
+=1 treble cha1  leg99 vol70
+=2 treble cha2  leg99 vol70
+=3  alto  cha3  leg99 vol75
+=4' alto  cha4  leg99 vol75
+=5' bass  cha5  leg99 vol70
+=6' bass  cha6  leg99 vol70
+=1 16 [b{,2 c~ b a#},2] [b{,2 d~ b g#},2] [b{1 c~}1 b{1 a#}1] [b e~ b f#]
+=2 1 blank
+=3' 1 blank
+=4  1 blank
+=5 1 blank
+=6 1 blank
+|
+=1 16 [b c~ b a#] [b d~ b g#] [b c~ b a#] [b f~# b e]
+#=2  16 [G 8. Bb'] 16 [A 8. G#] 8. [db 16 c] [Bn 8. Bb]
+#% too metre-bound
+=2 8 [G 16 A Bb'] [A, c Bn d] [c# e 8 d#] 4 rest
+=3' 4 rest 8 [F 16 G Ab] [G Bb' An c'] [Bn d 8 c#]
+=4 2 rest 8 [eb 16 f gb] [d# en gn ab]
+# it's acually better without the fifth voice...
+#=5, 2. rest 8 [c# 16 f gb]
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 16 [b c~ b a#] [b d~ b g#] [b c~ b a#] [b e~ b f#]
+#=2, 16 [A 8. c] 16 [B 8. A#] 8. [eb 16 d] [db 8. c]
+=2 8 [G 16 B' A#] [db c eb d] [f e 8 g] 4 rest
+#=3 8. [c# 16 cn] 8. [B, 16 e(1] 8 [e)1 16 eb d] 8. [db 16 c]
+=3' 4 rest 8 [F 16 G Ab] [G Bb' An c'] [Bn d 8 c#]
+=4 16 [f f# 8 a] 4 rest 8 [eb 16 fn gb] [d# en gn ab]
+#=5, 16 [f# g a# b] [g# a 8 c~] 4 rest 8 [c# 16 fn gb]
+|
+=1 16 [b c~ b a#] [b d~ b g#] [b c~ 8 b-.] 4 rest
+# [b g~# b d]
+=2 8 [G 16 B' A#] [db c eb d] [f e 8 g-.] 4 rest
+=3' 4 rest 8 [F 16 G Ab] [G Bb' 8 An-.] 4 rest
+=4 16 [f f# 8 a] 4 rest 8 [eb-. db-.] 4 rest
+#=5, 16 [f# g a# b] [g# a 8 c~] 2 rest
+=6 cha8 vol125 2 rest 8 rest 4. d~
+
+
