@@ -46,11 +46,11 @@ title.a4 : title
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
 play :
-	muscript -midi ${PLAY} | midisox_lua - -d stat
+	muscript -midi ${PLAY} | midisox_lua - -d stat trim 105
 play1 :
 	muscript -midi mvt1 | midisox_lua - -d stat
 play2 :
-	muscript -midi mvt2 | midisox_lua - -d stat trim 62 fade 0 32 0
+	muscript -midi mvt2 | midisox_lua - -d stat
 play3 :
 	muscript -midi mvt3 | midisox_lua - -d stat # trim 210
 playall :
