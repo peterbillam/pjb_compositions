@@ -1,10 +1,40 @@
-head	1.18;
+head	1.24;
 access;
 symbols;
 locks
-	pjb:1.18; strict;
+	pjb:1.24; strict;
 comment	@# @;
 
+
+1.24
+date	2015.02.18.03.17.06;	author pjb;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2015.02.16.02.29.20;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2015.02.15.10.06.50;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2015.02.11.05.38.49;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2015.02.10.00.26.31;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2015.02.09.07.50.01;	author pjb;	state Exp;
+branches;
+next	1.18;
 
 1.18
 date	2015.02.07.02.15.01;	author pjb;	state Exp;
@@ -102,9 +132,9 @@ desc
 @
 
 
-1.18
+1.24
 log
-@bar 68 homeless elided into counter-moving seethe
+@spaced plausibly to 18 pages
 @
 text
 @3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
@@ -142,7 +172,8 @@ $DIM1 = 64 cc11=127 blank cc11=120 blank cc11=110 blank cc11=100 blank cc11=90 \
 
 # book.AP  p.3
 /
-3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+2 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 \
+       | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 | 1.778
 i0.3 .05 pizz , sul G , glissando
 =1  treble   cha10 leg99 vol110 bend50
@@ -170,6 +201,9 @@ i0.4 .01 pizz , glissando
 =4 16 [eb d eb d] [eb d c# d] [c# d db cn] [db c db c]
 =5 1 Bb)2(2
 =6 2 blank 1 rest
+/
+2 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 \
+       | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 |
 =1 2 blank 1 rest
 =2 1 G)2 83 blank
@@ -177,8 +211,6 @@ i0.4 .01 pizz , glissando
 =4 16 [c# dn c# d] [c# d eb d] [eb d eb d] [c# d c# d]
 =5 1 Bb)2 83 blank
 =6 2 blank 1 rest
-/
-3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 |
 =1 2 blank 1 rest
 =2 1 G(2
@@ -186,6 +218,9 @@ i0.4 .01 pizz , glissando
 =4 16 [db c db c] [db c c# dn] [c# d c# d] [eb d eb d]
 =5 1 bb(2
 =6 2 blank 1 rest
+/
+2 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 \
+       | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 |
 il0.6 .01 5
 =1 2 blank 1 rest
@@ -201,8 +236,13 @@ il0.6 .01 5
 =4 16 [db' c' B c'] [B c' B c'] [db c db c] [c# dn c# d]
 =5 1 Bb(2
 =6 2 blank 1 rest
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
 /
-3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+2 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 \
+       | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 |
 =1 2 blank 1 rest
 =2 1 G)2(2
@@ -224,6 +264,9 @@ i0.3 .45 pizz , sul G , glissando
 #M=6 2 rest cha11 bend50 2 G
 #M=6 2 blank $BENDB1 cha8
 i0.1 .15 pizz , glissando
+/
+2 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 \
+       | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 |
 =1 2 blank 1 rest
 =2 vol70 16 [G Ab G Ab] [G Ab G Ab] [G Ab G Ab] [G Ab G Ab]
@@ -231,10 +274,6 @@ i0.1 .15 pizz , glissando
 =4 vol70 16 [db c db c] [db c c# dn] [c# d c# d] [eb d eb d]
 =5 vol60 16 [A Bb A Bb] [A Bb A Bb] [A Bb A Bb] [A Bb A Bb]
 =6 2 blank 1 rest
-
-3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-/
-3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 |
 il0.6 .01 10
 =1 2 blank 1 rest
@@ -243,6 +282,9 @@ il0.6 .01 10
 =4  16 [eb en d# e] [d# e vol+3 16 d# e] [d# e d# e] [d# e d# e]
 =5  16 [A Bb A Bb] [A Bb vol+3 16 Bn A#] [B A# B A#] [B c B c]
 =6 2 blank 1 rest
+/
+2 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 \
+       | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
 |
 =1 2 blank 1 rest
 =2' vol+3 16 [A A# B A#] [B A# B A#] [B  A# B A#] [B A# B A#]
@@ -258,7 +300,9 @@ il0.6 .01 10
 =5  vol+3 16 [db c c# dn] [c# d c# vol+3 d] [eb d eb d] [eb d eb d]
 =6 2 blank 1 rest
 /
-3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+3 bars | 5 5 5 5  5 5 5 5  5 5 5 5  5 5 5 3 \
+       | 5 5 5 5  5 5 5 5  5 5 5 5  5 5 5 3 \
+       | 6 6 6 6 6 6 6 5 |
 |
 =1 2 blank 1 rest
 =2 vol+3 16 [db c db c] [c# dn c# d] vol+3 [c# d eb d] [eb d eb d]
@@ -290,7 +334,7 @@ il0.6 .10 15
 =6' cha8 leg99 vol95 bend50
 =1  4 bb rest 2 rest
 =2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
-Il0.2 .07 the Rhythm
+#Il0.2 .07 the Rhythm
 =3 1 rest
 =4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
 =5, 8 [d rest' rest' d] rest' [d d] rest'
@@ -298,7 +342,8 @@ i0.8 .02 pizz
 =6 4 Bb 2. rest
 i0.1 .01 pizz
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
 |
 =1 2 rest 4 bb rest
 =2 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
@@ -319,7 +364,8 @@ i0.5 .91 arco
 =2 vol+3 16 [B c B c] [B c B vol+3 16 c] [B c c# cn] vol+3 [c# d c# d]
 =3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn bb] vol+3 [b c~ b c~]
 =4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
-=5 2 rest
+=5 2 blank 1 rest
+=6 2 blank 1 rest
 /
 3 bars | 48 | 48 | 48 |
 |
@@ -427,8 +473,8 @@ i0.2 .26 pizz
 #M=6 2 blank $BENDB1
 i0.2 .30 pizz, .60 glissando
 |
-I1.5 .01 splice in something wierd here !?
-i0.9 .01 should maybe swap vla1 and vln1 here . . .
+#I1.5 .01 splice in something wierd here !?
+#i0.9 .01 should maybe swap vla1 and vln1 here . . .
 =1  cha8 bend50 vol95 4 rest f# f# rest
 =2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
 i0.1 .40 arco
@@ -492,7 +538,7 @@ i0.2 arco .  .  . .60 glissando .  .  .
 =5 8 rest' <d c~> 16 [<d c~> rest' rest' d{1] [c~}1 rest'' rest'' <d c~>] 8 rest' <d c~>
 =6, 8. [c 16 d~] 8 rest' d~ rest' [d~ d~] rest'
 /
-3 bars | 48 | 48 | 48 |
+4 bars | 48 | 36 | 36 | 36 |
 |
 =1' 2 vol80 G}2{2 Gb}2{2
 #M=1  $DOWN1 $DOWN1
@@ -506,13 +552,17 @@ i0.2 arco .  .  . .60 glissando .  .  .
 i0.2 .30 arco . . .
 |
 il0.7 .05 35
-r0.6 .50 <E G Bb>
+#r0.6 .50 <E G Bb>
 =1  2 vol80 F}2{2 bend50 4 E}2 rest
 #M=1 $DOWN1 2 blank
 =3  4 rest Bb(1 2 Bb)1{2
 #M=3 2 blank $DOWN1
 =4  2 ab}2{2 g}2{2
 #M=4 $DOWN1 $DOWN1
+=5  2 rest C(1
+#M=5 2 $DIM1 $CRE1
+I0.7 .40 ppp
+i0.7 .60 cresc  .   .   .
 =6  cha6 vol126 1 C(1
 #M=6 $CRE1
 I0.7 ppp
@@ -522,34 +572,27 @@ i0.7 .25 cresc  .   .   .
 =1 1 blank
 =3 1 A}2
 =4 1 f#}2
+=5 2 C)1 rest
+#M=5 2 $DIM1 $CRE1
+I0.4 ff
+i0.7 .15 dim  .   .   .
+I0.7 .50 ppp
 =6  1 C)1
 #M=6 $DIM1
 I0.7 ff .95 ppp
 i0.7 .25 dim  .   .   .
 
-
-3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-#|
-#r0.6 .01 <D F A> .50 <D F Ab>
-#=1 1 blank
-#|
-#r0.6 .01 <D E G> .50 <C# E G>
-#=1 1 blank
-#|
-#r0.6 .01 <C Eb G> .50 <C Eb Gb>
-#=1 1 blank
-
-/
-5 bars | 48 | 48 | 48 | 48 | 48 |
 | 1.6
 # a second Rhythm ?  from sketches 20150101 ?
-i1.1 .02 mm 145-155  approx.
+i1.1 .02 nicht schleppen
 =1 cha1 8 [c~ b rest'' b] [c~ rest'' b c~]
 =2 cha8 4 d eb rest eb
 =3 cha3 2 f gb
 =4 cha8 1 G#
 =5 cha5 2 blank 1 rest
 =6 cha8 1 G#
+/
+5 bars | 48 | 48 | 48 | 48 | 48 |
 |
 =1  8 rest'' c~ b rest'' [b c~ rest'' c~]
 =2  4 d rest eb d
@@ -579,8 +622,6 @@ il0.7 .05 40
 =4 1 G#
 =5 2 blank 1 rest
 =6 1 G#
-/
-3 bars | 48 | 96 | 96 |
 |
 =1 8 [c~ rest'' b c~] rest'' c~ b rest''
 =2 4 rest eb d rest
@@ -591,7 +632,13 @@ il0.7 .05 40
 # a plan ? started at 9 notes/sec; this is 5;
 # could then accel to 5.5 6 6,5 7 8 and then do the Seethe downwards at 9 ?
 
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+
 # must put something in here...
+/
+2 bars | 96 | 96 |
 |
 =1 cha1 vol+3 16 [c# d eb d] [d# en d# vol+3 16 e] [f e f e] vol+3 [f e f f#]
 i0.1 .01 arco
@@ -601,6 +648,7 @@ i0.1 .01 arco
 =5 cha5 vol+3 16 [d# e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
 =6 2 F# rest
 |
+i0.7 .02 tempo 1o
 =1 vol+3 16 [g f# g f#] [g g# gn vol+3 16 g#] [a g# a g#] vol+3 [a g# a bb]
 =2 vol+3 16 [d# e d# e] [d# e d# vol+3 16 e] [d# e f e] vol+3 [f gb f f#]
 =3 vol+3 16 [c~# d~ c~# d~] [c~# d~ c~# vol+3 16 d~] \
@@ -614,7 +662,7 @@ i0.1 .70 arco .   .   .
 /
 2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 | 1.788
-il1.3 .01 45
+il1.0 .09 45
 =1 cha1  leg99 vol120
 =2 cha2  leg99 vol70
 =3  cha3  leg99 vol75
@@ -631,14 +679,14 @@ il1.3 .01 45
 =1 16 [b{1 c~}1 vol-5 b{1 a#}1] [b{1 d~}1 vol-5 b{1 g#}1] [b{1 c~}1 vol-5 b{1 a#}1] [b e~ vol-5 b f#]
 =2 8 b rest 4 rest 2 rest
 =3' 2 blank 1 rest
-i0.5 .03 from skteches/20150113
+#i0.5 .03 from skteches/20150113
 =4  2 blank 1 rest
 =5 bass 2 blank 1 rest
 =6 2 blank 1 rest
 
 /
-3 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
- |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 3 2 2 2 2 |
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
 =1 vol90 16 [b c~ b a#] [b d~ b g#] [b c~ b a#] [b f~# b e]
 =2 8 [G 16 A Bb'] [A, c Bn d] [c# e 8 d#] 4 rest
@@ -653,6 +701,8 @@ i0.5 .03 from skteches/20150113
 =4 16 [f f# 8 a] 4 rest 8 [eb 16 fn gb] [d# en gn ab]
 =5 2 blank 1 rest
 =6 2 blank 1 rest
+/
+4 bars | 96 | 30 | 30 | 30
 |
 =1 16 [b c~ b a#] [b d~ b g#] [b c~ 8 b-.] 4 rest
 =2 8 [G 16 B' A#] [db c eb d] [f e 8 g-.] 4 rest
@@ -664,8 +714,6 @@ I0.2 .55 f
 
 
 
-/
-5 bars | 48 |
 | 1.6
 =1 cha1 8 [b-. c~-. rest'' c~] [b rest'' c~ b]
 #i0.2 .51 pizz
@@ -698,6 +746,8 @@ il1.3 .01 50
 =4 2 blank 1 rest
 =5 2 blank 1 rest
 =6 2 blank 1 rest
+/
+3 bars | 36 | 36 | 48 |
 |
 =1 8  [c~ b rest'' b-.] [c~-. rest'' b c~]
 =2 4  d eb rest eb
@@ -718,15 +768,6 @@ i0.1 .30 glissando .   .   .
 =5 2 rest leg99 vol100 8 [g 16 f f#] [g f# eb d]
 =6 1 A
 i0.1 .76 arco
-#|
-#=1 8  [b rest'' c~ b] rest'' b-. c~-. rest''
-#=2 4  rest d eb rest
-#=3 4. f-. 8 rest 2 rest
-#=4 2 blank 1  rest
-#=5 2 blank 1 rest
-#=6 2 blank 1  rest
-/
-2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 | 1.778
 =1  cha1 vol100 leg99 4 c~# rest 2 rest
 # 3 semitone down to the beat
@@ -738,6 +779,8 @@ i0.1 .76 arco
 # 6 semitone up from the beat
 =6  cha6 vol100 leg99 8 [a 16 f gb] [d# e c#, d] [B cn 8 A] 4 rest
 i0.2   arco  .    .    .
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
 il0.4 .01 55
 =1 1 blank
@@ -745,10 +788,6 @@ il0.4 .01 55
 =4 16 [B A# 8 G] 4 rest 8 [G 16 F E] [G F# Eb D]
 =5 4 rest 8 [f 16 eb d] [eb' c c# Bb] [Bn G# 8 A]
 =6' 8 [eb 16 B c] [A Bb G Ab] [F Gb 8 Eb] 4 rest
-
-3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-/
-2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
 =1' 4 rest 8 [B 16 A G#] [A F# Gn E] [Fn D 8 Eb]
 =2 vol100 leg99 8 [A 16 F Gb] [D# E C# D] \
@@ -757,11 +796,8 @@ il0.4 .01 55
 =4 16 [F E 8 C#] 4 rest 8 [d~b 16 b bb] [d~b c~ a g#]
 =5 2 blank 1 rest
 =6 2 blank 1 rest
-#|
-#=1 4 rest 8 [f 16 eb d] [eb c c# Bb] [Bn' G# A B']
-#=2 8 [eb 16 B c] [A Bb' G Ab] [F Gb 8 Eb] 4 rest
-#=3 16 [d~b bb a c~] [bn ab 8 g] 4 rest blank
-#=4 16 [b a# 8 g] 4 rest 2 blank
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
 =1 4 rest 8 [f e(1] 4 e)1 rest
 i0.3 .55 pizz , glissando
@@ -788,8 +824,6 @@ i0.3 .55 pizz , glissando
 # why not? it would have to commit to a chord, but it does already, so why not?
 # | 16/4 4' 2 4' 1, 2' 2, 1' | 4, 2 4, 1' 2, 2' 1, | 4' 2 4' 1, 2' 2, 1' |
 
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 | 1.778
 #|
 i0.2 .02 arco  .   .   .
@@ -802,6 +836,8 @@ i0.2 .87 pizz  .   .   .
 i0.7 .07 pizz  .   .   .
 =6 2 blank cha6 bend50 vol90 1 rest
 i0.1 .87 arco  .   .   .
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 16 [d~n e~b d~ e~b] 4 rest 16 [d~ d~# e~n d~#] [e~ e~b d~n e~b]
 =2 16 [c~n d~b c~ d~b] 4 rest 16 [c~ c~# d~n c~#] [d~ d~b c~n d~b]
@@ -811,8 +847,6 @@ i0.2 .80 pizz  .   .   .
 =5 cha5 vol75 4 rest 16 [F# G Ab G] 2 rest
 i0.5 .02 arco  .   .   .
 =6 4 rest 16 [E F Gb F] 2 rest
-/
-3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 il0.4 .01 60
 =1 2 rest 16 [d~ d~# e~n d~#] 4 rest
@@ -821,6 +855,8 @@ il0.4 .01 60
 =4 cha4 vol75 2 blank 1 rest
 =5 16 [F# G Ab G] [Ab G F# G] 4 rest 16 [F# G F# G]
 =6 16 [E F Gb F] [Gb F E F] 4 rest 16 [E F E F]
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 I0.4 .60 f
 =1 2. vol100 rest 4 f~#(1
@@ -839,8 +875,12 @@ i0.8 .40 arco  .  .  .
 =4 16 [e eb d eb] 2. rest
 =5 4 rest 16 [F# G F# G] [Ab G Ab G] [Ab G Ab G]
 =6 4 rest 16 [E F E F] [Gb F Gb F] [Gb F Gb F]
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
 /
-3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 4 rest 16 [d~ d~# e~n d~#] 2 rest
 i0.2 .02 arco . . .
@@ -859,8 +899,10 @@ i0.8 .04 pizz  .  .  .
 =5 2 rest 16 [F# G Ab G] 4 rest
 i0.8 .83 pizz . . .
 =6 2 rest 16 [E F Gb F] 4 rest
+/
+3 bars | 48 | 24 | 24 | 7 7 8 12 |
 |
-il1.3 .07 65
+il1.3 .09 65
 =1 16 [e~n d~# e~ d~#] [e~ d~# e~ d~#] [d~n e~b d~ e~b] 4 rest
 =2 16 [d~n c~# d~ c~#] [d~ c~# d~ c~#]  [c~n d~b c~ d~b] 4 rest
 =3 2. blank 16 [e f gb f]
@@ -871,22 +913,6 @@ i0.8 .34 arco  .  .  .
 =6 2 rest 4 rest vol90 C(2
 
 
-
-
-
-# see diary 20141118..20141123:
-#  GlissPizz->Seethe (splice) Rhythm (fade) Slide (fade)
-#  GlissPizz (fade) Seethe (fade) Rhythm (to be filled in here) Rhythm (fade)
-#  GlissPizz (one last and into) Seethe down mixed with Slide
-# see diary 20141205:
-#  To make numerous GlissPizz interesting, I need at least High and Low
-#  Again I have the feeling I need more material; I'm at 62sec and
-#  have to fill 300sec with GlissPizz, Rhythm and Seethe :-(
-#  Also, more Splice! less cross-fade...  and where's my MessaDiVoce ?
-
-# see AP.20141203 for interesting ways down from 033,
-#   which could recur in mvt3 in non-gliss guise...
-
 # 20141210   (from the diary)
 #   What's missing ?
 #   1 counterpoint   2 ryhthm     3 harmony
@@ -894,70 +920,51 @@ i0.8 .34 arco  .  .  .
 #   1 episodic       2 spliced    3 long arch
 #   1 craft          2 sfx        3 emotion
 #   1 culture        2 chaos      3 grief
-#
-# mvt2 needs more material.  At least another Rhythm, probably another Seethe,
-# and some stand-alone GlissPizz bit;
-# but the Slide should not be multiplied beyond necessity
-# (though it would be cute to give it the chord-sequence of mvt3...)
 
-
-#midi off
-
-/
-2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
-Il0.8 .03 a trill, currently homeless
-=1' bend50 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
-=1 $DIM1
+#Il0.8 .03 a trill, currently homeless
+#P=1' 1 A(1-trn
+#M=1' bend50 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
+#M=1 $DIM1
 i0.8 .05 dim
 =2  1 bend50 F
 =2 $CRE1
 i0.8 .05 cresc
-=3 1 blank
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
 =6 1 C)2(2
 =6 $DIM1
 i0.1 .15 dim
 |
-=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
-=1 $CRE1
+#P=1' 1 A)1(1-tr
+#M=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
+#M=1 $CRE1
 i0.8 .05 cresc
 =2  1 F
 =2 $DIM1
 i0.8 .05 dim
-=3 1 blank
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
 =6 1 C)2(2
 =6 $CRE1
 i0.1 .15 cresc
-/
-2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
-=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
+#P=1' 1 A)1-tr
+#M=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
 #=3  16-s [eb f eb f] [eb f eb f] [eb f eb f] [eb f eb f]
-=3  16-s [eb f eb f] [eb f eb f] [eb f eb f] \
- leg115 vol75 bend50 cc11=100 16 [gb f gb f]
-=3 $CRE1
+=2 2 blank 1 rest
+#M=3  16-s [eb f eb f] [eb f eb f] [eb f eb f] leg115 vol75 bend50 cc11=100 16 [gb f gb f]
+#M=3 $CRE1
+=3  2. eb-tr leg115 vol75 bend50 cc11=100 16 [gb f gb f]
 i0.8 .05 cresc
-=3 1 blank
-=4' cha4 leg115 vol75 bend50 cc11=100 2. blank 16 [e d# e d#]
+=4, cha4 leg115 vol75 bend50 cc11=100 2 rest 4 rest 16 [e d# e d#]
+=5 2 blank 1 rest
 =6 1 C)2
 =6 $DIM1
 i0.1 .15 dim
-#|
-#=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
-#=1 $DIM1
-#i0.8 .05 dim
-#=2 1 blank
-#=3  16-s [eb f eb f] [eb f eb f] [eb f eb f] [eb f eb f]
-#=3 $DIM1
-#i0.8 .05 dim
-#=4 1 blank
-#=6 1 C)2
-#=6 $CRE1
-#i0.1 .15 cresc
 
-
-3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
- /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
 
 # What is there, then that contrasts with Seet, but starts the same ?
 # with leaps ---_--__-___-__--_---_-- ? with trills ?
@@ -968,13 +975,10 @@ i0.1 .15 dim
 # why not? it would have to commit to a chord, but it does already, so why not?
 # | 16/4 4' 2 4' 1, 2' 2, 1' | 4, 2 4, 1' 2, 2' 1, | 4' 2 4' 1, 2' 2, 1' |
 
-title 20150125 ; like 20150124 but with counter-moving seethe
-pagenum
-innerhead Peter Billam
-leftfoot (c) 2014 Peter J Billam
+#title 20150125 ; like 20150124 but with counter-moving seethe
 
 /
-3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 | 1.778
 =1  treble   cha10 leg99 vol110 bend50 cc11=100
 #i0.3 .55 pizz , glissando
@@ -1007,6 +1011,7 @@ i0.7 .07 pizz  .   .   .
 =6 2 blank cha6 cc11=100 vol90 1 rest
 i0.1 .87 arco  .   .   .
 |
+il0.6 .29 70
 =1 16 [c~ d~b c~ b] 4 rest 16 [c~ b c~ b] [a# b a# an]
 =2 16 [a# b a# an] 4 rest 16 [bb a bb a] [g# a g# gn]
 i0.2 .80 pizz  .   .   .
@@ -1016,8 +1021,15 @@ i0.2 .80 pizz  .   .   .
 =5 cha5 vol75 4 rest 16 [Bb A Bb A] 2 rest
 i0.5 .02 arco  .   .   .
 =6 4 rest 16 [Ab G Ab G] 2 rest
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
 /
-3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 2 rest 16 [bb a bb a] 4 rest
 i0.2 .85 pizz . .
@@ -1038,6 +1050,8 @@ i0.8 .40 arco  .  .  .
 i0.8 .40 arco  .  .  .
 =5 16 [F# G F# Fn] [Gb F Gb F] [E F E D#] 4 rest
 =6 16 [E F E D#] [E D# E D#] [Dn Eb D C#] 4 rest
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 4 f~#)1 2. rest vol75 
 #=2 4 rest rest 4 rest 8 [eb d]
@@ -1046,8 +1060,6 @@ i0.8 .40 arco  .  .  .
 =4 16 [d c# d eb] 2. rest
 =5 4 rest 16 [E F E F] [Gb F Gb Gn] [F# G F# G]
 =6 4 rest 16 [D Eb D Eb] [En Eb En F] [E F E F]
-/
-3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 4 rest 16 [g# a g# a] 2 rest
 i0.2 .02 arco . . .
@@ -1058,7 +1070,10 @@ i0.8 .04 pizz  .  .  .
 =4 2 blank 1 rest
 =5 16 [Ab G Ab An] 4 rest 16 [G# A G# A] [Bb A Bb Bn]
 =6 16 [F# Fn F# G] 4 rest 16 [F# G F# G] [G# Gn G# A]
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
+il0.9 .02 75
 =1 16 [g# a g# a] [bb a bb bn] 4 rest 16 [a# bn a# b]
 =2 16 [f# g f# g] [ab g ab an] 4 rest 16 [g# a g# a]
 =3 cha3 vol75 2 blank 1 rest
@@ -1077,47 +1092,39 @@ i0.8 .34 arco  .  .  .
 i0.8 .34 arco  .  .  .
 #=5 cha8 vol115 8 [B Bb] 4 rest 2 rest
 =5 cha8 vol115 4 rest 8 [e d#] 2 rest
-=6 2 rest vol90 4 rest D
-
+=6 2 rest vol90 4 rest D(2
 
 
 3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-
-title 20150129 ; a fractal to lead into 'end of'
 pagenum
 innerhead Peter Billam
 leftfoot (c) 2014 Peter J Billam
 
+
 /
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+3 bars | 48 | 20 | 7 7 12 7 |
 | 1.778
 =1 cha1 vol+3 16 [eb d eb d] [d# en d# vol+3 16 e] [f e f e] vol+3 [f e f f#]
 =2 vol+3 16 [B c B c] [B c B vol+3 16 c] [B c c# cn] vol+3 [c# d c# d]
 =3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn bb] vol+3 [b c~ b c~]
 =4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
 =5 2 blank 1 rest
-Il0.5  Something in here !
-=6 2 blank 1 rest
+i0.2 .73 pizz  .   .   .
+=6 4 D)2 2. rest
 |
 =1 vol127 1 g-dim40
 i0.7 .25 dim  .   .   .
-##P=2 vol127 1 eb{2-dim40 32-s d}2
 =2 vol127 1 eb-dim40
-##M=2 bend50 32 blank bend-3 blank bend-3 blank bend-3 blank bend-3 \
-## blank bend-3 blank bend-3 blank bend-3 blank bend-3
 i0.7 .25 dim  .   .   .
 =3 2 blank 1 rest
 i0.1 .25 dim  .   .   .
 =4 vol127 1 a-dim40
 =5 2 blank 1 rest
-Il0.5  is this enough in here ?
 =6 cha8 vol110 2 eb rest
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
 =1  cha1 leg99  vol80  bend50 cc11=99
+#I0.5 .01 20150129 ; a limping fractal, originally to lead into 'end of'
 =2  cha2 leg99  vol80  bend50 cc11=99
 =3  cha3 leg110 vol99  bend50 cc11=99
 =4' cha4 leg110 vol99  bend50 cc11=99
@@ -1129,15 +1136,16 @@ I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
 =4  4 rest 16 [Bb A Bb A] 4 rest 16 [A Bb A Bb]
 =5 1 d
 =6 cha8 vol110 2 d rest
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
+il0.6 .11 80
 =1 8 g rest rest f# rest g 4 rest
 =2 2 rest E
 =3' 2 rest 16 [B c  B  c] 4 rest
 =4  2 rest 16 [A Bb A Bb] 4 rest
 =5 2 blank 1 rest
 =6 cha6 vol80 2 blank 1 rest
-/
-3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 2 blank 1 rest
 =2 8 G rest F# rest cha8 bend50 cc11=99 rest F# rest G
@@ -1152,6 +1160,8 @@ I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
 =4  4 rest 16 [Bb A Bb A] 4 rest rest
 =5 2 blank 1 rest
 =6 2 blank 1 rest
+/
+3 bars | 12 8 12 8 | 48 | 32 |
 |
 #=1 2 e rest
 =1 2 blank 1 rest
@@ -1161,68 +1171,86 @@ I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
 =4  vol-5 16 [Bb A Bb A] 4 rest 16 [A Bb A Bb] 4 rest
 =5 2 blank 1 rest
 =6 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+#Il0.5 .05 enough ?  catchy enough ?
+=3 16 leg130 [c db c db] [dn eb d eb] [en f e f] [f# g f# g]
+=4 16 leg130 [A# B A# B] [c db c db] [dn eb d eb] [en f e f]
+=5 2 blank 1 rest tenor
+=6 2 blank 1 rest
 
+| 1.778
+#I1.3 .05 <B_b D E>
+il0.6 .11 85
+i0.7 .40 pizz .  .  .
+=1  cha8 leg99  vol99  bend50
+#i0.5 .01 chord-sequence from 042 see AP.14
+=2  cha2 leg99  vol80  bend50
+=3  cha3 leg130 vol80  bend50
+=4' cha4 leg99  vol80  bend50
+=5' cha5 leg130 vol80  bend50
+=6' cha8 leg99  vol99  bend50
+i0.2  pizz  .   .   .
+=1  4 bb rest rest bb
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+#M=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+#P=3, 2. g#{2-tr a}2{2-trb
+=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
+#M=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+#P=5, 2 f#{2-tr f#}2{2-tr
+=6 4 Bb 8 rest' d~ rest' d~ 4 d~
 
-3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+3 systems 5/17-20-17 25 17-20-17 34 17-20-17 \
  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-
-title 20150202 ; the Rhythm with chords and trills, take 2
 pagenum
 innerhead Peter Billam
 leftfoot (c) 2014 Peter J Billam
 
 /
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
-| 1.778
-I0.9 .05 <B_b D E>
-i0.7 .40 pizz .  .  .
-=1  treble cha8 leg99  vol99  bend50
-i0.5 .01 chord-sequence from 042 see AP.14
-=2  treble cha2 leg99  vol80  bend50
-=3  alto   cha3 leg130 vol80  bend50
-=4' alto   cha4 leg99  vol80  bend50
-=5' tenor  cha5 leg130 vol80  bend50
-=6' bass   cha8 leg99  vol99  bend50
-i0.2  pizz  .   .   .
-=1  4 bb rest rest bb
-=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
-#=3, 16-s [c db c db c] [db c db c db] [c db c db c] [db c db c db]
-=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
-=4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
-=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
-=6 4 Bb 8 rest' d~ rest' d~ 4 d~
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+       | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+       | 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 5 |
 |
 =1  4 rest bb bb rest
-i0.5 .01 leaps allow the Seethe to cross through; they interact.
+#i0.5 .01 leaps allow the Seethe to cross through; they interact.
 =2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
-=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
-i0.1 .03 this loss of MT-phase actually works really well
+#M=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+#P=3, 2 a}2{2-trb a#}2-trn
+#i0.1 .03 this loss of MT-phase actually works really well
 =4, 8 [<Bb e> rest rest <Bb e>] rest [<Bb e> <Bb e>] rest
-=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+#M=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+#P=5, 2. g}2{2-trb 4 g#}2-trn
 =6 8 rest' [d~ d~] rest' 4 Bb 8 rest' d~
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .05 <Bb c# f>
+#I0.9 .05 <Bb c# f>
 =1  4 rest bb bb rest
-i0.5 .01 and the Seethe doesn't have to be comtinuous . . .
+#i0.5 .01 and the Seethe doesn't have to be comtinuous . . .
 =2  8 <c# f> rest 4 rest 4 rest 8 <c# f> rest
 =3 1 blank
 =4, 8 rest [<c# f> <c# f>] rest [<c# f> rest rest <c# f>]
 =5, 1 blank
 =6 8 rest' [c~# c~#] rest' 4 Bb 8 rest' c~#
 |
-I0.9 .05 <Bb d f#>
-=1  4 bb rest rest bb
+=1 cha1 vol+3 16 [gb f gb f] [f# gn f# vol+3 16 g] [ab g ab g] vol+3 [ab g g# an]
+=2 vol+3 16 [d eb d eb] [d eb d vol+3 16 eb] [d d# e d#] vol+3 [e f e f]
+=3 vol+3 16 [c~ d~b c~ d~b] [c~ d~b c~ vol+3 16 d~b] [c~ c~# d~n c~#] vol+3 [c~# d~# c~# d~#]
+=4 vol+3 16 [ab g ab g] [g# an g# vol+3 16 a] [bb a bb a] vol+3 [bb a bb bn]
+=5 2 blank 1 rest
+=6 2 blank 1 rest
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+#I0.9 .05 <Bb d f#>
+=1  4 bb rest cha8 rest bb
 =2  4 rest 8 <d f#> rest 8 <d f#> rest 4 rest
 =3 1 blank
 =4, 8 rest [<A# f#> <A# f#>] rest [<A# f#> rest rest <A# f#>]
 =5, 1 blank
 =6 4 Bb 8 rest' d~ rest' d~ 4 d~
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .03 <Bb e g> .51 <Bb e g#>
+il0.5 .07 90
+#I1.2 .03 <Bb e g> .51 <Bb e g#>
 =1  4 rest bb bb rest
 =2  8 <e g> rest 4 rest 4 rest 8 <e g#> rest
 =3 1 blank
@@ -1230,74 +1258,94 @@ I0.9 .03 <Bb e g> .51 <Bb e g#>
 =5, 1 blank
 =6 8 rest' [bb bb] rest' 4 Bb 8 rest' bb
 |
-I0.9 .51 <Bb e bb>
+#I0.9 .51 <Bb e bb>
 =1  4 bb rest rest bb
 =2  4 rest 8 <e g#> rest 8 <e bb> rest 4 rest
-=3, 16-s [f# g f# g f#] [g f# g f# g] [g# a g# a g#] [a bb a bb a]
+#M=3, 16-s [ab g ab g ab] [g ab g ab g] [f# g f# g f#] [g f# g f# g]
+#P=3, 2 g{2-trb f#}2{2-tr
 =4, 8 rest [<Bb ab> <Bb ab>] rest [<e bb> rest rest <e bb>]
-=5, 16-s [e f e f] [e f e f] [e f e f] [f# g f# g]
+#M=5, 16-s [e f e f] [e f e f] [e f e f] [e d# e d#]
+#P=5, 2. e{2-tr 4 d#}2{2-tr
 =6 4 Bb 8 rest' bb rest' bb 4 bb
 
-3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
- /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-
 /
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 \
+       | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 \
+       | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .05 <Bb F# c>
+#I0.9 .05 <Bb F# c>
 =1  4 bb rest rest bb
 =2  4 rest 8 <f# c> rest 8 <f# c> rest 4 rest
-=3, 16-s [bb a bb a bb] [a bb a bb a] [bb a bb a bb] [a g# a g# a]
+#M=3, 16-s [f# fn f# fn f#] [fn e f e f] [e eb en eb en] [eb d eb d eb]
+#P=3, 4 f}2{2-trb e}2{2-trn 2 d#}2-tr
 =4, 8 [<gbl bb> rest' rest' <gbl bb>] rest [<gbl bb> <gbl bb>] rest
-=5, 16-s [ab g ab g] [ab g ab g] [f# g f# g] [f# g f# g]
+#M=5, 16-s [e eb en eb] [d eb d eb] [d c# d c#] [cn B c B]
+#P=5, 4 d#}2{2-tr dn}2{2-trb c#}2{2-tr B}2-trn
 =6 4 Bb 8 rest' c~ rest' c~ 4 c~
 |
 =1  4 rest bb bb rest
 =2  8 <f# c> rest 4 rest 4 rest 8 <f# c> rest
 =3 2 blank 1 rest
-=4, 8 [<gbl bb> rest' rest' <gbl bb>] rest [<gbl bb> <gbl bb>] rest
+=4, 8 [<gblr bb> rest' rest' <gbl bb>] rest [<gbl bb> <gbl bb>] rest
 =5 2 blank 1 rest
 =6 8 rest' [c~ c~] rest' 4 Bb 8 rest' c~
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+
+
 |
-I0.9 .05 <F# Bb c>
+#I0.9 .05 <F# Bb c>
 =1  4 rest bb bb rest
 =2  8 <c f#> rest 4 rest 4 rest 8 <c f#> rest
-=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
-=4, 8 rest [<gb Bbl> <gb Bbl>] rest [<gb Bbl> rest' rest' <gb Bbl>]
-=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+#M=3, 16-s [f gb f gb gn] [ab g ab g ab] [an g# a g# a] [a# b a# b c~]
+#P=3, 4 f{2-trb g}2{2-trb g#}2{2-tr a#}2{2-tr
+#M=4, leg130 16-s [d eb d eb] [en f e f] [f# g f# g] [g# a g# a]
+#P=4, 4 d{2-trb en}2{2-tr f#}2{2-tr g#}2{2-tr
+=5, leg99 8 rest [<gb Bbl> <gb Bbl>] rest [<gb Bbl> rest' rest' <gb Bbl>]
 =6 8 rest' [c~ c~] rest' 4 F# 8 rest' c~
+
+3 systems /17-18-17 30 17-27-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 18 17-18-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 \
+       | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 \
+       | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
+il0.7 .12 95
 =1  4 bb rest rest bb
 =2  4 rest 8 <c f#> rest 8 <c f#> rest 4 rest
-=3 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
-=4, 8 rest [<gb Bbl> <gb Bbl>] rest [<gb Bbl> rest' rest' <gb Bbl>]
-=5  16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+#M=3 16-s [d~b c~ d~b c~ d~b] [d~n e~b d~ e~b e~n] [f~ e~ f~ e~ f~] [f~# g~ f~# g~ g~#]
+#P=3 4 c~}2{2-trb d~}2{2-trb e~n}2{2-tr f~#}2-tr
+#M=4 16-s [bb bn bb bn] [c~ c~# c~n c~#] [d~ e~b d~ e~b] [e~n f~ e~ f~]
+#P=4 4 a#}2{2-tr c~}2{2-trb d~n}2{2-trb e~n}2-tr
+=5, 8 rest [<gb Bbl> <gb Bbl>] rest [<gb Bbl> rest' rest' <gb Bbl>]
 =6 4 F# 8 rest' c~ rest' c~ 4 c~
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .05 <F# A c#>
+#I0.9 .05 <F# A c#>
 =1  4 a rest rest a
 =2  4 rest 8 <c#l f#> rest 8 <c#l f#> rest 4 rest
 =3 2 blank 1 rest
-=4, 8 [<c# a> rest rest <c# a>] rest [<c# a> <c# a>] rest
-=5 2 blank 1 rest
+=5, 8 [<c# a> rest rest <c# a>] rest [<c# a> <c# a>] rest
+=4 2 blank 1 rest
 =6 4 F# 8 rest' c~# rest' c~# 4 c~#
 |
-I0.9 .05 <F# Bb d>
-=1  4 rest a a rest
+#I0.9 .05 <F# Bb d>
+=1  4 rest bb bb rest
 =2  8 <d f#> rest 4 rest 4 rest 8 <d f#> rest
-=3, 2 rest 165-s [g# a g# a g#] [a bb a bb a]
-=4, 8 [<d bb> rest rest <d bb>] rest [<d bb> <d bb>] rest
-=5, 2 rest 16-s [f# g f# g] [f# g f# g]
+#M=3, 4 rest rest 165-s [e f e f e] [eb d eb d eb]
+#P=3, 4 rest rest e{2-tr d#}2-tr
+=5, 8 [<d bb> rest rest <d bb>] rest [<d bb> <d bb>] rest
+#M=4, 4 rest rest 16-s [d c# d c#] [cn B c B]
+#P=4, 4 rest rest c#{2-tr B}2-tr
 =6 8 rest' [d~ d~] rest' 4 F# 8 rest' d~
 
 /
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+3 bars | 5 5 5 5 6 7.5 6 6 5 5 5 5 7.5 6 7.5 5 \
+       | 5 5 5 5 5 5 5 5 7.5 6 7.5 6 5 5 5 4 \
+       | 6 7.5 6 6 5 5 5 5 5 5 5 5 7.5 6 7.5 5 |
 |
-I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
+#I0.6 .01 20150129; recap of a limping fractal, originally to lead into 'end of'
 =1  leg99  vol80  bend50 cc11=99
 =2  leg99  vol80  bend50 cc11=99
 =3  leg110 vol99  bend50 cc11=99
@@ -1317,15 +1365,18 @@ I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
 =4  2 rest 16 [A Bb A Bb] 4 rest
 =5 2 blank 1 rest
 =6 cha6 vol80 2 blank 1 rest
-/
-3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
+il0.7 .04 100
 =1 2 blank 1 rest
 =2 8 G rest F# rest cha8 bend50 cc11=99 rest F# rest G
 =3' vol-5 16 [c B  c  B] 4 rest 4 rest 16 [B c  B  c]
 =4  vol-5 16 [Bb A Bb A] 4 rest 4 rest 16 [A Bb A Bb]
 =5 vol80 1 d
 =6 2 blank 1 rest
+/
+3 bars | 5 4 5 4 6 7.5 6 6 5 4 5 4 5 4 5 4 \
+       | 6 7.5 6 6 5 5 5 5 7.5 6 7.5 6 5 4 5 4 \
+       | 7.5 7.5 7.5 6 6 7.5 6 6 6 7.5 6 7.5 6 7.5 7.5 4 |
 |
 =1 2 f rest
 =2  cha8 4 rest 8 G rest F# rest rest G
@@ -1334,142 +1385,205 @@ I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
 =5 2 blank 1 rest
 =6 2 blank 1 rest
 |
-#=1 2 e rest
 =1 2 blank 1 rest
-#=2 8 rest F# 4 rest 8 F# rest G rest
 =2 8 rest F# 4 rest 2 rest
 =3' vol-5 16 [c  B c  B] 4 rest 16 [B c  B  c] 4 rest
 =4  vol-5 16 [Bb A Bb A] 4 rest 16 [A Bb A Bb] 4 rest
 =5 2 blank 1 rest
+#Il0.5 .50 XXX 70-72 in here
 =6 2 blank 1 rest
 
-3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
- /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+|
+#i0.6 .29 (from 70)
+=1 cha1 16 [c~ d~b c~ b] 4 rest 16 [c~ b c~ b] [a# b a# an]
+=2 cha2 16 [a# b a# an] 4 rest 16 [bb a bb a] [g# a g# gn]
+i0.2 .80 pizz  .   .   .
+=3 2 blank 1 rest
+=4 4 rest 16 [Ab G Ab G] 2 rest
+i0.5 .02 arco  .   .   .
+=5 cha5 vol75 4 rest 16 [Bb A Bb A] 2 rest
+=6 cha8 vol125 4 rest 8 [C Db] 8 [A G#] 4 rest
 
+3 systems / 17-18-17 20 17-20-17 30 17-20-17 \
+ / 17-18-17 20 17-20-17 20 17-20-17 \
+ / 17-18-17 25 17-20-17 30 17-20-17 /
+pagenum
 /
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+3 bars | 6 8 6 8  6 8 8 6  6 8 6 6  6 8 6 4 \
+       | 6 8 8 8  8 8 8 8  8 6 8 6  5 5 5 4 \
+       | 6 5 6 5  6 6 6 6  6 6 6 6  5 5 5 4 |
+
 |
-I0.9 .03 <F# C D#> .51 <F# C E>
-=1  cha8 4 f# rest rest f#
-=2  4 rest 8 <d f#> rest 8 <d f#> rest 4 rest
-=3, 165-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
-=4, 8 [<c f#> rest rest <c f#>] rest [<c f#> <c f#>] rest
-=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
-=6 cha8 4 F# 8 rest' d~# rest' e~ 4 e~
+=1 2 rest 16 [bb a bb a] 4 rest
+i0.2 .85 pizz . .
+=2 2 rest 16 [ab g ab g] 4 rest
+=3 cha8 vol125 8 [c# d] 4 rest 4 rest 8 [f e]
+=6 cha4 vol75 2 blank 1 rest
+=5' 16 [Bb A Bb A] [G# A G# Gn] 4 rest 16 [Ab G Ab G]
+=4 16 [Ab G Ab G] [F# G F# Fn] 4 rest 16 [Gb F Gb F]
 |
-I0.9 .51 <F# C f#>
+il0.7 .04 105
+I0.4 .60 f
+=1 2. vol120 rest 4 f#(1
+=2' cha8 vol125 8 [A# B] 4 rest 2 rest
+=3 cha3 vol75 2 blank 1 rest
+=4 16 [E F E D#] [E D# E D#] [Dn Eb D Db] 8 C blank
+i0.8 .40 arco  .  .  .
+=5 16 [F# G F# Fn] [Gb F Gb F] [E F 8 E] D# rest
+i0.8 .40 arco  .  .  .
+
+
+|
+#I0.9 .03 <F# C D#> .51 <F# C E>
+=1  4 f#)1 rest cha8 vol80 rest f#
+=2  vol80 4 rest 8 <d f#> rest 8 <d f#> rest 4 rest
+#M=3, vol99 165-s [f# g f# g g#] [a g# a g# a] [a# bn a# b a#] [b c~ b c~ b]
+#P=3, vol99 4 f#{2-tr g#}2{2-tr a#}2{2-tr b}2-tr
+#Il0.5 .03 XXX steeper up !
+=4, vol99 8 [<c f#> rest rest <c f#>] rest [<c f#> <c f#>] rest
+#M=5, vol90 16-s [d# e d# e] [f gb f gb] [gn ab g ab] [an g# a g#]
+#P=5, vol90 4 d#{2-tr f}2{2-trb gn}2{2-trb g#}2-trn
+=6 cha8 vol90 4 F# 8 rest' d~# rest' e~ 4 e~
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+#I0.9 .51 <F# C f#>
 =1  4 rest f# f# rest
 =2  8 <c f#> rest 4 rest 4 rest 8 <c f#> rest
 =3 2 blank 1 rest
 =4, 8 [<c f#> rest rest <c f#>] rest [<c f#> <c f#>] rest
 =5 2 blank 1 rest
 =6 8 rest' [c~ c~] rest' 4 F# 8 rest' c~
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+
 |
-I0.9 .05 <F# d g#>
+#I0.9 .05 <F# d g#>
 =1  4 rest g# g# rest
 =2,  8 <d f#> rest 4 rest 4 rest 8 <d f#> rest
-=3, 165-s [e f e f e] [f gb f gb f] [gb f gb f gb] [f gb f gb f]
+#Il0.5 .03 XXX no . . .  down !
+#M=3, 165-s [f# g f# g f#] [g f# g f# g] [gb fn gb f gb] [f gb f gb f]
+#P=3, 2 f#{2-tr fn}2{2-trb
 =4' 8 rest [<G# f#> <G# f#>] rest [<G# f#> rest rest <G# f#>]
-=5, 16-s [d eb d eb] [d eb d d#] [e d# e d#] [e d# e d#]
+#M=5, 16-s [e f e f] [e d# e d#] [e d# e d#] [e d# e d#]
+#P=5, 4 e{2-tr 2. d#}2{2-tr
 =6 8 rest' [d~ d~] rest' 4 F# 8 rest' d~
 |
 =1  4 g# rest rest g#
 =2, 4 rest 8 <d f#> rest 8 <d f#> rest 4 rest
-=3 165-s [f# g f# g f#] [g f# g f# g] 2 rest
+#M=3 165-s [f gb f gb f] [e f e f e] 2 rest
+#P=3 4 fn}2{2-trb e}2-tr 4 rest rest
 =4' 8 rest [<G# f#> <G# f#>] rest [<G# f#> rest rest <G# f#>]
-=5, 16-s [e d# e d#] [e f e f] 2 rest
+#M=5, 16-s [d eb d eb] [d c# d c#] 2 rest
+#P=5, 4 dn}2{2-trb c#}2-tr 4 rest rest
 =6 4 F# 8 rest' d~ rest' d~ 4 d~
 /
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .05 <D F# G#>
+il0.7 .04 110
+#I0.9 .15 <D F# G#>
 =1  4 rest g# g# rest
 =2, 8 <d f#> rest 4 rest 4 rest 8 <d f#> rest
-=3 16-s [d~b c~ d~b c~ d~b] [c~ d~b c~ d~b c~] [c~# d~n c~# d~ c~#] [d~ c~# d~ c~# d~]
+#M=3 16-s [d~b c~ d~b c~ d~b] [c~ d~b c~ d~b c~] [c~# d~n c~# d~ c~#] [d~ c~# d~ c~# d~]
+#P=3 2 c~{2-trb c~#}2-trn
 =4, 8 rest [<d g#> <d g#>] rest [<d g#> rest' rest' <d g#>]
-=5, 16-s [b a# b a#] [b a# b a#] [b a# b a#] [b c~ b c~]
+#M=5, 16-s [b a# b a#] [b a# b a#] [b a# b a#] [b c~ b c~]
+#P=5, 2. a#{2-tr 4 b}2-tr
 =6 8 rest' [d~ d~] rest' 4 D 8 rest' d~
 |
 =1  4 g# rest rest g#
 =2, 4 rest 8 <d f#> rest 8 <d f#> rest 4 rest
-=3, 2 rest 165-s [bn bb bn bb bn] [bb a bb a g#]
+#M=3, 2 rest 165-s [b a# b a# b] [bb an bb a g#]
+#P=3, 4 rest rest 4 a#{2-tr 8 [an}2{2-trb g#}2{2-tr]
 =4, 8 rest [<d g#> <d g#>] rest [<d g#> rest' rest' <d g#>]
-=5, 2 rest 16-s [an ab an ab] [g f# g f#]
+#M=5, 2 rest 16-s [a g# a g#] [gn f# g f#]
+#P=5, 4 rest rest 4 g#{2-tr f#}2{2-trn
 =6 4 D 8 rest' d~ rest' d~ 4 d~
 
-3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
- /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .05 <D F A>
+#I0.9 .05 <D F A>
 =1  4 a rest rest a
 =2, 4 rest 8 <d f> rest 8 <d f> rest 4 rest
-=3, 165-s [a g# a g# a] [g# a g# gn ab] 2 rest
+#M=3, 165-s [a g# a g# a] [g# a g# gn ab] 2 rest
+#P=3, 4. g#}2{2-tr 8 gn}2-trb 4 rest rest
 =4, 8 [<f a> rest' rest' <f a>] rest [<f a> <f a>] rest
-=5, 16-s [g f# g f#] [g f# fn gb] 2 rest
+#M=5, 16-s [g f# g f#] [g f# fn gb] 2 rest
+#P=5, 4. f#}2{2-tr 8 fn}2-trb 4 rest rest
 =6 4 D 8 rest' d~ rest' d~ 4 d~
+
+3 systems /17-20-17 25 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-25-17 20 17-20-17 \
+ /17-21-17 18 17-18-17 18 17-18-17 /
+pagenum
+
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 8 8 8 8 8 8 8 8 8 8 8 7 8 8 8 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
 |
-I0.9 .05 <D F# Bb>
+#I0.9 .05 <D F# Bb>
 =1  4 rest bb bb rest
 =2, 8 <d f#> rest 4 rest 4 rest 8 <d f#> rest
-=3, 16-s [d~b c~ d~b c~ d~b] [c~ d~b c~ d~b c~] [c~# d~n c~# d~ c~#] [d~ c~# d~ c~# d~]
-=4, 8 [<f# bb> rest' rest' <f# bb>] rest [<f# bb> <f# bb>] rest
-=5, 16-s [b bb bn bb] [bn bb bn bb] [bn bb bn bb] [bn c~ b c~]
+#M=3, 16-s [d~b c~ d~b c~ d~b] [c~ d~b c~ d~b c~] [c~# d~n c~# d~ c~#] [d~ c~# d~ c~# d~]
+#P=3, 2 c~{2-trb c~#}2-tr
+=4, 8 [<gbrl bb> rest' rest' <gbl bb>] rest [<gbl bb> <gbl bb>] rest
+#M=5, 16-s [b a# b a#] [b a# b a#] [bn a# b a#] [b c~ b c~]
+#P=5, 2. a#{2-tr 4 b}2-tr
 =6 8 rest' [d~ d~] rest' 4 D 8 rest' d~
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .05 <D G# B> .51 <D G# c>
-=1  4 b rest rest c~
-=2, 4 rest 8 <d g#> rest 8 <d g#> rest 4 rest
-=3, 2 rest 165-s [ab g ab g ab] [g ab g ab g]
+=1 cha1 vol+3 16 [g f# g f#] [g ab g vol+3 16 ab] [an g# a g#] vol+3 [a g# a bb]
+=2 cha2 vol+3 16 [d# e d# e] [d# e d# vol+3 16 e] [d# e f e] vol+3 [f gb f gb]
+=3 vol+3 16 [c~# d~ c~# d~] [c~# d~ c~# vol+3 16 d~] [c~# d~ e~b d~] vol+3 [d~# e~n d~# e~]
+=4 vol+3 16 [a g# a g#] [a bb a vol+3 16 bb] [bn a# b a#] vol+3 [b a# b c~]
+=5 2 blank 1 rest
+=6 2 blank 1 rest
+i0.1 .81 pizz .  .  .
+|
+il0.7 .12 115
+i0.3 .41 pizz . . .
+=1  4 b rest cha8 rest c~
+i0.1 .01 pizz . . .
+=2, cha8 4 rest 8 <d g#> rest 8 <d g#> rest 4 rest
+#M=3, 2 rest 165-s [ab g ab g ab] [g ab g ab g]
+#P=3, 2 rest 2 g{2-trb
 =4, 8 [<g# b> rest' rest' <g# b>] rest [<g# c~> <g# c~>] rest
-=5, 2 rest 16-s [gb f gb f] [e f e f]
+#M=5, 2 rest 16-s [gb f gb f] [e f e f]
+#P=5, 2 rest 4 f{2-trb e}2{2-tr
 =6 4 D 8 rest' d~ rest' d~ 4 d~
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .51 <D G# d>
+#I0.9 .51 <D G# d>
 =1  4 rest c~ d~ rest
 =2, 8 <d f#> rest 4 rest 4 rest 8 <d f#> rest
-=3, 165-s [g# a g# a ab] [gn f# g f# g] 2 rest
-=4, 8 [<g# c~b> rest' rest' <g# c~>] rest [<g# d~> <g# d~>] rest
-=5, 16-s [e f e f] [e d# e d#] 2 rest
+#M=3, 165-s [g# a g# a ab] [gn f# g f# g] 2 rest
+#P=3, 4 g#}2{2-tr f#}2-tr 2 rest
+=4, 8 [<g# c~> rest' rest' <g# c~>] rest [<g# d~> <g# d~>] rest
+#M=5, 16-s [e f e f] [e d# e d#] 2 rest
+#P=5, 4 e}2{2-tr d#}2-tr 2 rest
 =6 8 rest' [d~ d~] rest' 4 D 8 rest' d~
-/
-2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-I0.9 .05 <D Bb e>
+#I0.9 .05 <D Bb e>
 =1  4 rest d~ d~ rest
-=2' cha2 leg130 vol90 16-s [G F# G F# G] [G# A G# A G# A] [Bb A Bb A Bb] [B A# B A# B]
+#M=2' cha2 leg130 vol90 16-s [G F# G F# G] [G# A G# A G# A] [Bb A Bb A Bb] [B A# B A# B]
+#P=2 4 F#{2-tr G#}2{2-tr A}2{2-trb A#}2{2-tr
 =3, cha3 leg99 8 <d~ bb> rest 4 rest 4 rest 8 <d~ bb> rest
-=4, cha4 leg130 vol90 16-s [e f e f] [gb f gb f] [f# gn f# g] [g# a g# a]
-=5, cha8 leg99 vol75 8 rest [<a# e~> <a# e~>] rest [<a# e~> rest' rest' <a# e~>]
+#M=4, cha4 leg130 vol90 16-s [e f e f] [gb f gb f] [f# gn f# g] [g# a g# a]
+#P=4, 4 e{2-tr f}2{2-trb f#}2{2-tr g#}2{2-tr
+=5, cha8 leg99 vol75 8 rest [<a# e> <a# e>] rest [<a# e> rest' rest' <a# e>]
 =6 8 rest' [d~ d~] rest' 4 D 8 rest' d~
 |
-#=1  4 d~ rest rest d~
-#=2, vol95 16-s [c db c db c] [c# dn eb d eb] vol100 [en f e f e] [f f# g f# g]
-#=3, 4 rest 8 <d~ bb> rest 8 <d~ bb> rest 4 rest
-#=4, vol100 16-s [a# b a# b] [c~ d~b c~ d~b] vol105 [c~# d~n c~ d~] [d~# e~ d~# e~]
-#=5, 8 rest [<a# e~> <a# e~>] rest [<a# e~> rest' rest' <a# e~>]
-#=6 4 D 8 rest' d~ rest' d~ 4 d~
 I0.4 .42 f
+i0.2 .81 arco . . .
 =1  4 d~ rest vol125 d~ rest
-=2, vol95 165-s [c db c db c] [c# dn eb d eb] vol100 8 en 4. rest
+#M=2, vol95 165-s [c db c db c] [c# dn eb d eb] vol100 8 en 4. rest
+#P=2, 4 c}2{2-trb dn}2-trb 8 en-emph 4. rest
 =3, 4 rest 8 <d~ bb> rest 8 <d~ bb> rest 4 rest
-=4, vol100 16-s [a# b a# b] [c~ d~b c~ d~b] vol105 8 d~n 4. rest
+#M=4, vol100 16-s [a# b a# b] [c~ d~b c~ d~b] vol105 8 d~n 4. rest
+#P=4, 4 a#}2{2-tr c~}2-trb 8 d~n-emph 4. rest
 I0.2 .42 f
-=5, 8 rest [<a# e~> <a# e~>] rest vol125 a# rest 4 rest
+=5, 8 rest [<a# e> <a# e>] rest vol125 a# rest 4 rest bass
 =6 4 D 8 rest' d~ vol125 4 d~ rest
 I0.4 .47 f
-
-3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-title end of mvt2 ; 20150104 rebarred
-pagenum
-innerhead Peter Billam
-leftfoot (c) 2014 Peter J Billam
+i0.1 .81 arco . . .
 
 $BENDS1 = 8 bend50 blank 64 blank bend+4 blank bend+4 blank bend+4 \
  blank bend+4 blank bend+4 blank bend+4 blank bend+4 blank bend+4 \
@@ -1488,6 +1602,7 @@ $DIM1 = 64 cc11=127 blank cc11=120 blank cc11=110 blank cc11=100 blank cc11=90 \
 /
 2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 | 1.788
+I0.2 .15 p
 =1 treble cha1  leg99 vol70 cc11=100
 =2 treble cha10 leg99 vol95 cc11=100
 =3  alto  cha3  leg99 vol75 cc11=100
@@ -1499,48 +1614,74 @@ i0.3 .05 pizz , sul G , glissando
 #P=2 8 rest 4. G{1 16-s A}1 blank 2 rest
 #M=2 8 rest 4. G 2 rest
 #M=2 $BENDS1 2 blank
+I0.2 .15 p
 =3' bend50 4 rest 16 [B c B c]   [B A# B A#] [B Bb An Bb]
+I0.2 .15 p
 =4  bend50 4 rest 16 [A Bb A Bb] [A G# A G#] [A Ab Gn Ab]
 #P=5 2 A{1 16-s B}1 blank 2 rest
 #M=5 2 A 2 rest
 #M=5 $BENDB1 2 blank
 i0.7 .01 pizz , glissando
 =6 4 rest 2.  d(1
+I0.2 .15 p
 |
+il0.7 .04 120
 =1  1 F)2(2
 =2  cha2 vol70 bend50 2 blank 1 rest cc11=100
 =3' 16 [A Bb A A#] [Bn A# B A#] [B c B c] [B c B A#]
 =4  16 [G Ab G G#] [An G# A G#] [A Bb A Bb] [A Bb A G#]
 =5  cha5 vol70 bend50 2 blank 1 rest cc11=100
 =6 1 d)1(1
+
+3 systems /17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /
+#title end of mvt2 ; 20150104 rebarred
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
 /
 2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 | 1.778
 =1  1 F)2(2
+=2 2 blank 1 rest
 =3' 16 [B A# B A#] [B c B c]   [B c B A#]  [B A# B Bb]
 =4  16 [A G# A G#] [A Bb A Bb] [A Bb A G#] [A G# A Ab]
+=5 2 blank 1 rest
 =6  1 d)1(1
 | 1.778
 =1  1 F)2 83 blank
+=2 2 blank 1 rest
 =3' 16 [A Bb A Bb] [A A# Bn A#] [B A# B c]  [B c B c]
 =4  16 [G Ab G Ab] [G G# An G#] [A G# A Bb] [A Bb A Bb]
+=5 2 blank 1 rest
 =6  1 d)1 83 blank
 /
 2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
 =1 1 F(2
+=2 2 blank 1 rest
 =3 16 [B A# B A#] [B Bb An Bb] [A Bb A G#] [A G# A G#]
 =4 16 [A G# A G#] [A Ab Gn Ab] [G Ab G F#] [G F# G F#]
+=5 2 blank 1 rest
 =6 1 D(1
 | 1.778
 =1  1 F)2(2
+=2 2 blank 1 rest
 =3  16 [A Bb A Bb] [A A# Bn A#] [B A# B c'] [db c db c]
 =4  16 [G Ab G Ab] [G G# An G]  [A G# A A#]  [B A# B A#]
+=5 2 blank 1 rest
 =6  1 D)1(1
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
+il0.7 .04 125
 =1 1 F)2(2
+=2 2 blank 1 rest
 =3' 16 [db c' B c'] [B c' B A#] [B A# B Bb] [An Bb A Bb]
 =4 16 [Bn Bb A Bb]  [A Bb A G#] [A G# A Ab] [Gn Ab G Ab]
+=5 2 blank 1 rest
 =6 1 D)1
 
 | 1.778
@@ -1548,8 +1689,16 @@ i0.7 .01 pizz , glissando
 =2  1 blank
 =3  16 [A G# A G#] [A G# A Bb] [A Bb A Bb] [Bn c' B c']
 =4  16 [G F# G F#] [G F# G Ab] [G Ab G Ab] [An Bb A Bb]
-=5  1 blank
+=5 2 blank 1 rest
 =6  1 d(1
+
+3 systems /17-18-17 20 17-20-17 18 17-20-17 \
+ /17-18-17 20 17-20-17 18 17-20-17 \
+ /17-25-17 20 17-20-17 23 17-25-17 /
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
 /
 2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
 |
@@ -1567,7 +1716,7 @@ i0.8 .25 pizz , glissando
 =6 2. d)1   16 [eb d eb d]
 
 | 1.778
-i0.8 .01 in small quantities only . . . lower ?  higher ? . . . condensing . . .
+#i0.8 .01 in small quantities only ... lower ?  higher ? . . . condensing . . .
 =1  vol70 16 [F E F E]   [F E F E]   [F E F E]    [F E F E]
 =3' vol70 16 [B c B c]   [B c B Bb]  [A B A B]    [A G# A G#]
 =4  vol70 16 [A Bb A G#] [A G# A Ab] [Gn Ab G Ab] [G F# G F#]
@@ -1582,8 +1731,10 @@ i0.8 .01 in small quantities only . . . lower ?  higher ? . . . condensing . . .
 =5 2 blank 1 rest
 =6' 16 [c# d vol+3 c# d] [c# d c# d] [db cn db c] [db c B c]
 |
-i0.8 .01 could do this also with semitone-trills
+il0.7 .04 130
+#i0.8 .01 could do this also with semitone-trills
 =1 vol+3  16 [C# D C# D]  [C# D C# D]  vol+3 [C# D C# D] [C# D Db Cn]
+=2 2 blank 1 rest
 =3 vol+3  16 [A G# A Ab] [Gn Ab G Ab] vol+3 [G F# G F#] [G F# G F#]
 =4 2 blank 1 rest
 =5 vol76  16 [g f# g gb] [fn gb f gb] vol+3 [f e f e] [f e f e]
@@ -1592,6 +1743,7 @@ i0.8 .01 could do this also with semitone-trills
 2 bars | 48 | 48 |
 |
 =1 vol+3 16 [Db C Db C] [B_  C B_ C] [B_  C B_ C] vol+3 [B_ C B_ C]
+=2 2 blank 1 rest
 =3 vol+3 16 [G F# G F#] [G  F# G Gb] [Fn Gb F Gb] vol+3 [F E F E]
 =5 vol+3 16 [f e f e] [f e f e] [d# e d# e] vol+3 [eb dn e d]
 =6 vol+3 16 [B A# B Bb] [An Bb A Bb] [A  Bb A Bb] vol+3 [A Bb A Bb]
@@ -1630,8 +1782,9 @@ $MIDBEND = 64 bend0 blank bend5 blank bend10 blank bend15 blank bend20 blank \
 
 # 8 + 8 + 10 + 10 + 10 st
 /
-2 bars | 48 | 48 |
+3 bars | 4 4 4 4 3 4 3 4 4 3 4 4 4 3 3 3 | 28 | 28 |
 | 1.778
+il0.7 .04 135
 =1 2 blank 1 rest
 =2 2 blank 1 rest
 =3 16 [D# E Eb D] [Db C Db C] Db 8. rest 4 rest
@@ -1651,8 +1804,6 @@ i0.1 .30 glissando  .   .   .
 #M=5 2 B eb
 #M=5 $BIGBEND $BIGBEND
 #P=6 32-s A'}2 2 blank 1 rest
-/
-2 bars | 48 | 48 |
 |
 =1 2 blank 1 rest
 =2 2 blank 1 rest
@@ -1663,7 +1814,10 @@ i0.1 .30 glissando  .   .   .
 #P=6 1 f{2
 #M=6 2 g b 4 d~#
 #M=6 $BIGBEND $BIGBEND $MIDBEND
+/
+4 bars | 48 | 48 | 48 | 48 ||
 |
+I0.8 .90 pp
 =1 2 blank 1 rest
 =2 2 blank 1 rest
 i0.1 .30 glissando  .   .   .
@@ -1673,10 +1827,8 @@ i0.1 .30 glissando  .   .   .
 =4 2 blank 1 rest
 =5 2 blank 1 rest
 #P=6 32-s e~b'}2 2 blank 1 rest
-/
-3 bars | 48 | 48 | 48 ||
 |
-I0.8 pp .93 ff
+I0.8 .93 ff
 i0.8 .40 cresc  .   .   .
 =1 bend50 1 b~(1
 =1 $CRE1
@@ -1692,6 +1844,7 @@ I0.2 .90 ppp
 =6 2 blank 1 rest
 I0.2 .90 ppp
 | 2.8
+il0.7 .15 140
 =1 bend50 1 b~)1(1
 =2 bend50 1 b}2(1
 i0.5 .05 ritardando  .   .   .
@@ -1731,6 +1884,899 @@ i0.6 .20 dim  .    .   . .85 niente
 =6 1 C#)1-fermata
 #M=6 $DIM1
 i0.2 .20 dim  .    .   . .85 niente
+
+midi pause 3.0
+@
+
+
+1.23
+log
+@improved scpacing back to about bar 95
+@
+text
+@d36 2
+a37 1
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+d65 3
+a74 2
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+d82 3
+d100 4
+d105 2
+a106 1
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+d128 3
+a137 6
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+/
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+d146 3
+d402 1
+a402 1
+3 bars | 48 | 48 | 48 |
+d423 4
+d436 5
+a445 16
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+#|
+#r0.6 .01 <D F A> .50 <D F Ab>
+#=1 1 blank
+#|
+#r0.6 .01 <D E G> .50 <C# E G>
+#=1 1 blank
+#|
+#r0.6 .01 <C Eb G> .50 <C Eb Gb>
+#=1 1 blank
+
+/
+5 bars | 48 | 48 | 48 | 48 | 48 |
+d455 2
+a485 2
+/
+3 bars | 48 | 96 | 96 |
+d496 4
+d501 2
+d549 2
+a550 2
+3 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |4 4 4 4 4 4 4 4 4 4 3 3 2 2 2 2 |
+d565 2
+a577 2
+/
+5 bars | 48 |
+d610 2
+a631 9
+#|
+#=1 8  [b rest'' c~ b] rest'' b-. c~-. rest''
+#=2 4  rest d eb rest
+#=3 4. f-. 8 rest 2 rest
+#=4 2 blank 1  rest
+#=5 2 blank 1 rest
+#=6 2 blank 1  rest
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+d643 2
+a651 6
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+d660 2
+a661 5
+#|
+#=1 4 rest 8 [f 16 eb d] [eb c c# Bb] [Bn' G# A B']
+#=2 8 [eb 16 B c] [A Bb' G Ab] [F Gb 8 Eb] 4 rest
+#=3 16 [d~b bb a c~] [bn ab 8 g] 4 rest blank
+#=4 16 [b a# 8 g] 4 rest 2 blank
+a687 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d700 2
+a710 2
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d719 2
+d739 4
+d744 1
+a744 1
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d763 2
+a784 2
+/
+3 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+d893 1
+a893 1
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d914 2
+a923 2
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d934 2
+d956 8
+a963 1
+=6 2 rest vol90 4 rest D
+d967 1
+a967 1
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d974 2
+a975 1
+=6 2 blank 1 rest
+a985 9
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1000 2
+a1016 2
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1024 2
+d1038 1
+a1038 1
+Il0.5 .05 enough ?  catchy enough ?
+d1041 1
+a1041 1
+=5 2 blank 1 rest
+a1043 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1048 1
+a1048 1
+=1  treble cha8 leg99  vol99  bend50
+d1050 5
+a1054 5
+=2  treble cha2 leg99  vol80  bend50
+=3  alto   cha3 leg130 vol80  bend50
+=4' alto   cha4 leg99  vol80  bend50
+=5' tenor  cha5 leg130 vol80  bend50
+=6' bass   cha8 leg99  vol99  bend50
+d1058 2
+a1059 2
+#=3, 16-s [c db c db c] [db c db c db] [c db c db c] [db c db c db]
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+d1061 2
+a1062 1
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+d1064 11
+d1079 2
+a1080 1
+=3, 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+d1083 2
+a1084 1
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+a1085 9
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1096 4
+a1099 4
+=1 cha1 vol+3 16 [f# fn f# fn] [f# g f# vol+3 16 g] [ab g ab g] vol+3 [ab g g# an]
+=2 vol+3 16 [d eb d eb] [d eb d vol+3 16 eb] [d eb en eb] vol+3 [en f e f]
+=3 vol+3 16 [c~ c~# c~n c~#] [c~n c~# c~n vol+3 16 c~#] [c~n c~# d~ c~#] vol+3 [c~# e~b c~# e~b]
+=4 vol+3 16 [g# gn g# gn] [g# a g# vol+3 16 a] [bb a bb a] vol+3 [bb a bb bn]
+d1102 2
+a1111 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1125 2
+a1126 1
+=3, 16-s [f# g f# g f#] [g f# g f# g] [g# a g# a g#] [gn f# g f# g]
+d1128 2
+a1129 1
+=5, 16-s [e f e f] [e f e f] [e f e f] [e d# e d#]
+d1140 2
+a1141 1
+=3, 16-s [f# fn f# fn f#] [fn e f e f] [e eb en eb en] [eb d eb d eb]
+d1143 2
+a1144 1
+=5, 16-s [e eb en eb] [d eb d eb] [d c# d c#] [c# B c# B]
+d1150 1
+a1150 1
+=4, 8 [<gbl bb> rest' rest' <gbl bb>] rest [<gbl bb> <gbl bb>] rest
+d1159 4
+a1162 6
+#=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=3, 16-s [f gb f gb gn] [ab g ab g ab] [an g# a g# a] [a# b a# b c~]
+#Il0.6 .03 XXX lower start and steeper gradient !
+#=4, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+#=4, leg130 16-s [d# e d# e] [f gb f gb] [gn ab g ab] [an bb a bb]
+=4, leg130 16-s [d eb d eb] [en f e f] [f# g f# g] [g# a g# a]
+d1166 3
+a1168 2
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d1179 4
+a1182 2
+#=3 16-s [bb a bb a bb] [a# bn a# b a#] [b a# b a# b] [c~ b c~ b c~]
+=3 16-s [d~b c~ d~b c~ d~b] [d~n e~b d~ e~b e~n] [f~ e~ f~ e~ f~] [f~# g~ f~# g~ g~#]
+a1183 3
+#=4  16-s [ab g ab g] [ab g ab g] [g# an g# a] [g# a g# a]
+#=4  16-s [bn c~ b c~] [c~# d~ c~# d~] [d~# e~ d~# e~] [f~ g~b f~ g~b]
+=4 16-s [bb bn bb bn] [c~ c~# c~n c~#] [d~ e~b d~ e~b] [e~n f~ e~ f~]
+d1197 2
+a1198 1
+=3, 2 rest 165-s [e f e f e] [eb d eb d eb]
+d1200 2
+a1201 1
+=4, 2 rest 16-s [d c# d c#] [cn B c B]
+d1205 3
+a1207 3
+3 bars | 5 5 5 5 6 7 6 6 5 5 5 5 7 6 7 5 \
+       | 5 5 5 5 5 5 5 5 7 6 7 6 5 5 5 4 \
+       | 6 7 6 6 5 5 5 5 5 5 5 5 7 6 7 5 |
+d1238 3
+a1240 3
+3 bars | 5 5 5 5 6 7 6 6 5 5 5 5 5 5 5 4 \
+       | 6 7 6 6 5 5 5 5 7 6 7 6 5 5 5 4 \
+       | 7 7 7 6 6 7 6 6 6 7 6 7 6 7 7 4 |
+d1388 1
+a1388 1
+=4, 8 [<f# bb> rest' rest' <f# bb>] rest [<f# bb> <f# bb>] rest
+@
+
+
+1.22
+log
+@substituted trills back from end to bar 111
+@
+text
+@d1126 3
+a1128 1
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+a1144 3
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+a1145 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1158 9
+a1177 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1196 3
+a1198 1
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+a1219 2
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1228 4
+a1247 2
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1258 10
+a1286 4
+3 systems / 17-20-17 20 17-20-17 25 17-20-17 \
+ / 17-20-17 25 17-20-17 20 17-20-17 \
+ / 17-20-17 20 17-20-17 25 17-20-17 /
+pagenum
+a1287 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1292 2
+a1293 1
+=3, vol99 165-s [f# g f# g g#] [a g# a g# a] [a# bn a# b a#] [b c~ b c~ b]
+d1296 2
+a1297 1
+=5, vol90 16-s [d# e d# e] [f gb f gb] [gn ab g ab] [an g# a g#]
+d1299 2
+a1309 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1315 2
+a1316 1
+=3, 165-s [f# g f# g f#] [g f# g f# g] [gb fn gb f gb] [f gb f gb f]
+d1318 2
+a1319 1
+=5, 16-s [e f e f] [e d# e d#] [e d# e d#] [e d# e d#]
+d1324 2
+a1325 1
+=3 165-s [f gb f gb f] [e f e f e] 2 rest
+d1327 2
+a1328 1
+=5, 16-s [d eb d eb] [d c# d c#] 2 rest
+d1337 2
+a1338 1
+=3 16-s [d~b c~ d~b c~ d~b] [c~ d~b c~ d~b c~] [c~# d~n c~# d~ c~#] [d~ c~# d~ c~# d~]
+d1340 2
+a1341 1
+=5, 16-s [b a# b a#] [b a# b a#] [b a# b a#] [b c~ b c~]
+d1347 1
+a1347 1
+#P=3, 4 rest rest 4 a#-tr 8 [an-trb g#-tr]
+d1350 1
+a1350 1
+#P=5, 4 rest rest 4 g#-tr f#-trn
+d1358 1
+a1358 1
+#P=3, 4. g#-tr 8 gn-trb 4 rest rest
+d1361 1
+a1361 1
+#P=5, 4. f#-tr 8 fn-trb 4 rest rest
+d1378 1
+a1378 1
+#P=3, 2 c~-trb c~#-tr
+d1381 1
+a1381 1
+#P=5, 2. a#-tr 4 b-tr
+@
+
+
+1.21
+log
+@squeeze to 18 pages
+@
+text
+@d1271 5
+a1295 4
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+d1315 1
+a1315 1
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1328 2
+a1329 1
+=3, 2 rest 165-s [bn bb bn bb bn] [bb a bb a g#]
+d1331 2
+a1332 1
+=5, 2 rest 16-s [an ab an ab] [g f# g f#]
+a1334 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1339 2
+a1340 1
+=3, 165-s [a g# a g# a] [g# a g# gn ab] 2 rest
+d1342 2
+a1343 1
+=5, 16-s [g f# g f#] [g f# fn gb] 2 rest
+d1345 10
+d1359 2
+a1360 1
+=3, 16-s [d~b c~ d~b c~ d~b] [c~ d~b c~ d~b c~] [c~# d~n c~# d~ c~#] [d~ c~# d~ c~# d~]
+d1362 2
+a1363 1
+=5, 16-s [b bb bn bb] [bn bb bn bb] [bn bb bn bb] [bn c~ b c~]
+a1364 7
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1366 4
+a1369 4
+=1 cha1 vol+3 16 [g f# g f#] [g g# gn vol+3 16 g#] [a g# a g#] vol+3 [a g# a bb]
+=2 cha2 vol+3 16 [eb en eb en] [eb en eb vol+3 16 en] [eb en f e] vol+3 [f f# fn f#]
+=3 vol+3 16 [c~# d~ c~# d~] [c~# d~ c~# vol+3 16 d~] [c~# d~ e~b d~] vol+3 [d~ e~n d~ e~]
+=4 vol+3 16 [a g# a g#] [a bb a vol+3 16 bb] [bn bb bn bb] vol+3 [bn bb bn c~]
+d1372 1
+d1374 2
+a1375 2
+il0.7 .04 115
+#I0.9 .05 <D G# B> .51 <D G# c>
+d1377 1
+d1379 2
+a1380 1
+=3, 2 rest 165-s [ab g ab g ab] [g ab g ab g]
+d1382 2
+a1383 1
+=5, 2 rest 16-s [gb f gb f] [e f e f]
+d1385 2
+d1391 5
+a1395 3
+=3, 165-s [g# a g# a ab] [gn f# g f# g] 2 rest
+=4, 8 [<g# c~b> rest' rest' <g# c~>] rest [<g# d~> <g# d~>] rest
+=5, 16-s [e f e f] [e d# e d#] 2 rest
+a1396 2
+/
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1400 2
+a1401 1
+=2' cha2 leg130 vol90 16-s [G F# G F# G] [G# A G# A G# A] [Bb A Bb A Bb] [B A# B A# B]
+d1403 3
+a1405 2
+=4, cha4 leg130 vol90 16-s [e f e f] [gb f gb f] [f# gn f# g] [g# a g# a]
+=5, cha8 leg99 vol75 8 rest [<a# e~> <a# e~>] rest [<a# e~> rest' rest' <a# e~>]
+a1407 6
+#=1  4 d~ rest rest d~
+#=2, vol95 16-s [c db c db c] [c# dn eb d eb] vol100 [en f e f e] [f f# g f# g]
+#=3, 4 rest 8 <d~ bb> rest 8 <d~ bb> rest 4 rest
+#=4, vol100 16-s [a# b a# b] [c~ d~b c~ d~b] vol105 [c~# d~n c~ d~] [d~# e~ d~# e~]
+#=5, 8 rest [<a# e~> <a# e~>] rest [<a# e~> rest' rest' <a# e~>]
+#=6 4 D 8 rest' d~ rest' d~ 4 d~
+d1409 1
+d1411 2
+a1412 1
+=2, vol95 165-s [c db c db c] [c# dn eb d eb] vol100 8 en 4. rest
+d1414 2
+a1415 1
+=4, vol100 16-s [a# b a# b] [c~ d~b c~ d~b] vol105 8 d~n 4. rest
+d1417 1
+a1417 1
+=5, 8 rest [<a# e~> <a# e~>] rest vol125 a# rest 4 rest
+d1420 1
+d1439 1
+d1451 1
+d1453 1
+d1460 1
+d1470 3
+a1472 1
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d1482 1
+d1485 1
+d1489 1
+d1492 1
+d1498 1
+d1501 1
+d1505 1
+d1508 1
+a1509 1
+
+d1515 1
+d1518 1
+d1526 1
+a1526 1
+=5  1 blank
+d1528 8
+d1571 1
+d1580 1
+d1654 1
+d1665 1
+a1665 1
+I0.8 pp .93 ff
+@
+
+
+1.20
+log
+@close to plausible? much tidying needed
+@
+text
+@d154 3
+a156 1
+3 bars | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3        | 4 4 4 4  4 4 4 4  4 4 4 4  4 4 4 3 |
+d188 1
+a188 1
+Il0.2 .07 the Rhythm
+d196 2
+a197 1
+3 bars | 48 | 48 | 48 |
+d327 2
+a328 2
+I1.5 .01 splice in something wierd here !?
+i0.9 .01 should maybe swap vla1 and vln1 here . . .
+d406 1
+a406 1
+r0.6 .50 <E G Bb>
+d534 1
+a534 1
+i0.5 .03 from skteches/20150113
+d765 1
+a765 1
+il1.3 .07 65
+a775 16
+
+
+
+# see diary 20141118..20141123:
+#  GlissPizz->Seethe (splice) Rhythm (fade) Slide (fade)
+#  GlissPizz (fade) Seethe (fade) Rhythm (to be filled in here) Rhythm (fade)
+#  GlissPizz (one last and into) Seethe down mixed with Slide
+# see diary 20141205:
+#  To make numerous GlissPizz interesting, I need at least High and Low
+#  Again I have the feeling I need more material; I'm at 62sec and
+#  have to fill 300sec with GlissPizz, Rhythm and Seethe :-(
+#  Also, more Splice! less cross-fade...  and where's my MessaDiVoce ?
+
+# see AP.20141203 for interesting ways down from 033,
+#   which could recur in mvt3 in non-gliss guise...
+
+a782 8
+#
+# mvt2 needs more material.  At least another Rhythm, probably another Seethe,
+# and some stand-alone GlissPizz bit;
+# but the Slide should not be multiplied beyond necessity
+# (though it would be cute to give it the chord-sequence of mvt3...)
+
+
+#midi off
+d785 1
+a785 1
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+d787 4
+a790 3
+Il0.8 .03 a trill, currently homeless
+=1' bend50 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
+=1 $DIM1
+d795 3
+a797 1
+=3 1 blank
+d802 3
+a804 2
+=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
+=1 $CRE1
+d809 3
+a811 1
+=3 1 blank
+a814 2
+/
+2 bars |4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+d816 2
+a817 1
+=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
+d819 4
+a822 3
+=3  16-s [eb f eb f] [eb f eb f] [eb f eb f] \
+ leg115 vol75 bend50 cc11=100 16 [gb f gb f]
+=3 $CRE1
+d824 2
+a825 2
+=3 1 blank
+=4' cha4 leg115 vol75 bend50 cc11=100 2. blank 16 [e d# e d#]
+a828 16
+#|
+#=1' 16-s [A B A B A] [B A B A B] [A B A B A] [B A B A B]
+#=1 $DIM1
+#i0.8 .05 dim
+#=2 1 blank
+#=3  16-s [eb f eb f] [eb f eb f] [eb f eb f] [eb f eb f]
+#=3 $DIM1
+#i0.8 .05 dim
+#=4 1 blank
+#=6 1 C)2
+#=6 $CRE1
+#i0.1 .15 cresc
+
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d840 1
+a840 4
+title 20150125 ; like 20150124 but with counter-moving seethe
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+d886 7
+a957 7
+
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
+d977 7
+d988 1
+a988 1
+I0.5 .01 20150129 ; a limping fractal, originally to lead into 'end of'
+a1041 9
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+title 20150202 ; the Rhythm with chords and trills, take 2
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
+d1045 1
+a1045 1
+I1.3 .05 <B_b D E>
+d1049 1
+a1049 1
+i0.5 .01 chord-sequence from 042 see AP.14
+d1065 1
+a1065 1
+i0.5 .01 leaps allow the Seethe to cross through; they interact.
+d1068 1
+a1068 1
+i0.1 .03 this loss of MT-phase actually works really well
+d1072 7
+d1082 1
+a1082 1
+I0.9 .05 <Bb c# f>
+d1084 1
+a1084 1
+i0.5 .01 and the Seethe doesn't have to be comtinuous . . .
+d1098 1
+a1098 1
+I0.9 .05 <Bb d f#>
+d1109 1
+a1109 1
+I1.2 .03 <Bb e g> .51 <Bb e g#>
+d1117 1
+a1117 1
+I0.9 .51 <Bb e bb>
+a1124 5
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+
+d1128 1
+a1128 1
+I0.9 .05 <Bb F# c>
+d1142 5
+d1150 1
+a1150 1
+I0.9 .05 <F# Bb c>
+d1155 1
+a1155 1
+Il0.6 .03 XXX lower start and steeper gradient !
+d1175 1
+a1175 1
+I0.9 .05 <F# A c#>
+d1183 1
+a1183 1
+I0.9 .05 <F# Bb d>
+d1194 1
+a1194 1
+I0.6 .01 20150129 ; recap of a limping fractal, originally to lead into 'end of'
+a1231 1
+#=1 2 e rest
+a1232 1
+#=2 8 rest F# 4 rest 8 F# rest G rest
+d1237 1
+a1237 1
+Il0.5 .50 XXX 70-72 in here
+a1270 7
+
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+
+d1274 1
+a1274 1
+I0.9 .03 <F# C D#> .51 <F# C E>
+d1278 1
+a1278 1
+Il0.5 .03 XXX steeper up !
+d1283 1
+a1283 1
+I0.9 .51 <F# C f#>
+d1290 5
+d1298 1
+a1298 1
+I0.9 .05 <F# d g#>
+d1301 1
+a1301 1
+Il0.5 .03 XXX no . . .  down !
+d1317 1
+a1317 1
+I0.9 .15 <D F# G#>
+a1331 5
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+
+
+d1335 1
+a1335 1
+I0.9 .05 <D F A>
+d1343 1
+a1343 1
+I0.9 .05 <D F# Bb>
+d1350 5
+d1374 1
+a1374 1
+I0.9 .51 <D G# d>
+d1384 1
+a1384 1
+I0.9 .05 <D Bb e>
+a1407 6
+3 systems 10/17-20-17 20 17-20-17 20 17-20-17  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+title end of mvt2 ; 20150104 rebarred
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+
+d1451 7
+d1516 1
+a1516 1
+i0.8 .01 in small quantities only . . . lower ?  higher ? . . . condensing . . .
+d1580 1
+a1580 1
+2 bars | 48 | 48 |
+a1601 2
+/
+2 bars | 48 | 48 |
+d1612 2
+a1623 2
+/
+3 bars | 48 | 48 | 48 ||
+d1641 1
+a1641 1
+il0.7 .04 140
+d1681 2
+@
+
+
+1.19
+log
+@closer . . .
+@
+text
+@d1268 1
+a1268 1
+Il0.5 .50 XXX more here
+d1271 33
+d1313 3
+a1315 3
+=1  cha8 4 f# rest rest f#
+=2  4 rest 8 <d f#> rest 8 <d f#> rest 4 rest
+=3, 165-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+d1317 3
+a1319 3
+=4, 8 [<c f#> rest rest <c f#>] rest [<c f#> <c f#>] rest
+=5, 16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+=6 cha8 4 F# 8 rest' d~# rest' e~ 4 e~
+d1335 1
+a1335 1
+=3, 165-s [e f e f e] [f gb f gb f] [gb f gb f gb] [f gb f gb f]
+d1337 1
+a1337 1
+=5, 16-s [d eb d eb] [d eb d d#] [e d# e d#] [e d# e d#]
+d1342 1
+a1342 1
+=3 165-s [f# g f# g f#] [g f# g f# g] 2 rest
+d1344 1
+a1344 1
+=5, 16-s [e d# e d#] [e f e f] 2 rest
+d1349 2
+a1350 1
+I0.9 .05 <D F# G#>
+d1398 2
+a1399 1
+I0.9 .05 <D G# B> .51 <D G# c>
+d1483 1
+d1514 3
+d1518 1
+d1563 2
+a1564 1
+i0.8 .01 could do this also with semitone-trills
+d1614 1
+d1675 1
+@
+
+
+1.18
+log
+@bar 68 homeless elided into counter-moving seethe
+@
+text
+@d127 2
+d215 2
+a216 1
+=5 2 rest
+d426 2
+d442 1
+a442 1
+i1.1 .02 mm 145-155  approx.
+d500 1
+d514 1
+a514 1
+il1.3 .01 45
+d647 2
+d861 1
+d877 1
+a877 1
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d910 1
+d963 1
+a987 2
+
+title 20150129 ; a fractal to lead into 'end of'
+a999 1
+Il0.5  Something in here !
+a1003 1
+##P=2 vol127 1 eb{2-dim40 32-s d}2
+a1004 2
+##M=2 bend50 32 blank bend-3 blank bend-3 blank bend-3 blank bend-3 \
+## blank bend-3 blank bend-3 blank bend-3 blank bend-3
+a1009 1
+Il0.5  is this enough in here ?
+d1012 1
+a1012 1
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+a1013 1
+I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
+d1015 1
+d1028 1
+a1034 2
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1042 2
+d1060 8
+d1081 2
+a1082 1
+I0.9 .05 <B_b D E>
+d1109 1
+a1109 1
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1120 7
+d1128 1
+a1128 1
+=1  4 bb rest rest bb
+d1137 2
+a1138 1
+I0.9 .03 <Bb e g> .51 <Bb e g#>
+d1149 1
+a1149 1
+=3, 16-s [f# g f# g f#] [g f# g f# g] [g# a g# a g#] [a bb a bb a]
+d1151 1
+a1151 1
+=5, 16-s [e f e f] [e f e f] [e f e f] [f# g f# g]
+d1156 2
+d1165 1
+a1165 1
+=3, 16-s [bb a bb a bb] [a bb a bb a] [bb a bb a bb] [a g# a g# a]
+d1167 1
+a1167 1
+=5, 16-s [ab g ab g] [ab g ab g] [f# g f# g] [f# g f# g]
+d1182 7
+a1188 3
+=3, 16-s [g# a g# a g#] [a g# a g# a] [g# a g# a g#] [a bb a bb a]
+=4, 8 rest [<gb Bbl> <gb Bbl>] rest [<gb Bbl> rest' rest' <gb Bbl>]
+=5, 16-s [f# g f# g] [f# g f# g] [f# g f# g] [f# g f# g]
+d1191 1
+d1194 6
+a1199 3
+=3 16-s [bb a bb a bb] [a bb a bb a] [a# bn a# b a#] [b a# b a# b]
+=4, 8 rest [<gb Bbl> <gb Bbl>] rest [<gb Bbl> rest' rest' <gb Bbl>]
+=5  16-s [ab g ab g] [ab g ab g] [ab g ab g] [g# an g# a]
+d1208 2
+a1209 2
+=4, 8 [<c# a> rest rest <c# a>] rest [<c# a> <c# a>] rest
+=5 2 blank 1 rest
+d1213 1
+a1213 1
+=1  4 rest a a rest
+d1215 3
+a1217 3
+=3, 2 rest 165-s [g# a g# a g#] [a bb a bb a]
+=4, 8 [<d bb> rest rest <d bb>] rest [<d bb> <d bb>] rest
+=5, 2 rest 16-s [f# g f# g] [f# g f# g]
+d1223 1
+a1223 1
+I0.6 .01 20150129 ; a limping fractal, originally to lead into 'end of'
+d1246 1
+d1268 1
+d1273 2
+d1283 1
+d1301 1
+d1333 2
+d1355 8
+a1362 1
+2 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+d1365 2
+a1366 2
+=1  4 b rest rest c~
+=2, 4 rest 8 <d g#> rest 8 <d g#> rest 4 rest
 @
 
 

@@ -1,8 +1,9 @@
 3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-title 20141208: pp sord semplice; tune on vla
+title I I I
+# 20141208: pp sord semplice; tune on vla
 pagenum
-innerhead Peter Billam
-leftfoot (c) 2014 Peter J Billam
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
 midi channel 1 patch 40 pan 35 reverb 45
 midi channel 2 patch 40 pan 80 reverb 45
 midi channel 3 patch 41 pan  5 reverb 45
@@ -42,26 +43,32 @@ I0.5 .90 pp
 =6 2 blank 1 rest rest
 | 6.5 6.5
 =1 13/4 2. B)1(1 2 B)1  2. Bb  2. A(2 2 A)2(2
+=2 13/4 2. rest 2 rest 2. rest rest 2 rest
 =3 13/4 2. ab(1  2 ab)1 2. g(1 2. g)1 2 gb
 =4 13/4 2. gb 2 f(1 2. f)1 2. e 2 eb
+=5 13/4 2. rest 2 rest 2. rest rest 2 rest
+=6 13/4 2. rest 2 rest 2. rest rest 2 rest
 ##M=7 bass cha9 1 B_b
 | 5.0 5.0
 =1 10/4 2. A)2 2 Ab    2. G(2 2 G)2
+=2 10/4 2. rest 2 rest 2. rest 2 rest
 =3 10/4 2. f(1 2 f)1   2. e(1 2 e)1
 =4 10/4 2. d(1 2 d)1(1 2. d)1 2 db(1
+=5 10/4 2. rest 2 rest 2. rest 2 rest
+=6 10/4 2. rest 2 rest 2. rest 2 rest
 ##M=7 bass cha9 1 B_b
 /
 3 bars | 13/4 13 | 13 | 10/4 10 |
 | 6.5 6.5
 =1 13/4 2. Gb(2 2 Gb)2 2. F   2. E(2 2 E)2(2
-=2 13/4 2 blank 1 rest
+=2 13/4 2. rest 2 rest 2. rest rest 2 rest
 =3 13/4 2. eb(1 2 eb)1 2. d(1 2. d)1 2 db
 =4 13/4 2. db)1 2 c'(2 2. c')2 2. B 2 Bb
-=5 13/4 2 blank 1 rest
-=6 13/4 2 blank 1 rest
+=5 13/4 2. rest 2 rest 2. rest rest 2 rest
+=6 13/4 2. rest 2 rest 2. rest rest 2 rest
 ##M=7 bass cha9 1 B_b
 |
-Il0.8 .01 5
+Il0.8 .18 5
 i0.3 .01 dim .   .   .  .35 niente
 =1  2. E)2(2 4 E)2 rest vol125 2. f#(1 2 f#)1
 i0.9 .50 crescendo molto . . .
@@ -103,34 +110,36 @@ I0.4 .14 pesante
 5 bars | 36  | 36 | 36 |
 |
 =1 2. A_b  2 C  4 rest
-=2 1 blank
+=2 2. rest 2. rest
 =3 2. Gb   2 Ab 4 rest
 =4 2. D    2 D  4 rest
 =5  2 c 4 d 2 e 4 c(2
 =6  2 C)2 4 D 2 E 4 C(2
 |
 =1  2. A_b    C
+=2 2. rest 2. rest
 =3  2. Gb     Bb
 =4  2. D      F#
 =5  2 c)2 4 d 2 e 4 f# 
 =6  2 C)2 4 D 2 E 4 F#
 |
 =1  2. E        2. F#
+=2 2. rest 2. rest
 =3  2. d        2 c   4 d
 =4  2. Bb       2. Bb
 =5  2 g# 4 f#   2 e   4 d
 =6  2 G# 4 E(2  2 E)2 4 D
 |
-Il0.8 .01 10
+Il0.6 .17 10
 =1  2. G 2 B 4 rest
-=2  1 blank
+=2 2. rest 2. rest
 =3  2. eb 2 g 4 rest
 =4  2. A 2 G 4 rest
 =5  2. eb 2 eb 4 d'
 =6  2 C 4 D 2. Eb(2
 |
 =1' 2. G 2 B 4 c#
-=2  1 blank
+=2 2. rest 2. rest
 =3  2. eb 2 g 4 a
 =4  2. A 2 eb 4 rest
 =5  2 c  4 d 2. eb
@@ -139,6 +148,8 @@ Il0.8 .01 10
 
 3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
 pagenum
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
 
 # 20141028: cro=72 , soft-attack chords cro rest cro cro rest cro rest cro
 # with 5 or 8 cros on one chord ;  plus a tune or two
@@ -148,6 +159,7 @@ pagenum
 #P=1 2. d(1  d)1
 #M=1 1. d-dim60
 i0.8 .03 dim  .   .   .
+=2 2. rest 2. rest
 #P=3 2. bb(1 bb)1
 #M=3 1. bb-dim60
 i0.8 .03 dim  .   .   .
@@ -168,28 +180,34 @@ I0.3 .01 pp
 I0.7 .01 pp
 =4  7/4 vol50 cc11=90 2 f  leg105 4 e  leg90 1 f
 I0.7 .01 pp
-=5  7/4 1 blank
-=6  7/4 1 blank
+=5  7/4 2. rest 1 rest
+=6  7/4 2. rest 1 rest
 |
 =1  leg95 2 d  leg105 4 a  leg90 1 d
 =2  leg95 2 c  leg105 4 eb leg90 1 c
 =3  leg95 2 ab leg105 4 bn leg90 1 ab
 =4  leg95 2 f  leg99  4 f(1  leg90 1 f)1
+=5  2. rest 1 rest
+=6  2. rest 1 rest
 |
 Il0.8 .01 15
 =1  leg95 2 d  leg105 4 a  2. bb leg105 4 gb
 =2  leg95 2 c  leg99  4 eb 2. eb leg99  4 eb
 =3  leg95 2 ab leg105 4 b  2. c~ leg105 4 c~
 =4  leg95 2 f(1  leg105 4 f)1  2. f# leg105 4 bb
+=5  2. rest 1 rest
+=6  2. rest 1 rest
 |
-=1  1 f-dim40
+=1  1.. f-dim40
 i0.6  .20 dim  .   .   .
-=2  1 eb-dim40
+=2  1.. eb-dim40
 i0.65 .20 dim  .   .   .
-=3  1 bn-dim40
+=3  1.. bn-dim40
 i0.7  .20 dim  .   .   .
-=4  1 an-dim40
+=4  1.. an-dim40
 i0.8  .20 dim  .   .   .
+=5  1.. rest
+=6  1.. rest
 /
 5 bars | 6/4 5 5 6 5 5 5 | 5 5 6 5 5 5 |
 | 5.0
@@ -273,7 +291,7 @@ i0.8  .90 pizz
 =6 2 D)2 4 E 2 F# 4 rest
 i0.1  .90 pizz
 |
-Il0.8 .85 25
+Il0.8 .65 25
 #P=1 2. d~(1  d~)1
 #M=1 1. d~-dim60
 i0.8 .03 dim  .   .   .
@@ -287,7 +305,7 @@ i0.8 .03 dim  .   .   .
 i0.8 .55 arco
 #P=5 2. e(1  e)1
 #M=5 1. e-dim60
-i0.9 .03 dim  .   .   .
+i0.8 .10 dim  .   .   .
 =6 2. cha8 cc11=125 vol125 G# cha6 rest
 i0.1 .95 arco
 
@@ -295,6 +313,8 @@ i0.1 .95 arco
 
 3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
 pagenum
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
 
 /
 4 bars | 7/4 4 4 6 3 3 3 3 | 4 4 6 3 3 3 3 \
@@ -304,16 +324,22 @@ pagenum
 =2 vol45 leg99 7/4 2 Ab 4 G 1 Ab
 =3 vol45 leg99 7/4 2 e 4 f 1 e
 =4 vol50 leg99 7/4 2 d 4 c# 1 d
+=5  7/4 2. rest 1 rest
+=6  7/4 2. rest 1 rest
 |
 =1 2 Bb 4 f 1 Bb
 =2' 2 G# 4 Bn 1 G#
 =3 2 e 4 g 1 e
 =4 2 c# 4 c#(1 1 c#)1
+=5  2. rest 1 rest
+=6  2. rest 1 rest
 | 6.9
 =1 2 Bb 4 f 1 gb 4 d
 =2' 2 G# 4 Bn 1 B 4 B
 =3 2 e 4 g 1 ab 4 ab
 =4 2 c#(1 4 c#)1 1 d 4 gb
+=5  2. rest 1 rest
+=6  2. rest 1 rest
 | 6.0
 =1  2 c# 4 d 1 db(1
 #=2' 2 leg105 B 4 A# 2. B 2 4 vol40 leg99 Bb(2
@@ -321,6 +347,8 @@ pagenum
 #=3  2 leg105 g 4 ab 1 g-dim10
 =3  2 leg105 g 4 ab 2 g(1 8 g)1 rest 4 leg99 vol40 ab(1
 =4  2 f 4 e 1 f-dim10
+=5  2. rest 1 rest
+=6  2. rest 1 rest
 
 # 20141220
 /
@@ -338,34 +366,28 @@ i0.5 .15 semplice, legato
 =4' alto     cha4  leg99 vol40 bend50
 =5' tenor    cha5  leg99 vol40 bend50
 =6' bass     cha6  leg99 vol40 bend50
-#=1 1 B(1-fermata B)1(1-fermata
-#=2 2 blank 1 rest rest
-#=3 23 blank 13 rest-fermata 1 a-fermata
-#=4 2 blank 1 rest rest
-#=5 2 blank 1 rest rest
-#=6 2 blank 1 rest rest
-#| 6.5 6.5
 =1  13/4 2. db)1(1 2 db)1 2. c 2. B(1 2 B)1(1
 =2' 13/4 2. Bb(2 2 Bb)2 2. A(2 2. A)2 2 Ab
 =3  13/4 2. ab)1 2 g(1 2. g)1 2. gb 2 f
 =4  13/4 leg105 4 rest gb 2 f eb 4 leg85 d 2 leg105 en 4 eb 2 d 4 c#(1
+=5 13/4 2. rest 2 rest 2. rest rest 2 rest
+=6 13/4 2. rest 2 rest 2. rest rest 2 rest
 | 5.0 5.0
 =1 10/4 2. B)1 2 Bb' 2. A(2 2 A)2
 =2 10/4 2. G(2 2 G)2 2. Gb(2 2 Gb)2
 =3 10/4 2. e(1 2 e)1(1 2. e)1 2 eb(1
 =4 10/4 4 leg85 c#)1 leg105 4 d 2 db cn 4 leg85 B 2 leg105 db' 4 c'(2
+=5 10/4 2. rest 2 rest 2. rest rest
+=6 10/4 2. rest 2 rest 2. rest rest
 | 6.5 6.5
 =1 13/4 2. Ab(2 2 Ab)2 2. G 2. F#(2 2 F#)2(2
 =2 13/4 2. F(2 2 F)2 2. E(2 2. E)2 2 Eb
 =3 13/4 2. eb)1 2 d(1 2. d)1 2. db 2 c
 =4 13/4 4 c')2 leg85 B 2 leg105 c' B 4 Bb 2 leg85 A 4 leg105 Bn 2 Bb 4 A
-#|
-#=1 2. F#)2 1. blank
-#=2 2. D 1. blank
-#=3 2. B 1. blank
-#=4 2. G# 1. blank
+=5 13/4 2. rest 2 rest 2. rest rest 2 rest
+=6 13/4 2. rest 2 rest 2. rest rest 2 rest
 /
-4 bars | 13 | 6/4 6 | 6 | 6 |
+3 bars | 13 | 6/4 6 | 6 |
 |
 i0.3 .01 dim .   .   .  .35 niente
 =1  2. F#)2(2 4 F#)2 rest vol125 2. d~(1 2 d~)1
@@ -408,6 +430,16 @@ Il0.4 .07 30
 =4 2. E G#
 =5 2 d 4 e 2 f# 4 f#
 =6 2 D)2 4 E 2 F# 4 G#
+
+3 systems 5/17-20-17 25 17-17-17 20 17-17-17 8 \
+ / 17-23-17 25 17-20-17 23 17-20-17 \
+ / 17-20-17 20 17-20-17 20 17-20-17 /
+pagenum
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 36  | 36 | 36 |
 |
 =1 2. F# 2. G#
 =2 2. F# 2. G#
@@ -415,12 +447,6 @@ Il0.4 .07 30
 =4 2. c 2. c
 =5 2 bb 4 g# 2 f# 4 e
 =6 2 Bb 4 F#(2 2 F#)2 4 E
-
-3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-pagenum
-
-/
-4 bars | 36  | 36 | 36 |
 |
 =1 2. A 2 c# 4 d#
 =2 1 blank
@@ -444,6 +470,9 @@ i0.8  .90 pizz
 =5 2 c 4 d 2. eb
 =6 2 Eb 4 F 2 G 4 rest
 i0.1  .90 pizz
+/
+3 bars | 23 | 7/4 2 2 2 2 2.7 2 2 2 2 2 2 2 2 2 \
+  | 8/4 2.8 2 2 2 2.8 2 2 2 2 2 2 2 2 2 2 2 |
 |
 Il1.3 .01 35
 #P=1 2. d~#(1  d~#)1
@@ -455,40 +484,38 @@ i0.8 .03 dim  .   .   .
 #P=3 2. b(2 b)2
 #M=3 1. b-dim60
 i0.8 .03 dim  .   .   .
+i0.1 .65 arco
 =4 2. cha8 cc11=125 vol125 a cha4 rest
-i0.8 .55 arco
-#P=5 2. f(1  f)1
-#M=5 1. f-dim60
+#P=5 2. f(1  f)1 tenor
+#M=5 1. f-dim60 tenor
 i0.9 .03 dim  .   .   .
 =6 2. cha8 cc11=125 vol125 A cha6 rest
-i0.1 .95 arco
 
-/
-3 bars | 7/4 28 | 8/4 32 | 7/4 28 |
 | 7.0
 # AP.13
 =1 7/4 vol50 leg105 4. d~# 4 c~# 4 b a 4 a~b g~b 8 f~(1
 =2 7/4 vol50 leg90 2 eb(1  8 eb)1  leg105 4. g 2. leg90 eb
 =3 7/4 vol50 leg90 2 d~b 8 rest leg99  4. d~b(1 2. leg90 d~b)1
 =4 7/4 vol50 leg90 2 a(1   8 a)1   leg105 4. b 2. leg90 a
-=5 tenor  7/4 vol50 leg90 2 gb(1 8 gb)1 leg105 4. f 2. leg90 gb
-=6  7/4 
+=5 7/4 vol50 leg90 2 gb(1 8 gb)1 leg105 4. f 2. leg90 gb
+=6  7/4  1 rest 2. rest
 | 8.0
 =1 8/4 vol50 8 f~)1 4 e~b d~b c~ bb a g~ f~ 8 d~#(1
 =2 8/4 vol50 leg90 2 d#(1 8 d#)1 leg105 4. e 1 leg90 c#
 =3 8/4 vol50 leg90 2 d~b(1 8 d~b)1 leg105 4. bb 1 leg90 a
 =4 8/4 vol50 leg90 2 a(1 8 a)1 leg105 4. ab 1 leg90 g
 =5 8/4 vol50 leg90 2 gb(1 8 gb)1 leg105 4. d 1 leg90 eb
-=6  8/4
+=6  8/4 1 rest rest
+/
+3 bars | 7/4 3 2 2 2 3.3 2 2 2 2 2 2 2 2 2 2 2 \
+ | 8/4 3 2 2 2 3 2 2 2 2 2 2 2 2 2 2 2 | 7/4 28 ||
 | 7.7
 =1 7/4 vol50 8 d~#)1 4 c~# 4 b 4 bb ab g~ f~ 8 e~(1
 =2 7/4 vol50 leg90 2 B(1  8 B)1  leg105 4. c  2. leg90 B
 =3 7/4 vol50 leg90 2 a(1  8 a)1  leg105 4. g# 2. leg90 a
 =4 7/4 vol50 leg90 2 g(1  8 g)1  leg105 4. gb 2. leg90 f
 =5 7/4 vol50 leg90 2 eb(1 8 eb)1 leg105 4. d  2. leg90 c#
-=6  7/4 
-/
-3 bars | 8/4 32 | 7/4 28 | 28 |
+=6  7/4  1 rest 2. rest
 | 8.8
 =1 8/4 vol50 8 e~)1 4. e~b 4. d~b c~ b a(1
 =2 8/4 vol50 leg90 2 B(1   8 B)1   leg105 4. c(1 4 c)1 2. B(1
@@ -498,7 +525,7 @@ i0.8 .55 dim  .   .   . .80 niente
 i0.8 .55 dim  .   .   . .80 niente
 =5 8/4 vol50 leg99 2 db(1 8 db)1 leg95 4. c(1 1 leg90 c)1-dim40
 i0.8 .55 dim  .   .   . .80 niente
-=6 8/4 vol50 leg99 1 blank
+=6 8/4 vol50 leg99 1 rest rest
 | 8.8
 =1 vol40 leg99 1 a)1-dim40
 i0.8 .10 dim  .    .    . .80 niente

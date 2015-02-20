@@ -22,13 +22,13 @@ dist:
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf
 
-${A4D}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 - ${BACKPAGE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${USD}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 - ${BACKPAGE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| ${A42US} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 ${XMLD}/${PIECE}.xml : ${PIECE}
@@ -46,7 +46,7 @@ title.a4 : title
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
 play :
-	muscript -midi ${PLAY} | midisox_lua - -d stat trim 105
+	muscript -midi ${PLAY} | midisox_lua - -d stat trim 157 fade 0 40 0
 play1 :
 	muscript -midi mvt1 | midisox_lua - -d stat
 play2 :
@@ -54,7 +54,7 @@ play2 :
 play3 :
 	muscript -midi mvt3 | midisox_lua - -d stat # trim 210
 playall :
-	muscript -midi mvt1 mvt2 mvt3 | midisox_lua - -d stat # tempo 0.9
+	muscript -midi mvt1 mvt2 mvt3 | midisox_lua - -d stat
 mvt1.a4 : mvt1
 	${MUSCRIPT} mvt1 > $@
 	pkill -HUP gv
@@ -63,6 +63,9 @@ mvt2.a4 : mvt2
 	pkill -HUP gv
 mvt3.a4 : mvt3
 	${MUSCRIPT} mvt3 > $@
+	pkill -HUP gv
+encore.a4 : encore
+	${MUSCRIPT} encore > $@
 	pkill -HUP gv
 strings : mvt1 mvt2 mvt3
 	chmod 644 $@
