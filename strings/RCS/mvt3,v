@@ -1,10 +1,15 @@
-head	1.15;
+head	1.16;
 access;
 symbols;
 locks
-	pjb:1.15; strict;
+	pjb:1.16; strict;
 comment	@# @;
 
+
+1.16
+date	2015.02.22.23.37.04;	author pjb;	state Exp;
+branches;
+next	1.15;
 
 1.15
 date	2015.02.11.03.31.30;	author pjb;	state Exp;
@@ -87,16 +92,17 @@ desc
 @
 
 
-1.15
+1.16
 log
-@some more minor spacing
+@spacing plausible
 @
 text
 @3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
-title 20141208: pp sord semplice; tune on vla
+title I I I
+# 20141208: pp sord semplice; tune on vla
 pagenum
-innerhead Peter Billam
-leftfoot (c) 2014 Peter J Billam
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
 midi channel 1 patch 40 pan 35 reverb 45
 midi channel 2 patch 40 pan 80 reverb 45
 midi channel 3 patch 41 pan  5 reverb 45
@@ -239,13 +245,17 @@ Il0.6 .17 10
 =6  2 Eb)2 4 F 2. G
 
 
-3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+3 systems 5/ 17-18-17 25 17-17-17 20 17-17-17 \
+ / 17-28-17 20 17-20-17 20 17-20-17 5 \
+ / 17-20-17 20 17-20-17 20 17-20-17 /
 pagenum
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
 
 # 20141028: cro=72 , soft-attack chords cro rest cro cro rest cro rest cro
 # with 5 or 8 cros on one chord ;  plus a tune or two
 /
-5 bars | 24 | 7/4 5 5 6 4 4 4 4 | 5 5 6 4 4 4 4 | 5 5 6 5 4 5 5 | 35 |
+5 bars | 24 | 7/4 5 5 6 4 4 4 4 | 5 5 6 4 4 4 4 | 5 5 6 5 4 5 5 | 30 |
 |
 #P=1 2. d(1  d)1
 #M=1 1. d-dim60
@@ -363,15 +373,7 @@ Il0.8 .01 20
 =3 2. g# 2 f# 4 rest
 =4 2. d 2 f# 4 rest
 =5 2. B 2 d' 4 cn
-#=6 2 D 4 C# 2. D(2
 =6 2. D(2 D)2(2
-# links to high 20140918, but too recycled-stuff :-(
-#=1 2. f# 2. bb-dim60
-#=2 2. d 2. f#-dim60
-#=3 2. g# 2. f#-dim60
-#=4 2. d 2. f#-dim60
-#=5 2. B 2. d~-dim60
-#=6 2 D 4 C# 2 D-dim50 4 rest
 |
 =1 2. f# 2 bb 4 c~
 =2 2. d 2 f# 4 g#
@@ -400,10 +402,12 @@ i0.8 .10 dim  .   .   .
 =6 2. cha8 cc11=125 vol125 G# cha6 rest
 i0.1 .95 arco
 
-
-
-3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+3 systems / 17-18-17 20 17-17-17 20 17-18-17 \
+ / 17-20-17 20 17-20-17 20 17-18-17 \
+ / 17-25-17 20 17-20-17 20 17-20-17 5 /
 pagenum
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
 
 /
 4 bars | 7/4 4 4 6 3 3 3 3 | 4 4 6 3 3 3 3 \
@@ -441,9 +445,11 @@ pagenum
 
 # 20141220
 /
-3 bars | 13/4 13 | 10/4 10 | 13/4 13 |
+3 bars | 13/4 4 4 4 4 4 4 5 4 4 4 4 4 3 \
+       | 10/4 4 5 4 4 4 4 5 4 4 3 \
+       | 13/4 4 4 4 4 4 4 4 4 4 5 4 4 3 |
 | 6.5 6.5
-Il0.9  25
+Il0.9 .01 30
 #I1.0  20141219: pp sord semplice; tune on vla
 I0.5 .09 lento
 =1  treble   cha1  leg99 vol40 bend50
@@ -512,7 +518,7 @@ I0.4 .01 fff
 I0.4 .14 pesante
 =6 6/4 2 D 4 E 2 F# 4 D(2
 |
-Il0.4 .07 30
+Il0.4 .07 35
 =1 2. B_b D
 =2 2. B_b D
 =3 2. G# c
@@ -520,10 +526,12 @@ Il0.4 .07 30
 =5 2 d 4 e 2 f# 4 f#
 =6 2 D)2 4 E 2 F# 4 G#
 
-3 systems 5/17-20-17 25 17-17-17 20 17-17-17 8 \
- / 17-23-17 25 17-20-17 23 17-20-17 \
- / 17-20-17 20 17-20-17 20 17-20-17 /
+3 systems 5/17-18-17 25 17-17-17 20 17-17-17 8 \
+ / 17-23-17 25 17-20-17 23 17-18-17 \
+ / 17-20-17 20 17-20-17 20 17-18-17 5 /
 pagenum
+innerhead Peter Billam, Music for Strings, 3rd mvt
+leftfoot (c) 2015 Peter J Billam
 
 /
 4 bars | 36  | 36 | 36 |
@@ -561,7 +569,7 @@ i0.1  .90 pizz
 3 bars | 23 | 7/4 2 2 2 2 2.7 2 2 2 2 2 2 2 2 2 \
   | 8/4 2.8 2 2 2 2.8 2 2 2 2 2 2 2 2 2 2 2 |
 |
-Il1.3 .01 35
+Il1.3 .01 40
 #P=1 2. d~#(1  d~#)1
 #M=1 1. d~#-dim50
 i0.8 .03 dim  .   .   .
@@ -625,6 +633,62 @@ i0.8 .08 pizz
 i0.8 .08 pizz
 =6 vol55 leg99 cha8 2. rest 4 B 1 rest
 i0.1 .08 pizz
+@
+
+
+1.15
+log
+@some more minor spacing
+@
+text
+@d2 2
+a3 1
+title 20141208: pp sord semplice; tune on vla
+d5 2
+a6 2
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+d149 3
+a151 1
+3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d153 2
+d159 1
+a159 1
+5 bars | 24 | 7/4 5 5 6 4 4 4 4 | 5 5 6 4 4 4 4 | 5 5 6 5 4 5 5 | 35 |
+a276 1
+#=6 2 D 4 C# 2. D(2
+a277 7
+# links to high 20140918, but too recycled-stuff :-(
+#=1 2. f# 2. bb-dim60
+#=2 2. d 2. f#-dim60
+#=3 2. g# 2. f#-dim60
+#=4 2. d 2. f#-dim60
+#=5 2. B 2. d~-dim60
+#=6 2 D 4 C# 2 D-dim50 4 rest
+d306 3
+a308 3
+
+
+3 systems 10/17-18-17 25 17-17-17 20 17-17-17  /17-28-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d310 2
+d349 3
+a351 1
+3 bars | 13/4 13 | 10/4 10 | 13/4 13 |
+d353 1
+a353 1
+Il0.9  25
+d422 1
+a422 1
+Il0.4 .07 30
+d430 3
+a432 3
+3 systems 5/17-20-17 25 17-17-17 20 17-17-17 8 \
+ / 17-23-17 25 17-20-17 23 17-20-17 \
+ / 17-20-17 20 17-20-17 20 17-20-17 /
+d434 2
+d473 1
+a473 1
+Il1.3 .01 35
 @
 
 

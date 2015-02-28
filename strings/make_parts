@@ -1,0 +1,46 @@
+#! /usr/bin/perl
+die "DON'T RUN THIS! I've already edited strings_parts ...\n";
+if (! open(SCORE, "<strings"))  { die "can't open strings: $!\n"; }
+if (! open(VLNS, ">/tmp/vlns")) { die "can't open /tmp/vlns: $!\n"; }
+if (! open(VLAS, ">/tmp/vlas")) { die "can't open /tmp/vlas: $!\n"; }
+if (! open(VLCS, ">/tmp/vlcs")) { die "can't open /tmp/vlcs: $!\n"; }
+
+my $sys = <<'EOT';
+
+7 systems 9/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17 5/
+$CRE1 = 
+$DIM1 = 
+$DOWN1 = 
+EOT
+print VLNS $sys;
+print VLAS $sys;
+print VLCS $sys;
+
+my $status = 'all';
+while (<SCORE>) {
+	my $nextline;
+	if (s/\\\n$/ / and $nextline = <SCORE>) { $_ .= $nextline; redo; }
+	if (/^\d\s+systems/) { next; }
+	if (/^#M/) { next; }
+	s/^#P//;
+	if (/^\|/ or /^\//) { $status = 'all';
+	} elsif (/^=1/) { $status = 'vln';
+	} elsif (/^=3/) { $status = 'vla';
+	} elsif (/^=5/) { $status = 'vlc';
+	}
+	if ($status eq 'all' or $status eq 'vln') {
+		print VLNS $_;
+	}
+	if ($status eq 'all' or $status eq 'vla') {
+		s/^=3/=1/;
+		s/^=4/=2/;
+		print VLAS $_;
+	}
+	if ($status eq 'all' or $status eq 'vlc') {
+		s/^=5/=1/;
+		s/^=6/=2/;
+		print VLCS $_;
+	}
+}
+close SCORE; close VLNS; close VLAS; close VLCS;
+system('cat /tmp/vlns /tmp/vlas /tmp/vlcs > strings_parts');

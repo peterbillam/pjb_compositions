@@ -1,4 +1,28 @@
-.\" header = mushead
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.02.22.23.54.33;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@page 2 blurb for Music for Strings
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
 .AM
 .nr PS 12
 .nr VS 14
@@ -70,3 +94,4 @@ and the \f2pesante\fP should be sempre \f4fff\fP.
 .LP
 .ce 1
 \f2www.pjb.com.au/mus\fP
+@

@@ -15,14 +15,15 @@ UTF2ISO = /home/pbin/utf2iso
 PIECE = strings
 PLAY = mvt2
 
-dev : ${PLAY}.a4 title.a4
+dev : title.a4 strings.a4 strings_parts.a4
 all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
  # ${MP3D}/${PIECE}.mp3
 dist:
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf
 
-${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE}.pdf : p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+	groff -ms title | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
@@ -53,8 +54,8 @@ play2 :
 	muscript -midi mvt2 | midisox_lua - -d stat
 play3 :
 	muscript -midi mvt3 | midisox_lua - -d stat # trim 210
-playall :
-	muscript -midi mvt1 mvt2 mvt3 | midisox_lua - -d stat
+playall : strings
+	muscript -midi strings | midisox_lua - -d stat
 mvt1.a4 : mvt1
 	${MUSCRIPT} mvt1 > $@
 	pkill -HUP gv
@@ -73,6 +74,9 @@ strings : mvt1 mvt2 mvt3
 	chmod 444 $@
 strings.a4 : strings
 	muscript strings > $@
+	pkill -HUP gv
+strings_parts.a4 : strings_parts
+	muscript strings_parts > $@
 	pkill -HUP gv
 t.mid : t
 	${MUSCRIPT} -midi t > $@
