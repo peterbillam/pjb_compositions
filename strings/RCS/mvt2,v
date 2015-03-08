@@ -1,10 +1,20 @@
-head	1.27;
+head	1.29;
 access;
 symbols;
 locks
-	pjb:1.27; strict;
+	pjb:1.29; strict;
 comment	@# @;
 
+
+1.29
+date	2015.03.04.07.35.23;	author pjb;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2015.03.02.08.53.16;	author pjb;	state Exp;
+branches;
+next	1.27;
 
 1.27
 date	2015.02.26.09.59.06;	author pjb;	state Exp;
@@ -147,9 +157,9 @@ desc
 @
 
 
-1.27
+1.29
 log
-@some more of the pizzs and arcos in place
+@fix vln2 chaos bars 28-31
 @
 text
 @3 systems 10/17-20-17 20 17-20-17 20 17-20-17 \
@@ -374,10 +384,10 @@ il0.6 .18 15
 i0.8 .10 arco sempre
 #Il0.2 .07 the Rhythm
 =3 1 rest
-i0.2 .02 arco sempre
-=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
-=5, 8 [d rest' rest' d] rest' [d d] rest'
-i0.8 .02 pizz
+i0.2 .20 arco sempre
+=4, 8 [bb rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 e rest' rest' d rest' [d d] rest'
+i0.8 .20 pizz .  .  .
 =6 4 Bb 2. rest
 i0.1 .01 pizz
 /
@@ -401,7 +411,7 @@ i0.5 .91 arco
 |
 =1 cha1 vol+3 16 [eb d eb d] [d# en d# vol+3 16 e] [f e f e] vol+3 [f e f f#]
 =2 vol+3 16 [B c B c] [B c B vol+3 16 c] [B c c# cn] vol+3 [c# d c# d]
-=3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn bb] vol+3 [b c~ b c~]
+=3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a a# bn a#] vol+3 [b c~ b c~]
 =4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
 =5 2 blank 1 rest
 =6 2 blank 1 rest
@@ -412,8 +422,8 @@ i0.4 .71 pizz  .   .   .
 =1  8 bb rest 4 rest cha8 2 rest
 =2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
 =3  2 blank 1 rest
-=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
-=5, 8 [d rest' rest' d] rest' [d d] rest'
+=4, 8 [bb rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 [e rest' rest' d] rest' [d d] rest'
 =6  4 Bb rest 2 rest
 |
 il0.6 .05 20
@@ -476,8 +486,7 @@ i0.2 .20 glissando  .   .   .
 |
 il0.6 .15 25
 =1  4 bb rest rest bb
-=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
-# =3 4 g 2 f# 4 rest
+=2  8 rest [<dx e> <dx e>] rest <dx e> rest rest <dx e>
 =3 2 bend50 vol70 rest 4 rest ab-cre25
 =4, 16 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest' rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
 =5  1 g}2{2
@@ -486,18 +495,16 @@ il0.6 .15 25
 =6 4 Bb 8 rest' d~ rest' d~ 4 d~
 |
 =1  4 bb rest rest bb
-=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
-#=3 2 f# 4 g ab(1
+=2  8 rest [<dx e> <dx e>] rest <dx e> rest rest <dx e>
 i0.2 .20 glissando  .   .   .
 =3 1 vol80 ab{2
 =3 $DOWN1
 =4, 16 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest' rest' [<Bb e> <Bb e>] rest' [<Bb e> rest' rest' <Bb e>]
 =5, 4 bend50 vol70 f#}2 rest 2 rest
-#=6, 16 rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]  # 8. [Bb 16 d~] rest'' [d~ d~] rest''
 =6 4 Bb 8 rest' d~ rest' d~ 4 d~
 |
 =1  4 rest f# f# rest
-=2  8 rest [<dx e> <dx e>] rest <dx e> rest rest <dx e>
+=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
 =3 1 vol80 g}2{2
 =3 $DOWN1
 =4  16 rest [<e gb> <e gb>] rest [<e gb> rest rest <e gb>] [<e gb> rest rest <e gb>] rest [<e gb> <e gb>] rest
@@ -514,7 +521,7 @@ i0.3 .30 sempre pizz, .66 glissando
 #M=1 4 f# rest cha10 bend50 8 rest vol110 4. G#
 #M=1 2 blank $BENDS1
 i0.8 .22 forte,   sul G
-=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 8 <dx e> rest 4 rest 8 rest [f#-emph <dx e>] rest
+=2  8 rest <dx e> <dx e> rest <dx e> rest [f#-emph <dx e>]
 i0.2 .26 pizz
 #P=3  4 f#}2 8 rest d rest  [d d] rest
 #M=3 4 bend50 vol70 f#}2 rest cha8 rest  [d d] rest
@@ -529,7 +536,7 @@ i0.2 .30 pizz, .60 glissando
 #I1.5 .01 splice in something wierd here !?
 #i0.9 .01 should maybe swap vla1 and vln1 here . . .
 =1  cha8 bend50 vol95 4 rest f# f# rest
-=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
 i0.1 .40 arco
 =3 2 rest cha3 bend50 4 rest vol80 c~(1
 =4  16 rest [<e gb> <e gb>] rest [<e gb> rest rest <e gb>] [<e gb> rest rest <e gb>] rest [<e gb> <e gb>] rest
@@ -539,7 +546,7 @@ i0.1 .40 arco
 |
 il0.6 .10 30
 =1  4 rest f# f# rest
-=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+=2  8 rest [<dx e> <dx e>] rest <dx e> rest rest 8 <dx e>
 i0.1 .15 glissando .  .  .
 =3  1 vol80 c~)1{2
 =3 $DOWN1
@@ -561,10 +568,9 @@ leftfoot (c) 2015 Peter J Billam
   | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 |
 |
 i0.4 .30 sul D
-#=1  2 f# 4 rest cha1 vol80 c(2
 =1  4 f# 8 rest cha1 vol80 c(2 2 c)2{2
 #M=1 2 blank $DOWN1
-=2  8 <dx e> rest rest <dx e> rest [<dx e> f#-emph] rest
+=2  8 rest [<dx e> <dx e>] rest <dx e> rest [f#-emph <dx e>]
 i0.2 .12 glissando  .   .   .
 =3  2 vol80 b}2{2 bb}2{2
 #M=3 $DOWN1 $DOWN1
@@ -722,7 +728,7 @@ i0.1 .01 arco
 =2 cha2 vol+3 16 [B c B c] [B c B vol+3 16 c] [B c c# cn] vol+3 [c# d c# d]
 =3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a a# bn a#] vol+3 [b c~ b c~]
 =4 2 F# rest
-=5 cha5 vol+3 16 [d# e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
+=5 cha5 vol85 16 [d# e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
 =6 2 F# rest
 |
 i0.7 .02 tempo 1o
@@ -851,6 +857,7 @@ i0.1 .76 arco
 | 1.778
 =1  cha1 vol100 leg99 4 c~# rest 2 rest
 # 3 semitone down to the beat
+=2 2 blank 1 rest
 =3  cha3 vol100 leg99 16 [g e eb gb] [f d 8 c#] 4 rest 8 [eb 16 B, d]
 # 4 semitone down from the beat
 =4' cha4 vol100 leg99 4 A)1 rest 8 [db 16 B Bb] [db c A G#]
@@ -1193,7 +1200,7 @@ leftfoot (c) 2015 Peter J Billam
 =1 cha1 vol+3 16 [eb d eb d] [d# en d# vol+3 16 e] [f e f e] vol+3 [f e f f#]
 =2 vol+3 16 [B c B c] [B c B vol+3 16 c] [B c c# cn] vol+3 [c# d c# d]
 =3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn a#] vol+3 [b c~ b c~]
-=4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
+=4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g g#]
 =5 2 blank 1 rest
 i0.2 .73 pizz  .   .   .
 =6 4 D)2 2. rest
@@ -1425,8 +1432,8 @@ il0.7 .18 95
 =1  4 a rest rest a
 =2  4 rest 8 <c#l f#> rest 8 <c#l f#> rest 4 rest
 =3 2 blank 1 rest
-=5, 8 [<c# a> rest rest <c# a>] rest [<c# a> <c# a>] rest
 =4 2 blank 1 rest
+=5, 8 [<c# a> rest rest <c# a>] rest [<c# a> <c# a>] rest
 =6 4 F# 8 rest' c~# rest' c~# 4 c~#
 |
 #I0.9 .05 <F# Bb d>
@@ -1434,9 +1441,9 @@ il0.7 .18 95
 =2  8 <d f#> rest 4 rest 4 rest 8 <d f#> rest
 #M=3, 4 rest rest 165-s [e f e f e] [eb d eb d eb]
 #P=3, 4 rest rest e{2-tr d#}2-tr
-=5, 8 [<d bb> rest rest <d bb>] rest [<d bb> <d bb>] rest
 #M=4, 4 rest rest 16-s [d c# d c#] [cn B c B]
 #P=4, 4 rest rest c#{2-tr B}2-tr
+=5, 8 [<d bb> rest rest <d bb>] rest [<d bb> <d bb>] rest
 =6 8 rest' [d~ d~] rest' 4 F# 8 rest' d~
 
 /
@@ -1518,20 +1525,22 @@ leftfoot (c) 2015 Peter J Billam
 =1 2 rest 16 [bb a bb a] 4 rest
 i0.2 .85 pizz . .
 =2 2 rest 16 [ab g ab g] 4 rest
+i0.1    pizz .  .  .
 =3 cha8 vol125 8 [c# d] 4 rest 4 rest 8 [f e]
-=6 cha4 vol75 2 blank 1 rest
-=5' 16 [Bb A Bb A] [G# A G# Gn] 4 rest 16 [Ab G Ab G]
 =4 16 [Ab G Ab G] [F# G F# Fn] 4 rest 16 [Gb F Gb F]
+=5' 16 [Bb A Bb A] [G# A G# Gn] 4 rest 16 [Ab G Ab G]
+=6 cha4 vol75 2 blank 1 rest
 |
 il0.7 .04 105
 I0.4 .60 f
 =1 2. vol120 rest 4 f#(1
 i0.1 .75 pizz sempre
 =2' cha8 vol125 8 [A# B] 4 rest 2 rest
+i0.1 .75 arco
 =3 cha3 vol75 2 blank 1 rest
 =4 16 [E F E D#] [E D# E D#] [Dn Eb D Db] 8 C blank
 =5 16 [F# G F# Fn] [Gb F Gb F] [E F 8 E] D# rest
-=3 2 blank 1 rest
+=6 2 blank 1 rest
 
 |
 #I0.9 .03 <F# C D#> .51 <F# C E>
@@ -1634,7 +1643,7 @@ i0.2 .85 arco .   . .
 #P=5, 2. a#{2-tr 4 b}2-tr
 =6 8 rest' [d~ d~] rest' 4 D 8 rest' d~
 |
-=1 cha1 vol+3 16 [g f# g f#] [g ab g vol+3 16 ab] [an g# a g#] vol+3 [a g# a bb]
+=1 cha1 vol+3 16 [g f# g f#] [g ab g vol+3 16 ab] [an g# a g#] vol+3 [a g# a a#]
 =2 cha2 vol+3 16 [d# e d# e] [d# e d# vol+3 16 e] [d# e f e] vol+3 [f gb f gb]
 =3 vol+3 16 [c~# d~ c~# d~] [c~# d~ c~# vol+3 16 d~] [c~# d~ e~b d~] vol+3 [d~# e~n d~# e~]
 =4 vol+3 16 [a g# a g#] [a bb a vol+3 16 bb] [bn a# b a#] vol+3 [b a# b c~]
@@ -1644,7 +1653,7 @@ i0.1 .81 pizz .  .  .
 |
 il0.7 .15 115
 i0.3 .41 pizz . . .
-=1  4 b rest cha8 rest c~
+=1  4 bn rest cha8 rest c~
 i0.1 .01 pizz . . .
 =2, cha8 4 rest 8 <d g#> rest 8 <d g#> rest 4 rest
 #M=3, 2 rest 165-s [ab g ab g ab] [g ab g ab g]
@@ -2006,6 +2015,90 @@ i0.6 .20 dim  .    .   . .80 niente
 i0.2 .20 dim  .    .   . .82 niente
 
 midi pause 3.0
+@
+
+
+1.28
+log
+@instantaneous arco->pizz avoided in vcl1 at 14-15
+@
+text
+@d325 1
+a325 2
+=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
+# =3 4 g 2 f# 4 rest
+d334 1
+a334 2
+=2  8 <dx e> rest rest <dx e> rest [<dx e> <dx e>] rest
+#=3 2 f# 4 g ab(1
+a339 1
+#=6, 16 rest'' [d~ d~] rest'' [d~ rest'' rest'' d~]  # 8. [Bb 16 d~] rest'' [d~ d~] rest''
+d343 1
+a343 1
+=2  8 rest [<dx e> <dx e>] rest <dx e> rest rest <dx e>
+d360 1
+a360 1
+=2  4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 8 <dx e> rest 4 rest 8 rest [f#-emph <dx e>] rest
+d375 1
+a375 1
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest 4 rest 8 <dx e> rest
+d385 1
+a385 1
+=2  8 <dx e> rest 4 rest 4 rest 8 <dx e> rest 4 rest 8 <dx e> rest 8 <dx e> rest 4 rest
+a406 1
+#=1  2 f# 4 rest cha1 vol80 c(2
+d409 1
+a409 1
+=2  8 <dx e> rest rest <dx e> rest [<dx e> f#-emph] rest
+d567 1
+a567 1
+=5 cha5 vol+3 16 [d# e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
+d1482 1
+a1482 1
+=1 cha1 vol+3 16 [g f# g f#] [g ab g vol+3 16 ab] [an g# a g#] vol+3 [a g# a bb]
+d1492 1
+a1492 1
+=1  4 b rest cha8 rest c~
+@
+
+
+1.27
+log
+@some more of the pizzs and arcos in place
+@
+text
+@d223 4
+a226 4
+i0.2 .02 arco sempre
+=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 [d rest' rest' d] rest' [d d] rest'
+i0.8 .02 pizz
+d250 1
+a250 1
+=3 vol+3 16 [a bb a bb] [a bb a vol+3 16 bb] [a bb bn bb] vol+3 [b c~ b c~]
+d261 2
+a262 2
+=4, 8 [<Bb e> rest' rest' <Bb e>] rest' [<Bb e> <Bb e>] rest'
+=5, 8 [d rest' rest' d] rest' [d d] rest'
+d700 1
+d1043 1
+a1043 1
+=4 vol+3 16 [f e f e] [f gb f vol+3 16 f#] [gn f# g f#] vol+3 [g f# g ab]
+d1275 1
+a1276 1
+=4 2 blank 1 rest
+a1283 1
+=5, 8 [<d bb> rest rest <d bb>] rest [<d bb> <d bb>] rest
+d1286 1
+d1368 1
+d1370 2
+a1372 2
+=5' 16 [Bb A Bb A] [G# A G# Gn] 4 rest 16 [Ab G Ab G]
+=4 16 [Ab G Ab G] [F# G F# Fn] 4 rest 16 [Gb F Gb F]
+d1379 1
+d1383 1
+a1383 1
+=3 2 blank 1 rest
 @
 
 

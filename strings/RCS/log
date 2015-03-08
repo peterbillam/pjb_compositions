@@ -77,3 +77,25 @@
 20150223 105433 p2 pjb page 2 blurb for Music for Strings
 20150226 205906 mvt2 pjb some more of the pizzs and arcos in place
 20150228 142615 strings_parts pjb output of make_parts, vlns 1st mvt spaced
+20150301 095905 strings_parts pjb eliminate spurious innerheads and pagenums
+20150301 191830 strings_parts pjb violin parts now approximately spaced
+20150302 115608 strings_parts pjb roughly spaced 1st mvt of violas
+20150302 152905 strings_parts pjb viola part roughly spaced
+20150302 193510 strings_parts pjb 1st mvt of cello part roughly spaced
+20150302 195316 mvt2 pjb instantaneous arco->pizz avoided in vcl1 at 14-15
+20150303 120302 strings_parts pjb approximate up to end ?
+20150304 093042 strings_parts pjb horizontal spacing of first page :-(
+20150304 105657 strings_parts pjb up to vln mvt1 bar 39
+20150304 150759 strings_parts pjb spaced violins up to mvt1 bar 73, 3 pages
+20150304 160608 strings_parts pjb violins 1st mvt finished
+20150304 183523 mvt2 pjb fix vln2 chaos bars 28-31
+20150305 140601 strings_parts pjb up to end of violin part :-)
+20150305 165441 strings_parts pjb all headers in place, I think
+20150306 093540 strings_parts pjb spaced viola 1st mvt
+20150306 142826 strings_parts pjb up to bar 71 of viola 2nd mvt
+20150306 200004 strings_parts pjb finished viola part
+20150307 110429 strings_parts pjb cello 1st mvt up to bar 58
+20150307 115210 mvt1 pjb fix typo in bar74 vlc2
+20150307 135536 strings_parts pjb cello part 1st mvt :-)
+20150307 193212 strings_parts pjb cello part 2nd mvt up to bar 89
+20150308 111523 strings_parts pjb finished :-) presumably publishable

@@ -1,10 +1,15 @@
-head	1.28;
+head	1.29;
 access;
 symbols;
 locks
-	pjb:1.28; strict;
+	pjb:1.29; strict;
 comment	@# @;
 
+
+1.29
+date	2015.03.07.00.52.10;	author pjb;	state Exp;
+branches;
+next	1.28;
 
 1.28
 date	2015.02.21.04.04.41;	author pjb;	state Exp;
@@ -152,9 +157,9 @@ desc
 @
 
 
-1.28
+1.29
 log
-@finished spacing
+@fix typo in bar74 vlc2
 @
 text
 @#2 systems 10/19-30-19 30 19-30-19 30 19-30-19/19-30-19 30 19-30-19 30 19-30-19/
@@ -179,6 +184,7 @@ midi channel 8 patch 45 pan 50     # pizz
   | 4 5 4 5 4 5 4 4 5 5 4 4 | 5 5 4 5 4 6 4 5 5 5 4 4 |
 | 0.21
 =1 treble cha1  leg99 vol100 8 B
+I0.2 .03 mf
 =2 treble cha2  leg99 vol90 8 rest
 =3 alto cha3  leg99 vol90 8 rest
 =4' alto cha4  leg99 vol90 8 rest
@@ -189,8 +195,10 @@ midi channel 8 patch 45 pan 50     # pizz
 =1' 1 A 8 rest [A B d]
 =2 2 rest rest rest
 =3 4. rest 8 [c#, d gb] 2. f
+I0.5 .03 mf
 =4 2 rest rest 4. rest 8 e
 =5 2. rest 8 rest c# 2 d
+I0.5 .45 mf
 =6 2 rest rest 8 rest B 4 A(1
 |
 #i0.9 .01 A2222
@@ -227,7 +235,7 @@ il0.7 .05 5
 =3 4. f#)1 8 [g ab b] 2 bb 8 rest ab
 =4 2 ab 8 rest [g f# d#] 2 e
 =5 8 rest Bb 1 c 8 rest A#
-=6 1 d 8 rest [c d f#]
+=6 1 d 8 rest [c d gb]
 |
 #i0.9 .01 B242 ?  A242 ?
 =1 4. rest 8 [A#, B d#] 2 c# 8 rest f#
@@ -377,7 +385,7 @@ leftfoot (c) 2015 Peter J Billam
 #i0.9 .01 d242
 =1 4 d~ 8 d~b 4. c~ 4 rest 8 d~b 4 bb 8 c~
 =2 4. d 8 rest c 4 gb 8 [f e(1] 4. e)1
-=3 4. bb 4 rest 8 e 4 c~ 8 bn 4. bb
+=3 4. a# 4 rest 8 e 4 c~ 8 b 4. a#
 =4 8 e 4 f#(1 8 f#)1 4 rest 8 d 4 ab 8 g 4 f#
 =5 8 [Bb,)1 c d(1] 4. d)1 8 rest d 4 g# 8 [f# e(1]
 =6 4 rest 8 e 4 bb 8 a 4. ab 4 rest 8 d~
@@ -404,6 +412,7 @@ il0.9 .15 20
 =6 4. d~ 4 rest 8 d~ 4 g~b 8 f~ 4. e~
 |
 #i1.4 .01 eb242 ?  db242 ?
+i0.2 .75 solo  .  .  .
 =1 4 f~ 8 f~# 4. g~ 4 rest 8 rest 4 C# 8 D
 =2 4. g)1 8 rest a 4 d# 8 [e f(1] 4. f)1
 =3 4. eb 4 rest 8 f 4 c# 8 d 4 eb 8 rest
@@ -420,10 +429,10 @@ il0.9 .15 20
 #i0.7 .01 rabbit?up:down?
 =1 8 [Eb 16 Gb] 8 [F 16 G#] 8 [A 16 F] 8 [Gb 16 A] 8 [G# 16 B'] 8 [c' 16 A] 8 [G# 16 B'] 8 [c 16 d]
 =2 1. f
+i0.10 .01 pizz . . .
+=3 cha8 4 c 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
 i0.1 .01 arco sempre . . .
-=3 4 c 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
-i0.1 .01 pizz . . .
-=4 cha8 vol110 4 c 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
+=4 vol110 4 c 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
 i0.1 .01 arco sempre . . .
 =5 2 eb 4 b 2 ab 4 g
 i0.1 .01 pizz . . .
@@ -431,8 +440,8 @@ i0.1 .01 pizz . . .
 |
 =2 1. f
 =1 8. eb 8 [d 16 B] 8 [c' 16 G#] 8 [A 16 Gb] 4. F 8. rest 8 rest 16 D
-=3 4 f 8 f# 4 d 8 c# 8. [B 8 Bb 16 G] 4 G# 8 rest
-=4 4 f 8 f# 4 d 8 c# 8. [B 8 Bb 16 G] 4 G# 8 rest
+=3 4 f 8 gb 4 d 8 c# 8. [B 8 Bb 16 G] 4 Ab 8 rest
+=4 4 f 8 gb 4 d 8 c# 8. [B 8 Bb 16 G] 4 Ab 8 rest
 =5 2 ab 4 B 2 c# 4 d
 =6 2 ab 4 B 2 c# 4 d
 
@@ -447,7 +456,6 @@ leftfoot (c) 2015 Peter J Billam
 2 bars | 3 3 4 3 3 3 3 3 4 3 3 4 3 3 3 3 3 4 3 3 3 3 3 3 \
  | 6/8 3 3 3 3 3 3 3 3 3 3 3 3 |
 | 2.4
-#i0.7 .01 continuing the rabbit
 il0.7 .05 25
 =1 8 [Eb 16 F#] 8 [Fn 16 G#] 8 [A 16 F] 8 [F# 16 A] 8 [G# 16 B'] 8 [c' 16 A] 8 [G# 16 B'] 8 [c 16 d]
 =2 1. f
@@ -469,7 +477,7 @@ il0.7 .05 25
 2 bars | 12/8 3 3 3 3 3 4 3 3 3 3 3 3 3 3 4 3 3 3 3 3 4 3 3 3 \
  | 6/8 3 3 3 3 3 4 3 3 4 3 3 3 |
 | 2.4
-=1, 12/8 8 [A 16 c] 8 [B 16 d] 8 [eb 16 B] 8 [c 16 eb] 8 [d 16 f] 8 [f# 16 eb] 8 [d 16 fn] 8 [f# 16 g#]
+=1, 12/8 8 [A 16 c] 8 [B 16 d] 8 [eb 16 B] 8 [c 16 eb] 8 [d 16 f] 8 [gb 16 eb] 8 [d 16 f] 8 [f# 16 g#]
 =2 12/8 2 blank 1 rest
 =3 12/8 4 gb 8 f 4. gb 4 d 8 eb 4. B
 =4 12/8 4 gb 8 f 4. gb 4 d 8 eb 4. B
@@ -557,15 +565,22 @@ il0.7 .05 35
 =2, 12/8 8 [A 16 c] 8 [B 16 d] 8 [eb 16 B] 8 [c 16 eb] 8 [d 16 f] 8 [f# 16 eb] 8 [d 16 fn] 8 [f# 16 g#]
 =3 12/8 4 f# 8 fn 4. g# 4 d 8 eb 4. B
 =4 12/8 4 f# 8 fn 4. g# 4 d 8 eb 4. B
-=5 12/8 2 eb 4 f 2 a 4 c~#
-=6 12/8 2 eb 4 f 2 a 4 c~#
+# gruesome kludge :-(
+#P=5 12/8 2 eb 4 f 2 a 4 gb
+#P=6 12/8 2 eb 4 f 2 a 4 gb
+#M=5 12/8 2 eb 4 f 2 a 4 blank
+#M=6 12/8 2 eb 4 f 2 a 4 blank
+=5 1 blank tenor 4 blank
+=6 1 blank tenor 4 blank
+#M=5 12/8 2. blank 2 blank 4 c#
+#M=6 12/8 2. blank 2 blank 4 c#
 | 1.2
 =1 6/8 2. 1 rest
 =2 6/8 8. a 8 [g# 16 f] 8 [f# 16 d] 8 [eb 16 d]
 =3 6/8 4 f# 8 fn 4 b 16 rest d
 =4 6/8 4 f# 8 fn 4 b 16 rest d
-=5 6/8 2 e~b 4 c~
-=6 6/8 2 e~b 4 c~
+=5 6/8 2 eb 4 c
+=6 6/8 2 eb 4 c
 
 3 systems 5 /17-25-17 18 17-20-17 20 17-18-17 \
  /17-25-17 18 17-20-17 20 17-18-17 \
@@ -579,39 +594,39 @@ leftfoot (c) 2015 Peter J Billam
  | 6/8 3 3 3 3 3 3 3 3 3 3 3 3 |
 | 2.4
 =1 12/8 1. f~
-=2, 12/8 8 [eb 16 f#] 8 [fn 16 g#] 8 [a 16 f] 8 [f# 16 a] 8 [g# 16 b] 8 [c~ 16 a] 8 [g# 16 b] 8 [c~ 16 d~]
+=2, 12/8 8 [d# 16 f#] 8 [fn 16 g#] 8 [a 16 f] 8 [f# 16 a] 8 [g# 16 b] 8 [c~ 16 a] 8 [g# 16 b] 8 [c~ 16 d~]
 =3 12/8 4 eb 8 d 4 c# 8 eb 4 en 8 eb 4 f 8 g
 =4 12/8 4 eb 8 d 4 c# 8 eb 4 en 8 eb 4 f 8 g
-=5 12/8 2 b 4 a 2 g# 4 gn
-=6 12/8 2 b 4 a 2 g# 4 gn
+=5 12/8 2 B 4 A 2 Ab 4 G
+=6 12/8 2 B 4 A 2 Ab 4 G
 | 1.2
 =1, 6/8 8. e~b 8 [d~ 16 b] 8 [c~ 16 g#] 8 [a 16 f#]
 =2 6/8 2. f~
 =3 6/8 4 g# 8 f# 4 d 8 c#
 =4 6/8 4 g# 8 f# 4 d 8 c#
-=5 6/8 2 f 4 e
-=6 6/8 2 f 4 e
+=5 6/8 2 F 4 E
+=6 6/8 2 F 4 E
 
 #title from 20140912 ...
 /
 2 bars | 12/8 3 3 4 3 3 3 3 3 4 3 3 4 3 3 3 3 3 4 3 3 3 3 3 3 \
  | 6/8 3 3 3 3 3 3 3 3 3 3 3 3 |
 | 2.4
-=1 12/8 8 [eb 16 f#] 8 [fn 16 g#] 8 [a 16 f] 8 [f# 16 a] 8 [g# 16 b] 8 [c~ 16 a] 8 [g# 16 b] 8 [c~ 16 d~]
+=1 12/8 8 [d# 16 f#] 8 [fn 16 g#] 8 [a 16 f] 8 [f# 16 a] 8 [g# 16 b] 8 [c~ 16 a] 8 [g# 16 b] 8 [c~ 16 d~]
 =2 12/8 1. f~
 #i0.5 .03 start to liquidate
 =3 12/8 4 eb 8 d 4 c# 8 eb 4 en 8 eb 4 f 8 g
 =4 12/8 4 eb 8 d 4 c# 8 eb 4 en 8 eb 4 f 8 g
-=5 12/8 2 b 4 a 2 g# 4 gn
-=6 12/8 2 b 4 a 2 g# 4 gn
+=5 12/8 2 B 4 A 2 Ab 4 G
+=6 12/8 2 B 4 A 2 Ab 4 G
 | 1.2
 il1.1 .15 40
 =1 6/8 8. e~b 8 [d~ 16 b] 8 [c~ 16 g#] 8 [a 16 f#]
 =2 6/8 2. f~
 =3 6/8 4 g# 8 f# 4 d 8 c#
 =4 6/8 4 g# 8 f# 4 d 8 c#
-=5 6/8 2 f 4 f#
-=6 6/8 2 f 4 f#
+=5 6/8 2 F 4 Gb
+=6 6/8 2 F 4 Gb
 
 /
 2 bars | 12/8 4 4 5 4 4 6 4 4 5 4 4 6 4 3 4 4 4 4 4 4 5 4 4 4 \
@@ -621,8 +636,8 @@ il1.1 .15 40
 =2 12/8 1. f~
 =3 12/8 4 en 8 eb 4 f 8 g  4 g# 8 f# 4 d 8 c#
 =4 12/8 4 en 8 eb 4 f 8 g  4 g# 8 f# 4 d 8 c#
-=5 12/8 2 ab 4 gb  2 f 4 g# tenor
-=6 12/8 2 ab 4 gb  2 f 4 g# tenor
+=5 12/8 2 Ab 4 Gb 2 F 4 G#
+=6 12/8 2 Ab 4 Gb 2 F 4 G#
 |
 =1, 8. e~b 8 [d~ 16 b] 8 [c~ 16 g#] 8 [a 16 f#] 8. e~b 8 [d~ 16 b] 8 [c~ 16 g#] 8 [a 16 f#]
 =2, 2 f~ 4 e~ 8. e~b 8 [d~ 16 b] 8 [c~ 16 g#] 8 [a 16 f#]
@@ -654,9 +669,9 @@ i0.5 .20 diminuendo  .   .   .
 =1, 1. e~n-dim40
 i0.5 .20 diminuendo  .   .   .
 =2, 1. e~n-dim50
-=3  1. e-dim40
-i0.1 .65 arco . . .
-=4  vol120 1 e-emph 2 rest
+=3  vol120 1 e-emph 2 rest
+i0.1 .20 diminuendo  .   .   .
+=4  1 e-dim40
 =5 2 bb 4 a 2 g# 4 e
 =6 vol120 1 e-emph 2 rest
 
@@ -664,8 +679,8 @@ i0.1 .65 arco . . .
 il0.7 .05 45
 =1  vol90 cc11=100 2 blank 1 rest
 =2  vol90 cc11=100 2. rest 4 rest d ab(1
-=3  vol90 cc11=100 2 blank 1 rest
-=4  cha4 cc11=100 vol90 4 G# 2 d 4 db 2 c
+=3  cha3 vol90 cc11=100 2 blank 1 rest
+=4  cc11=100 vol90 4 G# 2 d 4 db 2 c
 =5  cha5 cc11=100 vol90 2 G# 4 A 2. Bb bass
 =6  cha6 cc11=100 vol90 2. rest 2 rest bass 4 e
 i0.03 .15 arco . . .
@@ -676,6 +691,7 @@ i0.03 .15 arco . . .
 #i0.4 .03 then reintroducing 20141015 in cro/qua
 =1 vol90 2 blank 1 rest
 =2 4 ab)1 g 2 f# 4 d A#(2
+i0.1 .10 arco . . .
 =3 2 rest 8 rest e 4 bb 8 a 4. g#
 =4 4 G# 2 D 4 D# 2 E
 =5 2 rest 4 rest 4. rest 8 d 4 ab
@@ -684,6 +700,7 @@ i0.03 .15 arco . . .
 #i0.5 .03 Bb222
 =1 2 rest 8 rest e 4 bb 8 a 4. g#
 =2 4 A#)2 B 2 c 4 F# A_#(2
+=3 2 blank 1 rest
 =4 8 rest e 4 G# 8 A 4. Bb 8 rest c 4 gb
 =5 8 g 4. f#(1 2 f#)1 rest
 =6 1. D(2
@@ -691,6 +708,7 @@ i0.03 .15 arco . . .
 #i0.5 .30 Bb233
 =1 2 rest 8 rest c 4 F# 8 G 4 Ab 8 f#
 =2 4 A_#)2 B_ 1 C
+=3 2 blank 1 rest
 =4 8 f 4. e 2 rest rest
 =5 8 rest d~ 4 g# 8 a 4. bb(1 2 bb)1
 =6 2 D)2 1 D#
@@ -754,7 +772,7 @@ leftfoot (c) 2015 Peter J Billam
 /
 3 bars | 4 4 4 4 5 5 5 5 5 5 4 4 \
  | 5 5 4 4 5 5 5 5 5 5 5 4 \
- | 4 5 5 4 5 4 5 5 5 5.5 4 4 |
+ | 4 5 5 4 5 4 5 5 5 5.8 4 3 |
 |
 #i0.9 .01 D#233
 =1  4. d~# 4 rest 8 b 4 f~ 8 e~ 4. d~#
@@ -774,7 +792,7 @@ il0.7 .05 55
 =6 4. e~b 4 rest 8 e~b 4 g~ 8 g~b 4. f~
 |
 #i1.2 .01 E242 ?  D242 ?
-=1 4 gb 8 rest bb 4 e 8 [f gb(1] 4. gb)1(1
+=1 4 gb 8 rest bb 4. e 8 [f gb(1] 4. gb)1(1
 =2 4 ab)1 8 g 4 ab 8 rest d 4 G# 8 A 4 Bb'(2
 =3 8 d~ 4 c~(1 8 c~)1 rest f# 4 d 8 d# 4 e 8 fn
 =4 4. e 4. rest 8 d 4 G# 8 A 4 Bb'(2
@@ -786,9 +804,9 @@ il0.7 .05 55
 2 bars | 24 | 7/4 28 |
 | 2.4
 =1  4 gb)1 8 Bb 4 eb 8 d  4 c# 8 c# 4 gb 8 f
-=2  4 Bb')2 8 Gb 4 F 8 Bb 4 A  8 A  4 G# 8 c#
+=2  4 Bb')2 8 Gb 4 F 8 Bb' 4 A  8 A  4 G# 8 c#
 =3  4 gb   8 Bb 4 eb 8 d  4 c# 8 c# 4 gb 8 f
-=4  4 Bb')2 8 Gb 4 F 8 Bb 4 A  8 A  4 G# 8 c#
+=4  4 Bb)2 8 Gb 4 F 8 Bb 4 A  8 A  4 G# 8 db
 =5 8 d~b)1 4 c~ 8 [d~b e~b g~b] 4. f~ 8 bb 4 ab
 =6  8 db')2 4 c 8 [db eb gb] 4. f 8 Bb 4 Ab
 | 2.8
@@ -872,7 +890,7 @@ i0.1 .01 ( arco sempre .  .  . )
 #i0.9 .01 d2222
 il0.7 .18 65
 =1 2 c~ 4. rest 8 g# 4. e~ 8 d~
-=2 4. rest 8 d 4. f# 8 fn 2 e
+=2 4. rest 8 d 4. gb 8 f 2 e
 =3 8 [d~)1 d~b] 2 c~ 4. rest 8 f~# 4 c~(1
 =4 2 e)1 8 rest d 4. bb 8 a 4 g#
 =5 4. bb 8 a 2 g# 4. rest 8 bb
@@ -947,6 +965,7 @@ il0.5 .05 70
 |
 #i0.9 .04 E233
 =1 4. F# 8 G# 2 A 4. rest 8 A-emph
+=2 2 blank 1 rest
 =3 2. rest 4 B 2 c'
 =4 4 rest c 2. f# 4 e
 =5 2 blank 1 rest tenor
@@ -960,7 +979,7 @@ il0.5 .05 70
 | 2.4
 #i0.9 .01 G233
 =1' 1 G-emph 8 rest [G A c]
-=2 2 rest rest rest
+=2 2 blank 1 rest
 =3 4. rest 8 [B, c e] 2. eb
 =4 2 eb rest 4. rest 8 d
 =5 tenor 2. rest 8 rest B 2 c
@@ -972,7 +991,7 @@ il0.5 .05 70
 =3 4. rest 8 eb 2. f 8 rest g
 =4 2 eb 8 rest [eb' db' A] 4. G 8 D#
 =5, 8 rest [A B d#] 1 c#
-=6 22 G)2 8 rest [G, A c#] 4 B
+=6 2. G)2 8 rest [G, A c#] 4 B
 |
 #i0.9 .01 Ab242
 il0.7 .05 75
@@ -999,7 +1018,7 @@ leftfoot (c) 2015 Peter J Billam
 =1 1 c# 8 rest Bb' 4 Ab(1
 =2 8 rest G 2 Ab 8 rest c 2 db
 =3 2. e)1 8 rest [d# e f#] 4 e(1
-=4 4. rest 8 [c c# f] 2 e 8 rest ab
+=4 4. rest 8 [c db f] 2 e 8 rest ab
 =5 2 Bb)1 8 rest Ab 2. Bb
 =6 1 Ab 8 rest [Ab Bb db]
 |
@@ -1127,10 +1146,10 @@ il0.7 .15 85
 =5  tenor 4/2 cha5 8 rest Db 4 C 8 rest [Db Eb Gb] 2 F 8 rest Bb 4 Ab
 =6  4/2 8 c#)2 Db 4 C 8 rest [Db Eb Gb] 2 F 8 rest Bb 4 Ab
 |
-=1, 4. e  8 e  4. bb 8 a 4. g# 8 g# 4. c~# 8 c~n
-=2, 4. db 8 db 4. c  8 f 4. e  8 e  4. d#  8 g#
-=3, 4. e  8 e  4. bb 8 a 4. g# 8 g# 4. c~# 8 c~n
-=4, 4. db 8 db 4. c  8 f 4. e  8 e  4. d#  8 g#
+=1, 4. e  8 e  4. bb 8 a 4. g# 8 g# 4. d~b 8 c~
+=2, 4. db 8 db 4. c  8 f 4. e  8 e  4. d#  8 ab
+=3, 4. e  8 e  4. bb 8 a 4. g# 8 g# 4. d~b 8 c~
+=4, 4. db 8 db 4. c  8 f 4. e  8 e  4. d#  8 ab
 =5, 8 rest [A B e] 2 eb  8 rest d 4 c# 8 rest [g f d]
 =6 8 rest [A B e'] 2 eb' 8 rest d' 4 c# 8 rest [g f d,]
 /
@@ -1139,14 +1158,14 @@ il0.7 .15 85
 #i0.7 .35 going into cycle?cro:qua? to feed into 20141015
 il0.7 .12 90
 =1 7/4 4. b 8 b 4 c~ 8 g 4. g# 8 g# 4 a 8 f
-=2 7/4 4. g 8 g 4 d 8 eb 4. en 8 e 4 B 8 c
+=2 7/4 4. g 8 g 4 d 8 d# 4. e  8 e  4 B 8 c
 =3 7/4 4. b 8 b 4 c~ 8 g 4. g# 8 g# 4 a 8 f
-=4 7/4 4. g 8 g 4 d 8 eb 4. en 8 e 4 B 8 c
+=4 7/4 4. g 8 g 4 d 8 eb 4. en 8 e  4 B 8 c
 =5 7/4 8 [eb g] 4 f(1 4. f)1 8 rest c 4 d(1  8 d)1  4 Ab
 =6 7/4 8 [eb g] 4 f(1 4. f)1 8 rest c 4 d'(2 8 d')2 4 Ab
 | 2.4
 =1 12/8 4 f# 8 f# 4 g 8 d   4 d# 8 e  4 e 8 fn
-=2 12/8 4 d  8 d  4 A 8 A#  4 B  8 B  4 F# 8 rest
+=2 12/8 4 d  8 d  4 A 8 A#  4 B' 8 B' 4 F# 8 rest
 =3 12/8 4 f# 8 f# 4 g 8 d   4 d# 8 e  4 e 8 fn
 =4 12/8 4 d  8 d  4 A 8 A#  4 B  8 B  4 F# 8 rest
 =5 12/8 8 [Bb d  c(1] 4. c)1 8 rest [g a(1] 8 a)1 4 rest
@@ -1227,16 +1246,16 @@ leftfoot (c) 2015 Peter J Billam
 
 #title from 20140912 ...
 /
-2 bars | 4 4 6 4 4 5 4 4 6 4 4 6 4 4 5 4 4 6 4 4 5 4 4 4 \
+2 bars | 4 4 5 4 4 5 4 4 6 4 4 6 4 4 5 4 4 6 4 4 5 4 4 4 \
  | 4 4 4 4 4 5 4 4 5 4 4 5 4 4 5 4 4 5 4 4 5 4 4 4 |
 | 2.4
-=1 vol110 8 [Eb 16 F#] 8 [Fn 16 G#] 8 [A 16 F] 8 [F# 16 A] 8 [G# 16 B'] 8 [c' 16 A] 8 [G# 16 B'] 8 [c 16 d]
+=1 vol110 8 [Eb 16 Gb] 8 [F 16 G#] 8 [A 16 F] 8 [F# 16 A] 8 [G# 16 B'] 8 [c' 16 A] 8 [G# 16 B'] 8 [c 16 d]
 =2 1. f
-i0.1 .01 arco sempre . . .
+i0.2   arco  sempre . . .
 =3 4 c' 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
-i0.1 .01 pizz . . .
+i0.2    pizz   . . .
 =4 cha8 vol110 4 c' 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
-i0.1 .01 arco sempre . . .
+i0.1    arco sempre . . .
 =5 2 eb 4 b 2 ab 4 g
 i0.1 .01 pizz . . .
 =6 cha8 vol120 2 eb 4 b 2 ab 4 g
@@ -1374,15 +1393,15 @@ leftfoot (c) 2015 Peter J Billam
 il0.7 .05 110
 =1 4 rest 8 c~ 4 f 8 gb 2 ab 8 rest eb
 =2 8 rest f 4 c 8 c# 4. d 2 rest
-=3 4. c' 8 rest 4 Bb 2 f# 4 fn
-=4 8 f 4 d 8 eb 4 en(1 8 e)1 8 rest 8 f# 4. d
+=3 4. c' 8 rest 4 Bb 2 gb 4 f
+=4 8 f 4 d 8 d# 4 e(1 8 e)1 8 rest 8 f# 4. dn
 =5 4 ab 8 [g f#] 4 c 8 d 4. e 4 rest
 =6 4 bb)1 g# 2 f# 8 rest [c, d g#]
 |
 #i0.9 .01 db233
 =1  4 a 8 g# 4 f# 8 rest a 4 eb 8 fn 4 f#
 =2  8 rest A 4 eb 8 d 4. c# 8 rest [c# B G#,]
-=3  4. eb 8 A 4 c# 8 B 4. A 4 rest
+=3  4. eb 8 A 4 c#' 8 B 4. A 4 rest
 =4  4 rest f# g# b 4. a 8 rest
 =5  8 F# 4 c# 8 B 4. A 8 rest 4 F# Eb(2
 =6  4 f# 8 c# 4 f# 8 fn 2 eb 8 rest c#'
@@ -1453,6 +1472,147 @@ il0.7 .05 115
 =6 1 rest 2 rest
 #i0.1 .50 5 min approx.
 midi pause 3.0
+@
+
+
+1.28
+log
+@finished spacing
+@
+text
+@d23 1
+d34 1
+d37 1
+d74 1
+a74 1
+=6 1 d 8 rest [c d f#]
+d224 1
+a224 1
+=3 4. bb 4 rest 8 e 4 c~ 8 bn 4. bb
+d251 1
+d268 2
+d271 1
+a271 3
+=3 4 c 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
+i0.1 .01 pizz . . .
+=4 cha8 vol110 4 c 8 B 4 c# 8 d# 4 e 8 d# 4 f 8 e
+d279 2
+a280 2
+=3 4 f 8 f# 4 d 8 c# 8. [B 8 Bb 16 G] 4 G# 8 rest
+=4 4 f 8 f# 4 d 8 c# 8. [B 8 Bb 16 G] 4 G# 8 rest
+a294 1
+#i0.7 .01 continuing the rabbit
+d316 1
+a316 1
+=1, 12/8 8 [A 16 c] 8 [B 16 d] 8 [eb 16 B] 8 [c 16 eb] 8 [d 16 f] 8 [f# 16 eb] 8 [d 16 fn] 8 [f# 16 g#]
+d404 9
+a412 2
+=5 12/8 2 eb 4 f 2 a 4 c~#
+=6 12/8 2 eb 4 f 2 a 4 c~#
+d418 2
+a419 2
+=5 6/8 2 e~b 4 c~
+=6 6/8 2 e~b 4 c~
+d433 1
+a433 1
+=2, 12/8 8 [eb 16 f#] 8 [fn 16 g#] 8 [a 16 f] 8 [f# 16 a] 8 [g# 16 b] 8 [c~ 16 a] 8 [g# 16 b] 8 [c~ 16 d~]
+d436 2
+a437 2
+=5 12/8 2 b 4 a 2 g# 4 gn
+=6 12/8 2 b 4 a 2 g# 4 gn
+d443 2
+a444 2
+=5 6/8 2 f 4 e
+=6 6/8 2 f 4 e
+d451 1
+a451 1
+=1 12/8 8 [eb 16 f#] 8 [fn 16 g#] 8 [a 16 f] 8 [f# 16 a] 8 [g# 16 b] 8 [c~ 16 a] 8 [g# 16 b] 8 [c~ 16 d~]
+d456 2
+a457 2
+=5 12/8 2 b 4 a 2 g# 4 gn
+=6 12/8 2 b 4 a 2 g# 4 gn
+d464 2
+a465 2
+=5 6/8 2 f 4 f#
+=6 6/8 2 f 4 f#
+d475 2
+a476 2
+=5 12/8 2 ab 4 gb  2 f 4 g# tenor
+=6 12/8 2 ab 4 gb  2 f 4 g# tenor
+d508 3
+a510 3
+=3  1. e-dim40
+i0.1 .65 arco . . .
+=4  vol120 1 e-emph 2 rest
+d518 2
+a519 2
+=3  vol90 cc11=100 2 blank 1 rest
+=4  cha4 cc11=100 vol90 4 G# 2 d 4 db 2 c
+d530 1
+d539 1
+d547 1
+d611 1
+a611 1
+ | 4 5 5 4 5 4 5 5 5 5.5 4 4 |
+d631 1
+a631 1
+=1 4 gb 8 rest bb 4 e 8 [f gb(1] 4. gb)1(1
+d643 1
+a643 1
+=2  4 Bb')2 8 Gb 4 F 8 Bb 4 A  8 A  4 G# 8 c#
+d645 1
+a645 1
+=4  4 Bb')2 8 Gb 4 F 8 Bb 4 A  8 A  4 G# 8 c#
+d729 1
+a729 1
+=2 4. rest 8 d 4. f# 8 fn 2 e
+d804 1
+d818 1
+a818 1
+=2 2 rest rest rest
+d830 1
+a830 1
+=6 22 G)2 8 rest [G, A c#] 4 B
+d857 1
+a857 1
+=4 4. rest 8 [c c# f] 2 e 8 rest ab
+d985 4
+a988 4
+=1, 4. e  8 e  4. bb 8 a 4. g# 8 g# 4. c~# 8 c~n
+=2, 4. db 8 db 4. c  8 f 4. e  8 e  4. d#  8 g#
+=3, 4. e  8 e  4. bb 8 a 4. g# 8 g# 4. c~# 8 c~n
+=4, 4. db 8 db 4. c  8 f 4. e  8 e  4. d#  8 g#
+d997 1
+a997 1
+=2 7/4 4. g 8 g 4 d 8 eb 4. en 8 e 4 B 8 c
+d999 1
+a999 1
+=4 7/4 4. g 8 g 4 d 8 eb 4. en 8 e 4 B 8 c
+d1004 1
+a1004 1
+=2 12/8 4 d  8 d  4 A 8 A#  4 B  8 B  4 F# 8 rest
+d1085 1
+a1085 1
+2 bars | 4 4 6 4 4 5 4 4 6 4 4 6 4 4 5 4 4 6 4 4 5 4 4 4 \
+d1088 1
+a1088 1
+=1 vol110 8 [Eb 16 F#] 8 [Fn 16 G#] 8 [A 16 F] 8 [F# 16 A] 8 [G# 16 B'] 8 [c' 16 A] 8 [G# 16 B'] 8 [c 16 d]
+d1090 1
+a1090 1
+i0.1 .01 arco sempre . . .
+d1092 1
+a1092 1
+i0.1 .01 pizz . . .
+d1094 1
+a1094 1
+i0.1 .01 arco sempre . . .
+d1232 2
+a1233 2
+=3 4. c' 8 rest 4 Bb 2 f# 4 fn
+=4 8 f 4 d 8 eb 4 en(1 8 e)1 8 rest 8 f# 4. d
+d1240 1
+a1240 1
+=3  4. eb 8 A 4 c# 8 B 4. A 4 rest
 @
 
 

@@ -12,38 +12,60 @@ A42US = /home/pbin/a42us
 PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-PIECE = strings
+PIECE1 = strings
+PIECE2 = strings_parts
 PLAY = mvt2
 
-dev : title.a4 strings.a4 strings_parts.a4
-all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
- # ${MP3D}/${PIECE}.mp3
-dist:
-	upload ${A4D}/${PIECE}.pdf
-	upload ${USD}/${PIECE}.pdf
+dev : title.a4 title_parts.a4 strings.a4 strings_parts.a4
+all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
+ ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf
+ # ${MP3D}/${PIECE1}.mp3
+dist1:
+	upload ${A4D}/${PIECE1}.pdf
+	upload ${USD}/${PIECE1}.pdf
+dist2:
+	upload ${A4D}/${PIECE2}.pdf
+	upload ${USD}/${PIECE2}.pdf
 
-${A4D}/${PIECE}.pdf : p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE1}.pdf : p2.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
 	groff -ms title | ${BANNERISE} > title.a4
-	${ADDMESSAGE} ${PIECE}.a4 \
+	${ADDMESSAGE} ${PIECE1}.a4 \
 	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
-	${ADDMESSAGE} ${PIECE}.a4 \
+${USD}/${PIECE1}.pdf : title.a4 p2.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE1}.a4 \
 	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| ${A42US} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
-${XMLD}/${PIECE}.xml : ${PIECE}
-	${MUSCRIPT} -xml ${PIECE} > $@
-${SRCD}/${PIECE}.txt : ${PIECE}
-	cp ${PIECE} $@
-${MP3D}/${PIECE}.mp3 : ${PIECE}
-	${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+${XMLD}/${PIECE1}.xml : ${PIECE1}
+	${MUSCRIPT} -xml ${PIECE1} > $@
+${SRCD}/${PIECE1}.txt : ${PIECE1}
+	cp ${PIECE1} $@
+${MP3D}/${PIECE1}.mp3 : ${PIECE1}
+	${MUSCRIPT} -midi ${PIECE1} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
 	${NORMALIZE} --peak t.wav
 	lame -h t.wav $@
 	rm t.wav
 
+${A4D}/${PIECE2}.pdf : p2.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
+	sed s/Score/Parts/ title | groff -ms | ${BANNERISE} > title_parts.a4
+	${ADDMESSAGE} ${PIECE2}.a4 \
+	| ${PSCAT} title_parts.a4 p2.a4 - ${BACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+${USD}/${PIECE2}.pdf : title_parts.a4 p2.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE2}.a4 \
+	| ${PSCAT} title_parts.a4 p2.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${XMLD}/${PIECE2}.xml : ${PIECE2}
+	${MUSCRIPT} -xml ${PIECE2} > $@
+${SRCD}/${PIECE2}.txt : ${PIECE2}
+	cp ${PIECE2} $@
+
 title.a4 : title
 	groff -ms title | ${BANNERISE} > $@
+title_parts.a4 : title
+	sed s/Score/Parts/ title | groff -ms | ${BANNERISE} > $@
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
 play :
