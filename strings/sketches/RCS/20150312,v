@@ -1,0 +1,196 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.03.12.03.00.46;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Erosthanes Seive
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@3 systems /17-18-17 18 17-18-17 18 17-18-17/
+title Erosthanes Sieve
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+midi off
+
+/
+4 bars | 40 | 40 | 40 | 40 |
+| 2.0
+=1 treble cha1 vol50  8 B rest B rest B rest B rest B rest
+=2 treble cha2 vol60  8 A 4 rest 8 A 4 rest 8 A 4 rest 8 A
+=3 alto   cha3 vol70  8 g 2 rest 8 g 2 rest
+=4 alto   cha4 vol80  8 f 2. rest 8 f 4 rest
+=5 tenor  cha5 vol90  8 eb rest 1 rest
+=6 tenor  cha6 vol100 8 db rest 1 rest
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 4 rest 8 A 4 rest 8 A 4 rest 8 A rest
+=3 8 g 2 rest 8 g 2 rest
+=4 2 rest 8 f rest 2 rest
+=5 8 rest eb 1 rest
+=6 4. rest 8 db 2. rest
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 8 rest A 4 rest 8 A 4 rest 8 A 4 rest
+=3 8 g 2 rest 8 g 2 rest
+=4 8 rest f 2. rest 8 f rest
+=5 4 rest 8 eb rest 2. rest
+=6 2. rest 8 db rest 4 rest
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 8 A 4 rest 8 A 4 rest 8 A 4 rest 8 A
+=3 8 g 2 rest 8 g 2 rest
+=4 2. rest 8 f 4. rest
+=5 4. rest 8 eb 2. rest
+=6 1 rest 8 rest db
+/
+4 bars | 40 | 40 | 40 | 40 |
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 4 rest 8 A 4 rest 8 A 4 rest 8 A rest
+=3 8 g 2 rest 8 g 2 rest
+=4 4 rest 8 f rest 2 rest 8 rest f
+=5 2 rest 8 eb rest 2 rest
+=6 1 rest 4 rest
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 8 rest A 4 rest 8 A 4 rest 8 A 4 rest
+=3 8 g 2 rest 8 g 2 rest
+=4 2. rest 8 f rest 4 rest
+=5 2 rest 8 rest eb 2 rest
+=6 4 rest 8 db rest 2. rest
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 8 A 4 rest 8 A 4 rest 8 A 4 rest 8 A
+=3 8 g 2 rest 8 g 2 rest
+=4 4. rest 8 f 2. rest
+=5 2. rest 8 eb rest 4 rest
+=6 2 rest 8 rest db 2 rest
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 4 rest 8 A 4 rest 8 A 4 rest 8 A rest
+=3 8 g 2 rest 8 g 2 rest
+=4 8 f rest 2 rest 8 rest f 4 rest
+=5 2. rest 8 rest eb 4 rest
+=6 1 rest 8 db rest
+/
+4 bars | 40 | 40 | 40 | 40 |
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 8 rest A 4 rest 8 A 4 rest 8 A 4 rest
+=3 8 g 2 rest 8 g 2 rest
+=4 2 rest 8 f rest 2 rest
+=5 1 rest 8 eb rest
+=6 1 rest 4 rest
+|
+=1 8 B rest B rest B rest B rest B rest
+=2 8 A 4 rest 8 A 4 rest 8 A 4 rest 8 A
+=3 8 g 2 rest 8 g 2 rest
+=4 8 rest f 2. rest 8 f rest
+=5 1 rest 8 rest eb
+=6 8 rest db 1 rest
+
+3 systems /17-18-17 18 17-18-17 18 17-18-17/
+
+midi on
+
+/
+4 bars | 40 | 40 | 40 | 40 |
+| 2.0
+=6 tenor  cha8 vol50  8 c rest c rest c rest c rest c rest
+=5 tenor  cha5 vol60  8 d 4 rest 8 d 4 rest 8 d 4 rest 8 d
+=4 alto   cha8 vol70  8 e 2 rest 8 e 2 rest
+=3 alto   cha3 vol80  8 f# 2. rest 8 f# 4 rest
+=2 treble cha8 vol90 8 G# rest 1 rest
+=1 treble cha1 vol100 8 A# rest 1 rest
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 4 rest 8 d 4 rest 8 d 4 rest 8 d rest
+=4 8 e 2 rest 8 e 2 rest
+=3 2 rest 8 f# rest 2 rest
+=2 8 rest G# 1 rest
+=1 4. rest 8 A# 2. rest
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 8 rest d 4 rest 8 d 4 rest 8 d 4 rest
+=4 8 e 2 rest 8 e 2 rest
+=3 8 rest f# 2. rest 8 f# rest
+=2 4 rest 8 G# rest 2. rest
+=1 2. rest 8 A# rest 4 rest
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 8 d 4 rest 8 d 4 rest 8 d 4 rest 8 d
+=4 8 e 2 rest 8 e 2 rest
+=3 2. rest 8 f# 4. rest
+=2 4. rest 8 G# 2. rest
+=1 1 rest 8 rest A#
+/
+4 bars | 40 | 40 | 40 | 40 |
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 4 rest 8 d 4 rest 8 d 4 rest 8 d rest
+=4 8 e 2 rest 8 e 2 rest
+=3 4 rest 8 f# rest 2 rest 8 rest f#
+=2 2 rest 8 G# rest 2 rest
+=1 1 rest 4 rest
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 8 rest d 4 rest 8 d 4 rest 8 d 4 rest
+=4 8 e 2 rest 8 e 2 rest
+=3 2. rest 8 f# rest 4 rest
+=2 2 rest 8 rest G# 2 rest
+=1 4 rest 8 A# rest 2. rest
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 8 d 4 rest 8 d 4 rest 8 d 4 rest 8 d
+=4 8 e 2 rest 8 e 2 rest
+=3 4. rest 8 f# 2. rest
+=2 2. rest 8 G# rest 4 rest
+=1 2 rest 8 rest A# 2 rest
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 4 rest 8 d 4 rest 8 d 4 rest 8 d rest
+=4 8 e 2 rest 8 e 2 rest
+=3 8 f# rest 2 rest 8 rest f# 4 rest
+=2 2. rest 8 rest G# 4 rest
+=1 1 rest 8 A# rest
+/
+4 bars | 40 | 40 | 40 | 40 |
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 8 rest d 4 rest 8 d 4 rest 8 d 4 rest
+=4 8 e 2 rest 8 e 2 rest
+=3 2 rest 8 f# rest 2 rest
+=2 1 rest 8 G# rest
+=1 1 rest 4 rest
+|
+=6 8 c rest c rest c rest c rest c rest
+=5 8 d 4 rest 8 d 4 rest 8 d 4 rest 8 d
+=4 8 e 2 rest 8 e 2 rest
+=3 8 rest f# 2. rest 8 f rest
+=2 1 rest 8 rest G#
+=1 8 rest A# 1 rest
+
+
+@

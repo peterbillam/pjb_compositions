@@ -260,25 +260,31 @@ il0.8 .09 20
 =5 1 g)1 2 rest
 =6 1 db 2 eb
 
-|
+| 2.8 3.2
 =1 vol-7 1 b 2 rest treble
+i.50 .40 piu lento
 =2 vol-7 1 g 2 rest treble
 =3 vol-7 1 f~ 2 rest alto
+i.50 .40 piu lento
 =4 vol-7 1 b 2 rest alto
 =5 vol-7 1 g 2 rest bass
 i.50 .40 piu lento
 =6 vol-7 1 c# 2 B bass
-|
+| 3.7 4.3
 il0.5 .03 25
 =1 vol-7 1 B_ vol-7 2 B_
+I0.3 .03 p
+i0.3 .40 dim  .   .   .
 =2 vol-7 1 A_ vol-7 2 A_
 =3 vol-7 1 F# vol-7 2 F#
+I0.4 .03 p
+i0.4 .40 dim  .   .   .
 =4 vol-7 1 D vol-7 2 D
 =5 vol-7 1 B vol-7 2 B
 I0.5 .03 p
 i0.5 .40 dim  .   .   .
 =6 vol-7 1 e vol-7 2 F#
-| 6.5
+| 5.0 5.8
 =1 vol-7 1 B_-fermata 2 rest
 =2 vol-7 1 A_-fermata 2 rest
 =3 vol-7 1 F#-fermata 2 rest

@@ -1,0 +1,206 @@
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+pagenum
+innerhead Peter Billam
+leftfoot (c) 2014 Peter J Billam
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+midi channel 10 patch 46 pan 50    # harp; a glissable pizz
+midi channel 11 patch 46 pan 50    # harp; a glissable pizz
+
+title erm . . .
+/
+4 bars | 48 | 48 | 48 | 48 |
+| 1.5
+=1  treble cha1 leg89  vol80  bend50
+=2  treble cha2 leg89  vol80  bend50
+=3  alto   cha3 leg89  vol80  bend50
+=4  alto   cha4 leg89  vol80  bend50
+=5  bass   cha5 leg89  vol80  bend50
+=6  bass   cha6 leg89  vol80  bend50
+=1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
+=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
+=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
+=2' 16 [F# G G] [F# G G] [F# G G] [F# G G]
+=3, 16 [eb d eb] [eb d eb] [eb d eb] [eb d eb]
+|
+=1' 16 [Bb Bb c] [Bb Bb c] [Bb Bb c] [Bb Bb c]
+=2' 16 [F# G# G#] [F# G# G#] [F# G# G#] [F# G# G#]
+=3, 16 [e d e] [e d e] [e d e] [e d e]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
+=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
+=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [G G Ab] [G G Ab] [G G Ab] [G G Ab]
+=2' 16 [E F F] [E F F] [E F F] [E F F]
+=3, 16 [db c db] [db c db] [db c db] [db c db]
+|
+#=1' 16 [F F G] [F F G] [F F G] [F F G]
+#=2' 16 [C# D# D#] [C# D# D#] [C# D# D#] [C# D# D#]
+#=3, 16 [B A B] [B A B] [B A B] [B A B]
+=1' 16 [G G A] [G G A] [G G A] [G G A]
+=2' 16 [Eb F F] [Eb F F] [Eb F F] [Eb F F]
+=3, 16 [c# B c#] [c# B c#] [c# B c#] [c# B c#]
+
+
+midi off
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+title AAB AAB AAB
+
+/
+4 bars | 48 || 48 | 48 || 48 |
+| 1.5
+i0.6 2, 2, 2
+=1  treble cha1 leg89  vol80  bend50
+=2  treble cha2 leg89  vol80  bend50
+=3  alto   cha3 leg89  vol80  bend50
+=4  alto   cha4 leg89  vol80  bend50
+=5  bass   cha5 leg89  vol80  bend50
+=6  bass   cha6 leg89  vol80  bend50
+=1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
+=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+
+|
+i0.6 2, 2, 1
+=1' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
+=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+
+|
+i0.6 2, 1, 1
+=1' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
+=2' 16 [F Gb Gb] [F Gb Gb] [F Gb Gb] [F Gb Gb]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+=1' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=2' 16 [F Gb Gb] [F Gb Gb] [F Gb Gb] [F Gb Gb]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
+=2' 16 [E F F] [E F F] [E F F] [E F F]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=2' 16 [E F F] [E F F] [E F F] [E F F]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=1' 16 [G G Ab] [G G Ab] [G G Ab] [G G Ab]
+=2' 16 [E F F] [E F F] [E F F] [E F F]
+=3, 16 [d c d] [d c d] [d c d] [d c d]
+
+|
+i0.6 1, 1, 1
+=1' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=2' 16 [E F F] [E F F] [E F F] [E F F]
+=3, 16 [db c db] [db c db] [db c db] [db c db]
+|
+=1' 16 [G G Ab] [G G Ab] [G G Ab] [G G Ab]
+=2' 16 [E F F] [E F F] [E F F] [E F F]
+=3, 16 [db c db] [db c db] [db c db] [db c db]
+|
+=1' 16 [G G Ab] [G G Ab] [G G Ab] [G G Ab]
+=2' 16 [D# E E] [D# E E] [D# E E] [D# E E]
+=3, 16 [db c db] [db c db] [db c db] [db c db]
+|
+=1' 16 [F# F# G] [F# F# G] [F# F# G] [F# F# G]
+=2' 16 [D# E E] [D# E E] [D# E E] [D# E E]
+=3, 16 [db c db] [db c db] [db c db] [db c db]
+
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+
+/
+4 bars | 48 || 48 | 48 || 48 |
+| 1.5
+i0.6 2, 2, 2
+=1  treble cha1 leg89  vol80  bend50
+=2  treble cha2 leg89  vol80  bend50
+=3  alto   cha3 leg89  vol80  bend50
+=4  alto   cha4 leg79  vol80  bend50
+=5  tenor  cha5 leg79  vol80  bend50
+=6  bass   cha6 leg79  vol80  bend50
+=4' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
+=5' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+
+|
+i0.6 2, 2, 1
+=4' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
+=5' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=4' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=5' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+
+|
+i0.6 2, 1, 1
+=4' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
+=5' 16 [F Gb Gb] [F Gb Gb] [F Gb Gb] [F Gb Gb]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+=4' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=5' 16 [F Gb Gb] [F Gb Gb] [F Gb Gb] [F Gb Gb]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=4' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
+=5' 16 [E F F] [E F F] [E F F] [E F F]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=4' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=5' 16 [E F F] [E F F] [E F F] [E F F]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+|
+=4' 16 [G G Ab] [G G Ab] [G G Ab] [G G Ab]
+=5' 16 [E F F] [E F F] [E F F] [E F F]
+=6, 16 [d c d] [d c d] [d c d] [d c d]
+
+|
+i0.6 1, 1, 1
+=4' 16 [G# G# A] [G# G# A] [G# G# A] [G# G# A]
+=5' 16 [E F F] [E F F] [E F F] [E F F]
+=6, 16 [db c db] [db c db] [db c db] [db c db]
+|
+=4' 16 [G G Ab] [G G Ab] [G G Ab] [G G Ab]
+=5' 16 [E F F] [E F F] [E F F] [E F F]
+=6, 16 [db c db] [db c db] [db c db] [db c db]
+|
+=4' 16 [G G Ab] [G G Ab] [G G Ab] [G G Ab]
+=5' 16 [D# E E] [D# E E] [D# E E] [D# E E]
+=6, 16 [db c db] [db c db] [db c db] [db c db]
+|
+=4' 16 [F# F# G] [F# F# G] [F# F# G] [F# F# G]
+=5' 16 [D# E E] [D# E E] [D# E E] [D# E E]
+=6, 16 [db c db] [db c db] [db c db] [db c db]
