@@ -106,3 +106,14 @@
 	  slithering trill-masses
 	  gliss 042-chord
 	  another pizz-halt
+
+20150402
+	The beginning could be:
+	  muscript -midi 20150329 | midisox_lua - -d stat
+	Transitioning through something like:
+	  muscript -midi 20150327 | midisox_lua - -d stat
+	Leading up to the end:
+	  muscript -midi 20150320 | midisox_lua - -d stat pitch -300
+	followed by:
+	  muscript -midi 20150402 | midisox_lua - -d stat
+	

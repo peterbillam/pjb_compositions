@@ -15,7 +15,7 @@ midi channel 8 patch 45 pan 50     # pizz
 midi channel 10 patch 46 pan 50    # harp; a glissable pizz
 midi channel 11 patch 46 pan 50    # harp; a glissable pizz
 
-title erm . . .
+title see 20150320 . . .
 /
 4 bars | 48 | 48 | 48 | 48 |
 | 1.5
@@ -28,14 +28,17 @@ title erm . . .
 =1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
 =2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
 =3, 16 [d c d] [d c d] [d c d] [d c d]
+midi pause 1.5
 |
-=1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
-=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
-=3, 16 [d c d] [d c d] [d c d] [d c d]
+=4' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
+=5, 16 [e f# f#] [e f# f#] [e f# f#] [e f# f#]
+=6' 16 [d c d] [d c d] [d c d] [d c d]
+midi pause 1.125
 |
 =1' 16 [A A Bb] [A A Bb] [A A Bb] [A A Bb]
 =2' 16 [F# G G] [F# G G] [F# G G] [F# G G]
 =3, 16 [eb d eb] [eb d eb] [eb d eb] [eb d eb]
+midi pause 0.75
 |
 =1' 16 [Bb Bb c] [Bb Bb c] [Bb Bb c] [Bb Bb c]
 =2' 16 [F# G# G#] [F# G# G#] [F# G# G#] [F# G# G#]
@@ -43,9 +46,11 @@ title erm . . .
 /
 4 bars | 48 | 48 | 48 | 48 |
 |
+midi pause 0.375
 =1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
 =2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]
 =3, 16 [d c d] [d c d] [d c d] [d c d]
+midi off
 #|
 #=1' 16 [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb] [Ab Ab Bb]
 #=2' 16 [E F# F#] [E F# F#] [E F# F#] [E F# F#]

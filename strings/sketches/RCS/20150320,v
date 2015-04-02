@@ -1,4 +1,33 @@
-3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.03.23.04.27.42;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.03.22.02.07.47;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@fumblings towards another Encore
+@
+
+
+1.2
+log
+@24 secs of square-dance ?
+@
+text
+@3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
 
 pagenum
@@ -96,9 +125,10 @@ title erm . . .
 =2' 16 [G# A# A#] [G# A# A#] [G# A# A#] [G# A# A#]
 =3, 16 [f# e f#] [f# e f#] [f# e f#] [f# e f#]
 |
+I0.5 .95 ???
 =1, 16 [B B c#] [B B c#] [B B cn] [B B cn]
 =2' 16 [G# A# A#] [G# A# A#] [G# An A] [G# A A]
-#I0.7 .95 ???
+I0.7 .95 ???
 =3, 16 [f# e f#] [f# e f#] [fn e f] [f e f]
 |
 =1  16 [Bb Bb c] [Bb Bb c] [A A Bb'] [A A Bb']
@@ -253,3 +283,23 @@ i0.6 1, 1, 1
 =4' 16 [F# F# G] [F# F# G] [F# F# G] [F# F# G]
 =5' 16 [D# E E] [D# E E] [D# E E] [D# E E]
 =6, 16 [db c db] [db c db] [db c db] [db c db]
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d71 3
+d81 1
+a81 1
+=1' 16 [A A Bb] [A A Bb] [Bb Bb c] [Bb Bb c]
+d83 1
+a83 1
+=3, 16 [eb d eb] [eb d eb] [e d e] [e d e]
+d89 1
+a89 1
+=1' 16 [Bb Bb c] [Bb Bb c] [Bn B c] [B B c]
+d92 22
+@
