@@ -1,0 +1,1451 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.04.14.11.56.37;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.04.14.07.33.52;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@product of make_parts and squeezing
+@
+
+
+1.2
+log
+@horizontal spacing now plausible
+@
+text
+@6 systems 15/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-18-18 5/
+
+$CRE1 = 
+$DIM1 = 
+$DOWN1 = 
+
+title I     Violin parts
+% was sketches/20150214, the hypothetical second movement . . .
+pagenum
+innerhead Encores, Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 5.0
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+midi off
+
+i0.5 .01 molto lento,  mm=60..72 approx, ma senza accelerando, a tempo sempre
+=1  treble cha1 leg99  vol80  bend50 cc11=100
+=2  treble cha2 leg99  vol80  bend50 cc11=100
+=1 1 B_ 2 B_
+I0.3 .15 mf
+=2 1 A_ 2 A_
+I0.4 .15 mf
+|
+=1 2 C 4 D 2 Eb 4 F
+=2 1 G_# 2 B_b(2
+|
+=1 1 Eb 2 C#
+=2 1 B_b)2 2 A_
+|
+=1 1 F 2 rest
+=2 1 C# 2 rest
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+il0.5 .03 5
+=1 2 F 4 G 2 Ab 4 G
+=2 1 Eb 2 Eb
+|
+=1 1 F# 2 A(2
+=2 1 D 2 E(2
+|
+=1 2 A)2 4 B 2 d 4 c
+=2 1 E)2 2 Eb
+|
+=1 1 B 2 rest
+=2 2 G 4 A 2 B 4 Bb
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 1 B 2 B
+=2 1 A 2 A
+|
+il0.5 .03 10
+=1 2 c 4 db 2 eb 4 f
+i0.5 .10 crescendo  poco a poco
+=2 1 G# 2 Bb'(2
+|
+=1 1 eb 2 c#
+i0.5 .05 . .35 . .65 . .95 .
+=2 1 Bb)2 2 A
+|
+=1 1 f 2 rest
+=2 1 c# 2 rest
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 5.0
+=1  treble cha1 leg99  vol80  bend50
+=2  treble cha2 leg99  vol80  bend50
+=1 2 f 4 g 2 ab 4 g
+=2 1 eb 2 eb
+|
+=1 1 f# 2 a(1
+=2 1 d 2 e(1
+|
+il0.8 .13 15
+=1 2 a)1 4 b 2 d~ 4 c~
+=2 1 e)1 2 eb
+|
+=1 1 b 2 rest
+=2 2 g 4 a 2 b 4 bb
+|
+=1 1 b 2 b
+=2 1 a 2 a
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 2 c~ 4 d~ 2 e~b 4 f~
+=2 1 g# 2 bb(1
+|
+=1 1 e~b 2 d~b
+=2 1 bb)1 2 a
+|
+=1 1 f~  treble8va 2 rest
+=2 1 c~# treble8va 2 rest
+|
+il0.8 .09 20
+=1 2 f 4 g 2 ab 4 g
+=2 1 eb 2 eb
+|
+=1 1 f# 2 a(1
+=2 1 d 2 e(1
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ||
+|
+=1 2 a)1 4 b 2 d~ 4 c~
+I0.7 .03 ff
+=2 1 e)1 2 eb
+|
+=1 1 b 2 rest
+=2 1 g 2 rest
+| 2.8 3.2
+=1 vol-7 1 b 2 rest treble
+i.50 .40 piu lento
+=2 vol-7 1 g 2 rest treble
+| 3.7 4.3
+il0.5 .03 25
+=1 vol-7 1 B_ vol-7 2 B_
+I0.2 .03 mp
+i0.3 .40 dim  .   .   .
+=2 vol-7 1 A_ vol-7 2 A_
+| 5.0 5.8
+=1 vol-7 1 B_-fermata 2 rest
+=2 vol-7 1 A_-fermata 2 rest
+
+7 systems 9/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17 5/
+title I I     Violin parts
+
+/
+5 bars | 10 | 2 2 2 2 2 2 2 2 3 2 2 1.5 | 2 2 3 2 2 2 2 2 3 2 2 1.5 \
+ | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5 |
+| 1.5
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+=1  treble cha1 leg89  vol90  bend50 cc64=0 cc11=100
+=2  treble cha2 leg89  vol80  bend50 cc64=0 cc11=100
+=1  2. a
+=2  2. a
+|
+=1, vol90 8 [a 16 g] 8 [f 16 g] 8 [g 16 f] 8 [eb 16 f]
+=2, vol80 4 a 8 g 4 f 8 g
+|
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [g 16 f] 8 [eb 16 f]
+=2, 4 g 8 f 4 eb 8 f
+|
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
+=2, 4 f 8 eb 4 db 8 eb
+|
+il0.7 .23 5
+=1,  8 [eb 16 db] 8 [B 16 db] 8 [f 16 eb] 8 [db 16 eb]
+=2,  4 g 8 f 4 eb 8 f
+/
+4 bars | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 2.5 2 2 2 2 2 1.5 \
+ | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 2 3 2 2 1.5 |
+|
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+=2, 4 g 8 f 4 eb 8 f
+|
+=1, 8 [c# 16 B] 8 [A 16 B] 8 [eb 16 c#] 8 [B 16 c#]
+=2, 4 f 8 eb 4 db 8 eb
+|
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
+=2, 4 eb 8 c# 4 B 8 c#
+|
+=1,  8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [db 16 eb]
+=2,  4 f 8 eb 4 db 8 eb
+/
+4 bars | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5 \
+ | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 2 2 2 1.5 |
+|
+il0.7 .20 10
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
+=2, 4 f 8 eb 4 db 8 eb
+|
+=1, 8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [db 16 eb]
+=2, 4 eb 8 c# 4 B 8 c#
+|
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+=2' 4 c# 8 B 4 A 8 B
+|
+=1'  8 [c# 16 B] 8 [A 16 B] 8 [eb 16 c#] 8 [B 16 c#]
+=2,  4 eb 8 c# 4 B 8 c#
+/
+4 bars | 2 2 2 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 2 2 2 1.5 \
+ | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 2 2 2 1.5 |
+|
+=1' 8 [eb 16 c#] 8 [B 16 c#] 8 [c# 16 B] 8 [A 16 B]
+=2, 4 eb 8 c# 4 B 8 c#
+|
+il0.8 .23 15
+=1' 8 [B 16 A] 8 [G 16 A] 8 [c# 16 B] 8 [A 16 B]
+=2' 4 c# 8 B 4 A 8 B
+|
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+=2' 4 B 8 A 4 G 8 A
+|
+=1' 8 [c# 16 B] 8 [A 16 B] 8 [eb 16 c#] 8 [B 16 c#]
+=2' 4 c# 8 B 4 A 8 G
+/
+7 bars | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 8 | 8 | 8 | 8 \
+ | 2 1 1 2 1 1 2 2 3 2 2 1.5 | 2 2 3 2 2 3 2 2 3 2 2 1.5 |
+|
+=1' 16 [A A B] [A A B] [A A B] [A A B]
+=2' 16 [F G G] [F G G] [F G G] [F G G]
+| 1.5
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+il0.4 .03 20
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1, 8. rest rest 16 [g g a] [g g a]
+=2, 8. rest rest 16 [eb f f] [eb f f]
+|
+=1, 16 [g g a] [g g a] [g g a] [g g a]
+=2, 16 [eb f f] [eb f f] [eb f f] [eb f f]
+/
+6 bars | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5   | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 2.5 2 2 2 2 2 1.5 | 7 | 7 |
+|
+il0.7 .23 25
+=1, vol90 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
+=2, vol80 4 g 8 f 4 eb 8 f
+|
+=1, 8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [db 16 eb]
+=2, 4 eb 8 c# 4 B 8 c#
+|
+=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+=2, 4 f 8 eb 4 c# 8 eb
+|
+=1, 8 [c# 16 B] 8 [A 16 B] 8 [eb 16 c#] 8 [B 16 c#]
+=2, 4 c# 8 B 4 A 8 B
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+|
+il0.5 .03 30
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+/
+4 bars | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 3 2 2 1.5 \
+ | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5 |
+|
+=1 8 [G 16 A] 8 [c 16 Bb] 8 [A 16 Bn'] 8 [d 16 c]
+=2 4 G 8 A 4 c 8 Bb
+|
+=1 8 [c 16 d] 8 [f 16 eb] 8 [Bb 16 cn] 8 [eb 16 db]
+=2 4 A 8 B 4 d 8 c#
+|
+=1 8 [A 16 B'] 8 [d 16 c] 8 [B 16 c#] 8 [e 16 d]
+=2 4 A 8 B 4 d 8 c
+|
+=1, 8 [d 16 e] 8 [g 16 f] 16 [g g a] [g g a]
+=2, 4 B 8 c# 16 [eb f f] [eb f f]
+/
+4 bars | 2 2 3 2 2 3 2 2 3 2 2 1.5 | 2 1.5 4 2 2 3 2 2 3 2 2 1.5 \
+ | 2 2 3 2 2 3 2 2 3 2 2 1.5 | 2 2 3 2 2 2.5 2 2 3 2 2 1.5 |
+|
+il0.7 .10 35
+=1, 16 [g g a] [g g a] [g g a] [g g a]
+=2, 16 [eb f f] [eb f f] [eb f f] [eb f f]
+|
+=1 2 blank 1 rest
+=2' vol100 8 rest 16 Eb 8 [Ab 16 Gb] 8 [Eb 16 F] 8 [Bb 16 Ab]
+|
+=1 2 blank 1 rest
+=2  8 [G# 16 A#] 8 [d# 16 c#] 8 [F# 16 G#] 8 [c# 16 B]
+|
+=1 2 blank 1 rest
+=2  8 [G# 16 A#] 8 [d# 16 c#] 8 [F# 16 G#] 8 [c# 16 B]
+/
+7 bars | 3 3 3 3 3 3 3 3 3 3 3 1.5 \
+ | 4 | 4 | 4 | 4 | 2 2 2 2 2 3 2 2 2 2 2 1.5 | 2 2 3 2 2 2 2 2 2 2 2 1.5 |
+|
+=1 16 [f f g] [f f g] [f f g] [f f g]
+=2 16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
+|
+il0.7 .13 40
+#Il0.4 .03 jig
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+|
+#Il0.4 .50 seethe
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+|
+#Il0.4 .03 jig
+=1 vol80 8 rest 16 eb 8 [g 16 f] 8 [eb 16 f] 8 [a 16 g]
+=2 vol80 4 c# 8 eb 4 g 8 f
+|
+il0.8 .03 45
+=1 8 [g 16 a] 8 [c~# 16 b] 8 [f 16 g] 8 [b 16 c~#]
+=2 4 eb 8 f 4 a 8 g
+/
+4 bars | 2 2 2 2 3 3 2 2 2 2 2 1.5 | 2 3 3 2 2 2 2 2 2 2 3 1.5 \
+ | 3 2 3 3 2 3 3 3 3 3 2 1.5 | 2 2 2 2 3 2 3 2 2 2 2 1.5 |
+| 1.5
+=1 leg89 vol95 bend50
+=2 leg89 vol80 bend50
+=1  8. rest 16 [g#-up a-down c~#-up] d~#-down rest rest 8. rest
+=2' 16 [F F G] [F F G] [F F G] [F F G]
+|
+=1  16 [g# a c~#] d~# rest rest 8. rest 16 [g# a c~#]
+=2' 16 [F F G] [F F G] [F F G] [F F G]
+|
+=1  16 d~# rest rest 8. rest 16 [g# a c~n] e~ rest rest
+=2' 16 [F# F# G] [F# F# G] [F# F# G] [F# F# G]
+|
+=1  8. rest 16 [a b c~#] [f~{1 e~b}1 b] 8 a 16 rest
+=2' 16 [G G A] [G G A] [G G A] [G G A]
+/
+4 bars | 2 2 2 2 3 2 2 2 2 2 2 1.5 | 3 3 3 3 2 3 3 2 3 3 2 1.5 \
+ | 2 2 2 2 2 2 3 2 2 2 3 1.5 | 2 2 2 2 2 2 2 2 2 2 2 1.5 |
+|
+il0.7 .03 50
+=1  8. rest 16 [a b c~#] f~ rest rest 8. rest
+=2'  16 [F F G] [F F G] [F F G] [F F G]
+|
+=1  16 [a b c~#] f~# rest rest 8. rest 16 [a b d~]
+=2' 16 [F# F# G] [F# F# G] [F# F# G] [F# F# G]
+|
+=1  16 g~ rest rest 8. rest 16 [b c~# f~] [a~{1 g~}1 e~b]
+=2' 16 [F F G] [F F G] [F F G] [F F G]
+|
+=1  8 c~# 16 rest 8. g(1-tr 4. g)1
+=2' 16 [E E F] [E E F] [E E F] [E E F]
+/
+4 bars | 2 2 2 2 3 2 2 2 2 2 3 1.5 | 3 2 3 3 2 2 2 3 3 2 2 1.5 \
+ | 2 3 3 2 2 3 3 2 3 3 3 1.5 | 2 2 3 3 2 3 3 2 3 3 2 1.5 |
+|
+=1  8. rest' 16 [a~ g~ e~b] 8 b 16 rest' 16 [a~ g~ e~b]
+=2  16 [F F G] [F F G] [F F G] [F F G]
+|
+il0.8 .20 55
+=1  8 c~ 16 rest' 8. rest' 16 [a~ g~ e~b] 8 d~b 16 rest' 
+=2  16 [F# F# G] [F# F# G] [G G A] [G G A]
+|
+=1 16 [a~ g~ e~b] 8 d~b 16 rest' 8. rest' 16 [a~ f~# e~n]
+=2' 16 [F F G] [F F G] [F# F# G] [F# F# G]
+|
+=1  8 c~# 16 rest 8. e~(1-tr 4. e~)1
+=2  16 [G G A] [G# G# A] [G# G# A] [G# G# A]
+/
+4 bars | 2 2 2 2 3 2 2 2 2 3 3 1.5 | 2 3 2 2 2 2 3 3 2 3 3 1.5 \
+ | 3 3 3 3 3 3 3 3 2 3 3 1.5 | 2 2 2 2 2 2 2 2 2 2 2 1.5 |
+|
+=1 8. rest 16 [f~ e~ c~#] a 8 rest 16 [f~ e~b c~n]
+=2' 16 [F G G] [F G G] [F G G] [F G G]
+|
+=1 16 [g rest'' c~#] [a f] rest [bb f# d] rest [g# e]
+=2' 16 [F G G] [F G G] [F Gb Gb] [F Gb Gb]
+|
+il0.7 .03 60
+=1  16 [db f eb] [db rest db] [A F# c'] [A rest G]
+=2' 16 [F Eb Eb] [F Eb Eb] [En D# D#] [E D# D#]
+|
+=1  8 [F 16 E] 8 [D 16 E] 4. D(2-tr
+=2' 16 [C D D] [C D D] [C D D] [C D D(2]
+/
+6 bars | 36 | 48 | 6 6 6 6 7 6 6 6 | 6 6 6 6 7 6 6 6 | 40 | 36 ||
+| 4.0
+#il0.4 .01 possible ending: see AP p.19
+I0.8  lento
+i0.8 .30 mm~=60
+i0.2 .25 dim . . niente
+=1  treble cha1 leg110  vol85  bend50 cc64=0
+=2  treble cha2 leg110  vol85  bend50 cc64=0
+=1 1 D)2-tr-dim70
+##M=1 32-s vol-2 C D vol-2 C D vol-2 C  D vol-2 C D vol-2 C D  vol-2 C D vol-2 C D vol-2 C  D vol-2 C D vol-2 C D vol-2 C D vol-2 C  D vol-2 C D vol-2 C D
+=2 2. D)2-dim60 4 rest cc11=100
+|
+=1 2 blank 1 rest cc11=100
+=2 4 rest 2. F#
+|
+=1 2 blank 1 rest
+=2' 2 rest' 8 rest' 4. Bb(1
+=2, 2 G(2 G)2(2
+|
+il0.9 .20 65
+=1' 4. rest'' 8 g(1 2 g)1(1
+=1, 2 d(2 d)2(2
+=2 1 <G)2 Bb')1(1>
+| 5.0
+=1 1 <d)2(2 d~(1-fermata>
+=2 1 <Bb')1(1 g(3-fermata>
+| 6.0
+=1 1 <d)2 d~)1-fermata-dim70>
+=2 1 <Bb')1 g)3-fermata-dim70>
+
+6 systems 15/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-18-18 5/
+$CRE1 = 
+$DIM1 = 
+$DOWN1 = 
+
+title I     Viola parts
+% was sketches/20150214, the hypothetical second movement . . .
+pagenum
+innerhead Encores, Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 5.0
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+midi off
+
+i0.5 .01 molto lento,  mm=60..72 approx, ma senza accelerando, a tempo sempre
+=1  alto   cha3 leg99  vol80  bend50 cc11=100
+=2  alto   cha4 leg99  vol80  bend50 cc11=100
+=1 1 F# 2 F#
+I0.3 .02 mf
+=2 1 D 2 D
+I0.4 .15 mf
+|
+=1 1 F 2 G
+=2 1 D 2 Eb(2
+|
+=1 1 F#(2 2 F#)2
+=2 1 Eb)2 2 Eb
+|
+=1 1 B 2 rest
+=2 1 F 2 G
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+il0.5 .03 5
+=1 1 c 2 c
+=2 1 G# 2 G#
+|
+=1 2 B 4 c# 2 d 4 db
+=2 1 G# 2 A(2
+|
+=1 1 c(1 2 c)1
+=2 1 A)2 2 A
+|
+=1 1 f 2 rest
+=2 1 B 2 c#'
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 1 gb 2 gb
+=2 1 d 2 d
+|
+il0.5 .03 10
+=1 1 f 2 g
+i0.6 .10 crescendo  poco a poco
+=2 1 eb 2 eb(1
+|
+=1 1 f#(1 2 f#)1
+i0.6 .05 . .35 . .65 . .95 .
+=2 1 eb)1 2 eb
+|
+=1 1 b 2 rest
+=2 1 f 2 rest
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 5.0
+=1  treble cha3 leg99  vol80  bend50
+=2  treble cha4 leg99  vol80  bend50
+=1 1 c 2 c
+=2 1 G# 2 G#
+|
+=1 2 B 4 c# 2 d 4 db
+=2 1 G# 2 A(2
+|
+il0.8 .13 15
+=1 1 c(1 2 c)1
+=2 1 A)2 2 A
+|
+=1 1 f 2 rest
+=2 1 B 2 rest
+|
+=1 1 gb 2 gb
+=2 1 d 2 d
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 1 f 2 g
+=2 1 d 2 eb(1
+|
+=1 1 f#(1 2 f#)1
+=2 1 eb)1 2 eb
+|
+=1 1 b 2 rest
+=2 1 f 2 rest
+|
+il0.8 .09 20
+=1 1 c~ 2 c~
+=2 1 g# 2 g#
+|
+=1 2 b 4 c~# 2 d~ 4 d~b
+=2 1 a 2 a(1
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ||
+|
+=1 1 c~(1 2 c~)1
+I0.8 .10 ff
+=2 1 a)1 2 a
+|
+=1 1 f~ 2 rest
+=2 1 b 2 rest
+| 2.8 3.2
+=1 vol-7 1 f~ 2 rest alto
+i.50 .40 piu lento
+=2 vol-7 1 b 2 rest alto
+i.10 .40 piu lento
+| 3.7 4.3
+il0.5 .03 25
+=1 vol-7 1 F# vol-7 2 F#
+I0.3 .03 mp
+i0.4 .40 dim  .   .   .
+=2 vol-7 1 D vol-7 2 D
+| 5.0 5.8
+=1 vol-7 1 F#-fermata 2 rest
+=2 vol-7 1 D-fermata 2 rest
+
+7 systems 9/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17 5/
+title I I     Viola parts
+
+/
+8 bars | 3 3 3 3 3 3 3 3 3 3 3 2   |
+| 1.5
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+=1  treble cha3 leg89  vol70  bend50 cc64=0 cc11=100
+=2  treble cha4 leg89  vol60  bend50 cc64=0 cc11=100
+=1  2. a
+=2  2. a
+|
+=1, vol70 2 a 4 g
+=2, vol65 2. a(1
+|
+=1, 2 f 4 g
+=2 4 a)1 2 g
+|
+=1, 2 g 4 f
+=2, 2. f(1
+|
+il0.7 .23 5
+=1,  2 eb 4 f
+=2  4 f)1 2 g
+|
+=1, 2 f 4 eb
+=2, 2. g(1
+|
+=1, 2 db 4 eb
+=2 4 g)1 2 f
+|
+=1, 2 g 4 f
+=2, 2. eb(1
+/
+9 bars | 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+=1,  2 eb 4 f
+=2  4 eb)1 2 f
+|
+il0.7 .20 10
+=1, 2 g 4 f
+=2 2. f(1
+|
+=1, 2 eb 4 f
+=2 4 f)1 2 eb
+|
+=1, 2 f 4 eb
+=2 2. db(1
+|
+=1,  2 db 4 eb
+=2  4 db)1 2 eb
+|
+=1, 2 eb 4 c#
+=2, 2. g(1
+|
+il0.8 .23 15
+=1' 2 B 4 c#
+=2, 4 g)1 2 f
+|
+=1, 2 f 4 eb
+=2 2. eb(1
+|
+=1, 2 c# 4 rest alto
+=2, 4 eb)1 2 f
+/
+4 bars | 3 3 3 3 3 3 3 3 3 3 2.5 1.5   | 2 2 3 2 2 2 2 2 3 2 2 1.5 \
+ | 2 2 2 2 2 2 2 2 3 2 2 1.5 | 2 2 3 2 2 3 2 2 2 2 2 1.5 |
+|
+=1, 16 [eb db eb] [eb db eb] [eb db eb] [eb db B,]
+=2  2 blank 1 rest alto
+| 1.5
+=1' vol80 8 [A 16 B] 8 [c# 16 B] 8 [B 16 c#] 8 [d# 16 c#]
+#I0.5 .01 best of breed from 20150326 . . .
+=2' vol80 4 A 8 B 4 c# 8 B
+|
+il0.4 .03 20
+=1' 8 [c# 16 d#] 8 [f 16 d#] 8 [B 16 c#] 8 [d# 16 c#]
+=2' 4 B 8 c# 4 d# 8 c#
+|
+=1, 8 [B 16 c#] 8 [d# 16 c#] 8 [c# 16 d#] 8 [f 16 d#]
+=2  4 c# 8 eb 4 f 8 eb
+/
+5 bars | 2 2 2 2 2 3 2 2 2 2 2 1.5 | 2 2 3 2 2 2.5 2 3 3 2 3 1.5 \
+ | 2 3 3 2 3 3 2 3 3 2 3 1.5 | 12 | 12 |
+|
+=1, 8 [eb 16 f] 8 [g 16 f] 8 [db 16 eb] 8 [f 16 eb]
+=2' 4 B 8 c# 4 d# 8 c#
+|
+=1, 8 [B 16 c#] 8 [d# 16 g] 16 [c~# b c~#] [c~# b c~#]
+=2  4 c# 8 d# 4. rest
+|
+=1, 16 [c~# b c~#] [c~# b c~#] [c~# b c~#] [c~# b c~#]
+=2  2 blank 1 rest
+|
+il0.7 .23 25
+=1, treble vol70 2 g 4 f
+=2, treble vol65 2. g(1
+|
+=1, 2 eb 4 f
+=2  4 g)1 2 f
+/
+7 bars | 12 | 4 4 5 \
+ | 2 3 2 2 3 2 2 3 2 2 3 2 | 3 2 2 3 2 3 3 3 3 2 3 2| 8 | 8 | 8 |
+|
+=1, 2 f 4 eb
+=2, 2. eb(1
+|
+=1, 2 c# 4 eb alto
+=2  4 eb)1 2 f alto
+|
+=1 2 blank 1 rest
+=2  16 [b b c~#] [b b c~#] [b b c~#] [b b c~#]
+|
+il0.5 .03 30
+=1 2 blank 1 rest
+=2  16 [b a# b] [b a# b] [bb an bb] [bb a bb]
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+/
+5 bars | 2 1 1 2 1 1 2 3 3 2 3 2 | 2 3 3 2 3 3 2 3 3 2 3 2 \
+ | 3 3 4 3 3 2 | 3 3 4 3 3 2 |
+|
+=1  4. rest 16 [c~# b c~#] [c~# b c~#]
+=2  2 blank 1 rest
+|
+il0.7 .10 35
+=1, 16 [c~# b c~#] [c~# b c~#] [c~# b c~#] [c~# b c~#]
+=2      2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2  vol100 4 C# 8 D# 4 G# 8 F#
+|
+=1 2 blank 1 rest
+=2  4 Eb 8 F 4 Bb 8 Ab
+|
+=1 2 blank 1 rest
+=2  4 Eb 8 F 4 Bb 8 Ab
+/
+4 bars | 5 5 5 5 5 5 5 5 5 5 5 4 | 5 4 9 5 4 5 5 4 7 5 4 4 \
+  | 5 4 5 5 4 5 5 4 5 5 4 4 | 5 5 7 5 5 5 7 7 7 7 7 4 |
+|
+=1 16 [b a b] [b a b] [b a b] [b a b]
+=2 2 blank 1 rest
+|
+il0.7 .13 40
+#Il0.4 .03 jig
+=1 vol100 8 rest 16 A 8 [c#' 16 B] 8 [A 16 B'] 8 [d# 16 c#]
+=2' vol100 4 G 8 A 4 c# 8 B
+|
+=1 8 [c# 16 d#] 8 [g 16 f] 8 [B 16 c#'] 8 [f 16 eb]
+=2 4 A 8 B 4 d# 8 c#
+|
+#Il0.4 .50 seethe
+=1  8 [A 16 B'] 8 [d# 16 c#] 4. rest
+=2  4 c# 8 d# 16 [c# d# d#] [c# d# d#]
+
+7 systems 9/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17 5/
+innerhead I I     Viola parts
+
+/
+4 bars | 5 5 5 5 5 5 5 5 5 5 5 4 | 30 | 30 | 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 2 blank 1 rest
+=2  16 [f f g] [f f g] [f f g] [f f g]
+|
+#Il0.4 .03 jig
+=1 vol80 2 c~# 4 e~b
+=2 vol80 2. c~#(1
+|
+il0.9 .35 45
+=1 2 g~ 4 f~
+=2 4 c~#)1 2 e~b
+| 1.5
+=1 leg89 vol80 bend50
+=2 leg89 vol80 bend50
+=1  16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
+=2  16 [B A B] [B A B] [B A B] [B A B]
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 5 6 6 6 6 6 6 6 6 5 4   | 5 6 6 5 6 6 6 6 6 5 6 4 |
+|
+=1  16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
+=2  16 [B A B] [B A B] [B A B] [B A B]
+|
+=1  16 [d# e e] [d# e e] [d# e e] [d# e e]
+=2' 16 [c B c] [c B c] [c B c] [c B c]
+|
+=1  16 [eb f f] [eb f f] [eb f f] [eb f f]
+=2' 16 [c# B c#] [c# B c#] [c# B c#] [c# B c#]
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4   | 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+il0.7 .03 50
+=1  16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
+=2   16 [B A B] [B A B] [B A B] [B A B]
+|
+=1  16 [d# e e] [d# e e] [d# e e] [d# e e]
+=2' 16 [c B c] [c B c] [c B c] [c B c]
+|
+=1  16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
+=2' 16 [B A B] [B A B] [B A B] [B A B]
+/
+3 bars | 5 6 6 5 6 6 5 6 6 5 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4   | 6 5 6 6 5 6 5 6 6 5 6 4 |
+|
+=1  16 [c# d d] [c# d d] [c# d d] [c# d d]
+=2' 16 [Bb A Bb] [Bb A Bb] [Bb A Bb] [Bb A Bb]
+|
+=1  16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
+=2' 16 [B A B] [B A B] [B A B] [B A B]
+|
+il0.8 .20 55
+=1  16 [d# e e] [d# e e] [eb f f] [eb f f]
+=2' 16 [c B c] [c B c] [c# B c#] [c# B c#]
+/
+3 bars | 6 6 6 6 6 6 6 5 6 6 6 4 | 5 6 6 6 5 6 6 5 6 6 5 4   | 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1  16 [c# d# d#] [c# d# d#] [d# e e] [d# e e]
+=2' 16 [B A B] [B A B] [c B c] [c B c]
+|
+=1  16 [eb f f] [en f f] [e f f] [e f f]
+=2, 16 [c# B c#] [d c# d] [d c# d] [d c# d]
+|
+=1, 16 [a a bb] [a a bb] [a a bb] [a a bb]
+=2,  16 [eb c# eb] [eb c# eb] [eb c# eb] [eb c# eb]
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4   | 5 6 6 5 6 6 5 6 6 5 6 4 |
+|
+=1, 16 [a a bb] [a a bb] [g# g# a] [g# g# a]
+=2, 16 [eb c# eb] [eb c# eb] [d c# d] [d c# d]
+|
+il0.7 .03 60
+=1, 16 [gn g a] [g g a] [f# f# g] [f# f# g]
+=2' 16 [c# B c#] [c# B c#] [cn B c] [c B c]
+|
+=1, 16 [fn f g] [f f g] [e e f] 8. e(1
+=2' 16 [Bb A Bb] [Bb A Bb] [Bb A Bb] [Bb A Bb(2]
+/
+6 bars | 36 | 48 | 6 6 6 6 7 6 6 6 | 6 6 6 6 7 6 6 6 | 40 | 36 ||
+| 4.0
+#il0.4 .01 possible ending: see AP p.19
+I0.8  lento
+i0.8 .30 mm~=60
+i0.2 .25 dim . . niente
+=1  alto   cha3 leg110  vol70  bend50 cc64=0
+=2  alto   cha4 leg110  vol70  bend50 cc64=0
+=1 1 <c(2 e)1(1>
+=2 1 <Bb)2(2 d(1>
+|
+=1 1 <c)2(2 e)1(1>
+=2 1 <Bb)2(2 d)1(1>
+|
+=1 1 <c)2(2 e)1(1>
+=2 1 <Bb)2(2 d)1(1>
+|
+il0.9 .20 65
+=1 1 <c)2(2 e)1(1>
+=2 1 <Bb)2(2 d)1(1>
+| 5.0
+=1 1 <c)2(2 e)1(1-fermata>
+=2 1 <Bb)2(2 d)1(1-fermata>
+| 6.0
+=1 1 <c)2 e)1-fermata-dim70>
+=2 1 <Bb)2 d)1-fermata-dim70>
+
+6 systems 15/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18 5/
+$CRE1 = 
+$DIM1 = 
+$DOWN1 = 
+
+title I   Cello parts
+% was sketches/20150214, the hypothetical second movement . . .
+pagenum
+innerhead Encores, Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 5.0
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+
+midi off
+
+i0.5 .01 molto lento,  mm=60..72 approx, ma senza accelerando, a tempo sempre
+=1  bass   cha5 leg99  vol80  bend50 cc11=100
+=2  bass   cha6 leg99  vol80  bend50 cc11=100
+=1 1 B 2 B
+I0.5 .02 mf
+=2 1 E 2 F#
+I0.3 .15 mf
+|
+=1 1 c(2 2 c)2
+=2 1 F(2 2 F)2
+|
+=1 1 c 2 c#(2
+=2 1 F# 2 F#
+|
+=1 2 c#)2 4 eb 2 f 4 g
+=2 1 G 2 A
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+il0.5 .03 5
+=1 1 f 2 f
+=2 1 Bb 2 c
+|
+=1 1 f#(1 2 f#)1
+=2 1 B(2 2 B)2
+|
+=1 1 f# 2 g(1
+=2 1 c 2 c
+|
+=1 1 g)1 2 rest
+=2 1 c# 2 d#
+/
+4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 1 b 2 b
+=2 2 e 4 gb 2 ab 4 gb
+|
+il0.5 .03 10
+=1 1 c~(1 2 c~)1
+i0.7 .10 crescendo  poco a poco
+=2 1 f(1 2 f)1
+|
+=1 1 c~ 2 c~#(1
+i0.7 .05 . .35 . .65 . .95 .
+=2 2 f# 4 g# 2 bb 4 a
+|
+=1 2 c~#)1 4 e~b 2 f~ 4 g~
+=2 1 g 2 a
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+| 5.0
+=1  tenor  cha5 leg99  vol80  bend50
+=2  tenor  cha6 leg99  vol80  bend50
+=1 1 f 2 f
+=2 1 Bb 2 c
+|
+=1 1 f#(1 2 f#)1
+=2 1 B(1 2 B)1
+|
+il0.8 .13 15
+=1 1 f# 2 g(1
+=2 1 c 2 c
+|
+=1 1 g)1 2 rest treble
+=2 1 c# 2 d#
+
+|
+=1 1 B 2 B
+=2 2 e 4 gb 2 ab 4 gb
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1 1 c(1 2 c)1
+=2 1 f(1 2 f)1
+|
+=1 1 c 2 c#(1
+=2 2 f# 4 g# 2 bb 4 a
+|
+=1 2 c#)1 4 eb 2 f 4 g
+=2 1 g treble 2 A
+
+|
+il0.8 .09 20
+=1 1 f 2 f
+=2 1 Bb 2 c
+|
+=1 1 f#(1 2 f#)1
+=2 1 B(1 2 B)1
+/
+5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4         | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ||
+|
+=1 1 f# 2 g(1
+I0.6 .03 ff
+=2 1 c 2 c
+|
+=1 1 g)1 2 rest
+=2 1 db 2 eb
+
+| 2.8 3.2
+=1 vol-7 1 g 2 rest bass
+i0.5 .65 dim .  .  .
+=2 vol-7 1 c# 2 B' bass
+| 3.7 4.3
+il0.5 .03 25
+=1 vol-7 1 B vol-7 2 B
+I0.5 .03 mp
+i0.5 .40 dim  .   .   .
+=2 vol-7 1 e vol-7 2 F#
+| 5.0 5.8
+=1 vol-7 1 B-fermata 2 rest
+=2 vol-7 1 E-fermata 2 rest
+
+7 systems 9/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17 5/
+$CRE1 = 
+$DIM1 = 
+$DOWN1 = 
+
+title I I   Cello parts
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+# see 20150320 20151324 20150326 20150327
+/
+7 bars | 36 | 36 |
+| 1.5
+midi channel 1 patch 40 pan 35 reverb 45
+midi channel 2 patch 40 pan 80 reverb 45
+midi channel 3 patch 41 pan  5 reverb 45
+midi channel 4 patch 41 pan 95 reverb 45
+midi channel 5 patch 42 pan 20 reverb 45
+midi channel 6 patch 42 pan 65 reverb 45
+midi channel 7 patch 43 pan 50 reverb 45
+midi channel 8 patch 45 pan 50     # pizz
+=1  treble cha5 leg89  vol55  bend50 cc64=0 cc11=100
+=2  treble cha6 leg89  vol50  bend50 cc64=0 cc11=100
+#midi off
+=1  2. a
+=2  2 blank 1 rest
+|
+=1, vol55 2. a(1
+=2 vol50 2. a(1
+|
+=1 2. a)1(1
+=2 2. a)1(1
+|
+=1 2 a)1 4 g(1
+=2 2. a)1(1
+|
+il0.7 .23 5
+=1  2. g)1
+=2  2. a)1(1
+|
+=1, 2. f(1
+=2 2. a)1(1
+|
+=1 2. f)1(1
+=2 4 a)1 2 g(1
+/
+7 bars | 36 |
+|
+=1 2 f)1 4 g(1
+=2 2. g)1(1
+|
+=1  2. g)1
+=2  2. g)1
+|
+il0.7 .20 10
+=1 2. g(1
+=2 2. f(1
+|
+=1 2. g)1(1
+=2 2. f)1(1
+|
+=1 2 g)1 4 f(1
+=2 2. f)1(1
+|
+=1  2. f)1
+=2  2. f)1(1
+|
+=1 2. eb(1
+=2 2. f)1(1
+/
+7 bars | 2 2 2 2 2 3 2 2 2 2 2 1.5 |
+|
+il0.8 .23 15
+=1 2. eb)1(1
+=2 4 f)1 2 g(1
+|
+=1 2 eb)1 4 f(1
+=2 2. g)1(1
+|
+=1 2. f)1
+=2 2. g)1
+|
+=1  2 blank 1 rest bass
+=2  2 blank 1 rest bass
+| 1.5
+=1  vol80 2 A 4 B
+=2 vol80 2. a(1
+|
+il0.4 .03 20
+=1  2 c# 4 B
+=2 4 a)1 2 b
+|
+=1  2 B 4 c#
+=2 2. c~#(1
+/
+7 bars | 5 5 4 | 5 5 4 | 9 | 9 | 9 | 9 | 9 |
+|
+=1' 2 d# 4 c#
+=2 4 c~#)1 2 b
+|
+=1  4. c#  rest
+=2  4. c~# rest
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+il0.7 .23 25
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest tenor
+=2  2 blank 1 rest tenor
+/
+4 bars | 3 2 2 3 2 2 3 2 2 3 2 1.5 | 3 3 2 3 3 3 2 3 3 2 3 1.5 | 14 | 14 |
+|
+=1  16 [g a a]  [g a a]  [g a a]  [g a a]
+=2  16 [f eb f] [f eb f] [f eb f] [f eb f]
+|
+il0.5 .03 30
+=1  16 [g ab ab] [g ab ab] [f# g g]   [f# g g]
+=2  16 [en e d#]  [e e d#]  [e e d#]   [e e d#] 
+|
+=1  2 g 4 a
+=2  2. g(1
+|
+=1  2 c~ 4 bb
+=2  4 g)1 2 a
+/
+7 bars | 2 2 2 2 2 2 2 2 2 2 2 1.5 |
+|
+=1  2 a 4 b
+=2  2. c~(1
+|
+=1  4. d~ rest
+=2  4. c~)1 4. rest
+|
+il0.7 .10 35
+=1 2 blank 1 rest bass
+=2 2 blank 1 rest bass
+|
+=1' vol100 2  c# 4 d#
+=2  vol100 2. C#(2
+|
+=1  2 g# 4 f#
+=2  4 C#)2 2 D#
+|
+=1  2 d# 4 f#
+=2  2. F#
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+
+/
+4 bars | 5 5 4 | 5 5 4 | 2 2 1 2 2 1 3 3 3 3 3 1.5 | 3 3 3 3 3 3 3 3 3 3 3 1.5 |
+# START OF INSERT
+|
+il0.7 .13 40
+#Il0.4 .03 jig
+=1 vol100 2 G 4 A
+=2 vol100 2. G(2
+
+|
+=1 2 c# 4 B
+=2 4 G)2 2 A
+|
+#Il0.4 .50 seethe
+=1  4. A blank
+=2  4. c# blank
+=1' 4. blank 16 [c# d# d#] [c# d# d#]
+=2  4. blank 16 [B A B] [B A B]
+|
+=1' 16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
+=2  16 [B A B] [B A B] [B A B] [B A B]
+
+7 systems 9/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17/17-18-17 5/
+pagenum
+innerhead Cello parts,  Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 5 5 5 5 5 6 5 5 5 5 5 4 | 5 5 6 5 5 5 5 5 5 5 5 4   | 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+#Il0.4 .03 jig
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+|
+il0.8 .03 45
+=1 2 blank 1 rest
+I0.9 .50 pizz .  .  .
+=2 2 blank 1 rest
+
+
+# END OF INSERT
+
+| 1.5
+=1 leg89 vol95 bend50
+=2 leg89 vol95 bend50
+=1  cha8 8. G#-emph d#' d~# g#
+=2  16 [G#{2-down A c#}2] d#'-up rest rest 8. rest 16 [G# A c#]
+
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 5 6 6 6 6 6 6 6 6 5 4   | 5 6 6 5 6 6 6 6 6 5 6 4 |
+|
+=1  8. d# d~# g# d#
+=2  16 d#' rest rest 8. rest 16 [G# A c#] 16 d#' rest rest 
+|
+=1  8. d~# g# e e~
+=2  8. rest 16 [G# A cn] e' rest rest 8. rest
+|
+=1  8. A f f~ a
+=2  16 [A B c#] f rest rest 8. rest rest
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4   | 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+il0.7 .03 50
+=1  8. A a f~ b
+=2  16 [A B f'] a rest rest 8. rest 16 [B c# f']
+|
+=1  8. a f~# c~ a
+=2  16 a rest rest 8. rest 16 [c, d g] 16 a rest rest
+|
+=1  8. d~# c~# b a~-s0,
+=2, 8. rest 16 [c# d# g] b rest rest 8. rest
+/
+3 bars | 5 6 6 5 6 6 5 6 6 5 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4   | 6 5 6 6 5 6 5 6 6 5 6 4 |
+|
+=1  8. c~# c# rest rest
+=2  16 [c~#{1 a}1 f] 8 c# 16 rest 8. rest rest
+|
+=1  8. B a b a
+=2  16 [B c# f'] 8 a 16 rest 16 [B c# f'] 8 a 16 rest
+|
+il0.8 .20 55
+=1  8. c~ c a c#
+=2, 8. rest 16 [c d f] 8 a 16 rest 16 [c# d# f]
+
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 6 6 6 6 6 6 6 5 6 6 6 4 | 5 6 6 6 5 6 6 5 6 6 5 4   | 6 6 6 6 6 6 6 6 6 6 6 6 4 |
+|
+=1  8. a c~# d# b
+=2, 8 a 16 rest 8. rest 16 [d# e a] 8 b 16 rest
+|
+=1  8. c~# e rest rest
+=2, 16 [c~# a f] 8 e 16 rest 8. rest 16 [e f a]
+|
+=1  8. d~b e~b c~ e~b
+=2, 16 [c~# a f] 8 eb 16 rest 16 [c~n a f] 8 eb 16 rest
+/
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4   | 5 6 6 5 6 6 5 6 6 5 6 4 |
+|
+=1  8. c~ a c g#
+=2, 16 16 [c~n a f] rest [c a] [f# rest' b] [g# e] rest
+|
+il0.7 .03 60
+=1  8. b c~# f# a
+=2, 16 [b a g] rest [b a] [f# a g] [a rest' c~]
+|
+=1  8. c~n bb 4. c~
+=2  16 [bb c~ bb] [bb c~ bb] 4. bb(1-tr
+i0.01 .01 sul D
+
+#midi off
+
+/
+6 bars | 36 | 48 | 6 6 6 6 7 6 6 6 | 6 6 6 6 7 6 6 6 | 40 | 36 ||
+| 4.0
+#il0.4 .01 possible ending: see AP p.19
+I0.8  lento
+i0.8 .30 mm~=60
+i0.2 .25 dim . . niente
+=1  bass   cha5 leg110  vol95  bend50 cc64=0
+=2  bass   cha6 leg110  vol90  bend50 cc64=0
+=1 2 blank 1 rest
+##M=6 32-s vol-2 bb c~ vol-2 bb c~ vol-2 bb  c~ vol-2 bb c~ vol-2 bb c~  vol-2 bb c~ vol-2 bb c~ vol-2 bb  c~ vol-2 bb c~ vol-2 bb c~ vol-2 bb
+=2 1 bb)1--tr-dim70
+i0.01 .01 dim .40 . . . .75 niente
+|
+=1 4 rest 2. ab
+i0.9 .02 arco . . .
+=2 2 blank 1 rest cc11=100
+|
+=1' 2 g(1 g)1(1
+=1, 2 rest, 8 rest, 4. e(2
+=2 2 blank 1 rest
+|
+il0.9 .20 65
+=1 1 <e)2(2 g)1>
+=2' 2 c(1 c)1(1
+=2, 4. rest,, 8 G(2 2 G)2(2
+
+| 5.0
+=1 1 <C(3 e)2(1-fermata>
+=2 1 <G)2(2 c)1(1-fermata>
+| 6.0
+=1 1 <C)3 e)1-fermata-dim70>
+=2 1 <G)2 c)1-fermata-dim70>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d7 1
+a7 1
+title I ;   Violin parts
+d137 1
+a137 1
+title I I ;   Violin parts
+d418 1
+a418 1
+6 systems 15/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18 5/
+d423 1
+a423 1
+title I ;   Viola parts
+d554 1
+a554 1
+title I I ;   Viola parts
+d557 1
+a557 1
+4 bars | 36 | 3 3 3 3 3 3 3 3 4 3 3 2   | 3 3 4 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2 |
+a579 2
+/
+4 bars | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2   | 3 3 3 3 3 3.5 3 3 3 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2 |
+d594 1
+a594 1
+4 bars | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2   | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2 |
+a607 2
+/
+4 bars | 3 3 3 3 3 4 3 3 3 3 3 2 | 3 3 3 3 3 4 3 3 3 3 3 2   | 3 3 3 3 3 4 3 3 3 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2 |
+a620 2
+/
+4 bars | 2 2 2 2 2 3 2 2 2 2 2 1.5 | 3 3 3 3 3 3 3 3 3 3 2.5 1.5   | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5 |
+d624 3
+a637 2
+/
+4 bars | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 2 2 2 1.5   | 2 2 3 2 2 2.5 2 3 3 2 3 1.5 | 2 3 3 2 3 3 2 3 3 2 3 1.5 |
+d641 3
+a652 2
+/
+4 bars | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5   | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 2.5 2 2 2 2 2 1.5 |
+d660 3
+a668 2
+/
+4 bars | 3 3 2 3 3 2 3 3 2 3 3 1.5 | 3 3 2 3 3 3 3 3 3 3 3 1.5   | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 3 2 2 1.5 |
+a681 2
+/
+4 bars | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 2 2 3 3 2 3 1.5   | 2 3 3 2 3 3 2 3 3 2 3 1.5 | 2 2 4 2 2 3 2 2 3 2 2 1.5 |
+d685 3
+a697 2
+/
+4 bars | 2 2 3 2 2 2.5 2 2 3 2 2 1.5 | 2 2 3 2 2 2.5 2 2 3 2 2 1.5   | 3 3 3 3 3 3 3 3 3 3 3 1.5 | 2 2 4 2 2 2 2 2 3 2 2 1.5 |
+d704 3
+a714 2
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 6 5 5 5 6 6 6 6 6 4   | 6 6 6 6 6 6 6 6 6 6 6 4 |
+d721 7
+a727 1
+=2  4 c# 8 d# 4. blank
+a730 2
+/
+3 bars | 5 5 5 5 5 6 5 5 5 5 5 4 | 5 5 6 5 5 5 5 5 5 5 5 4   | 6 6 6 6 6 6 6 6 6 6 6 4 |
+d736 1
+a736 1
+il0.8 .03 45
+d830 1
+a830 1
+6 systems 15/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18/18-20-18 5/
+d835 1
+a835 1
+title I ; Cello parts
+a902 5
+
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+d972 1
+a972 1
+title I I ; Cello parts
+d979 1
+a979 1
+4 bars | 36 | 3 3 3 3 3 3 3 3 4 3 3 2   | 3 3 4 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2 |
+a1002 2
+/
+4 bars | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2   | 3 3 3 3 3 3.5 3 3 3 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2 |
+d1013 2
+a1017 2
+/
+4 bars | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2   | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2 |
+a1030 7
+
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 3 3 3 3 3 4 3 3 3 3 3 2 | 3 3 3 3 3 4 3 3 3 3 3 2   | 3 3 3 3 3 4 3 3 3 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2 |
+d1037 2
+a1045 2
+/
+4 bars | 2 2 2 2 2 3 2 2 2 2 2 1.5 | 3 3 3 3 3 3 3 3 3 3 2.5 1.5   | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5 |
+a1058 2
+/
+4 bars | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 2 2 2 1.5   | 2 2 3 2 2 2.5 2 3 3 2 3 1.5 | 2 3 3 2 3 3 2 3 3 2 3 1.5 |
+d1062 2
+a1072 7
+
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5   | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 2.5 2 2 2 2 2 1.5 |
+d1087 1
+a1087 1
+4 bars | 3 3 2 3 3 2 3 3 2 3 3 1.5 | 3 3 2 3 3 3 3 3 3 3 3 1.5   | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 3 2 2 1.5 |
+d1102 1
+a1102 1
+4 bars | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 2 2 3 3 2 3 1.5   | 2 3 3 2 3 3 2 3 3 2 3 1.5 | 2 2 4 2 2 3 2 2 3 2 2 1.5 |
+d1111 2
+a1112 2
+=1 bass 2 blank 1 rest
+=2 bass 2 blank 1 rest
+a1115 7
+
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 2 2 3 2 2 2.5 2 2 3 2 2 1.5 | 2 2 3 2 2 2.5 2 2 3 2 2 1.5   | 3 3 3 3 3 3 3 3 3 3 3 1.5 | 2 2 4 2 2 2 2 2 3 2 2 1.5 |
+d1126 2
+a1134 2
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 6 5 5 5 6 6 6 6 6 4   | 6 6 6 6 6 6 6 6 6 6 6 4 |
+a1141 1
+=4  4. blank 16 [f f g] [f f g]
+d1147 6
+@

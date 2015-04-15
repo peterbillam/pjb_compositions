@@ -16,8 +16,7 @@ PIECE1 = str_encores
 PIECE2 = str_encores_parts
 PLAY = str_encores
 
-dev : title.a4 title_parts.a4 str_encores.a4
- # str_encores_parts.a4
+dev : title.a4 title_parts.a4 p2.a4 str_encores.a4 str_encores_parts.a4
 all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
  ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf
  # ${MP3D}/${PIECE1}.mp3

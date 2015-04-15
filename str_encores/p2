@@ -1,68 +1,38 @@
 .\" header = mushead
 .AM
-.nr PS 12
-.nr VS 14
+.nr PS 15
+.nr VS 17
 .pl 11.7i
 .LP
 \&
-.sp 1.9c
+.sp 4.0c
 .ce 1
-\f3\s+9Music for Strings\s-9\fP
-.sp 1.5c
+\f3\s+9Two Encores for Strings\s-9\fP
+.sp 2.5c
 .LP
 .nh
-\f2Music for Strings\fP is written for six players,
+\f2Two Encores for Strings\fP are written for six players,
 but performances with twelve or more players are also intended.
 
-It shares the 2+2+2 sextet instrumentation of
-my transcription of Bach's \f2Ricercare a 6\fP,
-and of Schoenberg's chamber version of \f2Verklaerte Nacht\fP.
-It's also not too far from the chamber-septet version of John Adams'
-\f2Shaker Loops\fP, which adds a bass and uses three violins and
-one viola rather than two and two.
+They share the 2+2+2 sextet instrumentation of
+my \f2Music for Strings\fP,
+and of my transcription of Bach's \f2Ricercare a 6\fP,
+and of Schoenberg's chamber version of \f2Verklaerte Nacht\fP,
+and are also not far from the chamber-septet version
+of John Adams' \f2Shaker Loops\fP (which adds a bass,
+and uses three violins and one viola rather than two and two).
 
-.sp 0.1c
+In the event of a concert involving those pieces,
+it is hoped the \f2Two Encores for Strings\fP might be useful.
 
-.LP
-.nh
- \f3I\fP \hs 0.8c 144 - 152 cro/min , \  approximately. 4min 50sec
+The first would move at about 60 - 72 quarter-notes per minute,
+and would last approximately 2min 20sec.
 
-More contrapuntal in character.
+The second would move at about 160 dotted-eigths per minute,
+except for the last six bars at about 60 quarter-notes per minute,
+and would last approximately 2min.
 
-.sp 0.1c
-
-.LP
-.nh
- \f3II\fP \hs 0.75c 125 - 135 cro/min , \  approximately. 4min 25sec
-
-The trills join up as smoothly as possible with the next trill,
-and the glissandi at the end should join up
-from instrument to instrument as smoothly as possible,
-The glissandi should all move all move evenly from start-point to end-point,
-so that glissando-chords (eg: bar 30...)
-remain in-tune chords even as they slide,
-The pizzicati in general should be played strongly.
-In the seething passages in 16th-notes, the bowing is at your discretion;
-I thought perhaps the violins could bow every note up-down-up-down,
-while the violas could slur them in pairs
-and the cellos slur them in fours;
-but when it's just the two violas (eg: bars 1... or 119...)
-then preferably they should bow every note
-(else they reveal the beat, which is not otherwise revealed).
-The crescendo in the last two bars should go up to absolutely
-as loud as possible, using as many bow-changes as necessary.
-
-.sp 0.1c
-
-.LP
-.nh
- \f3III\fP \hs 0.7c 60 cro/min , \  approximately 5min 15sec
-
-Likewise, the crescendo in the bar 5 should go up to absolutely
-as loud as possible, using as many bow-changes as necessary,
-and the \f2pesante\fP should be sempre \f4fff\fP.
-
-.sp 0.1c
+.sp 1.0c
 
 .LP
 .ce 1

@@ -1,10 +1,20 @@
-head	1.1;
+head	1.3;
 access;
 symbols;
 locks
-	pjb:1.1; strict;
+	pjb:1.3; strict;
 comment	@# @;
 
+
+1.3
+date	2015.04.13.11.27.19;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.04.13.03.45.56;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2015.04.12.00.44.23;	author pjb;	state Exp;
@@ -17,19 +27,19 @@ desc
 @
 
 
-1.1
+1.3
 log
-@Initial revision
+@II bar 45 vln1 last smq turns UP to c~#
 @
 text
-@3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
- /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+@3 systems 15/17-18-17 22 17-18-17 20 17-18-17 \
+ /17-18-17 20 17-18-17 20 17-18-17 /17-18-17 20 17-18-17 22 17-18-17 /
 
 title I
 % was sketches/20150214, the hypothetical second movement . . .
 pagenum
 innerhead Encores, Peter Billam
-leftfoot (c) 2014 Peter J Billam
+leftfoot (c) 2015 Peter J Billam
 
 /
 4 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
@@ -42,6 +52,9 @@ midi channel 5 patch 42 pan 20 reverb 45
 midi channel 6 patch 42 pan 65 reverb 45
 midi channel 7 patch 43 pan 50 reverb 45
 midi channel 8 patch 45 pan 50     # pizz
+
+midi off
+
 i0.5 .01 molto lento,  mm=60..72 approx, ma senza accelerando, a tempo sempre
 =1  treble cha1 leg99  vol80  bend50 cc11=100
 =2  treble cha2 leg99  vol80  bend50 cc11=100
@@ -50,11 +63,17 @@ i0.5 .01 molto lento,  mm=60..72 approx, ma senza accelerando, a tempo sempre
 =5  bass   cha5 leg99  vol80  bend50 cc11=100
 =6  bass   cha6 leg99  vol80  bend50 cc11=100
 =1 1 B_ 2 B_
+I0.3 .15 mf
 =2 1 A_ 2 A_
+I0.4 .15 mf
 =3 1 F# 2 F#
+I0.3 .02 mf
 =4 1 D 2 D
+I0.4 .15 mf
 =5 1 B 2 B
+I0.5 .02 mf
 =6 1 E 2 F#
+I0.3 .15 mf
 |
 =1 2 C 4 D 2 Eb 4 F
 =2 1 G_# 2 B_b(2
@@ -90,14 +109,14 @@ il0.5 .03 5
 =1 1 F# 2 A(2
 =2 1 D 2 E(2
 =3 2 B 4 c# 2 d 4 db
-=4 1 G# 2 A(1
+=4 1 G# 2 A(2
 =5 1 f#(1 2 f#)1
 =6 1 B(2 2 B)2
 |
 =1 2 A)2 4 B 2 d 4 c
 =2 1 E)2 2 Eb
 =3 1 c(1 2 c)1
-=4 1 A)1 2 A
+=4 1 A)2 2 A
 =5 1 f# 2 g(1
 =6 1 c 2 c
 |
@@ -119,17 +138,23 @@ il0.5 .03 5
 |
 il0.5 .03 10
 =1 2 c 4 db 2 eb 4 f
-=2 1 G# 2 Bb(1
+i0.5 .10 crescendo  poco a poco
+=2 1 G# 2 Bb'(2
 =3 1 f 2 g
+i0.6 .10 crescendo  poco a poco
 =4 1 eb 2 eb(1
 =5 1 c~(1 2 c~)1
+i0.7 .10 crescendo  poco a poco
 =6 1 f(1 2 f)1
 |
 =1 1 eb 2 c#
-=2 1 Bb)1 2 A
+i0.5 .05 . .35 . .65 . .95 .
+=2 1 Bb)2 2 A
 =3 1 f#(1 2 f#)1
+i0.6 .05 . .35 . .65 . .95 .
 =4 1 eb)1 2 eb
 =5 1 c~ 2 c~#(1
+i0.7 .05 . .35 . .65 . .95 .
 =6 2 f# 4 g# 2 bb 4 a
 |
 =1 1 f 2 rest
@@ -139,9 +164,12 @@ il0.5 .03 10
 =5 2 c~#)1 4 e~b 2 f~ 4 g~
 =6 1 g 2 a
 
-3 systems /17-19-17 19 17-19-17 22 17-20-17 \
+3 systems /17-19-17 19 17-18-17 22 17-20-17 \
  /17-20-17 25 17-20-17 20 17-20-17 \
  /17-25-17 25 17-20-17 25 17-20-17 /
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
 
 /
 5 bars | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 4 |
@@ -235,10 +263,13 @@ il0.8 .09 20
        | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ||
 |
 =1 2 a)1 4 b 2 d~ 4 c~
+I0.7 .03 ff
 =2 1 e)1 2 eb
 =3 1 c~(1 2 c~)1
+I0.8 .10 ff
 =4 1 a)1 2 a
 =5 1 f# 2 g(1
+I0.6 .03 ff
 =6 1 c 2 c
 |
 =1 1 b 2 rest
@@ -255,21 +286,22 @@ i.50 .40 piu lento
 =3 vol-7 1 f~ 2 rest alto
 i.50 .40 piu lento
 =4 vol-7 1 b 2 rest alto
+i.10 .40 piu lento
 =5 vol-7 1 g 2 rest bass
-i.50 .40 piu lento
-=6 vol-7 1 c# 2 B bass
+i0.5 .65 dim .  .  .
+=6 vol-7 1 c# 2 B' bass
 | 3.7 4.3
 il0.5 .03 25
 =1 vol-7 1 B_ vol-7 2 B_
-I0.3 .03 p
+I0.2 .03 mp
 i0.3 .40 dim  .   .   .
 =2 vol-7 1 A_ vol-7 2 A_
 =3 vol-7 1 F# vol-7 2 F#
-I0.4 .03 p
+I0.3 .03 mp
 i0.4 .40 dim  .   .   .
 =4 vol-7 1 D vol-7 2 D
 =5 vol-7 1 B vol-7 2 B
-I0.5 .03 p
+I0.5 .03 mp
 i0.5 .40 dim  .   .   .
 =6 vol-7 1 e vol-7 2 F#
 | 5.0 5.8
@@ -282,17 +314,20 @@ i0.5 .40 dim  .   .   .
 
 midi pause 3.0
 
+midi on
+
 3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
  /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
 
 title I I
 pagenum
 innerhead Encores,  Peter Billam
-leftfoot (c) 2014 Peter J Billam
+leftfoot (c) 2015 Peter J Billam
 
 # see 20150320 20151324 20150326 20150327
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 36 | 3 3 3 3 3 3 3 3 4 3 3 2 \
+ | 3 3 4 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2 |
 | 1.5
 midi channel 1 patch 40 pan 35 reverb 45
 midi channel 2 patch 40 pan 80 reverb 45
@@ -323,31 +358,32 @@ midi channel 8 patch 45 pan 50     # pizz
 =5, vol55 2. a(1
 =6 vol50 2. a(1
 |
-=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [g 16 f] 8 [eb 16 f]
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [g 16 f] 8 [eb 16 f]
 =2, 4 g 8 f 4 eb 8 f
 =3, 2 f 4 g
 =4 4 a)1 2 g
 =5 2. a)1(1
 =6 2. a)1(1
 |
-=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [c# 16 eb]
-=2, 4 f 8 eb 4 c# 8 eb
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
+=2, 4 f 8 eb 4 db 8 eb
 =3, 2 g 4 f
 =4, 2. f(1
 =5 2 a)1 4 g(1
 =6 2. a)1(1
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2 \
+ | 3 3 3 3 3 3.5 3 3 3 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2 |
 |
-il0.7 .03 5
-=1,  8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [c# 16 eb]
+il0.7 .23 5
+=1,  8 [eb 16 db] 8 [B 16 db] 8 [f 16 eb] 8 [db 16 eb]
 =2,  4 g 8 f 4 eb 8 f
 =3,  2 eb 4 f
 =4  4 f)1 2 g
 =5  2. g)1
 =6  2. a)1(1
 |
-=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
 =2, 4 g 8 f 4 eb 8 f
 =3, 2 f 4 eb
 =4, 2. g(1
@@ -355,56 +391,65 @@ il0.7 .03 5
 =6 2. a)1(1
 |
 =1, 8 [c# 16 B] 8 [A 16 B] 8 [eb 16 c#] 8 [B 16 c#]
-=2, 4 f 8 eb 4 c# 8 eb
-=3, 2 c# 4 eb
+=2, 4 f 8 eb 4 db 8 eb
+=3, 2 db 4 eb
 =4 4 g)1 2 f
 =5 2. f)1(1
 =6 4 a)1 2 g(1
 |
-=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [c# 16 eb]
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
 =2, 4 eb 8 c# 4 B 8 c#
 =3, 2 g 4 f
 =4, 2. eb(1
 =5 2 f)1 4 g(1
 =6 2. g)1(1
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 3 3 3 4 3 3 2 \
+ | 3 3 3 3 3 3 3 3 4 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2 |
 |
-=1,  8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [c# 16 eb]
-=2,  4 f 8 eb 4 c# 8 eb
+=1,  8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [db 16 eb]
+=2,  4 f 8 eb 4 db 8 eb
 =3,  2 eb 4 f
 =4  4 eb)1 2 f
 =5  2. g)1
 =6  2. g)1
 |
-il0.7 .03 10
-=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [c# 16 eb]
-=2, 4 f 8 eb 4 c# 8 eb
+il0.7 .20 10
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
+=2, 4 f 8 eb 4 db 8 eb
 =3, 2 g 4 f
 =4 2. f(1
 =5 2. g(1
 =6 2. f(1
 |
-=1, 8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [c# 16 eb]
+=1, 8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [db 16 eb]
 =2, 4 eb 8 c# 4 B 8 c#
 =3, 2 eb 4 f
 =4 4 f)1 2 eb
 =5 2. g)1(1
 =6 2. f)1(1
 |
-=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
 =2' 4 c# 8 B 4 A 8 B
 =3, 2 f 4 eb
-=4 2. c#(1
+=4 2. db(1
 =5 2 g)1 4 f(1
 =6 2. f)1(1
+
+3 systems 5/17-20-17 22 17-20-17 22 17-20-17 \
+ /17-18-17 21 17-20-17 20 17-20-17 /17-18-17 22 17-20-17 20 17-20-17 /
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 3 3 3 3 3 4 3 3 3 3 3 2 | 3 3 3 3 3 4 3 3 3 3 3 2 \
+ | 3 3 3 3 3 4 3 3 3 3 3 2 | 3 3 4 3 3 4 3 3 3 3 3 2 |
 |
 =1'  8 [c# 16 B] 8 [A 16 B] 8 [eb 16 c#] 8 [B 16 c#]
 =2,  4 eb 8 c# 4 B 8 c#
-=3,  2 c# 4 eb
-=4  4 c#)1 2 eb
+=3,  2 db 4 eb
+=4  4 db)1 2 eb
 =5  2. f)1
 =6  2. f)1(1
 |
@@ -423,14 +468,15 @@ il0.8 .23 15
 =5 2. eb)1(1
 =6 4 f)1 2 g(1
 |
-=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+=1, 8 [f 16 eb] 8 [db 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
 =2' 4 B 8 A 4 G 8 A
 =3, 2 f 4 eb
 =4 2. eb(1
 =5 2 eb)1 4 f(1
 =6 2. g)1(1
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 2 2 2 2 2 3 2 2 2 2 2 1.5 | 3 3 3 3 3 3 3 3 3 3 2.5 1.5 \
+ | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5 |
 |
 =1' 8 [c# 16 B] 8 [A 16 B] 8 [eb 16 c#] 8 [B 16 c#]
 =2' 4 c# 8 B 4 A 8 G
@@ -441,7 +487,7 @@ il0.8 .23 15
 |
 =1' 16 [A A B] [A A B] [A A B] [A A B]
 =2' 16 [F G G] [F G G] [F G G] [F G G]
-=3, 16 [eb c# eb] [eb c# eb] [eb c# eb] [eb c# B,]
+=3, 16 [eb db eb] [eb db eb] [eb db eb] [eb db B,]
 =4  2 blank 1 rest alto
 =5  2 blank 1 rest bass
 =6  2 blank 1 rest bass
@@ -462,18 +508,19 @@ il0.4 .03 20
 =5  2 c# 4 B
 =6 4 a)1 2 b
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 2 2 2 1.5 \
+ | 2 2 3 2 2 2.5 2 3 3 2 3 1.5 | 2 3 3 2 3 3 2 3 3 2 3 1.5 |
 |
 =1  2 blank 1 rest
 =2  2 blank 1 rest
 =3, 8 [B 16 c#] 8 [d# 16 c#] 8 [c# 16 d#] 8 [f 16 d#]
-=4' 4 c# 8 d# 4 f 8 d#
+=4  4 c# 8 eb 4 f 8 eb
 =5  2 B 4 c#
 =6 2. c~#(1
 |
 =1  2 blank 1 rest
 =2  2 blank 1 rest
-=3, 8 [d# 16 f] 8 [g 16 f] 8 [c# 16 d#] 8 [f 16 d#]
+=3, 8 [eb 16 f] 8 [g 16 f] 8 [db 16 eb] 8 [f 16 eb]
 =4' 4 B 8 c# 4 d# 8 c#
 =5' 2 d# 4 c#
 =6 4 c~#)1 2 b
@@ -491,10 +538,18 @@ il0.4 .03 20
 =4  2 blank 1 rest
 =5  2 blank 1 rest
 =6  2 blank 1 rest
+
+3 systems 5/17-20-17 22 17-20-17 20 17-18-17 \
+ /17-18-17 20 17-20-17 20 17-20-17 4/17-18-17 25 17-18-17 20 17-23-17 10/
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
+
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 2 2 3 2 2 2 2 2 3 2 2 1.5 | 2 2 2 2 2 2 2 2 3 2 2 1.5 \
+ | 2 2 3 2 2 3 2 2 2 2 2 1.5 | 2 2 2 2 2 2.5 2 2 2 2 2 1.5 |
 |
-il0.7 .03 25
+il0.7 .23 25
 =1, vol90 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [db 16 eb]
 =2, vol80 4 g 8 f 4 eb 8 f
 =3, treble vol70 2 g 4 f
@@ -523,7 +578,8 @@ il0.7 .03 25
 =5  2 blank 1 rest tenor
 =6  2 blank 1 rest tenor
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 3 3 2 3 3 2 3 3 2 3 3 1.5 | 3 3 2 3 3 3 3 3 3 3 3 1.5 \
+ | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 3 2 2 3 2 2 1.5 |
 |
 =1 2 blank 1 rest
 =2 2 blank 1 rest
@@ -532,13 +588,13 @@ il0.7 .03 25
 =5  16 [g a a]  [g a a]  [g a a]  [g a a]
 =6  16 [f eb f] [f eb f] [f eb f] [f eb f]
 |
-il0.7 .03 30
+il0.5 .03 30
 =1 2 blank 1 rest
 =2 2 blank 1 rest
 =3 2 blank 1 rest
 =4  16 [b a# b] [b a# b] [bb an bb] [bb a bb]
 =5  16 [g ab ab] [g ab ab] [f# g g]   [f# g g]
-=6  16 [e e d#]  [e e d#]  [e e d#]   [e e d#] 
+=6  16 [en e d#]  [e e d#]  [e e d#]   [e e d#] 
 |
 =1 8 [G 16 A] 8 [c 16 Bb] 8 [A 16 Bn'] 8 [d 16 c]
 =2 4 G 8 A 4 c 8 Bb
@@ -554,12 +610,13 @@ il0.7 .03 30
 =5  2 c~ 4 bb
 =6  4 g)1 2 a
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 2 2 2 2 2 2 2 2 2 2 2 1.5 | 2 2 2 2 2 2 2 3 3 2 3 1.5 \
+ | 2 3 3 2 3 3 2 3 3 2 3 1.5 | 2 2 4 2 2 3 2 2 3 2 2 1.5 |
 |
 =1 8 [A 16 B'] 8 [d 16 c] 8 [B 16 c#] 8 [e 16 d]
 =2 4 A 8 B 4 d 8 c
-=3  1 blank
-=4  1 blank
+=3  2 blank 1 rest
+=4  2 blank 1 rest
 =5  2 a 4 b
 =6  2. c~(1
 |
@@ -570,7 +627,7 @@ il0.7 .03 30
 =5  4. d~ rest
 =6  4. c~)1 4. rest
 |
-il0.7 .03 35
+il0.7 .10 35
 =1, 16 [g g a] [g g a] [g g a] [g g a]
 =2, 16 [eb f f] [eb f f] [eb f f] [eb f f]
 =3, 16 [c~# b c~#] [c~# b c~#] [c~# b c~#] [c~# b c~#]
@@ -579,17 +636,21 @@ il0.7 .03 35
 =6 bass 2 blank 1 rest
 |
 =1 2 blank 1 rest
-=2' vol100 8 rest 16 D# 8 [G# 16 F#] 8 [Eb 16 Fn] 8 [Bb 16 Ab]
+=2' vol100 8 rest 16 Eb 8 [Ab 16 Gb] 8 [Eb 16 F] 8 [Bb 16 Ab]
 =3 2 blank 1 rest
 =4  vol100 4 C# 8 D# 4 G# 8 F#
 =5' vol100 2  c# 4 d#
 =6  vol100 2. C#(2
 
-3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
- /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+3 systems /17-18-17 22 17-19-17 20 17-20-17 \
+ /17-18-17 20 17-20-17 20 17-18-17 /17-18-17 25 17-22-17 20 17-20-17 /
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
 
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 2 2 3 2 2 2.5 2 2 3 2 2 1.5 | 2 2 3 2 2 2.5 2 2 3 2 2 1.5 \
+ | 3 3 3 3 3 3 3 3 3 3 3 1.5 | 2 2 4 2 2 2 2 2 3 2 2 1.5 |
 |
 =1 2 blank 1 rest
 =2  8 [G# 16 A#] 8 [d# 16 c#] 8 [F# 16 G#] 8 [c# 16 B]
@@ -612,9 +673,10 @@ il0.7 .03 35
 =5 2 blank 1 rest
 =6 2 blank 1 rest
 
-# START OF HYPOTHETICAL INSERT
+# START OF INSERT
 |
-Il0.4 .03 jig
+il0.7 .13 40
+#Il0.4 .03 jig
 =1 2 blank 1 rest
 =2 2 blank 1 rest
 =3 vol100 8 rest 16 A 8 [c#' 16 B] 8 [A 16 B'] 8 [d# 16 c#]
@@ -623,7 +685,8 @@ Il0.4 .03 jig
 =6 vol100 2. G(2
 
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 6 5 5 5 6 6 6 6 6 4 \
+ | 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 2 blank 1 rest
 =2 2 blank 1 rest
@@ -632,9 +695,10 @@ Il0.4 .03 jig
 =5 2 c# 4 B
 =6 4 G)2 2 A
 |
-Il0.4 .50 seethe
-=1  blank
-=3  8 [A 16 B'] 8 [d# 16 c#] 4. blank
+#Il0.4 .50 seethe
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3  8 [A 16 B'] 8 [d# 16 c#] 4. rest
 =4  4 c# 8 d# 4. blank
 =5  4. A blank
 =6  4. c# blank
@@ -642,25 +706,35 @@ Il0.4 .50 seethe
 =5' 4. blank 16 [c# d# d#] [c# d# d#]
 =6  4. blank 16 [B A B] [B A B]
 |
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
 =4  16 [f f g] [f f g] [f f g] [f f g]
 =5' 16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
 =6  16 [B A B] [B A B] [B A B] [B A B]
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 5 5 5 5 5 6 5 5 5 5 5 4 | 5 5 6 5 5 5 5 5 5 5 5 4 \
+ | 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
-Il0.4 .03 jig
+#Il0.4 .03 jig
 =1 vol80 8 rest 16 eb 8 [g 16 f] 8 [eb 16 f] 8 [a 16 g]
 =2 vol80 4 c# 8 eb 4 g 8 f
 =3 vol80 2 c~# 4 e~b
 =4 vol80 2. c~#(1
+=5 2 blank 1 rest
+=6 2 blank 1 rest
 |
-=1 8 [g 16 a] 8 [c~# 16 b] 8 [f 16 g] 8 [b 16 a]
+il0.8 .03 45
+=1 8 [g 16 a] 8 [c~# 16 b] 8 [f 16 g] 8 [b 16 c~#]
 =2 4 eb 8 f 4 a 8 g
 =3 2 g~ 4 f~
 =4 4 c~#)1 2 e~b
+=5 2 blank 1 rest
+I0.9 .50 pizz .  .  .
+=6 2 blank 1 rest
 
 
-# END OF HYPOTHETICAL INSERT
+# END OF INSERT
 
 | 1.5
 =1 leg89 vol95 bend50
@@ -673,14 +747,18 @@ Il0.4 .03 jig
 =2' 16 [F F G] [F F G] [F F G] [F F G]
 =3  16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
 =4  16 [B A B] [B A B] [B A B] [B A B]
-=5  cha8 8. G# d#' d~# g#
+=5  cha8 8. G#-emph d#' d~# g#
 =6  16 [G#{2-down A c#}2] d#'-up rest rest 8. rest 16 [G# A c#]
 
-3 systems 5/17-18-17 18 17-20-17 25 17-18-17 \
- /17-18-17 18 17-20-17 20 17-18-17 /17-18-17 18 17-20-17 20 17-18-17 /
+3 systems 5/17-18-17 18 17-25-17 22 17-18-17 \
+ /17-18-17 18 17-22-17 23 17-18-17 /17-18-17 18 17-22-17 20 17-18-17 /
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
 
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 5 6 6 6 6 6 6 6 6 5 4 \
+ | 5 6 6 5 6 6 6 6 6 5 6 4 |
 |
 =1  16 [g# a c~#] d~# rest rest 8. rest 16 [g# a c~#]
 =2' 16 [F F G] [F F G] [F F G] [F F G]
@@ -703,8 +781,10 @@ Il0.4 .03 jig
 =5  8. A f f~ a
 =6  16 [A B c#] f rest rest 8. rest rest
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4 \
+ | 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
+il0.7 .03 50
 =1  8. rest 16 [a b c~#] f~ rest rest 8. rest
 =2'  16 [F F G] [F F G] [F F G] [F F G]
 =3  16 [c# d# d#] [c# d# d#] [c# d# d#] [c# d# d#]
@@ -726,7 +806,8 @@ Il0.4 .03 jig
 =5  8. d~# c~# b a~-s0,
 =6, 8. rest 16 [c# d# g] b rest rest 8. rest
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 5 6 6 5 6 6 5 6 6 5 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4 \
+ | 6 5 6 6 5 6 5 6 6 5 6 4 |
 |
 #P=1  8 c~# 16 rest 8. g(1-tr 4. g)1
 #M=1  8 c~# 16 rest leg110 16 g 163 a g a  g a g  a g a  g a g leg89
@@ -743,6 +824,7 @@ Il0.4 .03 jig
 =5  8. B a b a
 =6  16 [B c# f'] 8 a 16 rest 16 [B c# f'] 8 a 16 rest
 |
+il0.8 .20 55
 =1  8 c~ 16 rest' 8. rest' 16 [a~ g~ e~b] 8 d~b 16 rest' 
 =2  16 [F# F# G] [F# F# G] [G G A] [G G A]
 =3  16 [d# e e] [d# e e] [eb f f] [eb f f]
@@ -750,11 +832,15 @@ Il0.4 .03 jig
 =5  8. c~ c a c#
 =6, 8. rest 16 [c d f] 8 a 16 rest 16 [c# d# f]
 
-3 systems 5/17-18-17 18 17-20-17 25 17-18-17 \
- /17-20-17 20 17-20-17 20 17-18-17 /17-20-17 20 17-20-17 20 17-25-17 /
+3 systems 5/17-18-17 20 17-20-17 25 17-18-17 \
+ /17-18-17 20 17-20-17 20 17-18-17 4 /17-20-17 20 17-20-17 20 17-25-17 5/
+pagenum
+innerhead Encores,  Peter Billam
+leftfoot (c) 2015 Peter J Billam
 
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 6 6 6 6 6 6 6 5 6 6 6 4 | 5 6 6 6 5 6 6 5 6 6 5 4 \
+ | 6 6 6 6 6 6 6 6 6 6 6 6 4 |
 |
 =1 16 [a~ g~ e~b] 8 d~b 16 rest' 8. rest' 16 [a~ f~# e~n]
 =2' 16 [F F G] [F F G] [F# F# G] [F# F# G]
@@ -778,7 +864,8 @@ Il0.4 .03 jig
 =5  8. d~b e~b c~ e~b
 =6, 16 [c~# a f] 8 eb 16 rest 16 [c~n a f] 8 eb 16 rest
 /
-3 bars | 48 | 48 | 48 |
+3 bars | 6 6 6 6 6 6 6 6 6 6 6 4 | 6 6 6 6 6 6 6 6 6 6 6 4 \
+ | 5 6 6 5 6 6 5 6 6 5 6 4 |
 |
 =1 16 [g rest'' c~#] [a f] rest [bb f# d] rest [g# e]
 =2' 16 [F G G] [F G G] [F Gb Gb] [F Gb Gb]
@@ -787,6 +874,7 @@ Il0.4 .03 jig
 =5  8. c~ a c g#
 =6, 16 16 [c~n a f] rest [c a] [f# rest' b] [g# e] rest
 |
+il0.7 .03 60
 =1  16 [db f eb] [db rest db] [A F# c'] [A rest G]
 =2' 16 [F Eb Eb] [F Eb Eb] [En D# D#] [E D# D#]
 =3, 16 [gn g a] [g g a] [f# f# g] [f# f# g]
@@ -805,7 +893,7 @@ i0.01 .01 sul D
 #midi off
 
 /
-6 bars | 30 | 48 | 48 | 48 | 40 | 35 ||
+6 bars | 36 | 48 | 6 6 6 6 7 6 6 6 | 6 6 6 6 7 6 6 6 | 40 | 36 ||
 | 4.0
 #il0.4 .01 possible ending: see AP p.19
 I0.8  lento
@@ -822,7 +910,6 @@ i0.2 .25 dim . . niente
 =2 2. D)2-dim60 4 rest cc11=100
 =3 1 <c(2 e)1(1>
 =4 1 <Bb)2(2 d(1>
-i0.1 .50 arco . . .
 =5 2 blank 1 rest
 ##M=6 32-s vol-2 bb c~ vol-2 bb c~ vol-2 bb  c~ vol-2 bb c~ vol-2 bb c~  vol-2 bb c~ vol-2 bb c~ vol-2 bb  c~ vol-2 bb c~ vol-2 bb c~ vol-2 bb
 =6 1 bb)1--tr-dim70
@@ -833,6 +920,7 @@ i0.01 .01 dim .40 . . . .75 niente
 =3 1 <c)2(2 e)1(1>
 =4 1 <Bb)2(2 d)1(1>
 =5 4 rest 2. ab
+i0.9 .02 arco . . .
 =6 2 blank 1 rest cc11=100
 |
 =1 2 blank 1 rest
@@ -844,6 +932,7 @@ i0.01 .01 dim .40 . . . .75 niente
 =5, 2 rest, 8 rest, 4. e(2
 =6 2 blank 1 rest
 |
+il0.9 .20 65
 =1' 4. rest'' 8 g(1 2 g)1(1
 =1, 2 d(2 d)2(2
 =2 1 <G)2 Bb')1(1>
@@ -867,4 +956,253 @@ i0.01 .01 dim .40 . . . .75 niente
 =4 1 <Bb)2 d)1-fermata-dim70>
 =5 1 <C)3 e)1-fermata-dim70>
 =6 1 <G)2 c)1-fermata-dim70>
+@
+
+
+1.2
+log
+@horizontal spacing; some expression marks
+@
+text
+@d21 3
+d283 2
+d584 2
+a585 2
+=3  1 blank
+=4  1 blank
+d667 1
+a667 1
+=3  8 [A 16 B'] 8 [d# 16 c#] 4. blank
+d694 1
+a694 1
+=1 8 [g 16 a] 8 [c~# 16 b] 8 [f 16 g] 8 [b 16 a]
+d862 1
+a862 1
+6 bars | 30 | 48 | 48 | 48 | 40 | 35 ||
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 2
+a2 2
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d8 1
+a8 1
+leftfoot (c) 2014 Peter J Billam
+d29 1
+d31 1
+d33 1
+d35 1
+d37 1
+d39 1
+d75 1
+a75 1
+=4 1 G# 2 A(1
+d82 1
+a82 1
+=4 1 A)1 2 A
+d104 2
+a105 1
+=2 1 G# 2 Bb(1
+d107 1
+d110 1
+d114 2
+a115 1
+=2 1 Bb)1 2 A
+d117 1
+d120 1
+d130 1
+a130 1
+3 systems /17-19-17 19 17-19-17 22 17-20-17 \
+d133 3
+d229 1
+d232 1
+d235 1
+d252 1
+d254 2
+a255 2
+i.50 .40 piu lento
+=6 vol-7 1 c# 2 B bass
+d259 1
+a259 1
+I0.3 .03 p
+d263 1
+a263 1
+I0.4 .03 p
+d267 1
+a267 1
+I0.5 .03 p
+d286 1
+a286 1
+leftfoot (c) 2014 Peter J Billam
+d290 2
+a291 1
+4 bars | 48 | 48 | 48 | 48 |
+d322 1
+a322 1
+=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [g 16 f] 8 [eb 16 f]
+d329 2
+a330 2
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [c# 16 eb]
+=2, 4 f 8 eb 4 c# 8 eb
+d336 2
+a337 1
+4 bars | 48 | 48 | 48 | 48 |
+d339 2
+a340 2
+il0.7 .03 5
+=1,  8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [c# 16 eb]
+d347 1
+a347 1
+=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+d355 2
+a356 2
+=2, 4 f 8 eb 4 c# 8 eb
+=3, 2 c# 4 eb
+d361 1
+a361 1
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [c# 16 eb]
+d368 2
+a369 1
+4 bars | 48 | 48 | 48 | 48 |
+d371 2
+a372 2
+=1,  8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [c# 16 eb]
+=2,  4 f 8 eb 4 c# 8 eb
+d378 3
+a380 3
+il0.7 .03 10
+=1, 8 [g 16 f] 8 [eb 16 f] 8 [f 16 eb] 8 [c# 16 eb]
+=2, 4 f 8 eb 4 c# 8 eb
+d386 1
+a386 1
+=1, 8 [eb 16 c#] 8 [B 16 c#] 8 [f 16 eb] 8 [c# 16 eb]
+d393 1
+a393 1
+=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+d396 1
+a396 1
+=4 2. c#(1
+d399 7
+d407 2
+a408 1
+4 bars | 48 | 48 | 48 | 48 |
+d412 2
+a413 2
+=3,  2 c# 4 eb
+=4  4 c#)1 2 eb
+d432 1
+a432 1
+=1, 8 [f 16 eb] 8 [c# 16 eb] 8 [eb 16 c#] 8 [B 16 c#]
+d439 2
+a440 1
+4 bars | 48 | 48 | 48 | 48 |
+d451 1
+a451 1
+=3, 16 [eb c# eb] [eb c# eb] [eb c# eb] [eb c# B,]
+d472 2
+a473 1
+4 bars | 48 | 48 | 48 | 48 |
+d478 1
+a478 1
+=4' 4 c# 8 d# 4 f 8 d#
+d484 1
+a484 1
+=3, 8 [d# 16 f] 8 [g 16 f] 8 [c# 16 d#] 8 [f 16 d#]
+d502 7
+d510 2
+a511 1
+4 bars | 48 | 48 | 48 | 48 |
+d513 1
+a513 1
+il0.7 .03 25
+d542 2
+a543 1
+4 bars | 48 | 48 | 48 | 48 |
+d552 1
+a552 1
+il0.7 .03 30
+d558 1
+a558 1
+=6  16 [e e d#]  [e e d#]  [e e d#]   [e e d#] 
+d574 2
+a575 1
+4 bars | 48 | 48 | 48 | 48 |
+d591 1
+a591 1
+il0.7 .03 35
+d600 1
+a600 1
+=2' vol100 8 rest 16 D# 8 [G# 16 F#] 8 [Eb 16 Fn] 8 [Bb 16 Ab]
+d606 5
+a610 2
+3 systems 10/17-20-17 20 17-20-17 25 17-20-17 \
+ /17-20-17 20 17-20-17 20 17-20-17 /17-20-17 20 17-20-17 20 17-20-17 /
+d613 2
+a614 1
+4 bars | 48 | 48 | 48 | 48 |
+d637 1
+a637 1
+# START OF HYPOTHETICAL INSERT
+d639 2
+a640 1
+Il0.4 .03 jig
+d649 2
+a650 1
+3 bars | 48 | 48 | 48 |
+d659 3
+a661 2
+Il0.4 .50 seethe
+=1  blank
+d670 3
+d677 2
+a678 1
+3 bars | 48 | 48 | 48 |
+d680 1
+a680 1
+Il0.4 .03 jig
+d685 2
+d688 1
+d693 3
+d698 1
+a698 1
+# END OF HYPOTHETICAL INSERT
+d711 1
+a711 1
+=5  cha8 8. G# d#' d~# g#
+d714 5
+a718 2
+3 systems 5/17-18-17 18 17-20-17 25 17-18-17 \
+ /17-18-17 18 17-20-17 20 17-18-17 /17-18-17 18 17-20-17 20 17-18-17 /
+d721 2
+a722 1
+3 bars | 48 | 48 | 48 |
+d745 2
+a746 1
+3 bars | 48 | 48 | 48 |
+d748 1
+d770 2
+a771 1
+3 bars | 48 | 48 | 48 |
+d788 1
+d796 5
+a800 2
+3 systems 5/17-18-17 18 17-20-17 25 17-18-17 \
+ /17-20-17 20 17-20-17 20 17-18-17 /17-20-17 20 17-20-17 20 17-25-17 /
+d803 2
+a804 1
+3 bars | 48 | 48 | 48 |
+d828 2
+a829 1
+3 bars | 48 | 48 | 48 |
+d838 1
+a873 1
+i0.1 .50 arco . . .
+d884 1
+d896 1
 @
