@@ -19,7 +19,7 @@ PLAY = mvt2
 dev : title.a4 title_parts.a4 strings.a4 strings_parts.a4
 all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
  ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf
- # ${MP3D}/${PIECE1}.mp3
+mp3 : ${MP3D}/${PIECE1}.mp3
 dist1:
 	upload ${A4D}/${PIECE1}.pdf
 	upload ${USD}/${PIECE1}.pdf
@@ -42,10 +42,10 @@ ${XMLD}/${PIECE1}.xml : ${PIECE1}
 ${SRCD}/${PIECE1}.txt : ${PIECE1}
 	cp ${PIECE1} $@
 ${MP3D}/${PIECE1}.mp3 : ${PIECE1}
-	${MUSCRIPT} -midi ${PIECE1} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
-	${NORMALIZE} --peak t.wav
-	lame -h t.wav $@
-	rm t.wav
+	${MUSCRIPT} -midi ${PIECE1} \
+	 | fluadity - /home/cds/clas/billam/2015_strings.wav
+	${NORMALIZE} /home/cds/clas/billam/2015_strings.wav
+	lame -h /home/cds/clas/billam/2015_strings.wav $@
 
 ${A4D}/${PIECE2}.pdf : p2.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
 	sed s/Score/Parts/ title | groff -ms | ${BANNERISE} > title_parts.a4

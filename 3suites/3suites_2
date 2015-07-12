@@ -6,7 +6,7 @@ leftfoot (c) 1998 Peter J Billam
 midi channel 1 patch 0 pan 70 reverb 50
 midi channel 2 patch 0 pan 30 reverb 50
 
-midi off
+#midi off
 
 /
 2 bars |14|11|
@@ -109,10 +109,10 @@ il0.6 .19 15
 =2' cro d c~ b b
 =2, qua [B c] [d eb] [f f#] [g# a]
 |
-=1' legato104 cro d qua [c# B] [c# d] [e f]
+=1' leg104 cro d qua [c# B] [c# d] [e f]
 =1  smb <F A>
 i0.8 .03 legatissimo . . .
-=2  legato104 qua [b d~ f~ a~(1] cro a~)1 qua [f~ d~]
+=2  leg104 qua [b d~ f~ a~(1] cro a~)1 qua [f~ d~]
 /
 4 bars | 4 | 4 | 4 | 4 |
 |
@@ -576,7 +576,7 @@ b0.3 .96 * P_
 =1' min. rest' qua [<A a> <B b>]
 =1, smb <F# A>
 =2  smb <c~ e~>
-=2, transpose-12 min rest, A_(2
+=2, tra-12 min rest, A_(2
 I1.2     8vab . . .
 |
 il0.7   50
@@ -587,7 +587,7 @@ I1.0 .50 . . . |
 |
 =1 smb <A a>
 =2 smb <e~b g~>
-=2, transpose0 min rest, A_(2
+=2, tra0 min rest, A_(2
 b0.8  * P_
 |
 =1 smb <C(2 Eb(4 G(6 c(1 g(3 g~(5>

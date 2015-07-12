@@ -151,6 +151,7 @@ midi channel 5 patch 42 pan 20 reverb 45
 midi channel 6 patch 42 pan 65 reverb 45
 midi channel 7 patch 43 pan 50 reverb 45
 midi channel 8 patch 45 pan 50     # pizz
+i0.7 .20 ~ 40 bars/min
 =1  treble cha1 leg89  vol90  bend50 cc64=0 cc11=100
 =2  treble cha2 leg89  vol80  bend50 cc64=0 cc11=100
 =1  2. a
@@ -280,7 +281,7 @@ il0.5 .03 30
 
 7 systems 5/17-20-17/17-22-17/17-20-17/17-20-17/17-20-17/17-20-17/17-25-17 5/
 pagenum
-innerhead Violin parts,  Encores,  Peter Billam
+innerhead Violin parts,  I I,  Encores,  Peter Billam
 leftfoot (c) 2015 Peter J Billam
 
 /
@@ -576,6 +577,7 @@ midi channel 5 patch 42 pan 20 reverb 45
 midi channel 6 patch 42 pan 65 reverb 45
 midi channel 7 patch 43 pan 50 reverb 45
 midi channel 8 patch 45 pan 50     # pizz
+i0.7 .20 ~ 40 bars/min
 =1  treble cha3 leg89  vol70  bend50 cc64=0 cc11=100
 =2  treble cha4 leg89  vol60  bend50 cc64=0 cc11=100
 =1  2. a
@@ -733,9 +735,8 @@ il0.7 .13 40
 =2  4 c# 8 d# 16 [c# d# d#] [c# d# d#]
 
 7 systems 5/17-23-17/17-23-17/17-23-17/17-23-17/17-20-17/17-20-17/17-20-17 5/
-innerhead I I     Viola parts
 pagenum
-innerhead Viola parts,  Encores,  Peter Billam
+innerhead Viola parts,  I I,  Encores,  Peter Billam
 leftfoot (c) 2015 Peter J Billam
 
 /
@@ -1000,6 +1001,7 @@ midi channel 5 patch 42 pan 20 reverb 45
 midi channel 6 patch 42 pan 65 reverb 45
 midi channel 7 patch 43 pan 50 reverb 45
 midi channel 8 patch 45 pan 50     # pizz
+i0.7 .20 ~ 40 bars/min
 =1  treble cha5 leg89  vol55  bend50 cc64=0 cc11=100
 =2  treble cha6 leg89  vol50  bend50 cc64=0 cc11=100
 #midi off
@@ -1161,7 +1163,7 @@ il0.6 .13 40
 
 7 systems 5/17-23-17/17-20-17/17-20-17/17-20-17/17-20-17/17-20-17/17-26-17 5/
 pagenum
-innerhead Cello parts,  Encores,  Peter Billam
+innerhead Cello parts,  I I,  Encores,  Peter Billam
 leftfoot (c) 2015 Peter J Billam
 
 /

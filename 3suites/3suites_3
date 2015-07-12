@@ -3,9 +3,10 @@ pagenum 4
 title For Piano and a Solo Line
 innerhead 3rd suite, Three Suites, Peter Billam
 leftfoot (c) 1999 Peter J Billam
-midi channel 0 patch 73 reverb 70 
+midi channel 0 patch 73 reverb 20 
 midi channel 1 patch 0 pan 70 reverb 60
 midi channel 2 patch 0 pan 30 reverb 60
+midi off
 /
 4 bars | 2/2 4 5 4 5 5 4 5 4 | 4 4 4 5 5 4 4 4 \
  | 4 5 4 5 5 4 4 4 | 4 5 4 5 5 5 5 4 |
@@ -762,12 +763,12 @@ I0.4    f
 |
 =1 smb G(1
 i0.6 .49 8va -   -
-=2 qua [g b c~# e~] [g b c~# e~]
+=2 qua [g b c~# e~] tra+12 [g b c~# e~]
 =3 smb <G_)2(2 G)1(1>
 |
 =1 smb G)1-fermata
 r0.6 .60 -  -  |
-=2 smb g~-fermata
+=2 smb g~-fermata tra0
 =3 smb <G_)2 G)1 fermata>
 
 4 systems /19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/19 35 19-35-19 10/
@@ -779,9 +780,9 @@ midi pause 5
 4 bars | 8 | 10 | 12 | 16 |
 | 4/4 4
 il0.5     Broad
-=1 treble 4/4 smb leg99  rest
-=2 treble 4/4 smb leg99  rest
-=3 bass   4/4 cro leg99  rest g min g
+=1 treble 4/4 cha0 smb leg99  rest
+=2 treble 4/4 cha1 smb leg99  rest
+=3 bass   4/4 cha2 cro leg99  rest g min g
 | 5/4 5
 =1 5/4 min rest Bb' cro A
 =2 5/4 min D cro C# min D
@@ -790,7 +791,7 @@ il0.5     Broad
 =1 6/4 smb Bb' cro d c(1
 =2 6/4 cro rest min D cro D min E
 =3 6/4 cro g)1 g min. g cro g
-| 8/4 4
+| 8/4 8
 =1 8/4 cro c)1 rest min c cro B, min. c
 =2 8/4 min E cro D# min E cro D# E G
 =3 8/4 smb a min a cro g# a
@@ -1094,7 +1095,7 @@ il0.5    55
 =2' smb c cro Bn min c cro B
 =2, min E cro D# min E cro D# min E
 =3 min. a cro a smb a
-| 7/4 4
+| 7/4 7
 =1 7/4 smb d cro f# min B,(1
 =2' 7/4 smb. B cro d
 =2, 7/4 min F# cro Fn min. F# cro F#(2
@@ -1241,24 +1242,25 @@ i0.5  dim . . .
 =3 qua [C_ C] [c G] [g c~] cro blank
 |
 =1 min. eb)1 cro rest
-i0.9               8va...
-=2 qua [c~ g] cro g~ min g~
+i0.9 .50 8va...
+=2 qua [c~ g] cro g~ min tra+12 g~ tra0
 
 4 systems 16 /19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/19 35 19-35-19/
 pagenum 17
 innerhead 3rd movement, 3rd suite, Three Suites, Peter Billam
 leftfoot (c) 1999 Peter J Billam
 midi pause 5
+midi on
 /
 5 bars | 9/8 4 3 4 4 5 5 4 5 4 | 4 3 4 4 4 5 5 4 4 \
  | 6/8 4 3 4 4 4 4 | 4 3 4 5 5 4 | 4 3 4 4 4 4 |
 | 9/8 1.8
 il1.1 Wild
-=1 treble 9/8 cro. leg90 b-tr qua [c~ b a] cro. b-tr
+=1 treble 9/8 cha0 cro. leg90 b-tr qua [c~ b a] cro. b-tr
 i0.8                 non legato
-=2 treble 9/8 cro. leg85 f-trb qua [f rest' gb] [d~ rest' gb]
+=2 treble 9/8 cha1 cro. leg85 f-trb qua [f rest' gb] [d~ rest' gb]
 i0.8                 non legato
-=3 treble 9/8 cro. leg85 d-trb qua [d rest eb] [Ab, rest eb]
+=3 treble 9/8 cha2 cro. leg85 d-trb qua [d rest eb] [Ab, rest eb]
 |
 =1 cro. b-tr qua [a b c~] cro. b-tr
 =2 cro. f#-tr qua [f# rest' e] [g f# e]
@@ -1839,7 +1841,7 @@ il0.7      100
 =2 cro. g#-tr b-tr
 =3 cro. f-trb B-tr
 /
-7 bars |6.5|6|6|1.2 1.5 1.5 1.5 1.5 1|6|6|6||
+7 bars |6.5|6|6|1.2 1.5 1.5 1.5 1.5 1|2 2 2|5.5|5.5||
 |
 il1.4 105
 =1 treble min. c~#(1-tr
@@ -1854,16 +1856,15 @@ i0.5 .40 dim . . .
 |
 =1 min. c#(1-tr
 =2 min. C#(2-tr#
-=3 min. A)2-trb bass
+=3 min. A)2-trb bass8vab
 |
 =1 min. c#)1(1-tr
 =2 min. C#)2(2-tr#
-=3 qua rest  [F# F#] [F# F# F#]
+=3 qua rest [f# f#] [f# f# f#]
 |
 =1 min. c#)1(1-tr
 =2 min. C#)2(2-tr#
-=3 min F_# cro F_#
-I0.9 .96 8vab . . .
+=3 min F# cro F#
 |
 il1.0 110
 =1 min. c#)1
@@ -1873,7 +1874,8 @@ il1.0 110
 =1 min. rest
 =2 min. rest
 =3 min. A_)1
-b0.5 .70 . . . |
+
+midi off
 
 12 systems /19/19/19/19/19/19/19/19/19/19/19/19/
 pagenum 24
@@ -2414,7 +2416,7 @@ il0.5    65
 =1 qua rest cro c(1 smq [c)1 B,] cro. A qua c
 I0.1  mf
 |
-=1 min.. B(1 qua A#)1
+=1 min.. B{1 qua A#}1
 |
 =1 qua rest cro G#(2 smq [G#,)2 d#] cro. e qua d#
 /
