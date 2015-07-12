@@ -1,0 +1,250 @@
+
+6 systems 14 /19-30-19/19-35-19/19-30-19/19-30-19/19-35-19/19-40-19/
+pagenum 4
+innerhead Three Preludes, Peter Billam
+title Prelude II
+leftfoot (c) 2003 Peter J Billam
+midi channel 1 patch 0 reverb 65
+/
+5 bars | 3/4 8 7 8 7 8 6 | 8 7 8 7 8 6 \
+ | 8 7 8 7 8 6 | 7 7 7 8 7 6 | 8 7 8 8 8 6 |
+| 3/4 198
+i0.7         Smooth, veiled
+=1  treble 3/4 cha1 leg170 vol60 8 rest [Db F Db F Db]
+I0.4 .01 pp
+=2  bass   3/4 cha1 leg170 vol60 2. D_b(1
+|
+=1  8 [F Db F Db F Db]
+=2  2. D_b)1(1
+|
+=1  8 [F Db F Db F Db]
+=2  2. D_b)1
+|
+=1  8 [F B_ E B_ D# B_]
+=2, 8 [B g# c# g# d# g#]
+|
+=1  8 [C# B_b D B_b Eb Cn]
+=2, 8 [e gn d g c g]
+/
+5 bars | 7 8 7 7 7 6 | 7 7 7 8 8 6 | 8 7 8 7 7 6 | 7 7 7 8 7 6 | 7 7 7 8 7 6 |
+|
+=1  8 [F C# G C# A D]
+=2' 8 [B f Bb f A f]
+|
+=1' 8 [Bb D A D Ab Eb]
+=2' 8 [G f A g B ab]
+|
+=1' 8 [G Eb A Eb B En]
+=2, 8 [db a c a B g]
+|
+=1' 8 [c E B E Bb E]
+=2, 8 [A g B a c# bb]
+|
+il0.6 .20 10
+=1' 8 [Ab D G D F# D]
+=2, 8 [d b e b f# b]
+/
+5 bars | 8 7 8 8 8 6 | 8 8 7 7 7 6 | 8 8 8 8 8 6 | 7 8 8 7 8 6 | 8 8 8 8 8 6 |
+|
+=1' 8 [E D F D Gb Eb]
+=2, 8 [g bb f bb eb a]
+|
+=1' 8 [Ab En Bb E c F]
+=2, 8 [d ab db ab c ab]
+|
+=1' 8 [d Gb db Gb c Gb]
+=2, 8 [B ab db ab eb an]
+|
+=1' 8 [B F A Eb G Eb]
+=2, 8 [f b f# b g c~]
+|
+il0.8 .20 15
+=1' 8 [Gb Eb Ab Eb Bb Eb]
+=2, 8 [a c~ ab c~ g c~]
+/
+5 bars | 8 8 8 7 8 6 | 8 7 8 8 8 6 | 8 7 7 8 8 6 | 7 7 7 8 7 6 | 7 8 7 8 7 6 |
+|
+=1' 8 [B Eb A Eb G Eb]
+=2, 8 [f b f# b g c~]
+|
+=1' 8 [F# Eb G Eb Ab Eb]
+=2, 8 [a c~ g c~ f c~]
+|
+=1' 8 [An Eb B F db Gb]
+i0.6 .40 cresc . . .
+=2, 8 [eb b d b db b]
+|
+=1' 8 vol67 [eb G d G c# G]
+=2, 8 vol67 [c bb d c~ e d~b]
+|
+il1.1 .30 20
+=1' 8 vol74 [B G c# G eb G]
+=2, 8 vol74 [f d~b e d~b eb c~]
+/
+5 bars | 8 8 8 7 8 6 | 8 8 8 8 8 6 | 7 8 7 8 7 6 | 8 8 8 8 8 6 | 8 8 8 7 8 6 |
+|
+=1, vol83 8 [e Ab eb Ab d Ab]
+=2, vol83 8 [db b eb c~# f d~]
+|
+=1' 8 vol90 [c Gb B Gb Bb Gb]
+i0.7 .50 dim . . .
+=2, 8 vol90 [gb e~b ab e~b bb e~b]
+|
+=1' 8 vol84 [Ab F An F Bb F]
+=2, 8 vol84 [bn d~ a d~ g d~]
+|
+=1' 8 vol77 [c Gb B Gb Bb Gb]
+=2, 8 vol77 [gb e~b ab e~b bb e~b]
+|
+il0.7 .20 25
+=1' 8 [Ab Gb Bb Ab c An]
+i0.6 .40 cresc . . .
+=2, 8 [bn d~ bb d~ a d~]
+/
+5 bars | 8 7 8 7 8 6 | 7 7 8 8 8 6 | 8 8 8 7 8 6 | 8 7 8 8 8 6 | 7 7 7 7 7 6 |
+|
+=1, vol84 8 [d Bb e Bb f# Bb]
+=2, vol84 8 [ab e~ g e~ f# e~b]
+|
+=1, 8 vol100 [g Bb f Bb eb Bb]
+I0.5 .03 f
+=2, 8 vol100 [e d~b f d~b gb e~b]
+|
+=1, 8 [d Ab db Ab c Ab]
+=2, 8 [ab e~n bb e~ c~ f~]
+|
+=1' 8 [B Ab c Ab c# Ab]
+=2, 8 [d~ f~ c~ e~ bb c~#]
+|
+il0.4 .20 30
+=1, 8 [d G# d# G# e G#]
+=2, 8 [g# c~ f# c~ e c~]
+
+6 systems 4 /19-39-19/19-32-19/19-30-19/19-31-19 5/19-32-19 10/19-31-19 10/
+pagenum 5
+innerhead Prelude II, Three Preludes, Peter Billam
+leftfoot (c) 2003 Peter J Billam
+/
+5 bars | 7 7 7 8 8 6 | 8 7 8 7 8 6 | 7 8 7 8 7 6 | 8 8 8 7 8 6 | 8 7 8 8 8 6 |
+|
+=1, treble 8 [f G# d# G# c# G#]
+=2, bass   8 [d b d# b e c~#]
+|
+=1, 8 [c Ab d Ab e Ab]
+=2, 8 [gb d~ f d~ e c~#]
+|
+=1' 8 vol94 [f G# d# F# c# E]
+i0.6 .40 dim . . .
+=2, 8 vol94 [d b d# b e b]
+|
+=1' 8 vol87 [B Eb A Eb G Eb]
+=2, 8 vol87 [f b f# b g b]
+|
+il0.6 .10 35
+=1' vol80 8 [F Eb G Eb A Eb]
+=2, vol80 8 [ab b g b gb] rest
+/
+5 bars | 8 7 8 7 8 6 | 8 7 8 7 8 6 | 8 7 7 7 7 6 | 8 7 8 7 8 6 | 7 7 7 7 7 6 |
+|
+=1' vol60 2. B
+=1, 8 rest, [D# B_ D# B_ D#]
+I0.5   pp
+=2, vol90 2. <F(2 f(4>
+I0.4  mp
+|
+=1  8 [B_ D# B_ D# B_ D#]
+=2  2 <F,)2 f)4> cro F_
+|
+=1  8 [B_ Dn B_ D B_ D]
+=2  2 F_# cro F_#
+|
+=1  8 [B_ C# B_ C# B_ C#]
+=2  2 G_ cro G_
+|
+il0.4 .10 40
+=1  8 [B_ D B_ D B_ D]
+=2  2. F_#(1
+/
+5 bars | 7 7 7 7 7 6 | 8 7 8 7 8 6 | 7 7 7 7 7 6 | 7 7 7 8 8 6 | 8 7 8 8 8 6 |
+|
+=1  8 [B_ D B_ D B_ D]
+=2  2 F_#)1 cro F_#
+|
+=1  8 [B_ D# B_ D# B_ D#]
+=2  2 F_n cro F_
+|
+=1  8 [B_ E B_ E B_ E]
+=2  2 E_ cro c#,
+|
+=1  8 [F B_ E B_ Eb B_]
+=2, vol60 8 [B g# c# g# d# g#]
+|
+il0.5 .30 45
+=1  8 [C# B_b D B_b Eb B_b]
+=2, 8 [e gn d g c g]
+/
+5 bars | 7 7 7 8 7 6 | 8 7 8 8 7 6 | 7 7 8 8 7 6 | 8 7 8 8 8 6 | 7 8 7 8 7 6 |
+|
+=1  8 [F B_ E B_ D# B_]
+=2, 8 [B g# c# g# d# g#]
+|
+=1  vol70 8 [Dn C E C F# C]
+i0.4 .01 cresc . . .
+=2, vol70 8 [f g# e g# d# a]
+|
+=1  vol80 8 [Ab D G D F# D]
+=2, vol80 8 [d a# e a# f# b]
+|
+=1' vol90 8 [Fn Eb G Eb A Eb]
+=2  vol90 8 [ab b g b f# c~]
+|
+=1' vol100 8 [B G c# G d# G#]
+I0.6 .04 f
+=2, vol100 8 [f c~# e a# d# b]
+/
+5 bars | 7 7 7 7 7 6 | 7 8 7 8 7 6 | 7 7 8 7 7 7 | 7 7 7 7 7 6 | 7 7 7 7 7 6 |
+|
+=1, 8 [f A B A e d]
+=2, 8 [d b e b f b]
+|
+=1' vol95 8 [c# vol90 G B vol80 F Bb vol70 F]
+i0.7 .01 dim . . .
+I0.6 .82 mp
+=2, vol95 8 [g vol90 d~b ab vol80 d~b bb] rest'
+I0.7 .80 mp
+|
+=1  vol55 8 [Ab F C Ab] rest D
+I0.5 .03 pp
+i0.5 .18 subito
+=2' vol55 2 rest' 8 f 8 rest'
+=2' 2. D_
+=2 4 blank 2. blank-,-,-P
+|
+=1  8 c rest d rest rest c~
+=2  8 rest ab rest c~ f~ rest
+|
+=1, 8 [Ab d~ f c~] cro c~~(2
+/
+5 bars | 5 | 6 | 1 1.2 1 1 1 1 | 6 | 5.5 ||
+| 1.6
+=1  2. c~~)2-fermata
+=2  2. blank
+=2 2.. blank 8 blank-,-,-*
+| .303 .307 .312
+=1  cro G 8 [Eb G] [C A]
+=2  2. C_
+=2 4 blank 2. blank-,-,-P
+| .318 .325 .333
+=1  8 rest G eb rest g rest
+=2  8 eb rest rest a rest c~
+| .342 .352 .363
+=1  8 rest c~ [A, e~b g c~]
+=2  8 e~b rest 2 rest
+| 2.5
+=1  2. c~~-fermata
+i0.1 .70 1 min
+=2  2. blank
+=2 2.. blank 8 blank-,-,-*
+
+midi pause 3.9
+

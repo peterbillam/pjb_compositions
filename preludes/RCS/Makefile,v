@@ -1,4 +1,28 @@
-MUSCRIPT = /home/pbin/muscript
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.05.07.08.19.52;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@modernised Makefile for preludes
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@MUSCRIPT = /home/pbin/muscript
 NORMALIZE = /usr/bin/normalize-audio
 BLURB = /home/pjb/mus/blurb/compositions
 COMPD = /home/pjb/www/mus/comp
@@ -26,35 +50,35 @@ dist:
 ${A4D}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 - ${FREEBACKPAGE}.a4 \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
 ${USD}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 - ${FREEBACKPAGE}.a4 \
 	| ${A42US} \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
 ${XMLD}/${PIECE}.xml : ${PIECE}
-	${MUSCRIPT} -xml ${PIECE} > $@
+	${MUSCRIPT} -xml ${PIECE} > $@@
 ${SRCD}/${PIECE}.txt : ${PIECE}
-	cp ${PIECE} $@
+	cp ${PIECE} $@@
 ${MP3D}/${PIECE}.mp3 : ${PIECE}
 	${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
 	${NORMALIZE} --peak t.wav
-	lame -h t.wav $@
+	lame -h t.wav $@@
 	rm t.wav
 
 ${PIECE} : prelude_1 prelude_2 prelude_3
-	chmod 644 $@
-	cat prelude_1 prelude_2 prelude_3 > $@
-	chmod 444 $@
+	chmod 644 $@@
+	cat prelude_1 prelude_2 prelude_3 > $@@
+	chmod 444 $@@
 ${PIECE}.a4 : ${PIECE}
-	${MUSCRIPT} -a4 ${PIECE} > $@
+	${MUSCRIPT} -a4 ${PIECE} > $@@
 	pkill -HUP gv
 ${PIECE}.mid : ${PIECE}
-	${MUSCRIPT} -midi ${PIECE} > $@
+	${MUSCRIPT} -midi ${PIECE} > $@@
 title.a4 : title
-	groff -ms title | ${BANNERISE} > $@
+	groff -ms title | ${BANNERISE} > $@@
 p2.a4 : p2
-	groff -ms p2 | ${BANNERISE} > $@
+	groff -ms p2 | ${BANNERISE} > $@@
 play :
 	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat
 play1 :
@@ -65,18 +89,19 @@ play3 :
 	${MUSCRIPT} -midi prelude_3 | midisox_lua - -d stat
 wav : ${WAVDIR}/prelude_1.wav ${WAVDIR}/prelude_2.wav ${WAVDIR}/prelude_3.wav
 ${WAVDIR}/prelude_1.wav : prelude_1
-	${MUSCRIPT} -midi prelude_1 | fluadity - $@
-	${NORMALIZE} --peak $@
+	${MUSCRIPT} -midi prelude_1 | fluadity - $@@
+	${NORMALIZE} --peak $@@
 ${WAVDIR}/prelude_2.wav : prelude_2
-	${MUSCRIPT} -midi prelude_2 | fluadity - $@
-	${NORMALIZE} -a -15dBFS $@
+	${MUSCRIPT} -midi prelude_2 | fluadity - $@@
+	${NORMALIZE} -a -15dBFS $@@
 ${WAVDIR}/prelude_3.wav : prelude_3
-	${MUSCRIPT} -midi prelude_3 | fluadity - $@
-	${NORMALIZE} --peak -a -8dBFS $@
+	${MUSCRIPT} -midi prelude_3 | fluadity - $@@
+	${NORMALIZE} --peak $@@
 
 preludes_titles.jpg : preludes_titles.eps
-	eps2jpg preludes_titles.eps > $@
-	display $@
+	eps2jpg preludes_titles.eps > $@@
+	display $@@
 video : preludes_titles.jpg
 	muscript2video -t preludes_titles.jpg \
 	  -c /home/pjb/mus/blurb/credits.jpg preludes_video
+@
