@@ -1,0 +1,243 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.08.13.08.51.54;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@moved in from sketches/
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@5 systems 5 /17-20-17-20-17/
+title Sometimes
+midi channel 0 patch 82
+/
+4 bars | 48 |
+| 2.4
+=1 treble     cha0 2. rest 4. rest G
+r0.5 .71 Some -
+=2 treble8vab cha0 
+=3 bass       cha0 
+|
+=1 4 C# 8 D 4 E 8 D 4. G# rest
+r0.5 .03 times I think I do
+=2 2. rest 4. rest c
+r0.5 .75 I
+=3 2. rest 4. rest e
+|
+=1 2. rest 4. rest E
+r0.5 .71 Some -
+=2 4. db 4 db 8 c(1 4. c)1 rest
+r0.5 .01 think .25 I .41 do
+=3 4. f  4 f  8 e(1 4. e)1 rest
+|
+=1 4 A 8 G 4 F# 8 G 4. D# rest
+r0.5 .03 times I think I don't
+=2 2. rest 4. rest A
+r0.5 .75 I
+=3 2. rest 4. rest f 
+
+/
+4 bars | 48 |
+|
+=1 2. rest 4. rest G
+r0.5 .71 Some -
+=2' 4. A# 4 A# 8 B(2 4. B)2 rest
+r0.5 .01 think .25 I .41 don't
+=3  4. f# 4 f# 8 g(1 4. g)1 rest
+|
+=1 4 C# 8 D 4 E 8 D 4. G# rest
+r0.5 .03 times I think I will
+=2 2. rest 4. rest c
+r0.5 .75 I
+=3 2. rest 4. rest e
+|
+=1 2. rest 4. rest E
+r0.5 .74 Some -
+=2 4. c# 4 d 8 c#(1 4. c#)1 rest
+r0.5 .01 think .25 I .41 will
+=3 4. f  4 f# 8 g(1 4. g)1 rest
+|
+=1' 4 A 8 G 4 Fn 8 G 4. B rest
+r0.5 .03 times I think I won't
+=2 2. rest 4. rest d
+r0.5 .75 I
+=3 2. rest 4. rest f#
+/
+4 bars | 48 |
+|
+=1 2. rest 4. rest F#
+r0.5 .71 Some -
+=2 4. d# 4 e 8 d#(1 4. d#)1 rest
+r0.5 .01 think .25 I .41 won't
+=3 4. g  4 g# 8 a(1 4. a)1 rest
+|
+=1' 4 B 8 A 4 G 8 A 4. Fn rest
+r0.5 .03 times I think I didn't
+=2 2. rest 4. rest f
+r0.5 .75 I
+=3 2. rest 4. rest ab
+|
+=1' 2. rest 4. rest B
+r0.5 .71 Some -
+=2 4. e  4 eb 8 d(1 4. d)1 rest
+r0.5 .01 think .25 I .41 didn't
+=3 4. g  4 g 8 f#(1 4. f#)1 rest
+|
+=1 4 F 8 F# 4 G# 8 F# 4. c rest
+r0.5 .03 times I think I did
+=2  2. rest 4. rest d
+r0.5 .75 I
+=3  2. rest 4. rest f#
+/
+4 bars | 48 |
+|
+=1' 2. rest 4. rest c
+r0.5 .71 Some -
+=2 4. d# 4 e 8 d#(1 4. d#)1 rest
+r0.5 .01 think .25 I .41 did
+=3  4. g 4 g#  8 a(1 4. a)1 rest
+|
+=1' 4 F 8 F# 4 G# 8 F# 4. B rest
+r0.5 .03 times it's all on show
+=2 2. rest 4. rest d#
+r0.5 .75 It's
+=3 2. rest 4. rest g
+|
+=1 2. rest 4. rest G
+r0.5 .71 Some -
+=2 4. e  4 e 8 f(1 4. f)1 rest
+r0.5 .01 all .25 on .41 show
+=3 4. g# 4 g# 8 a(1 4. a)1 rest
+|
+=1' 4 B 8 A 4 G 8 A 2. c#(1
+r0.5 .03 times I keep it hid
+=2 2. rest 4. rest f
+r0.5 .75 I
+=3 2. rest 4. rest a
+
+|
+=1 1. c#)1
+=2 4. f#  4 f# 8 g(1 2. g)1
+r0.5 .01 keep .25 it .41 hid
+=3 4. a# 4 a# 8 b(1 2. b)1
+|
+=1 4. rest A 2. d(1
+r0.5 .25 It's .5 mine  .   .   .
+=2 4. rest g 2. f#(1
+=3 4. rest a 2. bb(1
+|
+=1 2. d)1  4 rest 8 A#(2 4. A#)2
+r0.5 .67 It's
+=2 2. f#)1 4 rest 8 f#(1 4. f#)1
+=3 2. bb)1 4 rest 8 d~(1 4. d~)1
+|
+=1 1. B
+r0.5 .03 mine  .   .   .
+=2 1. g
+=3 1. c~#
+
+|
+=1' 4. rest F# 2. B(2
+r0.5 .25 It's .5 mine  .   .   .
+=2 4. rest e 2. d#(1
+=3 4. rest bb 2. g(1
+|
+#=1 2. B)1(1  4 B)1  8 G(2  4. G)2
+#=3 2. d#)1(1 4 d#)1 8 d#(1 4. d#)1
+#=4 2. g)1(1  4 g)1  8 b(1  4. b)1
+=1' 2. B)2  G
+r0.5 .50 It's
+=2 2. d#)1 d#
+=3 2. g)1  b
+|
+=1 1. G#
+r0.5 .03 mine  .   .   .
+=2 1. e
+=3 1. bb
+|
+=1  4. rest B' c# 4 G 8 G# 
+r0.5 .25 It's .50 my .75 tin .90 of
+# uncertain about these chords ...
+#=2 4. rest e e 4 c# 8 d
+=2 4. rest e e 4 d 8 d
+=3 4. rest ab g 4 e 8 f
+
+|
+=1 4 B' 8 c#(1 4. c#)1 rest d
+r0.5 .05 candy .75 my
+=2 4 d# 8 e(1  4. e)1 rest c
+#=2 4 d  8 e(1  4. e)1 rest c
+#=3 4 ab 8 g(1  4. g)1 rest f#
+=3 4 f# 8 g(1  4. g)1 rest f#
+|
+=1 4 d# 8 B 4 G 8 B'(2 2. B')2(2
+r0.5  .02 bottle .25 of .42 wine
+=2 4 B 8 d# 4 f 8 gb(1 4. g)1(1 4 gb)1 8 f(1
+#=3 4 fn 8 a 4 b 8 ab(1 4. a)1(1 4 ab)1 8 g(1
+=3 4 fn 8 a 4 b 8 ab(1 2. a)1
+|
+=1 2. B')2 rest
+=2 4 f)1 8 e 4. eb d(1 4 d)1 8 c#(1
+=3 2. g 4. gb 4 f 8 e(1
+|
+=1 2. rest 4. rest G
+r0.5 .75 Some -
+=2 2. c#)1(1 4. c#)1 rest
+=3 2. e)1(1 4. e)1 rest
+
+|
+=1 4 C# 8 D 4 E 8 D 4. G# rest
+r0.5 .03 times I think I do
+=2 2. rest 4. rest c
+r0.5 .75 I
+=3 2. rest 4. rest e
+|
+=1 2. rest 4. rest E
+r0.5 .71 Some -
+=2 4. db 4 db 8 c(1 4. c)1 rest
+r0.5 .01 think .25 I .41 do
+=3 4. f  4 f  8 e(1 4. e)1 rest
+|
+=1 4 A 8 G 4 F# 8 G 4. D# rest
+r0.5 .03 times I think I don't
+=2 2. rest 4. rest A
+r0.5 .75 I
+=3 2. rest 4. rest f 
+
+midi pause 4.0
+
+
+# Sometimes I think I do, sometimes I think I don't
+# Sometimes I think I will, sometimes I think I won't
+# Sometimes I think I didn't, sometimes I think I did
+# Sometimes it's all on show, sometimes I keep it hid
+# It's mine, it's mine
+# It's my tin of candy, it's my bottle of wine
+
+# (middle-8 ? ...)
+
+# sometimes I think I shouldn't, sometimes I think I should
+# sometimes I think I wouldn't, but then I think I would
+# I think maybe I hadn't, but then I know I had
+# at first it seems OK, but then I know it's bad
+# It's mine, it's mine
+# It's my tin of candy, it's my bottle of wine
+
+# # shouldn't  should  couldn't    could
+# # might not  might   behind closed doors  in plain sight
+@

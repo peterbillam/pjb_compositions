@@ -1,0 +1,788 @@
+3 systems 10 /17-22-17-22-17-22-17-22-17/
+title The Spell
+midi channel 0 patch 82
+/
+4 bars | 5/4 12 | 60 | 4/4 48 | 5/4 60 |
+| .53
+=1 treble 5/4 cha0 leg105 4 rest
+=2 treble 5/4 cha0 leg105 4 E
+r0.5 .10 The
+=3 treble 5/4 cha0 leg105 8 rest, G_
+r0.5 .60 The
+=4 treble8vab  5/4 cha0 leg105 8 rest G
+r0.5 .60 The
+=5  bass       5/4 cha0 leg105 4 rest
+| 2.5
+=1 2. rest 2 rest
+=2 2. D# 2 E
+r0.5 .01 car .60 is
+=3 8 [C# Cn] 4 C# rest 8 rest [G_ C# Cn]
+r0.5 .01 car  is  hot .70 the  car  is
+=4 8 [A A] 4 A rest 8 rest [G A A]
+r0.5 .01 car  is  hot .70 the  car  is
+=5 2 rest 2. A
+r0.2 .42 The
+| 2.0
+=1' 4/4 2 rest 8 <A(2 c> 4 <A)2 c#> 8 rest
+r0.5 .52 car
+=2 4/4 2 F# 4 rest E
+r0.5 .05 hot .75 they're
+=3 4/4 4 C# rest rest 8 rest G_
+r0.5 .05 hot .82 they're
+=4 4/4 4 A rest rest 8 rest G
+r0.5 .05 hot .82 they're
+=5 4/4 4 rest 2. A
+r0.2 .27 car
+| 2.5
+=1 5/4 2. rest 2 rest
+=2 5/4 2. D# 2 E
+r0.5 .04 on .60 the
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_ C# Cn]
+r0.5 .04 on  the  run .70 they're  on  the
+=4 5/4 8 [A A] 4 A rest 8 rest [G A A]
+r0.5 .04 on  the  run .70 they're  on  the
+=5 5/4 2 rest 2. A
+r0.2 .42 is
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+=1' 4/4 2 rest 4. <A c#> 8 rest
+r0.5 .52 run
+=2 4/4 2 F# 4 rest E
+r0.5 .05 run .75 Their
+=3 4/4 4 C# rest rest 8 rest G_
+r0.5 .05 run .88 Their
+=4 4/4 4 A rest rest 8 rest G
+r0.5 .05 run .88 Their
+=5 4/4 4 rest 2. A
+r0.2 .27 hot
+
+| 2.5
+il0.7 .05 5
+=1 5/4 2. rest 2 rest
+=2 5/4 2. D# 2 E
+r0.5 .01 nos .33 - .60 trils
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_# C# Cn]
+r0.5 .01 nostrils wide .70 with wine and
+=4 5/4 8 [A A] 4 A rest 8 rest [G# A A]
+r0.5 .01 nostrils wide .70 with wine and
+=5 5/4 2 rest 2. A
+r0.2 .42 with
+| 2.0
+=1' 4/4 2 rest 8 <A(2 c> 4 <A)2 c#> 8 rest
+r0.5 .52 wine
+=2 4/4 2. F# 4 E
+r0.5 .05 wide .76 with
+=3 4/4 4 C# rest rest 8 rest G_#
+r0.5 .05 fun .82 their
+=4 4/4 4 A rest rest 8 rest G#
+r0.5 .05 fun .82 their
+=5 4/4 4 rest 2. A
+r0.2 .27 wine
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+| 2.5
+=1 5/4 2. rest 2 rest
+=2 5/4 2. F# 2 G#
+r0.5 .04 wine .60 and
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [A_# C# Dn]
+r0.5 .04 nostrils wide .70 with wine and
+=4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
+r0.5 .04 nostrils wide .70 with wine and
+=5 5/4 2 rest 2. B
+r0.2 .42 and
+| 2.0
+=1 4/4 2 rest 4. <B c#x> 8 rest
+r0.5 .52 fun
+=2 4/4 2 A 4 rest F#
+r0.5 .05 fun .75 The
+=3 4/4 4 D# rest rest 8 rest A_#
+r0.5 .05 fun .88 The
+=4 4/4 4 B rest rest 8 rest A#
+r0.5 .05 fun .88 The
+=5 4/4 4 rest 2. B
+r0.2 .27 fun
+
+| 2.5
+=1 5/4 2. rest 2 rest
+bl0.10 .92 ,
+=2 5/4 2. D# 2 E
+r0.5 .01 road .60 sings
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_# C# Cn]
+r0.5 .01 road  sings  un - .70 derneath the
+=4 5/4 8 [A A] 4 A rest 8 rest [G# A A]
+r0.5 .01 road  sings  un - .70 derneath the
+=5 5/4 2 rest 2. A
+r0.2 .42 The
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+il0.7 .05 10
+=1' 4/4 2 rest 4. <A c#> 8 rest
+r0.5 .52 sun
+=2 4/4 2. F# 4 E
+r0.5 .05 un .37 - .75 der .90 -
+=3 4/4 4 C# rest rest 8 rest G_#
+r0.5 .05 sun .82 the
+=4 4/4 4 A rest rest 8 rest G#
+r0.5 .05 sun .82 the
+=5 4/4 4 rest 2. A
+r0.2 .27 road
+| 2.5
+=1 5/4 2. rest 2 rest
+=2 5/4 2. F# 2 E
+r0.5 .04 neath .60 the
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [A_# C# Dn]
+r0.5 .04 road  sings  un - .70 derneath the
+=4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
+r0.5 .04 road  sings  un - .70 derneath the
+=5 5/4 2 rest 2. B
+r0.2 .42 the
+| 2.0
+=1 4/4 2 rest 8 <B(2 d> 4 <B)2 d#> 8 rest
+r0.5 .52 sun
+=2 4/4 2 G# 4 rest F#
+r0.5 .05 sun .75 The
+=3 4/4 4 D# rest rest 8 rest A_#
+r0.5 .05 sun .88 The
+=4 4/4 4 B rest rest 8 rest A#
+r0.5 .05 sun .88 The
+=5 4/4 4 rest 2. B
+r0.2 .27 sun
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+| 2.5
+=1, 5/4 2. rest 8 <A#l, dn(1> 4 <B d)1> 8 rest
+r0.5 .64 beach
+=2 5/4 1 A 4 F#
+r0.5 .04 beach .78 shall
+=3 5/4 8 [D C#] 4 D rest rest 8 rest C#
+r0.5 .04 beach shall be
+=4' 5/4 8 [B B] 4 B rest rest 8 rest A
+r0.5 .04 beach shall be
+=5 5/4 2 rest 2. B
+| 2.0
+=1' 4/4 2 rest 4. <G Bb> 8 rest
+r0.5 .52 be
+=2 4/4 2. G 4 E
+r0.5 .07 be .75 their
+=3 4/4 8 [D D] 4 D rest 8 rest C#
+=4' 4/4 8 [Bb A] 4 Bb rest 8 rest G
+=5 4/4 2 rest A#
+| 2.5
+il0.7 .05 15
+=1 5/4 1 blank
+=2 5/4 1 F# 4 rest
+r0.5 .05 bed
+=3 5/4 4 D 2 C# D(2
+=4' 5/4 1 G# 4 A#
+=5 5/4 2 rest 2. G#(2
+
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+=1' 4/4 4 rest 2 <G# B> 4 rest
+r0.5 .27 bed
+=2  4/4 2 rest 4 rest Gb
+r0.5 .75 they're
+=3  4/4 2 D)2 4 rest 8 rest B_b
+=4' 4/4 2 B 4 rest 8 rest A#
+=5  4/4 2. G#)2 4 rest
+| 2.5
+=1  5/4 2. rest 2 rest
+=2  5/4 2. F 2 Gb
+r0.5 .05 twen .35 - .62 ty
+=3  5/4 8 [Eb D] 4 Eb 4 rest 8 rest [B_b Eb D]
+=4' 5/4 8 [B  B] 4 B  4 rest 8 rest [A# B B]
+=5  5/4 2 rest 2. B
+r0.2 .42 and
+| 2.0
+=1, 4/4 2 rest 8 <B(2 d> 4 <B)2 d#> 8 rest
+r0.5 .52 three
+=2  4/4 2 Ab 4 rest Gb
+r0.5 .05 three .75 and
+=3  4/4 4 Eb rest rest 8 rest B_b
+=4' 4/4 4 B rest rest 8 rest A#
+=5  4/4 4 rest 2. B
+r0.2  .27 twen .85 -
+
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+| 2.5
+=1  5/4 2. rest 2 rest
+=2 5/4 2. F 2 Gb
+r0.5 .05 twen .31 - .62 ty
+=3  5/4 8 [Eb D] 4 Eb 4 rest 8 rest [B_b Eb D]
+r0.5 .04 twenty-five .70 and twenty -
+=4' 5/4 8 [B  B] 4 B  4 rest 8 rest [A# B B]
+r0.5 .04 twenty-five .70 and twenty -
+=5  5/4 2 rest 2. B
+r0.2 .42 ty .90 -
+| 2.0
+il0.7 .05 20
+=1, 4/4 2 rest 8 <B(2 d> 4 <B)2 d#> 8 rest
+=2 4/4 2 Ab 4 rest Gb
+r0.5 .05 five .75 but
+=3  4/4 4 Eb rest rest 8 rest B_b
+r0.5 .05 five .82 how
+=4' 4/4 4 B rest rest 8 rest A#
+r0.5 .05 five .82 how
+=5  4/4 4 rest 2. B
+r0.2 .27 five
+| 2.5
+=1  5/4 2. rest 2 rest
+=2 5/4 2. F 2 Gb
+r0.5 .05 no .60 ma .85 -
+=3 5/4 8 [Eb D] 4 Eb rest 8 rest [B_b Eb D]
+r0.5 .04 matter how .70 no matter
+=4' 5/4 8 [B B] 4 B rest 8 rest [A# B B]
+r0.5 .04 matter how .70 no matter
+=5 5/4 2 rest 2. B
+r0.2 .42 how
+
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+=1 4/4 2 rest 4. <B d#> 8 rest
+=2 4/4 2 Ab 4 rest Gb
+r0.5 .01 - .05 ter .75 how
+=3 4/4 4 Eb rest rest 8 rest B_b
+r0.5 .05 how .82 how
+=4' 4/4 4 B rest rest 8 rest A#
+r0.5 .05 how .82 how
+=5 4/4 4 rest 2. B
+r0.2 .27 fast
+| 2.5
+=1  5/4 2. rest 2 rest
+=2 5/4 2. Ab 2 Gb
+r0.5 .05 fast .60 they
+=3 5/4 8 [Eb D] 4 Eb rest 8 rest [C D# En]
+r0.5 .04 matter how .70 how fast they
+=4 5/4 8 [B' B'] 4 B' rest 8 rest [c db c]
+r0.5 .04 matter how .70 how fast they
+=5 5/4 2 rest 2. B
+r0.2 .42 they
+| 2.0
+=1 4/4 2 rest 8 <c#(2 e> 4 <c#)2 f> 8 rest
+r0.5 .52 sun
+=2 4/4 2 Bb' 4 rest Ab
+r0.5 .05 drive .75 the
+=3 4/4 4 F rest rest 8 rest C
+r0.5 .05 drive .88 The
+=4 4/4 4 db rest rest 8 rest G#
+r0.5 .05 drive .88 The
+=5 4/4 4 rest 2. A#
+r0.2 .27 drive
+
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+| 2.5
+il0.7 .05 25
+=1 5/4 2 c 4 B' A G#
+=2 5/4 2. c(1 2 c)1
+r0.5 .05 spell
+=3 5/4 1 D 4 E
+r0.5 .05 spell runs on
+=4 5/4 1 F#
+r0.5 .05 spell runs on
+=5 5/4 2. G# 2 A
+| 2.0
+=1 4/4 2 B' 4 A# G#
+=2 4/4 1 B
+r0.5 .05 runs
+=3 4/4 1 F#
+=4 4/4 1 G#
+=5 4/4 1 B
+| 2.5
+=1 5/4 4 A 4 G# F# Fn F#
+=2 5/4 2. A 2 G#
+r0.5 .05 on .61 a .85 -
+=3 5/4 2. F# 4 rest F#
+=4 5/4 2. A 2 B'
+=5 5/4 2 c 2. d'
+
+3 systems 10 /17-22-17-22-17-22-17-22-17/
+
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+=1 4/4 2 A 4 G# F#
+=2 4/4 2 A 4 rest F#
+r0.5 .01 - .05 head .75 the
+=3 4/4 2. Fn 4 Eb(2
+=4 4/4 4 c  2 B' 4 G#
+=5 4/4 2 eb d
+| 2.5
+=1 5/4 4 A G# 2 F# 4 Fn
+=2 5/4 2. A 2 G#
+r0.5 .05 spell .62 runs
+=3 5/4 4 Eb)2 Db 4 C 2 B_
+=4 5/4 4 F# Fn 2. Eb
+=5 5/4 1 db
+| 2.0
+il0.7 .05 30
+=1 4/4 2. Eb 4 blank
+=2 4/4 2. F# 4 Fn
+r0.5 .05 on .75 a .90 -
+=3 4/4 1 A_
+=4 4/4 2 blank 1 rest
+=5 4/4 1 c
+
+
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+| 2.5
+=1 5/4 2 blank 1 rest
+=2 5/4 2. Eb(2 2 Eb)2(2
+r0.5 .01 - .05 head
+=3 5/4 2 rest 2. G_#(1
+r0.5 .05 ?
+=4 5/4 2 rest 2. F#(2
+r0.5 .05 ?
+=5 5/4 2. B(2  2 B)2(2
+
+# 2nd verse
+| 2.0
+=1 4/4 2 rest 4 rest Gb
+r0.5 .73 They're
+=2 4/4 2. Eb)2 4 rest
+=3 4/4 4 G_#)1 rest rest 8 rest, A_
+r0.5 .80 They
+=4 4/4 4 F#)2  rest rest 8 rest A
+r0.5 .80 They
+=5 4/4 2. B)2  4 rest
+
+
+| 2.5
+=1 5/4 2. F 2 Gb
+r0.5 .05 cud .34 - .62 dled
+=2 5/4 2. rest 2 rest
+=3 5/4 4 Eb 8 D 4. Eb 8 rest [A_ Eb D]
+r0.5 .01 cuddle close .70 they cuddle
+=4' 5/4 4 B 8 B 4. B 8 rest [A B B]
+r0.5 .01 cuddle close .70 they cuddle
+=5 5/4 2 rest 2. B
+r0.2 .41 close
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+=1 4/4 2 Ab 4 rest Gb
+r0.5 .05 close .73 they're
+=2 4/4 2 rest 4. Eb 8 rest
+=3 4/4 4 Eb rest rest 8 rest A_
+r0.5 .01 close .80 they're
+=4' 4/4 4 B rest F 8 rest A
+r0.5 .01 close .80 they're
+=5 4/4 4 rest 2. B
+r0.2 .27 close
+| 2.5
+il0.7 .05 35
+=1 5/4 2. F 2 Gb
+r0.5 .05 ly .34 - .62 ing
+=2 5/4 2. rest 2 rest
+=3 5/4 4 Eb 8 D 4. Eb 8 rest [A_ Eb D]
+r0.5 .01 lying low .70 they're lying
+=4' 5/4 4 B 8 B 4. B 8 rest [A B B]
+r0.5 .01 lying low .70 they're lying
+=5 5/4 2 rest 2. B
+r0.2 .42 low
+| 2.0
+=1 4/4 2 Ab 4 rest Gb
+r0.5 .05 low .77 the
+=2 4/4 2 rest 4. Db 8 rest
+=3 4/4 4 Eb rest rest 8 rest A_
+r0.5 .01 low .80 the
+=4' 4/4 4 B rest F 8 rest A
+r0.5 .01 low .80 the
+=5 4/4 4 rest 2. B
+r0.2 .27 low
+
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+| 2.5
+=1  5/4 2. F 2 F#
+r0.5 .05 bed .60 is
+=2  5/4 2. rest 2 rest
+=3  5/4 4 Eb 8 D 4. Eb 8 rest [B_b Eb D]
+r0.5 .05 bed is warm .70 the bed is
+=4' 5/4 4 B 8 B 4. B 8 rest [A# B B]
+r0.5 .05 bed is warm .70 the bed is
+=5  5/4 2 rest 2. B
+r0.2 .42 warm
+| 2.0
+=1 4/4 2. G# 4 F#
+r0.5 .05 warm .76 with
+#=2, 4/4 2 rest 8 <B(2 d> 4 <B)2 eb> 8 rest
+=2 4/4 2 rest 4. Eb 8 rest
+r0.5 .52 warm
+=3 4/4 4 Eb rest rest 8 rest B_b
+r0.5 .05 warm .82 with
+=4 4/4 4 B' rest F 8 rest A#
+r0.5 .05 warm .82 with
+=5 4/4 4 rest 2. B
+r0.2 .27 warm
+| 2.5
+=1 5/4 2. G# 2 A#
+r0.5 .04 af .32 - .60 ter
+=2 5/4 2. rest 2 rest
+=3 5/4 4 Eb 8 D 4. Eb 8 rest [C Eb En]
+r0.5 .04 afterglow .70 with after -
+=4 5/4 4 B' 8 B' 4. B' 8 rest [c db c]
+r0.5 .04 afterglow .70 with after -
+=5 5/4 2 rest 2. c#
+r0.2 .42 glow
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+il0.7 .05 40
+=1' 4/4 2 B 4 rest G#
+r0.5 .05 glow .75 Their
+=2  4/4 2 rest 4. Eb 8 rest
+r0.5 .52 glow
+=3  4/4 4 F rest F 8 rest C
+r0.5 .05 glow .88 Their
+#=4  4/4 4 db rest Ab 8 rest c
+=4  4/4 4 db rest rest 8 rest c
+r0.5 .05 glow .88 Their
+=5  4/4 4 rest 2. c#
+r0.2 .27 glow
+
+| 2.5
+=1 5/4 2. F 2 F#
+r0.5 .05 bo .35 - .60 dies
+=2 5/4 2. rest 2 rest
+=3 5/4 4 Eb 8 D 4. Eb 8 rest [B_b Eb D]
+r0.5 .05 bodies touch .70 from head to
+=4 5/4 4 B 8 B 4. B 8 rest [A# B' B']
+r0.5 .05 bodies touch .70 from head to
+=5 5/4 2 rest 2. B
+r0.2 .42 head
+| 2.0
+=1  4/4 2. G# 4 F#
+r0.5 .05 touch .74 from
+=2  4/4 2 rest 4. Eb 8 rest
+r0.5 .52 ?
+=3  4/4 4 Eb rest rest 8 rest B_b
+r0.5 .05 toe .82 their
+=4  4/4 4 B' rest G# 8 rest A#
+r0.5 .05 toe  .82 their
+=5  4/4 4 rest 2. B
+r0.2 .27 to
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+| 2.5
+=1  5/4 2. G# 2 F#
+r0.5 .04 head .60 to
+=2  5/4 2. rest 2 rest
+=3  5/4 4 Eb 8 D  4. Eb 8 rest [C Eb En]
+r0.5 .04 bodies touch .70 from head to
+=4  5/4 4 B' 8 B' 4. B' 8 rest [c db c]
+r0.5 .04 bodies touch .70 from head to
+=5  5/4 2 rest 2. c#
+r0.2 .42 toe
+| 2.0
+=1 4/4 2 Bb 4 rest G#
+r0.5 .05 toe .75 A
+#=2 4/4 2 rest 8 <c#(2 e> 4 <c#)2 f> 8 rest
+=2 4/4 2 rest 4. F 8 rest
+r0.5 .52 toe
+=3 4/4 4 F rest rest 8 rest C
+r0.5 .05 toe .88 A
+=4 4/4 4 db rest db 8 rest c
+r0.5 .05 toe .88 A
+=5 4/4 4 rest 2. c#
+| 2.5
+il0.7 .05 45
+=1  5/4 1 B 4 G#
+r0.5 .04 tear .78 forms
+=2,  5/4 2. rest 8 <cl, e(1> 4 <c# e)1> 8 rest
+r0.5 .64 tear
+=3  5/4 8 [E D#] 4 E rest rest 8 rest D#
+r0.5 .04 tear forms .90 forms
+=4  5/4 8 [db db] 4 db rest rest 8 rest B
+r0.5 .04 tear forms .90 forms
+=5  5/4 2 rest 2. c#
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.0
+=1  4/4 2. A 4 F#
+r0.5 .07 in .75 her
+=2' 4/4 2 rest 4. <A c> 8 rest
+r0.5 .52 be
+=3  4/4 8 [E E] 4 E rest 8 rest D#
+r0.5 .05 in her eye .84 forms
+=4  4/4 8 [c B] 4 c rest 8 rest A
+r0.5 .05 in her eye .84 forms
+=5  4/4 2 rest c
+r0.2 .52 her
+| 2.5
+=1 5/4 1 G# 4 rest
+r0.5 .05 eye
+=2 5/4 2 rest 2. rest
+=3 5/4 4 E 2 D# E(2
+=4 5/4 1 Bb 4 c
+r0.5 .05 in .76 her
+=5 5/4 2 rest 2. Bb(2
+r0.2 .43 eye
+| 2.0
+=1 4/4 vol125 4 rest 2. Bb'
+r0.5 .28 the
+=2 4/4 2. rest 4 F#(2
+r0.5 .76 the
+=3 4/4 2 E)2 4 rest E
+r0.5 .76 the
+=4 4/4 2 db 4 rest c
+r0.5 .05 eye .76 the
+=5 4/4 2. Bb)2 4 rest
+
+/
+3 bars | 5/4 54 | 54 | 54 |
+| 2.25
+=1' 9/8 4 Bb(2 4. Bb)2(2 2 Bb)2(2
+r0.5 .05 fields
+=2 9/8 4 F#)2 8 [G Ab G] [F# G Ab G]
+=3 9/8 4 D# 4. E 8 D# rest 4 E
+=4 9/8 4 Bb(1 4. Bb)1 2 c
+| 2.25
+il0.7 .05 50
+=1' 4 Bb)2(2 4. Bb)2(2 2 Bb)2
+#=2 8 F# rest [G Ab G] [F# G Ab G]
+#=3 4 D# 4. E 2 Eb
+=2 8 F# rest [G Ab G] [Gb Fn E F]
+=3 4 D# 4. E 2 Dn(2
+=4 2 db 8 rest 2 c
+| 2.25
+=1 4 A(2 4. A)2(2 2 A)2
+r0.5 .05 run
+=2 4 F#(2 4. F#)2 2 G
+=3 8 D)2 rest [D# E D#] [Dn D# E D#(2]
+=4 4 B 4. c 4 B c(1
+/
+3 bars | 54 | 54 | 54 |
+| 2.25
+=1' 4 Bb(2 4. Bb)2(2 2 Bb)2
+r0.5 .05 in
+=2 8 F# rest [G Ab G] [F# G Ab Bb']
+=3 4 D#)2 4. E 8 D# rest 4 E(2
+=4 2 c)1 8 rest 2 Bb'
+|
+=1 4 c(1 4. c)1(1 2 c)1(1
+r0.5 .05 waves
+=2 2 c 8 rest 2 Bb'
+=3 4 E)2 8 [Eb D Eb] [En Eb D Eb]
+=4 4 A 4. Ab 4 G Ab
+| 2.0
+=1 1 c)1
+=2 4. A G# 4 F#(2
+=3 8 [D C] 4 D 4. Eb 8 D(2
+=4 4. A 4 Bb 8 c 4 Bb
+=5 2. f# 4 f#(1
+|
+il0.7 .05 55
+=1 2 rest c
+r0.5 .55 The
+=2 2 F#)2 4 rest 4 F#
+=3 8 [D)2 C] 4 D 4. D# 8 E
+=4 4. A 4 Bb 8 c 4 Bb
+=5 2. f#)1 4 f#(1
+|
+=1' 1 B
+r0.5 .05 log
+=2' 4. G# 4 A 8 B 4 A(2
+=3 2 F# Fn(2
+=4 8 rest B 4 c# 4. d 8 db
+=5 2 f#)1 4 rest fn(1
+|
+=1 1 A
+r0.5 .05 fire
+=2 8 A)2 4 G 4. F# 4 G
+=3 4 F)2 2. Eb
+=4 4 c B 8 A 4 B 8 c
+=5 4 f)1 2. eb
+
+|
+=1' 1 Ab
+r0.5 .05 burns
+=2 8 Ab 4 Gb 4. F 4 Gb
+=3 1 Eb
+=4' 4 B A# 8 G# 4 A# 8 B(2
+=5 1 eb
+|
+=1' 2 rest Bb
+r0.5 .55 The
+=2 8 Ab 4 Gb 4. F 4 F(2
+=3 1 Eb
+=4' 4 B)2 A# 8 G# 4 A# 8 Gn
+=5 1 eb
+|
+il0.7 .05 60
+=1' 1 A
+r0.5 .05 snow .65 -
+=2 9/8 8 [F)2 F# G F#] [Fn F# G F#]
+=3 9/8 4 D 4 Eb 8 D rest 4 Eb
+=4' 9/8 4 A(2 4 A)2 2 B
+|
+=1' 1 G
+r0.5 .05 flakes
+=2 8 [F E D# E] [F E D# E(2]
+=3 4 D 4. Db C(2
+=4' 4. Bb 8 rest 2 A
+|
+=1  2 Ab
+r0.5 .05 fall
+=2 4. E)2 8 F# 4 E 8 [F# Fn(2]
+=3 4 C)2 8 D 4 C 8 D 4 C
+=4 2 G# 4 A# G#(2
+|
+=1 1 rest
+=2 4 F)2 4 G 8 Ab 4 G 8 F(2
+=3 1 D
+=4' 8 G#)2 4 A# 4. B 4 A#
+
+|
+=1  1 Ab
+r0.5 .05 a
+=2 4 F)2 4 Gb 8 Ab 4 Gb 8 F
+=3 1 C#
+=4' 8 G# 4 A# 4. B 4 A#
+=5 1 g#(1
+|
+il0.7 .05 65
+=1  1 Gb
+r0.5 .05 tear
+=2  1 Gb
+r0.5 .05 tear
+=3 4. D# 4 E 8 F# 4 E
+=4 2.. Bn 8 G#
+=5 8 [g#)1 f#] 4 g# 4. a 8 rest
+|
+=1' 1 D
+r0.5 .05 forms
+=2' 1 D
+r0.5 .05 forms
+=3 8 D 4 C 4. B_ 4 C
+=4 1 A
+=5 4 fn e 8 d 4 e 8 gb(1
+|
+=1  1 Eb
+r0.5 .05 in
+=2  1 Eb
+r0.5 .05 in
+=3 4 Db 8 Eb 4 Db 4. C
+=4 2.. A 8 G#(2
+=5 8 gb)1 4 f 8 eb 4 f gb(1
+|
+=1  1 Gb
+r0.5 .05 her
+=2  1 C#
+r0.5 .05 her
+=3 4. D# 4 E 8 F# 4 E
+=4 8 [G#)2 F#] 4 G# 4. A 8 G#
+=5 1 gb)1
+|
+=1  1 F(2
+r0.5 .05 eye
+=2  1 B_(2
+r0.5 .05 eye
+=3  4 Eb 2. Db
+=4  2 A 4 B' 4 A(2
+=5  1 f(1
+|
+il0.7 .05 70
+=1  1 F)2
+=2  1 B_)2
+=3  4 Eb 2. Db
+=4  1 A)2
+=5  1 f)1
+
+| 2.25
+=1  2. rest 4 F
+r0.5 .76 the
+=2  4. rest 4. F  4 F
+r0.5 .38 as .76 the
+=3  4. rest 4. Eb 4 Eb
+r0.5 .38 as .76 the
+=4' 4. rest 4. B  4 B
+r0.5 .38 as .76 the
+=5  2 blank 1 rest
+
+| 2.5
+=1 5/4 2 d 4 c# B' A#
+=2 5/4 2. d(1 2 d)1
+r0.5 .05 spell
+=3 5/4 1 E 4 F#
+r0.5 .05 spell .81 the
+=4 5/4 1 G#
+r0.5 .05 spell
+=5 5/4 2. A# 2 B
+r0.2 .05 as .62 the
+/
+3 bars |  60 | 60 | 60 |
+|
+=1 2 db c 4 Bb
+=2 1 c#(1 4 c#)1
+r0.5 .52 fla - shes
+=3 1 G#(2 4 G#)2
+r0.5 .05 spell
+=4 1 A#(2 4 A#)2
+=5 1 c#(2 4 c#)2
+r0.2 .05 spell
+
+| 2.5
+=1' 4 Bn 4 Bb Ab G Ab
+=2' 2. B 2 Bb
+r0.5 .03 fla .32 - .60 shes
+=3' 2. G# 4 rest Ab
+=4 2. B 2 c#
+=5 2 d 2. e
+r0.2 .03 as .41 the
+
+
+# 20150829  copied this modified version back to bars 28-29 ...
+| 2.55
+il0.7 .05 75
+=1' 2 Bn 4 A# 2 G#
+=2' 2 B 4 rest 2 G#
+r0.5 .03 by .61 the
+=3 1 G 4 F(2
+=4 4 d 2 c# 2 Bb
+=5 2 f{'1 2. e}'1
+r0.2 .03 spell
+/
+4 bars | 60 | 50 | 55 | 45 ||
+| 2.6
+=1' 4 B Bb 2 Ab 4 G
+=2' 2. B{2 2 Bb}2
+r0.5 .03 spell
+#=3 5/4 2 Eb 4 D 2 C#
+=3 4 F)2 Eb 4 D 2 C#
+=4 4 Ab G 2. F(2
+=5 1 eb
+r0.2 .03 fla .60 -
+| 2.7
+=1 2. F(2 2 F)2(2
+r0.5 .02 by  .   .   .
+=2 2. Ab 2 G
+r0.5 .03 fla .32 - .60 shes
+=3 2. B_(1 2 B_)1
+=4 2. F)2 rest
+=5' 2. d(2 2 d)2
+r0.2   - .02 shes
+
+| 2.8
+=1 4 F)2 1 rest
+=2 2. F(2 2 F)2(2
+r0.5 .05 by  .   .   .
+=3 2 rest 2. B_b(1
+r0.3 .42 by  .   .   .
+=4 2 rest 2. G#(2
+r0.5 .42 by  .   .   .
+=5 2. c#(2 2 c#)2(2
+r0.2 .05 by  .   .   .
+| 3.5
+=1 1 rest-fermata-dim0-dim40
+=2 1 F)2-fermata-dim0-dim40
+=3 1 B_b)1-fermata-dim0-dim40
+=4 1 G#)2-fermata-dim0-dim40
+=5 1 c#)2-fermata-dim0-dim40
+

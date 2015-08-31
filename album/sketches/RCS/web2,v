@@ -1,0 +1,1129 @@
+head	1.6;
+access;
+symbols;
+locks
+	pjb:1.6; strict;
+comment	@# @;
+
+
+1.6
+date	2015.07.29.10.43.45;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2015.07.27.09.54.44;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.07.26.10.24.31;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.07.25.11.21.17;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.07.23.04.15.02;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.07.22.07.38.25;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@attempt at spinning web onwards
+@
+
+
+1.6
+log
+@up to bar 38 ?
+@
+text
+@4 systems 5 /17-20-17-20-17-20-17/
+title Web
+midi channel 0 patch 82
+/
+3 bars | 12/8 48 | 48 | 10/8 40 |
+| 3.0
+#il0.9 .03 6/8 static
+#     >---  >---
+#    ->--  ->--       6/8
+#   -->-  -->-
+#  --->  --->
+=1  treble     12/8 cha0 leg105 1 blank
+=2  treble     12/8 cha0 leg105 1 blank
+=3  treble8vab 12/8 cha0 leg105 1 blank
+=4  bass       12/8 cha0 leg105 1 blank
+# midi off
+=1 2. rest 8 [Eb D D D] rest rest
+r0.5 .50 your grandchildren
+=2 2 rest 8 rest C [C B_ B_] rest rest C
+r0.5 .42 before we sleep .91 before we sleep
+=3' 2 rest 8 [A A] [Bb A] rest rest [A A]
+r0.5 .33 wayward daughter .80 wayward daughter
+=4 8 rest rest rest [g g g] f# rest rest [g g g]
+r0.3 .23 entwined and warm .75 entwined and warm
+|
+=1  8 [Eb D D D] rest rest  [Eb D D D] rest rest
+r0.5 .01 your grandchildren .50 your grandchildren
+=2  8 [C B_ B_] rest rest C [C B_ B_] rest rest C
+r0.5 .42 before we sleep .91 be -
+=3' 8 [A A] rest rest [A A] [Bb A] rest rest [A A]
+r0.5 .33 wayward daughter .80 wayward daughter
+=4  8 f# rest rest [g g g] f# rest rest [g g g]
+r0.3 .23 entwined and warm .75 entwined and warm
+
+| 2.5
+#il0.9 .03 5/8 static
+#     >--- >--- >--- >--- 
+#    ->-- ->-- ->-- ->--       5/8
+#   -->- -->- -->- -->-
+#  ---> ---> ---> --->
+=1  10/8 8 [Eb D D D] rest 8 [Eb D D D] rest
+r0.5 .01 your grandchildren .50 your grandchildren
+=2  10/8 8 [C B_ B_] rest C [C B_ B_] rest C
+r0.5 .01 fore we sleep .42 before we sleep .91 be -
+=3' 10/8 8 [Bb A] rest 8 [A A] [Bb A] rest [A A] 
+r0.5 .30 wayward daughter .80 wayward
+=4  10/8 8 f# rest [g g g] f# rest [g g g]
+r0.3 .20 entwined and warm .70 entwined and
+/
+3 bars | 40 | 40 | 40 |
+|
+=1  8 [Eb D D D] rest  [Eb D D D] rest
+r0.5 .01 your grandchildren .50 your grandchildren
+=2  8 [C B_ B_] rest C [C B_ B_] rest D
+r0.5 .01 fore we sleep .42 before we sleep .90 vic -
+=3' 8 [Bb A] rest [A A] [Bb A] rest [G G]
+r0.5 .01 daughter .30 wayward daughter .80 mortal
+=4  8 f# rest [g g g] f# rest [B B B]
+r0.3 .01 warm .20 entwined and warm .70 the path is
+| 2.5
+il0.6 .03 5
+#i0.5 .15 best of breed  .   .   .
+=1  8 [G F# F# F#] rest 8 [G F# F# F#] rest
+r0.5 .01 wall of silence .50 wall of silence
+=2 8 [Eb D D] rest 8 Eb [Eb D D] rest Eb
+r0.5 .01 torious .40 victorious .90 vic -
+=3' 8 [A Bb] rest 8 [G# G#] [A Bb] rest [G# G#]
+r0.5 .01 glory .30 mortal glory .80 mortal
+=4 8 c rest [B B B] c rest [B B B]
+r0.3 .01 short .20 the path is short .70 the path is
+|
+=1  8 [G F# F# F#] rest [G F# F# F#] rest
+r0.5 .01 wall of silence .50 wall of silence
+=2 8 [Eb D D] rest Eb [Eb D D] rest D
+r0.5 .01 torious .40 victorious .90 im -
+=3' 8 [A Bb] rest [G# G#] [A Bb] rest [Gn Ab]
+r0.5 .01 glory .30 mortal glory .80 tangled
+=4 8 c rest [B B B] c rest [d e f#]
+r0.3 .01 short .20 the path is short .70 to pass it
+
+#| 0.75
+#     >---  ->--  -->-  --->  >---  ->--  -->-  --->  
+#    ->--  -->-  --->  >---  ->--  -->-  --->  >---    7+7+7+3
+#   -->-  --->  >---  ->--  -->-  --->  >---  ->--
+#  --->  >---  ->--  -->-  --->  >---  ->--  -->-
+/
+3 bars | 12/8 48 | 48 | 10/8 40 |
+| 3.0
+# G# A# B c d e f f# g#
+#il0.9 .01 forwards  7+7+7+3
+i0.7 .15 C2122221
+=1' 12/8 8 [G F Eb D] rest rest F [G F Eb] rest rest
+r0.5 .01 complex number .50 improbable
+=2 12/8 8 [Eb D B_] rest rest [D Eb] [D C] rest rest B_
+r0.5 .01 probable .42 tangled forest .90 to
+=3' 12/8 8 [B A] rest rest [F G A] B rest rest [B A]
+r0.5 .01 forest .33 to pass it on .82 complex
+=4, 12/8 8 g rest rest [g f eb d] rest rest 8 f [g f]
+r0.3 .01 on .32 complex number .78 improba -
+| 3.0
+# G# A# B c d e f f# g#
+=1' 8 [Eb F] [G F] rest rest [D Eb F] G rest rest
+r0.5 .01 tangled forest .50 to pass it on
+=2 8 [C D] Eb rest rest [Eb D C B_] rest rest D
+r0.5 .01 on .35 complex number .92 im -
+=3' 8 [G F] rest rest B [c B A] rest rest [A B]
+r0.5 .01 number .33 improbable .82 tangled
+=4, 8 eb rest rest [f g] [a g] rest rest [eb f g]
+r0.3 .01 ble .28 tangled forest .74 to pass it
+
+
+| 2.5
+#il0.9 condensing & forwards  6+6+6+2
+#     >--- ->-- -->- ---> >--- ->-- -->- --->  
+#    ->-- -->- ---> >--- ->-- -->- ---> >---    6+6+6+2
+#   -->- ---> >--- ->-- -->- ---> >--- ->--
+#  ---> >--- ->-- -->- ---> >--- ->-- -->-
+=1' 10/8 8 [G F Eb D] rest F [G F Eb] rest
+r0.5 .01 complex number .50 improbable
+=2 10/8 8 [Eb D C] rest [C D] [Eb D] rest C
+r0.5 .01 probable .42 tangled forest .90 to
+=3' 10/8 8 [c B] rest [G A B] c rest [c B]
+r0.5 .01 forest .33 to pass it on .80 complex
+=4 10/8 8 a rest [a g f eb] rest 8 g [a g]
+r0.3 .01 on .30 complex number .75 improba -
+/
+3 bars | 40 | 12/8 48 | 48 |
+|
+il0.6 .03 10
+=1' 8 [F G] [A G] rest [Eb F G] A rest
+r0.5 .01 tangled forest .50 to pass it on
+=2 8 [D Eb] F rest [F Eb D C] rest D
+r0.5 .01 pass it on .40 complex number .90 on
+=3' 8 [A G] rest B [c B A] rest [A B]
+r0.5 .01 number .30 improbable .80 it on
+=4 8 f rest [f g] [a g] rest [eb f g]
+r0.3 .01 - ble .20 tangled forest .70 pass it on
+
+
+# ending on the <G B d> triad gives a (accidental) conclusion-feeling :-(
+# A short GP here and recap would be nice, but the GP needs word-tweaking
+
+| 3.0
+#il0.9 .03 6/8 static
+#     >---  >---
+#    ->--  ->--       6/8
+#   -->-  -->-
+#  --->  --->
+=1 12/8 2. rest 8 [Eb D D D] rest rest
+r0.5 .50 copulating
+=2 12/8 2 rest 8 rest C [C B_ B_] rest rest C
+r0.5 .42 improvident .91 im -
+=3' 12/8 2 rest 8 [A A] [Bb A] rest rest [A A]
+r0.5 .33 soon forgotten .82 soon for -
+=4 12/8 8 rest rest rest [g g g] f# rest rest [g g g]
+r0.3 .23 and living on .75 and living
+|
+=1  8 [Eb D D D] rest rest  [Eb D D D] rest rest
+r0.5 .01 copulating .50 copulating
+=2  8 [C B_ B_] rest rest C [C B_ B_] rest rest C#
+r0.5 .01 provident .42 improvident .91 im -
+=3  8 [A A] rest rest [A A] [Bb' A] rest rest [A, Bn]
+r0.5 .01 gotten .33 soon forgotten .82 soon for -
+=4  8 f# rest rest [g g g] f# rest rest [f# f# g]
+r0.3 .01 on .23 and living on .75 and living
+
+/
+3 bars | 10/8 40 | 40 |
+# +2st
+| 2.5
+#il0.9 .03 5/8 static
+#     >--- >--- >--- >--- 
+#    ->-- ->-- ->-- ->--       5/8
+#   -->- -->- -->- -->-
+#  ---> ---> ---> --->
+=1 10/8 8 [F E E E] rest 8 [F E E E] rest
+r0.5 .01 copulating .50 copulating
+=2 10/8 8 [D C# C#] rest D [D C# C#] rest D
+r0.5 .01 provident .40 improvident .90 im -
+=3 10/8 8 [c B] rest 8 [B B] [c B] rest [B B]
+r0.5 .01 gotten .30 soon forgotten .80 soon for -
+=4 10/8 8 g# rest [a a a] g# rest [a a a]
+r0.3 .01 on .20 and living on .70 and living
+|
+=1 8 [F E E E] rest [F E E E] rest
+r0.5 .01 copulating .50 copulating
+=2 8 [D C# C#] rest D [D C# C#] rest E
+r0.5 .01 provident .40 improvident .90 and
+=3 8 [c B] rest [B B] [c B] rest [A A]
+r0.5 .01 gotten .30 soon forgotten .80 in ar -
+=4 8 g# rest [a a a] g# rest [c# c# c#]
+r0.3 .01 on .20 and living on .70 wide of the
+| 2.5
+il0.7 .03 15
+=1 8 [A G# G# G#] rest 8 [A G# G# G#] rest
+r0.5 .01 marvel at life .50 marvel at life
+=2 8 [F E E] rest 8 F [F E E] rest F
+r0.5 .01 heart and lung .40 and heart and lung .90 and
+=3' 8 [B c] rest 8 [A# A#] [B c] rest [A# A#]
+r0.5 .01 cana .30 in arcana .80 in ar -
+=4' 8 d rest [c# c# c#] d rest [c# c# c#]
+r0.3 .01 mark .20 wide of the mark .70 wide of the
+
+/
+3 bars | 40 | 12/8 48 | 48 |
+|
+=1  8 [A G# G# G#] rest [A G# G# G#] rest
+r0.5 .01 marvel at life .50 marvel at life
+=2  8 [F E E] rest F [F E E] rest E
+r0.5 .01 heart and lung .40 and heart and lung .90 too
+=3' 8 [B c] rest [A# A#] [B c] rest [An Bb]
+r0.5 .01 cana .30 in arcana .80 for ex -
+=4  8 d' rest [c# c# c#] d' rest [e f# g#]
+r0.3 .01 mark .20 wide of the mark .70 stake in the
+
+#     >---  ->--  -->-  --->  >---  ->--  -->-  --->  
+#    ->--  -->-  --->  >---  ->--  -->-  --->  >---    7+7+7+3
+#   -->-  --->  >---  ->--  -->-  --->  >---  ->--
+#  --->  >---  ->--  -->-  --->  >---  ->--  -->-
+| 3.0
+#il0.9 .03 forwards  7+7+7+3
+i0.8 .15 D2122221
+=1' 12/8 8 [A G F E] rest rest G [A G F] rest rest
+r0.5 .01 last fifty years .50 too fast to sink
+=2 12/8 8 [F E D] rest rest [E F] [E D] rest rest C#
+r0.5 .01 fast to sink .44 for example .92 stake
+=3' 12/8 8 [c# B] rest rest [G A B] c# rest rest [c# B]
+r0.5 .01 ample .33 stake in the heart .82 last fif -
+=4, 12/8 8 a rest rest [a g f e] rest rest 8 g [a g]
+r0.3 .01 heart .25 last fifty years .75 too fast to
+|
+=1' 8 [F G] [A G] rest rest [E F G] A rest rest
+r0.5 .01 for example .50 stake in the heart
+=2 8 [D E] F rest rest [F E D C#] rest rest E
+r0.5 .01 in the heart .35 last fifty years .90 too
+=3 8 [A G] rest rest c# [d c# B] rest rest [B c#]
+r0.5 .01 ty years .33 too fast to sink .82 in ar -
+=4, 8 f rest rest [g a] [b a] rest rest [f g a]
+r0.3 .03 sink .30 for example .75 stake in the
+
+
+/
+3 bars | 10/8 40 | 40 | 12/8 48 |
+| 2.5
+#il0.9 .10 condensing & forwards 6+6+6+2
+=1' 10/8 8 [A G F E] rest G [A G F] rest
+r0.5 .01 last fifty years .50 too fast to sink
+=2  10/8 8 [F E D] rest [D E] [F E] rest D
+r0.5 .01 fast to sink .40 for example .90 stake
+=3, 10/8 8 [d c#] rest [A B c#] d rest [d c#]
+r0.5 .01 ample .30 stake in the heart .80 last fif -
+=4  10/8 8 b rest [b a g f] rest 8 a [b a]
+r0.3 .03 heart .20 last fifty years .70 too fast to
+|
+il0.6 .03 20
+=1' 8 [G A] [B A] rest [F G A] B rest
+r0.5 .01 for example .50 stake in the heart
+=2  8 [E F] G rest [G F E D] rest E
+r0.5 .01 in the heart .40 last fifty years .87 when
+=3, 8 [B A] rest c# [d c# B] rest [c# c#]
+r0.5 .01 ty years .30 too fast to sink .80 a dis -
+=4  8 g rest [g a] [b a] rest [f g a]
+r0.3 .01 sink .20 for example .70 pearl beyond
+
+
+# now we need to go back to something cyclic ! (bar1 +4st?)
+
+| 3.0
+#il0.9 .03 6/8 static
+=1 12/8 8 [G F# F# F#] rest rest 8 [G F# F# F#] rest rest
+r0.5 .01 height of the high .50 height of the high
+=2 12/8 8 [E D# D#] rest rest E [E D# D#] rest rest E
+r0.5 .01 I was young .42 when I was young .92 when
+=3 12/8 [d c#] rest rest 8 [c# c#] [d c#] rest rest [c# c#]
+r0.5 .01 tant siren .33 a distant siren .82 a dis -
+=4 12/8 8 a# rest rest [b b b] a# rest rest [b b b]
+r0.3 .01 price .25 pearl beyond price .75 pearl beyond
+
+/
+3 bars | 48 | 10/8 40 | 40 |
+|
+=1 8 [G F# F# F#] rest rest [G F# F# F#] rest rest
+r0.5 .01 height of the high .50 height of the high
+=2 8 [E D# D#] rest rest E [E D# D#] rest rest Gb
+r0.5 .01 I was young .42 when I was young .92 when
+=3 8 [c# c#] rest rest [c# c#] [d c#] rest rest [c# d#]
+r0.5 .01 tant siren .33 a distant siren .82 a dis -
+=4 8 a# rest rest [b b b] a# rest rest [b b b]
+r0.3 .01 price .25 pearl beyond price .75 pearl beyond
+| 2.5
+#il0.9 .03 5/8 static
+=1 10/8 8 [A G# G# G#] rest 8 [A G# G# G#] rest
+r0.5 .01 height of the high .50 height of the high
+=2 10/8 8 [Gb F F] rest Gb [Gb F F] rest Gb
+r0.5 .01 I was young .40 when I was young
+=3 10/8 8 [e d#] rest 8 [d# d#] [e d#] rest [d# d#]
+r0.5 .01 tant siren .30 a distant siren .80 if so,
+=4 10/8 8 c~ rest [d~b d~b d~b] c~n rest [d~b d~b d~b]
+r0.3 .01 price .20 pearl beyond price .70 life of the
+|
+=1 8 [A G# G# G#] rest [A G# G# G#] rest
+r0.5 .01 lies upon me .50 lies upon me
+=2 8 [Gb F F] rest Gb [Gb F F] rest G#
+r0.5 .01 I should die .40 if I should die .90 if
+=3 8 [e d#] rest [d# d#] [e d#] rest [c# c#]
+r0.5 .01 why not ? .30 if so, why not ? .80
+=4 8 c~ rest [d~b d~b d~b] c~ rest [f f f]
+r0.3 .01 mind .20 life of the mind .70 life of the
+
+4 systems /17-20-17-20-17-20-17/
+
+/
+3 bars | 10/8 40 | 40 | 40 |
+| 2.5
+il0.6 .03 25
+=1 8 [db c c c] rest 8 [db c c c] rest
+r0.5 .01 lies upon me .50 lies upon me
+=2 8 [A G# G#] rest 8 A [A G# G#] rest A
+r0.5 .01 I should die .40 if I should die .90 if
+=3 8 [d# e] rest 8 [dn d] [d# e] rest [dn d]
+r0.5 .01 why not ? .30 if so, why not ? .80 if so,
+=4 8 gb rest [f f f] gb rest [f f f]
+r0.3 .01 mind .20 life of the mind .70 life of the
+|
+=1 8 [db c c c] rest [db c c c] rest
+r0.5 .01 lies upon me .50 lies upon me
+=2 8 [A G# G#] rest A [A G# F#] rest A
+r0.5 .01 I should die .40 if I should die .90 a -
+=3 8 [d# e] rest [dn d] [d# e] rest [e f#]
+r0.5 .01 why not ? .30 if so, why not ? .80 one with
+=4 8 gb rest [f f f] gb rest [a bb c~]
+r0.3 .01 mind .20 life of the mind .70 a plague of
+
+| 2.5
+i1.1 .15 E21212121
+=1' 8 [db c Bb A] rest [A Bb A G] rest 
+r0.5 .01 wake in the night .50 awake at last
+=2' 8 [Bb A G] rest [E F# G F#] rest C
+r0.5 .01 wake at last .40 one with nature .90 a
+=3 8 [e d#] rest [c c# d# e] rest [c# cn]
+r0.5 .01 nature .30 a plague of graves .80 wake in
+=4 8 d~b rest [d~b c~ bb a] rest [a bb a]
+r0.3 .01 graves .20 wake in the night .70 awake at
+/
+3 bars | 40 | 40 | 40 |
+|
+=1' 8 [E F# G F#] rest [C# D# E F#] rest
+r0.5 .01 one with nature .50 a plague of graves
+=2' 8 [C# D# E] rest [E D# C# Cn] rest D#
+r0.5 .01 plague of graves .40 wake in the night .9 a -
+=3 8 [Bb' A] rest [G A G F#] rest [G A]
+r0.5 .01 the night .30 awake at last .80 one with
+=4 8 g rest [d# e f# e] rest [d# e f#]
+r0.3 .01 last .20 one with nature .70 a plague of
+
+|
+=1' 8 [G F# E D#] rest [D# E D# C#] rest
+r0.5 .01 wake in the night .50 awake at last
+=2 8 [E Eb Db] rest [B_b C Db Eb] rest c
+r0.5 .01 wake at last .40 one with nature .90 a
+=3 8 [Bb' A] rest [F# G A Bb'] rest [e f#]
+r0.5 .01 nature .30 a plague of graves .80 gene -
+=4 8 g rest [g f# e d#] rest [f# g a]
+r0.3 .01 graves .20 wake in the night .70 and then I
+|
+il0.6 .03 30
+i0.8 .15 F21212121
+=1  8 [e d c# B] rest [B' c#' B' A#] rest
+r0.5 .01 stake in the heart .50 a plague of graves
+=2' 8  [c# B A#] rest [G G# A# G#] rest D
+r0.5 .01 plague of graves .40 generation .90 and
+=3 8  [g f] rest [d e f g] rest [e d]
+r0.5 .01 ration .30 and then I wake .80 stake in
+=4 8 bb rest [g f e d] rest [f g f]
+r0.3 .01 wake .20 stake in the heart .70 a plague of
+|
+=1' 8 [G Ab Bb Ab] rest [E F G Ab] rest
+r0.5 .01 generations .50 and then I wake
+=2 8 [E F G] rest [F E D E] rest C#
+r0.5 .01 then I wake .40 stake in the heart .90 a
+=3 8 [c# B] rest [A# B' A# G#] rest [F Gn]
+r0.5 .01 the heart .30 a plague of graves .80 ge-ne -
+=4 8 e rest [c# d' c# d'] rest [c# d' e']
+r0.3 .01 graves .20 generation .70 and then I
+#|
+#=1 8 [F E D C#] rest [E F G] [Ab G]
+#r0.5 .01 stake in the heart .50 then I wake .80 I wake
+#=2 8 [D C# B_] rest [B_ C# D E] 8 [F F]
+#r0.5 .01 plague of graves .40 generations .80 I wake
+#=3 8 [Ab G] rest [E F G Ab] rest [F G]
+#r0.5 .01 ration .30 and then I wake .80 I wake
+#=4 8 f rest [f e d c#,] rest [c# d' c#]
+#r0.3 .01 wake .20 stake in the heart .70 then I wake
+|
+=1 8 [F E D C#] rest [E F G] 4 F
+r0.5 .01 stake in the heart .50 and then I wake
+=2 8 [D C# B_] rest [B_ C# D E] 4 rest
+r0.5 .01 plague of graves .40 generations
+=3 8 [Ab G] rest [E F G] 4. Ab 8 rest
+r0.5 .01 ration .30 and then I wake
+=4 8 f rest [f e d] 4. c#, 4 rest
+r0.3 .01 wake .20 stake in the heart
+
+| 2.5
+=1 2 rest 8 rest [A G# G# G#] rest
+r0.5 .50 shut in my face
+=2 2 rest 8 F [F E E] rest F
+r0.5 .40 but some have more .90 but
+=3' 4. rest 8 [A# A#] [B c] rest [A# A#]
+r0.5 .30 know no other .80 know no
+=4' 4 rest 8 [c# c# c#] d rest [c# c# c#]
+r0.3 .20 as love meets love .70 as love meets
+
+/
+3 bars | 40 | 40 | 40 |
+|
+=1  8 [A G# G# G#] rest [A G# G# G#] rest
+r0.5 .01 shut in my face .50 shut in my face
+=2  8 [F E E] rest F [F E E] rest E
+r0.5 .01 some have more .40 but some have more .90 ?
+=3' 8 [B c] rest [A# A#] [B c] rest [An Bb]
+r0.5 .01 other .30 know no other .80 ?
+=4  8 d' rest [c# c# c#] d' rest [e f# g#]
+r0.3 .01 love .20 as love meets love .70 ?
+|
+il0.7 .03 35
+=1 2 rest 8 rest [A G# G# G#] rest
+r0.5 .50 shut in my face
+=2 2 rest 8 F [F E E] rest F
+r0.5 .40 but some have more .90 but
+=3' 4. rest 8 [A# A#] [B c] rest [A# A#]
+r0.5 .30 know no other .80 know no
+=4' 4 rest 8 [c# c# c#] d rest [c# c# c#]
+r0.3 .20 as love meets love .70 as love meets
+|
+=1  8 [A G# G# G#] rest [A A B' c'] rest
+r0.5 .01 shut in my face .50 shut in my face
+=2  8 [F E E] rest F [F F# G#] rest Gn
+r0.5 .01 some have more .40 but some have more .90 a
+=3' 8 [B c] rest [A# A#] [B c] rest [G# A#]
+r0.5 .01 other .30 know no other .80 one or
+=4' 8 d' rest [c# c# c#] d' rest [c# d e]
+r0.3 .01 love .20 as love meets love .70 damage is
+
+4 systems /17-20-17-20-17-20-17/
+
+| 2.5
+i0.8 .15 F2122221 .50 backwards 5+5+5+9
+=1' 8 [c Bb Ab G] rest [G Ab Bb] c rest
+r0.5 .01 bubble and crash .50 damage is done
+=2 8 [Ab G F] rest [F E D C] rest E
+r0.5 .01 young man's death  bubble and crash .90 da -
+=3, 8 [c d] rest c [d c Bb] rest [c Bb]
+r0.5 .01 other .30 a young man's death .80 bubble
+=4 8 f rest [f g] [ab g] rest g [ab g]
+r0.3 .01 done .20 bubble and crash .70 a young man's
+|
+=1' 8 [Ab Bb] [c Bb] rest c [d c Bb] rest
+r0.5 .01 one or other .50 a young man's death
+=2 8 [F G Ab] rest [F G] [Ab G] rest E
+r0.5 mage is done .40 one or other
+=3' 8 [Ab G] rest [G Ab Bb'] c' rest [G Ab]
+r0.5 .01 and crash .30 damage is done .80 one or
+=4, 8 f rest [f e d c] rest [Bb c d]
+r0.3 .0 death .20 bubble and crash .70 damage is
+midi off
+|
+i0.8 .15 F21212121
+=1 1 blank
+
+
+
+#  .90 if
+#r0.3 .01 love .20 as love meets love .70 as love meets
+#r0.5 .90 a
+#r0.5 .80 one or
+#r0.3 .01 love .20 as love meets love .70 damage is
+#r0.5 .01 bubble and crash .50 a young man's death
+#r0.5 .01 young man's death  one or other .90 a
+#r0.5 .01 other .30 damage is done .80 one or
+#r0.3 .01 done .20 bubble and crash .70 damage is
+
+
+midi off
+4 systems 5 /17-20-17-20-17-20-17/
+
+#| 0.75
+#     >---  --->  -->-  ->--  >---
+#    ->--  >---  --->  -->-  ->--    5+5+5+9 (or 5+5+5+4+5)
+#   -->-  ->--  >---  --->  -->-
+#  --->  -->-  ->--  >---  --->
+/
+3 bars | 12/8 48 | 48 | 48 |
+| 3.0
+i0.8 .15 F2122221 .30 backwards 5+5+5+9
+=1' 12/8 8 [G F E D] rest rest [E F G] A rest rest
+=2  12/8 8 [E D C] rest rest [F E D C] rest rest C
+=3' 12/8 8 [c B] rest rest B [c B A] rest rest [c B]
+=4  12/8 8 a rest rest [f g] [a g] rest rest g [a g]
+|
+=1' 8 [F G] [A G] rest rest F [G F E] rest rest
+=2  8 [D E] F rest rest [C D] [E D] rest rest E
+=3' 8 [A G] rest rest [G A B] c rest rest [B c]
+=4  8 f rest rest [a g f e] rest rest [f g a]
+
+/
+3 bars | 10/8 40 | 40 | 40 |
+| 2.5
+il0.9 .03 condensing & backwards  4+4+4+4+4
+#     >--- ---> -->- ->-- >---
+#    ->-- >--- ---> -->- ->--        4+4+4+4+4
+#   -->- ->-- >--- ---> -->-
+#  ---> -->- ->-- >--- --->
+=1' 10/8 8 [G F E D] rest [E F G] A rest
+=2  10/8 8 [E D C] rest [F E D C] rest C
+=3' 10/8 8 [c B] rest B [c B A] rest [c B]
+=4  10/8 8 a rest [f g] [a g] rest g [a g]
+|
+=1' 8 [F G] [A G] rest F [G F E] rest
+=2  8 [D E] F rest [C D] [E D] rest E
+=3' 8 [A G] rest [G A B] c rest [B c]
+=4  8 f rest [a g f e] rest [f g a]
+|
+=1' 8 [A G F E] rest [F G A] B rest
+=2  8 [F E D] rest [G F E D] rest D
+=3, 8 [d c] rest c [d c B] rest [d c]
+=4  8 b rest [g a] [b a] rest 8 a [b a]
+|
+=1' 8 [G A] [B A] rest G [A G F] rest
+=2  8 [E F] G rest [D E] [F E] rest F
+=3, 8 [B A] rest [A B c] d rest [c d]
+=4  8 g rest [g f e d] rest [g a b]
+
+@
+
+
+1.5
+log
+@plausible for 85 sec
+@
+text
+@d7 1
+a7 1
+il0.9 .03 6/8 static
+d36 1
+a36 1
+il0.9 .03 5/8 static
+d62 1
+a62 1
+i0.5 .15 best of breed  .   .   .
+d90 3
+a92 3
+il0.9 .01 forwards  7+7+7+3
+i0.7 .65 C2122221
+=1' 24/8 8 [G F Eb D] rest rest F [G F Eb] rest rest
+d94 1
+a94 1
+=2 24/8 8 [Eb D B_] rest rest [D Eb] [D C] rest rest B_
+d96 1
+a96 1
+=3' 24/8 8 [B A] rest rest [F G A] B rest rest [B A]
+d98 1
+a98 1
+=4, 24/8 8 g rest rest [g f eb d] rest rest 8 f [g f]
+d113 1
+a113 1
+il0.9 condensing & forwards  6+6+6+2
+d144 1
+a144 1
+il0.9 .03 6/8 static
+d154 1
+a154 1
+r0.5 .33 soon forgotten .82 soon for gotten
+d156 1
+a156 1
+r0.3 .23 and living on .75 and living on
+d161 1
+d163 1
+d165 1
+d171 1
+a171 1
+il0.9 .03 5/8 static
+d177 1
+d179 1
+d181 1
+d183 1
+d186 1
+d188 1
+a188 1
+r0.5 .90 and
+d190 1
+a190 1
+r0.5 .80 in ar -
+d192 1
+a192 1
+r0.3 .70 wide of the
+d221 3
+a223 3
+il0.9 .03 forwards  7+7+7+3
+i0.8 .75 D2122221
+=1' 24/8 8 [A G F E] rest rest G [A G F] rest rest
+d225 1
+a225 1
+=2 24/8 8 [F E D] rest rest [E F] [E D] rest rest C#
+d227 1
+a227 1
+=3' 24/8 8 [c# B] rest rest [G A B] c# rest rest [c# B]
+d229 1
+a229 1
+=4, 24/8 8 a rest rest [a g f e] rest rest 8 g [a g]
+d243 1
+a243 1
+3 bars | 20/8 40 | 40 | 12/8 48 |
+d245 2
+a246 2
+il0.9 .10 condensing & forwards 6+6+6+2
+=1' 20/8 8 [A G F E] rest G [A G F] rest
+d248 1
+a248 1
+=2  20/8 8 [F E D] rest [D E] [F E] rest D
+d250 1
+a250 1
+=3, 20/8 8 [d c#] rest [A B c#] d rest [d c#]
+d252 1
+a252 1
+=4  20/8 8 b rest [b a g f] rest 8 a [b a]
+d269 1
+a269 1
+il0.9 .03 6/8 static
+d291 1
+a291 1
+il0.9 .03 5/8 static
+d309 3
+d321 1
+a321 1
+r0.5 .01 why not ? .30 if so, why not ? .80
+d327 1
+a327 1
+=2 8 [A G# G#] rest A [A G# G#] rest A
+d331 1
+a331 1
+=4 8 gb rest [f f f] gb rest [ab bb c~]
+d335 1
+a335 1
+i1.1 .20 E21212121
+d354 1
+a354 1
+r0.3 .01 last .20 one with nature .75 a plague of
+d367 1
+a367 1
+i0.8 .41 F21212121
+d381 1
+a381 1
+=3 8 [c# B] rest [A# B' A# G#] rest [F F#]
+d385 40
+d426 20
+a445 4
+=1 8 [F E D C#] rest blank 2 blank
+=2 8 [D C# B_] rest 2. blank
+=3 8 [G# F#] rest 2.. blank
+=4 8 f rest [f e d c#,] rest 4. blank
+d447 23
+a469 9
+#  .90 if
+#r0.3 .01 love .20 as love meets love .70 as love meets
+#r0.5 .90 a
+#r0.5 .80 one or
+#r0.3 .01 love .20 as love meets love .70 damage is
+#r0.5 .01 bubble and crash .50 a young man's death
+#r0.5 .01 young man's death  one or other .90 a
+#r0.5 .01 other .30 damage is done .80 one or
+#r0.3 .01 done .20 bubble and crash .70 damage is
+d493 12
+a504 7
+2 bars | 24/8 96 |
+| 6.0
+il0.9 .03 backwards  5+5+5+9
+=1' 8 [G F E D] rest rest [E F G] A rest rest [F G] [A G] rest rest F [G F E] rest rest
+=2 8 [E D C] rest rest [F E D C] rest rest [C D E] F rest rest [C D] [E D] rest rest E
+=3' 8 [c B] rest rest B [c B A] rest rest [c B A G] rest rest [G A B] c rest rest [B c]
+=4 8 a rest rest [f g] [a g] rest rest g [a g f] rest rest [a g f e] rest rest [f g a]
+d507 2
+a508 2
+2 bars | 20/8 80 | 80 |
+| 5.0
+d514 19
+a532 9
+=1' 20/8 8 [G F E D] rest [E F G] A rest [F G] [A G] rest F [G F E] rest
+=2 20/8 8 [E D C] rest [F E D C] rest [C D E] F rest [C D] [E D] rest E
+=3' 20/8 8 [c B] rest B [c B A] rest [c B A G] rest [G A B] c rest [B c]
+=4 20/8 8 a rest [f g] [a g] rest 8 g [a g f] rest [a g f e] rest [f g a]
+|
+=1' 8 [A G F E] rest [F G A] B rest [G A] [B A] rest G [A G F] rest
+=2 8 [F E D] rest [G F E D] rest [D E F] G rest [D E] [F E] rest F
+=3, 8 [d c] rest c [d c B] rest [d c B A] rest [A B c] d rest [c d]
+=4 8 b rest [g a] [b a] rest 8 a [b a g] rest [g f e d] rest [g a b]
+@
+
+
+1.4
+log
+@adjusted words, and kinda trying to force it forwards :-(
+@
+text
+@d29 1
+a29 1
+r0.5 .42 before we sleep .91 before we sleep
+d36 1
+a36 1
+il0.9 .03 condensing to 5/8 static
+d42 1
+d44 1
+d46 1
+d48 1
+d53 1
+d55 1
+a55 1
+r0.5 .90 victorious
+d57 1
+a57 1
+r0.5 .80 mortal glory
+d59 1
+a59 1
+r0.3 .70 the path is short
+d64 1
+a64 1
+r0.5 .01 wall of silence
+d66 1
+d68 1
+d70 1
+a70 1
+r0.3 .20 the path is short .70 the path is short
+d73 1
+d75 1
+d77 1
+d79 1
+a79 1
+r0.3 .20 the path is short .70 to pass it
+d87 14
+a100 2
+2 bars | 24/8 96 | 20/8 80 |
+| 6.0
+d102 8
+a109 7
+il0.9 .03 rotating forwards  7+7+7+3
+=1' 24/8 8 [G F Eb D] rest rest F [G F Eb] rest rest [Eb F] [G F] rest rest [D Eb F] G rest rest
+i0.3 .02 C2122221
+=2 24/8 8 [Eb D B_] rest rest [D Eb] [D C] rest rest [B_ C D] Eb rest rest [Eb D C B_] rest rest D
+=3' 24/8 8 [B A] rest rest [F G A] B rest rest [B A G F] rest rest B [c B A] rest rest [A B]
+=4, 24/8 8 g rest rest [g f eb d] rest rest 8 f [g f eb] rest rest [f g] [a g] rest rest [eb f g]
+r0.3 .01 on .12 real number .38 improbable .63 tangled forest .87 to pass it
+d111 3
+a113 2
+| 5.0
+il0.9 condensing & rotating forwards  6+6+6+2
+d118 21
+a138 5
+=1' 20/8 8 [G F Eb D] rest F [G F Eb] rest [F G] [A G] rest [Eb F G] A rest
+=2 20/8 8 [Eb D C] rest [C D] [Eb D] rest [C D Eb] F rest [F Eb D C] rest D
+=3' 20/8 8 [c B] rest [G A B] c rest [c B A G] rest B [c B A] rest [A B]
+=4 20/8 8 a rest [a g f eb] rest 8 g [a g f] rest [f g] [a g] rest [eb f g]
+r0.3 .01 on .10 real number .38 improbable .60 tangled forest .87 pass it on
+a142 2
+/
+4 bars | 12/8 48 | 48 | 10/8 40 | 40 |
+a157 1
+il0.6 .03 10
+d164 2
+d168 1
+a168 1
+il0.9 .03 condensing to 5/8 static
+a184 2
+/
+3 bars | 10/8 40 | 40 | 24/8 96 |
+d186 1
+a186 1
+i0.5 .05 best of breed  .   .   .
+d195 3
+d212 2
+a213 2
+| 6.0
+il0.9 .03 rotating forwards  7+7+7+3
+d215 18
+a232 8
+=1' 24/8 8 [A G F E] rest rest G [A G F] rest rest [F G] [A G] rest rest [E F G] A rest rest
+r0.5 .01 last fifty years .25 too fast to sink .55 for example .73 stake in the heart
+=2 24/8 8 [F E D] rest rest [E F] [E D] rest rest [C# D E] F rest rest [F E D C#] rest rest E
+r0.5 .01 fast to sink .25 for example .40 stake in the heart .70 last fifty years .94 and
+=3' 24/8 8 [c# B] rest rest [G A B] c# rest rest [c# B A G] rest rest c# [d c# B] rest rest [B c#]
+r0.5 .01 ample .17 stake in the heart .42 last fifty years .66 too fast to sink .90 in ar -
+=4, 24/8 8 a rest rest [a g f e] rest rest 8 g [a g f] rest rest [g a] [b a] rest rest [f g a]
+r0.3 .03 heart .12  last fifty years .37 too fast to sink .62 for example .87 stake in the
+d235 22
+a256 12
+2 bars | 24/8 96 | 12/8 48 |
+| 5.0
+il0.7 .03 15
+il0.9 .10 condensing & rotating forwards 6+6+6+2
+=1' 20/8 8 [A G F E] rest G [A G F] rest [G A] [B A] rest [F G A] B rest
+r0.5 .01 last fifty years .25 too fast to sink .55 for example .73 stake in the heart
+=2  20/8 8 [F E D] rest [D E] [F E] rest [D E F] G rest [G F E D] rest E
+r0.5 .01 fast to sink .25 for example .40 stake in the heart .70 last fifty years .94 when
+=3, 20/8 8 [d c#] rest [A B c#] d rest [d c# B A] rest c# [d c# B] rest [c# c#]
+r0.5 .01 ample .17 stake in the heart .42 last fifty years .66 too fast to sink .90 a dis -
+=4  20/8 8 b rest [b a g f] rest 8 a [b a g] rest [g a] [b a] rest [f g a]
+r0.3 .03 heart .12  last fifty years .37 too fast to sink .62 for example .84 pearl beyond
+d283 1
+a283 1
+il0.9 .03 condensing to 5/8 static
+d304 1
+a304 1
+il0.6 .03 20
+d316 1
+a316 1
+=2 8 [A G# G#] rest A [A G# G#] rest E
+d323 66
+a389 10
+|
+i0.8 .20 E2122221
+=1' 8 [c# B A G] rest [A B A G] rest 
+r0.5 .01 wake in the night .50 wake in the night
+=2' 8 [F# G F#] rest [E F# G F#] rest C#
+r0.5 .01 wake at last .40 awake at last .90 a
+=3, 8 [e d#] rest [B c# d# e] 8 rest [c# B]
+r0.5 .01 nature .30 one with nature .80 one with
+=4 8 c~# rest [b a g f#] 8 rest [d# e d#]
+r0.3 .01 graves .20 a plague of graves .70 a plague of
+a390 22
+|
+=1' 8 [F# G A G] rest [A B A G] rest
+r0.5 .01 one with nature .50 a plague of graves
+=2 8 [D E F#] rest [E F# E D#] rest E
+r0.5 .01 plague of graves .40 awake at last .90 a
+=3 8 [A G] rest [D# E F# G] rest [A G]
+r0.5 .01 nature .30 a plague of graves .80 gener -
+=4 8 c# rest [c# d#' c# B] 8 rest [c#, d# e]
+r0.3 .01 graves .20 awake at last .70 and then I
+|
+i0.8 .01 D2122221
+=1' 8 [A G A B] rest [c# B A B] rest
+r0.5 .01 stake in the heart .50 stake in the heart
+=2 8 [D E F] rest 2. blank
+r0.5 .01 plague of graves
+=3 8 [A B'] rest 2.. blank
+r0.5 .01 ation
+=4 8 f rest 4 blank 2. blank
+r0.3 .01 wake
+|
+il0.6 .03 25
+=1 8 [d c# B A,] rest [B' A G F] rest
+d414 1
+a414 1
+il0.9 .03 rotating backwards  5+5+5+9
+d423 1
+a423 1
+il0.9 .03 condensing & rotating backwards  4+4+4+4+4
+@
+
+
+1.3
+log
+@filling in words trying to get a good length
+@
+text
+@d82 1
+a82 1
+i0.3 .02 scale is C2122221
+d174 1
+a174 1
+i0.8 .75 scale is D2122221
+d217 1
+a217 1
+r0.5 .01 I was young .42 when I was young .92 if
+d219 1
+a219 1
+r0.5 .01 tant siren .33 a distant siren .82 if so,
+d221 1
+a221 1
+r0.3 .01 price .25 pearl beyond price .75 life of the
+d225 1
+a225 1
+r0.5 .01 lies upon me .50 lies upon me
+d227 1
+d229 1
+d231 1
+d234 1
+d236 1
+d238 1
+d240 1
+d246 1
+d248 1
+d250 1
+d252 1
+d255 1
+d257 1
+d259 4
+a262 1
+=4 8 gb rest [f f f] f# rest [g# bb c~]
+d265 1
+d267 1
+a267 1
+i0.3 .02 scale is E2122221
+d269 1
+d271 1
+d273 2
+d276 18
+a293 6
+=1' 8 [F# G A G] rest [D# E F# G] rest
+=2 8 [D E F#] rest [G F# E D#] rest blank
+=3 8 [A G] rest [D# E F# G] rest [G F#]
+=4' 8 c# rest [c# d# c# B] 8 rest [c# d# e]
+|
+=1 blank
+d296 11
+a306 1
+=1 blank
+@
+
+
+1.2
+log
+@stretched to 23 bars; perhaps a bit routine...
+@
+text
+@d7 1
+a7 1
+il0.9 .03 1) 6/8, static
+d18 1
+d20 1
+d22 1
+d24 1
+d27 1
+d29 1
+d31 1
+d33 1
+d36 1
+a36 1
+il0.9 .03 2) condensing to 5/8, static
+d50 1
+d52 1
+d54 1
+d59 1
+d63 1
+d69 1
+a75 4
+#=1 24/8 8 rest rest rest
+#=2 24/8 8 rest rest D
+#=3, 24/8 8 rest [A B]
+#=4 12/8 8 [e f g]
+d80 1
+a80 7
+il0.9 .03 3) rotating motifs forwards  7+7+7+3
+#=1 24/8 8 [G F# E] rest rest [E F#] [G F#] rest rest [D E F#] G rest rest [G F# E D] rest rest F#
+#i0.4 .01 see AP p.26 line 1   too hard to pitch ?
+#=2' 24/8 8 [E D C# Cn] rest rest D [E D C#] rest rest [C# D] [E D] rest rest [Cn C# D] E rest rest
+#=3' 24/8 8 [Bb Ab] rest rest [F# G Ab] Bb rest rest [Bb Ab G F#] rest rest Ab [Bb Ab G] rest rest [G Ab]
+#i0.5 .01 better for a string quartet or something ?
+#=4, 24/8 8 g rest rest [g f# e d] rest rest 8 f# [g f# e] rest rest [e f#] [g f#] rest rest [d e f#]
+d82 1
+a82 1
+i0.3 .02 scale is 2122221 ; its WT parentage make modulation +-2 easy ...
+d86 1
+d89 1
+a89 1
+il0.9 4) condensing & rotating forwards  6+6+6+2
+d98 1
+d106 1
+a106 1
+il0.9 .03 1) 6/8, static
+d112 1
+d114 1
+d116 1
+d118 1
+d122 1
+d129 1
+a129 1
+il0.9 .03 condensing to 5/8, static
+d141 1
+d143 1
+d145 1
+d151 1
+d153 1
+d155 1
+d157 1
+d160 1
+d162 1
+d164 1
+d166 1
+a167 1
+#| 0.75
+a171 4
+#=1 24/8 8 rest rest rest
+#=2 24/8 8 rest rest D
+#=3, 24/8 8 rest [A B]
+#=4 12/8 8 [e f g]
+d173 2
+a174 1
+il0.9 .03 rotating motifs forwards  7+7+7+3
+d176 1
+a176 1
+i0.3 .02 scale is D2122221
+d178 1
+d180 1
+d182 1
+d190 1
+a190 1
+i0.3 .02 scale is D2122221
+d192 1
+d194 1
+d196 1
+d201 1
+a201 1
+il0.9 .03 6/8, static
+d203 1
+d205 1
+d207 1
+d209 1
+d215 1
+d217 1
+d219 1
+d221 1
+d223 1
+a223 1
+il0.9 .03 condensing to 5/8, static
+d225 1
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d5 1
+a5 1
+4 bars | 12/8 48 | 48 | 10/8 40 | 40 |
+d37 2
+a43 2
+/
+3 bars | 10/8 40 | 40 | 24/8 96 |
+d66 2
+a82 2
+/
+2 bars | 24/8 96 | 96 |
+a89 1
+i0.3 .02 scale is 2122221 ; its WT parentage make modulation +-2 easy ...
+d158 2
+a159 2
+i0.3 .02 scale is 2122221 ; its WT parentage make modulation +-2 easy ...
+=2 24/8 8 [F E C#] rest rest [E F] [E D] rest rest [C# D E] F rest rest [F E D C#] rest rest E
+d169 1
+a169 1
+i0.3 .02 scale is 2122221 ; its WT parentage make modulation +-2 easy ...
+d187 2
+a188 2
+=2 8 [E D# D#] rest rest E [E D# D#] rest rest E
+=3 8 [c# c#] rest rest [c# c#] [d c#] rest rest [c# c#]
+d192 9
+a200 9
+=1 10/8 8 [G F# F# F#] rest 8 [G F# F# F#] rest
+=2 10/8 8 [E D# D#] rest E [E D# D#] rest E
+=3 10/8 8 [d c#] rest 8 [c# c#] [d c#] rest [c# c#]
+=4 10/8 8 a# rest [b b b] a# rest [b b b]
+|
+=1 8 [G F# F# F#] rest [G F# F# F#] rest
+=2 8 [E D# D#] rest E [E D# D#] rest F#
+=3 8 [d c#] rest [c# c#] [d c#] rest [B B]
+=4 8 a# rest [b b b] a# rest [d# d# d#]
+d205 26
+a230 9
+=1' 8 [B A# A# A#] rest 8 [B A# A# A#] rest
+=2  8 [G F# F#] rest 8 G [G F# F#] rest G
+=3  8 [c# d] rest 8 [cn c] [c# d] rest [cn c]
+=4  8 e rest [d# d# d#] e rest [d# d# d#]
+|
+=1' 8 [B A# A# A#] rest [B A# A# A#] rest
+=2 8 [G F# F#] rest G [G F# F#] rest F#
+=3 8 [c# d] rest [cn c] [c# d] rest [B cn]
+=4 8 e rest [d# d# d#] e rest [f# g# bb]
+@

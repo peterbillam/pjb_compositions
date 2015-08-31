@@ -1,0 +1,76 @@
+4 systems 5 /17-20-17-20-17-25-17/
+title Web
+midi channel 0 patch 82
+/
+2 bars | 10/8 40 | 40 |
+| 2.5
+i1.1 .20 E21212121 ?
+=1  treble     cha0 leg105 1 blank
+=2  treble     cha0 leg105 1 blank
+=3  treble8vab cha0 leg105 1 blank
+=4  bass       cha0 leg105 1 blank
+=1' 8 [db c Bb A] rest [A Bb A G] rest 
+r0.5 .01 wake in the night .50 awake at last
+=2' 8 [Bb A G] rest [E F# G F#] rest C
+r0.5 .01 wake at last .40 one with nature .90 a
+=3 8 [e d#] rest [c c# d# e] rest [c# cn]
+r0.5 .01 nature .30 a plague of graves .80 wake in
+=4 8 d~b rest [d~b c~ bb a] rest [a bb a]
+r0.3 .01 graves .20 wake in the night .70 awake at
+|
+=1' 8 [E F# G F#] rest [C# D# E F#] rest
+r0.5 .01 one with nature .50 a plague of graves
+=2' 8 [C# D# E] rest [E D# C# Cn] rest D#
+r0.5 .01 plague of graves .40 wake in the night .9 a -
+=3 8 [Bb A,] rest [G A G F#] rest [G A]
+r0.5 .01 the night .30 awake at last .80 one with
+=4 8 g rest [d# e f# e] rest [d# e f#]
+r0.3 .01 last .20 one with nature .75 a plague of
+
+
+|
+=1' 8 [G F# E D#] rest [D# E D# C#] rest
+r0.5 .01 wake in the night .50 awake at last
+=2 8 [E Eb Db] rest [B_b C Db Eb] rest c
+r0.5 .01 wake at last .40 one with nature .90 a
+=3 8 [Bb' A] rest [F# G A Bb'] rest [e f#]
+r0.5 .01 nature .30 a plague of graves .80 gene -
+=4 8 g rest [g f# e d#] rest [f# g a]
+r0.3 .01 graves .20 wake in the night .70 and then I
+|
+i0.8 .01 F21212121 ?
+=1  8 [e d c# B] rest [B' c#' B' A#] rest
+r0.5 .01 stake in the heart .50 a plague of graves
+=2' 8  [c# B A#] rest [G G# A# G#] rest D
+r0.5 .01 plague of graves .40 generation .90 and
+=3 8  [g f] rest [d e f g] rest [e d]
+r0.5 .01 ration .30 and then I wake .80 stake in
+=4 8 bb rest [g f e d] rest [f g f]
+r0.3 .01 wake .20 stake in the heart .70 a plague of
+|
+il0.6 .03 25
+=1' 8 [G Ab Bb Ab] rest [E F G Ab] rest
+r0.5 .01 generations .50 and then I wake
+=2 8 [E F G] rest [F E D E] rest C#
+r0.5 .01 then I wake .40 stake in the heart .90 a
+=3 8 [c# B] rest [A# B' A# G#] rest [F F#]
+r0.5 .01 the heart .30 a plague of graves .80 ge-ne -
+=4 8 e rest [c# d' c# d'] rest [c# d' e']
+r0.3 .01 graves .20 generation .70 and then I
+|
+=1 8 [F E D C#] rest blank 2 blank
+=2 8 [D C# B_] rest 2. blank
+=3 8 [G# F#] rest 2.. blank
+=4 8 f rest [f e d c#,] rest 4. blank
+
+#  .90 if
+#r0.3 .01 love .20 as love meets love .70 as love meets
+#r0.5 .90 a
+#r0.5 .80 one or
+#r0.3 .01 love .20 as love meets love .70 damage is
+#r0.5 .01 bubble and crash .50 a young man's death
+#r0.5 .01 young man's death  one or other .90 a
+#r0.5 .01 other .30 damage is done .80 one or
+#r0.3 .01 done .20 bubble and crash .70 damage is
+
+

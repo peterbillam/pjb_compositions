@@ -1,0 +1,587 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.07.18.05.56.15;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.07.18.04.04.09;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@words and plan for a woven piece
+@
+
+
+1.2
+log
+@words grouped into plausible sets; now notes
+@
+text
+@20150714 diary:
+1) 6/8, static:
+     >---  >---
+    ->--  ->--       6/8
+   -->-  -->-
+  --->  --->
+and 2) condensing to 5/8, static:
+     >--- >--- >--- >--- 
+    ->-- ->-- ->-- ->--       5/8
+   -->- -->- -->- -->-
+  ---> ---> ---> --->
+
+and 3) rotating motifs forwards:
+     >---  ->--  -->-  --->  >---  ->--  -->-  --->  
+    ->--  -->-  --->  >---  ->--  -->-  --->  >---    7+7+7+3
+   -->-  --->  >---  ->--  -->-  --->  >---  ->--
+  --->  >---  ->--  -->-  --->  >---  ->--  -->-
+and 4) condensing and rotating forwards:
+     >--- ->-- -->- ---> >--- ->-- -->- --->  
+    ->-- -->- ---> >--- ->-- -->- ---> >---    6+6+6+2
+   -->- ---> >--- ->-- -->- ---> >--- ->--
+  ---> >--- ->-- -->- ---> >--- ->-- -->-
+
+and 5), rotating backwards:
+     >---  --->  -->-  ->--  >---
+    ->--  >---  --->  -->-  ->--    5+5+5+9 (or 5+5+5+4+5)
+   -->-  ->--  >---  --->  -->-
+  --->  -->-  ->--  >---  --->
+and 6), condensing and rotating backwards:
+     >--- ---> -->- ->-- >---
+    ->-- >--- ---> -->- ->--        4+4+4
+   -->- ->-- >--- ---> -->-
+  ---> -->- ->-- >--- --->
+
+and probably many others... So: get the words!
+The same vowels on the downbeats would be great (even also either side of them)
+
+--------------------------------------------------------------------------
+20150718
+Choose a couple of sets (---> -->- ->-- >---) for each barline-vowel :
+Ideally, the vowels could have topics, making sense in order...
+Perhaps autobiographical sense, eg youth, study, hippie, drugs, mightmare ?
+
+>--- your grandchildren    more
+->-- before we sleep       more
+-->- wayward daughter      more
+---> entwined and warm     more
+>--- wall of silence       more
+->-- victorious            more
+-->- mortal glory          more
+---> the path is short     more
+>--- complex number        mop
+->-- improbable            mop
+-->- tangled forest        mop
+---> to pass it on         mop
+>--- copulating            mop
+->-- improvident           mop
+-->- dayglo hotpants       mop
+---> and living on         mop
+>--- marvel at life        ma
+->-- and heart and lung    ma
+-->- in arcana             ma
+---> wide of the mark      ma
+>--- last fifty years      ma
+->-- too fast to sink      ma
+-->- for example           ma
+---> stake in the heart    ma
+>--- height of the high    my
+->-- when I was young      my
+-->- a distant siren       my
+---> pearl beyond price    my
+>--- lies upon me          my
+->-- if I should die       my
+-->- if so, why not ?      my
+---> life of the mind      my
+>--- wake in the night     may
+->-- awake at last         may
+-->- one with nature       may
+---> a plague of graves    may
+>--- stake in the heart    may
+->-- a plague of graves    may
+-->- generation            may
+---> and then I wake       may
+>--- shut in my face       mutt
+->-- but some have more    mutt
+-->- know no other         mutt
+---> as love meets love    mutt
+>--- bubble and crash      mutt
+->-- a young man's death   mutt
+-->- one or the other      mutt
+---> damage is done        mutt
+>--- gesture is born       met
+->-- inherit it            met
+-->- safe investment       met
+---> before I'm dead       met
+>--- welcome the world     met
+->-- have equity           met
+-->- like a pressure       met
+---> a cry for help        met
+>--- twinklefingers        mit
+->-- I think I do          mit
+-->- broken mirror         mit
+---> to end like this      mit
+>--- video games           mit
+->-- too big to die        mit
+-->- through the window    mit
+---> the final skid        mit
+>--- speak too clearly     meet
+->-- a week or two         meet
+-->- wounded eagle         meet
+---> so I must speak       meet
+>--- sheep in a flock      meet
+->-- and feeling too       meet
+-->- light of venus        meet
+---> moon on the sea       meet
+>--- happy in rags         map
+->-- the blackbird sings   map
+-->- not in fashion        map
+---> did not turn back     map
+>--- damage is done        map
+->-- how sad it is         map
+-->- preaching madness     map
+---> some flat-earth gang  map
+>--- both our bodies       mote
+->-- composing time        mote
+-->- on the home front     mote
+---> we die alone          mote
+>--- over again            mote
+->-- it's over now         mote
+-->- world is woven        mote
+---> after the blow        mote
+>--- you remember          moot
+->-- of human womb         moot
+-->- born a human          moot
+---> tasted fruit          moot
+---> path to the womb      moot
+>--- you remember          moot
+->-- the universe          moot
+-->- see the moon set      moot
+---> no room for you       moot
+>--- you remember          moot
+->-- they used to think    moot
+-->- see the moon rise     moot
+---> I think I do          moot
+
+--------------------------------------------------------------------------
+
+For overall shape, group by: more mop ma my may mut met mit Meet map mote moot
+
+>--- wall of silence       more
+>--- your descendant       more
+->-- before we sleep       more
+->-- victorious            more
+-->- mortal glory          more      XXX
+-->- wayward daughter      more      XXX
+---> the path is short     more
+---> fossick and hoard     more
+---> another war           more
+---> second world war      more
+---> entwined and warm     more
+---> world is a war        more
+---> the fruit of thought  more
+---> somewhere before      more
+---> without being born    more
+
+>--- complex number        mop
+>--- contemplate life      mop
+>--- copulating            mop
+->-- improvident           mop
+->-- impossible            mop
+->-- improbable            mop
+-->- youthful folly        mop
+-->- dayglo hotpants       mop
+-->- never conquered       mop
+-->- tangled forest        mop
+---> and living on         mop
+---> and (so, to) pass it on  mop
+---> the flow is strong    mop
+---> too much of not       mop
+---> no out to drop        mop
+
+>--- marvel at life        ma
+>--- last fifty years      ma
+->-- too fast to sink      ma
+->-- and heart and lung    ma
+-->- in arcana             ma
+-->- for example           ma
+---> stake in the heart    ma      XXX
+---> wide of the mark      ma      XXX
+
+>--- rise in the throat    my
+>--- lies upon me          my
+>--- height of the high    my
+->-- if I should die       my
+->-- when I was young      my
+-->- if so, why not ?      my
+-->- turning spiral        my
+-->- a distant siren       my
+---> lulu delight          my
+---> life of the mind      my
+---> pearl beyond price    my
+---> if I should die       my
+
+>--- stake in the heart    may      XXX
+>--- wake in the night     may      XXX
+->-- a plague of graves    may      XXX
+->-- awake at last         may      XXX
+-->- exclamation           may
+-->- inspiration           may
+-->- generation            may
+-->- domination            may
+-->- shade on faces        may
+-->- so much failure       may
+-->- texas chainsaws       may
+-->- one with nature       may
+---> a plague of graves    may
+---> and then I wake       may
+---> then I awake          may
+
+>--- shut in my face       mutt
+>--- bubble and crash      mutt
+>--- bugger a thug         mutt
+>--- one or the other      mutt
+>--- just another          mutt
+->-- compulsory            mutt
+->-- but some have more    mutt
+->-- a young man's death   mutt
+-->- more than others      mutt
+-->- no love nor money     mutt
+-->- mass destruction      mutt
+-->- know no other         mutt
+-->- flirting couple       mutt
+---> the rising sun        mutt
+---> when I was young      mutt
+---> as love meets love    mutt
+---> damage is done        mutt
+
+>--- heavy head ???        met
+>--- welcome the world     met
+>--- gesture is born       met
+->-- have equity           met
+->-- inherit it            met
+-->- like a pressure       met
+-->- ten to seven          met
+-->- safe investments      met
+-->- nose to hairline      met
+---> turn of the head      met
+---> money for rent        met
+---> over again            met
+---> before I'm dead       met
+---> a cry for help        met
+
+>--- video games           mit
+>--- twinklefingers        mit
+>--- different town ???    mit
+>--- didn't turn back      mit
+->-- too big to die        mit
+->-- all citizens          mit
+->-- I think I do          mit
+-->- through the window    mit
+-->- broken mirror         mit
+---> here he is            mit
+---> the final skid        mit
+---> to end like this      mit
+---> angel with wings      mit
+
+>--- speak too clearly     meet
+>--- we who dwell here     meet
+>--- people I know         meet
+>--- sheep in a flock      meet
+->-- and feeling too       meet
+->-- a week or so          meet
+-->- light of venus        meet
+-->- wounded eagle         meet
+---> abject defeat         meet
+---> so I must speak       meet
+---> moon on the sea       meet
+---> ephemerese            meet
+
+>--- fascinating           map
+>--- dangle and clang      map
+>--- angry hungry          map
+>--- damage is done        map
+>--- stagger or strut      map
+>--- hang by a thread      map
+>--- agriculture           map
+>--- happy in rags         map
+>--- stake in the heart    may
+->-- piano keys            map
+->-- the blackbird sings   map
+->-- in vanity             map
+->-- imaginary             map
+->-- how sad it is         map
+->-- procrastinate         map
+->-- catastrophe           map
+-->- futile anguish        map
+-->- not in fashion        map
+-->- putrefaction          map
+-->- acrobatics            map
+-->- rical gangsters       map
+-->- preaching madness     map
+---> dangle and clang      map
+---> only the rats         map
+---> this way and that     map
+---> didn't turn back      map
+---> some flat-earth gang  map
+
+>--- both our bodies       mote
+>--- over again            mote
+->-- composing time        mote
+->-- it's over now         mote
+-->- on the home front     mote
+-->- world is woven        mote
+---> born of repose        mote
+---> a bag of bones        mote
+---> after the blow        mote
+---> he never strove       mote
+---> we die alone          mote
+
+>--- poodle england        moot      XXX
+>--- you remember          moot      XXX
+->-- the universe          moot
+->-- of human womb         moot
+->-- they used to think    moot
+-->- born a human          moot      XXX
+-->-                       moot      XXX
+---> path to a womb        moot
+---> of human womb         moot
+---> late afternoon        moot
+---> hot afternoon         moot
+---> tasted fruit          moot
+---> I lose my room        moot
+---> a mood of gloom       moot
+---> no room for you       moot
+---> I think I do          moot
+
+--------------------------------------------------------------------------
+From ~/log/poetry:
+
+>--- fascinating          map
+>--- dangle and clang          map
+>--- angry hungry          map
+>--- damage is done          map
+>--- stagger or strut          map
+>--- hang by a thread          map
+>--- agriculture          map
+>--- happy in rags          map
+>--- stake in the heart    may
+>--- marvel at life
+>--- last fifty years
+>--- rise in the throat    my
+>--- lies upon me          my
+>--- height of the high    my
+>--- here he is
+>--- speak too clearly     meet
+>--- we who dwell          meet
+>--- people I know         meet
+>--- sheep in a flock      meet
+>--- beauty of heart
+>--- heavy head            met
+>--- welcome the world     met
+>--- gesture is born       met
+>--- video games           mit
+>--- twinklefingers        mit
+>--- different town        mit
+>--- didn't turn back      mit
+>--- complex number        mop
+>--- contemplate life        mop
+>--- copulating        mop
+>--- wall of silence         more
+>--- poodle england        moot
+>--- both our bodies       mote
+>--- over again            mote
+>--- oil and rubble
+>--- shut in my face       mutt
+>--- bugger a thug       mutt
+>--- bubble and crash       mutt
+>--- one or the other       mutt
+>--- just another       mutt
+
+->-- piano keys             map
+->-- the blackbird sings             map
+->-- in vanity             map
+->-- imaginary             map
+->-- how sad it is             map
+->-- procrastinate             map
+->-- catastrophe             map
+->-- too fast to sink     ma
+->-- and heart and lung     ma
+->-- a plague of graves   may
+->-- if I should die      my
+->-- when I was young      my
+->-- have equity          met
+->-- inherit it           met
+->-- and feeling too      meet
+->-- a week or so         meet
+->-- no furniture
+->-- too big to die       mit
+->-- all citizens         mit
+->-- I think I do         mit
+->-- before we sleep       more
+->-- victorious            more
+->-- and spine and brain
+->-- improvident          mop
+->-- composing time       mote
+->-- it's over now        mote
+->-- the universe         moot
+->-- of human womb         moot
+->-- they used to think         moot
+->-- compulsory            mutt
+->-- but some have more    mutt
+->-- a young man's death   mutt
+
+-->- futile anguish        map
+-->- not in fashion        map
+-->- putrefaction        map
+-->- acrobatics        map
+-->- rical gangsters        map
+-->- preaching madness        map
+-->- exclamation           may
+-->- inspiration           may
+-->- generation            may
+-->- domination            may
+-->- shade on faces        may
+-->- so much failure       may
+-->- texas chainsaws       may
+-->- one with nature       may
+-->- in arcana               ma
+-->- for example             ma
+-->- like a pressure       met
+-->- ten to seven          met
+-->- safe investments      met
+-->- nose to hairline      met
+-->- light of venus        meet
+-->- wounded eagle        meet
+-->- through the window    mit
+-->- broken mirror         mit
+-->- if so, why not ?        my
+-->- turning spiral        my
+-->- a distant siren        my
+-->- youthful folly        mop
+-->- dayglo hotpants        mop
+-->- never conquered        mop
+-->- tangled forest        mop
+-->- on the home front     mote
+-->- world is woven        mote
+-->- speak too clearly
+-->- more than others       mutt
+-->- no love nor money       mutt
+-->- mass destruction       mutt
+-->- know no other       mutt
+-->- flirting couple       mutt
+-->- edgar hoover
+-->- ate the sugar
+
+---> dangle and clang     map
+---> only the rats        map
+---> this way and that    map
+---> didn't turn back     map
+---> some flat-earth gang map
+---> and then I awake      may
+---> stake in the heart    ma
+---> last fifty years
+---> abject defeat         meet
+---> so I must speak       meet
+---> moon on the sea       meet
+---> ephemerese            meet
+---> turn of the head      met
+---> money for rent        met
+---> before I'm dead       met
+---> over again            met
+---> a cry for help        met
+---> who dwell on earth
+---> we see the world
+---> welcome the world
+---> here he is            mit
+---> the final skid        mit
+---> to end like this      mit
+---> angel with wings      mit
+---> lulu delight        my
+---> life of the mind        my
+---> pearl beyond price         my
+---> and living on            mop
+---> and (so, to) pass it on            mop
+---> the flow is strong            mop
+---> too much of not            mop
+---> no out to drop            mop
+---> damage is done        mutt
+---> second world war      more
+---> entwined and warm     more
+---> world is a war        more
+---> the fruit of thought  more
+---> somewhere before      more
+---> without being born    more
+---> path to a womb        moot
+---> of human womb        moot
+---> late afternoon        moot
+---> hot afternoon        moot
+---> tasted fruit        moot
+---> I lose my room        moot
+---> a mood of gloom        moot
+---> no room for you        moot
+---> I think I do        moot
+---> born of repose        mote
+---> a bag of bones        mote
+---> after the blow        mote
+---> he never strove       mote
+---> we die alone          mote
+---> feel the harm work
+---> the path is short     more
+---> fossick and hoard     more
+---> the rising sun        mutt
+---> when I was young        mutt
+---> as love meets love        mutt
+
+_________________________________________________________________
+
+Only the glories of the night will be immortal;
+the soil will turn to stone, the rain to flood,
+the wind to war and the sun to evil rampant.
+We will long for the night to uncover our eyes
+as the stars in their thousands bejwell the deep far cold beyond
+and more by the thousand of million will fling round the sky
+a flowing milky light as vast as all our folly,
+and the galaxy will turn majestic, slowly inward to be torn apart . . .
+We will see far in those years, and lament much,
+and fear for shame to meet a living eye.
+_________________________________________________________________
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d39 4
+d44 105
+a148 1
+For overall shape, group by: more mop ma my may mut met mit Meet map moat moot
+d221 1
+a222 1
+>--- bubble and crash      mutt
+d238 1
+a238 1
+>--- heavy head            met
+d249 1
+a250 1
+---> over again            met
+d255 1
+a255 1
+>--- different town        mit
+d325 2
+a326 2
+-->- on the home front     mote
+-->- world is woven        mote
+@

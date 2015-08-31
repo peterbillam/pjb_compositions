@@ -1,0 +1,75 @@
+4 systems /18 20 18 20 18 20 18/
+title book AP p. 21
+midi channel 0 patch 53
+midi channel 1 patch 82
+midi channel 2 patch 85
+midi channel 3 patch 91
+
+/
+4 bars | 48 |
+| 3.5
+=1 treble     cha2 leg99 2 d 4 B 2 A# 4 c#
+=2 treble     cha2 leg99 4 rest 2 F# 4 rest 2 G
+=3 treble8vab cha2 leg99 4 rest 2 e 4 rest 2 e
+=4 bass       cha2 leg99 2 d~ 4 b 2 a# 4 c~#
+|
+=1 2 B 4 d 2 eb 4 c
+=2 4 rest 2 A 4 rest 2 Ab
+=3 4 rest 2 f 4 rest 2 f
+=4 2 b 4 d~ 2 e~b 4 c~
+|
+=1 2 B 4 d 2 c# 4 A#
+=2 4 rest 2 G 4 rest 2 Ab
+=3 4 rest 2 f 4 rest 2 f
+=4 2 b 4 d~ 2 c~# 4 a#
+|
+=1 2 B 4 d 2 eb 4 f
+=2 4 rest 2 A 4 rest 2 F
+=3 4 rest 2 f 4 rest 2 B
+=4 2 b 4 d~ 2 e~b 4 g
+
+/
+4 bars | 48 |
+|
+=1 2. f# 4 rest 2 A
+=2 2 Eb 4 C 2 B_ 4 D
+=3 2. G#(2 4 G#)2 2 F#
+=4 2 eb 4 c 2 B 4 d
+|
+=1 4 rest 2 Bb' 4 rest 2 A
+=2 2 C 4 D# 2 E 4 C#
+=3 4 rest 2 F# 4 rest 2 F#
+=4 2 c 4 d# 2 e 4 c#
+|
+=1 4 rest 2 G# 4 rest 2 A
+=2 2 C 4 Eb 2 D 4 B_
+=3 4 rest 2 F# 4 rest 2 F#
+=4 2 c 4 eb 2 d 4 B
+|
+=1 4 rest 2 Bb' 4 rest 2 F#
+=2 2 C 4 D# 2 E 4 F#
+=3 4 rest 2 F# 4 rest 2 C
+=4 2 c 4 d# 2 e 4 G#
+
+/
+4 bars | 48 |
+|
+=1 2. G 4 rest 2 G
+=2 2 E 4 C# 2 Cn 4 Eb
+=3 2 E 4 C# 2 Cn 4 Eb
+=4 2. A(2 4 A)2 2 Bb
+|
+=1 4 rest 2 G 4 rest 2 G
+=2 2 C# 4 E 2 F 4 D
+=3 2 C# 4 E 2 F 4 D
+=4 4 rest 2 B 4 rest 2 Bb
+|
+=1 4 rest 2 G 4 rest 2 G
+=2 2 C# 4 E 2 Eb 4 Cn
+=3 2 C# 4 E 2 Eb 4 Cn
+=4 4 rest 2 A 4 rest 2 Bb
+|
+=1 4 rest 2 G 4 rest 2 C#
+=2 2 C# 4 E 2 F 4 A_
+=3 2 C# 4 E 2 F 4 G
+=4 4 rest 2 B 4 rest 2 G

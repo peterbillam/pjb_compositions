@@ -1,0 +1,187 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.07.03.08.39.24;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.06.30.07.26.03;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Gleaned from ~/log/poetry
+@
+
+
+1.2
+log
+@much tweaking; still very unsure
+@
+text
+@
+    |: - > - :|
+4   RemEmber     in gIrum   remEmber       we wIll be
+4   belOw us     abOve us   my rIght hand  my lEft;
+
+4   yOUng, green and swEEt, - or Old known and wIse,
+5   inspirAtion, my mUse, with yOU I convErse unafrAId -
+4   my lOtus and sAcrament, brEAth of this nIght
+3   I do gIve to the lIfe of the mInd,
+3   and its dEEds and its wOrks everlAsting,
+
+4   the hEIght of the hIgh there is clArity, Insight;
+3   with Insights in Ev'ry domAIn
+4   a cOmmon deep pAttern remEmbered and rEcognised,
+2   and cOntemplate lIfe
+2   and mArvel at lIfe
+3   an Utter delIght of simplIcity
+4   for gEsture is bOrn of repOse, as is mUsic of sIlence
+
+END:
+5   I hAve this recUrring bad drEAm where it's hIgh time agAIn
+4   and a rEnegade hIppie just hAppy in rAgs
+4   tUrns up the vOlume to drOwn the distOrtion
+5   and plAy out some tEdious Endgame with bArely a bAht
+#    and stInk of stale wEEd,
+5   The dOOrs which once slAmmed shut behInd him now shUt in his fAce
+3   it sOUnds like a crY for my hElp and
+5   of whAt he he sIngs, it is lOst; yet his sOng it is nOt.
+
+5   befOre me    behInd me  the Only       we knOw of     no Other
+5   I wAIt here  we wEre here  mur Igni    remEmber
+
+--------------------------------------------------------------------
+
+#4   can Only just brEAk up a bAr of milk chOcolate.
+
+4   The wOrld is a wAr zone the lAst fifty yEArs,
+4   from bUbble and crAsh, on to bUbble and crAsh;
+4   so mUch of our wEAlth has been spEnt upon wEApons
+    ( that wE are now bAnkrupt )
+4   A whOle generAtion rose Up in revOlt
+    explAIn it to chEney and J edgar hOover all Over agAIn
+4   whOlly sepUlchral, we drIft to antIquity;
+4   The hAt changes cOlour, the brAIn it does nOt
+
+4   for ever     vendetta   to cleanse it   of all that  
+4   Two hUndred and sEven cantAnkerous AUtists
+
+    flUttering bUnting
+4   MAximum sAss or magnIficent dIgnity
+4   dAngle and clAng, virtuOsic opAcity
+4   Stagger or Strut or the One or the Other
+5   and stInk of charIsma with mAnners more pAleovIsceral.
+
+3   our bOdies belOng to us bOth
+3   (like) a mAmmal allErgic to mIlk
+    in this wOrld of fatIgue
+
+    unUsually wIErd
+    well bUgger a thUg
+    and a gAUntlet of dOgs
+    We knOw of no Other
+4   CondEmned by our knOwledge, our prOUdest achIEvement,
+
+
+5   Endless rejEction, a stAte of an Abject defEAt
+5   The dOOrs which once slAmmed shut behInd me now shUt in my fAce
+    I am dYing of lOneliness
+5   and plAy out some tEdious Endgame with bArely a bAht
+
+    Trial by Tea
+    and it Has to be Brown
+    and the Browner the Better
+
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+d3 2
+a4 39
+    RemEmber     in gIrum   remEmber   we wIll be
+    belOw us     abOve us   my rIght hand   my lEft;
+    befOre me    behInd me  we knOw no   no Other
+    I wAIt here  the Only   we were here
+    mur igni     remember
+
+    it sOUnds like a crY for my hElp and
+    of whAt he he sIngs, is is lOst; yet his sOng is is nOt.
+
+    for ever     vendetta   to cleanse it   of all that  
+    Two hundred and seven cantankerous autists
+
+    I hAve this recUrring bad drEAm where it's hIgh time
+    a rEnegade hIppie just hAppy in rAgs
+    tUrn up the vOlume to drOwn the distOrtion
+    He stInks of stale wEEd,
+    can Only just brEAk up a bAr of milk chOcolate.
+    the hEIght of the hIgh there is clArity, Insight;  # see 20110630
+    bearing Insights in Ev'ry domAIn
+    a common deep pattern in many domains
+    and remembered and recognised,
+    and contemplate life
+    and marvel at life
+
+    young, green and sweet, or old known and wise,
+    with you I converse unafraid -
+    my lotus and sacrament my breath this night
+    I do give to the life of the mind,
+    and its deeds and its works everlasting,
+    my inspiration, my muse
+
+    from bubble and crash, on to bubble and crash
+    the world is a war zone
+    For the last fifty years,
+    so much of our wealth has been spent upon weapons
+    that we are now bankrupt
+    A whole generation rose up in revolt
+    Explain it to Cheney and J Edgar Hoover all over again
+    The hat changes colour, the brain it does not
+d6 48
+a53 2
+    Maximum sass or magnificent dignity
+    Stagger or Strut or the One or the Other
+d55 2
+a56 2
+    our Bodies beLong to us Both
+    (like) a Mammal allergic to milk
+d59 11
+a69 22
+    fluttering bunting
+    unusually wierd
+    well bugger a thug
+    and a gauntlet of dogs
+    drift to antiquity
+    dangle and clang
+    a life of the mind
+    with manners more paleovisceral
+    for gesture is born of repose, as is music of silence
+    We know of no other
+    Condemned by our knowledge, our proudest achievement,
+
+    virtuosic opacity
+    wholly sepulchral
+    an utter delight of simplicity
+
+    I am dying of lonliness
+    endless rejection
+    and play out some tedious endgame
+    in state of abject defeat
+    with barely a baht
+    The doors which once slammed shut behind me now shut in my face
+@
