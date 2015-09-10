@@ -1,10 +1,30 @@
-head	1.18;
+head	1.22;
 access;
 symbols;
 locks
-	pjb:1.18; strict;
+	pjb:1.22; strict;
 comment	@# @;
 
+
+1.22
+date	2015.09.03.04.54.41;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2015.09.03.02.02.04;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2015.09.01.03.48.33;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2015.09.01.00.50.41;	author pjb;	state Exp;
+branches;
+next	1.18;
 
 1.18
 date	2015.08.31.05.47.17;	author pjb;	state Exp;
@@ -102,13 +122,19 @@ desc
 @
 
 
-1.18
+1.22
 log
-@good :-) just eigth bars of bass still missing
+@ready to move upstairs
 @
 text
-@3 systems 10 /17-22-17-22-17-22-17-22-17/
+@3 systems 10 /17-22-17-22-17-30-17-22-17 \
+ /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17/
 title The Spell
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
 midi channel 0 patch 82
 /
 4 bars | 5/4 12 | 60 | 4/4 48 | 5/4 60 |
@@ -117,7 +143,7 @@ midi channel 0 patch 82
 =2 treble 5/4 cha0 leg105 4 E
 r0.5 .10 The
 =3 treble 5/4 cha0 leg105 8 rest, G_
-r0.5 .60 The
+r0.3 .60 The
 =4 treble8vab  5/4 cha0 leg105 8 rest G
 r0.5 .60 The
 =5  bass       5/4 cha0 leg105 4 rest
@@ -125,8 +151,8 @@ r0.5 .60 The
 =1 2. rest 2 rest
 =2 2. D# 2 E
 r0.5 .01 car .60 is
-=3 8 [C# Cn] 4 C# rest 8 rest [G_ C# Cn]
-r0.5 .01 car  is  hot .70 the  car  is
+=3 8 [Db C] 4 Db rest 8 rest [G_ Db C]
+r0.3 .01 car  is  hot .70 the  car  is
 =4 8 [A A] 4 A rest 8 rest [G A A]
 r0.5 .01 car  is  hot .70 the  car  is
 =5 2 rest 2. A
@@ -137,7 +163,7 @@ r0.5 .52 car
 =2 4/4 2 F# 4 rest E
 r0.5 .05 hot .75 they're
 =3 4/4 4 C# rest rest 8 rest G_
-r0.5 .05 hot .82 they're
+r0.3 .05 hot .82 they're
 =4 4/4 4 A rest rest 8 rest G
 r0.5 .05 hot .82 they're
 =5 4/4 4 rest 2. A
@@ -146,8 +172,8 @@ r0.2 .27 car
 =1 5/4 2. rest 2 rest
 =2 5/4 2. D# 2 E
 r0.5 .04 on .60 the
-=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_ C# Cn]
-r0.5 .04 on  the  run .70 they're  on  the
+=3 5/4 8 [Db C] 4 Db rest 8 rest [G_ Db C]
+r0.3 .04 on  the  run .70 they're  on  the
 =4 5/4 8 [A A] 4 A rest 8 rest [G A A]
 r0.5 .04 on  the  run .70 they're  on  the
 =5 5/4 2 rest 2. A
@@ -159,10 +185,10 @@ r0.2 .42 is
 r0.5 .52 run
 =2 4/4 2 F# 4 rest E
 r0.5 .05 run .75 Their
-=3 4/4 4 C# rest rest 8 rest G_
-r0.5 .05 run .88 Their
+=3 4/4 4 Db rest rest 8 rest G_
+r0.3 .05 run .83 Their
 =4 4/4 4 A rest rest 8 rest G
-r0.5 .05 run .88 Their
+r0.5 .05 run .83 Their
 =5 4/4 4 rest 2. A
 r0.2 .27 hot
 
@@ -171,8 +197,8 @@ il0.7 .05 5
 =1 5/4 2. rest 2 rest
 =2 5/4 2. D# 2 E
 r0.5 .01 nos .33 - .60 trils
-=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_# C# Cn]
-r0.5 .01 nostrils wide .70 with wine and
+=3 5/4 8 [Db C] 4 Db rest 8 rest [A_b Db C]
+r0.4 .01 nostrils wide .70 with wine and
 =4 5/4 8 [A A] 4 A rest 8 rest [G# A A]
 r0.5 .01 nostrils wide .70 with wine and
 =5 5/4 2 rest 2. A
@@ -182,8 +208,8 @@ r0.2 .42 with
 r0.5 .52 wine
 =2 4/4 2. F# 4 E
 r0.5 .05 wide .76 with
-=3 4/4 4 C# rest rest 8 rest G_#
-r0.5 .05 fun .82 their
+=3 4/4 4 Db rest rest 8 rest A_b
+r0.3 .05 fun .82 their
 =4 4/4 4 A rest rest 8 rest G#
 r0.5 .05 fun .82 their
 =5 4/4 4 rest 2. A
@@ -194,8 +220,8 @@ r0.2 .27 wine
 =1 5/4 2. rest 2 rest
 =2 5/4 2. F# 2 G#
 r0.5 .04 wine .60 and
-=3 5/4 8 [C# Cn] 4 C# rest 8 rest [A_# C# Dn]
-r0.5 .04 nostrils wide .70 with wine and
+=3 5/4 8 [Db C] 4 Db rest 8 rest [A_# C# Dn]
+r0.3 .04 nostrils wide .70 with wine and
 =4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
 r0.5 .04 nostrils wide .70 with wine and
 =5 5/4 2 rest 2. B
@@ -205,9 +231,9 @@ r0.2 .42 and
 r0.5 .52 fun
 =2 4/4 2 A 4 rest F#
 r0.5 .05 fun .75 The
-=3 4/4 4 D# rest rest 8 rest A_#
-r0.5 .05 fun .88 The
-=4 4/4 4 B rest rest 8 rest A#
+=3 4/4 4 Eb rest rest 8 rest B_b
+r0.4 .05 fun .88 The
+=4' 4/4 4 B rest rest 8 rest Bb
 r0.5 .05 fun .88 The
 =5 4/4 4 rest 2. B
 r0.2 .27 fun
@@ -217,12 +243,20 @@ r0.2 .27 fun
 bl0.10 .92 ,
 =2 5/4 2. D# 2 E
 r0.5 .01 road .60 sings
-=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_# C# Cn]
-r0.5 .01 road  sings  un - .70 derneath the
+=3 5/4 8 [Db C] 4 Db rest 8 rest [A_b Db C]
+r0.4 .01 road  sings  un - .70 derneath the
 =4 5/4 8 [A A] 4 A rest 8 rest [G# A A]
 r0.5 .01 road  sings  un - .70 derneath the
 =5 5/4 2 rest 2. A
 r0.2 .42 The
+
+3 systems 10 /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
 /
 3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.0
@@ -231,7 +265,7 @@ il0.7 .05 10
 r0.5 .52 sun
 =2 4/4 2. F# 4 E
 r0.5 .05 un .37 - .75 der .90 -
-=3 4/4 4 C# rest rest 8 rest G_#
+=3 4/4 4 Db rest rest 8 rest A_b
 r0.5 .05 sun .82 the
 =4 4/4 4 A rest rest 8 rest G#
 r0.5 .05 sun .82 the
@@ -241,7 +275,7 @@ r0.2 .27 road
 =1 5/4 2. rest 2 rest
 =2 5/4 2. F# 2 E
 r0.5 .04 neath .60 the
-=3 5/4 8 [C# Cn] 4 C# rest 8 rest [A_# C# Dn]
+=3 5/4 8 [Db C] 4 Db rest 8 rest [B_b C# Dn]
 r0.5 .04 road  sings  un - .70 derneath the
 =4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
 r0.5 .04 road  sings  un - .70 derneath the
@@ -254,7 +288,7 @@ r0.5 .52 sun
 r0.5 .05 sun .75 The
 =3 4/4 4 D# rest rest 8 rest A_#
 r0.5 .05 sun .88 The
-=4 4/4 4 B rest rest 8 rest A#
+=4' 4/4 4 B rest rest 8 rest A#
 r0.5 .05 sun .88 The
 =5 4/4 4 rest 2. B
 r0.2 .27 sun
@@ -266,26 +300,34 @@ r0.5 .64 beach
 =2 5/4 1 A 4 F#
 r0.5 .04 beach .78 shall
 =3 5/4 8 [D C#] 4 D rest rest 8 rest C#
-r0.5 .04 beach shall be
+r0.5 .04 beach shall be .88 shall
 =4' 5/4 8 [B B] 4 B rest rest 8 rest A
-r0.5 .04 beach shall be
+r0.5 .04 beach shall be .88 shall
 =5 5/4 2 rest 2. B
+r0.2 .42 twen .75 -
 | 2.0
 =1' 4/4 2 rest 4. <G Bb> 8 rest
 r0.5 .52 be
 =2 4/4 2. G 4 E
 r0.5 .07 be .75 their
 =3 4/4 8 [D D] 4 D rest 8 rest C#
+r0.5 .05 be their bed .86 shall
 =4' 4/4 8 [Bb A] 4 Bb rest 8 rest G
+r0.5 .05 be their bed .86 shall
 =5 4/4 2 rest A#
+r0.2 .06 - .52 ty
+
 | 2.5
 il0.7 .05 15
 =1 5/4 1 blank
 =2 5/4 1 F# 4 rest
 r0.5 .05 bed
 =3 5/4 4 D 2 C# D(2
+r0.5 .05 be .22 their .61 bed
 =4' 5/4 1 G# 4 A#
+r0.5 .05 be .80 their
 =5 5/4 2 rest 2. G#(2
+r0.2 .42 three
 
 /
 3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
@@ -295,14 +337,18 @@ r0.5 .27 bed
 =2  4/4 2 rest 4 rest Gb
 r0.5 .75 they're
 =3  4/4 2 D)2 4 rest 8 rest B_b
+r0.4 .86 they're
 =4' 4/4 2 B 4 rest 8 rest A#
+r0.5 .05 bed .86 they're
 =5  4/4 2. G#)2 4 rest
 | 2.5
 =1  5/4 2. rest 2 rest
 =2  5/4 2. F 2 Gb
 r0.5 .05 twen .35 - .62 ty
 =3  5/4 8 [Eb D] 4 Eb 4 rest 8 rest [B_b Eb D]
+r0.4 .02 twenty-three .70 they're twenty -
 =4' 5/4 8 [B  B] 4 B  4 rest 8 rest [A# B B]
+r0.5 .02 twenty-three .70 they're twenty -
 =5  5/4 2 rest 2. B
 r0.2 .42 and
 | 2.0
@@ -311,12 +357,21 @@ r0.5 .52 three
 =2  4/4 2 Ab 4 rest Gb
 r0.5 .05 three .75 and
 =3  4/4 4 Eb rest rest 8 rest B_b
+r0.4 .05 three .86 and
 =4' 4/4 4 B rest rest 8 rest A#
+r0.5 .05 three .86 and
 =5  4/4 4 rest 2. B
 r0.2  .27 twen .85 -
 
+3 systems 10 /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-30-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
 /
-3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.5
 =1  5/4 2. rest 2 rest
 =2 5/4 2. F 2 Gb
@@ -330,6 +385,7 @@ r0.2 .42 ty .90 -
 | 2.0
 il0.7 .05 20
 =1, 4/4 2 rest 8 <B(2 d> 4 <B)2 d#> 8 rest
+r0.5 .50 five
 =2 4/4 2 Ab 4 rest Gb
 r0.5 .05 five .75 but
 =3  4/4 4 Eb rest rest 8 rest B_b
@@ -349,10 +405,9 @@ r0.5 .04 matter how .70 no matter
 =5 5/4 2 rest 2. B
 r0.2 .42 how
 
-/
-3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.0
 =1 4/4 2 rest 4. <B d#> 8 rest
+r0.5 .50 they
 =2 4/4 2 Ab 4 rest Gb
 r0.5 .01 - .05 ter .75 how
 =3 4/4 4 Eb rest rest 8 rest B_b
@@ -361,6 +416,8 @@ r0.5 .05 how .82 how
 r0.5 .05 how .82 how
 =5 4/4 4 rest 2. B
 r0.2 .27 fast
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.5
 =1  5/4 2. rest 2 rest
 =2 5/4 2. Ab 2 Gb
@@ -373,7 +430,7 @@ r0.5 .04 matter how .70 how fast they
 r0.2 .42 they
 | 2.0
 =1 4/4 2 rest 8 <c#(2 e> 4 <c#)2 f> 8 rest
-r0.5 .52 sun
+r0.5 .52 drive
 =2 4/4 2 Bb' 4 rest Ab
 r0.5 .05 drive .75 the
 =3 4/4 4 F rest rest 8 rest C
@@ -383,72 +440,97 @@ r0.5 .05 drive .88 The
 =5 4/4 4 rest 2. A#
 r0.2 .27 drive
 
-/
-3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
 | 2.5
 il0.7 .05 25
-=1 5/4 2 c 4 B' A G#
+=1 5/4 2 c{1 4 B}1 A{'1 G#}'1
+r0.5 .09 spell .62 runs
+# .61 on .81 a .97 -
 =2 5/4 2. c(1 2 c)1
-r0.5 .05 spell
+r0.5 .08 spell
 =3 5/4 1 D 4 E
-r0.5 .05 spell runs on
+r0.5 .08 spell .81 runs
 =4 5/4 1 F#
-r0.5 .05 spell runs on
+r0.5 .08 spell
 =5 5/4 2. G# 2 A
+r0.2 .08 the .61 spell
 | 2.0
-=1 4/4 2 B' 4 A# G#
+=1 4/4 2 B' 4 A#{'1 G#}'1
+r0.5 .09 on .55 runs
 =2 4/4 1 B
-r0.5 .05 runs
-=3 4/4 1 F#
+r0.5 .09 runs
+=3 4/4 2 F# F#
+r0.5 .07 on .54 a .85 -
 =4 4/4 1 G#
+r0.5 .09 runs
 =5 4/4 1 B
-| 2.5
-=1 5/4 4 A 4 G# F# Fn F#
-=2 5/4 2. A 2 G#
-r0.5 .05 on .61 a .85 -
-=3 5/4 2. F# 4 rest F#
-=4 5/4 2. A 2 B'
-=5 5/4 2 c 2. d'
-
-3 systems 10 /17-22-17-22-17-22-17-22-17/
+r0.2 .09 runs
 
 /
-3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+| 2.5
+=1 5/4 4 A{'1 4 G# F#}'1 Fn{'1 F#}'1
+r0.5 .09 on .65 a .90 -
+=2 5/4 2. A 2 G#
+r0.5 .09 on .64 a .88 -
+=3 5/4 2. F# 4 rest F#
+r0.5  - .06 head .77 the
+=4 5/4 2. A 2 B'
+r0.5 .07 on .65 a .90 -
+=5 5/4 2 c 2. d'
+r0.2 .07 on .45 a .80 -
 | 2.0
-=1 4/4 2 A 4 G# F#
+=1 4/4 2 A 4 G#{'1 F#}'1
+r0.5 .05 head .53 the
 =2 4/4 2 A 4 rest F#
-r0.5 .01 - .05 head .75 the
+r0.5 .05 head .75 the
 =3 4/4 2. Fn 4 Eb(2
-=4 4/4 4 c  2 B' 4 G#
+r0.5 .05 spell .76 runs
+=4 4/4 4 c{1  2 B}1 4 G#
+r0.5 .12 head .76 runs
 =5 4/4 2 eb d
+r0.2 .05 head .52 runs
 | 2.5
 =1 5/4 4 A G# 2 F# 4 Fn
+r0.5 .07 spell .24 runs .43 on .82 a .94 -
 =2 5/4 2. A 2 G#
 r0.5 .05 spell .62 runs
-=3 5/4 4 Eb)2 Db 4 C 2 B_
+=3 5/4 4 Eb)2 Db{'1 4 C}'1 2 B_
+r0.5 .27 on .64 a .90 -
 =4 5/4 4 F# Fn 2. Eb
+r0.5 .07 on .27 a .34 - .42 head
 =5 5/4 1 db
+r0.2 .05 on
 | 2.0
 il0.7 .05 30
 =1 4/4 2. Eb 4 blank
+r0.5 .05 head
 =2 4/4 2. F# 4 Fn
-r0.5 .05 on .75 a .90 -
+r0.5 .09 on .78 a .90 -
 =3 4/4 1 A_
+r0.4 .05 head
 =4 4/4 2 blank 1 rest
 =5 4/4 1 c
+r0.2 .12 a .60 -
 
+3 systems 10 /17-22-17-22-17-30-17-22-17 \
+ /17-22-17-22-17-30-17-22-17 \
+ /17-22-17-22-17-28-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
 
 /
-3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.5
 =1 5/4 2 blank 1 rest
 =2 5/4 2. Eb(2 2 Eb)2(2
 r0.5 .01 - .05 head
 =3 5/4 2 rest 2. G_#(1
-r0.5 .05 ?
+r0.5 .45 head
 =4 5/4 2 rest 2. F#(2
-r0.5 .05 ?
+r0.5 .45 head
 =5 5/4 2. B(2  2 B)2(2
+r0.2  - .05 head
 
 # 2nd verse
 | 2.0
@@ -472,42 +554,42 @@ r0.5 .01 cuddle close .70 they cuddle
 r0.5 .01 cuddle close .70 they cuddle
 =5 5/4 2 rest 2. B
 r0.2 .41 close
-/
-3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.0
 =1 4/4 2 Ab 4 rest Gb
-r0.5 .05 close .73 they're
+r0.5 .07 close .72 they're
 =2 4/4 2 rest 4. Eb 8 rest
+r0.5 .53 close
 =3 4/4 4 Eb rest rest 8 rest A_
-r0.5 .01 close .80 they're
+r0.5 .07 close .76 they're
 =4' 4/4 4 B rest F 8 rest A
-r0.5 .01 close .80 they're
+r0.5 .07 close .50 close .76 they're
 =5 4/4 4 rest 2. B
-r0.2 .27 close
+r0.2 .29 close
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.5
 il0.7 .05 35
 =1 5/4 2. F 2 Gb
-r0.5 .05 ly .34 - .62 ing
+r0.5 .09 ly .34 - .62 ing
 =2 5/4 2. rest 2 rest
 =3 5/4 4 Eb 8 D 4. Eb 8 rest [A_ Eb D]
-r0.5 .01 lying low .70 they're lying
+r0.5 .08 ly - ing  low .65 they're lying
 =4' 5/4 4 B 8 B 4. B 8 rest [A B B]
-r0.5 .01 lying low .70 they're lying
+r0.5 .08 ly - ing  low .65 they're lying
 =5 5/4 2 rest 2. B
-r0.2 .42 low
+r0.2 .44 low
 | 2.0
 =1 4/4 2 Ab 4 rest Gb
 r0.5 .05 low .77 the
 =2 4/4 2 rest 4. Db 8 rest
+r0.5 .54 low
 =3 4/4 4 Eb rest rest 8 rest A_
-r0.5 .01 low .80 the
+r0.5 .07 low .53 low .84 the
 =4' 4/4 4 B rest F 8 rest A
-r0.5 .01 low .80 the
+r0.5 .07 low .53 low .84 the
 =5 4/4 4 rest 2. B
-r0.2 .27 low
+r0.2 .29 low
 
-/
-3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
 | 2.5
 =1  5/4 2. F 2 F#
 r0.5 .05 bed .60 is
@@ -525,23 +607,23 @@ r0.5 .05 warm .76 with
 =2 4/4 2 rest 4. Eb 8 rest
 r0.5 .52 warm
 =3 4/4 4 Eb rest rest 8 rest B_b
-r0.5 .05 warm .82 with
+r0.5 .05 warm .84 with
 =4 4/4 4 B' rest F 8 rest A#
-r0.5 .05 warm .82 with
+r0.5 .05 warm .53 warm .84 with
 =5 4/4 4 rest 2. B
 r0.2 .27 warm
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.5
 =1 5/4 2. G# 2 A#
-r0.5 .04 af .32 - .60 ter
+r0.5 .09 af .38 - .60 ter
 =2 5/4 2. rest 2 rest
 =3 5/4 4 Eb 8 D 4. Eb 8 rest [C Eb En]
-r0.5 .04 afterglow .70 with after -
+r0.5 .08 af - terglow .70 with after -
 =4 5/4 4 B' 8 B' 4. B' 8 rest [c db c]
-r0.5 .04 afterglow .70 with after -
+r0.5 .08 af - terglow .70 with after -
 =5 5/4 2 rest 2. c#
 r0.2 .42 glow
-/
-3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.0
 il0.7 .05 40
 =1' 4/4 2 B 4 rest G#
@@ -549,10 +631,9 @@ r0.5 .05 glow .75 Their
 =2  4/4 2 rest 4. Eb 8 rest
 r0.5 .52 glow
 =3  4/4 4 F rest F 8 rest C
-r0.5 .05 glow .88 Their
-#=4  4/4 4 db rest Ab 8 rest c
+r0.5 .05 glow .52 glow .82 Their
 =4  4/4 4 db rest rest 8 rest c
-r0.5 .05 glow .88 Their
+r0.5 .05 glow .82 Their
 =5  4/4 4 rest 2. c#
 r0.2 .27 glow
 
@@ -561,45 +642,54 @@ r0.2 .27 glow
 r0.5 .05 bo .35 - .60 dies
 =2 5/4 2. rest 2 rest
 =3 5/4 4 Eb 8 D 4. Eb 8 rest [B_b Eb D]
-r0.5 .05 bodies touch .70 from head to
+r0.5 .05 bo - dies touch .65 from head to
 =4 5/4 4 B 8 B 4. B 8 rest [A# B' B']
-r0.5 .05 bodies touch .70 from head to
+r0.5 .05 bo - dies touch .65 from head to
 =5 5/4 2 rest 2. B
-r0.2 .42 head
+r0.2 .42 from
 | 2.0
 =1  4/4 2. G# 4 F#
 r0.5 .05 touch .74 from
 =2  4/4 2 rest 4. Eb 8 rest
-r0.5 .52 ?
+r0.5 .54 toe
 =3  4/4 4 Eb rest rest 8 rest B_b
-r0.5 .05 toe .82 their
+r0.5 .08 toe .82 their
 =4  4/4 4 B' rest G# 8 rest A#
-r0.5 .05 toe  .82 their
+r0.5 .08 toe .54 toe .82 their
 =5  4/4 4 rest 2. B
-r0.2 .27 to
+r0.2 .31 head
+
+3 systems 10 /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-25-17-22-17 \
+ /17-25-17-25-17-35-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
 /
-3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
 | 2.5
 =1  5/4 2. G# 2 F#
-r0.5 .04 head .60 to
+r0.5 .08 head .60 to
 =2  5/4 2. rest 2 rest
 =3  5/4 4 Eb 8 D  4. Eb 8 rest [C Eb En]
-r0.5 .04 bodies touch .70 from head to
+r0.5 .08 bodies touch .65 from head to
 =4  5/4 4 B' 8 B' 4. B' 8 rest [c db c]
-r0.5 .04 bodies touch .70 from head to
+r0.5 .08 bodies touch .65 from head to
 =5  5/4 2 rest 2. c#
-r0.2 .42 toe
+r0.2 .44 to
 | 2.0
 =1 4/4 2 Bb 4 rest G#
-r0.5 .05 toe .75 A
+r0.5 .09 toe .76 A
 #=2 4/4 2 rest 8 <c#(2 e> 4 <c#)2 f> 8 rest
 =2 4/4 2 rest 4. F 8 rest
-r0.5 .52 toe
+r0.5 .54 toe
 =3 4/4 4 F rest rest 8 rest C
-r0.5 .05 toe .88 A
+r0.5 .09 toe .88 A
 =4 4/4 4 db rest db 8 rest c
-r0.5 .05 toe .88 A
+r0.5 .09 toe .54 toe .88 A
 =5 4/4 4 rest 2. c#
+r0.2 .32 toe
 | 2.5
 il0.7 .05 45
 =1  5/4 1 B 4 G#
@@ -607,203 +697,301 @@ r0.5 .04 tear .78 forms
 =2,  5/4 2. rest 8 <cl, e(1> 4 <c# e)1> 8 rest
 r0.5 .64 tear
 =3  5/4 8 [E D#] 4 E rest rest 8 rest D#
-r0.5 .04 tear forms .90 forms
+r0.5 .07 tear  forms .84 forms
 =4  5/4 8 [db db] 4 db rest rest 8 rest B
-r0.5 .04 tear forms .90 forms
+r0.5 .07 tear  forms .84 forms
 =5  5/4 2 rest 2. c#
-/
-3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+r0.2 .44 tear
 | 2.0
 =1  4/4 2. A 4 F#
 r0.5 .07 in .75 her
 =2' 4/4 2 rest 4. <A c> 8 rest
 r0.5 .52 be
 =3  4/4 8 [E E] 4 E rest 8 rest D#
-r0.5 .05 in her eye .84 forms
+r0.5 .06 in  her eye .80 forms
 =4  4/4 8 [c B] 4 c rest 8 rest A
-r0.5 .05 in her eye .84 forms
+r0.5 .06 in  her eye .80 forms
 =5  4/4 2 rest c
 r0.2 .52 her
+/
+4 bars | 5/4 60 | 4/4 48 | 9/8 54 | 54 |
 | 2.5
 =1 5/4 1 G# 4 rest
 r0.5 .05 eye
 =2 5/4 2 rest 2. rest
 =3 5/4 4 E 2 D# E(2
+r0.5 .09 in .25 her .64 eye
 =4 5/4 1 Bb 4 c
-r0.5 .05 in .76 her
+r0.5 .05 in .79 her
 =5 5/4 2 rest 2. Bb(2
 r0.2 .43 eye
 | 2.0
 =1 4/4 vol125 4 rest 2. Bb'
 r0.5 .28 the
 =2 4/4 2. rest 4 F#(2
-r0.5 .76 the
+r0.5 .76 fields
 =3 4/4 2 E)2 4 rest E
 r0.5 .76 the
 =4 4/4 2 db 4 rest c
 r0.5 .05 eye .76 the
 =5 4/4 2. Bb)2 4 rest
 
-/
-3 bars | 5/4 54 | 54 | 54 |
 | 2.25
 =1' 9/8 4 Bb(2 4. Bb)2(2 2 Bb)2(2
 r0.5 .05 fields
-=2 9/8 4 F#)2 8 [G Ab G] [F# G Ab G]
-=3 9/8 4 D# 4. E 8 D# rest 4 E
-=4 9/8 4 Bb(1 4. Bb)1 2 c
+=2 9/8 4 F#)2 8 [G{'1 Ab G}'1] [F#{'1 G Ab G]
+r0.5 .34 in .64 waves .96 -
+=3 9/8 4 D#{'1 4. E 4 D# E
+r0.5 .05 fields   .   .   .
+=4 9/8 4 Bb(1 4. Bb)1{1 2 c
+r0.5 .05 fields
+=5 9/8 2 blank 1 rest
 | 2.25
 il0.7 .05 50
 =1' 4 Bb)2(2 4. Bb)2(2 2 Bb)2
-#=2 8 F# rest [G Ab G] [F# G Ab G]
-#=3 4 D# 4. E 2 Eb
-=2 8 F# rest [G Ab G] [Gb Fn E F]
-=3 4 D# 4. E 2 Dn(2
-=4 2 db 8 rest 2 c
+=2 8 F#}'1 rest [G{'1 Ab G}'1] [Gb{'1 Fn E F]
+r0.5 .30 in .62 waves .92 -
+=3 4 D# 4 E}'1 8 rest 2 Dn(2
+r0.5 .53 run
+=4 2 db}'1 8 rest 2 c{'1
+r0.5 .53 run
+=5 2 blank 1 rest
+/
+4 bars | 54 | 54 | 54 | 4/4 48 |
 | 2.25
 =1 4 A(2 4. A)2(2 2 A)2
 r0.5 .05 run
 =2 4 F#(2 4. F#)2 2 G
-=3 8 D)2 rest [D# E D#] [Dn D# E D#(2]
-=4 4 B 4. c 4 B c(1
-/
-3 bars | 54 | 54 | 54 |
+=3 8 D)2 rest [D#{'1 E D#}'1] [Dn{'1 D# E D#(2]
+r0.5 .30 in .62 waves .92 -
+=4 4 B 4. c}'1 8 rest 4 B{'1 c}'1(1
+r0.5 .60 in .92 -
+=5 2 blank 1 rest
 | 2.25
 =1' 4 Bb(2 4. Bb)2(2 2 Bb)2
 r0.5 .05 in
-=2 8 F# rest [G Ab G] [F# G Ab Bb']
-=3 4 D#)2 4. E 8 D# rest 4 E(2
-=4 2 c)1 8 rest 2 Bb'
+=2 8 F#}'1 rest [G{'1 Ab G}'1] [F#{'1 G Ab Bb']
+r0.5 .30 in .62 waves .92 -
+=3 4 D#)2 4. E 8 D#}'1 rest 4 E(2
+r0.6 .75 run
+=4 2 c)1 8 rest 2 Bb'{'1
+r0.5 .52 waves .92 -
+=5 2 blank 1 rest
 |
 =1 4 c(1 4. c)1(1 2 c)1(1
 r0.5 .05 waves
-=2 2 c 8 rest 2 Bb'
-=3 4 E)2 8 [Eb D Eb] [En Eb D Eb]
-=4 4 A 4. Ab 4 G Ab
+=2 2 c}'1 8 rest 2 Bb'
+r0.5 .50 fields
+=3 4 E)2 8 [Eb{'1 D Eb}'1] [En{'1 Eb D Eb]
+r0.6 .30 in .62 waves .92 -
+=4 4 A 4. Ab 4 G G#
+=5 2 blank 1 rest
 | 2.0
-=1 1 c)1
-=2 4. A G# 4 F#(2
-=3 8 [D C] 4 D 4. Eb 8 D(2
-=4 4. A 4 Bb 8 c 4 Bb
-=5 2. f# 4 f#(1
+=1 4/4 1 c)1
+=2 4/4 4. A{'1 G#}'1 4 F#(2
+r0.5 .07 run .76 in
+=3 4/4 8 [D C] 4 D}'1 4. Eb 8 D(2
+r0.5 .53 in .80 waves
+=4 4/4 4 A}'1 8 rest 4 Bb{'1 8 c 4 Bb}'1
+r0.5 .43 in
+=5 4/4 2. f# 4 f#(1
+r0.2 .07 run .76 in
+
+3 systems 10 /17-32-17-22-17-32-17-22-17 \
+ /17-25-17-22-17-33-17-22-17 \
+ /17-22-17-25-17-35-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 | 48 | 48 | 48 |
 |
 il0.7 .05 55
 =1 2 rest c
-r0.5 .55 The
+r0.5 .51 The
 =2 2 F#)2 4 rest 4 F#
-=3 8 [D)2 C] 4 D 4. D# 8 E
-=4 4. A 4 Bb 8 c 4 Bb
+r0.5 .76 The
+=3 8 [D)2{'1 C] 4 D}'1 4. D#{'1 8 E}'1
+r0.5 .54 The
+=4 4. A{'1 4 Bb 8 c 4 Bb}'1
+r0.5 .07 waves
 =5 2. f#)1 4 f#(1
+r0.2 .76 waves
 |
 =1' 1 B
 r0.5 .05 log
-=2' 4. G# 4 A 8 B 4 A(2
-=3 2 F# Fn(2
-=4 8 rest B 4 c# 4. d 8 db
+=2' 4. G#{'1 4 A 8 B 4 A(2
+r0.5 .05 log
+=3 2 F#{'1 Fn}'1(2
+r0.5 .05 log
+=4 8 rest Bn{'1 4 c#}'1 4. d{'1 8 db
+r0.5 .11 The .56 log
 =5 2 f#)1 4 rest fn(1
+r0.2 .76 The
 |
 =1 1 A
 r0.5 .05 fire
-=2 8 A)2 4 G 4. F# 4 G
-=3 4 F)2 2. Eb
-=4 4 c B 8 A 4 B 8 c
+=2 8 A)2 4 G}'1 4. F#{'1 4 G
+r0.5 .40 fire
+=3 4 F)2 2. Eb(2
+r0.5 .28 fire
+=4 4 c B 8 A 4 B 8 c}'1
 =5 4 f)1 2. eb
+r0.2 .25 log
 
 |
 =1' 1 Ab
 r0.5 .05 burns
-=2 8 Ab 4 Gb 4. F 4 Gb
-=3 1 Eb
-=4' 4 B A# 8 G# 4 A# 8 B(2
-=5 1 eb
+=2 8 Ab 4 Gb}'1 4. F{'1 4 Gb
+r0.5 .40 burns
+=3 2 Eb)2 Eb(2
+r0.5 .50 burns
+=4' 4 B{'1 A# 8 G# 4 A#}'1 8 B(2
+r0.5 .05 fire .84 burns
+=5 2 eb eb(1
+r0.2 .05 fire .50 burns
+/
+4 bars | 48 | 48 | 48 | 48 |
 |
 =1' 2 rest Bb
-r0.5 .55 The
-=2 8 Ab 4 Gb 4. F 4 F(2
-=3 1 Eb
-=4' 4 B)2 A# 8 G# 4 A# 8 Gn
-=5 1 eb
+r0.5 .51 The
+=2 8 Ab 4 Gb}'1 4. F 4 F(2
+r0.5 .41 The .74 snow .90 -
+=3 2 Eb)2 rest
+=4' 4 B)2{'1 A# 8 G# 4 A#}'1 8 G#{'1
+r0.5 .85 the
+=5 2 eb)1 rest
 |
 il0.7 .05 60
 =1' 1 A
-r0.5 .05 snow .65 -
-=2 9/8 8 [F)2 F# G F#] [Fn F# G F#]
-=3 9/8 4 D 4 Eb 8 D rest 4 Eb
-=4' 9/8 4 A(2 4 A)2 2 B
+r0.6 .02 snow .65 -
+=2 8 [F)2{'1 F# G F#}'1] [Fn{'1 F# G F#}'1]
+r0.5 .55 flakes ,
+=3 4 D{'1 4 Eb 8 D}'1 rest 4 Eb{'1
+r0.6 .05 the
+r0.7 .73 snow .95 -
+=4' 2 A}'1 B{'1
+r0.5 .55 snow .65 -
+=5  1 a
+r0.2 .03 snow .65 -
 |
 =1' 1 G
-r0.5 .05 flakes
-=2 8 [F E D# E] [F E D# E(2]
-=3 4 D 4. Db C(2
-=4' 4. Bb 8 rest 2 A
+r0.6 .02 flakes
+=2 8 [F{'1 E D# E}'1] [F{'1 E D# E}'1(2]
+r0.5 .02 snow .50 flakes
+=3 4 D 4. Db}'1 C(2
+r0.4 .63 flakes
+=4' 4. Bb}'1 8 rest 2 A
+r0.5 .53 flakes
+=5  1 g
+r0.2 .05 flakes
 |
 =1  2 Ab
 r0.5 .05 fall
-=2 4. E)2 8 F# 4 E 8 [F# Fn(2]
-=3 4 C)2 8 D 4 C 8 D 4 C
-=4 2 G# 4 A# G#(2
+=2 4. E)2 8 F#{'1 4 E 8 [F# Fn(2]
+r0.5 .37 fall
+=3 4 C)2{'1 8 D 4 C 8 D 4 C}'1
+=4 2 G#{'1 4 A# G#(2
+r0.5 .05 fall
+=5 2 g# rest
+r0.2 .05 fall
+/
+4 bars | 48 | 48 | 48 | 48 |
 |
-=1 1 rest
-=2 4 F)2 4 G 8 Ab 4 G 8 F(2
+=1 2 blank 1 rest
+=2 4 F)2 4 G 8 Ab 4 G}'1 8 F(2
+r0.5 .83 a
 =3 1 D
-=4' 8 G#)2 4 A# 4. B 4 A#
-
+r0.6 .02 fall
+=4' 8 G#)2 4 A#}'1 4. B{'1 4 A#
+r0.5 .41 a
+=5 2 blank 1 rest
 |
 =1  1 Ab
 r0.5 .05 a
-=2 4 F)2 4 Gb 8 Ab 4 Gb 8 F
+=2 4 F)2{'1 4 Gb 8 Ab 4 Gb 8 F}'1
 =3 1 C#
-=4' 8 G# 4 A# 4. B 4 A#
+r0.5 .05 a
+=4' 8 G# 4 A#}'1 4. B{'1 4 A#
+r0.6 .38 tear
 =5 1 g#(1
+r0.2 .04 a .70 -
 |
 il0.7 .05 65
 =1  1 Gb
 r0.5 .05 tear
 =2  1 Gb
-r0.5 .05 tear
-=3 4. D# 4 E 8 F# 4 E
-=4 2.. Bn 8 G#
-=5 8 [g#)1 f#] 4 g# 4. a 8 rest
+r0.6 .02 tear
+=3 4. D#{'1 4 E 8 F# 4 E
+r0.6 .05 tear
+=4 2.. B' 8 G#}'1
+=5 8 [g#)1{'1 f#}'1] 4 g#{'1 4. a}'1 8 rest
+r0.5 .27 tear
 |
 =1' 1 D
 r0.5 .05 forms
 =2' 1 D
 r0.5 .05 forms
-=3 8 D 4 C 4. B_ 4 C
+=3 8 D 4 C}'1 4. B_{'1 4 C}'1
+r0.5 .39 forms
 =4 1 A
+r0.6 .05 forms
 =5 4 fn e 8 d 4 e 8 gb(1
+r0.2 .05 forms. 87 in
+
+3 systems 10 /17-22-17-27-17-28-17-25-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-33-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 | 48 | 48 | 48 |
 |
 =1  1 Eb
 r0.5 .05 in
 =2  1 Eb
 r0.5 .05 in
-=3 4 Db 8 Eb 4 Db 4. C
+=3 4 Db{'1 8 Eb 4 Db 4. C}'1
+r0.5 .05 in
 =4 2.. A 8 G#(2
-=5 8 gb)1 4 f 8 eb 4 f gb(1
+r0.5 .05 in .87 her
+=5 8 gb)1{'1 4 f 8 eb 4 f}'1 gb(1
+r0.2 .76 her
 |
 =1  1 Gb
 r0.5 .05 her
 =2  1 C#
 r0.5 .05 her
-=3 4. D# 4 E 8 F# 4 E
-=4 8 [G#)2 F#] 4 G# 4. A 8 G#
+=3 4. D#{'1 4 E 8 F# 4 E}'1
+r0.5 .05 her
+=4 8 [G#)2{'1 F#] 4 G#}'1 4. A{'1 8 G#
+r0.5 .52 eye
 =5 1 gb)1
 |
 =1  1 F(2
 r0.5 .05 eye
-=2  1 B_(2
+=2  1 B_(1
 r0.5 .05 eye
-=3  4 Eb 2. Db
-=4  2 A 4 B' 4 A(2
+=3  4 Eb{'1 2. Db}'1
+r0.6 .05 eye
+=4  2 A}'1 4 B' 4 A(2
+r0.5 .52 her .76 eye
 =5  1 f(1
+r0.2 .04 eye
 |
 il0.7 .05 70
 =1  1 F)2
-=2  1 B_)2
-=3  4 Eb 2. Db
+=2  1 B_)1
+=3  4 Eb{'1 2. Db}'1
+r0.5 .02 eye
 =4  1 A)2
 =5  1 f)1
 
+/
+4 bars | 48 | 5/4 60 | 60 | 60 |
 | 2.25
 =1  2. rest 4 F
 r0.5 .76 the
@@ -813,59 +1001,67 @@ r0.5 .38 as .76 the
 r0.5 .38 as .76 the
 =4' 4. rest 4. B  4 B
 r0.5 .38 as .76 the
-=5  2 blank 1 rest
+=5  2. rest 4 f
+r0.2 .75 the
 
 | 2.5
-=1 5/4 2 d 4 c# B' A#
-=2 5/4 2. d(1 2 d)1
+=1 5/4 2 d{'1 4 c#}'1 B'{'1 A#}'1
+r0.6 .05 spell .62 the
+=2 5/4 2. d(1 2 d)1{'1
 r0.5 .05 spell
 =3 5/4 1 E 4 F#
 r0.5 .05 spell .81 the
 =4 5/4 1 G#
 r0.5 .05 spell
 =5 5/4 2. A# 2 B
-r0.2 .05 as .62 the
-/
-3 bars |  60 | 60 | 60 |
+r0.2 .05 spell .62 the
 |
-=1 2 db c 4 Bb
-=2 1 c#(1 4 c#)1
-r0.5 .52 fla - shes
-=3 1 G#(2 4 G#)2
-r0.5 .05 spell
+=1 2 db{'1 c 4 Bb}'1
+r0.6 .03 spell
+=2 1 c#}'1(1 4 c#)1
+=3 1 G#(2 4 G#)2(2
+r0.5 .03 spell
 =4 1 A#(2 4 A#)2
+r0.6 .03 spell
 =5 1 c#(2 4 c#)2
-r0.2 .05 spell
+r0.2 .03 spell
 
 | 2.5
-=1' 4 Bn 4 Bb Ab G Ab
+=1' 4 Bn{'1 4 Bb Ab}'1 G{'1 Ab}'1
+r0.6 .03 fla .32 - .60 shes
 =2' 2. B 2 Bb
 r0.5 .03 fla .32 - .60 shes
-=3' 2. G# 4 rest Ab
-=4 2. B 2 c#
+=3' 2. G#)2 4 rest Ab
+r0.5 .82 as
+=4 2. B' 2 c#
+r0.5 .03 fla .32 - .60 shes
 =5 2 d 2. e
 r0.2 .03 as .41 the
 
 
+/
+5 bars | 60 | 60 | 50 | 55 | 25 ||
 # 20150829  copied this modified version back to bars 28-29 ...
 | 2.55
-il0.7 .05 75
-=1' 2 Bn 4 A# 2 G#
+il0.9   75
+=1' 2 Bn{'1 4 A#}'1 2 G#
+r0.6 .03 by .61 the
 =2' 2 B 4 rest 2 G#
 r0.5 .03 by .61 the
 =3 1 G 4 F(2
-=4 4 d 2 c# 2 Bb
+r0.7 .03 the .77 spell
+=4 4 d{'1 2 c#}'1 2 Bb'{'1
+r0.6 .03 by .61 fla .90 -
 =5 2 f{'1 2. e}'1
 r0.2 .03 spell
-/
-4 bars | 60 | 50 | 55 | 45 ||
 | 2.6
-=1' 4 B Bb 2 Ab 4 G
+=1' 4 B{'1 Bb}'1 2 Ab 4 G
+r0.6 .03 spell .40 fla .65 - .80 shes
 =2' 2. B{2 2 Bb}2
 r0.5 .03 spell
-#=3 5/4 2 Eb 4 D 2 C#
-=3 4 F)2 Eb 4 D 2 C#
-=4 4 Ab G 2. F(2
+=3 4 F)2{'1 Eb 4 D 2 C#}'1
+=4 4 Ab}'1 G 2. F(2
+r0.5 .21 shes .40 by
 =5 1 eb
 r0.2 .03 fla .60 -
 | 2.7
@@ -873,7 +1069,8 @@ r0.2 .03 fla .60 -
 r0.5 .02 by  .   .   .
 =2 2. Ab 2 G
 r0.5 .03 fla .32 - .60 shes
-=3 2. B_(1 2 B_)1
+=3 2. B_ 2 B_
+r0.4 .03 fla .32 - .60 shes
 =4 2. F)2 rest
 =5' 2. d(2 2 d)2
 r0.2   - .02 shes
@@ -884,7 +1081,7 @@ r0.2   - .02 shes
 r0.5 .05 by  .   .   .
 =3 2 rest 2. B_b(1
 r0.3 .42 by  .   .   .
-=4 2 rest 2. G#(2
+=4 2 rest 2. Ab(2
 r0.5 .42 by  .   .   .
 =5 2. c#(2 2 c#)2(2
 r0.2 .05 by  .   .   .
@@ -892,9 +1089,651 @@ r0.2 .05 by  .   .   .
 =1 1 rest-fermata-dim0-dim40
 =2 1 F)2-fermata-dim0-dim40
 =3 1 B_b)1-fermata-dim0-dim40
-=4 1 G#)2-fermata-dim0-dim40
+=4 1 Ab)2-fermata-dim0-dim40
 =5 1 c#)2-fermata-dim0-dim40
 
+@
+
+
+1.21
+log
+@words and slurs almost complete
+@
+text
+@d812 1
+a812 1
+r0.2 .05 forms
+d814 1
+a814 1
+3 systems 10 /17-22-17-27-17-22-17-22-17 \
+d828 2
+a829 1
+=3 4 Db 8 Eb 4 Db 4. C
+d831 3
+a833 1
+=5 8 gb)1 4 f 8 eb 4 f gb(1
+d839 4
+a842 2
+=3 4. D# 4 E 8 F# 4 E
+=4 8 [G#)2 F#] 4 G# 4. A 8 G#
+d849 4
+a852 2
+=3  4 Eb 2. Db
+=4  2 A 4 B' 4 A(2
+d854 1
+d859 2
+a860 1
+=3  4 Eb 2. Db
+@
+
+
+1.20
+log
+@filled out words up to about bar 30
+@
+text
+@d237 3
+a239 3
+3 systems 10 /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17/
+d316 3
+a318 2
+=1 5/4 2 c 4 B' A G#
+r0.5 .05 spell .42 runs .61 on .81 a .97 -
+d320 1
+a320 1
+r0.5 .05 spell
+d322 1
+a322 1
+r0.5 .05 spell .81 runs
+d324 1
+a324 1
+r0.5 .05 spell
+d326 1
+a326 1
+r0.2 .05 the .61 spell
+d328 2
+a329 1
+=1 4/4 2 B' 4 A# G#
+d331 1
+a331 1
+r0.5 .05 runs
+d335 1
+a335 1
+r0.5 .05 runs
+d337 1
+a337 1
+r0.2 .05 runs
+d342 2
+a343 1
+=1 5/4 4 A 4 G# F# Fn F#
+d345 1
+a345 1
+r0.5 .05 on .61 a .85 -
+d353 2
+a354 1
+=1 4/4 2 A 4 G# F#
+d356 1
+a356 1
+r0.5 .01 - .05 head .75 the
+d358 1
+d365 1
+d368 2
+a369 1
+=3 5/4 4 Eb)2 Db 4 C 2 B_
+d371 1
+a371 1
+r0.5 .07 on .27 a .36 - .42 head
+d379 1
+a379 1
+r0.5 .05 on .75 a .90 -
+d381 1
+d384 1
+a384 1
+r0.2 .10 a .60 -
+d386 3
+a388 3
+3 systems 10 /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17/
+d400 1
+a400 1
+r0.5 .05 ?
+d402 1
+a402 1
+r0.5 .05 ?
+d430 1
+a430 1
+r0.5 .05 close .73 they're
+d432 1
+d434 1
+a434 1
+r0.5 .01 close .80 they're
+d436 1
+a436 1
+r0.5 .01 close .80 they're
+d438 1
+a438 1
+r0.2 .27 close
+d444 1
+a444 1
+r0.5 .05 ly .34 - .62 ing
+d447 1
+a447 1
+r0.5 .01 lying low .70 they're lying
+d449 1
+a449 1
+r0.5 .01 lying low .70 they're lying
+d451 1
+a451 1
+r0.2 .42 low
+d456 1
+d458 1
+a458 1
+r0.5 .01 low .80 the
+d460 1
+a460 1
+r0.5 .01 low .80 the
+d462 1
+a462 1
+r0.2 .27 low
+d481 1
+a481 1
+r0.5 .05 warm .82 with
+d483 1
+a483 1
+r0.5 .05 warm .82 with
+d490 1
+a490 1
+r0.5 .04 af .32 - .60 ter
+d493 1
+a493 1
+r0.5 .04 afterglow .70 with after -
+d495 1
+a495 1
+r0.5 .04 afterglow .70 with after -
+d505 1
+a505 2
+r0.5 .05 glow .88 Their
+#=4  4/4 4 db rest Ab 8 rest c
+d507 1
+a507 1
+r0.5 .05 glow .88 Their
+d516 1
+a516 1
+r0.5 .05 bodies touch .70 from head to
+d518 1
+a518 1
+r0.5 .05 bodies touch .70 from head to
+d520 1
+a520 1
+r0.2 .42 head
+d525 1
+a525 1
+r0.5 .52 ?
+d527 1
+a527 1
+r0.5 .05 toe .82 their
+d529 1
+a529 1
+r0.5 .05 toe  .82 their
+d531 1
+a531 1
+r0.2 .27 to
+d533 3
+a535 3
+3 systems 10 /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17/
+d544 1
+a544 1
+r0.5 .04 head .60 to
+d547 1
+a547 1
+r0.5 .04 bodies touch .70 from head to
+d549 1
+a549 1
+r0.5 .04 bodies touch .70 from head to
+d551 1
+a551 1
+r0.2 .42 toe
+d554 1
+a554 1
+r0.5 .05 toe .75 A
+d557 1
+a557 1
+r0.5 .52 toe
+d559 1
+a559 1
+r0.5 .05 toe .88 A
+d561 1
+a561 1
+r0.5 .05 toe .88 A
+d563 1
+d571 1
+a571 1
+r0.5 .04 tear forms .90 forms
+d573 1
+a573 1
+r0.5 .04 tear forms .90 forms
+d575 1
+d582 1
+a582 1
+r0.5 .05 in her eye .84 forms
+d584 1
+a584 1
+r0.5 .05 in her eye .84 forms
+d594 1
+d596 1
+a596 1
+r0.5 .05 in .76 her
+d603 1
+a603 1
+r0.5 .76 the
+d613 6
+a618 3
+=2 9/8 4 F#)2 8 [G Ab G] [F# G Ab G]
+=3 9/8 4 D# 4. E 8 D# rest 4 E
+=4 9/8 4 Bb(1 4. Bb)1 2 c
+d623 6
+a628 5
+#=2 8 F# rest [G Ab G] [F# G Ab G]
+#=3 4 D# 4. E 2 Eb
+=2 8 F# rest [G Ab G] [Gb Fn E F]
+=3 4 D# 4. E 2 Dn(2
+=4 2 db 8 rest 2 c
+d636 4
+a639 2
+=3 8 D)2 rest [D# E D#] [Dn D# E D#(2]
+=4 4 B 4. c 4 B c(1
+d644 6
+a649 3
+=2 8 F# rest [G Ab G] [F# G Ab Bb']
+=3 4 D#)2 4. E 8 D# rest 4 E(2
+=4 2 c)1 8 rest 2 Bb'
+d654 5
+a658 3
+=2 2 c 8 rest 2 Bb'
+=3 4 E)2 8 [Eb D Eb] [En Eb D Eb]
+=4 4 A 4. Ab 4 G Ab
+d662 6
+a667 3
+=2 4/4 4. A G# 4 F#(2
+=3 4/4 8 [D C] 4 D 4. Eb 8 D(2
+=4 4/4 4. A 4 Bb 8 c 4 Bb
+d669 1
+d671 3
+a673 3
+3 systems 10 /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-22-17-22-17/
+d685 5
+a689 2
+=3 8 [D)2 C] 4 D 4. D# 8 E
+=4 4. A 4 Bb 8 c 4 Bb
+d691 1
+d695 6
+a700 3
+=2' 4. G# 4 A 8 B 4 A(2
+=3 2 F# Fn(2
+=4 8 rest Bn 4 c# 4. d 8 db
+d702 1
+d706 5
+a710 3
+=2 8 A)2 4 G 4. F# 4 G
+=3 4 F)2 2. Eb
+=4 4 c B 8 A 4 B 8 c
+d712 1
+d717 6
+a722 3
+=2 8 Ab 4 Gb 4. F 4 Gb
+=3 2 Eb Eb(2
+=4' 4 B A# 8 G# 4 A# 8 B(2
+d724 1
+d730 2
+a731 1
+=2 8 Ab 4 Gb 4. F 4 F(2
+d733 2
+a734 2
+#=4' 4 B)2 A# 8 G# 4 A# 8 Gn
+=4' 4 B)2 A# 8 G# 4 A# 8 G#
+d739 8
+a746 4
+r0.5 .05 snow .65 -
+=2 8 [F)2 F# G F#] [Fn F# G F#]
+=3 4 D 4 Eb 8 D rest 4 Eb
+=4' 2 A B
+d748 1
+d751 7
+a757 4
+r0.5 .05 flakes
+=2 8 [F E D# E] [F E D# E(2]
+=3 4 D 4. Db C(2
+=4' 4. Bb 8 rest 2 A
+d759 1
+d763 5
+a767 3
+=2 4. E)2 8 F# 4 E 8 [F# Fn(2]
+=3 4 C)2 8 D 4 C 8 D 4 C
+=4 2 G# 4 A# G#(2
+d769 1
+d774 2
+a775 1
+=2 4 F)2 4 G 8 Ab 4 G 8 F(2
+d777 3
+a779 1
+=4' 8 G#)2 4 A# 4. B 4 A#
+d784 1
+a784 1
+=2 4 F)2 4 Gb 8 Ab 4 Gb 8 F
+d786 3
+a788 1
+=4' 8 G# 4 A# 4. B 4 A#
+d790 1
+d796 6
+a801 4
+r0.5 .05 tear
+=3 4. D# 4 E 8 F# 4 E
+=4 2.. Bn 8 G#
+=5 8 [g#)1 f#] 4 g# 4. a 8 rest
+d807 2
+a808 1
+=3 8 D 4 C 4. B_ 4 C
+d810 1
+d812 1
+d814 1
+a814 1
+3 systems 10 /17-22-17-22-17-22-17-22-17 \
+d816 1
+a816 1
+ /17-22-17-22-17-22-17-22-17/
+d842 1
+a842 1
+=2  1 B_(2
+d850 1
+a850 1
+=2  1 B_)2
+d866 2
+a867 1
+=5  2 blank 1 rest
+d870 3
+a872 2
+=1 5/4 2 d 4 c# B' A#
+=2 5/4 2. d(1 2 d)1
+d879 1
+a879 1
+r0.2 .05 as .62 the
+d881 5
+a885 5
+=1 2 db c 4 Bb
+=2 1 c#(1 4 c#)1
+r0.5 .52 fla - shes
+=3 1 G#(2 4 G#)2
+r0.5 .05 spell
+d887 1
+d889 1
+a889 1
+r0.2 .05 spell
+d892 2
+a893 1
+=1' 4 Bn 4 Bb Ab G Ab
+d896 4
+a899 2
+=3' 2. G# 4 rest Ab
+=4 2. B 2 c#
+d908 3
+a910 2
+il0.7 .05 75
+=1' 2 Bn 4 A# 2 G#
+d914 3
+a916 1
+=4 4 d 2 c# 2 Bb
+d920 2
+a921 1
+=1' 4 B Bb 2 Ab 4 G
+d924 3
+a926 3
+#=3 5/4 2 Eb 4 D 2 C#
+=3 4 F)2 Eb 4 D 2 C#
+=4 4 Ab G 2. F(2
+d934 2
+a935 1
+=3 2. B_(1 2 B_)1
+@
+
+
+1.19
+log
+@sqeezed onto eight pages
+@
+text
+@d1 3
+a3 1
+3 systems 10 /17-22-17-22-17-22-17-22-17/
+d5 4
+d17 1
+a17 1
+r0.5 .60 The
+d25 2
+a26 2
+=3 8 [C# Cn] 4 C# rest 8 rest [G_ C# Cn]
+r0.5 .01 car  is  hot .70 the  car  is
+d37 1
+a37 1
+r0.5 .05 hot .82 they're
+d46 2
+a47 2
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_ C# Cn]
+r0.5 .04 on  the  run .70 they're  on  the
+d59 2
+a60 2
+=3 4/4 4 C# rest rest 8 rest G_
+r0.5 .05 run .88 Their
+d62 1
+a62 1
+r0.5 .05 run .88 Their
+d71 2
+a72 2
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_# C# Cn]
+r0.5 .01 nostrils wide .70 with wine and
+d82 2
+a83 2
+=3 4/4 4 C# rest rest 8 rest G_#
+r0.5 .05 fun .82 their
+d94 2
+a95 2
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [A_# C# Dn]
+r0.5 .04 nostrils wide .70 with wine and
+d105 3
+a107 3
+=3 4/4 4 D# rest rest 8 rest A_#
+r0.5 .05 fun .88 The
+=4 4/4 4 B rest rest 8 rest A#
+d117 2
+a118 2
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [G_# C# Cn]
+r0.5 .01 road  sings  un - .70 derneath the
+d123 8
+d139 1
+a139 1
+=3 4/4 4 C# rest rest 8 rest G_#
+d149 1
+a149 1
+=3 5/4 8 [C# Cn] 4 C# rest 8 rest [A_# C# Dn]
+d162 1
+a162 1
+=4 4/4 4 B rest rest 8 rest A#
+d174 1
+a174 1
+r0.5 .04 beach shall be
+d176 1
+a176 1
+r0.5 .04 beach shall be
+d178 1
+d185 1
+d187 1
+d189 2
+d197 1
+d199 1
+d201 1
+d211 1
+d213 1
+d220 1
+d222 1
+d231 1
+d233 1
+d237 7
+d259 1
+d281 1
+d304 1
+a304 1
+r0.5 .52 sun
+d317 1
+d321 1
+a321 1
+r0.5 .05 spell runs on
+d323 1
+a323 1
+r0.5 .05 spell runs on
+d325 1
+d330 2
+a331 1
+=3 4/4 1 F#
+d333 1
+d335 1
+d344 1
+d346 1
+d348 1
+d354 2
+a355 1
+=4 4/4 4 c  2 B' 4 G#
+d357 1
+d364 1
+d366 1
+d370 1
+d376 1
+d378 6
+a383 2
+3 systems 10 /17-22-17-22-17-22-17-22-17/
+
+d396 1
+d523 8
+d643 8
+d747 8
+@
+
+
+1.18
+log
+@good :-) just eigth bars of bass still missing
+@
+text
+@d210 1
+a210 1
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+a242 2
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d253 2
+a276 2
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+d294 3
+a303 5
+
+3 systems 10 /17-22-17-22-17-22-17-22-17/
+
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d327 2
+d331 1
+a331 1
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+a363 2
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d374 2
+a397 2
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+d420 2
+a431 2
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d468 1
+a468 1
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+a500 2
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d512 2
+a533 2
+/
+3 bars | 5/4 54 | 54 | 54 |
+d540 1
+d549 3
+d558 1
+a558 2
+/
+3 bars | 54 | 54 | 54 |
+d565 1
+d572 1
+d574 7
+a580 5
+=1 1 c)1
+=2 4. A G# 4 F#(2
+=3 8 [D C] 4 D 4. Eb 8 D(2
+=4 4. A 4 Bb 8 c 4 Bb
+=5 2. f# 4 f#(1
+d584 1
+a584 1
+r0.5 .55 The
+d594 1
+a594 1
+=4 8 rest B 4 c# 4. d 8 db
+d608 1
+a608 1
+=3 1 Eb
+d610 3
+a612 1
+=5 1 eb
+d615 1
+a615 1
+r0.5 .55 The
+d617 4
+a620 3
+=3 1 Eb
+=4' 4 B)2 A# 8 G# 4 A# 8 Gn
+=5 1 eb
+d625 4
+a628 3
+=2 9/8 8 [F)2 F# G F#] [Fn F# G F#]
+=3 9/8 4 D 4 Eb 8 D rest 4 Eb
+=4' 9/8 4 A(2 4 A)2 2 B
+d635 1
+d642 3
+d646 1
+a646 1
+=1 1 rest
+d650 1
+a650 1
+
+d675 2
+d709 2
+a731 2
+/
+3 bars |  60 | 60 | 60 |
+d752 2
+a763 2
+/
+4 bars | 60 | 50 | 55 | 45 ||
+d789 1
+a789 1
+=4 2 rest 2. G#(2
+d797 1
+a797 1
+=4 1 G#)2-fermata-dim0-dim40
 @
 
 

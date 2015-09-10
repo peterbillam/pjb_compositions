@@ -1,482 +1,45 @@
-6 systems 5 /17-20-17-20-17 /17-20-17-20-17 /17-20-17-20-17 \
- /17-20-17-20-17 /17-21-17-22-17 /17-20-17-20-17 /
-title Sometimes
-pagenum
-innerhead Peter Billam,  from Album for Choir
-leftfoot (c) 2015 Peter J Billam
-midi channel 0 patch 82
-
-/
-5 bars | 12 | 4 4 5 4 4 7 4 3 3 3 3 3 | 4 3 4 4 4 5 4 3 3 3 3 3 \
- | 4 4 6 4 4 5 4 3 3 3 3 3 | 4 4 3 4 4 6 4 3 3 3 3 3 |
-| .80
-=1 treble     cha0 4. G
-r0.3 .07 Some -
-=2 treble8vab cha0 
-=3 bass       cha0 
-| 2.4
-=1 4 C# 8 D 4 E 8 D 4. G# rest
-r0.3 .03 times I think I do
-=2 2. rest 4. rest c
-r0.5 .75 I
-=3 2. rest 4. rest e
-|
-=1 2. rest 4. rest E
-r0.3 .71 Some -
-=2 4. db 4 db 8 c(1 4. c)1 rest
-r0.5 .01 think .27 I .43 do
-=3 4. f  4 f  8 e(1 4. e)1 rest
-|
-=1 4 A 8 G 4 F# 8 G 4. D# rest
-r0.3 .03 times I think   I  don't
-=2 2. rest 4. rest A
-r0.5 .75 I
-=3 2. rest 4. rest f 
-
-|
-=1 2. rest 4. rest G
-r0.4 .75 Some -
-=2' 4. A# 4 A# 8 B(2 4. B)2 rest
-r0.5 .01 think .28 I .44 don't
-=3  4. f# 4 f# 8 g(1 4. g)1 rest
-/
-5 bars | 4 4 5 4 4 7 4 3 3 3 3 3 | 4 3 4 4 4 5 4 3 3 3 3 3 \
- | 4 4 7 4 4 5 4 3 3 3 3 3 | 4 3 4 4 4 5 4 3 3 3 3 3 | 4 4 5 4 4 7 4 4 6 3 3 3 |
-|
-il0.5 .03 5
-=1 4 C# 8 D 4 E 8 D 4. G# rest
-r0.3 .03 times I think I will
-=2 2. rest 4. rest c
-r0.4 .81 I
-=3 2. rest 4. rest e
-|
-=1 2. rest 4. rest E
-r0.4 .74 Some -
-=2 4. c# 4 d 8 c#(1 4. c)1 rest
-r0.5 .01 think .25 I .41 will
-=3 4. f  4 f# 8 g(1 4. g)1 rest
-|
-=1' 4 A 8 G 4 Fn 8 G 4. B rest
-r0.4 .03 times I think I won't
-=2 2. rest 4. rest d
-r0.5 .81 I
-=3 2. rest 4. rest f#
-|
-=1 2. rest 4. rest F#
-r0.4 .71 Some -
-=2 4. d# 4 e 8 d#(1 4. d)1 rest
-r0.6 .01 think .25 I .41 won't
-=3 4. g  4 g# 8 a(1 4. a)1 rest
-|
-=1' 4 B 8 A 4 G 8 A 4 Fn 8 F 4. rest
-r0.4 .02 times I think I   didn't
-=2 2. rest 4. rest 4 rest 8 f
-r0.6 .87 I
-=3 2. rest 4. rest ab
-/
-5 bars | 4 4 3 4 4 5 4 4 5 3 3 3 | 4 4 7 4 4 7 4 3 3 3 3 3 \
- |4 4 3 4 4 5 4 3 3 3 3 3 |4 4 7 4 4 6 4 3 3 3 3 3 |4 4 3 4 4 5 4 3 3 3 3 3 |
-|
-il0.5 .03 10
-=1' 2. rest 4. rest B
-r0.5 .75 Some -
-=2 4. e  4 eb 8 d(1 4 d)1 8 d  4. rest
-r0.5 .01 think .26 I .44 didn't
-=3 4. g  4 g 8 f#(1 4 f)1 8 f# 4. rest
-|
-=1 4 F 8 F# 4 G# 8 F# 4. c rest
-r0.5 .03 times  I think I   did
-=2  2. rest 4. rest d
-r0.5 .80 I
-=3  2. rest 4. rest f#
-|
-=1' 2. rest 4. rest c
-r0.5 .73 Some -
-=2 4. d# 4 e 8 d#(1 4. d)1 rest
-r0.6 .01 think .27 I .44 did
-=3  4. g 4 g#  8 a(1 4. a)1 rest
-|
-=1' 4 F 8 F# 4 G# 8 F# 4. B rest
-r0.5 .03 times it's all on show
-=2 2. rest 4. rest d#
-r0.6 .75 It's
-=3 2. rest 4. rest g
-|
-=1 2. rest 4. rest G
-r0.6 .73 Some -
-=2 4. e  4 e 8 f(1 4. f)1 rest
-r0.6 .01 all .25 on .41 show
-=3 4. g# 4 g# 8 a(1 4. a)1 rest
-/
-6 bars | 4 4 5 4 4 7 4 3 3 3 3 3 | 4 4 3 4 4 5 3 2 2 3 2 2 \
- |10 11 8 8 | 3 3 2 3 3 2 4 4 5 3 3 3 | 25 | 22 16 |
-|
-il0.5 .35 15
-=1' 4 B 8 A 4 G 8 A 2. c#(1
-r0.5 .03 times I keep it hid
-=2 2. rest 4. rest f
-r0.6 .80 I
-=3 2. rest 4. rest a
-
-|
-=1 1. c#)1
-=2 4. f#  4 f# 8 g(1 2. g)1
-r0.6 .01 keep .28 it .44 hid
-=3 4. a# 4 a# 8 b(1 2. b)1
-|
-=1 4. rest A 2. d(1
-r0.6 .25 It's .5 mine  .   .   .
-=2 4. rest g 2. f#(1
-r0.7 .25 It's .56 mine  .   .   .
-=3 4. rest a 2. bb(2
-|
-=1 2. d)1  4 rest 8 A#(2 4. A)2
-r0.6 .64 It's
-=2 2. f#)1 4 rest 8 f#(1 4. f)1
-r0.7 .64 It's
-=3 2. bb)2 4 rest 8 d~(2 4. d~)2
-|
-=1 1. B
-r0.6 .02 mine  .   .   .
-=2 1. g
-r0.7 .02 mine  .   .   .
-=3 1. c~#
-
-|
-il0.5 .03 20
-=1' 4. rest F# 2. B(2
-r0.5 .27 It's .56 mine .  .  .
-=2 4. rest e 2. d#(1
-r0.6 .28 It's .56 mine .  .  .
-=3 4. rest bb 2. g(1
-/
-5 bars | 16 15 | 20 | 11 11 10 12 \
- | 4 4 7 4 3 3 4 3 3 3 3 3 | 4 4 5 4 4 5 4 3 3 3 3 3 |
-|
-=1' 2. B)2  G
-r0.5 .50 It's
-=2 2. d#)1 d#
-r0.6 .50 It's
-=3 2. g)1  b
-|
-=1 1. G#
-r0.5 .03 mine  .   .   .
-=2 1. e
-r0.6 .03 mine  .   .   .
-=3 1. bb
-|
-=1  4. rest B' c# 4 G 8 G# 
-r0.5 .25 It's .50 my .75 tin .90 of
-=2 4. rest e e 4 d 8 d
-r0.5 .25 It's .50 my .75 tin .90 of
-=3 4. rest ab g 4 e 8 f
-
-|
-=1 4 B' 8 c#(1 4. c#)1 rest d
-r0.5 .02 can - dy .76 my
-=2 4 d# 8 e(1  4. e)1 rest c
-r0.6 .02 can - dy .76 my
-=3 4 f# 8 g(1  4. g)1 rest f#
-|
-il0.5 .23 25
-=1 4 d# 8 B 4 G 8 B'(2 2. B')2(2
-r0.6  .03 bottle .29 of .46 wine
-=2 4 B' 8 d# 4 f 8 gb(2 4. g)2 f(1
-r0.7  .05 bottle .29 of .46 wine .80 bot .96 -
-=3 4 fn 8 a 4 b 8 ab(1 2. a)1{1
-/
-4 bars | 4 4 6 4 3 3 4 3 3 4 4 4 | 3 2 2 3 2 2 4 3 5 3 3 3 \
- | 4 4 5 4 4 5 4 4 5 4 4 4 | 4 4 6 4 4 5 4 4 6 4 4 4 |
-|
-=1 2. B')2 rest
-=2 4 f)1 8 e 4. eb{'1 d}'1(1 4 d)1 8 c#(1
-r0.5 .05 - .17 tle  of .86 wine
-=3 2. g}1 4. gb{1 4 f}1 8 e(1
-r0.2 .54 of .90 wine
-
-|
-# 65 sec
-=1 2. rest 4. rest G
-r0.5 .75 This
-=2 2. c#)1(1 4 c)1  8 rest 4. G
-r0.5 .75 This
-=3 2. e)1(1  4 e)1  8 rest 4. c#
-|
-=1 4 E 8 F# 4 A 8 G 2. rest
-r0.5  stuff could kill me
-=2' 4 A# 8 A# 4 B 8 B 4 rest 8 B 4 B 8 B
-r0.5  stuff could kill me .59 this stuff could
-=3 4 d 8 d 4 d 8 d# 4 rest 8 d# 4 e 8 d#
-|
-=1 4. rest  4 A  8 A  4 F# 8 G# 4 B'  8 A(2
-r0.5 .25 shouldn't have it .75 to  hand
-=2 4 B' 8 B' 4 A 8 A 4 c 8 c 4 c# 8 c#
-r0.5 .01 kill me ,  shouldn't have it .75 to  hand
-=3 4 e 8 d# 4 d# 8 d# 4 e 8 e 4 e 8 f
-
-6 systems /17-20-17-20-17 /17-20-17-20-17 /17-20-17-20-17 \
- /17-20-17-20-17 /17-20-17-20-17 /17-20-17-20-17
-pagenum
-innerhead Peter Billam,  Album for Choir,  Sometimes
-leftfoot (c) 2015 Peter J Billam
-
-/
-4 bars  | 4 4 5 4 4 5 4 4 6 4 3 3 | 4 4 5 4 4 5 4 4 6 4 4 4 \
- | 4 4 6 4 4 5 4 4 5 4 3 3 | 8 7 8 8 |
-|
-il0.5 .03 30
-=1 2. A)2 4. rest G#
-r0.5 .78 so
-=2 4 rest 8 c# 4 d 8 c# 4 d 8 c# 4. d
-r0.5 .19 I shouldn't have it , .78 so
-=3 4 rest 8 f  4 f 8 f  4 f 8 f  4. f#
-|
-=1 4 F 8 F# 4 A 8 G# 4. B' rest
-r0.5 .03 better .26 use .42 it .50 up
-=2 4 d  8 d  4 d 8 eb 4 rest 8 f 4 f 8 f
-r0.5 .03 better .26 use .42 it
-r0.7 .66 as  fast .92 as
-=3 4 g# 8 a# 4 b 8 b  4 rest 8 b 4 c~# 8 b
-r0.01 .66 as  fast .92 as
-|
-=1 4 rest 8 G 4 G# 8 A# 4 B' 8 c#(1 4. c)1(1
-r0.6 .18 as fast .43 as .54 I .69 can
-=2 4. f rest 4 rest 8 f(1 4. f)1(1
-r0.7 .04 I .69 can
-=3 4. c~# b  4 rest 8 a(1 4. a)1(1
-r0.01 .04 I .27 can .69 can
-# This stuff could kill me , shouldn't have it to hand
-# so better use it up , as fast as I can ...
-|
-=1 2. c#)1 4. rest G
-r0.5 .69 Some -
-=2 2. f)1(1 4. f)1 rest
-=3 2. a)1(1 4. a)1 rest
-
-/
-5 bars | 4 4 5 4 4 7.5 4 4 5.5 3 3 3 | 4 4 3 4 4 4.5 4 4 5 3 3 3 \
- |4 4 7 4 4 5 4 3 3 3 3 3 \
- |4 3 3 4 4 4.5 4 3 3 3 3 3 |4 4 5 4 4 7.5 4 4 5.5 3 3 3 |
-|
-=1 4 C# 8 D 4 E 8 D 4 G# 8 G# 4. rest
-r0.3 .03 times I think I shouldn't
-=2 2. rest 4. rest c
-r0.5 .85 I
-=3 2. rest 4. rest e
-|
-il0.5 .03 35
-=1 2. rest 4. rest E
-r0.4 .76 But
-=2 4. db 4 db 8 c(1 4 c)1 8 c 4. rest
-r0.5 .01 think .25 I .41 shouldn't
-=3 4. f  4 f  8 e(1 4 e)1 8 e 4. rest
-|
-=1 4 A 8 G 4 F# 8 G 4. D# rest
-r0.4 .01 then I think I should
-=2 2. rest 4. rest A
-r0.6 .79 I
-=3 2. rest 4. rest f 
-|
-=1 2. rest 4. rest G
-r0.4 .71 Some -
-=2' 4. A# 4 A# 8 B(2 4. B)2 rest
-r0.6 .01 think .25 I .41 should
-=3  4. f# 4 f# 8 g(1 4. g)1 rest
-|
-=1 4 C# 8 D 4 E 8 D 4 G# 8 G# 4. rest
-r0.3 .01 times I think  I couldn't
-=2 2. rest 4. rest c
-r0.3 .85 I
-=3 2. rest 4. rest e
-/
-5 bars |4 4 3 4 4 5 4 4 5 3 3 3 |4 4 6 4 4 5 4 4 3 3 3 3 \
- |4 3 3 4 4 5 4 3 3 3 3 3 |4 4 5 4 4 6 4 4 5 4 4 4 |4 4 5 4 4 7 4 4 5 3 3 3 |
-|
-=1 2. rest 4. rest E
-r0.5 .74 Some -
-=2 4. c# 4 d 8 c#(1 4 c)1 8 c# 4. rest
-r0.5 .01 think .27 I .43 couldn't
-=3 4. f  4 f# 8 g(1 4 g)1  8 g  4. rest
-|
-il0.5 .23 40
-=1' 4 A 8 G 4 Fn 8 G 4. B rest
-r0.5 .03 times I think I could
-=2 2. rest 4. rest d
-r0.5 .83 I
-=3 2. rest 4. rest f#
-|
-=1 2. rest 4. rest F#
-r0.5 .81 I
-=2 4. d# 4 e 8 d#(1 4. d)1 rest
-r0.6 .01 think .25 I .41 could
-=3 4. g  4 g# 8 a(1 4. a)1 rest
-|
-=1' 4 B 8 A 4 G 8 A 4 Fn 8 F 4. rest
-r0.5 .03 think maybe I hadn't
-=2 2. rest 4. rest 4 rest 8 f
-r0.5 .83 I
-=3 2. rest 4. rest ab
-|
-=1' 2. rest 4. rest B
-r0.6 .79 But
-=2 4. e  4 eb 8 d(1 4 d)1 8 d 4. rest
-r0.5 .01 think .27 I .44 had - n't
-=3 4. g  4 g 8 f#(1 4 f)1 8 f# 4. rest
-/
-5 bars | 4 4 7 4 4 6 4 4 3 3 3 3 | 4 4 3 4 4 5.5 4 3 3 3 3 3 \
- |4 4 7 4 4 6 4 4 3 3 3 3 |4 4 3 4 4 5.5 4 3 3 3 3 3 \
- |4 4 5 4 4 7.5 4 3 3 3 3 3 |
-|
-=1 4 F 8 F# 4 G# 8 F# 4. c rest
-r0.4 .03 then I know I had
-=2  2. rest 4. rest d
-r0.5 .81 I
-=3  2. rest 4. rest f#
-|
-il0.5 .03 45
-=1' 2. rest 4. rest c
-r0.5 .71 At
-=2 4. d# 4 e 8 d#(1 4. d)1 rest
-r0.6 .01 know  I .42 had
-=3  4. g 4 g#  8 a(1 4. a)1 rest
-|
-=1' 4 F 8 F# 4 G# 8 F# 4. B rest
-r0.4 .03 first it seems O. K.
-=2 2. rest 4. rest d#
-r0.5 .79 It 
-=3 2. rest 4. rest g
-|
-=1 2. rest 4. rest G
-r0.5 .79 But
-=2 4. e  4 e 8 f(1 4. f)1 rest
-r0.5 .01 seems  O. K.
-=3 4. g# 4 g# 8 a(1 4. a)1 rest
-|
-=1' 4 B 8 A 4 G 8 A 2. c#(1
-r0.5 .01 then I know it's bad
-=2 2. rest 4. rest f
-r0.5 .81 I
-=3 2. rest 4. rest a
-/
-7 bars | 4 4 3 4 4 5 3 2 2 3 2 2 | 10 12 8 8 | 3 3 2 3 3 2 4 4 5 3 3 3 \
- | 26 | 10 12 8 8 | 20 19 | 26 |
-|
-=1 1. c#)1
-=2 4. f#  4 f# 8 g(1 2. g)1
-r0.7 .01 know  it's bad
-=3 4. a# 4 a# 8 b(1 2. b)1
-|
-il0.5 .03 50
-=1 4. rest A 2. d(1
-r0.6 .25 It's .5 mine  .   .   .
-=2 4. rest g 2. f#(1
-r0.7 .25 It's .5 mine  .   .   .
-=3 4. rest a 2. bb(1
-|
-=1 2. d)1  4 rest 8 A#(2 4. A)2
-r0.6 .67 It's
-=2 2. f#)1 4 rest 8 f#(1 4. f)1
-r0.7 .67 It's
-=3 2. bb)1 4 rest 8 d~(2 4. d~)2
-|
-=1 1. B
-r0.6 .03 mine  .   .   .
-=2 1. g
-r0.7 .03 mine  .   .   .
-=3 1. c~#
-
-|
-=1' 4. rest F# 2. B(2
-r0.5 .27 It's .53 mine  .   .   .
-=2 4. rest e 2. d#(1
-r0.6 .27 It's .53 mine  .   .   .
-=3 4. rest bb 2. g(1
-
-|
-=1' 2. B)2  G
-r0.5 .50 It's
-=2 2. d#)1 d#
-r0.6 .50 It's
-=3 2. g)1  b
-|
-il0.5 .03 55
-=1 1. G#
-r0.5 .03 mine  .   .   .
-=2 1. e
-r0.7 .03 mine  .   .   .
-=3 1. bb
-/
-5 bars | 4 3 3 4 4 3 4 3 3 4 4 4 | 4 4 5 4 3 3 4 3 3 3 3 3 \
- |4 4 5 4 4 5 4 4 6 3 3 3 |4 4 5 4 4 5 4 4 7 3 3 3 |4 3 3 4 4 5 3 3 3 3 3 3 ||
-|
-=1  4. rest B' c# 4 G 8 G# 
-r0.5 .25 It's .50 my .75 tin .90 of
-=2 4. rest e e 4 d 8 d
-r0.5 .25 It's .50 my .75 tin .90 of
-=3 4. rest ab g 4 e 8 f
-
-|
-=1 4 B' 8 c#(1 4. c)1 rest d
-r0.5 .05 candy .75 my
-=2 4 d# 8 e(1  4. e)1 rest c
-r0.5 .05 candy .75 my
-=3 4 f# 8 g(1  4. g)1 rest f#
-
-|
-=1 4 eb 8 B 4 A 8 G#(2 4 G)2 8 rest 4. d
-r0.5  .02 bottle .27 of .42 wine .81 my
-=2 4 B 8 eb 4 d 8 c(1 4 c)1 8 rest 4. c
-r0.5  .02 bottle .27 of .42 wine .81 my
-=3 4 fn 8 f# 4 g 8 f#(1 4 f)1 8 rest 4. f#
-
-|
-=1 4 eb 8 B 4 G 8 B'(2 2. B')2(2
-r0.5  .02 bottle .27 of .42 wine
-=2 4 B 8 eb 4 f 8 gb(2 4 g)2 8 rest 4. en
-r0.6 bottle .27 of .42 wine .81 bot .95 -
-=3 4 fn 8 a 4 b 8 ab(1 4 a)1 8 g    4. gb
-r0.10 .67 my bot  -
-| 1.3 3.0
-il0.5 .03 60
-=1 1. B')2
-=1 2. blank blank-fermata
-=2 4. eb 4 d 8 c#(1 2. c)1-fermata
-r0.6  tle .25 of .43 wine
-=3 4. f  4 e 8 d#(1 2. d)1-fermata
-r0.10 tle .25 of .43 wine
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
 
 
+1.4
+date	2015.09.09.09.47.00;	author pjb;	state Exp;
+branches;
+next	1.3;
 
-midi pause 4.0
+1.3
+date	2015.09.09.03.18.11;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.09.08.06.43.20;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.09.03.05.00.11;	author pjb;	state Exp;
+branches;
+next	;
 
 
-# Sometimes I think I do, sometimes I think I don't
-# Sometimes I think I will, sometimes I think I won't
-# Sometimes I think I didn't, sometimes I think I did
-# Sometimes it's all on show, sometimes I keep it hid
-# It's mine, it's mine
-# It's my tin of candy, it's my bottle of wine
+desc
+@The Spell, just moved her efrom ./sketches/
+@
 
-# (middle-8 ? ...)
-## this stuff's a danger  - dangerous - could kill me  
-## shouldn't have it - in the house - here - around - at hand
-## better use it up - get through it
-## as fast as I can
-# This stuff could kill me , shouldn't have it to hand
-# so better use it up , as fast as I can ...
 
-# sometimes I think I shouldn't, sometimes I think I should
-# sometimes I think I wouldn't, but then I think I would
-# I think maybe I hadn't, but then I know I had
-# at first it seems OK, but then I know it's bad
-# It's mine, it's mine
-# It's my tin of candy, it's my bottle of wine
-
-# # shouldn't  should  couldn't    could
-# # might not  might   behind closed doors  in plain sight
-3 systems 10 /17-22-17-22-17-30-17-22-17 \
- /17-22-17-22-17-31-17-22-17 \
- /17-22-17-22-17-31-17-22-17/
+1.4
+log
+@spaced up to end; plausible ?
+@
+text
+@3 systems 10 /17-22-17-22-17-30-17-22-17 \
+ /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17/
 title The Spell
 pagenum
 innerhead Peter Billam,  The Spell
@@ -559,7 +122,7 @@ r0.5 .52 wine
 r0.5 .05 wide .76 with
 =3 4/4 4 Db rest rest 8 rest A_b
 r0.4 .05 fun
-r0.4 .82 their
+r0.3 .82 their
 =4 4/4 4 A rest rest 8 rest G#
 r0.5 .05 fun .82 their
 =5 4/4 4 rest 2. A
@@ -569,8 +132,7 @@ r0.2 .27 wine
 =2 5/4 2. F# 2 G#
 r0.5 .04 wine .60 and
 =3 5/4 8 [Db C] 4 Db rest 8 rest [A_# C# Dn]
-r0.5 .04 nostrils wide
-r0.4 .62 with wine and
+r0.3 .04 nostrils wide .62 with wine and
 =4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
 r0.5 .04 nostrils wide .62 with wine and
 =5 5/4 2 rest 2. B
@@ -620,7 +182,7 @@ r0.1 .28 road
 =2 5/4 2. F# 2 E
 r0.5 .04 neath .60 the
 =3 5/4 8 [Db C] 4 Db rest 8 rest [B_b C# Dn]
-r0.4 .03 road sings un .40 - .65 derneath the
+r0.5 .03 road sings un .40 - .65 derneath the
 =4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
 r0.5 .03 road sings un .40 - .65 derneath the
 =5 5/4 2 rest 2. B
@@ -809,7 +371,7 @@ r0.5 .08 spell .66 runs
 =2 5/4 2. c(1 2 c)1
 r0.5 .08 spell
 =3 5/4 1 D 4 E
-r0.6 .08 spell .80 runs
+r0.5 .08 spell .80 runs
 =4 5/4 1 F#
 r0.6 .08 spell
 =5 5/4 2. G# 2 A
@@ -832,7 +394,7 @@ r0.6 .09 on .66 a .90 -
 =2 5/4 2. A 2 G#
 r0.6 .09 on .65 a .88 -
 =3 5/4 2. F# 4 rest F#
-r0.6  .07 head .81 the
+r0.6  - .07 head .81 the
 =4 5/4 2. A 2 B'
 r0.6 .09 on .66 a .90 -
 =5 5/4 2 c 2. d'
@@ -904,7 +466,7 @@ r0.5 .09 cud .38 - .59 dled
 =3 5/4 4 Eb 8 D 4. Eb 8 rest [A_ Eb D]
 r0.4 .09 cuddle .35 close .68 they cuddle
 =4' 5/4 4 B 8 B 4. B 8 rest [A B B]
-r0.7 .09 cuddle .35 close .68 they cuddle
+r0.6 .09 cuddle .35 close .68 they cuddle
 =5 5/4 2 rest 2. B
 r0.1 .44 close
 | 2.0
@@ -915,8 +477,7 @@ r0.5 .53 close
 =3 4/4 4 Eb rest rest 8 rest A_
 r0.4 .07 close .76 they're
 =4' 4/4 4 B rest F 8 rest A
-r0.7 .07 close
-r0.6 .50 close .76 they're
+r0.6 .07 close .50 close .76 they're
 =5 4/4 4 rest 2. B
 r0.1 .29 close
 | 2.5
@@ -946,7 +507,7 @@ r0.1 .30 low
 
 3 systems 10 /17-22-17-22-17-30-17-22-17 \
  /17-22-17-22-17-30-17-22-17 \
- /17-22-17-22-17-28-17-25-17/
+ /17-22-17-22-17-28-17-22-17/
 pagenum
 innerhead Peter Billam,  The Spell
 leftfoot (c) 2015 Peter J Billam
@@ -977,7 +538,7 @@ r0.5 .08 warm .48 warm .84 with
 r0.1 .27 warm
 | 2.5
 =1 5/4 2. G# 2 A#
-r0.5 .08 af .37 - .57 ter .85 -
+r0.5 .08 af .37 - .57 ter
 =2 5/4 2. rest 2 rest
 =3 5/4 4 Eb 8 D 4. Eb 8 rest [C Eb En]
 r0.5 .08 af - ter - glow .70 with after -
@@ -1069,9 +630,9 @@ r0.5 .10 in .73 her
 =2' 4/4 2 rest 4. <A c> 8 rest
 r0.6 .53 be
 =3  4/4 8 [E E] 4 E rest 8 rest D#
-r0.5 .08 in  her eye .76 forms
+r0.5 .09 in  her eye .76 forms
 =4  4/4 8 [c B] 4 c rest 8 rest A
-r0.5 .08 in her  eye .76 forms
+r0.5 .09 in  her eye .76 forms
 =5  4/4 2 rest c
 r0.2 .52 her
 | 2.5
@@ -1220,29 +781,29 @@ r0.2 .05 fire .50 burns
 =1' 2 rest Bb
 r0.6 .51 the
 =2 8 Ab 4 Gb}'1 4. F 4 F(2
-r0.6 .41 the .74 snow
+r0.6 .41 the .74 snow .90 -
 =3 2 Eb)2 rest
 =4' 4 B)2{'1 A# 8 G# 4 A#}'1 8 G#{'1
-r0.6 .85 the
+r0.5 .85 the
 =5 2 eb)1 rest
 |
 il0.7 .05 60
 =1' 1 A
 r0.7 .02 snow .65 -
 =2 8 [F)2{'1 F# G F#}'1] [Fn{'1 F# G F#}'1]
-r0.6 .10 - .55 flakes ,
+r0.6 .55 flakes ,
 =3 4 D{'1 4 Eb 8 D}'1 rest 4 Eb{'1
 r0.6 .03 the
-r0.7 .73 snow
+r0.7 .73 snow .95 -
 =4' 2 A}'1 B{'1
-r0.6 .52 snow .85 -
+r0.6 .52 snow .65 -
 =5  1 a
 r0.1 .03 snow .65 -
 |
 =1' 1 G
 r0.7 .02 flakes
-=2 8 [Fn{'1 E D# E}'1] [F{'1 E D# E}'1(2]
-r0.6 .02 snow .30 - .50 flakes
+=2 8 [F{'1 E D# E}'1] [F{'1 E D# E}'1(2]
+r0.6 .02 snow .50 flakes
 =3 4 D 4. Db}'1 C(2
 r0.4 .63 flakes
 =4' 4. Bb}'1 8 rest 2 A
@@ -1288,7 +849,7 @@ r0.6 .05 a
 =4' 8 G# 4 A#}'1 4. B{'1 4 A#
 r0.7 .41 tear
 =5 1 g#(1
-r0.2 .04 a
+r0.2 .04 a .70 -
 |
 il0.7 .05 65
 =1  1 Gb
@@ -1335,7 +896,7 @@ r0.4 .05 her
 =3 4. D#{'1 4 E 8 F# 4 E}'1
 r0.5 .05 her
 =4 8 [G#)2{'1 F#] 4 G#}'1 4. A{'1 8 G#
-r0.6 .58 eye
+r0.6 .55 eye
 =5 1 gb)1
 
 |
@@ -1384,7 +945,7 @@ r0.2 .09 spell .62 the
 r0.6 .03 spell
 =2 1 c#}'1(1 4 c#)1
 =3 1 G#(2 4 G#)2(2
-r0.6 .03 spell
+r0.5 .03 spell
 =4 1 A#(2 4 A#)2
 r0.6 .03 spell
 =5 1 c#(2 4 c#)2
@@ -1426,7 +987,7 @@ r0.6 .03 spell .40 fla .65 - .80 shes
 r0.6 .03 spell
 =3 4 F)2{'1 Eb 4 D 2 C#}'1
 =4 4 Ab}'1 G 2. F(2
-r0.5 .21 shes  by
+r0.5 .21 shes .40 by
 =5 1 eb
 r0.2 .03 fla .60 -
 | 2.7
@@ -1438,14 +999,14 @@ r0.6 .03 fla .32 - .60 shes
 r0.4 .03 fla .32 - .60 shes
 =4 2. F)2 rest
 =5' 2. d(2 2 d)2
-r0.2 .02 shes
+r0.2   - .02 shes
 
 | 2.8
 =1 4 F)2 1 rest
 =2 2. F(2 2 F)2(2
 r0.5 .05 by  .   .   .
-=3 2 rest 2. B_b(2
-r0.4 .42 by  .   .   .
+=3 2 rest 2. B_b(1
+r0.3 .42 by  .   .   .
 =4 2 rest 2. Ab(2
 r0.5 .42 by  .   .   .
 =5 2. c#(2 2 c#)2(2
@@ -1453,7 +1014,1057 @@ r0.2 .05 by  .   .   .
 | 3.5
 =1 1 rest-fermata-dim0-dim40
 =2 1 F)2-fermata-dim0-dim40
-=3 1 B_b)2-fermata-dim0-dim40
+=3 1 B_b)1-fermata-dim0-dim40
 =4 1 Ab)2-fermata-dim0-dim40
 =5 1 c#)2-fermata-dim0-dim40
 
+@
+
+
+1.3
+log
+@horizontal spacing up to bar 36
+@
+text
+@d477 2
+a478 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d481 1
+a481 1
+r0.5 .05 bed .60 is
+d484 1
+a484 1
+r0.5 .05 bed is warm .70 the bed is
+d486 1
+a486 1
+r0.5 .05 bed is warm .70 the bed is
+d488 1
+a488 1
+r0.2 .42 warm
+d491 1
+a491 2
+r0.5 .05 warm .76 with
+#=2, 4/4 2 rest 8 <B(2 d> 4 <B)2 eb> 8 rest
+d493 1
+a493 1
+r0.5 .52 warm
+d495 1
+a495 1
+r0.5 .05 warm .84 with
+d497 1
+a497 1
+r0.5 .05 warm .53 warm .84 with
+d499 1
+a499 1
+r0.2 .27 warm
+d502 1
+a502 1
+r0.5 .09 af .38 - .60 ter
+d505 1
+a505 1
+r0.5 .08 af - terglow .70 with after -
+d507 2
+a508 1
+r0.5 .08 af - terglow .70 with after -
+d510 1
+a510 1
+r0.2 .42 glow
+d512 1
+a512 1
+il0.7 .05 40
+d514 1
+a514 1
+r0.5 .05 glow .75 Their
+d522 1
+a522 1
+r0.2 .27 glow
+d525 2
+a526 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d529 1
+a529 1
+r0.5 .05 bo .35 - .60 dies
+d533 2
+a534 2
+=4 5/4 4 B 8 B 4. B 8 rest [A# B' B']
+r0.5 .05 bo - dies touch .65 from head to
+d539 1
+a539 1
+r0.5 .05 touch .74 from
+d541 1
+a541 1
+r0.5 .54 toe
+d545 1
+a545 1
+r0.5 .08 toe .54 toe .82 their
+d547 1
+a547 1
+r0.2 .31 head
+d555 1
+a555 1
+r0.5 .08 bodies touch .65 from head to
+d557 2
+a558 1
+r0.5 .08 bodies touch .65 from head to
+d562 2
+a563 3
+=1 4/4 2 Bb 4 rest G#
+r0.5 .09 toe .76 A
+#=2 4/4 2 rest 8 <c#(2 e> 4 <c#)2 f> 8 rest
+d565 1
+a565 1
+r0.5 .54 toe
+d569 1
+a569 1
+r0.5 .09 toe .54 toe .88 A
+d574 2
+a575 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 | 9/8 54 |
+d577 1
+a577 1
+il0.7 .05 45
+d579 1
+a579 1
+r0.5 .04 tear .78 forms
+d581 1
+a581 1
+r0.5 .64 tear
+d583 1
+a583 1
+r0.5 .07 tear  forms .84 forms
+d585 1
+a585 1
+r0.5 .07 tear  forms .84 forms
+d587 1
+a587 1
+r0.2 .44 tear
+d590 1
+a590 1
+r0.5 .07 in .75 her
+d592 1
+a592 1
+r0.5 .52 be
+d594 1
+a594 1
+r0.5 .06 in  her eye .80 forms
+d596 1
+a596 1
+r0.5 .06 in  her eye .80 forms
+d601 1
+a601 1
+r0.5 .05 eye
+d606 1
+a606 1
+r0.5 .05 in .79 her
+d611 1
+a611 1
+r0.5 .28 the
+d613 1
+a613 1
+r0.5 .76 fields
+d617 1
+a617 1
+r0.5 .05 eye .76 the
+d622 1
+a622 1
+r0.5 .05 fields
+d624 1
+a624 1
+r0.5 .34 in .64 waves .96 -
+d626 1
+a626 1
+r0.5 .05 fields   .   .   .
+d628 1
+a628 1
+r0.5 .05 fields
+d631 3
+a633 3
+3 systems 10 /17-22-17-27-17-28-17-25-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-33-17-22-17/
+d639 2
+a640 1
+4 bars | 54 | 54 | 54 | 54 |
+d645 1
+a645 1
+r0.5 .30 in .62 waves .92 -
+d649 1
+a649 1
+r0.5 .53 run
+d653 1
+a653 1
+r0.5 .05 run
+d656 1
+a656 1
+r0.5 .30 in .62 waves .92 -
+d658 1
+a658 1
+r0.5 .60 in .92 -
+d662 1
+a662 1
+r0.5 .05 in
+d664 1
+a664 1
+r0.5 .30 in .62 waves .92 -
+d666 1
+a666 1
+r0.6 .75 run
+d668 1
+a668 1
+r0.5 .52 waves .92 -
+d672 1
+a672 1
+r0.5 .05 waves
+d674 1
+a674 1
+r0.5 .50 fields
+d676 1
+a676 1
+r0.6 .30 in .62 waves .92 -
+d680 2
+a681 1
+5 bars | 4/4 48 | 48 | 48 | 48 | 48 |
+d685 1
+a685 1
+r0.5 .07 run .76 in
+d687 1
+a687 1
+r0.5 .53 in .80 waves
+d691 1
+a691 1
+r0.2 .07 run .76 in
+d693 1
+a693 1
+il0.7 .05 55
+d695 1
+a695 1
+r0.5 .51 The
+d697 1
+a697 1
+r0.5 .76 The
+d699 1
+a699 1
+r0.5 .54 The
+d706 1
+a706 1
+r0.5 .05 log
+d708 1
+a708 1
+r0.5 .05 log
+d710 1
+a710 1
+r0.5 .05 log
+d712 1
+a712 1
+r0.5 .11 The .56 log
+d714 1
+a714 1
+r0.2 .76 The
+d718 1
+a718 1
+r0.5 .05 fire
+d720 1
+a720 1
+r0.5 .40 fire
+d722 1
+a722 1
+r0.5 .28 fire
+d728 1
+a728 1
+r0.5 .05 burns
+d730 1
+a730 1
+r0.5 .40 burns
+d732 1
+a732 1
+r0.5 .50 burns
+d734 1
+a734 1
+r0.5 .05 fire .84 burns
+d739 2
+a740 1
+4 bars | 48 | 48 | 48 | 48 |
+d743 1
+a743 1
+r0.5 .51 The
+d745 1
+a745 1
+r0.5 .41 The .74 snow .90 -
+d753 1
+a753 1
+r0.6 .02 snow .65 -
+d755 1
+a755 1
+r0.5 .55 flakes ,
+d757 1
+a757 1
+r0.6 .05 the
+d760 1
+a760 1
+r0.5 .55 snow .65 -
+d762 1
+a762 1
+r0.2 .03 snow .65 -
+d765 1
+a765 1
+r0.6 .02 flakes
+d767 1
+a767 1
+r0.5 .02 snow .50 flakes
+d771 1
+a771 1
+r0.5 .53 flakes
+d773 1
+a773 1
+r0.2 .05 flakes
+d776 1
+a776 1
+r0.5 .05 fall
+d778 1
+a778 1
+r0.5 .37 fall
+d781 1
+a781 1
+r0.5 .05 fall
+d783 1
+a783 1
+r0.2 .05 fall
+d785 3
+a787 3
+3 systems 10 /17-22-17-27-17-28-17-25-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-33-17-22-17/
+d793 2
+a794 1
+5 bars | 48 | 48 | 48 | 48 | 48 |
+d798 1
+a798 1
+r0.5 .83 a
+d802 1
+a802 1
+r0.5 .41 a
+d806 1
+a806 1
+r0.5 .05 a
+d809 1
+a809 1
+r0.5 .05 a
+d811 1
+a811 1
+r0.6 .38 tear
+d817 1
+a817 1
+r0.5 .05 tear
+d819 1
+a819 1
+r0.6 .02 tear
+d821 1
+a821 1
+r0.6 .05 tear
+d824 1
+a824 1
+r0.5 .27 tear
+d827 1
+a827 1
+r0.5 .05 forms
+d833 3
+a835 3
+r0.6 .05 forms
+=5 4 fn e 8 d 4 e 8 gb(1
+r0.2 .05 forms. 87 in
+d842 1
+a842 1
+r0.5 .05 in
+d844 2
+a845 1
+r0.5 .05 in .87 her
+d850 2
+a851 1
+6 bars | 48 | 48 | 48 | 48 | 5/4 60 | 60 |
+d854 1
+a854 1
+r0.5 .05 her
+d856 1
+a856 1
+r0.5 .05 her
+d860 1
+a860 1
+r0.5 .52 eye
+d867 1
+a867 1
+r0.5 .05 eye
+d871 1
+a871 1
+r0.5 .52 her .76 eye
+d873 1
+a873 1
+r0.2 .04 eye
+d879 1
+a879 1
+r0.5 .02 eye
+a881 1
+
+d884 1
+a884 1
+r0.5 .76 the
+d886 1
+a886 1
+r0.5 .38 as .76 the
+d890 1
+a890 1
+r0.5 .38 as .76 the
+a892 1
+
+d895 1
+a895 1
+r0.6 .05 spell .62 the
+d897 1
+a897 1
+r0.5 .05 spell
+d899 3
+a901 3
+r0.5 .05 spell .81 the
+=4 5/4 1 G#
+r0.5 .05 spell
+d903 1
+a903 3
+r0.2 .05 spell .62 the
+
+
+a914 1
+
+d916 2
+a917 1
+6 bars | 60 | 60 | 60 | 50 | 55 | 25 ||
+d923 1
+a923 1
+r0.5 .03 fla .32 - .60 shes
+d925 1
+a925 1
+r0.5 .82 as
+d933 1
+a933 1
+il0.9   75
+d937 1
+a937 1
+r0.5 .03 by .61 the
+d948 1
+a948 1
+r0.5 .03 spell
+d956 1
+a956 1
+r0.5 .02 by  .   .   .
+d958 1
+a958 1
+r0.5 .03 fla .32 - .60 shes
+@
+
+
+1.2
+log
+@squeezed from 7 pages to 6 pages :-)
+@
+text
+@d11 2
+a12 1
+5 bars | 5/4 12 | 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d25 1
+a25 1
+r0.5 .01 car .60 is
+d27 1
+a27 1
+r0.3 .01 car  is  hot .70 the  car  is
+d29 1
+a29 1
+r0.5 .01 car  is  hot .70 the  car  is
+d36 1
+a36 1
+r0.5 .05 hot .75 they're
+d38 1
+a38 1
+r0.3 .05 hot .82 they're
+d40 1
+a40 1
+r0.5 .05 hot .82 they're
+d46 1
+a46 1
+r0.5 .04 on .60 the
+d48 1
+a48 1
+r0.3 .04 on  the  run .70 they're  on  the
+d50 1
+a50 1
+r0.5 .04 on  the  run .70 they're  on  the
+d52 1
+a52 1
+r0.2 .42 is
+d55 1
+a55 1
+r0.5 .52 run
+d57 1
+a57 1
+r0.5 .05 run .75 Their
+d59 1
+a59 1
+r0.3 .05 run .83 Their
+d61 1
+a61 1
+r0.5 .05 run .83 Their
+d63 1
+a63 1
+r0.2 .27 hot
+d65 2
+a66 1
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d72 1
+a72 1
+r0.5 .01 nos .33 - .60 trils
+d74 1
+a74 1
+r0.4 .01 nostrils wide .70 with wine and
+d76 1
+a76 1
+r0.5 .01 nostrils wide .70 with wine and
+d85 2
+a86 1
+r0.3 .05 fun .82 their
+d96 1
+a96 1
+r0.3 .04 nostrils wide .70 with wine and
+d98 1
+a98 1
+r0.5 .04 nostrils wide .70 with wine and
+d100 1
+a100 1
+r0.2 .42 and
+d103 1
+a103 1
+r0.5 .52 fun
+d105 1
+a105 1
+r0.5 .05 fun .75 The
+d107 1
+a107 1
+r0.4 .05 fun .88 The
+d109 1
+a109 1
+r0.5 .05 fun .88 The
+d111 1
+a111 1
+r0.2 .27 fun
+d114 2
+a115 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d120 1
+a120 1
+r0.5 .01 road .60 sings
+d122 1
+a122 1
+r0.4 .01 road  sings  un - .70 derneath the
+d124 1
+a124 1
+r0.5 .01 road  sings  un - .70 derneath the
+d131 1
+a131 1
+r0.5 .52 sun
+d133 1
+a133 1
+r0.5 .05 un .37 - .75 der .90 -
+d135 2
+a136 1
+r0.5 .05 sun .82 the
+d138 1
+a138 1
+r0.5 .05 sun .82 the
+d140 1
+a140 1
+r0.2 .27 road
+d146 1
+a146 1
+r0.5 .04 road  sings  un - .70 derneath the
+d148 1
+a148 1
+r0.5 .04 road  sings  un - .70 derneath the
+d150 1
+a150 1
+r0.2 .42 the
+d155 1
+a155 1
+r0.5 .05 sun .75 The
+d157 2
+a158 1
+r0.5 .05 sun .88 The
+d160 1
+a160 1
+r0.5 .05 sun .88 The
+d162 1
+a162 1
+r0.2 .27 sun
+d172 2
+a173 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d175 2
+a176 2
+=1, 5/4 2. rest 8 <A#l, dn(1> 4 <B d)1> 8 rest
+r0.5 .64 beach
+d178 1
+a178 1
+r0.5 .04 beach .78 shall
+d180 1
+a180 1
+r0.5 .04 beach shall be .88 shall
+d182 1
+a182 1
+r0.5 .04 beach shall be .88 shall
+d184 1
+a184 1
+r0.2 .42 twen .75 -
+d187 1
+a187 1
+r0.5 .52 be
+d189 1
+a189 1
+r0.5 .07 be .75 their
+d191 1
+a191 1
+r0.5 .05 be their bed .86 shall
+d193 1
+a193 1
+r0.5 .05 be their bed .86 shall
+d195 1
+a195 1
+r0.2 .06 - .52 ty
+d201 1
+a201 1
+r0.5 .05 bed
+d203 1
+a203 1
+r0.5 .05 be .22 their .61 bed
+d205 1
+a205 1
+r0.5 .05 be .80 their
+d207 1
+a207 1
+r0.2 .42 three
+d211 1
+a211 1
+r0.5 .27 bed
+d213 1
+a213 1
+r0.5 .75 they're
+d215 1
+a215 1
+r0.4 .86 they're
+d217 1
+a217 1
+r0.5 .05 bed .86 they're
+d220 2
+a221 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d225 1
+a225 1
+r0.5 .05 twen .35 - .62 ty
+d227 2
+a228 1
+r0.4 .02 twenty-three .70 they're twenty -
+d230 1
+a230 1
+r0.5 .02 twenty-three .70 they're twenty -
+d232 1
+a232 1
+r0.2 .42 and
+d235 1
+a235 1
+r0.5 .52 three
+d237 1
+a237 1
+r0.5 .05 three .75 and
+d239 2
+a240 1
+r0.4 .05 three .86 and
+d242 1
+a242 1
+r0.5 .05 three .86 and
+d244 1
+a244 1
+r0.2  .27 twen .85 -
+d249 1
+a249 1
+r0.5 .05 twen .31 - .62 ty
+d251 1
+a251 1
+r0.5 .04 twenty-five .70 and twenty -
+d253 1
+a253 1
+r0.5 .04 twenty-five .70 and twenty -
+d255 1
+a255 1
+r0.2 .42 ty .90 -
+d259 1
+a259 1
+r0.5 .50 five
+d261 1
+a261 1
+r0.5 .05 five .75 but
+d263 2
+a264 1
+r0.5 .05 five .82 how
+d266 1
+a266 1
+r0.5 .05 five .82 how
+d271 2
+a272 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d276 1
+a276 1
+r0.5 .05 no .60 ma .85 -
+d278 1
+a278 1
+r0.5 .04 matter how .70 no matter
+d280 1
+a280 1
+r0.5 .04 matter how .70 no matter
+d282 1
+a282 1
+r0.2 .42 how
+d286 1
+a286 1
+r0.5 .50 they
+d288 1
+a288 1
+r0.5 .01 - .05 ter .75 how
+d290 1
+a290 1
+r0.5 .05 how .82 how
+d292 1
+a292 1
+r0.5 .05 how .82 how
+d294 1
+a294 1
+r0.2 .27 fast
+d298 1
+a298 1
+r0.5 .05 fast .60 they
+d300 1
+a300 1
+r0.5 .04 matter how .70 how fast they
+d302 2
+a303 1
+r0.5 .04 matter how .70 how fast they
+d305 1
+a305 1
+r0.2 .42 they
+d308 1
+a308 1
+r0.5 .52 drive
+d310 1
+a310 1
+r0.5 .05 drive .75 the
+d312 1
+a312 1
+r0.5 .05 drive .88 The
+d314 1
+a314 1
+r0.5 .05 drive .88 The
+d320 1
+a320 1
+ /17-22-17-22-17-30-17-22-17/
+d326 1
+a326 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d328 1
+a328 1
+il0.7 .05 25
+d330 1
+a330 1
+r0.5 .09 spell .62 runs
+d335 1
+a335 1
+r0.5 .08 spell .81 runs
+d337 1
+a337 1
+r0.5 .08 spell
+d339 1
+a339 1
+r0.2 .08 the .61 spell
+d342 1
+a342 1
+r0.5 .09 on .55 runs
+d344 1
+a344 1
+r0.5 .09 runs
+d346 1
+a346 1
+r0.5 .07 on .54 a .85 -
+d354 1
+a354 1
+r0.5 .09 on .65 a .90 -
+d356 1
+a356 1
+r0.5 .09 on .64 a .88 -
+d358 1
+a358 1
+r0.5  - .06 head .77 the
+d360 1
+a360 1
+r0.5 .07 on .65 a .90 -
+d362 1
+a362 1
+r0.2 .07 on .45 a .80 -
+d365 1
+a365 1
+r0.5 .05 head .53 the
+d367 1
+a367 1
+r0.5 .05 head .75 the
+d369 1
+a369 1
+r0.5 .05 spell .76 runs
+d373 1
+a373 1
+r0.2 .05 head .52 runs
+d375 1
+a375 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d378 1
+a378 1
+r0.5 .07 spell .24 runs .43 on .82 a .94 -
+d380 1
+a380 1
+r0.5 .05 spell .62 runs
+d382 1
+a382 1
+r0.5 .27 on .64 a .90 -
+d384 1
+a384 1
+r0.5 .07 on .27 a .34 - .42 head
+d386 1
+a386 1
+r0.2 .05 on
+d390 1
+a390 1
+r0.5 .05 head
+d392 1
+a392 1
+r0.5 .09 on .78 a .90 -
+d394 1
+a394 1
+r0.4 .05 head
+d397 1
+a397 1
+r0.2 .12 a .60 -
+d401 1
+a401 1
+r0.5 .01 - .05 head
+d403 1
+a403 1
+r0.5 .45 head
+d405 1
+a405 1
+r0.5 .45 head
+d407 1
+a407 1
+r0.2  - .05 head
+d412 1
+a412 1
+r0.5 .73 They're
+d415 1
+a415 1
+r0.5 .80 They
+d417 1
+a417 1
+r0.5 .80 They
+d421 2
+a422 1
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d425 1
+a425 1
+r0.5 .05 cud .34 - .62 dled
+d428 1
+a428 1
+r0.5 .01 cuddle close .70 they cuddle
+d430 1
+a430 1
+r0.5 .01 cuddle close .70 they cuddle
+d432 1
+a432 1
+r0.2 .41 close
+d435 1
+a435 1
+r0.5 .07 close .72 they're
+d439 1
+a439 1
+r0.5 .07 close .76 they're
+d441 1
+a441 1
+r0.5 .07 close .50 close .76 they're
+d443 1
+a443 1
+r0.2 .29 close
+d447 1
+a447 1
+r0.5 .09 ly .34 - .62 ing
+d450 2
+a451 1
+r0.5 .08 ly - ing  low .65 they're lying
+d453 1
+a453 1
+r0.5 .08 ly - ing  low .65 they're lying
+d455 1
+a455 1
+r0.2 .44 low
+d459 1
+a459 1
+r0.5 .05 low .77 the
+d461 1
+a461 1
+r0.5 .54 low
+d463 1
+a463 1
+r0.5 .07 low .53 low .84 the
+d465 1
+a465 1
+r0.5 .07 low .53 low .84 the
+d467 1
+a467 1
+r0.2 .29 low
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d11 1
+a11 1
+4 bars | 5/4 12 | 60 | 4/4 48 | 5/4 60 |
+a51 2
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d63 2
+a87 2
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+d110 2
+a123 9
+3 systems 10 /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d157 8
+d166 1
+a166 1
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 |
+a201 2
+/
+3 bars | 4/4 48 | 5/4 60 | 4/4 48 |
+d212 2
+a235 9
+3 systems 10 /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-30-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d258 3
+a282 2
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d305 9
+a338 2
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d361 2
+a384 10
+
+3 systems 10 /17-22-17-22-17-30-17-22-17 \
+ /17-22-17-22-17-30-17-22-17 \
+ /17-22-17-22-17-28-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d407 2
+a408 1
+
+a429 2
+/
+3 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d441 1
+d454 9
+a484 2
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d508 2
+a531 6
+3 systems 10 /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-25-17-22-17 \
+ /17-25-17-25-17-35-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+a532 2
+/
+4 bars | 5/4 60 | 4/4 48 | 5/4 60 | 4/4 48 |
+d555 3
+a580 2
+/
+4 bars | 5/4 60 | 4/4 48 | 9/8 54 | 54 |
+d612 10
+a631 2
+/
+4 bars | 54 | 54 | 54 | 4/4 48 |
+d660 2
+a671 10
+
+3 systems 10 /17-32-17-22-17-32-17-22-17 \
+ /17-25-17-22-17-33-17-22-17 \
+ /17-22-17-25-17-35-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+d695 1
+a705 1
+
+d717 1
+d763 8
+d772 1
+a772 1
+4 bars | 48 | 48 | 48 | 48 |
+a813 10
+
+3 systems 10 /17-22-17-27-17-28-17-25-17 \
+ /17-22-17-22-17-22-17-22-17 \
+ /17-22-17-22-17-33-17-22-17/
+pagenum
+innerhead Peter Billam,  The Spell
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+d825 3
+d838 1
+a858 2
+/
+4 bars | 48 | 5/4 60 | 60 | 60 |
+d882 2
+d895 4
+a910 3
+
+/
+5 bars | 60 | 60 | 50 | 55 | 25 ||
+@

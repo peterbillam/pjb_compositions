@@ -8,7 +8,7 @@ edit :
 	vi ${PIECE}
 	muscript ${PIECE} > ${PIECE}.a4
 	pkill -HUP gv
-	muscript -midi ${PIECE} | midisox_lua - -d stat trim 135  fade 0 25 0
+	muscript -midi ${PIECE} | midisox_lua - -d stat trim 107 # fade 0 25 0
 
 play :
 	muscript -midi ${PIECE} | midisox_lua - -d stat

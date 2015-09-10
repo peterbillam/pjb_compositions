@@ -1,199 +1,451 @@
-5 systems 5 /17-20-17-20-17/
+6 systems 5 /17-20-17-20-17 /17-20-17-20-17 /17-20-17-20-17 \
+ /17-20-17-20-17 /17-21-17-22-17 /17-20-17-20-17 /
 title Sometimes
+pagenum
+innerhead Peter Billam,  from Album for Choir
+leftfoot (c) 2015 Peter J Billam
 midi channel 0 patch 82
+
 /
-4 bars | 48 |
-| 2.4
-=1 treble     cha0 2. rest 4. rest G
-r0.5 .71 Some -
+5 bars | 12 | 4 4 5 4 4 7 4 3 3 3 3 3 | 4 3 4 4 4 5 4 3 3 3 3 3 \
+ | 4 4 6 4 4 5 4 3 3 3 3 3 | 4 4 3 4 4 6 4 3 3 3 3 3 |
+| .80
+=1 treble     cha0 4. G
+r0.3 .07 Some -
 =2 treble8vab cha0 
 =3 bass       cha0 
-|
+| 2.4
 =1 4 C# 8 D 4 E 8 D 4. G# rest
-r0.5 .03 times I think I do
+r0.3 .03 times I think I do
 =2 2. rest 4. rest c
 r0.5 .75 I
 =3 2. rest 4. rest e
 |
 =1 2. rest 4. rest E
-r0.5 .71 Some -
+r0.3 .71 Some -
 =2 4. db 4 db 8 c(1 4. c)1 rest
-r0.5 .01 think .25 I .41 do
+r0.5 .01 think .27 I .43 do
 =3 4. f  4 f  8 e(1 4. e)1 rest
 |
 =1 4 A 8 G 4 F# 8 G 4. D# rest
-r0.5 .03 times I think I don't
+r0.3 .03 times I think   I  don't
 =2 2. rest 4. rest A
 r0.5 .75 I
 =3 2. rest 4. rest f 
 
-/
-4 bars | 48 |
 |
 =1 2. rest 4. rest G
-r0.5 .71 Some -
+r0.4 .75 Some -
 =2' 4. A# 4 A# 8 B(2 4. B)2 rest
-r0.5 .01 think .25 I .41 don't
+r0.5 .01 think .28 I .44 don't
 =3  4. f# 4 f# 8 g(1 4. g)1 rest
+/
+5 bars | 4 4 5 4 4 7 4 3 3 3 3 3 | 4 3 4 4 4 5 4 3 3 3 3 3 \
+ | 4 4 7 4 4 5 4 3 3 3 3 3 | 4 3 4 4 4 5 4 3 3 3 3 3 | 4 4 5 4 4 7 4 4 6 3 3 3 |
 |
+il0.5 .03 5
 =1 4 C# 8 D 4 E 8 D 4. G# rest
-r0.5 .03 times I think I will
+r0.3 .03 times I think I will
 =2 2. rest 4. rest c
-r0.5 .75 I
+r0.4 .81 I
 =3 2. rest 4. rest e
 |
 =1 2. rest 4. rest E
-r0.5 .74 Some -
-=2 4. c# 4 d 8 c#(1 4. c#)1 rest
+r0.4 .74 Some -
+=2 4. c# 4 d 8 c#(1 4. c)1 rest
 r0.5 .01 think .25 I .41 will
 =3 4. f  4 f# 8 g(1 4. g)1 rest
 |
 =1' 4 A 8 G 4 Fn 8 G 4. B rest
-r0.5 .03 times I think I won't
+r0.4 .03 times I think I won't
 =2 2. rest 4. rest d
-r0.5 .75 I
+r0.5 .81 I
 =3 2. rest 4. rest f#
-/
-4 bars | 48 |
 |
 =1 2. rest 4. rest F#
-r0.5 .71 Some -
-=2 4. d# 4 e 8 d#(1 4. d#)1 rest
-r0.5 .01 think .25 I .41 won't
+r0.4 .71 Some -
+=2 4. d# 4 e 8 d#(1 4. d)1 rest
+r0.6 .01 think .25 I .41 won't
 =3 4. g  4 g# 8 a(1 4. a)1 rest
 |
-=1' 4 B 8 A 4 G 8 A 4. Fn rest
-r0.5 .03 times I think I didn't
-=2 2. rest 4. rest f
-r0.5 .75 I
+=1' 4 B 8 A 4 G 8 A 4 Fn 8 F 4. rest
+r0.4 .02 times I think I   didn't
+=2 2. rest 4. rest 4 rest 8 f
+r0.6 .87 I
 =3 2. rest 4. rest ab
+/
+5 bars | 4 4 3 4 4 5 4 4 5 3 3 3 | 4 4 7 4 4 7 4 3 3 3 3 3 \
+ |4 4 3 4 4 5 4 3 3 3 3 3 |4 4 7 4 4 6 4 3 3 3 3 3 |4 4 3 4 4 5 4 3 3 3 3 3 |
 |
+il0.5 .03 10
 =1' 2. rest 4. rest B
-r0.5 .71 Some -
-=2 4. e  4 eb 8 d(1 4. d)1 rest
-r0.5 .01 think .25 I .41 didn't
-=3 4. g  4 g 8 f#(1 4. f#)1 rest
+r0.5 .75 Some -
+=2 4. e  4 eb 8 d(1 4 d)1 8 d  4. rest
+r0.5 .01 think .26 I .44 didn't
+=3 4. g  4 g 8 f#(1 4 f)1 8 f# 4. rest
 |
 =1 4 F 8 F# 4 G# 8 F# 4. c rest
-r0.5 .03 times I think I did
+r0.5 .03 times  I think I   did
 =2  2. rest 4. rest d
-r0.5 .75 I
+r0.5 .80 I
 =3  2. rest 4. rest f#
-/
-4 bars | 48 |
 |
 =1' 2. rest 4. rest c
-r0.5 .71 Some -
-=2 4. d# 4 e 8 d#(1 4. d#)1 rest
-r0.5 .01 think .25 I .41 did
+r0.5 .73 Some -
+=2 4. d# 4 e 8 d#(1 4. d)1 rest
+r0.6 .01 think .27 I .44 did
 =3  4. g 4 g#  8 a(1 4. a)1 rest
 |
 =1' 4 F 8 F# 4 G# 8 F# 4. B rest
 r0.5 .03 times it's all on show
 =2 2. rest 4. rest d#
-r0.5 .75 It's
+r0.6 .75 It's
 =3 2. rest 4. rest g
 |
 =1 2. rest 4. rest G
-r0.5 .71 Some -
+r0.6 .73 Some -
 =2 4. e  4 e 8 f(1 4. f)1 rest
-r0.5 .01 all .25 on .41 show
+r0.6 .01 all .25 on .41 show
 =3 4. g# 4 g# 8 a(1 4. a)1 rest
+/
+6 bars | 4 4 5 4 4 7 4 3 3 3 3 3 | 4 4 3 4 4 5 3 2 2 3 2 2 \
+ |10 11 8 8 | 3 3 2 3 3 2 4 4 5 3 3 3 | 25 | 22 16 |
 |
+il0.5 .35 15
 =1' 4 B 8 A 4 G 8 A 2. c#(1
 r0.5 .03 times I keep it hid
 =2 2. rest 4. rest f
-r0.5 .75 I
+r0.6 .80 I
 =3 2. rest 4. rest a
 
 |
 =1 1. c#)1
 =2 4. f#  4 f# 8 g(1 2. g)1
-r0.5 .01 keep .25 it .41 hid
+r0.6 .01 keep .28 it .44 hid
 =3 4. a# 4 a# 8 b(1 2. b)1
 |
 =1 4. rest A 2. d(1
-r0.5 .25 It's .5 mine  .   .   .
+r0.6 .25 It's .5 mine  .   .   .
 =2 4. rest g 2. f#(1
-=3 4. rest a 2. bb(1
+r0.7 .25 It's .56 mine  .   .   .
+=3 4. rest a 2. bb(2
 |
-=1 2. d)1  4 rest 8 A#(2 4. A#)2
-r0.5 .67 It's
-=2 2. f#)1 4 rest 8 f#(1 4. f#)1
-=3 2. bb)1 4 rest 8 d~(1 4. d~)1
+=1 2. d)1  4 rest 8 A#(2 4. A)2
+r0.6 .64 It's
+=2 2. f#)1 4 rest 8 f#(1 4. f)1
+r0.7 .64 It's
+=3 2. bb)2 4 rest 8 d~(2 4. d~)2
 |
 =1 1. B
-r0.5 .03 mine  .   .   .
+r0.6 .02 mine  .   .   .
 =2 1. g
+r0.7 .02 mine  .   .   .
 =3 1. c~#
 
 |
+il0.5 .03 20
 =1' 4. rest F# 2. B(2
-r0.5 .25 It's .5 mine  .   .   .
+r0.5 .27 It's .56 mine .  .  .
 =2 4. rest e 2. d#(1
+r0.6 .28 It's .56 mine .  .  .
 =3 4. rest bb 2. g(1
+/
+5 bars | 16 15 | 20 | 11 11 10 12 \
+ | 4 4 7 4 3 3 4 3 3 3 3 3 | 4 4 5 4 4 5 4 3 3 3 3 3 |
 |
-#=1 2. B)1(1  4 B)1  8 G(2  4. G)2
-#=3 2. d#)1(1 4 d#)1 8 d#(1 4. d#)1
-#=4 2. g)1(1  4 g)1  8 b(1  4. b)1
 =1' 2. B)2  G
 r0.5 .50 It's
 =2 2. d#)1 d#
+r0.6 .50 It's
 =3 2. g)1  b
 |
 =1 1. G#
 r0.5 .03 mine  .   .   .
 =2 1. e
+r0.6 .03 mine  .   .   .
 =3 1. bb
 |
 =1  4. rest B' c# 4 G 8 G# 
 r0.5 .25 It's .50 my .75 tin .90 of
-# uncertain about these chords ...
-#=2 4. rest e e 4 c# 8 d
 =2 4. rest e e 4 d 8 d
+r0.5 .25 It's .50 my .75 tin .90 of
 =3 4. rest ab g 4 e 8 f
 
 |
 =1 4 B' 8 c#(1 4. c#)1 rest d
-r0.5 .05 candy .75 my
+r0.5 .02 can - dy .76 my
 =2 4 d# 8 e(1  4. e)1 rest c
-#=2 4 d  8 e(1  4. e)1 rest c
-#=3 4 ab 8 g(1  4. g)1 rest f#
+r0.6 .02 can - dy .76 my
 =3 4 f# 8 g(1  4. g)1 rest f#
 |
+il0.5 .23 25
 =1 4 d# 8 B 4 G 8 B'(2 2. B')2(2
-r0.5  .02 bottle .25 of .42 wine
-=2 4 B 8 d# 4 f 8 gb(1 4. g)1(1 4 gb)1 8 f(1
-#=3 4 fn 8 a 4 b 8 ab(1 4. a)1(1 4 ab)1 8 g(1
-=3 4 fn 8 a 4 b 8 ab(1 2. a)1
+r0.6  .03 bottle .29 of .46 wine
+=2 4 B' 8 d# 4 f 8 gb(2 4. g)2 f(1
+r0.7  .05 bottle .29 of .46 wine .80 bot .96 -
+=3 4 fn 8 a 4 b 8 ab(1 2. a)1{1
+/
+4 bars | 4 4 6 4 3 3 4 3 3 4 4 4 | 3 2 2 3 2 2 4 3 5 3 3 3 \
+ | 4 4 5 4 4 5 4 4 5 4 4 4 | 4 4 6 4 4 5 4 4 6 4 4 4 |
 |
 =1 2. B')2 rest
-=2 4 f)1 8 e 4. eb d(1 4 d)1 8 c#(1
-=3 2. g 4. gb 4 f 8 e(1
-|
-=1 2. rest 4. rest G
-r0.5 .75 Some -
-=2 2. c#)1(1 4. c#)1 rest
-=3 2. e)1(1 4. e)1 rest
+=2 4 f)1 8 e 4. eb{'1 d}'1(1 4 d)1 8 c#(1
+r0.5 .05 - .17 tle  of .86 wine
+=3 2. g}1 4. gb{1 4 f}1 8 e(1
+r0.2 .54 of .90 wine
 
 |
-=1 4 C# 8 D 4 E 8 D 4. G# rest
-r0.5 .03 times I think I do
+# 65 sec
+=1 2. rest 4. rest G
+r0.5 .75 This
+=2 2. c#)1(1 4 c)1  8 rest 4. G
+r0.5 .75 This
+=3 2. e)1(1  4 e)1  8 rest 4. c#
+|
+=1 4 E 8 F# 4 A 8 G 2. rest
+r0.5  stuff could kill me
+=2' 4 A# 8 A# 4 B 8 B 4 rest 8 B 4 B 8 B
+r0.5  stuff could kill me .59 this stuff could
+=3 4 d 8 d 4 d 8 d# 4 rest 8 d# 4 e 8 d#
+|
+=1 4. rest  4 A  8 A  4 F# 8 G# 4 B'  8 A(2
+r0.5 .25 shouldn't have it .75 to  hand
+=2 4 B' 8 B' 4 A 8 A 4 c 8 c 4 c# 8 c#
+r0.5 .01 kill me ,  shouldn't have it .75 to  hand
+=3 4 e 8 d# 4 d# 8 d# 4 e 8 e 4 e 8 f
+
+6 systems /17-20-17-20-17 /17-20-17-20-17 /17-20-17-20-17 \
+ /17-20-17-20-17 /17-20-17-20-17 /17-20-17-20-17
+pagenum
+innerhead Peter Billam,  Album for Choir,  Sometimes
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars  | 4 4 5 4 4 5 4 4 6 4 3 3 | 4 4 5 4 4 5 4 4 6 4 4 4 \
+ | 4 4 6 4 4 5 4 4 5 4 3 3 | 8 7 8 8 |
+|
+il0.5 .03 30
+=1 2. A)2 4. rest G#
+r0.5 .78 so
+=2 4 rest 8 c# 4 d 8 c# 4 d 8 c# 4. d
+r0.5 .19 I shouldn't have it , .78 so
+=3 4 rest 8 f  4 f 8 f  4 f 8 f  4. f#
+|
+=1 4 F 8 F# 4 A 8 G# 4. B' rest
+r0.5 .03 better .26 use .42 it .50 up
+=2 4 d  8 d  4 d 8 eb 4 rest 8 f 4 f 8 f
+r0.5 .03 better .26 use .42 it
+r0.7 .66 as  fast .92 as
+=3 4 g# 8 a# 4 b 8 b  4 rest 8 b 4 c~# 8 b
+r0.01 .66 as  fast .92 as
+|
+=1 4 rest 8 G 4 G# 8 A# 4 B' 8 c#(1 4. c)1(1
+r0.6 .18 as fast .43 as .54 I .69 can
+=2 4. f rest 4 rest 8 f(1 4. f)1(1
+r0.7 .04 I .69 can
+=3 4. c~# b  4 rest 8 a(1 4. a)1(1
+r0.01 .04 I .27 can .69 can
+# This stuff could kill me , shouldn't have it to hand
+# so better use it up , as fast as I can ...
+|
+=1 2. c#)1 4. rest G
+r0.5 .69 Some -
+=2 2. f)1(1 4. f)1 rest
+=3 2. a)1(1 4. a)1 rest
+
+/
+5 bars | 4 4 5 4 4 7.5 4 4 5.5 3 3 3 | 4 4 3 4 4 4.5 4 4 5 3 3 3 \
+ |4 4 7 4 4 5 4 3 3 3 3 3 \
+ |4 3 3 4 4 4.5 4 3 3 3 3 3 |4 4 5 4 4 7.5 4 4 5.5 3 3 3 |
+|
+=1 4 C# 8 D 4 E 8 D 4 G# 8 G# 4. rest
+r0.3 .03 times I think I shouldn't
 =2 2. rest 4. rest c
-r0.5 .75 I
+r0.5 .85 I
 =3 2. rest 4. rest e
 |
+il0.5 .03 35
 =1 2. rest 4. rest E
-r0.5 .71 Some -
-=2 4. db 4 db 8 c(1 4. c)1 rest
-r0.5 .01 think .25 I .41 do
-=3 4. f  4 f  8 e(1 4. e)1 rest
+r0.4 .76 But
+=2 4. db 4 db 8 c(1 4 c)1 8 c 4. rest
+r0.5 .01 think .25 I .41 shouldn't
+=3 4. f  4 f  8 e(1 4 e)1 8 e 4. rest
 |
 =1 4 A 8 G 4 F# 8 G 4. D# rest
-r0.5 .03 times I think I don't
+r0.4 .01 then I think I should
 =2 2. rest 4. rest A
-r0.5 .75 I
+r0.6 .79 I
 =3 2. rest 4. rest f 
+|
+=1 2. rest 4. rest G
+r0.4 .71 Some -
+=2' 4. A# 4 A# 8 B(2 4. B)2 rest
+r0.6 .01 think .25 I .41 should
+=3  4. f# 4 f# 8 g(1 4. g)1 rest
+|
+=1 4 C# 8 D 4 E 8 D 4 G# 8 G# 4. rest
+r0.3 .01 times I think  I couldn't
+=2 2. rest 4. rest c
+r0.3 .85 I
+=3 2. rest 4. rest e
+/
+5 bars |4 4 3 4 4 5 4 4 5 3 3 3 |4 4 6 4 4 5 4 4 3 3 3 3 \
+ |4 3 3 4 4 5 4 3 3 3 3 3 |4 4 5 4 4 6 4 4 5 4 4 4 |4 4 5 4 4 7 4 4 5 3 3 3 |
+|
+=1 2. rest 4. rest E
+r0.5 .74 Some -
+=2 4. c# 4 d 8 c#(1 4 c)1 8 c# 4. rest
+r0.5 .01 think .27 I .43 couldn't
+=3 4. f  4 f# 8 g(1 4 g)1  8 g  4. rest
+|
+il0.5 .23 40
+=1' 4 A 8 G 4 Fn 8 G 4. B rest
+r0.5 .03 times I think I could
+=2 2. rest 4. rest d
+r0.5 .83 I
+=3 2. rest 4. rest f#
+|
+=1 2. rest 4. rest F#
+r0.5 .81 I
+=2 4. d# 4 e 8 d#(1 4. d)1 rest
+r0.6 .01 think .25 I .41 could
+=3 4. g  4 g# 8 a(1 4. a)1 rest
+|
+=1' 4 B 8 A 4 G 8 A 4 Fn 8 F 4. rest
+r0.5 .03 think maybe I hadn't
+=2 2. rest 4. rest 4 rest 8 f
+r0.5 .83 I
+=3 2. rest 4. rest ab
+|
+=1' 2. rest 4. rest B
+r0.6 .79 But
+=2 4. e  4 eb 8 d(1 4 d)1 8 d 4. rest
+r0.5 .01 think .27 I .44 had - n't
+=3 4. g  4 g 8 f#(1 4 f)1 8 f# 4. rest
+/
+5 bars | 4 4 7 4 4 6 4 4 3 3 3 3 | 4 4 3 4 4 5.5 4 3 3 3 3 3 \
+ |4 4 7 4 4 6 4 4 3 3 3 3 |4 4 3 4 4 5.5 4 3 3 3 3 3 \
+ |4 4 5 4 4 7.5 4 3 3 3 3 3 |
+|
+=1 4 F 8 F# 4 G# 8 F# 4. c rest
+r0.4 .03 then I know I had
+=2  2. rest 4. rest d
+r0.5 .81 I
+=3  2. rest 4. rest f#
+|
+il0.5 .03 45
+=1' 2. rest 4. rest c
+r0.5 .71 At
+=2 4. d# 4 e 8 d#(1 4. d)1 rest
+r0.6 .01 know  I .42 had
+=3  4. g 4 g#  8 a(1 4. a)1 rest
+|
+=1' 4 F 8 F# 4 G# 8 F# 4. B rest
+r0.4 .03 first it seems O. K.
+=2 2. rest 4. rest d#
+r0.5 .79 It 
+=3 2. rest 4. rest g
+|
+=1 2. rest 4. rest G
+r0.5 .79 But
+=2 4. e  4 e 8 f(1 4. f)1 rest
+r0.5 .01 seems  O. K.
+=3 4. g# 4 g# 8 a(1 4. a)1 rest
+|
+=1' 4 B 8 A 4 G 8 A 2. c#(1
+r0.5 .01 then I know it's bad
+=2 2. rest 4. rest f
+r0.5 .81 I
+=3 2. rest 4. rest a
+/
+7 bars | 4 4 3 4 4 5 3 2 2 3 2 2 | 10 12 8 8 | 3 3 2 3 3 2 4 4 5 3 3 3 \
+ | 26 | 10 12 8 8 | 20 19 | 26 |
+|
+=1 1. c#)1
+=2 4. f#  4 f# 8 g(1 2. g)1
+r0.7 .01 know  it's bad
+=3 4. a# 4 a# 8 b(1 2. b)1
+|
+il0.5 .03 50
+=1 4. rest A 2. d(1
+r0.6 .25 It's .5 mine  .   .   .
+=2 4. rest g 2. f#(1
+r0.7 .25 It's .5 mine  .   .   .
+=3 4. rest a 2. bb(1
+|
+=1 2. d)1  4 rest 8 A#(2 4. A)2
+r0.6 .67 It's
+=2 2. f#)1 4 rest 8 f#(1 4. f)1
+r0.7 .67 It's
+=3 2. bb)1 4 rest 8 d~(2 4. d~)2
+|
+=1 1. B
+r0.6 .03 mine  .   .   .
+=2 1. g
+r0.7 .03 mine  .   .   .
+=3 1. c~#
+
+|
+=1' 4. rest F# 2. B(2
+r0.5 .27 It's .53 mine  .   .   .
+=2 4. rest e 2. d#(1
+r0.6 .27 It's .53 mine  .   .   .
+=3 4. rest bb 2. g(1
+
+|
+=1' 2. B)2  G
+r0.5 .50 It's
+=2 2. d#)1 d#
+r0.6 .50 It's
+=3 2. g)1  b
+|
+il0.5 .03 55
+=1 1. G#
+r0.5 .03 mine  .   .   .
+=2 1. e
+r0.7 .03 mine  .   .   .
+=3 1. bb
+/
+5 bars | 4 3 3 4 4 3 4 3 3 4 4 4 | 4 4 5 4 3 3 4 3 3 3 3 3 \
+ |4 4 5 4 4 5 4 4 6 3 3 3 |4 4 5 4 4 5 4 4 7 3 3 3 |4 3 3 4 4 5 3 3 3 3 3 3 ||
+|
+=1  4. rest B' c# 4 G 8 G# 
+r0.5 .25 It's .50 my .75 tin .90 of
+=2 4. rest e e 4 d 8 d
+r0.5 .25 It's .50 my .75 tin .90 of
+=3 4. rest ab g 4 e 8 f
+
+|
+=1 4 B' 8 c#(1 4. c)1 rest d
+r0.5 .05 candy .75 my
+=2 4 d# 8 e(1  4. e)1 rest c
+r0.5 .05 candy .75 my
+=3 4 f# 8 g(1  4. g)1 rest f#
+
+|
+=1 4 eb 8 B 4 A 8 G#(2 4 G)2 8 rest 4. d
+r0.5  .02 bottle .27 of .42 wine .81 my
+=2 4 B 8 eb 4 d 8 c(1 4 c)1 8 rest 4. c
+r0.5  .02 bottle .27 of .42 wine .81 my
+=3 4 fn 8 f# 4 g 8 f#(1 4 f)1 8 rest 4. f#
+
+|
+=1 4 eb 8 B 4 G 8 B'(2 2. B')2(2
+r0.5  .02 bottle .27 of .42 wine
+=2 4 B 8 eb 4 f 8 gb(2 4 g)2 8 rest 4. en
+r0.6 bottle .27 of .42 wine .81 bot .95 -
+=3 4 fn 8 a 4 b 8 ab(1 4 a)1 8 g    4. gb
+r0.10 .67 my bot  -
+| 1.3 3.0
+il0.5 .03 60
+=1 1. B')2
+=1 2. blank blank-fermata
+=2 4. eb 4 d 8 c#(1 2. c)1-fermata
+r0.6  tle .25 of .43 wine
+=3 4. f  4 e 8 d#(1 2. d)1-fermata
+r0.10 tle .25 of .43 wine
+
+
 
 midi pause 4.0
 
@@ -206,6 +458,12 @@ midi pause 4.0
 # It's my tin of candy, it's my bottle of wine
 
 # (middle-8 ? ...)
+## this stuff's a danger  - dangerous - could kill me  
+## shouldn't have it - in the house - here - around - at hand
+## better use it up - get through it
+## as fast as I can
+# This stuff could kill me , shouldn't have it to hand
+# so better use it up , as fast as I can ...
 
 # sometimes I think I shouldn't, sometimes I think I should
 # sometimes I think I wouldn't, but then I think I would

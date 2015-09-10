@@ -38,6 +38,8 @@ dist2:
 	upload ${ARRD}/xml/${PIECE2}.xml
 	upload ${ARRD}/src/${PIECE2}.txt
 
+distwarn: ${FREED}/${PIECE2}.pdf
+	upload ${FREED}/${PIECE2}.pdf
 
 ${FREED}/${PIECE1}.pdf : title.a4 p2.a4 ${WARNING} ${PIECE1}.a4 ${FREEBACKPAGE}.a4
 	groff -ms title | ${BANNERISE} > title.a4
@@ -46,11 +48,8 @@ ${FREED}/${PIECE1}.pdf : title.a4 p2.a4 ${WARNING} ${PIECE1}.a4 ${FREEBACKPAGE}.
 	| ${A42US} -c \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
 
-${FREED}/${PIECE2}.pdf : title_carr.a4 ${WARNING} p2.a4 ${PIECE2}.a4 ${FREEBACKPAGE}.a4
-	groff -ms title_carr | ${BANNERISE} > title_carr.a4
-	${ADDMESSAGE} ${PIECE2}.a4 \
-	| ${PSCAT} title_carr.a4 ${WARNING} p2.a4 - ${FREEBACKPAGE}.a4 \
-	| ${A42US} -c \
+${FREED}/${PIECE2}.pdf : ${WARNING}
+	${A42US} -c ${WARNING} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
 
 ${A4D}/${PIECE1}.pdf : ${TITLE1}.a4 p2.a4 ${PIECE1}.a4 ${FREEBACKPAGE}.a4

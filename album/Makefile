@@ -13,9 +13,9 @@ PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 PIECE = album
-PLAY = album
+PLAY = sometimes
 
-dev : title.a4 album.a4
+dev : title.a4 p2.a4 album.a4
 all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
 mp3 : ${MP3D}/${PIECE}.mp3
 dist:
@@ -46,11 +46,16 @@ title.a4 : title
 	groff -ms title | ${BANNERISE} > $@
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
+p3.a4 : p3
+	groff -ms p3 | ${BANNERISE} > $@
 play :
-	muscript -midi ${PLAY} | midisox_lua - -d stat
-album : sometimes web remember
+	muscript -midi ${PLAY} | midisox_lua - -d stat # trim 118
+edit :
+	vi ${PLAY}
+	make play dev
+album : sometimes the_spell
 	chmod 644 $@
-	cat sometimes web remember > $@
+	cat sometimes the_spell > $@
 	chmod 444 $@
 album.a4 : album
 	muscript album > $@
