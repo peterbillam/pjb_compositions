@@ -1,17 +1,17 @@
-PIECE=the_spell
+PIECE=konkerado
 # sometimes web remember web3 web2 web4
 ALL=20150505 20150630
 
 dev : ${PIECE}.a4
 
 edit :
-	vi ${PIECE}
+	${EDITOR} ${PIECE}
 	muscript ${PIECE} > ${PIECE}.a4
 	pkill -HUP gv
-	muscript -midi ${PIECE} | midisox_lua - -d stat trim 107 # fade 0 25 0
+	muscript -midi ${PIECE} | midisox_py - -d stat
 
 play :
-	muscript -midi ${PIECE} | midisox_lua - -d stat
+	muscript -midi ${PIECE} | midisox_py - -d stat
 
 ${PIECE}.a4 : ${PIECE}
 	muscript ${PIECE} > $@

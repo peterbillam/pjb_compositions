@@ -1,0 +1,778 @@
+head	1.8;
+access;
+symbols;
+locks
+	pjb:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2015.09.18.01.05.03;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2015.09.15.05.33.00;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2015.09.15.04.30.40;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2015.09.15.01.57.16;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.09.13.09.36.20;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.09.13.06.50.47;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.09.12.07.03.42;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.09.12.04.03.44;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@sketch from AP p.29 20150912
+@
+
+
+1.8
+log
+@about to move this upstairs...
+@
+text
+@4 systems /17-22-17-22-17-22-17/
+title Konkerado
+midi channel 0 patch 82
+/
+6 bars | 48 |
+| 4.5
+is.50 .01 c#333 .59 d233 .80 d234
+=1 treble  5/4 cha0 leg105 1 G 4 G
+r0.7 .12 Kon .45 - .76 ke
+=2 treble  5/4 cha0 leg105 2. rest 2 E(2
+r0.5 .63 Kon
+=3 treble8vab  5/4 cha0 leg105 2. rest 2 rest
+=4 bass  5/4 cha0 leg105 2. rest 2 rest
+|
+is0.5 .01 d243 .59 b243 .80 b242
+=1 1 Ab 4 G(2
+r0.7 - ra .45 - .78 do
+=2 2 E)2 4 E 2 F(2
+r0.5 .01 - .37 ke - ra
+=3 2. rest 2 rest
+=4 2. rest 2 rest
+|
+is .40 b233
+=1 2. G)2 2 rest
+=2 2 F)2 2. E(2
+r0.5 .03 - .42 do
+=3' 1 B 4 B
+r0.7 .07 Kon .45 - .76 ke
+=4 2. rest 2 c#(2
+r0.1 .60 Kon
+|
+is0.5 .01 c#333 .59 d233 .80 d234
+=1 1 G 4 G
+r0.7 .07 Kon .45 - .76 ke
+=2 4 E)2 2 rest 2 E(2
+r0.5 .60 Kon
+=3' 1 A# 4 B(2
+r0.7 - ra .45 - .78 do
+=4' 2 c#)2 4 c# 2 d(2
+r0.1 .01 - .37 ke - ra
+|
+il1.0 .22 5
+is0.5 .01 d243 .59 b243 .80 b242
+=1 1 Ab 4 G(2
+#=1 2. Ab 2 G(2
+r0.7 - ra .45 - .78 do
+=2 2 E)2 4 E 2 F(2
+r0.5 .01 - .37 ke - ra
+=3' 2. B)2 2 rest
+#=4' 2 d)2 2. c#
+=4' 2. d)2 2 c#
+r0.1 .03 - .61 do
+|
+is0.5 .40 b233
+=1 1 G)2 4 rest
+=2 2 F)2 2. E(2
+r0.5 .03 - .42 do
+=3' 1 B 4 B
+r0.7 .07 Kon .45 - .76 ke
+=4 2. rest 2 c#(2
+r0.1 .60 Kon
+/
+6 bars | 5 | 5 | 5 | 4/4 4 | 4 | 4 |
+|
+is0.5 .01 g#233 .59 g#243 .80 g#333
+=1 1 G# 4 G#
+r0.7 .07 Kon .45 - .76 ke
+=2 4 E)2 2 rest 2 F(2
+r0.5 .60 Kon
+=3' 1 A# 4 B(2
+r0.7 .01 - ra .45 - .78 do
+=4' 2 c#)2 4 c# 2 d(2
+r0.1 .01 - .40 ke - ra
+|
+is0.5 .01 a233 .59 a243 .80 f#234
+=1 1 A 4 G#(2
+#=1 2. A 2 G#(2
+r0.7 .01 - ra .45 - .78 do
+=2 2 F)2 4 F 2 Gb(2
+r0.5 .01 - .37 ke - ra
+=3' 2. B)2 2 rest
+=4 2. d')2 2 eb(1
+r0.1 .03 - .61 do
+|
+is0.5 .01 f#243 .59 c233
+=1 2. G#)2 2 rest
+#=2 2 Gb)2 2. F
+=2 2. Gb)2 2 F
+r0.5 .03 - .61 do
+=3 1 c 4 c
+r0.6 .07 Kon .45 - .76 ke  -
+=4 4 eb)1 2 rest 2 d(1
+r0.2 .65 Kon
+| 3.6
+il1.0 .24 10
+is0.5 .04 d333 .49 eb234
+=1 4/4 2. G# 4 G#
+r0.7 .08 Kon .40 - .75 ke .93 -
+=2 4/4 2 rest F(2
+r0.6 .54 Kon
+=3 4/4 2. B 4 c(1
+r0.6 .10 ra .40 - .78 do
+=4 4/4 4 d)1 d 2 eb(1
+r0.2 .02 - .30 ke - ra
+|
+is0.5 .01 eb243 .49 c243 c242
+=1 2. A 4 G#
+r0.7 .04 ra .40 - .74 do
+=2 4 F)2 F 2 Gb(2
+r0.6 .01 - .26 ke - ra .90 -
+=3 2 c)1 rest
+=4 2 eb)1 2 d(1
+r0.2 .03 - .53 do
+|
+is0.5 .25 c233
+=1 4 rest 2 G# 4 G#
+r0.7 .25 Kon .52 - .75 ke .93 -
+=2 4 Gb)2 F rest F(2
+r0.6 .25 do .65 Kon  -
+=3 2. c 4 c
+r0.6 .06 Kon .40 - .72 ke  -
+=4 4 d)1 rest 2 d(1
+r0.2 .57 Kon .90 -
+/
+6 bars | 4 | 4 | 4 | 4 | 4 | 4 |
+|
+is0.5 .01 a233 .50 a243 .75 f#243
+=1 2. A 4 G#
+r0.7 .04 ra .40 - .74 do
+=2 4 F)2 F 2 Gb(2
+r0.6 .01 - .26 ke - ra .90 -
+=3 2. B 4 c
+r0.7 .07 ra .40 - .77 do
+=4 4 d)1 d 2 eb(1
+r0.2 .02 - .24 ke - ra
+|
+is0.5 .25 c233
+=1 4 rest 2 G# 4 G#
+r0.7 .23 Kon .52 - .74 ke .93 -
+=2 4 Gb)2 F rest F(2
+r0.6 .25 do .65 Kon  -
+=3 4 rest 2 c 4 c
+r0.7 .21 Kon .49 - .72 ke .93 -
+=4 4 eb)1 d rest d(1
+r0.2 .03 - .27 do .78 Kon
+|
+il1.0 .24 15
+is0.5 .01 a233 .49 a243 .75 bb233
+=1' 2. A 4 Bb
+r0.7 .04 ra .40 - .74 do
+=2 4 F)2 F 2 F#(2
+r0.6 .01 - .26 ke - ra .90 -
+=3 2. B 4 c
+r0.7 .07 ra .40 - .77 do
+=4 4 d)1 d 2 d#(1
+r0.2 .02 - .24 ke - ra .90 -
+|
+is0.5 .25 bb243 .75 bb233
+=1' 4 rest 2 Bb 4 Bb
+r0.7 .25 Kon .52 - .75 ke .93 -
+=2 4 F#)2 G rest Gb(2
+r0.6 .25 do .65 Kon  -
+=3 4 rest 2 c 4 c
+r0.7 .21 Kon .49 - .72 ke .93 -
+=4 4 d#)1 e rest eb(1
+r0.2 .27 do .78 Kon
+|
+is0.5 .01 a243 .25 a233 .50 a223 .75 g#233
+=1 2. A 4 G#(2
+r0.7 .04 ra .40 - .74 do
+=2 4 Gb)2 F 2 E(2
+r0.6 .01 - .26 ke - ra
+=3' 2. B 4 A#
+r0.7 .04 ra .40 - .74 do
+=4 4 eb)1 d 2 c#(2
+r0.2 .02 - .24 ke - ra .90 -
+|
+is0.5 .25 g#243
+=1 2. G#)2 4 rest
+=2 4 E)2 2. F
+r0.6 .01 - .25 do 
+=3' 4 rest 2 A# 4 A#
+r0.7 .25 Kon .52 - .75 ke .93 -
+=4' 4 c#)2 d rest d(2
+r0.2 .27 do .72 Kon  -
+/
+6 bars | 5/4 5 | 5 | 5 | 5 | 5 | 5 ||
+| 4.5
+is0.5 .01 f243 .59 b233 .80 bb333
+=1 5/4 1 G 4 G
+r0.7 .12 Kon .45 - .76 ke  -
+=2 5/4 2. rest 2 E(2
+r0.5 .60 Kon
+=3' 5/4 1 B 4 Bb(2
+r0.7 .04 - .13 ra .45 - .78 do
+=4' 5/4 2 d)2 4 d 2 c#(2
+r0.1 .04 - .45 ke - ra
+|
+il1.0 .23 20
+is0.5 .01 ab233 .39 g333 .80 f233
+=1 2 Ab 2. G(2
+r0.7 .03 ra .25 - .42 do
+=2 2. E)2 4 E F(2
+r0.5 .09 - .58 ke - ra
+=3' 2. Bb)2 2 rest
+=4' 2. c#)2(2 2 c#)2
+r0.2 .40 -
+|
+is0.5 .01 f234 .39 d233 .60 c#333
+=1 2. G)2 2 rest
+=2 2 F)2 2. E(2
+r0.6 .10 - .40 do
+=3' 1 Bb 4 Bb
+r0.7 .06 Kon .45 - .76 ke  -
+=4' 2 d 4 rest 2 db(2
+r0.1 .03 do .60 Kon
+|
+is0.5 .01 g243 .59 g234  bb243
+=1 1 G 4 G
+r0.7 .05 Kon .45 - .76 ke  -
+=2 4 E)2 2 rest 2 E(2
+r0.5 .57 Kon
+=3' 1 A 4 Bb(2
+r0.7 .05 ra .45 - .78 do
+=4' 2 db)2 4 db 2 c(2
+r0.1 .04 - .40 ke - ra
+|
+is0.5 .01 ab224 .60 ab234
+=1 2. Ab(2 2 Ab)2
+r0.7 .05 ra .70 -
+=2 2 E)2 4 E 2 F(2
+r0.5 .09 - .39 ke - ra
+=3' 2. Bb)2(2 2 Bb)2(2
+r0.2 .40 -
+=4' 2. c)2 2 db(2
+r0.1 .15 - .60 do
+|
+is0.5 .01 f233 .40 c#333
+=1 1 G
+r0.7 .03 do
+=2 2 F)2 2. E
+r0.5 .05 - .40 do
+=3' 1 Bb)2
+=4 1 db)2
+@
+
+
+1.7
+log
+@corrected the chord-analysis accordingly
+@
+text
+@d71 1
+a71 1
+r0.7 - ra .45 - .78 do
+d73 1
+a73 1
+r0.1 .01 - .37 ke - ra
+d91 1
+a91 1
+r0.7 .07 Kon .45 - .76 ke
+d93 1
+a93 1
+r0.1 .60 Kon
+d98 1
+d100 1
+d102 1
+d104 1
+d108 1
+d110 1
+a111 1
+#=4 4 eb)1 2. d(1
+d113 1
+d117 1
+d119 1
+d121 1
+d123 1
+d129 1
+d131 1
+d133 1
+d135 1
+d139 1
+d141 1
+d143 1
+d145 1
+d150 1
+d152 1
+d154 1
+d156 1
+d160 1
+d162 1
+d164 1
+d166 1
+d170 1
+d172 1
+d174 1
+d176 1
+d181 1
+d183 1
+d185 1
+d191 1
+d193 1
+d195 1
+d197 1
+a200 1
+#=1 1 Ab 4 G(2
+d202 1
+a202 1
+#=2 2 E)2 4 E 2 F(2
+d204 1
+a205 1
+#=4' 2 c#)2 2. d(2
+d207 1
+d212 1
+d214 1
+a214 1
+#=4' 4 d)2 2 rest 2 db(2
+d216 1
+d220 1
+d222 1
+d224 1
+d226 1
+a228 1
+#=1 1 Ab 4 G(2
+d230 1
+d232 1
+d234 1
+a234 1
+#=4' 4 c)2 1 db(2
+d236 1
+a238 1
+#=1 1 G)2
+d240 1
+d242 1
+@
+
+
+1.6
+log
+@adjusted rhythms for less squirminess
+@
+text
+@d15 1
+a15 1
+is0.5 .01 d243 .40 b234 .60 b243 .80 b242
+d43 1
+a43 1
+is0.5 .01 d243 .40 b234 .80 b242
+d52 1
+a52 1
+r0.1 .03 - .42 do
+d65 1
+a65 1
+is0.5 .01 g#333 .59 g#243 .80 g#333
+d75 1
+a75 1
+is0.5 .01 a233 .40 a242 .60 f#234
+d83 1
+a83 1
+r0.1 .03 - .42 do
+d85 1
+a85 1
+is0.5 .01 f#243 .39 eb234 .61 c233
+d89 1
+a89 1
+r0.5 .03 - .42 do
+d96 1
+a96 1
+is0.5 .02 d333 .49 eb233 .76 eb234
+d102 1
+a102 1
+is0.5 .01 eb243 c234 db243 c242
+d163 1
+a163 1
+is0.5 .01 ab233 .39 ab242 ab243 f242
+d172 1
+a172 1
+is0.5 .01 e333
+d179 1
+a179 1
+is0.5 .01 g243 .59 g234 bb243
+d185 1
+a185 1
+is0.5 .01 ab224 ab233 .60 ab234 f233
+d193 1
+a193 1
+is0.5 .40 c#333
+@
+
+
+1.5
+log
+@analyse the chords
+@
+text
+@d43 1
+a43 1
+is0.5 .01 d243 .40 b234 .60 b243 .80 b242
+d45 1
+d50 2
+a51 1
+=4' 2 d)2 2. c#
+d75 1
+a75 1
+is0.5 .01 a233 .40 a242 .60 a243 .80 f#234
+d77 1
+d82 1
+a82 1
+=4 2 d')2 2. eb(1
+d87 2
+a88 1
+=2 2 Gb)2 2. F
+d106 2
+a107 1
+=4 4 eb)1 2. d(1
+d164 4
+a167 2
+=1 1 Ab 4 G(2
+=2 2 E)2 4 E 2 F(2
+d169 2
+a170 1
+=4' 2 c#)2 2. d(2
+d176 2
+a177 1
+=4' 4 d)2 2 rest 2 db(2
+d186 2
+a187 1
+=1 1 Ab 4 G(2
+d190 2
+a191 1
+=4' 4 c)2 1 db(2
+d194 2
+a195 1
+=1 1 G)2
+@
+
+
+1.4
+log
+@words for the first none bars
+@
+text
+@d5 1
+a5 1
+7 bars | 48 |
+d7 1
+d15 1
+d23 1
+d32 1
+d42 2
+a43 1
+il0.7 .04 5
+d52 1
+d60 2
+d63 1
+a71 2
+/
+7 bars | 5 | 5 | 4/4 4 | 4 | 4 | 4 | 4 |
+d73 1
+d82 1
+d91 2
+a92 1
+il0.7 .04 10
+d98 1
+d104 1
+d109 2
+d112 1
+d118 1
+a122 2
+/
+7 bars | 4 | 4 | 4 | 4 | 5/4 5 | 5 | 5 |
+d124 2
+a125 1
+il0.7 .04 15
+d131 1
+d137 1
+d143 1
+d148 2
+d151 1
+d157 2
+a158 1
+il0.7 .04 20
+d164 1
+a168 2
+/
+7 bars | 5 | 5 | 5 || 4 | 4 | 4 | 4 |
+d170 1
+d176 1
+d182 1
+@
+
+
+1.3
+log
+@er... more shapely, and up one semtione
+@
+text
+@d8 1
+d10 1
+d15 1
+d17 1
+d23 1
+d25 1
+d27 1
+d30 1
+d32 1
+d34 1
+d36 1
+d40 1
+d42 1
+d45 1
+d49 1
+d51 1
+d53 1
+d56 1
+d58 1
+d60 1
+d62 3
+d67 1
+d69 1
+d72 1
+d76 1
+d78 1
+d80 1
+d107 2
+d146 2
+d155 1
+a155 1
+=2 4 E)2 2 E 2 F(2
+d157 1
+a157 1
+=4' 2 c)2 2. db(2
+@
+
+
+1.2
+log
+@shapely but not very varied, up to 86sec
+@
+text
+@a3 1
+
+d6 20
+a25 20
+| 3.6
+=1 treble     cha0 leg105  2. F# 4 F#
+=2 treble     cha0 leg105  2 rest D#(2
+=3 treble8vab cha0 leg105  2 blank 1 rest
+=4 bass       cha0 leg105  2 blank 1 rest
+|
+=1 2. G 4 F#(2
+=2 4 D#)2 D# 2 E(2
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+|
+=1 2 F#)2 rest
+=2 4 E)2 2. D#
+=3' 2. Bb 4 Bb
+=4 2 rest c(2
+|
+=1 2. F# 4 F#
+=2 2 rest D#(2
+=3' 2. A 4 Bb(2
+=4' 4 c)2 c 2 db(2
+d28 25
+a52 26
+=1 2. G 4 F#(2
+=2 4 D#)2 D# 2 E(2
+=3' 2 Bb)2 rest
+=4' 4 db)2 2. c
+
+|
+=1 2 F#)2 rest
+=2 4 E)2 2. D#
+=3' 2. Bb 4 Bb
+=4 2 rest c(2
+#|
+#=1 2. F# 4 F#
+#=2 2 rest D#(2
+#=3' 2. A 4 Bb(2
+#=4' 4 c)2 c 2 db(2
+#|
+#=1 2. G 4 F#(2
+#=2 4 D#)2 D# 2 E(2
+#=3' 2 Bb)2 rest
+#=4' 4 db)2 2. c
+#|
+#=1 2 F#)2 rest
+#=2 4 E)2 2. D#
+#=3' 2. Bb 4 Bb
+#=4 2 rest c(2
+|
+d54 24
+a77 24
+=1 2. G 4 G
+=2 2 rest E(2
+=3' 2. A 4 Bb(2
+=4' 4 c)2 c 2 db(2
+|
+=1 2. Ab 4 G(2
+=2 4 E)2 E 2 F(2
+=3' 2 Bb)2 rest
+=4' 4 db)2 2. c
+|
+=1 2 G)2 rest
+=2 4 F)2 2. E
+=3' 2. Bn 4 B
+=4 2 rest c#(2
+|
+=1 2. G 4 G
+=2 2 rest E(2
+=3' 2. A# 4 B(2
+=4' 4 c#)2 c# 2 d(2
+|
+=1 2. Ab 4 G
+=2 4 E)2 E 2 F(2
+=3' 2 B)2 rest
+=4' 4 d)2 2. c#
+d80 50
+a129 64
+=1 4 rest 2 G 4 G
+=2 4 F)2 E rest E(2
+=3' 2. B 4 B
+=4 2 rest c#(2
+|
+=1 2. Ab 4 G
+=2 4 E)2 E 2 F(2
+=3' 2. A# 4 B
+=4' 4 c#)2 c# 2 d(2
+|
+=1 4 rest 2 G 4 G
+=2 4 F)2 E rest E(2
+=3' 4 rest 2 B 4 B
+=4' 4 d)2 c# rest c#(2
+|
+=1 2. Ab 4 G
+=2 4 E)2 E 2 F(2
+=3' 2. A# 4 B
+=4' 4 c#)2 c# 2 d(2
+|
+=1 4 rest 2 G 4 G
+=2 4 F)2 E rest E(2
+=3' 4 rest 2 B 4 B
+=4' 4 d)2 c# rest db(2
+|
+=1 2. F# 4 G(2
+=2 4 E)2 E 2 D#(2
+=3' 2. Bb 4 A
+=4' 4 db)2 db 2 c(2
+|
+=1 2 G)2 rest
+=2 4 D#)2 2. E
+=3' 2. A 4 A
+=4' 4 c)2 db 2 db(2
+|
+=1 2. F# 4 F#
+=2 2 rest D#(2
+=3' 2. Bb 4 A(2
+=4' 4 db)2 db 2 c(2
+|
+=1 2. G 4 F#(2
+=2 4 D#)2 D# 2 E(2
+=3' 2 A)2 rest
+=4' 4 c)2 2. db
+|
+=1 2 F#)2 rest
+=2 4 E)2 2. D#
+=3' 2. Bb 4 Bb
+=4' 2 rest c(2
+|
+=1 2. F# 4 F#
+=2 2 rest D#(2
+=3' 2. A 4 Bb(2
+=4' 4 c)2 c 2 db(2
+|
+=1 2. G 4 F#(2
+=2 4 D#)2 D# 2 E(2
+=3' 2 Bb)2 rest
+=4' 4 db)2 2. c
+|
+=1 1 F#)2
+=2 4 E)2 2. D#
+
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+3 systems /17-25-17-25-17-25-17/
+d39 15
+a53 15
+|
+=1 2. F# 4 F#
+=2 2 rest D#(2
+=3' 2. A 4 Bb(2
+=4' 4 c)2 c 2 db(2
+|
+=1 2. G 4 F#(2
+=2 4 D#)2 D# 2 E(2
+=3' 2 Bb)2 rest
+=4' 4 db)2 2. c
+|
+=1 2 F#)2 rest
+=2 4 E)2 2. D#
+=3' 2. Bb 4 Bb
+=4 2 rest c(2
+d103 1
+a103 1
+=2 4 F)2 E rest E
+d105 41
+a145 1
+=4' 4 d)2 c# rest c#
+@
