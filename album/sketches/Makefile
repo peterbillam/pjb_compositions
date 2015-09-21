@@ -1,4 +1,4 @@
-PIECE=konkerado
+PIECE=only_the_glories
 # sometimes web remember web3 web2 web4
 ALL=20150505 20150630
 
@@ -8,7 +8,7 @@ edit :
 	${EDITOR} ${PIECE}
 	muscript ${PIECE} > ${PIECE}.a4
 	pkill -HUP gv
-	muscript -midi ${PIECE} | midisox_py - -d stat
+	muscript -midi ${PIECE} | midisox_py - -d stat trim 27.5
 
 play :
 	muscript -midi ${PIECE} | midisox_py - -d stat

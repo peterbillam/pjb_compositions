@@ -246,3 +246,5 @@ r0.7 .03 do
 r0.5 .05 - .40 do
 =3' 1 Bb)2-dim30
 =4 1 db)2-dim30
+
+midi pause 4.0

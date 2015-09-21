@@ -1,10 +1,15 @@
-head	1.4;
+head	1.5;
 access;
 symbols;
 locks
-	pjb:1.4; strict;
+	pjb:1.5; strict;
 comment	@# @;
 
+
+1.5
+date	2015.09.20.03.51.54;	author pjb;	state Exp;
+branches;
+next	1.4;
 
 1.4
 date	2015.09.09.09.47.00;	author pjb;	state Exp;
@@ -32,17 +37,17 @@ desc
 @
 
 
-1.4
+1.5
 log
-@spaced up to end; plausible ?
+@2nd-voice in bar 46 sing "her" not "be"
 @
 text
 @3 systems 10 /17-22-17-22-17-30-17-22-17 \
- /17-22-17-22-17-28-17-22-17 \
- /17-22-17-22-17-28-17-22-17/
+ /17-22-17-22-17-31-17-22-17 \
+ /17-22-17-22-17-31-17-22-17/
 title The Spell
 pagenum
-innerhead Peter Billam,  The Spell
+innerhead Peter Billam,  from Album for Choir
 leftfoot (c) 2015 Peter J Billam
 
 midi channel 0 patch 82
@@ -122,7 +127,7 @@ r0.5 .52 wine
 r0.5 .05 wide .76 with
 =3 4/4 4 Db rest rest 8 rest A_b
 r0.4 .05 fun
-r0.3 .82 their
+r0.4 .82 their
 =4 4/4 4 A rest rest 8 rest G#
 r0.5 .05 fun .82 their
 =5 4/4 4 rest 2. A
@@ -132,7 +137,8 @@ r0.2 .27 wine
 =2 5/4 2. F# 2 G#
 r0.5 .04 wine .60 and
 =3 5/4 8 [Db C] 4 Db rest 8 rest [A_# C# Dn]
-r0.3 .04 nostrils wide .62 with wine and
+r0.5 .04 nostrils wide
+r0.4 .62 with wine and
 =4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
 r0.5 .04 nostrils wide .62 with wine and
 =5 5/4 2 rest 2. B
@@ -182,7 +188,7 @@ r0.1 .28 road
 =2 5/4 2. F# 2 E
 r0.5 .04 neath .60 the
 =3 5/4 8 [Db C] 4 Db rest 8 rest [B_b C# Dn]
-r0.5 .03 road sings un .40 - .65 derneath the
+r0.4 .03 road sings un .40 - .65 derneath the
 =4 5/4 8 [A A] 4 A rest 8 rest [A# B' A#]
 r0.5 .03 road sings un .40 - .65 derneath the
 =5 5/4 2 rest 2. B
@@ -204,7 +210,7 @@ r0.1 .29 sun
  /17-22-17-22-17-28-17-22-17 \
  /17-22-17-22-17-28-17-22-17/
 pagenum
-innerhead Peter Billam,  The Spell
+innerhead Peter Billam,  Album for Choir,  The Spell
 leftfoot (c) 2015 Peter J Billam
 
 /
@@ -358,7 +364,7 @@ r0.2 .27 drive
  /17-22-17-22-17-28-17-22-17 \
  /17-22-17-22-17-32-17-22-17/
 pagenum
-innerhead Peter Billam,  The Spell
+innerhead Peter Billam,  Album for Choir,  The Spell
 leftfoot (c) 2015 Peter J Billam
 
 /
@@ -371,7 +377,7 @@ r0.5 .08 spell .66 runs
 =2 5/4 2. c(1 2 c)1
 r0.5 .08 spell
 =3 5/4 1 D 4 E
-r0.5 .08 spell .80 runs
+r0.6 .08 spell .80 runs
 =4 5/4 1 F#
 r0.6 .08 spell
 =5 5/4 2. G# 2 A
@@ -394,7 +400,7 @@ r0.6 .09 on .66 a .90 -
 =2 5/4 2. A 2 G#
 r0.6 .09 on .65 a .88 -
 =3 5/4 2. F# 4 rest F#
-r0.6  - .07 head .81 the
+r0.6  .07 head .81 the
 =4 5/4 2. A 2 B'
 r0.6 .09 on .66 a .90 -
 =5 5/4 2 c 2. d'
@@ -466,7 +472,7 @@ r0.5 .09 cud .38 - .59 dled
 =3 5/4 4 Eb 8 D 4. Eb 8 rest [A_ Eb D]
 r0.4 .09 cuddle .35 close .68 they cuddle
 =4' 5/4 4 B 8 B 4. B 8 rest [A B B]
-r0.6 .09 cuddle .35 close .68 they cuddle
+r0.7 .09 cuddle .35 close .68 they cuddle
 =5 5/4 2 rest 2. B
 r0.1 .44 close
 | 2.0
@@ -477,7 +483,8 @@ r0.5 .53 close
 =3 4/4 4 Eb rest rest 8 rest A_
 r0.4 .07 close .76 they're
 =4' 4/4 4 B rest F 8 rest A
-r0.6 .07 close .50 close .76 they're
+r0.7 .07 close
+r0.6 .50 close .76 they're
 =5 4/4 4 rest 2. B
 r0.1 .29 close
 | 2.5
@@ -507,9 +514,9 @@ r0.1 .30 low
 
 3 systems 10 /17-22-17-22-17-30-17-22-17 \
  /17-22-17-22-17-30-17-22-17 \
- /17-22-17-22-17-28-17-22-17/
+ /17-22-17-22-17-28-17-25-17/
 pagenum
-innerhead Peter Billam,  The Spell
+innerhead Peter Billam,  Album for Choir,  The Spell
 leftfoot (c) 2015 Peter J Billam
 
 /
@@ -538,7 +545,7 @@ r0.5 .08 warm .48 warm .84 with
 r0.1 .27 warm
 | 2.5
 =1 5/4 2. G# 2 A#
-r0.5 .08 af .37 - .57 ter
+r0.5 .08 af .37 - .57 ter .85 -
 =2 5/4 2. rest 2 rest
 =3 5/4 4 Eb 8 D 4. Eb 8 rest [C Eb En]
 r0.5 .08 af - ter - glow .70 with after -
@@ -628,11 +635,11 @@ r0.1 .44 tear
 =1  4/4 2. A 4 F#
 r0.5 .10 in .73 her
 =2' 4/4 2 rest 4. <A c> 8 rest
-r0.6 .53 be
+r0.6 .53 her
 =3  4/4 8 [E E] 4 E rest 8 rest D#
-r0.5 .09 in  her eye .76 forms
+r0.5 .08 in  her eye .76 forms
 =4  4/4 8 [c B] 4 c rest 8 rest A
-r0.5 .09 in  her eye .76 forms
+r0.5 .08 in her  eye .76 forms
 =5  4/4 2 rest c
 r0.2 .52 her
 | 2.5
@@ -671,7 +678,7 @@ r0.5 .12 fields
  /17-30-17-28-17-32-17-22-17 \
  /17-28-17-28-17-33-17-22-17/
 pagenum
-innerhead Peter Billam,  The Spell
+innerhead Peter Billam,  Album for Choir,  The Spell
 leftfoot (c) 2015 Peter J Billam
 
 /
@@ -781,29 +788,29 @@ r0.2 .05 fire .50 burns
 =1' 2 rest Bb
 r0.6 .51 the
 =2 8 Ab 4 Gb}'1 4. F 4 F(2
-r0.6 .41 the .74 snow .90 -
+r0.6 .41 the .74 snow
 =3 2 Eb)2 rest
 =4' 4 B)2{'1 A# 8 G# 4 A#}'1 8 G#{'1
-r0.5 .85 the
+r0.6 .85 the
 =5 2 eb)1 rest
 |
 il0.7 .05 60
 =1' 1 A
 r0.7 .02 snow .65 -
 =2 8 [F)2{'1 F# G F#}'1] [Fn{'1 F# G F#}'1]
-r0.6 .55 flakes ,
+r0.6 .10 - .55 flakes ,
 =3 4 D{'1 4 Eb 8 D}'1 rest 4 Eb{'1
 r0.6 .03 the
-r0.7 .73 snow .95 -
+r0.7 .73 snow
 =4' 2 A}'1 B{'1
-r0.6 .52 snow .65 -
+r0.6 .52 snow .85 -
 =5  1 a
 r0.1 .03 snow .65 -
 |
 =1' 1 G
 r0.7 .02 flakes
-=2 8 [F{'1 E D# E}'1] [F{'1 E D# E}'1(2]
-r0.6 .02 snow .50 flakes
+=2 8 [Fn{'1 E D# E}'1] [F{'1 E D# E}'1(2]
+r0.6 .02 snow .30 - .50 flakes
 =3 4 D 4. Db}'1 C(2
 r0.4 .63 flakes
 =4' 4. Bb}'1 8 rest 2 A
@@ -825,7 +832,7 @@ r0.1 .05 fall
  /17-28-17-28-17-28-17-27-17 \
  /17-27-17-26-17-33-17-22-17/
 pagenum
-innerhead Peter Billam,  The Spell
+innerhead Peter Billam,  Album for Choir,  The Spell
 leftfoot (c) 2015 Peter J Billam
 
 /
@@ -849,7 +856,7 @@ r0.6 .05 a
 =4' 8 G# 4 A#}'1 4. B{'1 4 A#
 r0.7 .41 tear
 =5 1 g#(1
-r0.2 .04 a .70 -
+r0.2 .04 a
 |
 il0.7 .05 65
 =1  1 Gb
@@ -896,7 +903,7 @@ r0.4 .05 her
 =3 4. D#{'1 4 E 8 F# 4 E}'1
 r0.5 .05 her
 =4 8 [G#)2{'1 F#] 4 G#}'1 4. A{'1 8 G#
-r0.6 .55 eye
+r0.6 .58 eye
 =5 1 gb)1
 
 |
@@ -945,7 +952,7 @@ r0.2 .09 spell .62 the
 r0.6 .03 spell
 =2 1 c#}'1(1 4 c#)1
 =3 1 G#(2 4 G#)2(2
-r0.5 .03 spell
+r0.6 .03 spell
 =4 1 A#(2 4 A#)2
 r0.6 .03 spell
 =5 1 c#(2 4 c#)2
@@ -987,7 +994,7 @@ r0.6 .03 spell .40 fla .65 - .80 shes
 r0.6 .03 spell
 =3 4 F)2{'1 Eb 4 D 2 C#}'1
 =4 4 Ab}'1 G 2. F(2
-r0.5 .21 shes .40 by
+r0.5 .21 shes  by
 =5 1 eb
 r0.2 .03 fla .60 -
 | 2.7
@@ -999,14 +1006,14 @@ r0.6 .03 fla .32 - .60 shes
 r0.4 .03 fla .32 - .60 shes
 =4 2. F)2 rest
 =5' 2. d(2 2 d)2
-r0.2   - .02 shes
+r0.2 .02 shes
 
 | 2.8
 =1 4 F)2 1 rest
 =2 2. F(2 2 F)2(2
 r0.5 .05 by  .   .   .
-=3 2 rest 2. B_b(1
-r0.3 .42 by  .   .   .
+=3 2 rest 2. B_b(2
+r0.4 .42 by  .   .   .
 =4 2 rest 2. Ab(2
 r0.5 .42 by  .   .   .
 =5 2. c#(2 2 c#)2(2
@@ -1014,10 +1021,117 @@ r0.2 .05 by  .   .   .
 | 3.5
 =1 1 rest-fermata-dim0-dim40
 =2 1 F)2-fermata-dim0-dim40
-=3 1 B_b)1-fermata-dim0-dim40
+=3 1 B_b)2-fermata-dim0-dim40
 =4 1 Ab)2-fermata-dim0-dim40
 =5 1 c#)2-fermata-dim0-dim40
 
+@
+
+
+1.4
+log
+@spaced up to end; plausible ?
+@
+text
+@d2 2
+a3 2
+ /17-22-17-22-17-28-17-22-17 \
+ /17-22-17-22-17-28-17-22-17/
+d6 1
+a6 1
+innerhead Peter Billam,  The Spell
+d86 1
+a86 1
+r0.3 .82 their
+d96 2
+a97 1
+r0.3 .04 nostrils wide .62 with wine and
+d147 1
+a147 1
+r0.5 .03 road sings un .40 - .65 derneath the
+d169 1
+a169 1
+innerhead Peter Billam,  The Spell
+d323 1
+a323 1
+innerhead Peter Billam,  The Spell
+d336 1
+a336 1
+r0.5 .08 spell .80 runs
+d359 1
+a359 1
+r0.6  - .07 head .81 the
+d431 1
+a431 1
+r0.6 .09 cuddle .35 close .68 they cuddle
+d442 2
+a443 1
+r0.6 .07 close .50 close .76 they're
+d473 1
+a473 1
+ /17-22-17-22-17-28-17-22-17/
+d475 1
+a475 1
+innerhead Peter Billam,  The Spell
+d504 1
+a504 1
+r0.5 .08 af .37 - .57 ter
+d594 1
+a594 1
+r0.6 .53 be
+d596 1
+a596 1
+r0.5 .09 in  her eye .76 forms
+d598 1
+a598 1
+r0.5 .09 in  her eye .76 forms
+d637 1
+a637 1
+innerhead Peter Billam,  The Spell
+d747 1
+a747 1
+r0.6 .41 the .74 snow .90 -
+d750 1
+a750 1
+r0.5 .85 the
+d757 1
+a757 1
+r0.6 .55 flakes ,
+d760 1
+a760 1
+r0.7 .73 snow .95 -
+d762 1
+a762 1
+r0.6 .52 snow .65 -
+d768 2
+a769 2
+=2 8 [F{'1 E D# E}'1] [F{'1 E D# E}'1(2]
+r0.6 .02 snow .50 flakes
+d791 1
+a791 1
+innerhead Peter Billam,  The Spell
+d815 1
+a815 1
+r0.2 .04 a .70 -
+d862 1
+a862 1
+r0.6 .55 eye
+d911 1
+a911 1
+r0.5 .03 spell
+d953 1
+a953 1
+r0.5 .21 shes .40 by
+d965 1
+a965 1
+r0.2   - .02 shes
+d971 2
+a972 2
+=3 2 rest 2. B_b(1
+r0.3 .42 by  .   .   .
+d980 1
+a980 1
+=3 1 B_b)1-fermata-dim0-dim40
 @
 
 
