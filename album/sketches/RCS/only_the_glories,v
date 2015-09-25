@@ -1,0 +1,908 @@
+head	1.9;
+access;
+symbols;
+locks
+	pjb:1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2015.09.25.03.14.36;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2015.09.25.01.52.21;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2015.09.24.11.50.33;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2015.09.23.05.52.37;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2015.09.22.08.55.46;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.09.21.05.53.42;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.09.21.00.37.14;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.09.20.10.53.22;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.09.19.09.20.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@first try: plan to split to 6 voices later
+@
+
+
+1.9
+log
+@slight filling-out of the lower voices
+@
+text
+@5 systems /17-22-17-22-17/
+title Only the Glories of the Night
+midi channel 0 patch 82
+
+
+/
+6 bars | 3/4 30 | 36 | 36 | 36 | 4/4 48 | 3/4 36 | 36 |
+| 2.1
+=1 treble     3/4 cha0 leg110 2. F
+r0.5 .14 On .70 -
+=2 treble8vab 3/4 cha0 leg110 2. d
+=3 bass       3/4 cha0 leg110 2. a
+|
+=1 2 A 4 G
+r0.5 .04 ly .66 the
+=2 2 d 4 A
+=3 2 f 4 e
+|
+=1  2 F 4 A(2
+r0.5 .04 glo .36 - .66 ries
+=2' 2 A 4 F(2
+=3' 2 d 4 d(2
+|
+=1  4 A)2 G 4 A
+r0.5 .34 of .67 the
+=2' 4 F)2 F 4 F#
+=3' 4 d)2 db 4 c
+| 2.8
+=1' 4/4 2. B 4 Bb
+r0.5 .14 night .75 will
+=2  4/4 2. G 4 G
+=3  4/4 2. B 4 c
+| 2.1
+=1 3/4 2 Ab 4 F
+r0.5 .14 be .67 im  -
+=2 3/4 2 Ab 4 Ab
+=3 3/4 2 d 4 f
+|
+=1 4 Ab 2 G(2
+r0.5 .01 mor - tal ;
+=2 4 B  2 c#(1
+=3 4 f  2 g(1
+/
+7 bars | 4/4 48 | 10 10 10 12 | 10 10 10 12 | 36 | 48 | 3/4 36 | 4/4 48 |
+| 2.75
+=1 4/4 2 G)2 4 rest F
+r0.5 .75 The
+=2 4/4 2 c#)1 4 rest B'
+=3 4/4 2 g)1 4 rest g
+
+|
+=1  2. A  4 G
+r0.5 .02 soil .70 will
+=2' 2. B  4 Bb
+=3  2. f  4 e
+| 2.70
+il0.7 .20 10
+=1  2. B' 4 A
+r0.5 .02 turn .75 to
+=2' 2. A  4 B
+=3  2. eb 4 f
+|
+=1  1 Eb
+r0.5 .02 stone ,
+=2' 1 B
+=3  1 g
+| 2.65
+=1  4 rest F A G
+r0.5 .25 the .50 rain .75 to
+=2' 4 rest B B B
+=3  4 rest g f e
+| 2.05
+=1 3/4 2 B' 4 G#
+r0.5 .12 flood, .67 the
+=2 3/4 2 A  4 Ab
+=3 3/4 2 d# 4 e
+| 2.6 
+=1 4/4 4 B' A# 2 c#
+r0.5 .12 wind to .50 war
+=2 4/4 4 G  G  2 G
+=3 4/4 4 eb d' 2 c#
+/
+5 bars | 48 | 48 |
+|
+il0.7 .20 15
+=1  4 B  cn 2 eb(1
+r0.5 .02 and .25 the .50 sun
+#=2  4 G  Gb 2 F(2
+#=3' 4 eb d  2 cn(2
+=2  4 Gb F  2 F(2
+=3' 4 d  d  2 cn(2
+| 2.55
+=1 2 eb)1 d
+r0.5 .50 to
+=2 2 F)2 Gb
+=3 2 c)2 d
+|
+=1 2. c 4 F#
+r0.5 .04 e .38 - .74 vil
+=2 2. Ab 4 Bb
+=3 2. e 4 f#
+| 2.5
+=1' 2 Bb A(2
+r0.5 .04 ram .27 - .54 pant
+=2  2 d  c#(1
+=3  2 f# f#(1
+|
+=1 2. A)2  4 rest
+=2 2. c#)1 4 rest
+=3 2. f)1  4 rest
+
+/
+6 bars | 3/4 30 | 10 10 12 | 36 | 4/4 10 10 10 12 | 3/4 36 | 36 |
+| 2.0
+il0.7 .20 20
+=1 3/4 2 F 4 G(2
+r0.5 .12 We .68 will
+=2 3/4 2 d 4 A(2
+=3 3/4 2 a 4 e(1
+|
+=1 4 G)2 2 A(2
+r0.5 .34 long
+=2 4 A)2 2 F(2
+=3 4 e)1 2 d'(2
+|
+=1  4 A)2 G 4 A
+r0.5 .34 for .67 the
+=2' 4 F)2 F 4 F#
+=3' 4 d)2 db 4 c
+| 2.6
+=1' 4/4 2 B  4 A# B
+r0.5 .11 night .50 to .75 un .90 -
+=2  4/4 2 G  4 G  G
+=3  4/4 2 B  4 c#  B
+|
+=1 2 c# 4 B c#
+r0.5 .01 co .30 - .48 ver .75 our
+=2 2 F# 4 G F#
+=3 2 A# 4 B An
+|
+il0.7 .20 25
+=1 1 d
+r0.5 .01 eyes
+=2 1 E
+=3 1 G
+
+/
+7 bars | 3/4 36 | 36  | 36 | 36 | 36 | 36 | 36 |
+| 1.95
+=1 3/4 4 rest G G#
+r0.5 .40 as .70 the
+=2 3/4 4 rest B Ab
+=3 3/4 4 rest e e
+|
+=1 2. B'(2
+r0.5 .01 stars
+=2 2. Ab(2
+=3 2. eb(1
+
+|
+=1 4 B')2 A A#
+r0.5 .34 in .65 their
+=2 4 Ab)2 db c
+=3 4 eb)1 gb gb
+|
+=1 2 c# 4 A#(2
+r0.5 .01 thou .38 - .67 sands
+=2 2 Bb 4 Bb(1
+=3 2 f  4 f(1
+|
+il0.7 .20 30
+=1 2 A#)2 4 B'
+r0.5 .67 be  -
+=2 2 Bb)1 4 Ab
+=3 2 f)1 4 f
+|
+=1 2. d(1
+r0.5 .02 jewell
+=2 2. G#(2
+=3 2. e(1
+|
+=1 2. d)1
+=2 2. G#)2
+=3 2. e)1
+/
+6 bars | 36 | 4/4 48 | 48 | 48 | 48 | 3/4 36 |
+|
+=1 4 rest 2 c#
+r0.5 .34 the
+=2 4 rest 2 e
+=3 4 rest 2 g#
+| 2.6
+=1 4/4 1 d
+r0.5 .06 deep
+=2 4/4 1 e
+=3 4/4 1 f#
+|
+il0.7 .20 35
+=1 1 Bb
+r0.5 .01 far
+=2 1 e
+=3 1 g#
+|
+=1 2. F# 4 F#
+r0.5 .01 cold .75 be  -
+=2 2. d# 4 d#
+=3 2. a# 4 a#
+|
+=1 1 G(2
+r0.5 .01 yond
+=2 1 c#(1
+=3 1 b(1
+| 1.95
+=1 3/4 4 Gn)2 4 rest Eb
+r0.5 .67 and
+=2 3/4 4 c#)1 4 rest c#
+=3 3/4 4 b)1  4 rest b
+
+/
+7 bars | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 36 |
+| 2.6
+=1 4/4 2 F 4 Eb F
+r0.5 .08 more .54 by  the
+=2 4/4 2 c# 4 c# c#
+=3 4/4 2 a  4 b  a
+| 1.95
+il0.7 .20 40
+=1 3/4 4 G 4 F G
+r0.5 .11 thousand .73 of
+=2 3/4 4 c# c# d#
+=3 3/4 4 g a g
+| 2.6
+=1 4/4 2 A 4 G A
+r0.5 .08 mil  -  lion .76 will
+=2 4/4 2 c# 4 B c#
+=3 4/4 2 g 4 a g
+| 1.95
+=1' 3/4 4 B 4 A B
+r0.5 .08 fling round the
+=2 3/4 4 d# c# d#
+=3 3/4 4 g g a
+| 2.6
+=1 4/4 1 c#
+r0.5 .08 sky
+=2 4/4 1 e
+=3 4/4 1 g
+| 1.95
+=1 3/4 4 rest 2 c#
+r0.5 .41 a
+=2 3/4 4 rest 2 blank
+=3 3/4 4 rest 2 blank
+|
+il0.7 .20 45
+=1 2. cn(1
+r0.5 .03 flow .65 -
+
+/
+8 bars | 36 | 36 | 36 | 36 | 36 | 4/4 48 | 48 | 48 |
+|
+=1 4 c)1 2 Bb'
+r0.5 .35 ing
+=2 2. blank
+=3 2. blank
+|
+=1 2. A(2
+r0.5 .01 mil .65 -
+=2 2. blank
+|
+=1 4 A)2 2 G
+r0.5 .33 ky
+=2 2. blank
+|
+=1 2. A
+r0.5 .01 light
+=2 2. e
+=3 2. f#
+|
+il0.7 .20 50
+=1 4 rest 2 Bb'
+r0.5 .34 as
+| 2.6
+=1 4/4 2. A 4 G#
+r0.5 .08 vast .78 as
+=2 4/4 2. d# 4 blank
+=3 4/4 2. f# 4 blank
+|
+=1 2. F# 4 Gn
+r0.5 .01 all .75 our
+=2 2. d# 4 B
+=3 2. a 4 d#
+|
+=1 4 Ab 2. D
+r0.5 .01 folly,
+=2 4 c  2. Bb
+=3 4 e  2. e
+
+midi off
+
+#midi pause 2.0
+
+/
+6 bars | 48 | 48 |
+|
+=1 4 D E 1 F 4 G
+r0.5 .01 and the galaxy will turn majestic, slowly inward to be torn apart . . .
+=2 2 blank 1 A 4 blank
+=3 2 blank 1 d 4 blank
+|
+=1 1 A 4 G
+|
+=1 1 F 4 A
+
+# midi on
+
+/
+6 bars | 48 |
+#We will see far in those years, and lament much,
+| 2.8
+=1 4 A Bb' 2 d
+r0.5 .02 We  will  see
+|
+=1 1 eb
+r0.5 .03 far
+|
+=1 4 rest G 2 A
+r0.5 .25 in .50 those
+|
+=1 2. A# 4 B'
+r0.5 .03 years, .75 and
+|
+=1 2 A# d
+r0.5 .03 la .30 - .50 ment
+|
+=1 1 c#
+r0.5 .03 much,
+
+
+
+/
+7 bars | 48 | 48 | 48 | 48 | 48 | 40 | 40 ||
+#and fear for shame to meet a living eye.
+| 2.8
+=1 2. blank 4 G
+r0.5 .75 and
+=2 1 blank
+=3 1 blank
+|
+=1 2. A 4 G
+r0.5 .03 fear .75 for
+=2 2.. eb 8 rest
+=3 2.. b  8 rest
+|
+=1 2. A 4 G
+r0.5 .03 shame .75 to
+=2 2.. f   8 rest
+=3 2.. c~# 8 rest
+|
+=1 2. A 4 G
+r0.5 .03 meet .75 a
+=2 2.. eb 8 rest
+=3 2.. b  8 rest
+| 3.1
+=1 2. A 4 G
+r0.5  .03 li .40 - .70 ving
+=2 2.. c  8 rest
+=3 2.. a  8 rest
+| 3.3
+=1 1 Eb(2
+r0.5 .03 eye .
+=2 1 B(2
+=3 1 g#(1
+=3 2 blank 1 rest,
+| 4.3
+=1 1 Eb)2-fermata
+=2 1 B)2-fermata
+=3 1 g#)1-fermata
+=3 1 F-fermata
+@
+
+
+1.8
+log
+@outline-sketched up to bar 53; one line to go
+@
+text
+@d171 1
+d178 1
+a178 1
+r0.5 .02 jewell .90 -
+d191 1
+a191 1
+=3 4 rest 2 ab
+d196 1
+a196 1
+=3 4/4 1 gb
+d198 1
+d202 1
+a202 1
+=3 1 ab
+d204 1
+a204 1
+=1 2. Gb 4 Gb
+d206 2
+a207 2
+=2 2. eb 4 eb
+=3 2. bb 4 bb
+d209 1
+a209 1
+=1 1 Gn(2
+d211 2
+a212 2
+=2 1 db(1
+=3 1 bn(1
+d216 2
+a217 5
+=2 3/4 4 db)1 4 rest blank
+=3 3/4 4 bn)1 4 rest blank
+
+#midi pause 2.0
+#midi off
+d223 3
+a225 3
+r0.5 .01 more by the
+=2 4/4 1 blank
+=3 4/4 1 blank
+d227 1
+d229 3
+a231 3
+r0.5 .01 thousand of
+=2 3/4 4 c#
+=3 3/4 4 g
+d234 3
+a236 3
+r0.5 .01 million will
+=2 4/4 2 c#
+=3 4/4 2 g
+d239 3
+a241 3
+r0.5 .01 fling round the
+=2 3/4 4 d#
+=3 3/4 4 g
+d244 1
+a244 1
+r0.5 .01 sky
+d249 1
+a249 1
+r0.5 .35 a
+d253 2
+a254 1
+=1 2. cn
+d260 2
+a261 2
+=1 2. Bb'
+r0.5 .01 ing
+d265 1
+a265 1
+=1 2. A
+d269 2
+a270 2
+=1 2. G
+r0.5 .01 ky
+d278 1
+d294 6
+a299 2
+=2 4 Bb 2. blank
+=3 4 e  2. blank
+d313 1
+a313 1
+midi on
+@
+
+
+1.7
+log
+@typed in as sketched on the piano
+@
+text
+@d133 2
+a134 2
+=2  4/4 2 G  4 F# G
+=3  4/4 2 B  4 c  B
+d152 1
+a152 1
+=2 3/4 4 rest B Bb
+d166 9
+a174 9
+=1 2. c#
+r0.5 .01 thou .60 -
+=2 2. Bb
+=3 2. f
+|
+=1 2 A# 4 B'
+r0.5 .01 sands .67 be  -
+=2 2 Bb 4 Ab
+=3 2 f 4 f
+d185 1
+a185 1
+6 bars | 36 | 4/4 48 | 48 | 48 | 48 | 48 |
+d202 1
+a202 1
+=1 2. Gb 4 F
+d207 1
+a207 1
+=1 1 Ab
+d209 7
+a215 2
+=2 1 db
+=3 1 bn
+d217 2
+a218 2
+midi pause 2.0
+midi off
+d221 31
+a251 1
+6 bars | 48 | 48 |
+d253 2
+a254 20
+=1 4 Eb 1 F 4 Eb F
+r0.5 .01 and more by the thousand of million will fling round the sky
+=2 1 blank
+=3 1 blank
+|
+=1 1 G 4 F G
+=2 1 c#
+=3 1 g
+|
+=1 1 A 4 G A
+=2 1 c#
+=3 1 g
+|
+=1 1 B 4 A B
+=2 1 d#
+=3 1 g
+|
+=1 1 c#
+=2 1 e
+=3 1 g
+d257 1
+a257 1
+7 bars | 48 | 48 |
+d259 17
+a275 4
+=1 1 c# cn
+r0.5 .01 a flowing milky light as vast as all our folly,
+=2 1 blank
+=3 1 blank
+d277 17
+a293 19
+=1 1 Bb A
+|
+=1 1 G A
+=2 1 blank e
+=3 1 blank f#
+|
+=1 1 rest Bb
+|
+=1 1 A G#
+=2 1 d#
+=3 1 f#
+|
+=1 2 F# Gn
+=2 2 d# B
+=3 2 a d#
+|
+=1 2 Ab D
+=2 1 Bb
+=3 1 e
+@
+
+
+1.6
+log
+@add outline of last line
+@
+text
+@d53 1
+a53 1
+r0.5 .02 soil .75 will
+d83 1
+a83 1
+6 bars | 48 | 48 |
+d88 4
+a91 2
+=2  4 Gb Gb 2 F(2
+=3' 4 d  d  2 c(2
+d111 1
+d116 9
+a124 9
+=1 3/4 2. F
+r0.5 .12 We
+=2 3/4 2. d
+=3 3/4 2. a
+|
+=1 2 G 4 A(2
+r0.5 .01 will .67 long
+=2 2 A 4 F(2
+=3 2 e 4 d'(2
+d137 1
+a137 1
+r0.5 .01 co .30 - .50 ver .75 our
+d148 68
+d218 2
+a219 2
+=1 1 blank
+r0.5 .01 as the stars in their thousands bejwell the deep far cold beyond
+d222 56
+d279 4
+a282 3
+#and more by the thousand of million will fling round the sky
+#a flowing milky light as vast as all our folly,
+#and the galaxy will turn majestic, slowly inward to be torn apart . . .
+d284 20
+a303 1
+#and fear for shame to meet a living eye.
+d307 1
+d322 1
+a322 1
+=3 2.. d~b 8 rest
+@
+
+
+1.5
+log
+@up to 'eyes', 63 sec
+@
+text
+@d85 1
+d112 1
+d130 2
+a131 2
+=2  4/4 2 G  4 G  G
+=3  4/4 2 B  4 c# B
+d138 1
+d158 38
+@
+
+
+1.4
+log
+@sketched up to 48 sec in three voices
+@
+text
+@d8 1
+a8 1
+| 2.25
+d25 1
+a25 1
+r0.5 .04 of .67 the
+d28 1
+a28 1
+| 3.0
+d33 1
+a33 1
+| 2.25
+d44 2
+a45 2
+6 bars | 4/4 48 | 48 | 48 | 48 | 48 | 3/4 36 |
+| 2.9
+d56 1
+a56 1
+| 2.8 
+d67 1
+a67 1
+| 2.7 
+d72 1
+a72 1
+| 2.15
+a76 2
+/
+6 bars | 4/4 48 | 48 |
+d82 2
+d89 1
+a89 1
+| 2.5
+d99 1
+a99 1
+|
+d108 40
+a148 3
+#the wind to war and the sun to evil rampant.
+#We will long for the night to uncover our eyes
+#as the stars in their thousands bejwell the deep far cold beyond
+@
+
+
+1.3
+log
+@much adjustment through to bar 13
+@
+text
+@d44 1
+a44 1
+6 bars | 4/4 48 | 48 |
+d63 1
+a63 1
+=1  2. Eb 4 rest
+d65 2
+a66 2
+=2' 2. B  4 rest
+=3  2. g  4 rest
+d70 1
+a70 1
+=2' 4 rest B B Bb
+d72 5
+a76 5
+|
+=1 2 B' 4 rest G#
+r0.5 .02 flood, .75 the
+=2 2 A  4 rest blank
+=3 2 eb 4 rest blank
+d78 1
+a78 1
+6 bars | 48 |
+d80 4
+a83 2
+=1 4 B' A# 2 c#
+r0.5 .02 wind to .50 war
+d85 1
+a85 1
+=1 4 B cn 2 eb(1
+d87 2
+d92 2
+d97 2
+d102 2
+d105 3
+a107 1
+=1 2. A)2 4 rest
+@
+
+
+1.2
+log
+@much fussing; change bars 1-4 to 3/4
+@
+text
+@d7 1
+a7 1
+7 bars | 3/4 36 | 36 | 36 | 36 | 4/4 48 | 48 |
+d15 2
+a16 2
+r0.5 .04 ly .75 the
+=2 2 d 4 c#
+d19 4
+a22 4
+=1  2 F 4 A
+r0.5 .04 glories
+=2' 2 B 4 G
+=3' 2 d 4 d
+d24 1
+a24 1
+=1  2 G 4 A
+d26 2
+a27 2
+=2' 2 F 4 F#
+=3' 2 db 4 c
+d30 8
+a37 8
+r0.5 .04 night .75 will
+=2 4/4 2. G 4 E
+=3 4/4 2. B 4 c
+|
+=1 2. Ab 4 F
+r0.5 .04 be .75 im -
+=2 2. F 4 Ab
+=3 2. d 4 f
+d39 1
+a39 1
+=1 4 Ab 2. G(2
+d41 2
+a42 2
+=2 4 B  2. c#(1
+=3 4 f  2. g(1
+d44 1
+a44 1
+6 bars | 48 |
+d46 1
+a46 1
+=1 2 G)2 4 rest F
+d48 2
+a49 4
+=2 1 c#)1
+=3 2 g)1 4 rest a
+
+# midi off
+d52 1
+a52 1
+=1 2. A  4 G
+d54 2
+d57 2
+a58 1
+=1 2. B' 4 A
+d60 2
+d63 1
+a63 1
+=1 2. Eb 4 rest
+d65 2
+d68 1
+a68 1
+=1 4 rest F A G
+d70 2
+d75 2
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d7 21
+a27 1
+6 bars | 48 |
+d29 1
+a29 12
+=1 treble     cha0 leg110 4 F 2 A 4 G
+r0.5 .04 On - ly .75 the
+=2 treble8vab cha0 leg110 4 rest A A A#
+=3 bass       cha0 leg110 4 a 2 f 4 e
+|
+=1  4 F A G  A
+r0.5 .04 glories .50 of .75 the
+=2' 4 B G F  F#
+#=3  4 f d db db
+=3' 4 d  d db c
+|
+=1' 2. B 4 Bb
+d31 2
+a32 2
+=2 2. G 4 E
+=3 2. B 4 c
+d43 2
+d51 2
+a52 2
+/
+6 bars | 48 |
+d68 2
+a72 2
+/
+6 bars | 48 |
+d75 1
+d78 1
+d81 1
+d84 1
+@

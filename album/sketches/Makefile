@@ -8,10 +8,12 @@ edit :
 	${EDITOR} ${PIECE}
 	muscript ${PIECE} > ${PIECE}.a4
 	pkill -HUP gv
-	muscript -midi ${PIECE} | midisox_py - -d stat trim 27.5
+	muscript -midi ${PIECE} | midisox_lua - -d stat trim 58.5 # fade 0 40 0
+
+# bar 25/26 is 45.5 sec   bar 32/33 is 58.5
 
 play :
-	muscript -midi ${PIECE} | midisox_py - -d stat
+	muscript -midi ${PIECE} | midisox_lua - -d stat
 
 ${PIECE}.a4 : ${PIECE}
 	muscript ${PIECE} > $@
