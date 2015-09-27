@@ -8,7 +8,7 @@ edit :
 	${EDITOR} ${PIECE}
 	muscript ${PIECE} > ${PIECE}.a4
 	pkill -HUP gv
-	muscript -midi ${PIECE} | midisox_lua - -d stat trim 58.5 # fade 0 40 0
+	muscript -midi ${PIECE} | midisox_lua - -d trim 85 fade 0 15 0
 
 # bar 25/26 is 45.5 sec   bar 32/33 is 58.5
 

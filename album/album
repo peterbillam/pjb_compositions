@@ -290,7 +290,7 @@ r0.3 .85 I
 =3 2. rest 4. rest e
 /
 5 bars |4 4 3 4 4 5 4 4 5 3 3 3 |4 4 6 4 4 5 4 4 3 3 3 3 \
- |4 3 3 4 4 5 4 3 3 3 3 3 |4 4 5 4 4 6 4 4 5 4 4 4 |4 4 5 4 4 7 4 4 5 3 3 3 |
+ |4 3 3 4 4 5 4 3 3 3 3 3 |4 4 5 4 4 7 4 4 5 4 4 4 |4 4 5 4 4 5 4 4 5 3 3 3 |
 |
 =1 2. rest 4. rest E
 r0.5 .74 Some -
@@ -299,7 +299,7 @@ r0.5 .01 think .27 I .43 couldn't
 =3 4. f  4 f# 8 g(1 4 g)1  8 g  4. rest
 |
 il0.5 .23 40
-=1' 4 A 8 G 4 Fn 8 G 4. B rest
+=1' 4 A 8 G 4 F 8 G 4. B rest
 r0.5 .03 times I think I could
 =2 2. rest 4. rest d
 r0.5 .83 I
@@ -722,6 +722,1279 @@ r0.7 .03 do
 r0.5 .05 - .40 do
 =3' 1 Bb)2-dim30
 =4 1 db)2-dim30
+
+midi pause 4.0
+4 systems 5 / 17-23-17-27-17-20-17/ 17-20-17-27-17-20-17 \
+ / 17-20-17-27-17-20-17/ 17-20-17-28-17-20-17 5/
+title Web
+pagenum
+innerhead Peter Billam,  from Album for Choir
+leftfoot (c) 2015 Peter J Billam
+midi channel 0 patch 82
+/
+3 bars | 12/8 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 10/8 4 4 4 4 4 4 4 4 4 3 |
+| 3.0
+#il0.9 .03 6/8 static
+#     >---  >---
+#    ->--  ->--       6/8
+#   -->-  -->-
+#  --->  --->
+=1  treble     12/8 cha0 leg105 1 blank
+=2  treble     12/8 cha0 leg105 1 blank
+=3  treble8vab 12/8 cha0 leg105 1 blank
+=4  bass       12/8 cha0 leg105 1 blank
+=1 2. rest 8 [Eb D D D] rest rest
+r0.5 .45 your grandchildren
+=2 2 rest 8 rest C [C B_ B_] rest rest C
+r0.5 .42 before we sleep .91 be  -
+=3' 2 rest 8 [A A] [Bb A] rest rest [A A]
+r0.6 .30 wayward daughter .80 wayward
+=4 8 rest rest rest [g g g] f# rest rest [g g g]
+r0.2 .20 entwined and warm .73 entwined and warm
+|
+=1  8 [Eb D D D] rest rest  [Eb D D D] rest rest
+r0.5 .01 your grandchildren .50 your grandchildren
+=2  8 [C B_ B_] rest rest C [C B_ B_] rest rest C
+r0.5 .01 fore we sleep .42 before we sleep .91 be -
+=3' 8 [A A] rest rest [A A] [Bb A] rest rest [A A]
+r0.6 .01 daughter .28 wayward daughter .78 wayward
+=4  8 f# rest rest [g g g] f# rest rest [g g g]
+r0.2 .20 entwined and warm .71 entwined and warm,
+
+| 2.5
+#il0.9 .03 5/8 static
+#     >--- >--- >--- >--- 
+#    ->-- ->-- ->-- ->--       5/8
+#   -->- -->- -->- -->-
+#  ---> ---> ---> --->
+=1  10/8 8 [Eb D D D] rest 8 [Eb D D D] rest
+r0.5 .01 your grandchildren,  your grandchildren
+=2  10/8 8 [C B_ B_] rest C [C B_ B_] rest C
+r0.5 .01 fore we sleep .42 before we sleep .91 be -
+=3' 10/8 8 [Bb A] rest 8 [A A] [Bb A] rest [A A] 
+r0.6 .01 daughter .28 wayward daughter  wayward
+=4  10/8 8 f# rest [g g g] f# rest [g g g]
+r0.2 .18 entwined and warm,  entwined and
+/
+3 bars | 40 | 40 | 40 |
+|
+=1  8 [Eb D D D] rest  [Eb D D D] rest
+r0.5 .01 your grandchildren .50 your grandchildren
+=2  8 [C B_ B_] rest C [C B_ B_] rest D
+r0.5 .01 fore we sleep .42 before we sleep .90 vic -
+=3' 8 [Bb A] rest [A A] [Bb A] rest [G G]
+r0.5 .01 daughter .30 wayward daughter .80 mortal
+=4  8 f# rest [g g g] f# rest [B B B]
+r0.2 .01 warm .20 entwined and warm .70 the path is
+| 2.5
+il0.6 .03 5
+#i0.5 .15 best of breed  .   .   .
+=1  8 [G F# F# F#] rest 8 [G F# F# F#] rest
+r0.5 .01 wall of silence .50 wall of silence
+=2 8 [Eb D D] rest 8 Eb [Eb D D] rest Eb
+r0.5 .01 torious .45 victorious .90 vic -
+=3' 8 [A Bb] rest 8 [G# G#] [A Bb] rest [G# G#]
+r0.5 .01 glory .30 mortal .50 glory .80 mortal
+=4 8 c rest [B B B] c rest [B B B]
+r0.2 .01 short .20 the path is short .70 the path is
+|
+=1  8 [G F# F# F#] rest [G F# F# F#] rest
+r0.5 .01 wall of silence .50 wall of silence
+=2 8 [Eb D D] rest Eb [Eb D D] rest D
+r0.5 .01 torious .45 victorious .90 im -
+=3' 8 [A Bb] rest [G# G#] [A Bb] rest [Gn Ab]
+r0.5 .01 glory .30 mortal .50 glory .80 tangled
+=4 8 c rest [B B B] c rest [d e f#]
+r0.2 .01 short .20 the path is short .70 to pass it
+
+#| 0.75
+#     >---  ->--  -->-  --->  >---  ->--  -->-  --->  
+#    ->--  -->-  --->  >---  ->--  -->-  --->  >---    7+7+7+3
+#   -->-  --->  >---  ->--  -->-  --->  >---  ->--
+#  --->  >---  ->--  -->-  --->  >---  ->--  -->-
+/
+3 bars | 12/8 48 | 48 | 10/8 40 |
+| 3.0
+# G# A# B c d e f f# g#
+#il0.9 .01 forwards  7+7+7+3
+# i0.7 .15 C2122221
+=1' 12/8 8 [G F Eb D] rest rest F [G F Eb] rest rest
+r0.5 .05 complex number .55 improbable
+=2 12/8 8 [Eb D B_] rest rest [D Eb] [D C] rest rest B_
+r0.5 .05 probable .44 tangled forest .92 to
+=3' 12/8 8 [B A] rest rest [F G A] B rest rest [B A]
+r0.6 .05 forest .36 to  pass it  on .82 complex
+=4, 12/8 8 g rest rest [g f eb d] rest rest 8 f [g f]
+r0.2 .05 on .28 complex number .78 improba -
+| 3.0
+# G# A# B c d e f f# g#
+=1' 8 [Eb F] [G F] rest rest [D Eb F] G rest rest
+r0.5 .01 tangled forest .50 to  pass it  on
+=2 8 [C D] Eb rest rest [Eb D C B_] rest rest D
+r0.5 .01 pass it  on .35 complex number .92 im -
+=3' 8 [G F] rest rest B [c B A] rest rest [A B]
+r0.6 .01 number .33 improbable .82 tangled
+=4, 8 eb rest rest [f g] [a g] rest rest [eb f g]
+r0.2 .01 ble .28 tangled forest .74 to pass it
+
+
+| 2.5
+#il0.9 condensing & forwards  6+6+6+2
+#     >--- ->-- -->- ---> >--- ->-- -->- --->  
+#    ->-- -->- ---> >--- ->-- -->- ---> >---    6+6+6+2
+#   -->- ---> >--- ->-- -->- ---> >--- ->--
+#  ---> >--- ->-- -->- ---> >--- ->-- -->-
+=1' 10/8 8 [G F Eb D] rest F [G F Eb] rest
+r0.5 .06 complex number .56 improbable
+=2 10/8 8 [Eb D C] rest [C D] [Eb D] rest C
+r0.5 .09 probable .42 tangled forest .90 to
+=3' 10/8 8 [c B] rest [G A B] c rest [c B]
+r0.6 .09 forest .36 to pass it on .80 complex
+=4 10/8 8 a rest [a g f eb] rest 8 g [a g]
+r0.2 .09 on .25 complex number .73 improba -
+/
+3 bars | 40 | 12/8 48 | 48 |
+|
+il0.6 .03 10
+=1' 8 [F G] [A G] rest [Eb F G] A rest
+r0.5 .01 tangled forest .50 to pass  it  on
+=2 8 [D Eb] F rest [F Eb D C] rest D
+r0.5 .01 pass it on .40 complex number .90 on
+=3' 8 [A G] rest B [c B A] rest [A B]
+r0.6 .01 number .33 improbable .80 it  on
+=4 8 f rest [f g] [a g] rest [eb f g]
+r0.2  -  ble .19 tangled forest .70 pass it on
+
+# ending on the <G B d> triad gives a (accidental) conclusion-feeling :-(
+# A short GP here and recap would be nice, but the GP needs word-tweaking
+| 3.0
+#il0.9 .03 6/8 static
+#     >---  >---
+#    ->--  ->--       6/8
+#   -->-  -->-
+#  --->  --->
+=1 12/8 2. rest 8 [Eb D D D] rest rest
+r0.5 .55 populating
+=2 12/8 2 rest 8 rest C [C B_ B_] rest rest C
+r0.5 .45 improvident .91 im -
+=3' 12/8 2 rest 8 [A A] [Bb A] rest rest [A A]
+r0.6 .36 soon forgotten .82 soon for -
+=4 12/8 8 rest rest rest [g g g] f# rest rest [g g g]
+r0.2 .26 and living on .75 and living
+|
+=1  8 [Eb D D D] rest rest  [Eb D D D] rest rest
+r0.5 .04 populating .53 populating
+=2  8 [C B_ B_] rest rest C [C B_ B_] rest rest C#
+r0.5 .01 provident .45 improvident .91 im -
+=3' 8 [A A] rest rest [A A] [Bb A] rest rest [A Bn]
+r0.6 .01 gotten .33 soon forgotten .82 soon for -
+=4  8 f# rest rest [g g g] f# rest rest [f# f# g]
+r0.2 .01 on .23 and living on .75 and living
+
+4 systems / 17-23-17-27-17-24-17/ 17-20-17-24-17-24-17 \
+ / 17-20-17-24-17-24-17/ 17-20-17-24-17-28-17 5/
+pagenum
+innerhead Peter Billam,  Album for Choir,  Web
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 10/8 40 | 40 |
+# +2st
+| 2.5
+#il0.9 .03 5/8 static
+#     >--- >--- >--- >--- 
+#    ->-- ->-- ->-- ->--       5/8
+#   -->- -->- -->- -->-
+#  ---> ---> ---> --->
+=1 10/8 8 [F E E E] rest 8 [F E E E] rest
+r0.5 .01 populating .50 populating
+=2 10/8 8 [D C# C#] rest D [D C# C#] rest D
+r0.5 .01 provident .40 improvident .90 im -
+=3 10/8 8 [c B] rest 8 [B' B'] [c B] rest [B' B']
+r0.5 .01 gotten .30 soon forgotten .80 soon for -
+=4 10/8 8 g# rest [a a a] g# rest [a a a]
+r0.2 .01 on .20 and living on .70 and living
+|
+=1 8 [F E E E] rest [F E E E] rest
+r0.5 .01 populating .50 populating
+=2 8 [D C# C#] rest D [D C# C#] rest E
+r0.5 .01 provident .40 improvident .90 and
+=3 8 [c B] rest [B' B'] [c B] rest [A A]
+r0.5 .01 gotten .30 soon forgotten .80 in ar -
+=4 8 g# rest [a a a] g# rest [c# c# c#]
+r0.2 .01 on .20 and living on .70 wide of the
+| 2.5
+il0.7 .03 15
+=1 8 [A G# G# G#] rest 8 [A G# G# G#] rest
+r0.5 .01 marvel at life .50 marvel at life
+=2 8 [F E E] rest 8 F [F E E] rest F
+r0.5 .01 heart and lung .40 and heart and lung .90 and
+=3 8 [B c] rest 8 [A# A#] [B c] rest [A# A#]
+r0.5 .01 cana .30 in arcana .80 in ar -
+=4' 8 d rest [c# c# c#] d rest [c# c# c#]
+r0.2 .01 mark .20 wide of the mark .70 wide of the
+
+/
+3 bars | 40 | 12/8 48 | 48 |
+|
+=1  8 [A G# G# G#] rest [A G# G# G#] rest
+r0.5 .01 marvel at life .50 marvel at life
+=2  8 [F E E] rest F [F E E] rest E
+r0.5 .01 heart and lung .40 and heart and lung .90 too
+=3 8 [B c] rest [A# A#] [B c] rest [An Bb']
+r0.5 .01 cana .30 in arcana .80 for ex -
+=4  8 d' rest [c# c# c#] d' rest [e f# g#]
+r0.2 .01 mark .20 wide of the mark .70 stake in the
+
+#     >---  ->--  -->-  --->  >---  ->--  -->-  --->  
+#    ->--  -->-  --->  >---  ->--  -->-  --->  >---    7+7+7+3
+#   -->-  --->  >---  ->--  -->-  --->  >---  ->--
+#  --->  >---  ->--  -->-  --->  >---  ->--  -->-
+| 3.0
+#il0.9 .03 forwards  7+7+7+3
+# i0.8 .15 D2122221
+=1' 12/8 8 [A G F E] rest rest G [A G F] rest rest
+r0.5 .01 last fifty years .50 too fast to sink
+=2 12/8 8 [F E D] rest rest [E F] [E D] rest rest C#
+r0.5 .01 fast to sink .44 for example .92 stake
+=3 12/8 8 [c# B] rest rest [G A B'] c# rest rest [c# B]
+r0.5 .01 ample .33 stake in the heart .82 last fif -
+=4, 12/8 8 a rest rest [a g f e] rest rest 8 g [a g]
+r0.2 .01 heart .25 last fifty years .75 too fast to
+|
+=1' 8 [F G] [A G] rest rest [E F G] A rest rest
+r0.5 .01 for example .50 stake in the heart
+=2 8 [D E] F rest rest [F E D C#] rest rest E
+r0.5 .01 in the heart .35 last fifty years .90 too
+=3 8 [A G] rest rest c# [d c# B] rest rest [B c#]
+r0.5 .01 ty years .33 too fast to sink .82 in ar -
+=4 8 f rest rest [g a] [b a] rest rest [f g a]
+r0.2 .03 sink .30 for example .75 stake in the
+
+
+/
+3 bars | 10/8 40 | 40 | 12/8 48 |
+| 2.5
+#il0.9 .10 condensing & forwards 6+6+6+2
+=1' 10/8 8 [A G F E] rest G [A G F] rest
+r0.5 .01 last fifty years .50 too fast to sink
+=2  10/8 8 [F E D] rest [D E] [F E] rest D
+r0.5 .01 fast to sink .40 for example .90 stake
+=3 10/8 8 [d c#] rest [A B' c#'] d rest [d c#]
+r0.5 .01 ample .30 stake in the heart .80 last fif -
+=4  10/8 8 b rest [b a g f] rest 8 a [b a]
+r0.2 .03 heart .20 last fifty years .70 too fast to
+|
+il0.6 .03 20
+=1' 8 [G A] [B A] rest [F G A] B rest
+r0.5 .01 for example .50 stake in the heart
+=2  8 [E F] G rest [G F E D] rest E
+r0.5 .01 in the heart .40 last fifty years .87 when
+=3 8 [B' A] rest c# [d c# B] rest [c# c#]
+r0.5 .01 ty years .30 too fast to sink .80 a dis -
+=4  8 g rest [g a] [b a] rest [f g a]
+r0.2 .01 sink .20 for example .70 pearl beyond
+
+
+# now we need to go back to something cyclic ! (bar1 +4st?)
+
+| 3.0
+#il0.9 .03 6/8 static
+=1 12/8 8 [G F# F# F#] rest rest 8 [G F# F# F#] rest rest
+r0.5 .01 height of the high .50 height of the high
+=2 12/8 8 [E D# D#] rest rest E [E D# D#] rest rest E
+r0.5 .01 I was young .42 when I was young .92 when
+=3 12/8 [d c#] rest rest 8 [c# c#] [d c#] rest rest [c# c#]
+r0.5 .01 tant siren .33 a distant siren .82 a dis -
+=4 12/8 8 a# rest rest [b b b] a# rest rest [b b b]
+r0.2 .01 price .25 pearl beyond price .75 pearl beyond
+
+/
+3 bars | 48 | 10/8 40 | 40 |
+|
+=1 8 [G F# F# F#] rest rest [G F# F# F#] rest rest
+r0.5 .01 height of the high .50 height of the high
+=2 8 [E D# D#] rest rest E [E D# D#] rest rest Gb
+r0.5 .01 I was young .42 when I was young .92 when
+=3 8 [c# c#] rest rest [c# c#] [d c#] rest rest [c# d#]
+r0.6 .01 tant siren .33 a distant siren .82 a dis -
+=4 8 a# rest rest [b b b] a# rest rest [b b b]
+r0.2 .01 price .25 pearl beyond price .75 pearl beyond
+| 2.5
+#il0.9 .03 5/8 static
+=1 10/8 8 [A G# G# G#] rest 8 [A G# G# G#] rest
+r0.5 .01 height of the high .50 height of the high
+=2 10/8 8 [Gb F F] rest Gb [Gb F F] rest Gb
+r0.5 .01 I was young .40 when I was young
+=3 10/8 8 [e d#] rest 8 [d# d#] [e d#] rest [d# d#]
+r0.6 .01 tant siren .30 a distant siren .80 if so,
+=4 10/8 8 c~ rest [d~b d~b d~b] c~n rest [d~b d~b d~b]
+r0.2 .01 price .20 pearl beyond price .70 life of the
+|
+=1 8 [A G# G# G#] rest [A G# G# G#] rest
+r0.5 .01 lies upon me .50 lies upon me
+=2 8 [Gb F F] rest Gb [Gb F F] rest G#
+r0.5 .01 I should die .40 if I should die .90 if
+=3 8 [e d#] rest [d# d#] [e d#] rest [c# c#]
+r0.6 .01 why not ? .30 if so, why not ? .80 if so,
+=4 8 c~ rest [d~b d~b d~b] c~ rest [f f f]
+r0.2 .01 mind .20 life of the mind .70 life of the
+
+4 systems / 17-23-17-24-17-24-17/ 17-25-17-27-17-20-17 \
+ / 17-20-17-26-17-26-17/ 17-20-17-24-17-24-17 5/
+pagenum
+innerhead Peter Billam,  Album for Choir,  Web
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 10/8 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 3 |
+| 2.5
+il0.6 .03 25
+=1 8 [db c c c] rest 8 [db c c c] rest
+r0.5 .01 lies upon me .53 lies upon me
+=2 8 [A G# G#] rest 8 A [A G# G#] rest A
+r0.5 .01 I should die .44 if I should die .92 if
+=3 8 [d# e] rest 8 [dn d] [d# e] rest [dn d]
+r0.5 .01 why not ? .30 if so, why not ? .80 if so,
+=4 8 gb rest [f f f] gb rest [f f f]
+r0.2 .01 mind .20 life of  the mind .70 life of  the
+|
+=1 8 [db c c c] rest [db c c c] rest
+r0.5 .01 lies upon me .53 lies upon me
+=2 8 [A G# G#] rest A [A G# F#] rest A
+r0.5 .01 I should die .40 if I should die .92 a -
+=3 8 [d# e] rest [dn d] [d# e] rest [e f#]
+r0.5 .01 why not ? .30 if so, why not ?
+r0.6 .80 one with
+=4 8 gb rest [f f f] gb rest [a bb c~]
+r0.2 .01 mind .20 life of  the mind .70 a plague of
+
+| 2.5
+#i1.1 .15 E21212121
+=1' 8 [db c Bb A] rest [A Bb A G] rest 
+r0.6 .01 wake in the night .53 awake at last
+=2' 8 [Bb A G] rest [E F# G F#] rest C
+r0.5 .01 wake at last .40 one with nature .92 a
+=3 8 [e d#] rest [c c# d# e] rest [c# cn]
+r0.6 .01 nature
+r0.5 .30 a plague of graves .80 wake in
+=4 8 d~b rest [d~b c~ bb a] rest [a bb a]
+r0.2 .01 graves .20 wake in the night .70 awake at
+/
+3 bars | 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' 8 [E F# G F#] rest [C# D# E F#] rest
+r0.5 .01 one with nature .50 a plague of graves
+=2' 8 [C# D# E] rest [E D# C# Cn] rest D#
+r0.5 .01 plague of graves .40 wake in the night .9 a -
+=3 8 [Bb' A] rest G [A G F#] rest [G A]
+r0.5 .01 the night .30 awake at last .80 one with
+=4 8 g rest [d# e] [f# e] rest [d# e f#]
+r0.3 .01 last .20 one with nature .70 a plague of
+
+|
+=1' 8 [G F# E D#] rest D# [E D# C#] rest
+r0.5 .01 wake in the night .50 awake at last
+=2 8 [E Eb Db] rest [B_b C Db Eb] rest c
+r0.5 .01 wake at last .40 one with nature .90 a
+=3 8 [Bb' A] rest [F# G A Bb'] rest [e f#]
+r0.5 .01 nature .30 a plague of graves .80 gene -
+=4 8 g rest [g f# e d#] rest [f# g a]
+r0.3 .01 graves .20 wake in the night .70 and then I
+|
+il0.6 .03 30
+#i0.8 .15 F21212121
+=1  8 [e d c# B] rest B' [c#' B' A#] rest
+r0.5 .01 stake in the heart .50 a plague of graves
+=2' 8  [c# B A#] rest [G G#] [A# G#] rest D
+r0.5 .01 plague of graves .40 generation .90 and
+=3 8  [g f] rest [d e f] g rest [e d]
+r0.5 .01 ration .30 and then I wake .80 stake in
+=4 8 bb rest [g f e d] rest f [g f]
+r0.3 .01 wake .20 stake in the heart .70 a plague of
+/
+3 bars | 4 4 4 4 4 4 4 4 4 3 | 3 3 4 4 4  4 4 4 3 3 | 3 3 4 4 4  4 4 4 4 3 |
+|
+=1' 8 [G Ab] [Bb Ab] rest [E F G] Ab rest
+r0.5 .01 generations .50 and then I wake
+=2 8 [E F G] rest [F E D E] rest C#
+r0.5 .01 then I wake .40 stake in the heart .90 a
+=3 8 [c# B] rest A# [B' A# G#] rest [F Gn]
+r0.5 .01 the heart
+r0.6 .30 a plague of graves .80 ge-ne -
+=4 8 e rest [c# d'] [c# d'] rest [c# d' e']
+r0.3 .01 graves .25 generation .70 and  then I
+|
+=1 8 [F E D C#] rest [E F G] 4 F
+r0.4 .01 stake in the heart .50 and then I wake
+=2 8 [D C# B_] rest [B_ C#] [D E] 4 rest
+r0.4 .01 plague of graves   generations
+=3 8 [Ab G] rest [E F G] 4. Ab 8 rest
+r0.6 .01 ration .30 and then I wake
+=4 8 f rest [f e d] 4. c#, 4 rest
+r0.3 .01 wake   stake in the heart
+
+| 2.5
+=1 2 rest 8 rest [A G# G# G#] rest
+r0.5 .50 shut in my face
+=2 2 rest 8 F [F E E] rest F
+r0.6 .36 but some have more .90 but
+=3' 4. rest 8 [A# A#] [B c] rest [A# A#]
+r0.6 .30 know no other .80 know no
+=4' 4 rest 8 [c# c# c#] d rest [c# c# c#]
+r0.2 .17 as love meets love .70 as love meets
+/
+3 bars | 4 4 4 4 4 4 4 4 4 3 | 3 3 4 4 4  4 4 4 4 3 | 4 4 4 4 4  4 4 4 4 4 |
+|
+=1  8 [A G# G# G#] rest [A G# G# G#] rest
+r0.5 .01 shut in  my face .50 shut in  my face
+=2  8 [F E E] rest F [F E E] rest E
+r0.5  some have more .38 but some have more,  some
+=3 8 [B c] rest [A# A#] [B c] rest [An Bb']
+r0.5 .01 other .30 know no other .79 but some
+=4  8 d' rest [c# c# c#] d' rest [e f# g#]
+r0.2 .01 love .19 as love meets love .67 love meets love
+|
+il0.7 .03 35
+=1 2 rest 8 rest [A G# G# G#] rest
+r0.5 .50 shut in my face
+=2 2 rest 8 F [F E E] rest F
+r0.5 .36 but some have more .90 but
+=3 4. rest 8 [A# A#] [B c] rest [A# A#]
+r0.5 .27 know no   other .80 know no
+=4' 4 rest 8 [c# c# c#] d rest [c# c# c#]
+r0.2 .17 as love meets love .69 as love meets
+| 2.5
+=1' 8 [A G# G# G#] rest [A G#] [A Bb c]
+r0.5 .01 shut in my face .50 shut and .70  damage is
+=2' 8 [F E E] rest F [F E E] [E F#]
+r0.5 some have more, but some have more, one or
+=3  8 [B c] rest [A# A#] [B c] rest rest eb
+r0.5 .01 other .30 know no other .90 a
+=4  8 d' rest [c# c# c#] d' rest rest rest rest
+r0.2 .01 love .20 as love meets love
+
+4 systems / 17-24-17-23-17-25-17/ 17-25-17-25-17-24-17 \
+ / 17-24-17-24-17-24-17/ 17-25-17-25-17-26-17 5/
+pagenum
+innerhead Peter Billam,  Album for Choir,  Web
+leftfoot (c) 2015 Peter J Billam
+
+/
+2 bars | 12/8 48 | 48 |
+| 3.0
+# i0.8 .15 E2122221 .50 backwards 5+5+5+9
+=1 12/8 8 c# rest rest [c# d#] [e d#] rest rest d# [e eb]
+r0.5 .02 done .27 one   or .46 other .75 a  young man's
+=2' 12/8 8 [Ab Bb] rest rest Ab [Bb Ab Gb] rest rest [Ab Gb]
+r0.5 .04 other .34 a young man's death .85 bubble
+=3, 12/8 8 [e eb db] rest rest [db c Bb Ab] rest rest c
+r0.5 .01 young man's death .43 bubble and crash .91 da -
+=4, 12/8 8 [g# f# e d#] rest rest [d# e f#] g# rest rest
+r0.3 .05 bubble and crash .54 damage is done
+|
+=1 8 db rest rest [db c Bb Ab,] rest rest [G An Bb']
+r0.4 .25 bubble and crash
+r0.5 .01 death .76 before  I'm
+=2' 8 [E D#] rest rest [D# E F#] G# rest rest [F# Gn]
+r0.5 .01 and crash .34 damage .51 is .57 done .83 safe  in -
+=3 8 [c# d# en] rest rest [c# d#] [e d#] rest rest d#
+r0.5 mage is   done .43 one .51 or .60 other .91 in -
+=4, 8 [e f#] [g# f#] rest rest g# [a# g# f#] rest rest
+r0.2 .01 one .09 or .17 other .47 a young man's death
+/
+2 bars | 10/8 40 | 40 |
+| 2.5
+#i0.8 .05 E21212121
+=1  10/8 8 c rest [c# d#] [e d#] rest d# [e eb]
+r0.5 .04 dead .23 safe   in  -  vestment .70 in .76 - .81 herit
+=2' 10/8 8 [An Bb] rest A [Bb A G] rest [G F#]
+r0.5    - .04 vestment .33 in  -  he  -  rit .63 it .82 gesture
+=3, 10/8 8 [e eb db] rest [db c Bb A] rest c
+r0.5 .01 - herit .22 it .90 be -
+r0.4 .42 gesture .60 is .66 born
+=4, 10/8 8 [gn f# e d#] rest [d# e f#] g rest
+r0.3 .05 gesture .13 is   born .55 before .71 I'm .80 dead
+|
+il0.7 .03 40
+=1 8 db rest [db c Bb A,] rest [A Bb' c']
+r0.5 .01 it
+r0.4 .21 gesture .40 is .48 born
+r0.6 .71 a .80 cry .90 for
+=2' 8 [E D#] rest [D# E F#] G rest [E F#]
+r0.5 .01 is .10 born .32 before .50 I'm   dead .80 like .90 a
+=3 8 [c# d# e] rest [c# d#] [e d#] rest d#
+r0.5 .01 fore  I'm   dead .39 safe .51 in  -  vestment .90 in -
+=4, 8 [e f#] [g f#] rest a [bb a g] rest
+r0.2 .01 safe .11 in  -  vestment .51 in  -  he  -  rit .78 it
+/
+2 bars | 12/8 48 | 48 |
+| 3.0
+# i0.8 .15 E2122221 .50 backwards 5+5+5+9
+=1 12/8 8 c# rest rest [c# d#] [e d#] rest rest d# [e d#]
+r0.5 .03 help .28 like   a .44 pressure .75 i  -  ne  -  qui -
+=2' 12/8 8 [Ab Bb] rest rest Ab [Bb Ab Gb] rest rest [G# F#]
+r0.6 .04 pressure .34 have .45 e  - qui  - ty .83 welcome
+=3, 12/8 8 [e eb db] rest rest [db c Bb Ab] rest rest c
+r0.5 .04 e  -  qui  -  ty .92 a
+r0.4 .42 welcome  the  world
+=4, 12/8 8 [g# f# e d#] rest rest [d# e f#] g# rest rest
+r0.3 .03 welcome  the  world .52 a .58 cry .67 for .75 help
+|
+=1, 8 c# rest rest d# [e d# c#] rest rest [c# dn e]
+r0.5 .01 ty .25 have  e  - qui  - ty .75 to   end  like
+=2  8 [E D#] rest rest [G# F# E D#] rest rest [G# G#]
+r0.5 .01 the  world .30 welcome the world .84 broken
+=3 8 [c# d# e] rest rest [cn c# d#] e rest rest B
+r0.5 .01 cry  for  help .41 a  .49 cry .58 for .67 help .93 I
+=4, 8 [e f#] [g# f#] rest rest [e f#] [g# f#] rest rest
+r0.3 .01 like .09 a .17 pressure .50 like .59 a .67 pressure
+/
+3 bars | 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 5 4 4 4 4 4 3 |
+|
+=1 4 f 8 rest [c# d e] 4 f 8 rest [c# d e]
+r0.5 .01 this .22 to end like this .73 to  end like
+=2 4 A 8 G rest [G# G#] 4 A 8 Gn rest [Ab Ab]
+r0.5 .01 mirror .33 broken .53 mirror .83 then  I
+=3 4 db 8 [eb f] rest c 4 db 8 [eb f] rest c
+r0.5 .01 think .17 I do .43 I .52 think .67 I .75 do .92 I
+=4 8 [g a b b] rest rest [g a b b] rest rest
+r0.2 .01 twinklefingers .50 twinklefingers
+|
+# i0.8 .15 C21212121  30+7st
+=1 4 f 8 rest 4 d 8 [c B A,] rest c 4 d
+r0.5 .01 this .25 twi  -  nklefingers .75 too big
+=2' 4 Ab 8 [Gb F] rest [D Eb] 4 F 8 Eb rest B(2
+r0.5 .01 think .17 I do .42 broken .61 mirror
+r0.6 .92 vi -
+=3 4 d 8 c rest [A, B c] 4 d 8 rest [A B']
+r0.5 .01 think .17 I .33 to end like this
+r0.6 .84 the  fi -
+=4 4 b 8 [a ab gb] rest gb 4 ab 8 [gb f] rest
+r0.2 .01 twi - nklefingers .50 I .58 think .75 I .84 do
+|
+il0.7 .03 45
+=1 8 [c B] 8 rest [G# A'] 4 G# 8 A' rest [G# A' B']
+r0.5 .01 to die .22 through the window .75 the .86 final
+=2' 8 [B)2 A Ab Gb] rest F 4 Gb 8 [F Eb] rest C
+r0.6 .01 - .09 deo  game .42 too big .67 to die .92 too
+=3 8 c 4 d 8 rest 4 c 8 [B' A B'] rest [F Gb]
+r0.6 .01 nal skid .33 vi .39 - .49 deo  game .76 through the
+=4 8 [d eb] 4 f 8 eb rest [B c d'] 4 eb 8 rest
+r0.3 through the window .52 the final skid
+
+4 systems 5 / 17-22-17-29-17-20-17/ 17-20-17-27-17-20-17 \
+ / 17-20-17-27-17-20-17/ 17-20-17-26-17-24-17 5/
+pagenum
+innerhead Peter Billam,  Album for Choir,  Web
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 4 4 4 4 4 4 4 4 4 5 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 3 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' 4 B 8 rest 4 Ab 8 [Gb F Eb] rest Gb 4 Ab
+r0.5 .01 skid .27 vi - deo game .75 too big
+=2' 4 D 8 [C B_] rest [G_# A_] 4 B_ 8 A_ rest F(2
+r0.3 .41 through the window
+r0.4 .01 big   to die .92 vi -
+=3 4 Ab 8 Gb rest [Eb F Gb] 4 Ab 8 rest [Eb F]
+r0.5 .01 window .35 the final skid .84 the fi -
+=4 4 f 8 [eb' d' c] rest c 4 d' 8 [c B] rest
+r0.2 .04 vi - deo game .53 too big   to die
+|
+=1 8 [Gb F] 8 rest [D Eb'] 4 D 8 Eb rest [D Eb D]
+r0.5 .01 to die .23 through the window .77 the  final
+=2' 8 [F)2 Eb D C] rest B_ 4 C 8 B_ 4 C 8 rest
+r0.4 .10 deo game .45 too big   to die
+=3 8 Gb 4 Ab 8 rest 4 Gb 8 [F F#] 4 G# 8 rest rest
+r0.5 .01 nal skid .35 vi .44 - .50 deo   game
+=4 8 [G# A] 4 B A 4. rest rest
+r0.2  through the window
+|
+=1 4 Eb 2 rest 8 [Eb D D D] rest rest
+r0.5 .01 skid .48 speak too clearly
+=2 2 rest 8 rest C [C B_ B_] rest rest C
+r0.5 .42 a week or two .94 a
+=3' 2 rest 8 [A A] [Bb A] rest rest [A A]
+r0.5 .33 wounded eagle .80 wounded
+=4 8 rest rest rest [g g g] f# rest rest [g g g]
+r0.2 .23 so I must speak .75 so I must
+/
+2 bars | 48 | 48 |
+|
+=1  8 [Eb D D D] rest rest  [Eb D D D] rest rest
+r0.4 .01 speak too  clearly .50 speak too  clearly
+=2  8 [C B_ B_] rest rest C [C B_ B_] rest rest D
+r0.5 .01 week or two .42 a .50 week or two .91 and
+=3' 8 [A A] rest rest [A A] [Bb A] rest rest [G G]
+r0.6 .01 eagle .33 wounded .50 eagle .84 light  of
+=4  8 f# rest rest [g g g] f# rest rest [B B B]
+r0.2 .01 speak .25 so  I  must speak .75 moon on the
+|
+il0.7 .03 50
+=1  4 G 8 [F# F# F#] rest 4 G 8 [F# F# F#] rest
+r0.5 .01 sheep .20 in a flock .50 sheep .70 in a flock
+=2 4 Eb 8 [D D] rest 8 Eb 4 Eb 8 [D D] rest Eb
+r0.5 .01 fee .10 - .18 ling too .40 and .50 fee .58 - .66 ling too .90 and
+=3' 4 A 8 Bb rest 8 [G# G#] 4 A 8 Bb rest [G# G#]
+r0.6 .04 ve  -  nus .35 light  of .53 ve  -  nus .82 light of
+=4 4 c 8 rest [B B B] 4 c 8 rest [B B B]
+r0.2 .01 sea .25 moon on  the  sea .75 moon on  the
+/
+2 bars | 4 3 4 4 4 4 4 4 4 4 4 3 | 4 3 4 4 4 4 4 4 4 4 4 3 |
+|
+=1  4 G 8 [F# F# F#] rest 4 G 8 [F# F# F#] rest
+r0.5 .01 sheep .19 in  a  flock .50 sheep .69 in  a  flock
+=2 4 Eb 8 [D D] rest Eb 4 Eb 8 [D D] rest D
+r0.5 .01 fee .09 - .16 ling  too .40 and .50 fee .58 .66 ling   too .93 the
+=3' 4 A 8 Bb rest [G# G#] 4 A 8 Bb rest [Gn Ab]
+r0.6 .04 ve  -  nus .35 light  of .53 ve  -  nus .85 not .92 in
+=4 4 c 8 rest [B B B] 4 c 8 rest [d e f#]
+r0.3 .01 sea .25 moon on   the  sea .79 did not turn
+
+# as bars 17-20, - 2st; perhaps then bar 21 eg + 4st (& inverted ad hoc) ?
+
+| 3.0
+#il0.9 .03 forwards  7+7+7+3
+# i0.8 .15 C2122221
+=1' 4 G 8 [F Eb D] rest F 4 G 8 [F Eb] rest
+r0.5 .01 hap .11 - .18 py  in  rags .50 the .61 black  -  bird sings
+=2 4 Eb 8 [D C] rest [D Eb] 4 D 8 C rest B_
+r0.5 .01 bla  -  ckbird sings .43 not  in .60 fa  -  shion .92 did
+=3' 4 B 8 A rest [F G A] 4 B 8 rest 4 B
+r0.5 .04 fa  -  shion .33 did  not  turn  back .85 hap .93 -
+=4, 4 g 8 rest 4 g 8 [f eb d] rest 8 f 4 g
+r0.3 .01 back .25 hap .36 - .42 py  in  rags .76 the  black .93 -
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' 8 [Eb F] 4 G 8 F rest [D Eb F] 4 G 8 rest
+r0.5 .01 not .10 in .21 fa  -  shion .50 did   not   turn   back
+=2 8 [C D] 4 Eb 8 rest 4 Eb 8 [D C B_] rest D
+r0.5 .01 not  turn back .43 hap .52 - .59 py   in  rags .92 how
+=3 8 [A G F] rest B 4 c 8 [B' A] rest [A B']
+r0.5 .01 py  in  rags .33 the .43  black  -  bird sings .82 preaching
+=4, 8 [f eb] rest [f g] 4 a 8 g rest [eb f g]
+r0.2 .01 bird sings .30 not in .45 fa  -  shion .75 some flat-earth
+| 2.5
+#il0.9 .10 condensing & forwards 6+6+6+2
+=1' 10/8 8 [G F Eb D] rest F [G F Eb] rest
+r0.5 .05 damage .23 is .32 done .52 how .62 sad .72 it .82 is
+=2 10/8 8 [Eb D C] rest [C D] [Eb D] rest C
+r0.5 .05 sad .15 it .24 is .45 preaching madness .90 some
+=3 10/8 8 [c B] rest [G A B'] c rest [c B]
+r0.4 .05 madness .82 damage
+r0.5 .35 some flat-earth gang
+=4 10/8 8 a rest [a g f eb] rest 8 g [a g]
+r0.2 .03 gang .25 damage .43 is  done .72 how .83 sad .93 it
+
+4 systems 5 / 17-23-17-27-17-20-17/ 17-23-17-27-17-20-17 \
+ / 17-20-17-27-17-20-17/ 17-24-17-28-17-24-17 5/
+pagenum
+innerhead Peter Billam,  Album for Choir,  Web
+leftfoot (c) 2015 Peter J Billam
+
+/
+3 bars | 4 4 4 4 4 4 4 4 4 4 2 \
+ | 12/8 4 3 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+il0.7 .03 55
+=1' 8 [F G] [A G] rest [Eb F G] A rest
+r0.5    preaching madness  some flat-earth gang
+=2 8 [D Eb] F rest [F Eb D C] rest D
+r0.5   flat-earth gang .40 damage is done .88 com -
+=3' 8 [A G] rest B [c B A] rest [G A]
+r0.5 .01 is done .32 how sad  it   is .83 on the
+=4 8 f rest [f g] [a g] rest [d eb f]
+r0.3 .01 is .16 preaching madness .70 we   die  a -
+
+| 3.0
+=1' 12/8 4 G 8 [F Eb D] rest F 4 G 8 [F Eb] rest
+r0.5 .05 both our bodies .53 composing time
+=2 12/8 4 Eb 8 [D C] rest [D Eb] 4 D 8 C rest B_n
+r0.5 .04 po - sing time .44 on the home front
+r0.4 .92 did
+=3' 12/8 4 Bn 8 A rest [F G A'] 4 B 8 rest 4 B
+r0.5 .04 home  front .35 we  die  alone .83 both
+=4, 12/8 4 g 8 rest 4 g 8 [f eb d] rest 8 f 4 g
+r0.3 .05 lone .25 both our bodies .75 compo -
+|
+=1' 8 [Eb F] 4 G 8 F rest [D Eb F] 4 G 8 rest
+r0.5 .01 on the home front .50 we  die  alone
+=2 8 [C D] 4 Eb 8 rest 4 Eb 8 [D C B_] rest B_
+r0.5 .01 not turn back .42 both our bodies .90 it's
+=3 8 [A' G F] rest G 4 A 8 [G F] rest [F G]
+r0.5 .01 our bodies .35 composing time .82 world is
+=4, 8 [f eb] rest [d eb] 4 f 8 eb rest [c d eb]
+r0.3  sing time .28 on the home front .80 after the
+
+/
+3 bars | 4 4 4 4 4 4 5 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 \
+  | 4 3 4 4 4 5 4 4 4 4 4 3 |
+|
+=1  4 Eb 8 [D C B_] rest D 4 Eb 8 [D C] rest
+r0.4 .05 o - ver again .51 it's  o - ver now
+=2  4 C 8 [B_ A_] rest [A_ B_] 4 C 8 B_ rest A_
+r0.3 .03 o  -  ver now .40 world is wo - ven .92 af -
+=3' 4 A 8 G rest [Eb F G] 4 A 8 rest 4 A
+r0.5 .01 woven .33 after .50 the  blow .86 o  -
+=4  4 f 8 rest 4 f 8 [eb d c,] rest 8 eb 4 f
+r0.3 .01 blow .25 o  -  ver again .75 it's  o  -
+|
+=1  8 [D Eb] 4 F 8 Eb rest [C D Eb] 4 F 8 rest
+r0.4 .01 world is woven .53 after the blow
+=2  8 [B_ C] 4 D 8 rest 4 D 8 [C B_ A_] rest D
+r0.4 .01 ter the blow .45 o  -  ver  again
+r0.5 .92 of
+=3  8 [G F Eb] rest G 4 A 8 [G F] rest [Eb F]
+r0.5 .01 ver again .35 it's  o  -  ver now .83 born a
+=4  8 [eb d] rest [d eb] 4 f 8 eb rest [B c B]
+r0.3 ver now .25 world is woven
+r0.2 .75 we tasted
+|
+il0.7 .03 60
+=1  4 F 8 [Gb Gb Gb] rest 4 F 8 [Gb Gb Gb] rest
+r0.5 .01 you .17 remember .50 you .67 remember
+=2 4 Eb 8 [D D] rest 8 D 4 Eb 8 [D D] rest Eb
+r0.5 .01 human womb .42 of .50 human womb .90 of
+=3' 2 G# 4 A rest A A
+r0.5 .01 hu .18 - .31 man .67 born .85 a
+=4 2 c 4 rest B B B
+r0.2 .01 fruit .51 we .69 tas - ted
+
+/
+3 bars | 4 3 4 4 4 5 4 3 4 4 4 3 \
+ | 4 3 4 4 4 4 4 3 4 4 4 3 | 4 3 4 4 4 4 4 3 4 4 4 3 |
+|
+=1  4 F 8 [Gb Gb Gb] rest 4 F 8 [Gb Gb Gb] rest
+r0.5 .01 you .17 remember .50 you .67 remember
+=2 4 Eb 8 [D D] rest 8 D 4 Eb 8 [D D] rest D
+r0.5 .01 human womb .42 of .50 human womb .90 they
+#=3' 4 A G# rest G# G#
+=3' 2 G# 4 A rest A A
+r0.5 .01 hu .17 - .33 man .67 see .84 the
+=4 2 c 4 rest B B B
+r0.2 .01 fruit .52 I .68 think .85 I
+|
+=1 4 F 8 [E E E] rest 4 F 8 [E E E] rest
+r0.5 .01 you .17 remember .50 you .67 remember
+=2 2 D 4 D D rest D
+r0.5 .01 used .33 to .50 think .84 they
+=3 2 G# 4 A rest A A
+r0.5 .01 moon .33 set .67 see .84 the
+=4 2 B 4 rest c c c
+r0.2 .01 do .52 I .66 think .85 I
+|
+=1 4 F 8 [E E E] rest 4 F 8 [E E E] rest
+r0.5 .01 you .17 remember .50 you .67 remember
+=2 2 D 4 D D rest D
+r0.5 .01 used .33 to .50 think .84 they
+=3 2 G# 4 A rest A A
+r0.5 .01 moon .33 set .67 see .84 the
+=4 2 B 4 rest c c c
+r0.2 .01 do .52 I .66 think .85 I
+
+/
+4 bars | 5 5 5 5 5 4 | 5 5 5 5 5 4 | 10/8 4 4 5 5 4 | 15 ||
+|
+=1 4 F 4 Gb Gb Gb rest rest
+r0.6 .01 you .20 re - mem - ber
+=2 2 D 4 C# C# rest D
+r0.5 .01 used .33 to .50 think .84 they
+=3 4 G 4 G# rest rest G# G#
+r0.6 .01 moon .21 set .67 see .84 the
+=4 2 B 4 rest B B B
+r0.2 .01 do .54 I .68 think .87 I
+|
+il0.7 .03 65
+=1 2 F 4 Gb Gb Gb rest
+r0.6 .01 you .37 re - mem - ber
+=2 4 Eb 4 D D rest rest D
+r0.5 .01 used .17 to .33 think .84 they
+=3 2 G# 4 A rest A A
+r0.6 .01 moon .33 set .67 see .84 the
+=4 2 c 4 rest B 2 B
+r0.2 .01 do .54 I .67 think
+| 2.5
+=1 10/8 2 G F# 4 F#
+r0.6 .07 you .40 see .80 the
+=2 10/8 2 D# D# 4 D#
+r0.5 .07 too .40 think .83 I
+=3 10/8 2 A Bb' 4 A
+r0.6 .06 moon .40 see .80 the
+=4 10/8 2 c 4 c c db'
+r0.2 .07 you .42 re - mem - ber
+| 3.0
+=1 1 F#-fermata
+r0.6 .01 moon
+=2 1 E-fermata
+r0.5 .01 do
+=3 1 A-fermata
+r0.6 .01 moon
+=4 1 c-fermata
+r0.2 .01 you
+
+midi pause 4.0
+
+
+5 systems 7 / 17-22-17-20-17/ 17-22-17-20-17 \
+ / 17-22-17-20-17/ 17-22-17-20-17/ 17-22-17-20-17/
+title Only the Glories of the Night
+pagenum
+innerhead Peter Billam,  from Album for Choir
+leftfoot (c) 2015 Peter J Billam
+midi channel 0 patch 82
+
+/
+6 bars | 3/4 30 | 36 | 36 | 36 | 4/4 48 | 3/4 36 | 36 |
+| 2.1
+=1 treble     3/4 cha0 leg110 2. F
+r0.5 .14 On .70 -
+=2 treble8vab 3/4 cha0 leg110 2. d
+=3 bass       3/4 cha0 leg110 2. a
+|
+=1 2 A 4 G
+r0.5 .04 ly .66 the
+=2 2 d 4 A
+=3 2 f 4 e
+|
+=1  2 F 4 A(2
+r0.5 .04 glo .36 - .66 ries
+=2' 2 A 4 F(2
+=3' 2 d 4 d(2
+|
+=1  4 A)2 G 4 A
+r0.5 .34 of .67 the
+=2' 4 F)2 F 4 F#
+=3' 4 d)2 db 4 c
+| 2.8
+=1' 4/4 2. B 4 Bb
+r0.5 .14 night .75 will
+=2  4/4 2. G 4 G
+=3  4/4 2. B 4 c
+| 2.1
+=1 3/4 2 Ab 4 F
+r0.5 .14 be .67 im  -
+=2 3/4 2 Ab 4 Ab
+=3 3/4 2 d 4 f
+|
+=1 4 Ab 2 G(2
+r0.5 .01 mor - tal ;
+=2 4 B  2 c#(1
+=3 4 f  2 g(1
+/
+7 bars | 4/4 48 | 10 10 10 12 | 10 10 10 12 | 36 | 48 | 3/4 36 | 4/4 48 |
+| 2.75
+=1 4/4 2 G)2 4 rest F
+r0.5 .75 The
+=2 4/4 2 c#)1 4 rest B'
+=3 4/4 2 g)1 4 rest g
+
+|
+=1  2. A  4 G
+r0.5 .02 soil .70 will
+=2' 2. B  4 Bb
+=3  2. f  4 e
+| 2.70
+il0.7 .20 10
+=1  2. B' 4 A
+r0.5 .02 turn .75 to
+=2' 2. A  4 B
+=3  2. eb 4 f
+|
+=1  1 Eb
+r0.5 .02 stone ,
+=2' 1 B
+=3  1 g
+| 2.65
+#i0.5 25 sec
+=1  4 rest F A G
+r0.5 .25 the .50 rain .75 to
+=2' 4 rest B B B
+=3  4 rest g f e
+| 2.05
+=1 3/4 2 B' 4 G#
+r0.5 .12 flood, .67 the
+=2 3/4 2 A  4 Ab
+=3 3/4 2 d# 4 e
+| 2.6 
+=1 4/4 4 B' A# 2 c#
+r0.5 .12 wind to .50 war
+=2 4/4 4 G  G  2 G
+=3 4/4 4 eb d' 2 c#
+/
+6 bars | 48 | 48 | 48 | 48 | 48 | 3/4 36 |
+|
+il0.7 .20 15
+=1  4 B  cn 2 eb(1
+r0.5 .02 and .25 the .50 sun
+#=2  4 G  Gb 2 F(2
+#=3' 4 eb d  2 cn(2
+=2  4 Gb F  2 F(2
+=3' 4 d  d  2 cn(2
+| 2.55
+=1 2 eb)1 d
+r0.5 .50 to
+=2 2 F)2 Gb
+=3 2 c)2 d
+|
+=1 2. c 4 F#
+r0.5 .04 e .38 - .74 vil
+=2 2. Ab 4 Bb
+=3 2. e 4 f#
+| 2.5
+=1' 2 Bb A(2
+r0.5 .04 ram .27 - .54 pant
+=2  2 d  c#(1
+=3  2 f# f#(1
+|
+#i0.5 .70 45 sec
+=1 2. A)2  4 rest
+=2 2. c#)1 4 rest
+=3 2. f)1  4 rest
+
+| 2.0
+il0.7 .20 20
+=1 3/4 2 F 4 G(2
+r0.5 .12 We .68 will
+=2 3/4 2 d 4 A(2
+=3 3/4 2 a 4 e(1
+/
+6 bars | 10 10 12 | 36 | 4/4 10 10 10 12 | 48 | 32 | 3/4 36 |
+|
+=1 4 G)2 2 A(2
+r0.5 .34 long
+=2 4 A)2 2 F(2
+=3 4 e)1 2 d'(2
+|
+=1  4 A)2 G 4 A
+r0.5 .34 for .67 the
+=2' 4 F)2 F 4 F#
+=3' 4 d)2 db 4 c
+| 2.6
+=1' 4/4 2 B  4 A# B
+r0.5 .11 night .50 to .75 un .90 -
+=2  4/4 2 G  4 G  G
+=3  4/4 2 B  4 c#  B
+|
+=1 2 c# 4 B c#
+r0.5 .01 co .30 - .48 ver .75 our
+=2 2 F# 4 G F#
+=3 2 A  4 B A 
+|
+il0.7 .20 25
+=1 1 d
+r0.5 .01 eyes
+=2 1 E
+=3 1 G
+
+| 1.95
+=1 3/4 4 rest G G#
+r0.5 .40 as .70 the
+=2 3/4 4 rest B Bb
+=3 3/4 4 rest e e
+/
+7 bars | 36 | 36 | 36 | 36 | 36 | 36 | 36 |
+|
+=1 2. B'(2
+r0.5 .01 stars
+=2 2. Ab(2
+=3 2. eb(1
+
+|
+=1 4 B')2 A A#
+r0.5 .34 in .65 their
+=2 4 Ab)2 db c
+=3 4 eb)1 gb gb
+|
+=1 2 c# 4 A#(2
+r0.5 .01 thou .38 - .67 sands
+=2 2 Bb 4 Bb(1
+=3 2 f  4 f(1
+|
+il0.7 .20 30
+=1 2 A#)2 4 B'
+r0.5 .67 be  -
+=2 2 Bb)1 4 G#
+=3 2 f)1 4 f
+|
+=1 2. d(1
+r0.5 .02 jewell
+=2 2. G#(2
+=3 2. e(1
+|
+#i0.5 .70 70 sec
+=1 2. d)1
+=2 2. G#)2
+=3 2. e)1
+|
+=1 4 rest 2 c#
+r0.5 .34 the
+=2 4 rest 2 e
+=3 4 rest 2 g#
+
+6 systems /17-22-17-20-17/
+pagenum
+innerhead Peter Billam,  Album for Choir,  Only the Glories of the Night
+leftfoot (c) 2015 Peter J Billam
+
+/
+7 bars | 4/4 32 | 32 | 48 | 48 | 3/4 36 | 4/4 48 | 3/4 36 |
+| 2.6
+=1 4/4 1 d
+r0.5 .06 deep
+=2 4/4 1 e
+=3 4/4 1 f#
+|
+il0.6 .20 35
+=1 1 Bb
+r0.5 .01 far
+=2 1 e
+=3 1 g#
+|
+=1 2. F# 4 F#
+r0.5 .01 cold .75 be  -
+=2 2. d# 4 d#
+=3 2. a# 4 a#
+|
+=1 1 G(2
+r0.5 .01 yond
+=2 1 c#(1
+=3 1 b(1
+| 1.95
+#i0.5 .40 85 sec
+=1 3/4 4 Gn)2 4 rest Eb
+r0.5 .67 and
+=2 3/4 4 c#)1 4 rest c#
+=3 3/4 4 b)1  4 rest b
+
+| 2.6
+=1 4/4 2 F 4 Eb F
+r0.5 .08 more .54 by  the
+=2 4/4 2 c# 4 c# c#
+=3 4/4 2 a  4 b  a
+| 1.95
+il0.7 .20 40
+=1 3/4 4 G  F  G
+r0.5 .11 thousand .73 of
+=2 3/4 4 d# c# c#
+=3 3/4 4 g  a  g
+/
+7 bars | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 36 | 36 | 36 |
+| 2.6
+=1 4/4 2 A 4 G A
+r0.5 .08 mil  -  lion .76 will
+=2 4/4 2 c# 4 B c#
+=3 4/4 2 g 4 a g
+| 1.95
+=1' 3/4 4 B 4 A B
+r0.5 .08 fling round the
+=2 3/4 4 d# c# d#
+=3 3/4 4 g a g
+| 2.6
+=1 4/4 1 c#
+r0.5 .08 sky
+=2 4/4 1 e
+=3 4/4 1 g
+| 1.95
+#i0.5 .01 99 sec
+=1 3/4 4 rest 2 c#
+r0.5 .41 a
+=2 3/4 4 rest 2 e
+=3 3/4 4 rest 2 g
+|
+il0.6 .20 45
+=1 2. cn(1
+r0.5 .03 flow .65 -
+=2 2. eb(1
+=3 2. g(1
+
+|
+=1 4 c)1 2 Bb'
+r0.5 .35 ing
+=2 4 eb)1 2 d
+=3 4 g)1 2 g
+|
+=1 2. A(2
+r0.5 .01 mi .65 -
+=2 2. c#(1
+=3 2. g(1
+/
+8 bars | 36 | 36 | 36 | 4/4 48 | 48 | 48 | 48 | 48 |
+|
+=1 4 A)2 2 G
+r0.5 .04 - .33 lky
+=2 4 c#)1 2 d#
+=3 4 g)1 2 g
+|
+=1 2. A
+r0.5 .01 light
+=2 2. e
+=3 2. f#
+|
+il0.6 .10 50
+=1 4 rest 2 Bb'
+r0.5 .34 as
+=2 4 rest 2 e
+=3 4 rest 2 f#
+| 2.6
+=1 4/4 2. A 4 G#
+r0.5 .08 vast .78 as
+=2 4/4 2. eb 4 d
+=3 4/4 2. f# 4 g#
+|
+=1 2. F# 4 Gn
+r0.5 .01 all .75 our
+=2 2. c# 4 B
+=3 2. a 4 d#
+|
+=1 4 Ab 2. D
+r0.5 .01 fol - ly,
+=2 4 c  2. Bb
+=3 4 e  2. e
+|
+#i0.5 .01 120 sec
+=1 4 rest 2 D  4 E
+r0.5 .26 and .75 the
+=2 4 rest 2 Bn 4 Bb
+=3 4 rest 2 f  4 e
+|
+il0.6 .25 55
+=1 2. F 4 G
+r0.5 .04 ga .40 - .75 la .95 -
+=2 2. A 4 A#
+=3 2. d 4 d
+/
+8 bars | 48 | 48 |
+|
+=1 2. A 4 G
+r0.5 .03 xy .75 will
+=2 2. B 4 Bb
+=3 2. d 4 d
+|
+=1 2. F 4 G
+r0.5 .03 turn , .72 ma -
+=2 2. A 4 B
+=3 2. eb 4 eb
+|
+=1 2. A 4 G
+r0.5 .03 je .40 - .75 stic,
+=2 2. c# 4 B
+=3 2. eb 4 f
+|
+=1 4 rest 2 F  4 A
+r0.5 .26 slow  -  ly
+=2 4 rest 2 B  4 B
+=3 4 rest 2 eb 4 eb
+| 1.95
+il0.7 .20 60
+=1 3/4 2 Ab 4 G
+r0.5 .14 in .39 - .65 ward
+=2 3/4 2 B  4 B
+=3 3/4 2 f  4 g
+|
+=1 2 F# 4 G
+r0.5 .03 to .75 be
+=2 2 B  4 B
+=3 2 ab 4 g
+|
+=1 2 Ab 4 Ab
+r0.5 .03 torn .75 a -
+=2 2 B  4 B
+=3 2 f  4 d
+|
+=1 2. G(2
+r0.5 .03 part . . .
+=2 2. Bb(1
+=3 2. c#(2
+/
+7 bars | 36 | 4/4 48 | 32 | 48 | 48 | 48 | 32 |
+|
+#i0.5 .60 145 sec
+=1 4  G)2 rest rest
+=2 4 Bb)1 rest rest
+=3 4 c#)2 rest rest
+
+#We will see far in those years, and lament much,
+| 2.8
+il0.7 .20 65
+=1 4/4 4 A  Bb' 2 d
+r0.5 .11 We  will  see
+=2 4/4 4 db c   2 Bb
+=3 4/4 4 f  e   2 d
+|
+=1 1 eb
+r0.5 .03 far
+=2 1 A
+=3 1 c
+|
+=1 4 rest G 2 A
+r0.5 .25 in .50 those
+=2 4 rest B 2 c#
+=3 4 rest g 2 f
+|
+=1 2 A# 4 rest B'
+r0.5 .03 years, .75 and
+=2 2 d  4 rest G
+=3 2 e  4 rest eb
+|
+=1 2 A# d
+r0.5 .03 la .30 - .50 ment
+=2 2 G  A#
+=3 2 d f#
+|
+il0.7 .20 70
+=1 1 c#(1
+r0.5 .03 much,
+=2 1 c#(1
+=3 1 g(1
+
+
+
+/
+7 bars | 48 | 48 | 48 | 48 | 48 | 40 | 40 ||
+#and fear for shame to meet a living eye.
+| 2.8
+#i0.5 .60 165 sec
+=1 4 c#)1 2 rest 4 G
+r0.5 .75 and
+=2 4 c#)1 2 rest 4 eb
+=3 4 g)1  2 rest 4 a
+|
+=1 2. A 4 G
+r0.5 .03 fear .75 for
+=2 2.. eb 8 rest
+=3 2.. b  8 rest
+|
+=1 2. A 4 G
+r0.5 .03 shame .75 to
+=2 2.. f   8 rest
+=3 2.. c~# 8 rest
+|
+=1 2. A 4 G
+r0.5 .03 meet .75 a
+=2 2.. eb 8 rest
+=3 2.. b  8 rest
+| 3.1
+il0.5 .25 75
+=1 2. A 4 G
+r0.5  .03 li .40 - .70 ving
+=2 2. c 4 c
+=3 2. a 4 a
+| 3.3
+=1 1 Eb(2
+r0.5 .03 eye .
+=2 1 B(2
+=3 1 g#(1
+=3 2 blank 1 rest,
+| 4.3
+=1 1 Eb)2-fermata
+=2 1 B)2-fermata
+=3 1 g#)1-fermata
+=3 1 F-fermata
 
 midi pause 4.0
 3 systems 10 /17-22-17-22-17-30-17-22-17 \

@@ -13,7 +13,7 @@ PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 PIECE = album
-PLAY = konkerado
+PLAY = web
 
 dev : title.a4 p2.a4 album.a4
 all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
@@ -53,9 +53,9 @@ play :
 edit :
 	vi ${PLAY}
 	make play dev
-album : sometimes konkerado the_spell
+album : sometimes konkerado web only_the_glories the_spell
 	chmod 644 $@
-	cat sometimes konkerado the_spell > $@
+	cat sometimes konkerado web only_the_glories the_spell > $@
 	chmod 444 $@
 album.a4 : album
 	muscript album > $@

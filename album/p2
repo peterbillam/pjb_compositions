@@ -1,17 +1,17 @@
 .\" header = mushead
 .AM
-.nr PS 12
-.nr VS 14
+.nr PS 11
+.nr VS 13
 .pl 11.7i
 .LP
 \&
-.sp 1.4c
+.sp 0.9c
 .ce 1
 \f3\s+9Album for Choir\s-9\fP
-.sp 0.8c
+.sp 0.6c
 .LP
 \f3\s+2Sometimes\s-2\fP
-.sp 0.2c
+.sp 0.1c
 .in 1c
 .nf
 Sometimes I think I do \   sometimes I think I don't
@@ -26,25 +26,43 @@ Sometimes I think I couldn't \   sometimes I think I could
 I think maybe I hadn't \  but then I know I had
 At first it seems O.K. \  but then I know it's bad
 It's mine, it's mine, \  it's my tin of candy, my bottle of wine.
-.sp 0.2c
+.sp 0.1c
 .ti 4c
 \f2Peter Billam \   2005\fP
 .in 0c
 
-.sp 0.1c
+.\".LP
+.\"\f3\s+2Konkerado\s-2\fP
+.\".sp 0.1c
+.\".in 1c
+.\".nf
+.\"This piece could last anywhere between 60 sec and 150 sec.
+.\"The esperanto \  \f3jx\fP \  is pronounced like the french \  \f3j\fP \  in \  \f3je\fP.
+.\".in 0c
+.\"
 .LP
-\f3\s+2Konkerado\s-2\fP
+\f3\s+2Only the Glories of the Night\s-2\fP
 .sp 0.1c
 .in 1c
 .nf
-This piece could last anywhere between 60 sec and 150 sec.
-The esperanto \  \f3jx\fP \  is pronounced like the french \  \f3j\fP \  in \  \f3je\fP.
+Only the glories of the night will be immortal;
+the soil will turn to stone, the rain to flood,
+the wind to war and the sun to evil rampant.
+We will long for the night to uncover our eyes
+as the stars in their thousands bejwell the deep far cold beyond
+and more by the thousand of million will fling round the sky
+a flowing milky light as vast as all our folly,
+and the galaxy will turn majestic, slowly inward to be torn apart . . .
+We will see far in those years, and lament much,
+and fear for shame to meet a living eye.
+.sp 0.1c
+.ti 4c
+\f2Peter Billam \   1996\fP
 .in 0c
 
-.sp 0.1c
 .LP
 \f3\s+2The Spell\s-2\fP
-.sp 0.2c
+.sp 0.1c
 .in 1c
 .nf
 The car is hot they're on the run
@@ -54,7 +72,6 @@ The beach will be their bed;
 They're twenty-three and twenty-five
 But no matter how fast they drive
 The spell runs on ahead.
-
 They're cuddled close, they're lying low,
 The bed is warm with afterglow,
 Their bodies touch from head to toe,
@@ -62,14 +79,10 @@ A tear forms in her eye.
 The fields run in waves, the blackbirds call,
 The log fire burns, the snowflakes fall,
 As the spell flashes by.
-.sp 0.2c
+.sp 0.3c
 .ti 4c
 \f2Peter Billam \  1976\fP
 .in 0c
-
-.LP
-.ce 1
-\f2Peter J Billam\fP
 .LP
 .ce 1
 \f2www.pjb.com.au/mus\fP

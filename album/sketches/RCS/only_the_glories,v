@@ -1,10 +1,30 @@
-head	1.9;
+head	1.13;
 access;
 symbols;
 locks
-	pjb:1.9; strict;
+	pjb:1.13; strict;
 comment	@# @;
 
+
+1.13
+date	2015.09.26.06.08.31;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2015.09.26.05.52.13;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2015.09.26.00.11.48;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2015.09.25.23.46.23;	author pjb;	state Exp;
+branches;
+next	1.9;
 
 1.9
 date	2015.09.25.03.14.36;	author pjb;	state Exp;
@@ -57,12 +77,12 @@ desc
 @
 
 
-1.9
+1.13
 log
-@slight filling-out of the lower voices
+@three voices all the way through :-)
 @
 text
-@5 systems /17-22-17-22-17/
+@5 systems /17-22-17-20-17/
 title Only the Glories of the Night
 midi channel 0 patch 82
 
@@ -129,6 +149,7 @@ r0.5 .02 stone ,
 =2' 1 B
 =3  1 g
 | 2.65
+i0.5 25 sec
 =1  4 rest F A G
 r0.5 .25 the .50 rain .75 to
 =2' 4 rest B B B
@@ -144,7 +165,7 @@ r0.5 .12 wind to .50 war
 =2 4/4 4 G  G  2 G
 =3 4/4 4 eb d' 2 c#
 /
-5 bars | 48 | 48 |
+6 bars | 48 | 48 | 48 | 48 | 48 | 3/4 36 |
 |
 il0.7 .20 15
 =1  4 B  cn 2 eb(1
@@ -169,18 +190,19 @@ r0.5 .04 ram .27 - .54 pant
 =2  2 d  c#(1
 =3  2 f# f#(1
 |
+i0.5 .70 45 sec
 =1 2. A)2  4 rest
 =2 2. c#)1 4 rest
 =3 2. f)1  4 rest
 
-/
-6 bars | 3/4 30 | 10 10 12 | 36 | 4/4 10 10 10 12 | 3/4 36 | 36 |
 | 2.0
 il0.7 .20 20
 =1 3/4 2 F 4 G(2
 r0.5 .12 We .68 will
 =2 3/4 2 d 4 A(2
 =3 3/4 2 a 4 e(1
+/
+6 bars | 10 10 12 | 36 | 4/4 10 10 10 12 | 48 | 32 | 3/4 36 |
 |
 =1 4 G)2 2 A(2
 r0.5 .34 long
@@ -200,7 +222,7 @@ r0.5 .11 night .50 to .75 un .90 -
 =1 2 c# 4 B c#
 r0.5 .01 co .30 - .48 ver .75 our
 =2 2 F# 4 G F#
-=3 2 A# 4 B An
+=3 2 A  4 B A 
 |
 il0.7 .20 25
 =1 1 d
@@ -208,13 +230,13 @@ r0.5 .01 eyes
 =2 1 E
 =3 1 G
 
-/
-7 bars | 3/4 36 | 36  | 36 | 36 | 36 | 36 | 36 |
 | 1.95
 =1 3/4 4 rest G G#
 r0.5 .40 as .70 the
-=2 3/4 4 rest B Ab
+=2 3/4 4 rest B Bb
 =3 3/4 4 rest e e
+/
+7 bars | 36 | 36 | 36 | 36 | 36 | 36 | 36 |
 |
 =1 2. B'(2
 r0.5 .01 stars
@@ -243,16 +265,20 @@ r0.5 .02 jewell
 =2 2. G#(2
 =3 2. e(1
 |
+i0.5 .70 70 sec
 =1 2. d)1
 =2 2. G#)2
 =3 2. e)1
-/
-6 bars | 36 | 4/4 48 | 48 | 48 | 48 | 3/4 36 |
 |
 =1 4 rest 2 c#
 r0.5 .34 the
 =2 4 rest 2 e
 =3 4 rest 2 g#
+
+6 systems /17-22-17-20-17/
+
+/
+7 bars | 4/4 32 | 32 | 48 | 48 | 3/4 36 | 4/4 48 | 3/4 36 |
 | 2.6
 =1 4/4 1 d
 r0.5 .06 deep
@@ -275,13 +301,12 @@ r0.5 .01 yond
 =2 1 c#(1
 =3 1 b(1
 | 1.95
+i0.5 .40 85 sec
 =1 3/4 4 Gn)2 4 rest Eb
 r0.5 .67 and
 =2 3/4 4 c#)1 4 rest c#
 =3 3/4 4 b)1  4 rest b
 
-/
-7 bars | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 36 |
 | 2.6
 =1 4/4 2 F 4 Eb F
 r0.5 .08 more .54 by  the
@@ -293,6 +318,8 @@ il0.7 .20 40
 r0.5 .11 thousand .73 of
 =2 3/4 4 c# c# d#
 =3 3/4 4 g a g
+/
+7 bars | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 36 | 36 | 36 |
 | 2.6
 =1 4/4 2 A 4 G A
 r0.5 .08 mil  -  lion .76 will
@@ -302,37 +329,42 @@ r0.5 .08 mil  -  lion .76 will
 =1' 3/4 4 B 4 A B
 r0.5 .08 fling round the
 =2 3/4 4 d# c# d#
-=3 3/4 4 g g a
+=3 3/4 4 g a g
 | 2.6
 =1 4/4 1 c#
 r0.5 .08 sky
 =2 4/4 1 e
 =3 4/4 1 g
 | 1.95
+i0.5 .01 99 sec
 =1 3/4 4 rest 2 c#
 r0.5 .41 a
-=2 3/4 4 rest 2 blank
-=3 3/4 4 rest 2 blank
+=2 3/4 4 rest 2 e
+=3 3/4 4 rest 2 g
 |
 il0.7 .20 45
 =1 2. cn(1
 r0.5 .03 flow .65 -
+=2 2. eb(1
+=3 2. g(1
 
-/
-8 bars | 36 | 36 | 36 | 36 | 36 | 4/4 48 | 48 | 48 |
 |
 =1 4 c)1 2 Bb'
 r0.5 .35 ing
-=2 2. blank
-=3 2. blank
+=2 4 eb)1 2 d
+=3 4 g)1 2 g
 |
 =1 2. A(2
-r0.5 .01 mil .65 -
-=2 2. blank
+r0.5 .01 mi .65 -
+=2 2. c#(1
+=3 2. g(1
+/
+8 bars | 36 | 36 | 36 | 4/4 48 | 48 | 48 | 48 | 48 |
 |
 =1 4 A)2 2 G
-r0.5 .33 ky
-=2 2. blank
+r0.5 .04 - .33 lky
+=2 4 c#)1 2 d#
+=3 4 g)1 2 g
 |
 =1 2. A
 r0.5 .01 light
@@ -342,61 +374,119 @@ r0.5 .01 light
 il0.7 .20 50
 =1 4 rest 2 Bb'
 r0.5 .34 as
+=2 4 rest 2 e
+=3 4 rest 2 f#
 | 2.6
 =1 4/4 2. A 4 G#
 r0.5 .08 vast .78 as
-=2 4/4 2. d# 4 blank
-=3 4/4 2. f# 4 blank
+=2 4/4 2. eb 4 d
+=3 4/4 2. f# 4 g#
 |
 =1 2. F# 4 Gn
 r0.5 .01 all .75 our
-=2 2. d# 4 B
+=2 2. c# 4 B
 =3 2. a 4 d#
 |
 =1 4 Ab 2. D
-r0.5 .01 folly,
+r0.5 .01 fol - ly,
 =2 4 c  2. Bb
 =3 4 e  2. e
-
-midi off
-
-#midi pause 2.0
-
+|
+i0.5 .01 120 sec
+=1 4 rest 2 D  4 E
+r0.5 .26 and .75 the
+=2 4 rest 2 Bn 4 Bb
+=3 4 rest 2 f  4 e
+|
+il0.7 .20 55
+=1 2. F 4 G
+r0.5 .04 ga .40 - .75 la .95 -
+=2 2. A 4 A#
+=3 2. d 4 d
 /
-6 bars | 48 | 48 |
+8 bars | 48 | 48 |
 |
-=1 4 D E 1 F 4 G
-r0.5 .01 and the galaxy will turn majestic, slowly inward to be torn apart . . .
-=2 2 blank 1 A 4 blank
-=3 2 blank 1 d 4 blank
+=1 2. A 4 G
+r0.5 .03 xy .75 will
+=2 2. B 4 Bb
+=3 2. d 4 d
 |
-=1 1 A 4 G
+=1 2. F 4 G
+r0.5 .03 turn , .72 ma -
+=2 2. A 4 B
+=3 2. eb 4 eb
 |
-=1 1 F 4 A
-
-# midi on
-
+=1 2. A 4 G
+r0.5 .03 je .40 - .75 stic,
+=2 2. c# 4 B
+=3 2. eb 4 f
+|
+=1 4 rest 2 F  4 A
+r0.5 .26 slow  -  ly
+=2 4 rest 2 B  4 B
+=3 4 rest 2 eb 4 eb
+| 1.95
+il0.7 .20 60
+=1 3/4 2 Ab 4 G
+r0.5 .11 in .37 - .65 ward
+=2 3/4 2 B  4 B
+=3 3/4 2 f  4 g
+|
+=1 2 F# 4 G
+r0.5 .03 to .75 be
+=2 2 B  4 B
+=3 2 ab 4 g
+|
+=1 2 Ab 4 Ab
+r0.5 .03 torn .75 a -
+=2 2 B  4 B
+=3 2 f  4 d
+|
+=1 2. G(2
+r0.5 .03 part . . .
+=2 2. Bb(1
+=3 2. c#(2
 /
-6 bars | 48 |
+7 bars | 36 | 4/4 48 | 32 | 48 | 48 | 48 | 32 |
+|
+i0.5 .60 145 sec
+=1 4  G)2 rest rest
+=2 4 Bb)1 rest rest
+=3 4 c#)2 rest rest
+
 #We will see far in those years, and lament much,
 | 2.8
-=1 4 A Bb' 2 d
-r0.5 .02 We  will  see
+il0.7 .20 65
+=1 4/4 4 A  Bb' 2 d
+r0.5 .11 We  will  see
+=2 4/4 4 db c   2 Bb
+=3 4/4 4 f  e   2 d
 |
 =1 1 eb
 r0.5 .03 far
+=2 1 A
+=3 1 c
 |
 =1 4 rest G 2 A
 r0.5 .25 in .50 those
+=2 4 rest B 2 c#
+=3 4 rest g 2 f
 |
-=1 2. A# 4 B'
+=1 2 A# 4 rest B'
 r0.5 .03 years, .75 and
+=2 2 d  4 rest G
+=3 2 e  4 rest eb
 |
 =1 2 A# d
 r0.5 .03 la .30 - .50 ment
+=2 2 G  A#
+=3 2 d f#
 |
-=1 1 c#
+il0.7 .20 70
+=1 1 c#(1
 r0.5 .03 much,
+=2 1 c#(1
+=3 1 g(1
 
 
 
@@ -404,10 +494,11 @@ r0.5 .03 much,
 7 bars | 48 | 48 | 48 | 48 | 48 | 40 | 40 ||
 #and fear for shame to meet a living eye.
 | 2.8
-=1 2. blank 4 G
+i0.5 .60 165 sec
+=1 4 c#)1 2 rest 4 G
 r0.5 .75 and
-=2 1 blank
-=3 1 blank
+=2 4 c#)1 2 rest 4 eb
+=3 4 g)1  2 rest 4 a
 |
 =1 2. A 4 G
 r0.5 .03 fear .75 for
@@ -424,6 +515,7 @@ r0.5 .03 meet .75 a
 =2 2.. eb 8 rest
 =3 2.. b  8 rest
 | 3.1
+il0.7 .20 75
 =1 2. A 4 G
 r0.5  .03 li .40 - .70 ving
 =2 2.. c  8 rest
@@ -439,6 +531,217 @@ r0.5 .03 eye .
 =2 1 B)2-fermata
 =3 1 g#)1-fermata
 =3 1 F-fermata
+@
+
+
+1.12
+log
+@just bars 65,66 to go ...
+@
+text
+@d274 1
+a274 1
+r0.5 .01 mil .65 -
+d281 1
+a281 1
+r0.5 .04 - .33 ky
+d307 1
+a307 1
+r0.5 .01 folly,
+d363 1
+a363 1
+=2 2. B(1
+d370 1
+a370 1
+=2 4  B)1 rest rest
+d376 4
+a379 2
+=1 4/4 4 A Bb' 2 d
+r0.5 .02 We  will  see
+d383 2
+d389 1
+a389 1
+=3 4 rest f 2 f
+d402 1
+a402 1
+=1 1 c#
+d404 2
+a405 2
+=2 1 c#
+=3 1 g
+d414 1
+a414 1
+=1 2. rest 4 G
+d416 2
+a417 2
+=2 2. rest 4 eb
+=3 2. rest 4 a
+@
+
+
+1.11
+log
+@in three voices up to bar 53
+@
+text
+@d248 1
+a248 1
+=3 3/4 4 g g a
+d255 1
+a255 1
+i0.5 .01 100 sec
+d281 1
+a281 1
+r0.5 .33 ky
+d312 1
+a312 1
+=1 4 rest 2 D 4 E
+d314 2
+a315 2
+=2 2 blank
+=3 2 blank
+d320 2
+a321 2
+=2 2. A 4 blank
+=3 2. d 4 blank
+d327 2
+d332 2
+d337 2
+d340 1
+a340 1
+=1 4 rest 2 F 4 A
+d342 2
+d348 2
+d353 2
+d356 1
+a356 1
+=1 2 Ab 4 F#
+d358 2
+d363 2
+d370 2
+d384 2
+d389 2
+d394 2
+d400 2
+d410 1
+a410 1
+=1 2. blank 4 G
+d412 2
+a413 2
+=2 1 blank
+=3 1 blank
+@
+
+
+1.10
+log
+@add bar numbers (and timings)
+@
+text
+@d258 2
+a259 2
+=2 3/4 4 rest 2 blank
+=3 3/4 4 rest 2 blank
+d264 2
+d270 2
+a271 2
+=2 2. blank
+=3 2. blank
+d275 2
+a276 1
+=2 2. blank
+d282 2
+a283 1
+=2 2. blank
+d293 2
+d298 2
+a299 2
+=2 4/4 2. d# 4 blank
+=3 4/4 2. f# 4 blank
+d303 1
+a303 1
+=2 2. d# 4 B
+@
+
+
+1.9
+log
+@slight filling-out of the lower voices
+@
+text
+@d1 1
+a1 1
+5 systems /17-22-17-22-17/
+d68 1
+d84 1
+a84 1
+5 bars | 48 | 48 |
+d109 1
+a113 2
+/
+6 bars | 3/4 30 | 10 10 12 | 36 | 4/4 10 10 10 12 | 3/4 36 | 36 |
+d120 2
+d141 1
+a141 1
+=3 2 A# 4 B An
+a148 2
+/
+7 bars | 3/4 36 | 36  | 36 | 36 | 36 | 36 | 36 |
+d152 1
+a152 1
+=2 3/4 4 rest B Ab
+d154 2
+d184 1
+a187 2
+/
+6 bars | 36 | 4/4 48 | 48 | 48 | 48 | 3/4 36 |
+d193 5
+d220 1
+a225 2
+/
+7 bars | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 36 |
+d237 2
+d255 1
+a264 2
+/
+8 bars | 36 | 36 | 36 | 36 | 36 | 4/4 48 | 48 | 48 |
+d274 2
+d304 12
+a315 5
+
+midi off
+
+#midi pause 2.0
+
+d317 4
+a320 1
+6 bars | 48 | 48 |
+d322 2
+a323 4
+=1 4 D E 1 F 4 G
+r0.5 .01 and the galaxy will turn majestic, slowly inward to be torn apart . . .
+=2 2 blank 1 A 4 blank
+=3 2 blank 1 d 4 blank
+d325 9
+a333 1
+=1 1 A 4 G
+d335 13
+a347 3
+=1 1 F 4 A
+
+# midi on
+a348 2
+/
+6 bars | 48 |
+d351 2
+a352 1
+=1 4 A Bb' 2 d
+d361 1
+a361 1
+=1 2. A# 4 B'
+d367 1
+d377 1
+d398 1
 @
 
 
