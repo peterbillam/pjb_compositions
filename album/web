@@ -182,13 +182,13 @@ leftfoot (c) 2015 Peter J Billam
 #   -->- -->- -->- -->-
 #  ---> ---> ---> --->
 =1 10/8 8 [F E E E] rest 8 [F E E E] rest
-r0.5 .01 populating .50 populating
+r0.5 .10 populating .56 populating
 =2 10/8 8 [D C# C#] rest D [D C# C#] rest D
-r0.5 .01 provident .40 improvident .90 im -
+r0.5 .08 provident .46 improvident .90 im -
 =3 10/8 8 [c B] rest 8 [B' B'] [c B] rest [B' B']
-r0.5 .01 gotten .30 soon forgotten .80 soon for -
+r0.5 .08 gotten .33 soon forgotten .80 soon for -
 =4 10/8 8 g# rest [a a a] g# rest [a a a]
-r0.2 .01 on .20 and living on .70 and living
+r0.2 .05 on .25 and living on .70 and living
 |
 =1 8 [F E E E] rest [F E E E] rest
 r0.5 .01 populating .50 populating
@@ -217,7 +217,7 @@ r0.5 .01 marvel at life .50 marvel at life
 =2  8 [F E E] rest F [F E E] rest E
 r0.5 .01 heart and lung .40 and heart and lung .90 too
 =3 8 [B c] rest [A# A#] [B c] rest [An Bb']
-r0.5 .01 cana .30 in arcana .80 for ex -
+r0.5 .01 cana .30 in   arcana .80 for ex -
 =4  8 d' rest [c# c# c#] d' rest [e f# g#]
 r0.2 .01 mark .20 wide of the mark .70 stake in the
 
@@ -229,22 +229,23 @@ r0.2 .01 mark .20 wide of the mark .70 stake in the
 #il0.9 .03 forwards  7+7+7+3
 # i0.8 .15 D2122221
 =1' 12/8 8 [A G F E] rest rest G [A G F] rest rest
-r0.5 .01 last fifty years .50 too fast to sink
+r0.5 .05 last fifty years .53 too fast to sink
 =2 12/8 8 [F E D] rest rest [E F] [E D] rest rest C#
-r0.5 .01 fast to sink .44 for example .92 stake
+r0.5 .05 fast to sink .46 for example .89 stake
 =3 12/8 8 [c# B] rest rest [G A B'] c# rest rest [c# B]
-r0.5 .01 ample .33 stake in the heart .82 last fif -
+r0.5 .05 ample .33 stake in the heart .82 last fif -
 =4, 12/8 8 a rest rest [a g f e] rest rest 8 g [a g]
-r0.2 .01 heart .25 last fifty years .75 too fast to
+r0.2 .03 heart .27 last fifty years .75 too fast to
 |
 =1' 8 [F G] [A G] rest rest [E F G] A rest rest
-r0.5 .01 for example .50 stake in the heart
+r0.5 .01 for example .48 stake in the heart
 =2 8 [D E] F rest rest [F E D C#] rest rest E
-r0.5 .01 in the heart .35 last fifty years .90 too
+r0.5 .01 in the heart .90 too
+r0.4 .42 last fifty years
 =3 8 [A G] rest rest c# [d c# B] rest rest [B c#]
-r0.5 .01 ty years .33 too fast to sink .82 in ar -
+r0.5 .01 ty years .33 too fast to sink .81 for  ex -
 =4 8 f rest rest [g a] [b a] rest rest [f g a]
-r0.2 .03 sink .30 for example .75 stake in the
+r0.2 .01 sink .28 for example .75 stake in the
 
 
 /
@@ -252,13 +253,13 @@ r0.2 .03 sink .30 for example .75 stake in the
 | 2.5
 #il0.9 .10 condensing & forwards 6+6+6+2
 =1' 10/8 8 [A G F E] rest G [A G F] rest
-r0.5 .01 last fifty years .50 too fast to sink
+r0.5 .06 last fifty years .52 too fast to sink
 =2  10/8 8 [F E D] rest [D E] [F E] rest D
-r0.5 .01 fast to sink .40 for example .90 stake
+r0.5 .05 fast to sink .43 for example .87 stake
 =3 10/8 8 [d c#] rest [A B' c#'] d rest [d c#]
-r0.5 .01 ample .30 stake in the heart .80 last fif -
+r0.5 .05 ample .30 stake in the heart .80 last fif -
 =4  10/8 8 b rest [b a g f] rest 8 a [b a]
-r0.2 .03 heart .20 last fifty years .70 too fast to
+r0.2 .03 heart .24 last fifty years .72 too fast to
 |
 il0.6 .03 20
 =1' 8 [G A] [B A] rest [F G A] B rest
@@ -278,9 +279,9 @@ r0.2 .01 sink .20 for example .70 pearl beyond
 =1 12/8 8 [G F# F# F#] rest rest 8 [G F# F# F#] rest rest
 r0.5 .01 height of the high .50 height of the high
 =2 12/8 8 [E D# D#] rest rest E [E D# D#] rest rest E
-r0.5 .01 I was young .42 when I was young .92 when
+r0.5 .01 I was young .42 when I was young .88 when
 =3 12/8 [d c#] rest rest 8 [c# c#] [d c#] rest rest [c# c#]
-r0.5 .01 tant siren .33 a distant siren .82 a dis -
+r0.5 .01 tant siren .33 a distant siren .83 a  dis -
 =4 12/8 8 a# rest rest [b b b] a# rest rest [b b b]
 r0.2 .01 price .25 pearl beyond price .75 pearl beyond
 
@@ -290,9 +291,9 @@ r0.2 .01 price .25 pearl beyond price .75 pearl beyond
 =1 8 [G F# F# F#] rest rest [G F# F# F#] rest rest
 r0.5 .01 height of the high .50 height of the high
 =2 8 [E D# D#] rest rest E [E D# D#] rest rest Gb
-r0.5 .01 I was young .42 when I was young .92 when
+r0.5 .01 I was young .42 when I was young .88 when
 =3 8 [c# c#] rest rest [c# c#] [d c#] rest rest [c# d#]
-r0.6 .01 tant siren .33 a distant siren .82 a dis -
+r0.6 .01 tant siren .33 a distant siren .82 a  dis -
 =4 8 a# rest rest [b b b] a# rest rest [b b b]
 r0.2 .01 price .25 pearl beyond price .75 pearl beyond
 | 2.5
@@ -300,11 +301,11 @@ r0.2 .01 price .25 pearl beyond price .75 pearl beyond
 =1 10/8 8 [A G# G# G#] rest 8 [A G# G# G#] rest
 r0.5 .01 height of the high .50 height of the high
 =2 10/8 8 [Gb F F] rest Gb [Gb F F] rest Gb
-r0.5 .01 I was young .40 when I was young
+r0.5 .04 I was young .40 when I was young
 =3 10/8 8 [e d#] rest 8 [d# d#] [e d#] rest [d# d#]
 r0.6 .01 tant siren .30 a distant siren .80 if so,
-=4 10/8 8 c~ rest [d~b d~b d~b] c~n rest [d~b d~b d~b]
-r0.2 .01 price .20 pearl beyond price .70 life of the
+=4 10/8 8 c~ rest [d~b d~b d~b] c~ rest [d~b d~b d~b]
+r0.2 .03 price .20 pearl beyond price .72 life of the
 |
 =1 8 [A G# G# G#] rest [A G# G# G#] rest
 r0.5 .01 lies upon me .50 lies upon me
