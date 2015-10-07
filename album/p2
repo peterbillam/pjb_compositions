@@ -1,14 +1,15 @@
 .\" header = mushead
 .AM
-.nr PS 11
-.nr VS 13
+.nr PS 12
+.nr VS 14
 .pl 11.7i
 .LP
 \&
-.sp 0.9c
+.sp 1.5c
 .ce 1
 \f3\s+9Album for Choir\s-9\fP
-.sp 0.6c
+.sp 1.0c
+
 .LP
 \f3\s+2Sometimes\s-2\fP
 .sp 0.1c
@@ -60,29 +61,3 @@ and fear for shame to meet a living eye.
 \f2Peter Billam \   1996\fP
 .in 0c
 
-.LP
-\f3\s+2The Spell\s-2\fP
-.sp 0.1c
-.in 1c
-.nf
-The car is hot they're on the run
-Their nostrils wide with wine and fun
-The road sings underneath the sun
-The beach will be their bed;
-They're twenty-three and twenty-five
-But no matter how fast they drive
-The spell runs on ahead.
-They're cuddled close, they're lying low,
-The bed is warm with afterglow,
-Their bodies touch from head to toe,
-A tear forms in her eye.
-The fields run in waves, the blackbirds call,
-The log fire burns, the snowflakes fall,
-As the spell flashes by.
-.sp 0.3c
-.ti 4c
-\f2Peter Billam \  1976\fP
-.in 0c
-.LP
-.ce 1
-\f2www.pjb.com.au/mus\fP
