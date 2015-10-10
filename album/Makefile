@@ -15,21 +15,21 @@ UTF2ISO = /home/pbin/utf2iso
 PIECE = album
 PLAY = remember
 
-dev : title.a4 p2.a4 album.a4
+dev : title.a4 p2.a4 p3.a4 album.a4
 all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
 mp3 : ${MP3D}/${PIECE}.mp3
 dist:
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf
 
-${A4D}/${PIECE}.pdf : p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE}.pdf : p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	groff -ms title | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${USD}/${PIECE}.pdf : title.a4 p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
 	| ${A42US} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 ${XMLD}/${PIECE}.xml : ${PIECE}
@@ -49,13 +49,13 @@ p2.a4 : p2
 p3.a4 : p3
 	groff -ms p3 | ${BANNERISE} > $@
 play :
-	muscript -midi ${PLAY} | midisox_lua - -d stat # trim 118
+	muscript -midi ${PLAY} | midisox_lua - -d stat # trim 60 fade 0 20 0
 edit :
 	vi ${PLAY}
 	make play dev
-album : sometimes konkerado web only_the_glories the_spell
+album : sometimes konkerado web only_the_glories remember the_spell
 	chmod 644 $@
-	cat sometimes konkerado web only_the_glories the_spell > $@
+	cat sometimes konkerado web only_the_glories remember the_spell > $@
 	chmod 444 $@
 album.a4 : album
 	muscript album > $@

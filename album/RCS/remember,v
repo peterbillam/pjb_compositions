@@ -1,10 +1,15 @@
-head	1.2;
+head	1.3;
 access;
 symbols;
 locks
-	pjb:1.2; strict;
+	pjb:1.3; strict;
 comment	@# @;
 
+
+1.3
+date	2015.10.10.10.20.07;	author pjb;	state Exp;
+branches;
+next	1.2;
 
 1.2
 date	2015.10.06.23.13.49;	author pjb;	state Exp;
@@ -22,18 +27,301 @@ desc
 @
 
 
+1.3
+log
+@up one semitone... probably an improvement ?
+@
+text
+@4 systems 10 /18 20 18 20 18 20 18/18 20 18 20 18 20 18  /18 20 18 20 18 20 18/18 20 18 20 18 20 18/
+title Remember
+pagenum
+innerhead Peter Billam,  from Album for Choir
+leftfoot (c) 2015 Peter J Billam
+midi channel 2 patch 85
+/
+5 bars | 12 | 12 13 12 11 | 12 10 12 11 | 12 10 10 11 | 12 12 12 12 |
+| 0.9
+=1 treble cha2  leg99 4 Eb
+r0.3 .15 Re  -
+=2 treble cha2  leg99 4 B_b
+=3 treble8vab cha2  leg99 4 Bb'
+=4 bass cha2  leg99 4 F#
+| 3.5
+=1 4 G 8 G rest 4. rest 8 G
+r0.3 .02 mem - ber .84 a   -
+=2 4 C 8 C rest 4. rest 8 C
+=3 4 A 8 A rest 4. rest 8 A
+=4 4 G 8 G rest 4. rest 8 G
+|
+=1 4 G 4. G 8 rest 4 F
+r0.3 .02 round  us, .75 a
+=2 4 B_ 4. B_ 8 rest 4 B_
+=3 4 G 4. G 8 rest 4 G
+=4 4 A 4. A 8 rest 4 A
+|
+=1 4 Eb 2 Eb 4 Eb
+r0.3 whole   ge .54 - .75 ne .90 -
+=2 4 C 2 C 4 C
+=3 4 Gb 2 Gb 4 Gb
+=4 4 Bb 2 Bb 4 Bb
+|
+=1 4 Eb Eb 4 rest F
+r0.3 .02 ra  -  tion .70 rose
+=2 4 B_ B_ 4 rest B_
+=3 4 F F 4 rest 8 [F G]
+=4 4 Ab Ab 4 rest Ab
+/
+5 bars | 12 10 10 11 | 11 13 12 11 | 12 10 12 11 | 10 10 10 13 | 12 10 13 11 |
+| 3.5
+il0.6 .05 5
+=1  4 G 2 G 4 G
+r0.3 .02 up .28 in .75 re .90 -
+=2  4 C 2 C 4 C
+=3  4 A 2 A 4 A
+=4  4 G 2 G 4 G
+|
+=1 4. G 8 rest 4 G F
+r0.3 .02 volt , .50 in . - .75 spi .90 -
+=2 4. B_ 8 rest 4 B_ B_
+=3 4. G 8 rest 4 G G
+=4 4. A 8 rest 4 A A
+|
+=1 4 Eb 4. Eb 8 rest 4 Eb
+r0.3 .03 ra  -  tion .75 and
+=2 4 C 4. C 8 rest 4 C
+=3 4 Gb 4. Gb 8 rest 4 Gb
+=4 4 Bb 4. Bb 8 rest 4 Bb
+|
+=1 2 Eb 4. rest 8 F
+r0.3 .01 youth .84 re  -
+=2 2 B_ 4. rest 8 C#
+=3 2 F 4. rest 8 G
+=4 2 G# 4. rest 8 A#
+|
+=1 4 G 4. G 8 rest 4 F
+r0.3 .02 mem - ber .75 All
+=2 4 Eb 4. Eb 8 rest 4 D
+=3 4 A 4. A 8 rest 4 A
+=4 4 B 4. B 8 rest 4 B
+/
+5 bars | 12 10 10 11 | 12 10 10 11 | 10 10 13 11 | 12 10 10 11 | 12 13 12 11 | 
+|
+il0.6 .05 10
+=1  4 Eb 2 F 4 G
+r0.4 .03 ge  -  sture .75 is
+=2  4 C 2 C 4 C
+=3  4 A 2 A 4 A
+=4  4 c 2 d 4 eb
+|
+=1' 4 Bb 2 Bb 4 A
+r0.4 .02 born   of .75 re .90 -
+=2 4 F 2 F 4 F
+=3 4 G 2 G 4 G
+=4 4 c# 2 c# 4 c#
+|
+=1 2 G(2 8 G)2 rest 4 G
+r0.4 .02 pose , .75 is
+=2 2 Eb(2 8 Eb)2 rest 4 C#
+=3' 2 B(2 8 B)2 rest 4 A
+=4' 2 d#(2 8 d#)2 rest 4 d#
+| 3.5
+=1 4 G# 2 G# 4 G#
+r0.4 .02 born   of .75 re .90 -
+=2 4 C# 2 C# 4 Eb
+=3 4 G# 2 G# 4 G#
+=4 4 A# 2 A# 4 B
+|
+=1 4. G# 8 rest 4 G# F#
+r0.4 .01 pose , .53 as .75 is
+=2 4. E 8 rest 4 E E
+=3 4. Bb 8 rest 4 Bb G#
+=4 4. c# 8 rest 4 c# cn
+/
+5 bars | 12 10 10 11 | 12 11 11 11 | 12 10 10 11 | 12 10 10 11 |
+|
+il0.6 .05 15
+=1  4 E 2 E 4 E
+r0.3 .01 mu  -  sic .75 of
+=2  4 C# 2 C# 4 C#
+=3  4 G 2 G 4 G
+=4  4 B 2 B 4 B
+|
+=1 4 E E 4 rest F#
+r0.3 .02 si  -  lence .76 my
+=2 4 C C 4 rest D
+=3 4 F# F# 4 rest F#
+=4 4 A A 4 rest A
+| 3.5
+=1 4 G# 2 G# 4 G#
+r0.3 young  green .75 and
+=2 4 C# 2 C# 4 Eb
+=3 4 G# 2 G# 4 G#
+=4 4 A# 2 A# 4 B
+|
+=1 2 G# 4 rest F#
+r0.3 .02 sweet , .75 my
+=2 2 E 4 rest E
+=3 2 Bb 4 rest G#
+=4 2 c# 4 rest cn
+|
+=1 4 E 2 E 4 E
+r0.3 .01 old .25 known .75 and
+=2 4 C# 2 C# 4 C#
+=3 4 G 2 G 4 G
+=4 4 B 2 B 4 B
+
+4 systems /18 20 18 20 18 20 18/
+pagenum
+innerhead Peter Billam,  Album for Choir,   Remember
+leftfoot (c) 2015 Peter J Billam
+
+/
+5 bars | 10 10 12 11 | 10 10 13 11 | 10 10 12 11 | 12 10 10 11 | 10 10 13 11 |
+|
+il0.6 .05 20
+=1  2 E 4 rest F#
+r0.3 .02 wise .75 my
+=2  2 C 4 rest D
+=3  2 Gb 4 rest Gb
+#=4  2 A 4 rest B
+=4  2 A 4 rest Bb
+|
+=1 2 G#(2 8 G#)2 rest 4 F#
+r0.3 .02 muse , .75 with
+=2 2 E(2 8 E)2 rest 4 D#
+=3' 2 Bb(2 8 Bb)2 rest 4 Bb
+=4 2 c(2 8 c)2 rest 4 c
+|
+=1 2 E 4 F# 4 G#
+r0.3 .02 you, .50 I .75 con  -
+=2 2 C# 4 C# 4 C#
+=3' 2 Bb 4 Bb 4 Bb
+=4 2 c# 4 d# 4 e
+|
+=1' 4 B 2 B 4 A#
+r0.3  verse   un .55 - .75 a .90 -
+=2 4 F# 2 F# 4 F#
+=3 4 Ab 2 Ab 4 Ab
+=4 4 dn 2 d 4 d
+|
+=1 2 G#(2 8 G#)2 rest 4 G#
+r0.3 .02 fraid . .75 My
+=2 2 E(2 8 E)2 rest 4 D
+=3 2 c(1 8 c)1 rest 4 Bb
+=4 2 e(1 8 e)1 rest 4 e
+/
+5 bars | 12 10 10 11 | 10 10 13 11 | 10 10 10 11 | 10 10 10 11 | 12 10 10 11 |
+| 3.5
+il0.6 .05 25
+=1  4 A 2 B' 4 c#
+r0.3 .02 breath  of .73 this
+=2  4 D 2 F# 4 E
+=3  4 A 2 A 4 A
+=4  4 B 2 c# 4 c#
+|
+=1 2 c#(1 8 c#)1 rest 4 B
+r0.3 .01 night .78 I 
+=2 2 F#(2 8 F#)2 rest 4 F#
+=3 2 A(2 8 A)2 rest 4 A
+=4 2 d#(1 8 d#)1 rest 4 d#
+|
+=1 2. c# 4 A
+r0.3 .02 give , .74 my
+=2 2. G 4 G
+=3 2. B 4 B
+=4 2. d# 4 e
+|
+=1' 2. B 4 G#
+r0.3 .02 in .40 - .72 spi .92 -
+=2 2. G 4 F
+=3 2. c# 4 d
+=4 2. f 4 g#
+|
+=1 4 A 2 B' 4 c#
+r0.3 .02 ra  -  tion , .75 I
+=2 4 F# 2 F# 4 F#
+=3 4 d 2 c# 4 c#
+=4 4 b 2 a 4 a
+/
+5 bars | 12 10 10 11 | 10 10 12 11 | 10 10 12 11 | 10 10 12 11 | 39 |
+|
+il0.6 .05 30
+=1  4 c# 2 c# 4 c#
+r0.3 .02 give    to .73 the
+=2  4 F# 2 F# 4 F#
+=3  4 d# 2 d# 4 d#
+=4  4 a 2 a 4 a
+|
+=1 2 c# 4 G A
+r0.3 .02 life .48 of .75 the
+=2 2 G 4 G A
+=3 2 d# 4 d# d#
+=4 2 b 4 b c~#
+|
+=1' 2 B 4 A B
+r0.3 .02 mind , .48 and .75 its
+=2 2 G 4 G G
+=3 2 e 4 e e
+=4 2 c~# 4 d~ c~#
+|
+=1 2 c# 4 B c#
+r0.3 .02 deeds .50 and .75 its
+=2 2 G 4 G G
+=3 2 f 4 f f
+=4 2 b 4 c~# b
+|
+=1 1 d(1
+r0.3 .02 works
+=2 1 G(2
+=3 1 e(1
+=4 1 b(1
+/
+5 bars | 12 10 10 11 | 20 19 | 24 20 | 20 19 | 38 ||
+|
+il0.6 .05 35
+=1  4 d)1 2 B' 4 A
+r0.3 .30 e .55 - .73 ver   -
+=2  4 G)2 2 E 4 E
+=3  4 e)1 2 d 4 c#
+=4  4 b)1 2 g 4 f#
+|
+=1 2 G G(2
+r0.3 .02 la .30 - .50 sting
+=2 2 D D(2
+=3 2 B B(1
+=4 2 e e(1
+|
+=1 4 G)2 rest 2 F#
+r0.3 .55 re .85 -
+=2 4 D)2 rest 2 C
+=3 4 B)1 rest 2 A
+=4 4 e)1 rest 2 e
+|
+=1 2 G G(2
+r0.3 .01 mem .30 - .52 ber  .  .  .
+=2 2 C C(2
+=3 2 A A(2
+=4 2 eb eb(1
+|
+=1 1 G)2-fermata
+=2 1 C)2-fermata
+=3 1 A)2
+=4 1 eb)1-fermata
+midi pause 3.0
+@
+
+
 1.2
 log
 @plausible; just moved in from sketches
 @
 text
-@4 systems /18 20 18 20 18 20 18/
-title Remember
+@d1 1
+a1 1
+4 systems /18 20 18 20 18 20 18/
+a2 1
 # evolved from 20150630  book AP p.23 +2st
-pagenum
-innerhead Peter Billam,  from Album for Choir
-leftfoot (c) 2015 Peter J Billam
-midi channel 2 patch 85
+a6 11
 
 # Remember around us a whole generation,
 # rose up in revolt, inspiration and love;  (protest? anger? youth?)
@@ -45,218 +333,246 @@ midi channel 2 patch 85
 # my breath I give to the life of the mind,  (this night I give to the...)
 # to its deeds and its works everlasting. remember...
 
-/
-5 bars | 12 | 12 13 12 11 | 12 10 12 11 | 12 10 10 11 | 12 12 12 12 |
-| 0.9
+d10 1
+a10 1
 =1 treble     cha2 leg99 4 D
-r0.3 .15 Re  -
+d12 3
+a14 3
 =2 treble     cha2 leg99 4 A_
 =3 treble8vab cha2 leg99 4 A
 =4 bass       cha2 leg99 4 F
-| 3.5
+d16 1
+a16 1
 =1 4 F# 8 F# rest 4. rest 8 F#
-r0.3 .02 mem - ber .84 a   -
+d18 3
+a20 3
 =2 4 B_ 8 B_ rest 4. rest 8 B_
 =3 4 G# 8 G# rest 4. rest 8 G#
 =4 4 F# 8 F# rest 4. rest 8 F#
-|
+d22 1
+a22 1
 =1 4 F# 4. F# 8 rest 4 E
-r0.3 .02 round  us, .75 a
+d24 3
+a26 3
 =2 4 A_# 4. A_# 8 rest 4 A_#
 =3 4 F# 4. F# 8 rest 4 F#
 =4 4 G# 4. G# 8 rest 4 G#
-|
+d28 1
+a28 1
 =1 4 D  2 D  4 D
-r0.3 whole   ge .54 - .75 ne .90 -
+d30 3
+a32 3
 =2 4 B_ 2 B_ 4 B_
 =3 4 Fn 2 F  4 F
 =4 4 A  2 A  4 A 
-|
+d34 1
+a34 1
 =1 4 D   D   4 rest E
-r0.3 .02 ra  -  tion .70 rose
+d36 3
+a38 3
 =2 4 A_# A_# 4 rest A_#
 =3 4 E   E   4 rest 8 [E F#]
 =4 4 G   G   4 rest G
-/
-5 bars | 12 10 10 11 | 11 13 12 11 | 12 10 12 11 | 10 10 10 13 | 12 10 13 11 |
-| 3.5
-il0.6 .05 5
+d43 1
+a43 1
 =1 4 F# 2 F# 4 F#
-r0.3 .02 up .28 in .75 re .90 -
+d45 3
+a47 3
 =2 4 B_ 2 B_ 4 B_
 =3 4 G# 2 G# 4 G#
 =4 4 F# 2 F# 4 F#
-|
+d49 1
+a49 1
 =1 4. F# 8 rest 4 F# E
-r0.3 .02 volt , .50 in . - .75 spi .90 -
+d51 3
+a53 3
 =2 4. A_# 8 rest 4 A_# A_#
 =3 4. F# 8 rest 4 F# F#
 =4 4. G# 8 rest 4 G# G#
-|
+d55 1
+a55 1
 =1 4 D  4. D  8 rest 4 D
-r0.3 .03 ra  -  tion .75 and
+d57 3
+a59 3
 =2 4 B_ 4. B_ 8 rest 4 B_
 =3 4 Fn 4. F  8 rest 4 F
 =4 4 A  4. A  8 rest 4 A
-|
+d61 1
+a61 1
 =1 2 D 4. rest 8 E
-r0.3 .01 youth .84 re  -
+d63 3
+a65 4
 =2 2 A_# 4. rest 8 C
 =3 2 E 4. rest 8 F#
 =4 2 G 4. rest 8 A
 
-|
+d67 1
+a67 1
 =1 4 F# 4. F# 8 rest 4 E
-r0.3 .02 mem - ber .75 All
+d69 3
+a71 3
 =2 4 D  4. D  8 rest 4 C#
 =3 4 Ab 4. Ab 8 rest 4 Ab
 =4 4 Bb 4. Bb 8 rest 4 Bb
-/
-5 bars | 12 10 10 11 | 12 10 10 11 | 10 10 13 11 | 12 10 10 11 | 12 13 12 11 | 
-|
-il0.6 .05 10
+d76 5
+a80 5
 =1 4 D  2 E  4 F#
 r0.3 .03 ge  -  sture .75 is
 =2 4 B_ 2 B_ 4 B_
 =3 4 Ab 2 Ab 4 Ab
 =4 4 B  2 c# 4 d'
-|
+d82 5
+a86 5
 =1 4 A  2 A  4 G#
 r0.3 .02 born   of .75 re .90 -
 =2 4 E  2 E  4 E
 =3 4 Gb 2 Gb 4 Gb
 =4 4 c 2 c  4 c
-|
+d88 5
+a92 6
 =1  2 F#(1 8 F#)1 rest 4 F#
 r0.3 .02 pose , .75 is
 =2  2 D(2  8 D)2  rest 4 C
 =3  2 Bb(1  8 Bb)1  rest 4 Ab
 =4' 2 d(2  8 d)2  rest 4 d
 
-| 3.5
+d94 5
+a98 5
 =1 4 G 2 G 4 G
 r0.3 .02 born   of .75 re .90 -
 =2 4 C 2 C 4 D
 =3 4 G 2 G 4 G
 =4 4 A 2 A 4 Bb
-|
+d100 5
+a104 5
 =1 4. G  8 rest 4 G  F
 r0.3 .01 pose , .53 as .75 is
 =2 4. Eb 8 rest 4 Eb Eb
 =3 4. A  8 rest 4 A  G
 =4 4. c  8 rest 4 c  B
-/
-5 bars | 12 10 10 11 | 12 11 11 11 | 12 10 10 11 | 12 10 10 11 |
-|
-il0.6 .05 15
+d109 1
+a109 1
 =1 4 Eb 2 Eb 4 Eb
-r0.3 .01 mu  -  sic .75 of
+d111 3
+a113 3
 =2 4 C  2 C  4 C
 =3 4 F# 2 F# 4 F#
 =4 4 Bb 2 Bb 4 Bb
-|
+d115 1
+a115 1
 =1 4 Eb Eb 4 rest F
-r0.3 .02 si  -  lence .76 my
+d117 3
+a119 3
 =2 4 B_ B_ 4 rest C#
 =3 4 F  F  4 rest F
 =4 4 G# G# 4 rest G#
-| 3.5
+d121 1
+a121 1
 =1 4 G 2 G 4 G
-r0.3 young  green .75 and
+d123 3
+a125 3
 =2 4 C 2 C 4 D
 =3 4 G 2 G 4 G
 =4 4 A 2 A 4 Bb
-|
+d127 1
+a127 1
 =1 2 G  4 rest F
-r0.3 .02 sweet , .75 my
+d129 3
+a131 3
 =2 2 Eb 4 rest Eb
 =3 2 A  4 rest G
 =4 2 c  4 rest B
-|
+d133 1
+a133 1
 =1 4 Eb 2 Eb 4 Eb
-r0.3 .01 old .25 known .75 and
+d135 3
+a137 3
 =2 4 C  2 C  4 C
 =3 4 F# 2 F# 4 F#
 =4 4 Bb 2 Bb 4 Bb
-
-4 systems /18 20 18 20 18 20 18/
-pagenum
-innerhead Peter Billam,  Album for Choir,   Remember
-leftfoot (c) 2015 Peter J Billam
-
-/
-5 bars | 10 10 12 11 | 10 10 13 11 | 10 10 12 11 | 12 10 10 11 | 10 10 13 11 |
-|
-il0.6 .05 20
+d148 1
+a148 1
 =1 2 Eb 4 rest F
-r0.3 .02 wise .75 my
+d150 4
+a153 3
 =2 2 B_ 4 rest C#
 =3 2 F  4 rest G
 =4 2 G# 4 rest A#
-|
+d155 1
+a155 1
 =1 2 G(2 8 G)2 rest 4 F
-r0.3 .02 muse , .75 with
+d157 3
+a159 3
 =2 2 Eb(2 8 Eb)2 rest 4 D
 =3 2 A(2 8 A)2 rest 4 A
 =4 2 B(2 8 B)2 rest 4 B
-|
+d161 1
+a161 1
 =1 2 Eb 4 F 4 G
-r0.3 .02 you, .50 I .75 con  -
+d163 3
+a165 3
 =2 2 C  4 C 4 C
 =3 2 A  4 A 4 A
 =4 2 c  4 d 4 eb
-|
+d167 1
+a167 1
 =1' 4 Bb 2 Bb 4 A
-r0.3  verse   un .55 - .75 a .90 -
+d169 3
+a171 3
 =2 4 F 2 F 4 F
 =3 4 G 2 G 4 G
 =4 4 db 2 db 4 db
-|
+d173 5
+a177 6
 =1 2 G(1 8 G)1 rest 4 G
 r0.3 .02 fraid, .75 My
 =2 2 Eb(2 8 Eb)2 rest 4 Db
 =3 2 B(1 8 B)1 rest 4 A
 =4 2 eb(1 8 eb)1 rest 4 eb
 
-/
-5 bars | 12 10 10 11 | 10 10 13 11 | 10 10 10 11 | 10 10 10 11 | 12 10 10 11 |
-| 3.5
-il0.6 .05 25
+d182 5
+a186 5
 =1 4 Ab 2 Bb' 4 c
 r0.3 .02 breath  of .75 this
 =2 4 Db 2 F 4 Eb
 =3 4 Ab 2 Ab 4 Ab
 =4 4 Bb 2 c 4 c
-|
+d188 1
+a188 1
 =1 2 c(1 8 c)1 rest 4 Bb
-r0.3 .01 night .78 I 
+d190 3
+a192 3
 =2 2 F(2 8 F)2 rest 4 F
 =3 2 Ab(2 8 A)2 rest 4 Ab
 =4 2 d(1 8 d)1 rest 4 d
-|
+d194 1
+a194 1
 =1 2. c 4 Ab
-r0.3 .02 give , .74 my
+d196 3
+a198 3
 =2 2. F# 4 F#
 =3 2. Bb 4 Bb
 =4 2. d  4 d#
-|
+d200 1
+a200 2
 =1' 2. Bb 4 G
 #r0.3 .02 muse, .75 my
-r0.3 .02 in .40 - .72 spi .92 -
+d202 3
+a204 3
 =2 2. F# 4 E
 =3 2. c  4 db
 =4 2. e  4 g
-|
+d206 1
+a206 2
 =1 4 Ab 2 Bb' 4 c
 #r0.3 .02 lo  -  tus .75 I
-r0.3 .02 ra  -  tion , .75 I
+d208 3
+a210 3
 =2 4 F  2 F  4 F
 =3 4 db 2 c  4 c
 =4 4 bb 2 ab 4 ab
-/
-5 bars | 12 10 10 11 | 10 10 12 11 | 10 10 12 11 | 10 10 12 11 | 39 |
-|
-il0.6 .05 30
+d215 17
+a231 17
 =1 4 c  2 c  4 c
 r0.3 .02 give    to .75 the
 =2 4 F  2 F  4 F
@@ -274,42 +590,51 @@ r0.3 .02 mind , .50 and .75 its
 =2  2 Gb 4 Gb  Gb
 =3  2 eb 4 eb  eb
 =4  2 c~ 4 d~b c~
-|
+d233 1
+a233 1
 =1 2 c  4 Bb c
-r0.3 .02 deeds .50 and .75 its
+d235 3
+a237 3
 =2 2 Gb 4 Gb Gb
 =3 2 en 4 e  e
 =4 2 bb 4 c~ bb
-|
+d239 1
+a239 1
 =1 1 db(1
-r0.3 .02 works
+d241 3
+a243 3
 =2 1 Gb(2
 =3 1 eb(1
 =4 1 bb(1
-/
-5 bars | 12 10 10 11 | 20 19 | 24 20 | 20 19 | 38 ||
-|
-il0.6 .05 35
+d248 1
+a248 1
 =1 4 db)1 2 Bb' 4 Ab
-r0.3 .30 e .55 - .73 ver   -
+d250 3
+a252 3
 =2 4 Gb)2 2 Eb  4 Eb
 =3 4 eb)1 2 db  4 c
 =4 4 bb)1 2 gb  4 f
-|
+d254 1
+a254 1
 =1 2 Gb Gb(2
-r0.3 .02 la .30 - .50 sting
+d256 3
+a258 3
 =2 2 Db Db(2
 =3 2 Bb Bb(1
 =4 2 eb eb(1
-|
+d260 1
+a260 1
 =1 4 Gb)2 rest 2 F
-r0.3 .55 re .85 -
+d262 3
+a264 3
 =2 4 Db)2 rest 2 B_n
 =3 4 Bb)1 rest 2 Ab
 =4 4 eb)1 rest 2 eb
-|
+d266 1
+a266 1
 =1  2 Gb Gb(2
-r0.3 .01 mem .30 - .52 ber  .  .  .
+d268 9
+a276 18
 =2  2 B_ B_(2
 =3  2 Ab Ab(2
 =4' 2 d  d(2
