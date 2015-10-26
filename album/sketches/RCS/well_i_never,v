@@ -1,10 +1,25 @@
-head	1.3;
+head	1.6;
 access;
 symbols;
 locks
-	pjb:1.3; strict;
+	pjb:1.6; strict;
 comment	@# @;
 
+
+1.6
+date	2015.10.24.23.55.44;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2015.10.23.09.46.42;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.10.21.08.39.38;	author pjb;	state Exp;
+branches;
+next	1.3;
 
 1.3
 date	2015.10.19.23.52.22;	author pjb;	state Exp;
@@ -27,9 +42,9 @@ desc
 @
 
 
-1.3
+1.6
 log
-@is this a plausible basic cell ?
+@plausible up to 31 sec; needs a middle-8
 @
 text
 @3 systems 10 /17-22-17-22-17-30-17-22-17 \
@@ -44,12 +59,38 @@ midi channel 0 patch 85
 /
 4 bars | 48 |
 | 1.6
-=1 treble cha0 leg85 4 rest 8 [E F#] [G F# G A]
-r0.5 .26 Well  I  never .75 knew a
-=2 treble cha0 leg85 4 rest
-=3 treble cha0 leg85 4 rest 8 [E E] [E E E F#]
-=4 treble8vab  cha0 leg85 4 rest 8 [db c] [Bb' A G F#]
-=5  bass       cha0 leg85 4 rest
+=1 treble cha0 leg85 2 blank 1 rest
+=2 treble cha0 leg85 2 blank 1 rest
+=3 treble cha0 leg85 2. rest 4 C(2
+r0.4 .72 Well
+=4 treble8vab  cha0 leg85 2 blank 1 rest
+=5  bass       cha0 leg85 4 rest 2. ab(1
+r0.1 .28 Well
+| 1.6
+=1 2 blank 1 rest
+=2 4. E 8 F# F# 4 E 8 rest
+r0.5 .04 Well  .38 I .51 never
+=3 4. C)2 8 D  D  4 D 8 rest
+=4 2 blank 1 rest
+=5 4. ab)1 8 ab bb 4 bb 8 rest
+|
+=2 8 G  4. F# 4 G   8 rest A
+r0.5 .04 never  .51 knew .88 I
+=3 8 E  4. Eb 4 Eb  8 rest Eb
+=5 8 bb 4. a  4 a   8 rest a
+|
+=2 8 Bb' 4 G  8 rest 4. F# 8 D#
+r0.5 .04 never  .51 ne .70 - .88 ver
+=3 8 Db 4 C  8 rest 4. C  8 C
+=5 8 g  4 a  8 rest 4. a  8 a
+| 1.6
+=1 4 rest 8 [E F#] [G F# G A]
+r0.5 .24 Well  I   never .75 knew a
+=2 4 E rest 2 rest
+r0.5 .02 knew
+=3 8 C rest 8 [E E] [E E E F#]
+=4 4 rest 8 [db c] [Bb' A G F#]
+=5 4 bb 4 rest 2 rest
 |
 =1' 4 B 8 [G E] 4 Bb 8 [G A]
 r0.5 .05 te .15 - .25 dious .50 June .76 or  a
@@ -61,26 +102,246 @@ r0.5 .02 room .25 with a .50 tree .75 nor  a
 =3' 4 G 8 [G G] 4 G 8 [G G]
 =4 4 G 8 [Bb db] 4 c 8 [Eb F]
 | 1.4
-=1' 4 B 8 [G E] 8 Bb 8 [G A]
-r0.5 .05 tomb .25 with a .50 key .76 or  a
-=3' 4 G 8 [G G] 8 G 8 [G G]
-=4 4 G 8 [Bb db] 8 c 8 [Eb F]
+=1' 7/8 4 B 8 [G E] 8 Bb 8 [G A]
+r0.5 .07 tomb .34 with a .58 key .78 or  a
+=3' 7/8 4 G 8 [G G] 8 G 8 [G G]
+=4 7/8 4 G 8 [Bb db] 8 c 8 [Eb F]
 |
-=1' 8 B 8 [G E] 4 Bb 8 [A G]
-r0.5 .02 seed  on  the .50 moon .71 on .88 the
-=3' 8 G 8 [G G] 4 G 8 [G G]
-=4 8 G 8 [Bb db] 4 c 8 [Eb F]
+=1' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 seed on  the  moon .71 on .88 the
+=2 1 blank
+=3' 8 [G G G] 4 G 8 [G G]
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
 | 1.4
 =1' 4 B 8 [E G] [Bb G A]
 r0.5 .02 moon .30 no .45 I .60 never .88 I
 =3' 4 G 8 [G G] 8 G 8 [G G]
 =4  4 G 8 [A Bn'] [c c c#]
 | 1.6
-=1 8 [Bn{1 c#}1 d# e(1] 2 e)1
-r0.5 .02 ne .15 -  .25 ver  knew
-=2, 2 rest 8 [A B c# d#]
-=3, 8 [G{1 8 A,}1 B c#(1] 2 c)1
-=4 8 [d#{1 e}1 f# g(1] 2 g)1
+=1 4/4 8 [Bn{1 c#}1 d# e(1] 2 e)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 2 rest 8 [A B c# d#]
+=3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
+=4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
+|
+=1 2. rest 4 e
+=2 1 e
+
+/
+4 bars | 48 |
+| 1.6
+=1 leg85  4. d# 8 rest 4 c# B'(2
+=2 leg85  4 rest 8 [C# D#] [E D# E F#]
+r0.5 .24 Well  I   never .73 saw  the
+=3 leg85  4 rest 8 [C# C#] [C# C# C# D#]
+=4 leg85  4 rest
+=5 leg85 4 rest 8 [bb a] [g f# e d#]
+|
+=1' 8 B)2 rest 4 Bb 4. A 8 rest
+=2' 4 G# 8 [E C#] 4 Gn 8 [E F#]
+r0.5 .05 car .25 of .41 a .50 whore .74 with the
+=3' 4 E 8 [E E] 4 E 8 [E E]
+=4 2 blank 1 rest
+=5 4 e 8 [g bb] 4 a 8 [c d']
+|
+=1 2 blank 1 rest
+=2' 4 G# 8 [E C#] 4 Gn 8 [F# E]
+r0.5 .02 door .23 left .39  a - jar .75 nor  a
+=3' 4 E 8 [E E] 4 E 8 [E E]
+=4 4 d 4. db 8 rest 4 c
+=5 4 e 8 [g bb] 4 a 8 [c d']
+| 1.4
+=1  7/8 2 rest 4. rest
+=2' 7/8 4 G# 8 [E C#] 8 Gn 8 [E F#]
+r0.5 .07 farm .34 with a .58 brawl .78 on  the
+=3' 7/8 4 E 8 [E E] 8 E 8 [E E]
+=4 7/8 4. B 8 rest 4. c
+=5 7/8 4 e 8 [g bb] 8 a 8 [c d']
+|
+=1 4. rest 2 rest
+=2' 8 [G# E C#] 4 Gn 8 [F# E]
+r0.5 .01 floor of  the  barn .71 of .88 the
+=3' 8 [E E E] 4 E 8 [E E]
+=4 4. c# 4 rest A#
+=5 8 [e g bb] 4 a 8 [c d']
+| 1.4
+=1' 2 rest 4. rest
+=2' 4 G# 8 [C# E] [Gn E F#]
+r0.5 .02 barn .30 no .45 I .60 never .88 I
+=3' 4 E 8 [E E] 8 E 8 [E E]
+=4 4 B' rest 8 rest rest Bb
+=5 4 e 8 [f# g#] [a a] rest
+| 1.6
+=1, 4/4 8 [Ab{1 Bb}1 c db(1] 2 db)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2' 4/4 2 rest 8 [Gb Ab Bb c]
+=3, 4/4 8 [E{1 8 F#}1 G# Bb(1] 2 Bb)1
+=4 4/4 8 [c{1 c#}1 d# e(1] 2 e)1
+=5 4/4 2 blank 1 rest
+|
+=2 1 db
+
+/
+4 bars | 48 |
+#well I never found a Way for a Purr to be Heard in the Bay
+#but the Bird to reMain there to Play in the Fur
+| 1.6
+=1 leg85 4 rest 8 [E F#] [G F# G A]
+r0.5 .24 Well  I   never .75 found a
+=2 leg85 4 rest
+=3 leg85 4 rest 8 [E E] [E E E F#]
+=4 leg85 4 rest 8 [db c] [Bb' A G F#]
+=5 leg85 4 rest
+|
+=1' 4 B 8 [G E] 4 Bb 8 [G A]
+r0.5 .05 way .25 for  a .50 purr .76 to   be
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+|
+=1' 4 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 heard .25 in   the .50 bay .75 but  the
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+| 1.4
+=1' 7/8 4 B 8 [G E] 8 Bb 8 [G A]
+r0.5 .07 bird .34 to re  - .58 main .78 there  to
+=3' 7/8 4 G 8 [G G] 8 G 8 [G G]
+=4 7/8 4 G 8 [Bb db] 8 c 8 [Eb F]
+|
+=1' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 play  in  the  fur .71 in .88 the
+=3' 8 [G G G] 4 G 8 [G G]
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
+| 1.4
+=1' 4 B 8 [E G] [Bb G A]
+r0.5 .02 fur .30 no .45 I .60 never .88 I
+=3' 4 G 8 [G G] 8 G 8 [G G]
+=4  4 G 8 [A Bn'] [c c c#]
+| 1.6
+=1 4/4 8 [Bn{1 c#}1 d# e(1] 2 e)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 2 rest 8 [A B c# d#]
+=3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
+=4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
+|
+=2 1 e
+
+/
+4 bars | 48 |
+#well I never did beLieve there's a Flaw in the Law of the Sea
+#nor a Horn in the Weeds at the Feet of the Poor 
+| 1.6
+=1 treble cha0 leg85 2 blank 1 rest
+=2 treble cha0 leg85 4. E 8 F# F# 4 E 8 rest
+r0.5 .04 Well  .38 I .51 never
+=3 treble cha0 leg85 4. C 8 D  D  4 D 8 rest
+=4 treble8vab  cha0 leg85 2 blank 1 rest
+=5  bass       cha0 leg85 4. ab 8 ab bb 4 bb 8 rest
+|
+=2 8 G  4. F# 4 G   8 rest A
+r0.5 .04 never  .51 knew .88 I
+=3 8 E  4. E  4 Eb  8 rest Eb
+=5 8 bn 4. b  4 c~# 8 rest b
+|
+=2 8 B' 4 G  8 rest 4. F# 8 D#
+r0.5 .04 never  .51 ne .70 - .88 ver
+=3 8 Db 4 B_ 8 rest 4. C  8 C
+=5 8 a  4 a  8 rest 4. a  8 a
+| 1.6
+=1 leg85  4 rest 8 [G A] [Bb' A Bb' c']
+r0.5 .24 Well  I   never .75 did  be -
+=2 leg85  4 E 8 [G G] [G G G A]
+=3 leg85  4 E rest 2 rest
+=4 leg85  4 rest 8 [e eb] [db c Bb A,]
+=5 leg85  4. a 8 rest 4 g f(1
+|
+=1' 4 d 8 [Bb G]  4  c# 8 [Bb cn]
+r0.5 .05 lieve .25 there's a flaw .76 in  the
+=2' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+=4  4 A# 8 [c# e] 4  d# 8 [F# G#]
+=5 8 f)1 rest 4 e 4. eb 8 rest
+|
+=1' 4 d 8 [Bb G] 4 c# 8 [cn Bb]
+r0.5 .02 law .25 of the .50 sea .75 nor  a
+=2' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+=4  4 A# 8 [c# e] 4 d# 8 [F# G#]
+=5 4 d 4. db 8 rest 4 c
+| 1.4
+=1' 7/8 4 d 8 [Bb G] 8 c# 8 [Bb cn]
+r0.5 .07 horn .34 in the .58 weeds .78 at the
+=2' 7/8 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+=4  7/8 4 Bb 8 [c# e] 8 d# 8 [F# G#]
+=5  7/8 4. Bb 8 rest 4. Bb
+|
+=1' 8 [d Bb G] 4 c# 8 [cn Bb]
+r0.5 .01 feet of  the  poor .71 of .88 the
+=2' 8 [Bb Bb Bb] 4 Bb 8 [Bb Bb]
+=3 1 blank
+=4  8 [A#, c# e] 4 d# 8 [F# G#]
+=5' 8 [Bb Bb Bb] 4 Bb 8 [Bb Bb]
+| 1.4
+=1' 4 d 8 [G Bb] [c# Bb cn]
+r0.5 .02 poor .30 no .45 I .60 never .88 I
+=2' 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+=3  4 rest 8 [C D] [D# D# E]
+=4' 4 A# rest 2 rest
+=5  4 Bb 8 [c d'] [d# d# e]
+| 1.6
+=1  4/4 8 [d{1 e}1 f# g(1] 2 g)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 8 [Bb{1 8 c,}1 d e(1] 4. e)1 8 f#
+r0.5 .06 ne .18 -  .27 ver,   ne .66 - .87 ver
+=3  4/4 8 [F#{2 G}2 A Bb'] [c d] 4 e(1
+=4  4/4 4 rest 8 rest Bb [c d e f#]
+=5 4/4 8 [f#{1 g}1] 4 a 2 rest
+|
+=2 1 g
+=3 1 e)1
+=4 1 g
+
+/
+4 bars | 48 |
+#well I never knew the Rune of a Lay or the Pay of a Fool
+#nor of May coming Soon  nor the Noon of the Day
+| 1.6
+=1 leg85 4 rest 8 [E F#] [G F# G A]
+r0.5 .24 Well  I   never .75 knew the
+=2 leg85 4 rest
+=3 leg85 4 rest 8 [E E] [E E E F#]
+=4 leg85 4 rest 8 [db c] [Bb' A G F#]
+=5 leg85 4 rest
+|
+=1' 4 B 8 [G E] 4 Bb 8 [G A]
+r0.5 .05 rune .25 of  a .50 lay .76 nor  the
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+|
+=1' 4 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 pay .25 of  a .50 fool .75 nor  of
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+| 1.4
+=1' 7/8 4 B 8 [G E] 8 Bb 8 [G A]
+r0.5 .07 May .34 coming .58 soon .78 nor  the
+=3' 7/8 4 G 8 [G G] 8 G 8 [G G]
+=4 7/8 4 G 8 [Bb db] 8 c 8 [Eb F]
+|
+=1' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 noon of  the  day .71 of .88 the
+=2 1 blank
+=3' 8 [G G G] 4 G 8 [G G]
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
+| 1.4
+=1' 4 B 8 [E G] [Bb G A]
+r0.5 .02 day .30 no .45 I .60 never .88 I
+=3' 4 G 8 [G G] 8 G 8 [G G]
+=4  4 G 8 [A Bn'] [c c c#]
+| 1.6
+=1 4/4 8 [Bn{1 c#}1 d# e(1] 2 e)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 2 rest 8 [A B c# d#]
+=3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
+=4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
 |
 =2 1 e
 
@@ -105,6 +366,225 @@ r0.5 .02 ne .15 -  .25 ver  knew
 #nor of May coming Soon  nor the Noon of the Day
 #------------------------------------------------------------------
 
+
+
+#see: well_i_never_words
+
+#see: well_i_never_words
+#------------------------------------------------------------------
+#well I never knew a Tedious June or a Room with a Tree
+#nor a Tomb with a Key or a Seed on the Moon
+#
+#well I never saw the Car of a Whore with the Door left aJar
+#nor a Farm with a Brawl on the Floor of the Barn
+#
+#well I never found a Way for a Purr to be Heard in the Bay
+#but the Bird to reMain there to Play in the Fur
+#
+#well I never did beLieve there's a Flaw in the Law of the Sea
+#nor a Horn in the Weeds at the Feet of the Poor 
+#
+#well I never knew the Rune of a Lay or the Pay of a Fool
+#nor of May coming Soon  nor the Noon of the Day
+#------------------------------------------------------------------
+
+@
+
+
+1.5
+log
+@very hesitant intro; unsure as to role
+@
+text
+@d14 9
+a22 1
+=2 treble cha0 leg85 4. E 8 F# F# 4 E 8 rest
+d24 3
+a26 3
+=3 treble cha0 leg85 4. C 8 D  D  4 D 8 rest
+=4 treble8vab  cha0 leg85 2 blank 1 rest
+=5  bass       cha0 leg85 4. ab 8 ab bb 4 bb 8 rest
+d30 2
+a31 2
+=3 8 E  4. E  4 Eb  8 rest Eb
+=5 8 bn 4. b  4 c~# 8 rest b
+d33 1
+a33 1
+=2 8 B' 4 G  8 rest 4. F# 8 D#
+d35 2
+a36 2
+=3 8 Eb 4 B_ 8 rest 4. C  8 C
+=5 8 a  4 a  8 rest 4. a  8 a
+d41 1
+d78 1
+d84 1
+a84 1
+=1 leg85  4 rest
+d86 1
+a86 1
+r0.5 .24 Well  I   never .75 saw  the
+d91 1
+d93 1
+a93 1
+r0.5 .05 car .25 of  a .50 whore .76 with the
+d95 1
+d98 1
+d100 1
+a100 1
+r0.5 .02 door .25 left  a - .50 jar .75 nor  a
+d102 1
+d105 1
+d109 1
+d112 1
+a112 1
+=1 1 blank
+d116 1
+a116 1
+=4 1 blank
+d119 1
+d123 2
+a124 2
+=4 4 rest 8 [F# G#] [A A Bb']
+=5 4 e rest 2 rest
+d131 1
+d199 1
+a199 1
+=3 8 Eb 4 B_ 8 rest 4. C  8 C
+@
+
+
+1.4
+log
+@five verses; but needs bridges, chorus, middle-8
+@
+text
+@d13 18
+a30 1
+=1 treble cha0 leg85 4 rest 8 [E F#] [G F# G A]
+d32 4
+a35 4
+=2 treble cha0 leg85 4 rest
+=3 treble cha0 leg85 4 rest 8 [E E] [E E E F#]
+=4 treble8vab  cha0 leg85 4 rest 8 [db c] [Bb' A G F#]
+=5  bass       cha0 leg85 4 rest
+d54 1
+d74 2
+a75 1
+=1 leg85  4 rest 8 [C# D#] [E D# E F#]
+a76 1
+=2 leg85  4 rest
+d78 2
+a79 2
+=4 leg85  4 rest 8 [Bb' A] [G F# E D#]
+=5 leg85  4 rest
+d81 1
+a81 1
+=1' 4 G# 8 [E C#] 4 Gn 8 [E F#]
+d84 1
+a84 1
+=4 4 E 8 [G Bb'] 4 A 8 [C D]
+d86 1
+a86 1
+=1' 4 G# 8 [E C#] 4 Gn 8 [F# E]
+d89 1
+a89 1
+=4 4 E 8 [G Bb'] 4 A 8 [C D]
+d91 1
+a91 1
+=1' 7/8 4 G# 8 [E C#] 8 Gn 8 [E F#]
+d94 1
+a94 1
+=4 7/8 4 E 8 [G Bb'] 8 A 8 [C D]
+d96 2
+a97 1
+=1' 8 [G# E C#] 4 Gn 8 [F# E]
+d100 2
+a101 1
+=4 8 [E G Bb'] 4 A 8 [C D]
+d103 1
+a103 1
+=1' 4 G# 8 [C# E] [Gn E F#]
+d106 2
+a107 1
+=4 4 E 8 [F# G#] [A A Bb']
+d115 1
+a115 1
+=2 1 c#
+d167 17
+d186 4
+a189 4
+=2 leg85  4 rest
+=3 leg85  4 rest 8 [G G] [G G G A]
+=4 leg85  4 rest 8 [e eb] [db cn Bb A,]
+=5 leg85  4 rest
+d191 1
+a191 1
+=1' 4 d 8 [Bb G] 4 c# 8 [Bb cn]
+d193 3
+a195 2
+=3' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+=4 4 Bb 8 [c# e] 4 d# 8 [F# G#]
+d199 3
+a201 2
+=3' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+=4 4 Bb 8 [c# e] 4 d# 8 [F# G#]
+d205 3
+a207 2
+=3' 7/8 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+=4 7/8 4 Bb 8 [c# e] 8 d# 8 [F# G#]
+d211 4
+a214 2
+=3' 8 [Bb Bb Bb] 4 Bb 8 [Bb Bb]
+=4 8 [Bb c# e] 4 d# 8 [F# G#]
+d218 4
+a221 2
+=3' 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+=4 4 Bb 8 [c d] [d# d# e]
+d223 1
+a223 1
+=1 4/4 8 [d{1 e}1 f# g(1] 2 g)1
+d225 5
+a229 3
+=2, 4/4 2 rest 8 [c d e f#]
+=3, 4/4 8 [Bb{1 8 c,}1 d e(1] 2 e)1
+=4 4/4 8 [f#{1 g}1 a bb(1] 2 bb)1
+d232 2
+d264 1
+@
+
+
+1.3
+log
+@is this a plausible basic cell ?
+@
+text
+@d14 1
+a14 1
+r0.5 .26 Well  I  never .75 knew a
+d30 12
+a41 2
+=1' 4 B 8 [G E] 8 Bb 8 [G A]
+r0.5 .05 tomb .25 with a .50 key .76 or  a
+d43 19
+a61 1
+=4 4 G 8 [Bb db] 8 c 8 [Eb F]
+d63 64
+a126 4
+=1' 8 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 seed  on  the .50 moon .71 on .88 the
+=3' 8 G 8 [G G] 4 G 8 [G G]
+=4 8 G 8 [Bb db] 4 c 8 [Eb F]
+d129 91
+a219 1
+r0.5 .02 moon .30 no .45 I .60 never .88 I
+d223 5
+a227 5
+=1 8 [Bn{1 c#}1 d# e(1] 2 e)1
+r0.5 .02 ne .15 -  .25 ver  knew
+=2, 2 rest 8 [A B c# d#]
+=3, 8 [G{1 8 A,}1 B c#(1] 2 c)1
+=4 8 [d#{1 e}1 f# g(1] 2 g)1
+d230 22
 @
 
 

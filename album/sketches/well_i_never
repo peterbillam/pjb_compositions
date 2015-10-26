@@ -10,12 +10,38 @@ midi channel 0 patch 85
 /
 4 bars | 48 |
 | 1.6
-=1 treble cha0 leg85 4 rest 8 [E F#] [G F# G A]
+=1 treble cha0 leg85 2 blank 1 rest
+=2 treble cha0 leg85 2 blank 1 rest
+=3 treble cha0 leg85 2. rest 4 C(2
+r0.4 .72 Well
+=4 treble8vab  cha0 leg85 2 blank 1 rest
+=5  bass       cha0 leg85 4 rest 2. ab(1
+r0.1 .28 Well
+| 1.6
+=1 2 blank 1 rest
+=2 4. E 8 F# F# 4 E 8 rest
+r0.5 .04 Well  .38 I .51 never
+=3 4. C)2 8 D  D  4 D 8 rest
+=4 2 blank 1 rest
+=5 4. ab)1 8 ab bb 4 bb 8 rest
+|
+=2 8 G  4. F# 4 G   8 rest A
+r0.5 .04 never  .51 knew .88 I
+=3 8 E  4. Eb 4 Eb  8 rest Eb
+=5 8 bb 4. a  4 a   8 rest a
+|
+=2 8 Bb' 4 G  8 rest 4. F# 8 D#
+r0.5 .04 never  .51 ne .70 - .88 ver
+=3 8 Db 4 C  8 rest 4. C  8 C
+=5 8 g  4 a  8 rest 4. a  8 a
+| 1.6
+=1 4 rest 8 [E F#] [G F# G A]
 r0.5 .24 Well  I   never .75 knew a
-=2 treble cha0 leg85 4 rest
-=3 treble cha0 leg85 4 rest 8 [E E] [E E E F#]
-=4 treble8vab  cha0 leg85 4 rest 8 [db c] [Bb' A G F#]
-=5  bass       cha0 leg85 4 rest
+=2 4 E rest 2 rest
+r0.5 .02 knew
+=3 8 C rest 8 [E E] [E E E F#]
+=4 4 rest 8 [db c] [Bb' A G F#]
+=5 4 bb 4 rest 2 rest
 |
 =1' 4 B 8 [G E] 4 Bb 8 [G A]
 r0.5 .05 te .15 - .25 dious .50 June .76 or  a
@@ -34,6 +60,7 @@ r0.5 .07 tomb .34 with a .58 key .78 or  a
 |
 =1' 8 [B G E] 4 Bb 8 [A G]
 r0.5 .01 seed on  the  moon .71 on .88 the
+=2 1 blank
 =3' 8 [G G G] 4 G 8 [G G]
 =4  8 [G Bb' db'] 4 c 8 [Eb F]
 | 1.4
@@ -48,7 +75,280 @@ r0.5 .06 ne .18 -  .27 ver  knew
 =3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
 =4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
 |
+=1 2. rest 4 e
 =2 1 e
+
+/
+4 bars | 48 |
+| 1.6
+=1 leg85  4. d# 8 rest 4 c# B'(2
+=2 leg85  4 rest 8 [C# D#] [E D# E F#]
+r0.5 .24 Well  I   never .73 saw  the
+=3 leg85  4 rest 8 [C# C#] [C# C# C# D#]
+=4 leg85  4 rest
+=5 leg85 4 rest 8 [bb a] [g f# e d#]
+|
+=1' 8 B)2 rest 4 Bb 4. A 8 rest
+=2' 4 G# 8 [E C#] 4 Gn 8 [E F#]
+r0.5 .05 car .25 of .41 a .50 whore .74 with the
+=3' 4 E 8 [E E] 4 E 8 [E E]
+=4 2 blank 1 rest
+=5 4 e 8 [g bb] 4 a 8 [c d']
+|
+=1 2 blank 1 rest
+=2' 4 G# 8 [E C#] 4 Gn 8 [F# E]
+r0.5 .02 door .23 left .39  a - jar .75 nor  a
+=3' 4 E 8 [E E] 4 E 8 [E E]
+=4 4 d 4. db 8 rest 4 c
+=5 4 e 8 [g bb] 4 a 8 [c d']
+| 1.4
+=1  7/8 2 rest 4. rest
+=2' 7/8 4 G# 8 [E C#] 8 Gn 8 [E F#]
+r0.5 .07 farm .34 with a .58 brawl .78 on  the
+=3' 7/8 4 E 8 [E E] 8 E 8 [E E]
+=4 7/8 4. B 8 rest 4. c
+=5 7/8 4 e 8 [g bb] 8 a 8 [c d']
+|
+=1 4. rest 2 rest
+=2' 8 [G# E C#] 4 Gn 8 [F# E]
+r0.5 .01 floor of  the  barn .71 of .88 the
+=3' 8 [E E E] 4 E 8 [E E]
+=4 4. c# 4 rest A#
+=5 8 [e g bb] 4 a 8 [c d']
+| 1.4
+=1' 2 rest 8 rest rest Gb
+=2' 4 G# 8 [C# E] [Gn E] rest
+r0.5 .02 barn .30 no .45 I .60 never .88 I
+=3' 4 E 8 [E E] 8 E 8 [E E]
+=4 2 B' 8 rest rest Bb
+=5 4 e 8 [f# g#] [a a] rest
+| 1.6
+=1, 4/4 8 [Ab{1 Bb}1 c db(1] 2 db)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2' 4/4 2 rest 8 [Gb Ab Bb c]
+=3, 4/4 8 [E{1 8 F#}1 G# Bb(1] [Bb)1 c] 4 db(1
+=4 4/4 8 [c{1 c#}1 d# e(1] 2 e)1
+=5 4/4 2 blank 1 rest
+|
+=1 2. rest 4 db
+=2 1 db
+=3 2 db)1 rest
+|
+=1 4. d 8 rest 4 d d(1
+=3 2. rest 4 C
+=5 4 rest 2. ab
+|
+=1 4 d)1 2. rest
+=2 8 rest [D  D]  rest 4 rest 8 [D  D]
+r0.5 .13 I  knew .75 never
+=3 8 rest [C  C]  rest 4 rest 8 [C  C]
+=5 8 rest [ab ab] rest 4 rest 8 [ab ab]
+|
+=2 4 rest 8 [D  D] 8 rest [D  D]  rest
+r0.5 .25 never .63 a  June
+=3 4 rest 8 [C  C] 8 rest [C  C]  rest
+=5 4 rest 8 [ab ab] 8 rest [ab ab] rest
+|
+=2 4 rest 8 [D  D] 8 rest [D  D]  rest
+r0.5 .25 never .63 a  tree
+=3 4 rest 8 [C  C] 8 rest [C  C]  rest
+=4 4 rest 8 [Ab Ab] 8 rest [Ab Ab] rest
+|
+=1 8 c rest rest d [d d] 4 rest
+=2 8 E rest rest F# [F# E] 4 rest
+=4 8 rest [Ab  Ab]  rest 4 rest 8 [Bb  Bb]
+r0.5 .13 a tomb .75 never
+=5 8 rest [d d] rest 4 rest 8 [d d]
+
+midi pause 3.2
+
+/
+4 bars | 48 |
+#well I never found a Way for a Purr to be Heard in the Bay
+#but the Bird to reMain there to Play in the Fur
+| 1.6
+=1 leg85 4 rest 8 [E F#] [G F# G A]
+r0.5 .24 Well  I   never .75 found a
+=2 leg85 4 rest
+=3 leg85 4 rest 8 [E E] [E E E F#]
+=4 leg85 4 rest 8 [db c] [Bb' A G F#]
+=5 leg85 4 rest
+|
+=1' 4 B 8 [G E] 4 Bb 8 [G A]
+r0.5 .05 way .25 for  a .50 purr .76 to   be
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+|
+=1' 4 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 heard .25 in   the .50 bay .75 but  the
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+| 1.4
+=1' 7/8 4 B 8 [G E] 8 [Bb' G A]
+r0.5 .07 bird .34 to .45 remain .72 there  to
+=2 7/8 2 rest 4. rest
+=3' 7/8 4 G 8 [G G] 8 [G G G]
+=4 7/8 4 G 8 [Bb db] 8 [c' Eb F]
+=5 7/8 2 rest 4. rest
+|
+=1' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 play  in  the  fur .71 in .88 the
+=3' 8 [G G G] 4 G 8 [G G]
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
+| 1.4
+=1' 4 B 8 [E G] [Bb G A]
+r0.5 .02 fur .30 no .45 I .60 never .88 I
+=3' 4 G 8 [G G] 8 G 8 [G G]
+=4  4 G 8 [A Bn'] [c c c#]
+| 1.6
+=1 4/4 8 [Bn{1 c#}1 d# e(1] 2 e)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 2 rest 8 [A B c# d#]
+=3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
+=4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
+|
+=2 1 e
+
+/
+4 bars | 48 |
+#well I never did beLieve there's a Flaw in the Law of the Sea
+#nor a Horn in the Weeds at the Feet of the Poor 
+| 1.6
+=1 treble cha0 leg85 2 blank 1 rest
+=2 treble cha0 leg85 4. E 8 F# F# 4 E 8 rest
+r0.5 .04 Well  .38 I .51 never
+=3 treble cha0 leg85 4. C 8 D  D  4 D 8 rest
+=4 treble8vab  cha0 leg85 2 blank 1 rest
+=5  bass       cha0 leg85 4. ab 8 ab bb 4 bb 8 rest
+|
+=2 8 G  4. F# 4 G  8 rest A
+r0.5 .04 never  .51 knew .88 I
+=3 8 E  4. Eb 4 Eb 8 rest Eb
+=5 8 bb 4. a  4 a  8 rest a
+|
+=2 8 Bb' 4 G  8 rest 4. F# 8 D#
+r0.5 .04 never  .51 ne .70 - .88 ver
+=3 8 Db 4 C  8 rest 4. C  8 C
+=5 8 g  4 a  8 rest 4. a  8 a
+| 1.6
+=1 leg85  4 rest 8 [G A] [Bb' A Bb' c']
+r0.5 .24 Well  I   never .75 did  be -
+=2 leg85  8 E rest [G G] [G G G A]
+=3 leg85  4 C# rest 2 rest
+=4 leg85  4 rest 8 [e eb] [db c Bb A,]
+=5 leg85  4. g 8 rest 4 g f(1
+|
+=1' 4 d 8 [Bb G]  4  c# 8 [Bb cn]
+r0.5 .05 lieve .25 there's a flaw .76 in  the
+=2' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+=4  4 A# 8 [c# e] 4  d# 8 [F# G#]
+=5 8 f)1 rest 4 e 4. eb 8 rest
+|
+=1' 4 d 8 [Bb G] 4 c# 8 [cn Bb]
+r0.5 .02 law .25 of the .50 sea .75 nor  a
+=2' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+=4  4 A# 8 [c# e] 4 d# 8 [F# G#]
+=5 4 d 4. db 8 rest 4 c
+| 1.4
+=1' 7/8 4 d 8 [Bb G] 8 c# 8 [Bb cn]
+r0.5 .07 horn .34 in the .58 weeds .78 at the
+=2' 7/8 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+=4  7/8 4 Bb 8 [c# e] 8 d# 8 [F# G#]
+=5  7/8 4. Bb 8 rest 4. Bb
+|
+=1' 8 [d Bb G] 4 c# 8 [cn Bb]
+r0.5 .01 feet of  the  poor .71 of .88 the
+=2' 8 [Bb Bb Bb] 4 Bb 8 [Bb Bb]
+=3 1 blank
+=4  8 [A#, c# e] 4 d# 8 [F# G#]
+=5' 8 [Bb Bb Bb] 4 Bb 8 [Bb Bb]
+| 1.4
+=1' 4 d 8 [G Bb] [c# Bb cn]
+r0.5 .02 poor .30 no .45 I .60 never .88 I
+=2' 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+=3  4 rest 8 [C D] [D# D# E]
+=4' 4 A# rest 2 rest
+=5  4 Bb 8 [c d'] [d# d# e]
+| 1.6
+=1  4/4 8 [d{1 e}1 f# g(1] 2 g)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 8 [Bb{1 8 c,}1 d e(1] 4. e)1 8 f#
+r0.5 .06 ne .18 -  .27 ver,   ne .66 - .87 ver
+=3  4/4 8 [F#{2 G}2 A Bb'] [c d] 4 e(1
+=4  4/4 4 rest 8 rest Bb [c d e f#]
+=5 4/4 8 [f#{1 g}1] 4 a 2 rest
+|
+=2 1 g
+=3 1 e)1
+=4 1 g
+
+/
+4 bars | 48 |
+#well I never knew the Rune of a Lay or the Pay of a Fool
+#nor of May coming Soon  nor the Noon of the Day
+| 1.6
+=1 leg85 4 rest 8 [E F#] [G F# G A]
+r0.5 .24 Well  I   never .75 knew the
+=2 leg85 4 rest
+=3 leg85 4 rest 8 [E E] [E E E F#]
+=4 leg85 4 rest 8 [db c] [Bb' A G F#]
+=5 leg85 4 rest
+|
+=1' 4 B 8 [G E] 4 Bb 8 [G A]
+r0.5 .05 rune .25 of  a .50 lay .76 nor  the
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+|
+=1' 4 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 pay .25 of  a .50 fool .75 nor  of
+=3' 4 G 8 [G G] 4 G 8 [G G]
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+| 1.4
+=1' 7/8 4 B 8 [G E] 8 Bb 8 [G A]
+r0.5 .07 May .34 coming .58 soon .78 nor  the
+=3' 7/8 4 G 8 [G G] 8 G 8 [G G]
+=4 7/8 4 G 8 [Bb db] 8 c 8 [Eb F]
+|
+=1' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 noon of  the  day .71 of .88 the
+=2 1 blank
+=3' 8 [G G G] 4 G 8 [G G]
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
+| 1.4
+=1' 4 B 8 [E G] [Bb G A]
+r0.5 .02 day .30 no .45 I .60 never .88 I
+=3' 4 G 8 [G G] 8 G 8 [G G]
+=4  4 G 8 [A Bn'] [c c c#]
+| 1.6
+=1 4/4 8 [Bn{1 c#}1 d# e(1] 2 e)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 2 rest 8 [A B c# d#]
+=3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
+=4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
+|
+=2 1 e
+
+
+#see: well_i_never_words
+
+#see: well_i_never_words
+#------------------------------------------------------------------
+#well I never knew a Tedious June or a Room with a Tree
+#nor a Tomb with a Key or a Seed on the Moon
+#
+#well I never saw the Car of a Whore with the Door left aJar
+#nor a Farm with a Brawl on the Floor of the Barn
+#
+#well I never found a Way for a Purr to be Heard in the Bay
+#but the Bird to reMain there to Play in the Fur
+#
+#well I never did beLieve there's a Flaw in the Law of the Sea
+#nor a Horn in the Weeds at the Feet of the Poor 
+#
+#well I never knew the Rune of a Lay or the Pay of a Fool
+#nor of May coming Soon  nor the Noon of the Day
+#------------------------------------------------------------------
+
 
 
 #see: well_i_never_words
