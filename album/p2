@@ -5,10 +5,10 @@
 .pl 11.7i
 .LP
 \&
-.sp 1.5c
+.sp 0.8c
 .ce 1
-\f3\s+9Album for Choir\s-9\fP
-.sp 1.0c
+\f3\s+7Album for Choir\s-7\fP
+.sp 0.8c
 
 .LP
 \f3\s+2Sometimes\s-2\fP
@@ -32,15 +32,6 @@ It's mine, it's mine, \  it's my tin of candy, my bottle of wine.
 \f2Peter Billam \   2005\fP
 .in 0c
 
-.\".LP
-.\"\f3\s+2Konkerado\s-2\fP
-.\".sp 0.1c
-.\".in 1c
-.\".nf
-.\"This piece could last anywhere between 60 sec and 150 sec.
-.\"The esperanto \  \f3jx\fP \  is pronounced like the french \  \f3j\fP \  in \  \f3je\fP.
-.\".in 0c
-.\"
 .LP
 \f3\s+2Only the Glories of the Night\s-2\fP
 .sp 0.1c
@@ -61,3 +52,21 @@ and fear for shame to meet a living eye.
 \f2Peter Billam \   1996\fP
 .in 0c
 
+.LP
+\f3\s+2Well I Never\s-2\fP
+.sp 0.1c
+.in 1c
+.nf
+Well I never knew a tedious June or a room with a tree
+nor a tomb with a key or a seed on the moon
+Well I never saw the car of a whore with the door left ajar
+nor a farm with a brawl on the floor of the barn
+Well I never found a way for a purr to be heard in the bay
+but the bird to remain there to play in the fur
+Well I never did beLieve there's a flaw in the law of the sea
+nor a thorn in the weeds at the feet of the poor
+Well I never knew the rune of a lay or the pay of a fool
+nor of May coming soon  nor the noon of the day
+.ti 4c
+\f2Peter Billam \   2015\fP
+.in 0c

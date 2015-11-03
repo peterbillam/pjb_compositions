@@ -1,7 +1,7 @@
 6 systems 5 /17-20-17-20-17 /17-20-17-20-17 /17-20-17-20-17 \
  /17-20-17-20-17 /17-21-17-22-17 /17-20-17-20-17 /
 title Sometimes
-pagenum
+pagenum 4
 innerhead Peter Billam,  from Album for Choir
 leftfoot (c) 2015 Peter J Billam
 midi channel 0 patch 82
@@ -1738,7 +1738,8 @@ r0.5 .34 the
 =2 4 rest 2 e
 =3 4 rest 2 g#
 
-6 systems /17-22-17-20-17/
+6 systems /17-22-17-20-17/ 17-22-17-20-17/ 17-22-17-20-17 \
+ / 17-22-17-19-17/ 17-22-17-18-17/ 17-22-17-20-17/
 pagenum
 innerhead Peter Billam,  Album for Choir,  Only the Glories of the Night
 leftfoot (c) 2015 Peter J Billam
@@ -1788,7 +1789,7 @@ r0.5 .11 thousand .73 of
 7 bars | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 36 | 36 | 36 |
 | 2.6
 =1 4/4 2 A 4 G A
-r0.5 .08 mil  -  lion .76 will
+r0.5 .14 mil  -  lion .76 will
 =2 4/4 2 c# 4 B c#
 =3 4/4 2 g 4 a g
 | 1.95
@@ -1844,17 +1845,18 @@ r0.5 .34 as
 =3 4 rest 2 f#
 | 2.6
 =1 4/4 2. A 4 G#
-r0.5 .08 vast .78 as
+r0.5 .13 vast .78 as
 =2 4/4 2. eb 4 d
 =3 4/4 2. f# 4 g#
 |
 =1 2. F# 4 Gn
-r0.5 .01 all .75 our
+r0.5 .01 all
+r0.4 .75 our
 =2 2. c# 4 B
 =3 2. a 4 d#
 |
 =1 4 Ab 2. D
-r0.5 .01 fol - ly,
+r0.4 .01 fol - ly,
 =2 4 c  2. Bb
 =3 4 e  2. e
 |
@@ -1888,18 +1890,18 @@ r0.5 .03 je .40 - .75 stic,
 =3 2. eb 4 f
 |
 =1 4 rest 2 F  4 A
-r0.5 .26 slow  -  ly
+r0.5 .24 slow  -  ly
 =2 4 rest 2 B  4 B
 =3 4 rest 2 eb 4 eb
 | 1.95
 il0.7 .20 60
 =1 3/4 2 Ab 4 G
-r0.5 .14 in .39 - .65 ward
+r0.5 .20 in .45 - .65 ward
 =2 3/4 2 B  4 B
 =3 3/4 2 f  4 g
 |
 =1 2 F# 4 G
-r0.5 .03 to .75 be
+r0.5 .03 to .68 be
 =2 2 B  4 B
 =3 2 ab 4 g
 |
@@ -1948,7 +1950,7 @@ r0.5 .03 la .30 - .50 ment
 =2 2 G  A#
 =3 2 d f#
 |
-il0.7 .20 70
+il0.5 .10 70
 =1 1 c#(1
 r0.5 .03 much,
 =2 1 c#(1
@@ -1962,7 +1964,7 @@ r0.5 .03 much,
 | 2.8
 #i0.5 .60 165 sec
 =1 4 c#)1 2 rest 4 G
-r0.5 .75 and
+r0.5 .71 and
 =2 4 c#)1 2 rest 4 eb
 =3 4 g)1  2 rest 4 a
 |
@@ -1983,7 +1985,7 @@ r0.5 .03 meet .75 a
 | 3.1
 il0.5 .25 75
 =1 2. A 4 G
-r0.5  .03 li .40 - .70 ving
+r0.5  .05 li .40 - .70 ving
 =2 2. c 4 c
 =3 2. a 4 a
 | 3.3
@@ -1999,6 +2001,1028 @@ r0.5 .03 eye .
 =3 1 F-fermata
 
 midi pause 4.0
+3 systems 10 /17-22-17-22-17-27-17-26-17 \
+ /17-22-17-22-17-27-17-25-17 \
+ /17-25-17-27-17-31-17-25-17/ 7
+title Well I Never
+pagenum
+innerhead Peter Billam,  from Album for Choir
+leftfoot (c) 2015 Peter J Billam
+
+midi channel 0 patch 85
+/
+5 bars | 10 9 9 8 | 5 4 5 7 7 5 5 5 | 7 5 4 5 5 5 7 6 \
+ | 6 5 5 7 5 4 5 6 | 5 5 7 7 7 6 7 5 |
+| 1.6
+=1 treble cha0 leg85 2 blank 1 rest
+=2 treble cha0 leg85 2 blank 1 rest
+=3 treble cha0 leg85 2. rest 4 C(2
+r0.4 .72 Well
+=4 treble8vab  cha0 leg85 2 blank 1 rest
+=5  bass       cha0 vol105 leg85 4 rest 2. ab(1
+r0.1 .28 Well
+| 1.6
+=1 2 blank 1 rest
+=2 4. E 8 F# F# 4 E 8 rest
+r0.5 .04 Well  .38 I .51 never
+=3 4. C)2 8 D  D  4 D 8 rest
+r0.5 .38 I .51 never
+=4 2 blank 1 rest
+=5 4. ab)1 8 ab bb 4 bb 8 rest
+r0.1 .38 I .51 never
+|
+=1 2 blank 1 rest
+=2 8 G  4. F# 4 G   8 rest A
+r0.5 .04 never  .51 knew .88 I
+=3 8 E  4. Eb 4 Eb  8 rest Eb
+r0.5 .04 never  .51 knew .88 I
+=4 2 blank 1 rest
+=5 8 bb 4. a  4 a   8 rest a
+r0.1 .04 never  .51 knew .88 I
+|
+=1 2 blank 1 rest
+=2 8 Bb' 4 G  8 rest 4. F# 8 D#
+r0.5 .04 never  .53 ne .70 - .85 ver
+=3 8 Db 4 C  8 rest 4. C  8 C
+r0.5 .04 never  .53 ne .70 - .85 ver
+=4 2 blank 1 rest
+=5 8 g  4 a  8 rest 4. a  8 a
+r0.1 .04 never  .53 ne .70 - .85 ver
+| 1.6
+il0.7 .03 5
+=1 4 rest 8 [E F#] [G F# G A]
+r0.5 .21 Well  I   never .73 knew a
+=2 4 E rest 2 rest
+r0.5 .02 knew
+=3 8 C rest 8 [E E] [E E E F#]
+r0.5 .01 knew, well  I   never .73 knew a
+=4 4 rest 8 [db c] [Bb' A G F#]
+r0.5 .21 Well  I   never .73 knew a
+=5 4 bb 4 rest 2 rest
+r0.1 .02 knew
+/
+4 bars | 48 | 48 | 7/8 42 | 42 |
+|
+=1' 4 B 8 [G E] 4 Bb 8 [G A]
+r0.5 .05 te .15 - .25 dious .50 June .76 or  a
+=2 2 blank 1 rest
+=3' 4 G 8 [G G] 4 G 8 [G G]
+r0.6 .05 te .15 - .25 dious .50 June .76 or  a
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+r0.5 .05 te .15 - .25 dious .50 June .76 or  a
+=5 2 blank 1 rest
+|
+=1' 4 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 room .25 with a .50 tree .75 nor  a
+=2 2 blank 1 rest
+=3' 4 G 8 [G G] 4 G 8 [G G]
+r0.6 .02 room .25 with a .50 tree .75 nor  a
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+r0.5 .02 room .25 with a .50 tree .75 nor  a
+=5 2 blank 1 rest
+| 1.4
+=1' 7/8 4 B 8 [G E] 8 Bb 8 [G A]
+r0.5 .07 tomb .34 with a .58 key .78 or  a
+=2 7/8 2 rest 4. rest
+=3' 7/8 4 G 8 [G G] 8 G 8 [G G]
+r0.6 .07 tomb .34 with a .58 key .78 or  a
+=4 7/8 4 G 8 [Bb db] 8 c 8 [Eb F]
+r0.5 .07 tomb .34 with a .58 key .78 or  a
+=5 7/8 2 rest 4. rest
+|
+=1' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 seed on  the  moon .71 on .88 the
+=2 4. rest 2 rest
+=3' 8 [G G G] 4 G 8 [G G]
+r0.6 .01 seed on  the  moon .71 on .88 the
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
+r0.5 .01 seed on  the  moon .71 on .88 the
+=5 4. rest 2 rest
+/
+5 bars | 5 5 7 7 6 7 5 | 4/4 7 7 7 6 6 7 7 5 | 9 9 9 8 \
+ | 5 5 7 7 7 7 7 5 | 6 7 7 7 5 5 7 5 |
+| 1.4
+il0.7 .03 10
+=1' 4 B 8 [E G] [Bb G A]
+r0.5 .02 moon .30 no .45 I .60 never .88 I
+=2 2 rest 4. rest
+=3' 4 G 8 [G G] 8 G 8 [G G]
+r0.6 .02 moon .30 no .45 I .60 never .88 I
+=4  4 G 8 [A Bn'] [c c c#]
+r0.5 .02 moon .30 no .45 I .60 never .88 I
+=2 2 rest 4. rest
+| 1.6
+=1 4/4 8 [Bn{1 c#}1 d# e(1] 2 e)1(1
+r0.5 .08 ne .18 -  .27 ver  knew
+=2, 4/4 2 rest 8 [A B{1 c#}1 d#]
+r0.4 .56 I   ne  -  ver
+=3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
+r0.5 .08 ne .18 -  .27 ver  knew
+=4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
+r0.5 .08 ne .18 -  .27 ver  knew
+=5 4/4 2 blank 1 rest
+|
+=1 4 e)1 rest rest 4 e
+r0.5 .76 I
+=2 1 e
+r0.4 .02 knew
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+
+| 1.6
+=1 leg85  4. d# 8 rest 4 c# B'(2
+r0.5 .02 know .51 I .76 ne .81 -
+=2 leg85  4 rest 8 [C# D#] [E D# E F#]
+r0.4 .19 Well I   never saw  the
+=3 leg85  4 rest 8 [C# C#] [C# C# C# D#]
+r0.4 .19 Well I   never saw  the
+=4 leg85  2 blank 1 rest
+=5 leg85 4 rest 8 [bb a] [g f# e d#]
+r0.3 .19 Well I   never saw  the
+|
+=1' 8 B)2 rest 4 Bb 4. A 8 rest
+r0.5 .29 ver .54 knew
+=2' 4 G# 8 [E C#] 4 Gn 8 [E F#]
+r0.5 .05 car .25 of .40 a whore with the
+=3' 4 E 8 [E E] 4 E 8 [E E]
+r0.5 .05 car .25 of .40 a whore with the
+=4 2 blank 1 rest
+=5 4 e 8 [g bb] 4 a 8 [c d']
+r0.2 .05 car .25 of .40 a whore with the
+
+3 systems 5 /17-22-17-27-17-25-17-25-17 \
+ /17-27-17-25-17-31-17-22-17 \
+ /17-22-17-25-17-27-17-25-17/ 7
+pagenum
+innerhead Peter Billam,  Album for Choir,  Well I Never
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 |
+|
+il0.7 .03 15
+=1 2 blank 1 rest
+=2' 4 G# 8 [E C#] 4 Gn 8 [F# E]
+r0.5 .02 door .23 left .39  a - jar .75 nor  a
+=3' 4 E 8 [E E] 4 E 8 [E E]
+r0.5 .02 door .23 left .39  a - jar .75 nor  a
+=4 4 d 4. db 8 rest 4 c
+r0.6  .03 1 .26 know .77 I
+=5 4 e 8 [g bb] 4 a 8 [c d']
+r0.1 .02 door .23 left .39  a - jar .75 nor  a
+| 1.4
+=1  7/8 2 rest 4. rest
+=2' 7/8 4 G# 8 [E C#] 8 [Gn E F#]
+r0.5 .07 farm .34 with a .58 brawl .78 on  the
+=3' 7/8 4 E  8 [E E]  8 [E E E]
+r0.5 .07 farm .34 with a .58 brawl .78 on  the
+=4 7/8 4. B  8 rest 4. c
+r0.5 .06 knew .63 I
+=5 7/8 4 e   8 [g bb] 8 [a c, d]
+r0.4 .07 farm .34 with a .58 brawl .78 on  the
+|
+=1 4. rest 2 rest
+=2' 8 [G# E C#] 4 Gn 8 [F# E]
+r0.5 .01 floor of  the  barn .71 of .86 the
+=3' 8 [E E E] 4 E 8 [E E]
+r0.5 .01 floor of  the  barn .71 of .86 the
+=4 4. c# 4 rest A#
+r0.5 .02 ne .45 - .71 ver
+=5 8 [e g bb] 4 a 8 [c d']
+r0.3 .01 floor of  the  barn .71 of .86 the
+| 1.4
+=1' 2 rest 8 rest rest Gb
+r0.5 .88 I
+=2' 4 G# 8 [C# E] [Gn E] rest
+r0.5 .02 barn .30 no .45 I .60 never
+=3' 4 E 8 [E E]  [E E E]
+r0.5 .02 barn .30 no .45 I .60 never .88 I
+=4 2 B' 8 rest rest Bb
+r0.5 .02 knew .88 I
+=5 4 e 8 [f# g#] [a a] rest
+r0.2 .02 barn .30 no .45 I .60 never 
+/
+5 bars | 4/4 7 7 7 7 7 7 6 5 | 9 9 10 8 | 5 5 5 6 5 5 5 4 \
+ | 6 7 6 6 5 5 7 5 | 5 5 7 6 7 7 6 5 |
+| 1.6
+=1, 4/4 8 [Ab{1 Bb}1 c c#(1] 2 c#)1(1
+r0.4 .09 ne .18 -  .28 ver  knew
+=2' 4/4 2 rest 8 [Gb Ab{2 Bb}2 c]
+r0.6 .53 I .65 ne .78 - .88 ver
+=3, 4/4 8 [E{1 8 F#}1 G# Bb(1] [Bb)1 c] 4 db(1
+r0.3 .09 ne .18 -  .27 ver,  ne .48 - .64 ver  knew
+=4 4/4 8 [c{1 c#}1 d# e(1] 2 e)1
+r0.5 .08 ne .18 -  .28 ver  knew
+=5 4/4 2 blank 1 rest
+|
+il0.7 .03 20
+=1 4 c#)1 rest rest 4 c#
+r0.5 .77 I
+=2 1 db
+r0.6 .02 knew
+=3 2 db)1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+=1 4. d 8 rest 4 d d(1
+r0.5 .02 know .52 I .76 knew
+=2 2 blank 1 rest
+=3 2. rest 4 C
+r0.5 .74 knew
+=4 2 blank 1 rest
+=5 4 rest 2. ab
+r0.1 .25 know
+|
+=1 4. d)1 8 rest 2 rest
+=2 8 rest [D  D]  rest 4 rest 8 [D  D]
+r0.5 .13 I  knew .75 never
+=3 8 rest [C  C]  rest 4 rest 8 [C  C]
+r0.5 .13 I  knew .75 never
+=4 2 blank 1 rest
+=5 8 rest [ab ab] rest 4 rest 8 [ab ab]
+r0.1 .13 I  knew .75 never
+|
+=1 2 blank 1 rest
+=2 4 rest 8 [D  D] 8 rest [D  D]  rest
+r0.5 .25 never .63 a  June
+=3 4 rest 8 [C  C] 8 rest [C  C]  rest
+r0.5 .25 never .63 a  June
+=4 2 blank 1 rest
+=5 4 rest 8 [ab ab] 8 rest [ab ab] rest
+r0.1 .25 never .63 a  June
+/
+5 bars | 5 5 7.3 6 7 7.3 6 5 | 7 7.3 7 7.5 6 6 7.3 5 \
+ | 5 5 7.3 6 7 7.3 6 5 | 7 7.3 6 6 5 5 7.3 5 | 7 7.3 7 7.5 6 6 7.3 5 |
+|
+=1 2 blank 1 rest
+=2 4 rest 8 [D  D] 8 rest [D  D]  rest
+r0.5 .25 never .63 a  tree
+=3 4 rest 8 [C  C] 8 rest [C  C]  rest
+r0.5 .25 never .63 a  tree
+=4 4 rest 8 [Ab Ab] 8 rest [Ab Ab] rest
+r0.6 .25 never .63 a  tree
+=5 2 blank 1 rest
+|
+il0.7 .03 25
+=1 8 c rest rest d [d c] 4 rest
+r0.5 .02 Well  .40 I .52 never
+=2 8 E rest rest F# [F# E] 4 rest
+r0.5 .02 Well  .40 I .52 never
+=3 2 blank 1 rest
+=4' 8 rest [Ab  Ab]  rest 4 rest 8 [Bb  Bb]
+r0.6 .13 a tomb .75 never
+=5' 8 rest [d d] rest 4 rest 8 [d d]
+r0.1 .13 a tomb .75 never
+|
+=1 2 blank 1 rest
+=2 4 rest 8 [D  D] 8 rest [D  D]  rest
+r0.5 .25 never .63 a  tree
+=3 4 rest 8 [C  C] 8 rest [C  C]  rest
+r0.5 .25 never .63 a  tree
+=4 4 rest 8 [Ab Ab] 8 rest [Ab Ab] rest
+r0.6 .25 never .63 a  tree
+=5' 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 8 rest [D  D]  rest 4 rest 8 [D  D]
+r0.5 .13 I  knew .75 never
+=3 8 rest [C  C]  rest 4 rest 8 [C  C]
+r0.5 .13 I  knew .75 never
+=4 8 rest [Ab Ab] rest 4 rest 8 [Ab Ab]
+r0.6 .13 I  knew .75 never
+=5 2 blank 1 rest
+|
+=1 8 c rest rest d [d c] 4 rest
+r0.5 .02 knew  .41 I .53 never
+=2 8 E rest rest F# [F# E] 4 rest
+r0.5 .02 knew  .41 I .53 never
+=3 2 blank 1 rest
+=4 8 rest [Ab Ab] rest 4 rest 8 [Ab Ab]
+r0.6 .13 I  knew .76 never
+=5' 8 rest [d  d]  rest 4 rest 8 [d  d]
+r0.1 .13 I  knew .76 never
+
+3 systems 5 /17-22-17-25-17-27-17-27-17 \
+ /17-22-17-27-17-30-17-25-17 \
+ /17-27-17-27-17-31-17-23-17/ 7
+pagenum
+innerhead Peter Billam,  Album for Choir,  Well I Never
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 |
+|
+=1 2 blank 1 rest
+=2 4 rest 8 [D  D] 8 rest [D  D]  rest
+r0.5 .25 never .63 a  tree
+=3 4 rest 8 [C  C] 8 rest [C  C]  rest
+r0.5 .25 never .63 a  tree
+=4 4 rest 8 [Ab Ab] 8 rest [Ab Ab] rest
+r0.6 .25 never .63 a  tree
+=5 2 blank 1 rest
+|
+il0.7 .03 30
+=1 8 [d  c] 4 rest 8 c  rest rest d
+r0.5 .02 never  .49 knew .88 I
+=2 8 [F# E] 4 rest 8 E  rest rest F#
+r0.5 .02 never  .49 knew .88 I
+=4 4 rest 8 [Ab Ab] rest 8 [Ab Ab] rest
+r0.6 .25 never .63 a  tomb
+=5' 4 rest 8 [d  d]  rest 8 [d  d] rest
+r0.1 .25 never .63 a  tomb
+|
+=1 8 eb 4 c 8 rest 4. B' 8 G#
+r0.5 .04 never  .51 ne .69 - .85 ver
+=2 8 Gb 4 F 8 rest 4. F 8 F
+r0.5 .04 never  .51 ne .69 - .85 ver
+=3 8 C 4 D 8 rest 4. D 8 D
+r0.4 .04 never  .51 ne .69 - .85 ver
+=4 2 rest 4 rest 8 rest d
+r0.5 .88 I
+=5 2 blank 1 rest
+
+# Who would know  who would have known  who would know ?
+# Who knew who knows who knew ?
+# You know who knew...
+
+#well I never found a Way for a Purr to be Heard in the Bay
+#but the Bird to reMain there to Play in the Fur
+| 1.6
+=1 leg85 2. A 4 rest
+r0.5 .02 knew
+=2 leg85 4 F# 8 [E F#] [G F# G A]
+r0.5 .02 knew .24 Well  I   never .73 found a
+=3 leg85 4 D# 8 [E E] [E E E F#]
+r0.6 .02 knew .24 Well  I   never .73 found a
+=4 leg85 4 eb 8 [db c] [Bb' A G F#]
+r0.5 .02 knew .24 Well  I   never .73 found a
+=5 2 blank 1 rest
+/
+4 bars | 48 | 48 | 7/8 42 | 42 |
+|
+=1 2 blank 1 rest
+=2' 4 B 8 [G E] 4 Bb 8 [G A]
+r0.5 .03 way .25 for  a .50 purr .76 to   be
+=3' 4 G 8 [G G] 4 G 8 [G G]
+r0.6 .03 way .25 for  a .50 purr .76 to   be
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+r0.5 .03 way .25 for  a .50 purr .76 to   be
+=5 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2' 4 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 heard .25 in   the .50 bay .75 but  the
+=3' 4 G 8 [G G] 4 G 8 [G G]
+r0.6 .02 heard .25 in   the .50 bay .75 but  the
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+r0.5 .02 heard .25 in   the .50 bay .75 but  the
+=5 2 blank 1 rest
+| 1.4
+il0.7 .03 35
+=1 7/8 2 rest 4. rest
+=2' 7/8 4 B 8 [G E] 8 [Bb' G A]
+r0.5 .07 bird .34 to .45 remain .72 there  to
+=3' 7/8 4 G 8 [G G] 8 [G G G]
+r0.6 .07 bird .34 to .45 remain .72 there  to
+=4 7/8 4 G 8 [Bb db] 8 [c' Eb F]
+r0.5 .07 bird .34 to .45 remain .72 there  to
+=5 7/8 2 rest 4. rest
+|
+=1 4. rest 2 rest
+=2' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 play  in  the  fur .71 in .88 the
+=3' 8 [G G G] 4 G 8 [G G]
+r0.6 .01 play  in  the  fur .71 in .88 the
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
+r0.5 .01 play  in  the  fur .71 in .88 the
+=5 4. rest 2 rest
+/
+4 bars | 42 | 4/4 48 | 48 | 48 |
+| 1.4
+=1' 4 rest rest 8 [Bb G A]
+r0.5 .60 never .88 I
+=2' 4 B 8 [E G] [Bb G A]
+r0.5 .02 fur .30 no .45 I .60 never knew
+=3' 4 G 8 [G G] 8 G 8 [G G]
+r0.5 .02 fur .30 no .45 I .60 never .88 I
+=4  4 G 8 [A Bn'] [c c c#]
+r0.5 .02 fur .30 no .45 I .60 never .88 I
+=5  2 rest 4. rest
+| 1.6
+=1 4/4 8 [Bn{1 c#}1 d# e(1] 2 e)1(1
+r0.5 .06 ne .18 -  .27 ver  knew
+=2, 4/4 2 rest 8 [A B c# d#]
+r0.5 .50 no .65 I .76 never
+=3, 4/4 8 [G{1 8 A,}1 B c#(1] 2 c)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=4 4/4 8 [d#{1 e}1 f# g(1] 2 g)1
+r0.5 .06 ne .18 -  .27 ver  knew
+=5 4/4 2 blank 1 rest
+|
+=1 8 e)1 rest [G A] [Bb c c# d#]
+r0.5 .26 never .50 no .65 I .76 never
+=2 1 e(1
+r0.5 .03 knew
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+il0.7 .03 40
+=1 1 e
+r0.5 .03 knew
+=2 8 e)1 rest [G A] [Bb c c# d#]
+r0.5 .26 never .50 no .65 I .76 never
+=3 2 rest 4 d db(1
+r0.6 .52 I .76 know
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+
+3 systems 5 /17-25-17-25-17-23-17-25-17 \
+ /17-25-17-25-17-27-17-25-17 \
+ /17-25-17-25-17-25-17-27-17/ 7
+pagenum
+innerhead Peter Billam,  Album for Choir,  Well I Never
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 |
+|
+=1 8 [G A Bb' A] [Bb c c# d#]
+r0.5 .02 never  knew I .51 never  never
+=2 1 e
+r0.6 .02 knew
+=3 8 db)1 rest 4 c 4. Bb 8 rest
+r0.6 .26 I .48 knew
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+=1 1 e
+r0.6 .02 knew
+=2 8 [G A Bb' A] [Bb c c# d#]
+r0.5 .02 never  knew I .51 never  never
+=3 4 A 4. G 8 rest 4 F#
+r0.6 .04 I .27 ne .55 - .75 ver
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+=1 8 [Bb c c# d#] 2 e
+r0.5 .02 no   I .26 never .49 knew
+=2 2 e 8 [Bb c c# d#]
+r0.5 .02 knew .51 no   I .76 never
+=3 4. E 8 rest rest [E E] rest
+r0.6 .02 knew .63 a  door
+=4 2 rest 4 d db(1
+r0.5 .53 I .75 know
+=5 4 rest 8 [bb bb] 8 rest [bb bb] rest
+r0.1 .26 never .63 a  door
+|
+=1 8 [Bb c c# d#] 2 e
+r0.5 .02 no   I .26 never .49 knew
+=2 2 e 8 [Bb c c# d#]
+r0.5 .02 knew .51 no   I .76 never
+=3 8 rest [E E] rest 4 rest 8 [E E]
+r0.6 .17 ajar .76 never 
+=4 8 db)1 rest 4 c 4 Bb rest
+r0.5 .28 I .48 knew
+=5 8 rest [bb bb] rest 4 rest 8 [bb bb]
+r0.1 .16 ajar .76 never 
+/
+4 bars | 48 | 48 | 48 | 12 10 10 9 |
+|
+il0.7 .03 45
+=1 8 [Bb c c# d#] 4 e 8 [Bb cn]
+r0.5 .02 no   I .26 never .49 knew .76 no   I
+=2 4 e 8 [Bb c c# d#] 4 e
+r0.5 .02 knew .26 no   I .51 never .75 knew
+=3 8 [E F# G A] [Bb c c# d#]
+r0.5 .02 knew I   never .51 knew I  never
+=4' 4 rest 8 [Bb Bb] 8 rest [Bb Bb] rest
+r0.6 .26 never  .63 a  floor
+=5 4 a 2. g(1
+r0.1 .03 I .26 ne .80 -
+|
+=1 8 [c# d#] 4 e 8 rest [dn cn B]
+r0.5 .02 never .24 knew .63 I   never
+=2 8 [Bb c c# dn] 4 e 8 rest d
+r0.5 .02 no   I .26 never .49 knew .87 I
+=3 4 e 8 [Bb c c# dn] 4 e
+r0.5 .01 knew .26 no   I .51 never .73 knew
+=4' 8 rest [Bb Bb] rest 4 rest 8 [A A]
+r0.6 .15 a barn .76 never 
+=5 1 g)1
+r0.1 .60 -
+|
+=1 4 A 8 [G F#] 2 E(2
+r0.5 .02 knew .28 never .51 knew
+=2 8 [c Bn] 4 A 8 [G F# E D]
+r0.5 .02 never .24 knew .51 no   I .76 never
+=3 8 rest [d c B] 4 A 8 [G F#]
+r0.5 .16 I   never .50 knew .77 no   I
+=4' 8 rest [A A] rest 4 rest 8 [A A]
+r0.6 .15 a farm .76 never 
+=5 1 g
+r0.1 .02 ver
+|
+=1 8 E)2 rest 4 rest 2 rest
+=2 8 [C# D#] 2 E 4 rest
+r0.5 .02 never .26 knew
+=3 8 [E D#] 2. C#
+r0.5 .02 never .26 knew
+=4 2. A 4 rest
+r0.6 .02 knew
+=5 1 g
+r0.1 .02 knew
+
+
+#well I never did beLieve there's a Flaw in the Law of the Sea
+#nor a Horn in the Weeds at the Feet of the Poor 
+/
+5 bars | 5 4 5 7 7 5 5 5 | 7 5 4 5 5 5 7 5 | 6 5 5 7 5 4 5 5 \
+ | 6 6 7 7 6 7 6 5 | 5 5 7 7 5 5 7 5 |
+| 1.6
+=1 leg85 2 blank 1 rest
+=2 leg85 4. E 8 F# F# 4 E 8 rest
+r0.5 .02 Well  .38 I .51 never
+=3 leg85 4. Cn 8 D  D  4 D 8 rest
+r0.5 .02 Well  .38 I .51 never
+=4 leg85 2 blank 1 rest
+=5 leg85 4. ab 8 ab bb 4 bb 8 rest
+r0.1 .02 Well  .38 I .51 never
+|
+il0.7 .03 50
+=1 2 blank 1 rest
+=2 8 G  4. F# 4 G  8 rest A
+r0.5 .04 never  .49 knew .88 I
+=3 8 E  4. Eb 4 Eb 8 rest Eb
+r0.5 .04 never  .49 knew .88 I
+=4 2 blank 1 rest
+=5 8 bb 4. a  4 a  8 rest a
+r0.1 .04 never  .49 knew .88 I
+|
+=1 2 blank 1 rest
+=2 8 Bb' 4 G  8 rest 4. F# 8 D#
+r0.5 .04 never  .53 ne .70 - .86 ver
+=3 8 Db 4 C  8 rest 4. C  8 C
+r0.5 .04 never  .53 ne .70 - .86 ver
+=4 2 blank 1 rest
+=5 8 g  4 a  8 rest 4. a  8 a
+r0.1 .04 never  .53 ne .70 - .86 ver
+| 1.6
+=1 leg85  4 rest 8 [G A] [Bb' A Bb' c']
+r0.6 .24 Well I  never .75 did  be -
+=2 leg85  8 E rest [G G] [G G G A]
+r0.5 .01 knew .24 Well I  never .75 did  be -
+=3 leg85  2 C# rest
+r0.5 .02 knew
+=4 leg85  4 rest 8 [e eb] [db c Bb A,]
+r0.5 .24 Well I  never .75 did  be -
+=5 leg85  4. g 8 rest 4 g f(1
+r0.1 .01 knew .52 I .76 know
+|
+=1' 4 d 8 [Bb G]  4  c# 8 [Bb cn]
+r0.6 .01 lieve there's a flaw .76 in  the
+=2' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+r0.5 .01 lieve there's a flaw .76 in  the
+=3 2 blank 1 rest
+=4  4 A# 8 [c# e] 4  d# 8 [F# G#]
+r0.5 .01 lieve there's a flaw .76 in  the
+=5 8 f)1 rest 4 e 4. eb 8 rest
+r0.1 .27 I .49 knew
+
+3 systems 5 /17-27-17-25-17-25-17-27-17 \
+ /17-25-17-25-17-27-17-25-17 \
+ /17-25-17-25-17-27-17-25-17/ 10
+pagenum
+innerhead Peter Billam,  Album for Choir,  Well I Never
+leftfoot (c) 2015 Peter J Billam
+
+/
+4 bars | 48 |
+|
+=1' 4 d 8 [Bb G] 4 c# 8 [cn Bb]
+r0.6 .02 law .25 of the .50 sea .75 nor  a
+=2' 4 Bb 8 [Bb Bb] 4 Bb 8 [Bb Bb]
+r0.5 .02 law .25 of the .50 sea .75 nor  a
+=4  4 A# 8 [c# e] 4 d# 8 [F# G#]
+r0.5 .02 law .25 of the .50 sea .75 nor  a
+=5' 4 d 4. db 8 rest 4 c
+r0.1 .03 I .26 ne .55 - .74 ver
+| 1.4
+il0.7 .03 55
+=1' 7/8 4 d 8 [Bb G] 8 c# 8 [Bb cn]
+r0.6 .07 thorn .34 in the .58 weeds at the
+=2' 7/8 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+r0.5 .07 thorn .34 in the .58 weeds at the
+=4  7/8 4 Bb 8 [c# e] 8 d# 8 [F# G#]
+r0.5 .07 thorn .34 in the .58 weeds at the
+=5  7/8 4. Bb 8 rest 4. Bb
+r0.1 .04 knew
+r0.2 .59 the
+|
+=1' 8 [d Bb G] 4 c# 8 [cn Bb]
+r0.6 .01 feet of  the  poor .71 of .86 the
+=2' 8 [Bb Bb Bb] 4 Bb 8 [Bb Bb]
+r0.5 .01 feet of  the  poor .71 of .86 the
+=3 1 blank
+=4  8 [A#, c# e] 4 d# 8 [F# G#]
+r0.5 .01 feet of  the  poor .71 of .86 the
+=5' 8 [Bb Bb Bb] 4 Bb 8 [Bb Bb]
+r0.2 .01 feet of  the  poor
+r0.3 .71 of .86 the
+| 1.4
+=1' 4 d 8 [G Bb] [c# Bb cn]
+r0.6 .02 poor .30 no .45 I .60 never .88 I
+=2' 4 Bb 8 [Bb Bb] 8 Bb 8 [Bb Bb]
+r0.5 .02 poor .30 no .45 I .60 never .88 I
+=3  4 rest 8 [C D] [D# D# E]
+r0.5 .30 no .45 I .60 never .88 I
+=4' 4 A# rest 2 rest
+=5  4 Bb 8 [c d'] [d# d# e]
+r0.3 .02 poor .30 no .45 I .60 never .88 I
+/
+5 bars | 4/4 6 7 7 6 6 6 7 5 | 9 9 9 8 \
+ | 5 5 7 7 7 6 7 5 | 6 7 7 7 5 5 6 5 | 5 5 7 7 5 7 6 5 |
+| 1.6
+=1  4/4 8 [d{1 e}1 f# g(1] 2 g)1(1
+r0.6 .08 ne - ver  knew
+=2, 4/4 8 [Bb{1 8 c,}1 d e(1] 4. e)1 8 f#
+r0.5 .08 ne - ver,   ne .66 - .87 ver
+=3  4/4 8 [F#{2 G}2 A Bb'{2] [c}2 d] 4 e(1
+r0.5 .08 ne - ver,   ne - ver knew
+=4  4/4 4 rest 8 rest Bb{1 [c}1 d e f#]
+r0.5 .45 ne - ver, .78 never
+=5 4/4 8 [f# g] 4 a 2 rest
+r0.1 .07 never  knew
+|
+=1 4 g)1 rest rest leg85 g
+r0.6 .77 I
+=2 1 g
+r0.6 .01 knew
+=3 1 e)1
+=4 1 g
+r0.6 .01 knew
+=5 2 blank 1 rest
+
+#well I never knew the Rune of a Lay or the Pay of a Fool
+#nor of May coming Soon  nor the Noon of the Day
+| 1.6
+il0.7 .03 60
+=1 leg85  4. f# 8 rest 4 e d(1
+r0.6 .01 know .52 I .76 ne .90 -
+=2 leg85 4 rest 8 [E F#] [G F# G A]
+r0.5 .20 well I never knew the
+=3 leg85 4 rest 8 [E E] [E E E F#]
+r0.6 .20 well I never knew the
+=4 leg85 4 rest 8 [db c] [Bb' A G F#]
+r0.5 .20 well I never knew the
+=5 leg85 2 blank 1 rest
+|
+=1 8 d)1 rest 4 db 4. c 8 rest
+r0.5 .26 ver .53 knew
+=2' 4 B 8 [G E] 4 Bb 8 [G A]
+r0.5 .02 rune .29 of  a .54 lay .74 nor the
+=3' 4 G 8 [G G] 4 G 8 [G G]
+r0.6 .02 rune .29 of  a .54 lay .74 nor the
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+r0.5 .02 rune .29 of  a .54 lay .74 nor the
+=5 2 rest 4. g 8 rest
+r0.1 .56 well
+|
+=1 2 blank 1 rest
+=2' 4 B 8 [G E] 4 Bb 8 [A G]
+r0.5 .02 pay .26 of  a .53 fool .75 nor of
+=3' 4 G 8 [G G] 4 G 8 [G G]
+r0.6 .02 pay .26 of  a .53 fool .75 nor of
+=4 4 G 8 [Bb db] 4 c 8 [Eb F]
+r0.5 .02 pay .26 of  a .53 fool .75 nor of
+=5 vol110 4 f 4. e 8 rest 4 eb
+r0.1 .04 I .22 know .79 I
+/
+4 bars |7/8 5 5 7 6 6 6 5 |7 6 6 5 5 6 5 |5 5 6 6 6 6 5 |4/4 6 6 6 6 4 4 4 4 ||
+| 1.4
+=1 2 blank 1 rest
+=2' 7/8 4 B 8 [G E] 8 Bb 8 [G A]
+r0.5 .07 May .32 coming .58 soon nor  the
+=3' 7/8 4 G 8 [G G] 8 G 8 [G G]
+r0.6 .07 May .32 coming .58 soon nor  the
+=4 7/8 4 G 8 [Bb db] 8 c 8 [Eb F]
+r0.5 .07 May .32 coming .58 soon nor  the
+=5 7/8 4. d 8 rest 4. d#
+r0.1 .08 knew .64 I
+|
+=1 2 blank 1 rest
+=2' 8 [B G E] 4 Bb 8 [A G]
+r0.5 .01 noon  of   the  day .71 of .85 the
+=2 1 blank
+=3' 8 [G G G] 4 G 8 [G G]
+r0.6 .01 noon  of   the  day .71 of .85 the
+=4  8 [G Bb' db'] 4 c 8 [Eb F]
+r0.5 .01 noon  of   the  day .71 of .85 the
+=5  4. e 4 rest c#
+r0.1 .02 ne .40 - .72 ver
+| 1.4
+il0.7 .03 65
+=1  2 rest 8 rest [G A]
+r0.5 .73 no .89 I
+=2' 4 B 8 [E G] [Bb G A]
+r0.5 .02 day .30 no .45 I .60 never .88 I
+=3' 4 G 8 [G G] 8 G 8 [G G]
+r0.6 .02 day .30 no .45 I .60 never .88 I
+=4  4 G 8 [A Bn'] [c c c#]
+r0.5 .02 day .30 no .45 I .60 never .88 I
+=5  4. d' 8 rest 4 g 8 a
+r0.1 .02 knew .57 no .88 I
+| 1.6
+=1 4/4 8 [B{1 c}1 d e(1]  2 e)1
+r0.5 .08 ne .21 -  .33 ver .49 knew
+=2' 4/4 8 [G{2 8 A}2 B c(2]  2 c)2
+r0.5 .08 ne .21 -  .33 ver .49 knew
+=3  4/4 8 [F{2 E}2 F# G#(2] 2 G#)2
+r0.5 .08 ne .21 -  .33 ver .49 knew
+=4  4/4 8 [d{1 e}1 f# g#(1] 2 g#)1
+r0.5 .08 ne .21 -  .33 ver .49 knew
+=5  4/4 4 b 8 [a g#(1] 2 g#)1
+r0.1 .08 ne .21 -  .33 ver .49 knew
+
+midi pause 3.0
+
+4 systems 10 /18 20 18 20 18 20 18/18 20 18 20 18 20 18  /18 20 18 20 18 20 18/18 20 18 20 18 20 18/
+title Remember
+pagenum
+innerhead Peter Billam,  from Album for Choir
+leftfoot (c) 2015 Peter J Billam
+midi channel 2 patch 85
+/
+5 bars | 12 | 12 13 12 11 | 12 10 12 11 | 12 10 10 11 | 12 12 12 12 |
+| 0.9
+=1 treble cha2  leg99 4 Eb
+r0.3 .15 Re  -
+=2 treble cha2  leg99 4 B_b
+=3 treble8vab cha2  leg99 4 Bb'
+=4 bass cha2  leg99 4 F#
+| 3.5
+=1 4 G 8 G rest 4. rest 8 G
+r0.3 .02 mem - ber .84 a   -
+=2 4 C 8 C rest 4. rest 8 C
+=3 4 A 8 A rest 4. rest 8 A
+=4 4 G 8 G rest 4. rest 8 G
+|
+=1 4 G 4. G 8 rest 4 F
+r0.3 .02 round  us, .75 a
+=2 4 B_ 4. B_ 8 rest 4 B_
+=3 4 G 4. G 8 rest 4 G
+=4 4 A 4. A 8 rest 4 A
+|
+=1 4 Eb 2 Eb 4 Eb
+r0.3 whole   ge .54 - .75 ne .90 -
+=2 4 C 2 C 4 C
+=3 4 Gb 2 Gb 4 Gb
+=4 4 Bb 2 Bb 4 Bb
+|
+=1 4 Eb Eb 4 rest F
+r0.3 .02 ra  -  tion .70 rose
+=2 4 B_ B_ 4 rest B_
+=3 4 F F 4 rest 8 [F G]
+=4 4 Ab Ab 4 rest Ab
+/
+5 bars | 12 10 10 11 | 11 13 12 11 | 12 10 12 11 | 10 10 10 13 | 12 10 13 11 |
+| 3.5
+il0.6 .05 5
+=1  4 G 2 G 4 G
+r0.3 .02 up .28 in .75 re .90 -
+=2  4 C 2 C 4 C
+=3  4 A 2 A 4 A
+=4  4 G 2 G 4 G
+|
+=1 4. G 8 rest 4 G F
+r0.3 .02 volt , .50 in . - .75 spi .90 -
+=2 4. B_ 8 rest 4 B_ B_
+=3 4. G 8 rest 4 G G
+=4 4. A 8 rest 4 A A
+|
+=1 4 Eb 4. Eb 8 rest 4 Eb
+r0.3 .03 ra  -  tion .75 and
+=2 4 C 4. C 8 rest 4 C
+=3 4 Gb 4. Gb 8 rest 4 Gb
+=4 4 Bb 4. Bb 8 rest 4 Bb
+|
+=1 2 Eb 4. rest 8 F
+r0.3 .01 youth .84 re  -
+=2 2 B_ 4. rest 8 C#
+=3 2 F 4. rest 8 G
+=4 2 G# 4. rest 8 A#
+|
+=1 4 G 4. G 8 rest 4 F
+r0.3 .02 mem - ber .75 All
+=2 4 Eb 4. Eb 8 rest 4 D
+=3 4 A 4. A 8 rest 4 A
+=4 4 B 4. B 8 rest 4 B
+/
+5 bars | 12 10 10 11 | 12 10 10 11 | 10 10 13 11 | 12 10 10 11 | 12 13 12 11 | 
+|
+il0.6 .05 10
+=1  4 Eb 2 F 4 G
+r0.4 .03 ge  -  sture .75 is
+=2  4 C 2 C 4 C
+=3  4 A 2 A 4 A
+=4  4 c 2 d 4 eb
+|
+=1' 4 Bb 2 Bb 4 A
+r0.4 .02 born   of .75 re .90 -
+=2 4 F 2 F 4 F
+=3 4 G 2 G 4 G
+=4 4 c# 2 c# 4 c#
+|
+=1 2 G(2 8 G)2 rest 4 G
+r0.4 .02 pose , .75 is
+=2 2 Eb(2 8 Eb)2 rest 4 C#
+=3' 2 B(2 8 B)2 rest 4 A
+=4' 2 d#(2 8 d#)2 rest 4 d#
+| 3.5
+=1 4 G# 2 G# 4 G#
+r0.4 .02 born   of .75 re .90 -
+=2 4 C# 2 C# 4 Eb
+=3 4 G# 2 G# 4 G#
+=4 4 A# 2 A# 4 B
+|
+=1 4. G# 8 rest 4 G# F#
+r0.4 .01 pose , .53 as .75 is
+=2 4. E 8 rest 4 E E
+=3 4. Bb 8 rest 4 Bb G#
+=4 4. c# 8 rest 4 c# cn
+/
+5 bars | 12 10 10 11 | 12 11 11 11 | 12 10 10 11 | 12 10 10 11 |
+|
+il0.6 .05 15
+=1  4 E 2 E 4 E
+r0.3 .01 mu  -  sic .75 of
+=2  4 C# 2 C# 4 C#
+=3  4 G 2 G 4 G
+=4  4 B 2 B 4 B
+|
+=1 4 E E 4 rest F#
+r0.3 .02 si  -  lence .76 my
+=2 4 C C 4 rest D
+=3 4 F# F# 4 rest F#
+=4 4 A A 4 rest A
+| 3.5
+=1 4 G# 2 G# 4 G#
+r0.3 young  green .75 and
+=2 4 C# 2 C# 4 Eb
+=3 4 G# 2 G# 4 G#
+=4 4 A# 2 A# 4 B
+|
+=1 2 G# 4 rest F#
+r0.3 .02 sweet , .75 my
+=2 2 E 4 rest E
+=3 2 Bb 4 rest G#
+=4 2 c# 4 rest cn
+|
+=1 4 E 2 E 4 E
+r0.3 .01 old .25 known .75 and
+=2 4 C# 2 C# 4 C#
+=3 4 G 2 G 4 G
+=4 4 B 2 B 4 B
+
+4 systems /18 20 18 20 18 20 18/
+pagenum
+innerhead Peter Billam,  Album for Choir,   Remember
+leftfoot (c) 2015 Peter J Billam
+
+/
+5 bars | 10 10 12 11 | 10 10 13 11 | 10 10 12 11 | 12 10 10 11 | 10 10 13 11 |
+|
+il0.6 .05 20
+=1  2 E 4 rest F#
+r0.3 .02 wise .75 my
+=2  2 C 4 rest D
+=3  2 Gb 4 rest Gb
+#=4  2 A 4 rest B
+=4  2 A 4 rest Bb
+|
+=1 2 G#(2 8 G#)2 rest 4 F#
+r0.3 .02 muse , .75 with
+=2 2 E(2 8 E)2 rest 4 D#
+=3' 2 Bb(2 8 Bb)2 rest 4 Bb
+=4 2 c(2 8 c)2 rest 4 c
+|
+=1 2 E 4 F# 4 G#
+r0.3 .02 you, .50 I .75 con  -
+=2 2 C# 4 C# 4 C#
+=3' 2 Bb 4 Bb 4 Bb
+=4 2 c# 4 d# 4 e
+|
+=1' 4 B 2 B 4 A#
+r0.3  verse   un .55 - .75 a .90 -
+=2 4 F# 2 F# 4 F#
+=3 4 Ab 2 Ab 4 Ab
+=4 4 dn 2 d 4 d
+|
+=1 2 G#(2 8 G#)2 rest 4 G#
+r0.3 .02 fraid . .75 My
+=2 2 E(2 8 E)2 rest 4 D
+=3 2 c(1 8 c)1 rest 4 Bb
+=4 2 e(1 8 e)1 rest 4 e
+/
+5 bars | 12 10 10 11 | 10 10 13 11 | 10 10 10 11 | 10 10 10 11 | 12 10 10 11 |
+| 3.5
+il0.6 .05 25
+=1  4 A 2 B' 4 c#
+r0.3 .02 breath  of .73 this
+=2  4 D 2 F# 4 E
+=3  4 A 2 A 4 A
+=4  4 B 2 c# 4 c#
+|
+=1 2 c#(1 8 c#)1 rest 4 B
+r0.3 .01 night .78 I 
+=2 2 F#(2 8 F#)2 rest 4 F#
+=3 2 A(2 8 A)2 rest 4 A
+=4 2 d#(1 8 d#)1 rest 4 d#
+|
+=1 2. c# 4 A
+r0.3 .02 give , .74 my
+=2 2. G 4 G
+=3 2. B 4 B
+=4 2. d# 4 e
+|
+=1' 2. B 4 G#
+r0.3 .02 in .40 - .72 spi .92 -
+=2 2. G 4 F
+=3 2. c# 4 d
+=4 2. f 4 g#
+|
+=1 4 A 2 B' 4 c#
+r0.3 .02 ra  -  tion , .75 I
+=2 4 F# 2 F# 4 F#
+=3 4 d 2 c# 4 c#
+=4 4 b 2 a 4 a
+/
+5 bars | 12 10 10 11 | 10 10 12 11 | 10 10 12 11 | 10 10 12 11 | 39 |
+|
+il0.6 .05 30
+=1  4 c# 2 c# 4 c#
+r0.3 .02 give    to .73 the
+=2  4 F# 2 F# 4 F#
+=3  4 d# 2 d# 4 d#
+=4  4 a 2 a 4 a
+|
+=1 2 c# 4 G A
+r0.3 .02 life .48 of .75 the
+=2 2 G 4 G A
+=3 2 d# 4 d# d#
+=4 2 b 4 b c~#
+|
+=1' 2 B 4 A B
+r0.3 .02 mind , .48 and .75 its
+=2 2 G 4 G G
+=3 2 e 4 e e
+=4 2 c~# 4 d~ c~#
+|
+=1 2 c# 4 B c#
+r0.3 .02 deeds .50 and .75 its
+=2 2 G 4 G G
+=3 2 f 4 f f
+=4 2 b 4 c~# b
+|
+=1 1 d(1
+r0.3 .02 works
+=2 1 G(2
+=3 1 e(1
+=4 1 b(1
+/
+5 bars | 12 10 10 11 | 20 19 | 24 20 | 20 19 | 38 ||
+|
+il0.6 .05 35
+=1  4 d)1 2 B' 4 A
+r0.3 .30 e .55 - .73 ver   -
+=2  4 G)2 2 E 4 E
+=3  4 e)1 2 d 4 c#
+=4  4 b)1 2 g 4 f#
+|
+=1 2 G G(2
+r0.3 .02 la .30 - .50 sting
+=2 2 D D(2
+=3 2 B B(1
+=4 2 e e(1
+|
+=1 4 G)2 rest 2 F#
+r0.3 .55 re .85 -
+=2 4 D)2 rest 2 C
+=3 4 B)1 rest 2 A
+=4 4 e)1 rest 2 e
+|
+=1 2 G G(2
+r0.3 .01 mem .30 - .52 ber  .  .  .
+=2 2 C C(2
+=3 2 A A(2
+=4 2 eb eb(1
+|
+=1 1 G)2-fermata
+=2 1 C)2-fermata
+=3 1 A)2
+=4 1 eb)1-fermata
+midi pause 3.0
 3 systems 10 /17-22-17-22-17-30-17-22-17 \
  /17-22-17-22-17-31-17-22-17 \
  /17-22-17-22-17-31-17-22-17/
