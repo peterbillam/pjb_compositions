@@ -9,9 +9,9 @@ midi channel 2 patch 0
 5 bars | 8 | 6/4 48 | 5/4 40 | 4/4 32 | 5/4 40 |
 | 1/4 110
 i0.3          moderate
-=1 treble channel1 legato100 transpose-12 4 rest
-=2 treble channel2 4 Eb-.-ten
-=3 bass   channel2 4 rest
+=1 treble cha1 leg100 tra-12 4 rest
+=2 treble cha2 4 Eb-.-ten
+=3 bass   cha2 4 rest
 | 6/4 110
 =1 6/4 1. rest
 =2 6/4 2 Ab 2. F 4 Bb'-ssimile

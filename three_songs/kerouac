@@ -6,6 +6,7 @@ righthead music by Peter Billam
 leftfoot (c) 1993 Peter J Billam, 1959 Jack Kerouac
 midi channel 1 patch 52
 midi channel 2 patch 0
+
 /
 3 bars | 9/4 5 5 4 5 4 4 4 4 4 4 4 3 4 3 4 3 3 3 \
  | 9/8 4 4 4 6 4 4 4 4 4 | 4/4 4 4 4 4 4 4 4 4 |
@@ -142,11 +143,12 @@ i0.5 .01 rit . . . .70 tempo
 =3 3/4 2. d~b
 =3 3/4 4 blank 2 blank-P
 
-4 systems /19 40 19-35-19 /19 35 19-30-19 \
- /19 49 19-30-19 /19 35 19-40-19 20 /
+4 systems /19 40 19-30-19 /19 35 19-30-19 \
+ /19 49 19-30-19 /19 35 19-40-19 20 10 /
 pagenum 4
 innerhead From the 228th Chorus of Mexico City Blues
 leftfoot (c) 1993 Peter J Billam, 1959 Jack Kerouac
+
 /
 5 bars | 15/8 60 | 4/4 4 4 4 6 4 4 4 3 | 5/4 40 \
  | 6/4 4 4 4 4 4 4 4 8 4 4 4 3 | 45 |

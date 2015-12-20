@@ -1,19 +1,20 @@
-4 systems /21 40 21-35-21/21 45 21-40-21/21 31 21-31-21/21 31 21-38-21 10/
+4 systems 15 /20 40 20-35-20/20 45 20-40-20/20 31 20-31-20/20 31 20-38-20 10/
 lefthead poem by Federico García Lorca
 title Casida del Llanto
 righthead music by Peter Billam
 leftfoot (c) 1997  Peter J Billam
 midi channel 1 patch 52
 midi channel 2 patch 0
+
 /
 4 bars | 2/4 2.6 2 2.6 2 2 2 | 3/4 2.6 2 2 2 2 2 2 2 2 \
  | 18 | 18 |
 | 2/4 120
-=1 treble 2/4 channel1 leg100 cro rest qua F G
+=1 treble 2/4 cha1 leg100 cro rest qua F G
 r0.6 .55 He    cer
-=2 treble 2/4 channel2 qua3 rest [<Ab, f ab-I3> c,]  [Ab F-I3 D]
+=2 treble 2/4 cha2 qua3 rest [<Ab, f ab-I3> c,]  [Ab F-I3 D]
 I0.4 .03 ff
-=3' bass 2/4 channel2 cro rest'' qua [b e]
+=3' bass 2/4 cha2 cro rest'' qua [b e]
 =3, bass 2/4 min <D d>
 | 3/4 120
 =1' 3/4 qua3 G#{2 cro3 B}2(2-I3 min B)2(1
@@ -61,7 +62,7 @@ r0.7 .01 quie .39 - .68 ro   o  -
 =2 qua [<Eb Bb'> c'] [d eb] [<F, f> Bb,]
 =3 min. <F_# F#>
 /
-4 bars | 1.25 1.25 1.5 | 1.25 1.25 1.5 | 1.2 0.9 0.9 0.9 | 3.7 |
+5 bars | 1.25 1.25 1.5 | 1.25 1.25 1.5 | 1.2 0.9 0.9 0.9 | 3.7 | 3.7 |
 |
 =1 qua f{1 min db}1 qua c
 r0.7   - .03 ír .83 el
@@ -83,14 +84,14 @@ r0.7 .01 llan   -   to
 =1 min. rest
 =2 cro B_-. cro. G_# qua A_#
 =3 cro. F qua E cro D
-/
-4 bars | 2.2 2 | 1 1 1 0.8 | 4 | 1.25 1.25 1.5 |
 |
-=1 treble min. rest
-=2' treble cro. rest cro F qua E
+=1 min. rest
+=2' cro. rest cro F qua E
 =2, min. B_
-=3' bass   qua ab rest' cro g ab
-=3,        min. C#
+=3' qua ab rest' cro g ab
+=3, min. C#
+/
+5 bars | 36 | 36 | 36 | 36 | 36 |
 |
 =1 qua E F min rest
 r0.7 .05 pero
@@ -110,20 +111,13 @@ r0.7 .01 rás
 =2' min. c#
 =2, cro E qua [D# E F Ab]
 =3  min b cro ab
-
-4 systems /21 39 21-31-21/21 45 21-41-21/21 39 21-31-21/21 44 21-31-21/
-pagenum 5
-innerhead Casida del llanto
-leftfoot (c) 1997  Peter J Billam
-/
-4 bars | 6 | 6 | 1.3 1 1 1 1 1 | 6.6 |
 |
-=1 treble cro rest G# A
+=1 cro rest G# A
 r0.8 .36 de .68 los
-=2' treble cro B G# A
+=2' cro B G# A
 =2, min Eb cro F
-=3' bass   cro b g# b
-=3,        min f cro gn
+=3' cro b g# b
+=3, min f cro gn
 |
 =1 min rest cro c#(1
 r0.8 .67 gri
@@ -131,6 +125,14 @@ r0.8 .67 gri
 =2, min <F c#> cro G
 =3' cro ar a# c~#
 =3, min <f c~#> cro g
+
+4 systems /20 39 20-31-20/20 45 20-41-20/20 39 20-31-20/20 44 20-31-20/
+pagenum 5
+innerhead Casida del llanto
+leftfoot (c) 1997  Peter J Billam
+
+/
+5 bars | 36 | 36 | 36 | 2/4 24 | 3/4 36 |
 |
 =1 cro c#)1 min d
 r0.8 - .33 ses
@@ -145,13 +147,11 @@ r0.8 .01 mu .28 - .50 ros
 =2' cro rest' cro. B qua A#
 =2, qua [<D F> D] [<D F> D] [<D F> D]
 =3 min. G#
-/
-4 bars | 4 | 3.7 | 4.6 | 3.7 |
 |
-=1 treble min. rest
-=2' treble cro. B' qua rest' [F D]
+=1 min. rest
+=2' cro. B' qua rest' [F D]
 =2, qua [<D F> D] [<D F> D] cro blank
-=3 bass  cro rest cro. B qua A#
+=3 cro rest cro. B qua A#
 | 2/4 120
 =1 2/4 cro rest qua3 rest B-I3 c
 r0.7 .67 no  se
@@ -165,21 +165,21 @@ r0.7 .06 oy .38 - .67 e
 =2, 3/4 qua rest,, A_ [<A_ Eb> A_] [<A_ Eb> B_b]
 =3' 3/4 min. <F# F_#>
 I0.9                P__
+/
+5 bars | 2/4 24 | 3/4 36 | 36 | 36 | 36 |
 | 2/4 120
 =1 2/4 cro3 rest Bb-I3 A
 r0.7 .39 ot   -   ra
 =2' 2/4 cro3 rest' Bb-I3 A
 =2, 2/4 min <Eb Gb>
 =3 2/4 min c~
-/
-4 bars | 1.1 1.4 1.4 1.1 | 1.9 1.7 | 1.7 1.5 | 1.1 1.4 1.1 |
 | 3/4 120
-il0.4       25
-=1 treble 3/4 min e(1 qua e)1 c#
+il0.6 .10 25
+=1 3/4 min e(1 qua e)1 c#
 r0.7 .07 co .47 - .83 sa
-=2' treble 3/4 qua [e d] cro. c# qua E(2
+=2' 3/4 qua [e d] cro. c# qua E(2
 =2, 3/4 min <E Bb> cro blank
-=3' bass   3/4 min. <E_ E>
+=3' 3/4 min. <E_ E>
 I0.9                        *P__
 |
 =1 cro. rest cro Bb qua G
@@ -222,19 +222,14 @@ r0.8                              Hay
 =2 cro. C#,)2 C#,
 i0.3                                tempo
 =3 min. Bb,
-
-4 systems /21 36 21-30-21 /21 50 21-30-21 /21 40 21-36-21 /21 45 21-38-21 12/
-pagenum 6
-innerhead Casida del llanto
-leftfoot (c) 1997  Peter J Billam
 /
 3 bars | 4.2 | 4 | 3.1 |
 | 4/4 120
-=1 treble  4/4 qua c#{1 cro. d#}1 qua cn cro. A
+=1  4/4 qua c#{1 cro. d#}1 qua cn cro. A
 r0.7 .08 muy .53 pocos
-=2' treble 4/4 min Gb A
-=2,        4/4 cro. Eb qua F cro F# qua [C D]
-=3 bass    4/4 smb A
+=2' 4/4 min Gb A
+=2, 4/4 cro. Eb qua F cro F# qua [C D]
+=3  4/4 smb A
 |
 =1 cro. B' qua f# cro. c qua e
 r0.7 .02 án .21 - .39 geles .86 que
@@ -247,6 +242,11 @@ r0.7 .10 can .36 - .52 ten
 =2' 3/4 min Bb cro A
 =2, 3/4 cro E min D#
 =3 3/4 cro. G cro F# qua G
+
+4 systems /20 36 20-30-20 /20 50 20-30-20 /20 40 20-36-20 /20 45 20-38-20 12/
+pagenum
+innerhead Casida del llanto
+leftfoot (c) 1997  Peter J Billam
 /
 4 bars | 18 | 3 2 2 2 2 2 3 2 2 | 4/4 3 3 3 4 3 3 3 3 | 3/4 18 |
 |
@@ -334,19 +334,14 @@ r0.7 .75 en   la
 =2 cro F)2 F# G#
 =3' min. d~
 =3, min. F#
-
-4 systems /21 37 21-39-21/21 40 21-36-21/21 35 21-36-21/21 58 21-42-21 15/
-pagenum 7
-innerhead Casida del llanto
-leftfoot (c) 1997  Peter J Billam
 /
 4 bars | 2 2 2 2 2 2 3 3 2.5 | 6 6 7.5 | 2 2 2 2 2 2 3 3 2.5 | 6 6 7.5 |
 |
-=1 treble min B' qua3 A G#-I3 F#
+=1 min B' qua3 A G#-I3 F#
 r0.7 .04 pal .33 - .56 ma  de  mi
-=2' treble min. <G# B>
-=2, treble cro. D B_
-=3 bass   min. F_#
+=2' min. <G# B>
+=2, cro. D B_
+=3 min. F_#
 |
 =1 qua G# cro. D cro rest
 r0.7 .04 mano
@@ -365,14 +360,20 @@ il0.3   50
 =2' cro An min D
 =2, cro. B_ A_
 =3' min Fn qua3 [E D-I3 C]
+
+4 systems /20 35 20-30-20/20 35 20-34-20/20 50 20-36-20 5/20 50 20-35-20 5/
+pagenum
+innerhead Casida del llanto
+leftfoot (c) 1997  Peter J Billam
+
 /
-4 bars | 18| 3 3 3.6 3.6 3 3| 4/4 2 2 2  2 2 2  2 2 2  2.5 3.2 2.5| 3/4 18|
+4 bars | 36 | 36 | 4/4 48 | 3/4 36 |
 |
-=1 treble min. rest
-=2 treble min. Eb
+=1 min. rest
+=2 min. Eb
 i0.7                  dim .  .  .
-=3' bass   cro. ab cro g qua f
-=3,        min. B_
+=3' cro. ab cro g qua f
+=3, min. B_
 |
 =1 qua E cro G rest qua G
 r0.8 .04 Pero .83 el
@@ -397,14 +398,14 @@ r0.8 .11 per .36 - .54 ro .82 in  -
 =3' 3/4 cro rest' f# bb
 =3, 3/4 min. E
 /
-3 bars | 18 | 18 | 18 |
+4 bars | 36 | 36 | 36 | 36 |
 |
-=1 treble cro. B' F'
+=1 cro. B' F'
 r0.8    -  men .29 - .51 so
-=2' treble min B cro <D d>
-=2,        cro. <B_ D> F
-=3' bass   cro rest' min ab
-=3,        min. F
+=2' min B cro <D d>
+=2, cro. <B_ D> F
+=3' cro rest' min ab
+=3, min. F
 |
 =1 min rest qua rest Ab
 r0.8 .83 el
@@ -417,14 +418,14 @@ r0.8 .02 llan .28 - .50 to
 =2' cro. B cro G qua <G(1 g(3>
 =2, qua [C# <C# E> C#] [C# C# C#]
 =3 min. E
-/
-3 bars | 3.5 | 4.3 | 3 |
 |
-=1 treble cro rest A# B'
+=1 cro rest A# B'
 r0.8 .36 es .68 un
-=2' treble qua <G)1 g)3> cro <G# g#> <A# a#> qua <B b>
+=2' qua <G)1 g)3> cro <G# g#> <A# a#> qua <B b>
 =2, qua [C# <C#l E>] [C# <C# E>] [C# <C# E>]
-=3 bass   cro b a# g#
+=3 cro b a# g#
+/
+5 bars | 4/4 48 | 3/4 36 | 36 | 36 | 36 |
 | 4/4 120
 il0.2 .18 60
 =1 4/4 cro. c# d cro e
@@ -439,20 +440,13 @@ r0.8  .04 men .37 - .66 so
 =2, 3/4 qua rest, cro d qua c# cro f
 =3' 3/4 cro rest' cro. ab qua a~b
 =3, 3/4 min. <A_b(2 Ab(4>
-
-3 systems / 21 58 21-31-21 / 21 66 21-45-21 / 21 59 21-31-21 20/
-pagenum 8
-innerhead Casida del llanto
-leftfoot (c) 1997  Peter J Billam
-/
-4 bars | 3 | 3 | 3 | 1.2 0.8 1.3 0.9 |
 |
-=1 treble min rest cro c#
+=1 min rest cro c#
 r0.8 .67 el
-=2 treble qua <e e~> cro <d d~> qua e cro <c# c~#>
+=2 qua <e e~> cro <d d~> qua e cro <c# c~#>
 i0.5                             cresc . . .
-=3' bass   cro rest' min ab
-=3, bass   min. <A_b)2 Ab)4>
+=3' cro rest' min ab
+=3, min. <A_b)2 Ab)4>
 |
 =1 min d cro Ab
 r0.8 .01 llan .36 - .66 to
@@ -464,6 +458,8 @@ r0.8 .01 llan .36 - .66 to
 r0.8 .33 es .55 un
 =2 cro <B, b> <c# c~#> <d d~>
 =3 min rest cro F_#
+/
+5 bars | 4/4 48 | 3/4 36 | 36 | 36 | 36 |
 | 4/4 120
 il0.7   65
 =1 4/4 min f#(1 qua f#)1 cro. fn
@@ -472,14 +468,12 @@ r0.8 .06 vi .38 - .65 o .92 -
 =2, 4/4 qua rest, d [G# B] cro d qua [g# b]
 =3 4/4 qua rest min.. d~'
 =3 4/4 smb B_
-/
-4 bars | 3.1 | 4.3 | 3.3 | 3 |
 | 3/4 120
-=1 treble 3/4 cro. a{1 g#}1(1
+=1 3/4 cro. a{1 g#}1(1
 r0.8      - .10 lín
-=2' treble 3/4 cro. <a e~ a~> <g#(1 g~#(3>
+=2' 3/4 cro. <a e~ a~> <g#(1 g~#(3>
 =2, 3/4 qua rest, B cro F# qua [F# B]
-=3' bass   3/4 min rest' cro a
+=3' 3/4 min rest' cro a
 =3, 3/4 min. <B_ F# B>
 |
 =1 min g#)1 cro d
@@ -502,8 +496,14 @@ r0.8 .01 so
 =3' min. f~
 =3, cro b min d~
 I0.3  *P__
+
+4 systems /20 45 20-31-20 /20 45 20-30-20 /20 35 20-35-20 /20 35 20-35-20 25/
+pagenum
+innerhead Casida del llanto
+leftfoot (c) 1997  Peter J Billam
+
 /
-4 bars | 4 | 4 | 4 | 4 |
+5 bars | 4 | 4 | 4 | 4 | 4 |
 |
 il0.2      70
 =1 treble min rest cro G
@@ -531,19 +531,14 @@ r0.8 .21 a .44 - .66 mor .90 -
 =2 min <f f~> cro <e e~>
 =3' cro rest' cro. d~ qua c~#
 =3, min. F_)2(2
-
-4 systems /21 37 21-35-21 /21 33 21-36-21 /21 45 21-31-21 /21 35 21-39-21 25/
-pagenum 9
-innerhead Casida del llanto
-leftfoot (c) 1997  Peter J Billam
-/
-4 bars | 1.6 1.3 1.3 | 4 | 1.2 1.2 1 1.5 | 4 |
 |
-=1 treble cro d min B'
+=1 cro d min B'
 r0.8    - .03 da .21 - .35 zan
-=2 treble min. <d d~>
-=3' bass   qua [b bb] cro. ab qua g
-=3,        min. F_)2
+=2 min. <d d~>
+=3' qua [b bb] cro. ab qua g
+=3, min. F_)2
+/
+5 bars | 4 | 4 | 4 | 4 | 4 |
 |
 il0.2  75
 =1 cro. rest cro Bb' qua G
@@ -565,20 +560,20 @@ I0.1 .15 mp
 =2, cro A_b)2 min Ab
 =3 min. c
 I0.2 .89 __*
-/
-4 bars | 4 | 4 | 4 | 4 |
 |
-=1 treble qua rest G cro. c qua B'
+=1 qua rest G cro. c qua B'
 r0.7 .19 y    no .83 se
-=2' treble min. <c)3 c~)1>
+=2' min. <c)3 c~)1>
 =2, min. <Eb G>
-=3 bass   min g cro G_
+=3 min g cro G_
 |
 =1 cro3 d{2 min3 eb}2-I3 cro c
 r0.7 .02 oy .37 - .67 e
 =2 min. <F, Ab'>
 =3' cro. ab cro bb qua ab
 =3, min. F_
+/
+5 bars | 4 | 4 | 4 | 4 | 4 |
 |
 il0.2   80
 =1 cro rest cro. Bb' qua A
@@ -593,15 +588,13 @@ r0.7 .01 co .36 - .66 sa
 =2 cro. B_b cro C qua Db
 =3 min. <E, g'>
 I0.1                          mf
-/
-4 bars | 4 | 4 | 4 | 4 |
 |
-=1 treble cro rest cro. Bb' qua G
+=1 cro rest cro. Bb' qua G
 r0.8 .35 que .84 el
 i0.1 .10 cresc  .  .  .
-=2' treble cro rest Eb En
+=2' cro rest Eb En
 =2, cro blank min B_bl
-=3 bass   min. Db
+=3 min. Db
 |
 =1 cro A min eb(1
 r0.8 .01 llan .19 - .33 to .70 -
@@ -616,20 +609,20 @@ r0.8 .02 - .60 -
 =2' qua f# min a qua g#
 =2, cro rest, min A
 =3 min e~b cro d~
+/
+5 bars | 4 | 4 | 1.3 1 1 1 | 3.7 | 3.7 ||
 |
-il0.2     85
+il0.5 .20 85
 =1 qua eb)1 qua rest min rest
 =2' cro f# min A(1
 =2, qua rest, min Eb qua D
 I0.4                          mf
 =3 min. A_
-/
-4 bars | 4 | 1.3 1 1 1 | 3.7 | 3.7 ||
 |
-=1 treble min. rest
-=2' treble qua A)1 min c qua B
+=1 min. rest
+=2' qua A)1 min c qua B
 =2, cro. C qua A_ cro G_#
-=3, bass   min. <Eb(4 E_b(2>
+=3, min. <Eb(4 E_b(2>
 |
 =1 min. rest
 =2' qua [A eb(1] min eb)1(1
@@ -648,7 +641,7 @@ I0.6                              pp
 =3, cro D_b min blank
 midi pause 3.0
 
-4 systems /21 39 21-31-21/21 39 21-31-21/21 48 21-31-21/21 39 21-31-21 7/
+4 systems 15 /20 39 20-31-20/20 39 20-31-20/20 48 20-31-20/20 39 20-31-20 7/
 lefthead poem by Federico García Lorca
 title Casida de la Rosa
 righthead music by Peter Billam
@@ -658,11 +651,11 @@ midi channel 2 patch 0
 /
 5 bars | 3.7 | 4.3 | 4.7 | 4.5 | 4.4 |
 | 4/4 3.0
-=1 treble 4/4 channel1 transpose-12 leg100 smb rest
-=2 treble 4/4 channel2 leg105 smb <c c~>
+=1 treble 4/4 cha1 tra-12 leg100 smb rest
+=2 treble 4/4 cha2 leg105 smb <c c~>
 i0.7       dolce
 is0.05 .01 arpeggiando, con Ped
-=3 treble 4/4  channel2 smb A_
+=3 treble 4/4  cha2 smb A_
 |
 =1 min rest qua rest cro. D
 r0.7 .62 La
@@ -764,8 +757,8 @@ I0.1 .40 f
 i0.5                 cresc  .  .  .
 =3 cro g)1 qua rest g cro c~ bb
 
-4 systems / 21 36 21-36-21 8/ 21 64 21-31-21/ 21 34 21-34-21/ 21 54 21-31-21/
-pagenum 11
+4 systems / 20 36 20-36-20 8/ 20 64 20-31-20/ 20 34 20-34-20/ 20 54 20-31-20/
+pagenum
 innerhead Casida de la rosa
 leftfoot (c) 1997  Peter J Billam
 /
@@ -888,8 +881,8 @@ i0.3 .12 l.h. .35 l.h. .58 l.h. .81 l.h.
 I0.7 .01 f
 =3 4/4 min d' D
 
-4 systems /21 50 21-31-21 /21 48 21-38-21 /21 48 21-31-21 /21 48 21-31-21 20/
-pagenum 12
+4 systems /20 50 20-31-20 /20 48 20-38-20 /20 48 20-31-20 /20 48 20-31-20 20/
+pagenum
 innerhead Casida de la rosa
 leftfoot (c) 1997  Peter J Billam
 /
@@ -1005,8 +998,8 @@ r0.8 .75 In  -
 I0.6   f
 =3 smb C_#
 
-4 systems /21 54 21-31-21/21 54 20-31-20/21 32 21-31-21 10/21 40 21-31-21 15/
-pagenum 13
+4 systems /20 54 20-31-20/20 54 20-31-20/20 32 20-31-20 10/20 40 20-31-20 15/
+pagenum
 innerhead Casida de la rosa
 leftfoot (c) 1997  Peter J Billam
 /
@@ -1125,20 +1118,21 @@ I0.6  p
 I0.2               __*
 midi pause 3.0
 
-4 systems /21 54 21-31-21 25/21 45 21-31-21/21 44 21-31-21 / 21 38 21-31-21 /
+4 systems 15 /20 54 20-31-20 25/20 45 20-31-20/20 44 20-31-20 / 20 38 20-31-20 /
 lefthead poem by Federico García Lorca
 title Casida de las Palomas Oscuras
 righthead music by Peter Billam
 leftfoot (c) 1997  Peter J Billam
 midi channel 1 patch 52
 midi channel 2 patch 0
+
 /
 3 bars | 1 .8 .8 1 1 .8 .8 1 .8 .8 | 1 .8 .8 1 1 .8 .8 | 11 |
 | 10/4 80
-=1 treble 10/4 channel1 leg100 transpose-12 smb rest rest min rest
-=2 treble 10/4 channel2 leg103 cro Eb min Eb cro Eb Eb min Eb cro Eb min Eb
+=1 treble 10/4 cha1 leg100 tra-12 smb rest rest min rest
+=2 treble 10/4 cha2 leg103 cro Eb min Eb cro Eb Eb min Eb cro Eb min Eb
 I0.4         pp
-=3 bass   10/4 channel2 leg103 smb rest rest min rest
+=3 bass   10/4 cha2 leg103 smb rest rest min rest
 I0.2            P__
 | 7/4 80
 =1 7/4 smb.. rest
@@ -1243,8 +1237,8 @@ r0.7 .04 sol .76 la
 =2, 8/4 min. G# cro A# G# A# c c#
 =3 8/4 cro c~ bb c~ min c~# cro c~n min bb
 
-4 systems /21 40 21-31-21 /21 42 21-31-21 /21 39 21-31-21 /21 44 21-41-21 15/
-pagenum 15
+4 systems /20 40 20-31-20 /20 42 20-31-20 /20 39 20-31-20 /20 44 20-41-20 15/
+pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
 /
@@ -1370,8 +1364,8 @@ r0.7 .03 « En .51 mi .85 gar   -
 =2' 6/4 cro. <C c> qua D cro. Eb qua F cro. Gb qua Ab
 =3 6/4 smb. A
 
-4 systems /21 40 21-31-21/21 43 21-30-21/21 40 21-31-21/21 43 21-38-21 10/
-pagenum 16
+4 systems /20 40 20-31-20/20 43 20-30-20/20 40 20-31-20/20 43 20-38-20 10/
+pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
 /
@@ -1474,9 +1468,9 @@ r0.7 .02 vi .62 dos
 =3 min. <g#'(3 g~#'(1> min <g#')3 g~#')1> min. <a#' a~#'>
 =3, min C# cro C# min C# C# cro C#
 
-4 systems /21 55 21-31-21 5/21 50 21-39-21 10 \
- /21 54 21-31-21/21 43 21-36-21 10/
-pagenum 17
+4 systems /20 55 20-31-20 5/20 50 20-39-20 10 \
+ /20 54 20-31-20/20 43 20-36-20 10/
+pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
 /
@@ -1594,9 +1588,9 @@ r0.8 .21 « Agui - li .65 - .80 tas » ,
 I0.5   ff
 =3 5/4 min <G_# G#> min. <F_ F>
 
-4 systems /21 43 21-36-21/21 35 21-31-21 5 \
- /21 44 21-31-21 10/21 53 21-35-21 22/
-pagenum 18
+4 systems /20 43 20-36-20/20 35 20-31-20 5 \
+ /20 44 20-31-20 10/20 53 20-35-20 22/
+pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
 /
@@ -1726,8 +1720,8 @@ r0.8 .05 Por .60 las .68 ra .90 -
 =3 10/4 smb.. g min. c~'
 =3 10/4 smb.. C_,(1 min. C_,)1
 
-4 systems /21 43 21-31-21 /21 36 21-38-21 /21 40 21-31-21 /21 42 21-31-21 20/
-pagenum 19
+4 systems /20 43 20-31-20 /20 36 20-38-20 /20 40 20-31-20 /20 42 20-31-20 20/
+pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
 /
@@ -1843,5 +1837,5 @@ r0.65 .05  gu  -  na.
 i0.7           sin rall.  .  .
 I0.7   pp
 =3 7/4 qua rest' cro f' smb b cro. rest'
-=3 7/4 transpose-12 min B_, min. B_, min B_,
+=3 7/4 tra-12 min B_, min. B_, min B_,
 I0.8                                                 *

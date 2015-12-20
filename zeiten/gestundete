@@ -207,9 +207,7 @@ leftfoot Gedicht (c) 1960 Ingeborg Bachmann,  Musik (c) 2000 Peter Billam
 5 bars |6|2.5 3|1 1 1.4 1.1 1.1 1|1.1 1.1 1 1 1 1|1 1 1.1 1.1 1.1 1|
 |
 =1 treble min. rest
-r0.5   
 =2 treble min. rest
-r0.5   
 =3 treble8vab cro. d cro c# qua B'
 r0.5 .03 Marsch  - .52 hö  - .86 fe
 =4 bass cro. f# cro g qua g#
@@ -530,7 +528,6 @@ r0.2 .01 Haar. .67 er
 =1 qua leg95 db cro leg85 c db qua Bb'
 r0.5 .03 fället .50 ihr .86 ins
 =2 min. rest
-r0.5   
 =3 qua leg95 Ab cro leg85 Ab Ab qua Ab
 r0.5 .03 fället .50 ihr .86 ins
 =4 qua leg95 e  cro leg85 e  e  qua e
@@ -540,25 +537,20 @@ il0.2 .45 55
 =1 min e cro rest
 r0.5 .01 Wort,
 =2 min. rest
-r0.5         
 =3 min Bb' cro rest
 r0.5 .01 Wort,
 =4 min e cro rest
 r0.2 .01 Wort,
 |
 =1 min. rest
-r0.5   
 =2 min. rest
-r0.5   
 =3 cro. rest cro A qua e
 r0.5 .50 er .86 be -
 =4 cro. rest cro a qua e
 r0.2 .50 er .86 be -
 |
 =1 min. rest
-r0.5   
 =2 min. rest
-r0.5   
 =3 cro. d# c
 r0.5 .01 fehlt .50 ihn
 =4 cro. eb eb
@@ -567,18 +559,14 @@ r0.2 .01 fehlt .50 ihn
 6 bars |6|6|6|6|6|6|
 |
 =1 treble min. rest
-r0.5   
 =2 treble min. rest
-r0.5   
 =3 treble8vab cro. rest B'
 r0.6 .52 zu
 =4 bass cro. rest eb
 r0.1 .52 zu
 |
 =1 min. rest
-r0.5   
 =2 min. rest
-r0.5   
 =3 cro leg95 d min leg85 vol-10 F vol+10
 r0.6 .03 schweigen,
 =4 cro leg95 d' min leg85 vol-10 d' vol+10
@@ -586,36 +574,28 @@ r0.1 .03 schweigen,
 |
 il0.2 60
 =1 min. rest
-r0.5   
 =2 min. rest
-r0.5   
 =3 min rest cro F
 r0.5 .66 er
 =4 min rest cro d'
 r0.1 .66 er
 |
 =1 min. rest
-r0.5   
 =2 min. rest
-r0.5   
 =3 cro. leg95 Gb leg85 Gb
 r0.5 .02 fin   - .50 det
 =4 cro. leg95 d'  leg85 d'
 r0.2 .02 fin   - .50 det
 |
 =1 min. rest
-r0.5   
 =2 min. rest
-r0.5   
 =3 cro. Gb rest
 r0.5 .01 sie
 =4 cro. db rest
 r0.2 .01 sie
 |
 =1 min. rest
-r0.5   
 =2 min. rest
-r0.5   
 =3 cro leg95 Ab min leg85 vol-10 D vol+10
 r0.5 .02 sterblich
 =4 cro leg95 c  min leg85 vol-10 B vol+10
@@ -630,13 +610,9 @@ leftfoot Gedicht (c) 1960 Ingeborg Bachmann,  Musik (c) 2000 Peter Billam
 6 bars |5|6|4 3|6|6|6|
 |
 =1 treble min. rest
-r0.5   
 =2 treble min. rest
-r0.5   
 =3 treble8vab min. rest
-r0.5    
 =4 bass min. rest
-r0.2    
 |
 il0.2     65
 =1 min rest cro D
@@ -646,7 +622,6 @@ r0.5 .66 und
 =3 min rest cro B'
 r0.5 .66 und
 =4 min. rest
-r0.2    
 |
 =1 qua leg98 F cro leg85 vol-10 E  cro. rest
 r0.5 .04 willig
@@ -655,7 +630,6 @@ r0.5 .04 willig
 =3 qua leg98 A cro leg85 vol-10 Bb' cro. rest
 r0.5 .04 willig
 =4 min. rest
-r0.2    
 |
 =1 cro. rest F# vol+10
 r0.5 .50 dem
@@ -664,7 +638,6 @@ r0.5 .50 dem
 =3 cro. rest B' vol+10
 r0.5 .50 dem
 =4 min. rest
-r0.2    
 |
 =1 cro G  min vol-10 F# vol+10
 r0.5 .02 Abschied
@@ -673,7 +646,6 @@ r0.5 .02 Abschied
 =3 cro B' min vol-10 c vol+10
 r0.5 .02 Abschied
 =4 min. rest
-r0.2    
 |
 =1 cro. rest G#
 r0.5 .48 nach
@@ -706,20 +678,14 @@ r0.5 .02 ar .26 - .46 mung.
 r0.2 .02 ar .26 - .46 mung.
 |
 =1 min. leg85 rest
-r0.5   
 =2 min. leg85 rest
-r0.5   
 =3 min. leg85 rest
-r0.5    
 =4 min. leg85 rest
-r0.2    
 |
 =1 cro A# G# A#
 r0.5 .01 Sieh  dich  nicht
 =2 min. rest
-r0.5      
 =3 min. rest
-r0.5    
 =4 cro d' B c#
 r0.2 .01 Sieh  dich  nicht
 |
@@ -734,7 +700,6 @@ r0.2 .01 um.
 |
 il0.2 .20 75
 =1 min. rest
-r0.5 
 =2 min F cro B'(2
 r0.5 .01 um. .60 Schnür
 =3 min d cro rest
@@ -782,11 +747,9 @@ r0.2 .01 rück.
 |
 il0.2 .20 80
 =1 min. rest
-r0.5 
 =2 cro. D cro C# qua leg95 D
 r0.3 .01 Lösch .50 die .85 Lu  -
 =3 min. rest
-r0.5   
 =4 cro. B cro B qua leg95 c#
 r0.1 .01 Lösch .50 die .85 Lu  -
 /

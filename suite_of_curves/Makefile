@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 NORMALIZE = /usr/bin/normalize-audio
 COMPD = /home/pjb/www/mus/comp
 A4D = ${COMPD}/a4
@@ -43,6 +43,7 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 
 ${PIECE}.a4 : ${PIECE}
 	${MUSCRIPT} -a4 ${PIECE} > $@
+	pkill -HUP gv
 title.a4 : title
 	groff -ms title | ${BANNERISE} > $@
 play :

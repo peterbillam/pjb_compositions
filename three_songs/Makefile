@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 NORMALIZE = /usr/bin/normalize-audio
 COMPD = /home/pjb/www/mus/comp
 A4D = ${COMPD}/a4
@@ -56,14 +56,14 @@ thomas.a4 : thomas
 	pkill -HUP gv
 
 kerouac.mid : kerouac
-	/home/pbin/muscript -midi kerouac > $@
+	/home/pbin/muscript_lua -midi kerouac > $@
 seth.mid : seth
-	/home/pbin/muscript -midi seth > $@
+	/home/pbin/muscript_lua -midi seth > $@
 thomas.mid : thomas
-	/home/pbin/muscript -midi thomas > $@
+	/home/pbin/muscript_lua -midi thomas > $@
 
 play :
-	/home/pbin/muscript -midi ${PLAY} | aplaymidi -p TiM - &
+	/home/pbin/muscript_lua -midi ${PLAY} | aplaymidi -p TiM - &
 
 title.a4 : title
 	groff -ms title | ${BANNERISE} > $@
