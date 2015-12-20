@@ -71,7 +71,7 @@ I0.4  8va . . .
 I0.8   mp
 i0.8          cresc . . .
 =3 4/4 qua. rest' smq b [e~ g qua b] smq [e~ g b f#(1] [f#)1 b e~ f#]
-=3 4/4 <smb A A_>
+=3 4/4 smb <A A_>
 =4 4/4 min. A cro a
 /
 2 bars | 4 | 3 |
@@ -174,7 +174,7 @@ leftfoot (c) 1994 Peter J Billam
 /
 2 bars | 1 | 1 |
 |
-il0.6 .04 20
+il0.8 .02 20
 =1 tenor qua [eb(1 qua. eb)1] qua [d(1 qua. d)1] qua [c(1 qua. c)1]
 =2 treble min// [G A_]
 I0.8 .02 f
@@ -208,7 +208,7 @@ I0.15 .95 f
  qua. rest, qua [A_ qua. A_]
 =3 smb <C# E B'>
 I0.8 .95 ff
-=4 <smq A e'> smq rest <A e'> <A e'> rest qua rest qua. rest qua rest [d' smq B]
+=4 smq <A e'> smq rest <A e'> <A e'> rest qua rest qua. rest qua rest [d' smq B]
 =4 smb A_)1
 =5 min d# cro A qua [d~n smq b]
 |
@@ -464,7 +464,7 @@ I0.2     Timpani
 =2 bass 9/16 cha1 vol40 qua [G smq G G] qua [G smq G G G]
 I0.8          pp
 =3 treble 9/16 cha4 qua rest' qua e qua. [f qua e]
-=3 treble 9/16 <min c# c~#>
+=3 treble 9/16 min <c# c~#>
 I0.8          f
 =4 bass 9/16 cha4 min <e c~# e~>
 r0.8        *P_
@@ -474,7 +474,7 @@ i0.1 .80 pizzicato
 il0.3 50
 =1 min rest smq rest
 =2 qua [G smq G G G] qua [G smq G G]
-=3 <min e' a' a~'>
+=3 min <e' a' a~'>
 =3 qua rest, qua. rest, cro <E,(4 cn(2 e(1>
 =4 min a~
 =5 qua [G smq d' c A] qua. [G smq A]
@@ -501,7 +501,7 @@ I0.8 pp
 =2 5/8 cro G qua [d' G smq d' G]
 =3 5/8 min <G,(1 g(3> qua <G,)1 g)3>
 =4 5/8 cro rest,, qua [d, G, smq d, G,]
-=4 5/8 <min Bb bb'>
+=4 5/8 min <Bb bb'>
 =5 5/8 cro g qua d~ cro g
 |
 =1 min rest qua rest
@@ -609,7 +609,7 @@ il0.5 .04 65
 =1 qua rest qua. [c smq A,] qua. [B smq A,]
 =2 vol80 qua d' qua. [G smq G] qua. [d' smq d']
 =3 min <A,(2 a(4> qua <A,)2 a)4>
-=4' <min d f a d~>
+=4' min <d f a d~>
 =4, cro. rest,, qua. [d smq f]
 =5 qua [g qua. g] [g~ qua c~]
 /
@@ -618,14 +618,14 @@ il0.5 .04 65
 =1 tenor min Ab qua rest
 =2 bass qua d, qua. [f smq f] qua [d, smq f d,]
 =3 treble min <c(2 ab(4 c~(3> qua <c)2 ab)4 c~)3>
-=4 bass <min ab' c~' a~b'>
+=4 bass min <ab' c~' a~b'>
 =4 bass qua rest cro f qua [d, smq f d,]
 =5 bass8vab qua d~ cro. f~ qua rest
 |
 =1 qua. [Bb smq c] qua [A, Bb] smq [A, c]
 =2 vol90 qua. [f smq d,] qua [G d'] smq [G d']
 =3 min <G,(2 c(1 g(3> qua <G,)2 c)1 g)3>
-=4 <min g' c~'>
+=4 min <g' c~'>
 =4 qua. [fr smq d,] qua [G d'] smq [G d']
 =5 min rest qua rest
 i0.2    arco . . .
@@ -1171,7 +1171,7 @@ I0.8 .45 p
 i0.8 .55 ma distinto
 =3 treble cha0 min E-tr smq rest
 =4 treble cha4 cro <C Dx E> qua. [<C Dx E> qua <C Dx E>]
-=5 bass cha4 <cro g' bb'>  qua. [<g' a'x> qua <g' bb'>]
+=5 bass cha4 cro <g' bb'>  qua. [<g' a'x> qua <g' bb'>]
 =5 bass min C, smq rest,
 =6 bass8vab cha5 min c)2 smq rest
 i0.1                        arco . . .
@@ -1336,7 +1336,7 @@ I0.3        8va . .
 =1 min rest cro B
 =2 qua [f# smq A, f# qua A,] smq [e qua c# e smq c#]
 =3 smq3 [B' B_ B']  [F#, f# F#,] qua3 [A smq3 A] [E e' E] qua3 [B smq3 B]  [C# c#' C#]
-=4 <min. B_ cro B'(1> min B')1-tr
+=4 min. <B_ cro B'(1> min B')1-tr
 =5 qua [a smq f~# a qua f~#]  smq [c~# qua e~ c~# smq e~]
 =6 min e~ cro f~#
 /
@@ -1432,7 +1432,7 @@ i0.8                    dim . . .
 I0.65                   8va
 =4 min rest' <Eb eb' e~b'>
 =4 smb Cr
-=4 <smb F_(2 B_b(4 F)1 Ab)3> <Eb(5 eb'(7 e~b'(9>
+=4 smb <F_(2 B_b(4 F)1 Ab)3> <Eb(5 eb'(7 e~b'(9>
 =5 tra-12 smb <B_b(2 Bb(4>
 =6 cha5 smb Bb(1
 i0.2                     dim . . .
