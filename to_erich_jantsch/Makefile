@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 NORMALIZE = /usr/bin/normalize-audio
 COMPD = /home/pjb/www/mus/comp
 A4D = ${COMPD}/a4
@@ -24,6 +24,7 @@ dist:
 	upload ${USD}/${PIECE}.pdf
 
 ${A4D}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${BACKPAGE}
+	groff -ms title | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 - ${BACKPAGE} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -

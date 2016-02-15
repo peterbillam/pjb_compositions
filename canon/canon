@@ -3112,13 +3112,17 @@ il0.6 .06 40
 pagenum
 innerhead Canon  at seven semitones
 leftfoot (c) 2010 Peter J Billam
+
+/
+4 bars | 10 10 10 10 10 9 | 11 10 10 10 10 10 \
+ | 15 10 10 10 10 10 | 11 10 10 10 10 10 |
 |
 =1 C-. A-emph D#-. c-emph 4 E-. A-emph
 =2 g#-. f~-emph 4 a-. d~-emph c~-. e~b-emph
 =3 4 d-. g-emph f-. ab-emph 2 f# treble
 |
-il0.7 .06 45
-=1 4 G-. Bb-emph 2 G# 4. A 8 c(1
+il0.7 .40 45
+=1 4 G-. Bb'-emph 2 G# 4. A 8 c(1
 =2 2 c~# treble 4. D F 4 Bb'(2
 =3 4. G_ B_b D# F#
 |
@@ -3131,7 +3135,7 @@ il0.7 .06 45
 =3 4. F D 2 Eb 4 C
 
 /
-4 bars | 72 | 72 | 72 | 68 |
+4 bars | 12 12 12 12 12 10 | 15 12 12 12 12 12 | 72 | 12 12 12 12 10 10 |
 |
 =1 4 e)1 2 f 4 d eb c(1
 =2 4 Bb')2 G Ab 2 F 4 F#(2

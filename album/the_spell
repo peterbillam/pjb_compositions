@@ -13,7 +13,7 @@ midi channel 0 patch 82
 | .53
 =1 treble 5/4 cha0 leg105 4 rest
 =2 treble 5/4 cha0 leg105 4 E
-r0.5 .10 The
+r0.5 .25 The
 =3 treble 5/4 cha0 leg105 8 rest, G_
 r0.3 .60 The
 =4 treble8vab  5/4 cha0 leg105 8 rest G
@@ -33,13 +33,13 @@ r0.2 .42 The
 =1' 4/4 2 rest 8 <A(2 c> 4 <A)2 c#> 8 rest
 r0.5 .52 car
 =2 4/4 2 F# 4 rest E
-r0.5 .06 hot .75 they're
+r0.5 .09 hot .75 they're
 =3 4/4 4 C# rest rest 8 rest G_
-r0.3 .06 hot .75 they're
+r0.3 .09 hot .75 they're
 =4 4/4 4 A rest rest 8 rest G
-r0.5 .06 hot .75 they're
+r0.5 .09 hot .75 they're
 =5 4/4 4 rest 2. A
-r0.2 .27 car
+r0.2 .32 car
 | 2.5
 =1 5/4 2. rest 2 rest
 =2 5/4 2. D# 2 E
@@ -49,7 +49,7 @@ r0.3 .04 on  the  run .60 they're on the
 =4 5/4 8 [A A] 4 A rest 8 rest [G A A]
 r0.5 .04 on  the  run .60 they're on the
 =5 5/4 2 rest 2. A
-r0.2 .45 is
+r0.2 .47 is
 | 2.0
 =1' 4/4 2 rest 4. <A c#> 8 rest
 r0.6 .52 run
@@ -69,7 +69,7 @@ r0.2 .32 hot
 il0.7 .05 5
 =1 5/4 2. rest 2 rest
 =2 5/4 2. D# 2 E
-r0.5 .06 nos .33 - .60 trils
+r0.5 .09 nos .33 - .60 trils
 =3 5/4 8 [Db C] 4 Db rest 8 rest [A_b Db C]
 r0.4 .03 nostrils wide .61 with wine and
 =4 5/4 8 [A A] 4 A rest 8 rest [G# A A]
@@ -101,13 +101,13 @@ r0.5 .04 nostrils wide .62 with wine and
 r0.2 .43 and
 | 2.0
 =1 4/4 2 rest 4. <B c#x> 8 rest
-r0.5 .50 fun
+r0.5 .48 fun
 =2 4/4 2 A 4 rest F#
-r0.5 .06 fun .72 The
+r0.5 .09 fun .72 The
 =3 4/4 4 Eb rest rest 8 rest B_b
-r0.4 .06 fun .85 The
+r0.4 .09 fun .85 The
 =4' 4/4 4 B rest rest 8 rest Bb
-r0.5 .05 fun .85 The
+r0.5 .09 fun .85 The
 =5 4/4 4 rest 2. B
 r0.2 .29 fun
 
@@ -118,7 +118,7 @@ r0.2 .29 fun
 =1 5/4 2. rest 2 rest
 bl0.10 .92 ,
 =2 5/4 2. D# 2 E
-r0.5 .06 road .60 sings
+r0.5 .08 road .60 sings
 =3 5/4 8 [Db C] 4 Db rest 8 rest [A_b Db C]
 r0.4 .05 road sings un .40 - .65 derneath the
 =4 5/4 8 [A A] 4 A rest 8 rest [G# A A]
@@ -131,12 +131,12 @@ il0.7 .05 10
 =1' 4/4 2 rest 4. <A c#> 8 rest
 r0.6 .50 sun
 =2 4/4 2. F# 4 E
-r0.5 .07 un .37 - .74 der .90 -
+r0.5 .09 un .37 - .74 der .90 -
 =3 4/4 4 Db rest rest 8 rest A_b
-r0.4 .07 sun
+r0.4 .09 sun
 r0.3 .82 the
 =4 4/4 4 A rest rest 8 rest G#
-r0.5 .07 sun .82 the
+r0.5 .09 sun .82 the
 =5 4/4 4 rest 2. A
 r0.1 .28 road
 | 2.5
@@ -153,12 +153,12 @@ r0.2 .44 the
 =1 4/4 2 rest 8 <B(2 d> 4 <B)2 d#> 8 rest
 r0.5 .52 sun
 =2 4/4 2 G# 4 rest F#
-r0.5 .07 sun .73 The
+r0.5 .09 sun .73 The
 =3 4/4 4 D# rest rest 8 rest A_#
-r0.5 .07 sun
+r0.5 .09 sun
 r0.2 .85 The
 =4' 4/4 4 B rest rest 8 rest A#
-r0.5 .07 sun .85 The
+r0.5 .09 sun .85 The
 =5 4/4 4 rest 2. B
 r0.1 .29 sun
 
@@ -435,7 +435,7 @@ r0.1 .44 close
 =1 4/4 2 Ab 4 rest Gb
 r0.6 .07 close .68 they're
 =2 4/4 2 rest 4. Eb 8 rest
-r0.5 .53 close
+r0.5 .49 close
 =3 4/4 4 Eb rest rest 8 rest A_
 r0.4 .07 close .76 they're
 =4' 4/4 4 B rest F 8 rest A

@@ -53,7 +53,7 @@ r0.5 .75 The
 
 |
 =1  2. A  4 G
-r0.5 .02 soil .70 will
+r0.5 .02 soil .67 will
 =2' 2. B  4 Bb
 =3  2. f  4 e
 | 2.70
@@ -194,7 +194,8 @@ r0.5 .34 the
 =2 4 rest 2 e
 =3 4 rest 2 g#
 
-6 systems /17-22-17-20-17/
+6 systems /17-22-17-20-17/ 17-22-17-20-17/ 17-22-17-20-17 \
+ / 17-22-17-19-17/ 17-22-17-18-17/ 17-22-17-20-17/
 pagenum
 innerhead Peter Billam,  Album for Choir,  Only the Glories of the Night
 leftfoot (c) 2015 Peter J Billam
@@ -203,13 +204,13 @@ leftfoot (c) 2015 Peter J Billam
 7 bars | 4/4 36 | 36 | 48 | 36 | 3/4 36 | 4/4 48 | 3/4 36 |
 | 2.6
 =1 4/4 1 d
-r0.5 .06 deep
+r0.5 .14 deep
 =2 4/4 1 e
 =3 4/4 1 f#
 |
 il0.6 .20 35
 =1 1 Bb
-r0.5 .01 far
+r0.5 .03 far
 =2 1 e
 =3 1 g#
 |
@@ -244,7 +245,7 @@ r0.5 .11 thousand .73 of
 7 bars | 4/4 48 | 3/4 36 | 4/4 48 | 3/4 36 | 36 | 36 | 36 |
 | 2.6
 =1 4/4 2 A 4 G A
-r0.5 .08 mil  -  lion .76 will
+r0.5 .14 mil  -  lion .76 will
 =2 4/4 2 c# 4 B c#
 =3 4/4 2 g 4 a g
 | 1.95
@@ -300,17 +301,18 @@ r0.5 .34 as
 =3 4 rest 2 f#
 | 2.6
 =1 4/4 2. A 4 G#
-r0.5 .08 vast .78 as
+r0.5 .13 vast .77 as
 =2 4/4 2. eb 4 d
 =3 4/4 2. f# 4 g#
 |
 =1 2. F# 4 Gn
-r0.5 .01 all .75 our
+r0.5 .04 all
+r0.4 .73 our
 =2 2. c# 4 B
 =3 2. a 4 d#
 |
 =1 4 Ab 2. D
-r0.5 .01 fol - ly,
+r0.4 .06 folly,
 =2 4 c  2. Bb
 =3 4 e  2. e
 |
@@ -329,33 +331,33 @@ r0.5 .04 ga .40 - .75 la .95 -
 8 bars | 48 | 48 |
 |
 =1 2. A 4 G
-r0.5 .03 xy .75 will
+r0.5   - .04 xy .67 will
 =2 2. B 4 Bb
 =3 2. d 4 d
 |
 =1 2. F 4 G
-r0.5 .03 turn , .72 ma -
+r0.5 .03 turn , .70 ma -
 =2 2. A 4 B
 =3 2. eb 4 eb
 |
 =1 2. A 4 G
-r0.5 .03 je .40 - .75 stic,
+r0.5 .08 je .40 - .70 stic,
 =2 2. c# 4 B
 =3 2. eb 4 f
 |
 =1 4 rest 2 F  4 A
-r0.5 .26 slow  -  ly
+r0.5 .25 slow - ly
 =2 4 rest 2 B  4 B
 =3 4 rest 2 eb 4 eb
 | 1.95
 il0.7 .20 60
 =1 3/4 2 Ab 4 G
-r0.5 .14 in .39 - .65 ward
+r0.5 .22 in .45 - .65 ward
 =2 3/4 2 B  4 B
 =3 3/4 2 f  4 g
 |
 =1 2 F# 4 G
-r0.5 .03 to .75 be
+r0.5 .05 to .68 be
 =2 2 B  4 B
 =3 2 ab 4 g
 |
@@ -400,11 +402,11 @@ r0.5 .03 years, .75 and
 =3 2 e  4 rest eb
 |
 =1 2 A# d
-r0.5 .03 la .30 - .50 ment
+r0.5 .05 la .30 - .48 ment
 =2 2 G  A#
 =3 2 d f#
 |
-il0.7 .20 70
+il0.5 .10 70
 =1 1 c#(1
 r0.5 .03 much,
 =2 1 c#(1
@@ -418,12 +420,12 @@ r0.5 .03 much,
 | 2.8
 #i0.5 .60 165 sec
 =1 4 c#)1 2 rest 4 G
-r0.5 .75 and
+r0.5 .71 and
 =2 4 c#)1 2 rest 4 eb
 =3 4 g)1  2 rest 4 a
 |
 =1 2. A 4 G
-r0.5 .03 fear .75 for
+r0.5 .03 fear .70 for
 =2 2.. eb 8 rest
 =3 2.. b  8 rest
 |
@@ -439,7 +441,7 @@ r0.5 .03 meet .75 a
 | 3.1
 il0.5 .25 75
 =1 2. A 4 G
-r0.5  .03 li .40 - .70 ving
+r0.5  .07 li .40 - .68 ving
 =2 2. c 4 c
 =3 2. a 4 a
 | 3.3

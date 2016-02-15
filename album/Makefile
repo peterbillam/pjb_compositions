@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 NORMALIZE = /usr/bin/normalize-audio
 COMPD = /home/pjb/www/mus/comp
 A4D = ${COMPD}/a4
@@ -50,6 +50,8 @@ p3.a4 : p3
 	groff -ms p3 | ${BANNERISE} > $@
 play :
 	muscript -midi ${PLAY} | midisox_lua - -d stat # trim 60 fade 0 20 0
+playall :
+	muscript -midi ${PIECE} | midisox_lua - -d stat
 edit :
 	vi ${PLAY}
 	make play dev

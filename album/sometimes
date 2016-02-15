@@ -16,7 +16,7 @@ r0.3 .07 Some -
 =3 bass       cha0 
 | 2.4
 =1 4 C# 8 D 4 E 8 D 4. G# rest
-r0.3 .03 times I think I do
+r0.3 .03 times I  think  I   do
 =2 2. rest 4. rest c
 r0.5 .75 I
 =3 2. rest 4. rest e
@@ -24,11 +24,11 @@ r0.5 .75 I
 =1 2. rest 4. rest E
 r0.3 .71 Some -
 =2 4. db 4 db 8 c(1 4. c)1 rest
-r0.5 .01 think .27 I .43 do
+r0.5 .01 think .27 I .45 do
 =3 4. f  4 f  8 e(1 4. e)1 rest
 |
 =1 4 A 8 G 4 F# 8 G 4. D# rest
-r0.3 .03 times I think   I  don't
+r0.3 .03 times I  think  I  don't
 =2 2. rest 4. rest A
 r0.5 .75 I
 =3 2. rest 4. rest f 
@@ -53,7 +53,7 @@ r0.4 .81 I
 =1 2. rest 4. rest E
 r0.4 .74 Some -
 =2 4. c# 4 d 8 c#(1 4. c)1 rest
-r0.5 .01 think .25 I .41 will
+r0.5 .01 think .27 I .41 will
 =3 4. f  4 f# 8 g(1 4. g)1 rest
 |
 =1' 4 A 8 G 4 Fn 8 G 4. B rest
@@ -65,7 +65,7 @@ r0.5 .81 I
 =1 2. rest 4. rest F#
 r0.4 .71 Some -
 =2 4. d# 4 e 8 d#(1 4. d)1 rest
-r0.6 .01 think .25 I .41 won't
+r0.6 .01 think .27 I .41 won't
 =3 4. g  4 g# 8 a(1 4. a)1 rest
 |
 =1' 4 B 8 A 4 G 8 A 4 Fn 8 F 4. rest
@@ -190,7 +190,7 @@ r0.7  .05 bottle .29 of .46 wine .80 bot .96 -
 |
 =1 2. B')2 rest
 =2 4 f)1 8 e 4. eb{'1 d}'1(1 4 d)1 8 c#(1
-r0.5 .05 - .17 tle  of .86 wine
+r0.5 .05 - .17 tle    of .86 wine
 =3 2. g}1 4. gb{1 4 f}1 8 e(1
 r0.2 .54 of .90 wine
 
@@ -240,7 +240,7 @@ r0.7 .66 as  fast .92 as
 r0.01 .66 as  fast .92 as
 |
 =1 4 rest 8 G 4 G# 8 A# 4 B' 8 c#(1 4. c)1(1
-r0.6 .18 as fast .43 as .54 I .69 can
+r0.6 .18 as  fast .43 as .54 I .69 can
 =2 4. f rest 4 rest 8 f(1 4. f)1(1
 r0.7 .04 I .69 can
 =3 4. c~# b  4 rest 8 a(1 4. a)1(1

@@ -1,5 +1,6 @@
-2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
-          / 19-22-19-22-19-22-19-22-19-22-19 /
+3 systems / 18-20-18-19-18-19-18-19-18-20-18 \
+          / 18-22-18-19-18-19-18-19-18-19-18 \
+          / 18-22-18-19-18-19-18-19-18-19-18 /
 title To Erich Jantsch
 pagenum
 innerhead Peter Billam
@@ -11,7 +12,8 @@ midi channel 4 patch 74 pan 42
 midi channel 5 patch 74 pan 90
 midi channel 6 patch 74 pan 74
 /
-4 bars | 12/8 48 | 48 | 48 | 48 |
+4 bars | 12/8 30 36 | 8 6 6 6 6 9 6 6 9 6 6 5 \
+ | 6 6 6 9 6 6 6 9 9 6 6 5 | 6 6 6 7 6 6 6 6 6 6 6 5 |
 | 2.0
 =1 treble8va 12/8 cha1 1. rest
 =2 treble    12/8 cha2 1 rest 4 rest c
@@ -41,7 +43,8 @@ midi channel 6 patch 74 pan 74
 =5 1. rest
 =6' 4. d 8 B 4 d 8 [A B] 4 F A
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 6 6 6 6 6 6 6 6 6 5 5 | 6 6 6 9 6 6 6 9 6 6 6 5 \
+ | 6 6 9 7 6 6 6 6 6 6 9 5 | 6 9 6 9 6 6 9 6 7 6 6 5 |
 |
 il0.7 .08 5
 =1 8 [f d] [g{1 f}1 d c] [f d] g 4 f 8 d
@@ -71,13 +74,9 @@ il0.7 .08 5
 =4 1. rest
 =5' 4. F# Bn G# rest
 =6 4. f# 8 e 4 f# 8 [e f#] 4 B c#
-
-2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
-          / 19-22-19-22-19-22-19-22-19-22-19 /
-pagenum
-innerhead To Erich Jantsch, 1988, Peter Billam
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 10 10 6 7 5 5 10 10 6 5 5 5 | 10 6 6 7 6 6 6 6 6 6 6 5 \
+      | 6 6 6 6 6 6 6 6  6 6 6 5 | 10 10 10 10 6 6 10 10 10 10 6 5 |
 |
 =1 8 [e d] [e d] 4 B F# rest rest
 =2 8 [e f# g#] 4. b 8 [f# g# b] 4. d~
@@ -108,8 +107,17 @@ bl0.4 .78 ,
 =4 8 [f g] [f g] 4. f 8 g [f g] 4 f
 =5 4. G B' A rest
 =6 4 c# a 1 d#
+
+3 systems / 18-21-18-19-18-20-18-19-18-19-18 \
+          / 18-19-18-20-18-19-18-20-18-19-18 \
+          / 18-19-18-19-18-19-18-19-18-19-18 /
+pagenum
+innerhead To Erich Jantsch, 1988, Peter Billam
+leftfoot (c) 1988 Peter J Billam
+
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 10 10 10 10 9 10 6 10 10 6 10 5 | 10 10 10 6 6 10 6 10 6 6 5 5 \
+ | 6 6 6 6 6 6 6 7 6 6 6 5 | 6 6 6 6 6 6 6 6 6 7 6 5 |
 |
 =1 8 [d# c#] [d# c# B] [d# c# B] 4 A rest
 =2 8 [b a] [b a] 4 f# 8 [b a] 4 f# d#
@@ -139,13 +147,9 @@ il0.9 .12 15
 =4 2 rest 4 rest 4. G 8 A [c d]
 =5 2 rest 4 rest c A G
 =6 1 F 2 rest
-
-2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
-          / 19-22-19-22-19-22-19-22-19-22-19 /
-pagenum
-innerhead To Erich Jantsch, 1988, Peter Billam
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 10 6 10 6 5 6 10 6 10 6 5 | 10 10 10 10 6 6 6 10 10 10 6 5 \
+ | 6 6 8 6 6 6 10 6 9 6 6 5 | 6 6 6 10 6 6 6 10 10 6 6 5 |
 |
 =1' 4 B 8 [A G] 4 F 8 [G A] 4 B 8 [A G]
 =2 2 eb 4 f 2 e 4 rest
@@ -176,7 +180,8 @@ il0.7 .06 20
 =5 4. c 8 d 4. eb 8 d 4. c 8 d
 =6 2. c 4 eb f g
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 6 6 6 6 7 6 6 7 6 6 6 | 6 6 6 6 6 5 6 6 6 5 6 6 \
+ | 6 5 6 6 6 6 6 6 6 5 6 5 | 6 6 6 9 6 6 6 9 6 6 6 6 |
 |
 =1 4 c 8 A 4 G 8 A 4 c 8 A 4 c 8 A
 =2 4. c 8 d 4. f 8 d 4. c 8 d
@@ -206,12 +211,16 @@ il0.7 .06 20
 =5 4 c A F# A c A
 =6 2 f# 4 e d 2 c
 
-2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
-          / 19-22-19-22-19-22-19-22-19-22-19 /
+3 systems / 18-20-18-19-18-20-18-19-18-19-18 \
+          / 18-19-18-20-18-20-18-19-18-19-18 \
+          / 18-20-18-19-18-20-18-19-18-19-18 /
 pagenum
 innerhead To Erich Jantsch, 1988, Peter Billam
+leftfoot (c) 1988 Peter J Billam
+
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 6 10 10 7 6 10 10 6 6 10 5 | 10 6 10 10 7 6 10 6 10 10 10 5 \
+ | 7 6 10 7 10 6 6 6 7 6 6 6 | 7 10 6 10 6 6 6 7 6 10 6 6 |
 |
 il0.7 .06 25
 =1 4 E 8 [F# G#] 4 Bb 8 [G# F#] 4 E 8 [F# G#]
@@ -242,7 +251,8 @@ il0.7 .06 25
 =5 4 rest F# A F# rest A
 =6 2. f# 4 e 2 d
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 6 7 6 6 6 6 6 7 6 6 6 | 6 6 6 6   6 6 6 6 6 6 6 6 \
+       | 7 6 6 7 6 6 6 6 7 6 6 6 | 10 9 6 9  6 9 9 6 10 9 6 6 |
 |
 =1 4 E 8 G 4 A 8 G 4 E 8 G 4 A 8 G
 =2 4 d rest 1 rest
@@ -272,13 +282,9 @@ il0.7 .30 30
 =4 8 [Bb rest d f] [g a g eb] d rest rest F
 =5' 4 rest G Bb G rest Bb
 =6 1. rest
-
-2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
-          / 19-22-19-22-19-22-19-22-19-22-19 /
-pagenum
-innerhead To Erich Jantsch, 1988, Peter Billam
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 10 6 6 10 6 10 6 10 6 6 7 | 10 6 6 6 9 6 6 6 6 6 10 8 \
+ | 10 6 6 6 6 6 6 6 6 6 6 6 8 | 10 6 6 6 6 6 6 6 10 6 6 5 |
 |
 =1 vol80 8 [Ab D Ab] rest rest [Ab D Ab] [D F] [f d]
 =2 vol125 leg100 1 c(1 4.. c)1{1 16 d}1{1
@@ -286,7 +292,7 @@ i0.9 .03 cantabile . . .
 =3 vol80 8 c rest rest d [c d c] rest 4. rest 8 d
 =4' vol80 8 [D F Ab F] [D rest, D F] [A Bb A F]
 =5 vol80 4 [Ab f c d Bb F
-=6' vol85 4 Bb 8 [F B] [c d] c Bb] 4 F rest
+=6' vol85 4 Bb 8 [F B] [c d] [c Bb] 4 F rest
 |
 =1 8 [G Eb G] rest rest [G D G] [C F] [f d]
 =2 1 c}1(1 4 c)1{1 16 [d 8 c 16 Bb]
@@ -309,8 +315,17 @@ il0.7 .30 35
 =4' 8 [G Bb c A] G rest rest E [G A G] rest
 =5 4 F G A c E G
 =6 4 c 8 [Bb c] [d g] [e d] 4 c rest
+
+3 systems / 18-19-18-19-18-19-18-19-18-20-18 \
+          / 18-22-18-19-18-19-18-19-18-19-18 \
+          / 18-22-18-22-18-20-18-19-18-19-18 /
+pagenum
+innerhead To Erich Jantsch, 1988, Peter Billam
+leftfoot (c) 1988 Peter J Billam
+
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 10 6 6  6 10 6 9  7 6 6 5 | 10 6 6 6  9 6 6 7  7 9 6 5 \
+ | 9 6 6 6 6 6 6 7 8 9 9 5 | 9 6 6 6 9 6 6 7 6 6 9.5 6 |
 |
 =1 8 [Bb' G Bb'] 4. rest 4 rest 8 F# [A, c d]
 =2 4. c{1 8 Bb 1 A}1
@@ -340,18 +355,14 @@ il0.7 .30 40
 =4 2 rest 4. rest 8 A B' 4. rest
 =5 4 rest d# c# d# rest B
 =6 8 bb 4. rest 2 rest 8 rest [bn b b]
-
-2 systems / 19-22-19-22-19-22-19-22-19-22-19 \
-          / 19-22-19-22-19-22-19-22-19-22-19 /
-pagenum
-innerhead To Erich Jantsch, 1988, Peter Billam
 /
-4 bars | 60 | 60 | 60 | 60 |
+4 bars | 6 6 6 6  6 6 6 7  6 6 6 6 | 6 6 6 6  6 6 6 7  6 6 6 6 \
+ | 6 6 9 6 6 6 6 6 6 6 9 6 | 6 6 6 6 6 6 6 6 6 6 9 6 |
 |
 =1 8 [Fn A F] 4. rest rest 4 rest 8 D
 =2 8 [f g a] 4. c~(1 8 [c~)1 a c~] [d~ c~ a]
-=3 vol120 leg100 8 [a g f] d c d] 4. f 8 [e d c]
-i0.9 .03 cantabile . . .
+=3 vol120 leg100 8 [a g f] [d c d] 4. f 8 [e d c]
+i0.8 .01 cantabile . . .
 =4 2 rest 4. rest 8 A 8 c 4. rest
 =5 4 rest f d f rest c
 =6 8 c~ 4 rest 4. rest rest 8 [d d d]
@@ -377,7 +388,8 @@ i0.9 .03 cantabile . . .
 =5 4 rest c~ a c~ rest g
 =6 8 f 4 rest 4. rest rest 8 [g g g]
 /
-4 bars | 60 | 60 | 60 | 60 ||
+4 bars | 6 6 10 6 6 6 10 6 10 10 10 6 | 7 7 7 6 6 6 6 6 6 6 6 6 \
+ | 10 6 6 6 6 6 6 6 7 7 7 7 | 10 6 10  10 8 10 6 6 10 10 10 6 ||
 |
 il0.7 .30 45
 =1' 8 [F B F] 4. rest rest 4 rest 8 E
@@ -411,4 +423,4 @@ i0.9 .03 cantabile . . .
 =3 8 [e d c] [Bb f# e] [d c g#] [fn Bn d]
 =4 4 Bb 2. ab 4 rest d
 =5 4 c Bb Ab 2 f# 4 fn
-=6 8 [Bb, c, d, e] [f# c, d e] 4 d Bn
+=6 8 [Bb c d' e'] [f# c, d e] 4 d Bn

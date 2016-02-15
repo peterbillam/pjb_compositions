@@ -507,7 +507,7 @@ il1.0 .09 20
 =2' leg110 vol70 2.. gb 4. f
 =2, leg110 vol70 4. Bb 4 A 4 G#(2 4. G)2
 | .76 .76 .77 .78 .89
-=1' 1 E 4 F
+=1' 1 En 4 F
 =1, 4 C)2 4. B_ 4. B_b(2 4 B_)2
 =2' 4 e(1 4. e)1 e 4 eb
 =2, 4 G# 4. A  Bb(2 4 B)2(2
@@ -719,7 +719,7 @@ il0.7 .10 40
 =1 4 G 8 [A Bb' G] 4 c# 8 Bb(1
 =2, 2 <er gl bb d~> 8 rest 4. <fr gx bbl d~b(1>
 | 1.1
-=1 5/8 4 Bb)1 8 [eb en c#]
+=1 5/8 4 Bb)1 8 [d# e c#]
 =2, 5/8 2 <elrr abxl bbl d~bl)1>
 | 1.76
 il0.7 .10 45
@@ -4521,7 +4521,7 @@ leftfoot (c) 2013 Peter J Billam
 =1, 16 [d c# d eb  d] 8 rest 16 [d  eb d] 8 rest 16 [d g d c#]
 =2' 8 rest 8. rest 16 [A_ A] 8. rest 16 [B_b Bb] 4 rest
 |
-=1, 16 [eb en g] rest [e a] rest [e  f# g g# a]  rest [f# gn a]
+=1, 16 [d# e g] rest [e a] rest [e  f# g g# a]  rest [f# gn a]
 =2' 8. rest 16 C  8 rest 16 c 8 rest 8. rest 16 Bb 8. rest
 /
 2 bars | 96 | 96 |
@@ -5662,7 +5662,7 @@ il0.3 .10 15
 =4  1 F_r)3
 /
 4 bars | 5.5 4 5 5.5 5 4 5 5.5 3 | 5 5 5 5 5 5 5 5 4 \
- | 4 5 5 5 5 5 5 4 3 | 5.5 5 5 5 5 5 5 5 3 |
+ | 4 5 5 5 5 5 5 5 3 | 5.5 5 5 5 5 5 5 5.3 3 |
 | 1.0
 I0.2 .01 f
 =1' treble cha0 leg110 vol100 16 [B_ C# D Cn C#] [Eb D Cn C#]
