@@ -22,7 +22,8 @@ dist:
 	upload ${USD}/${PIECE}.pdf
 	# upload ${MP3D}/${PIECE}.mp3
 
-${A4D}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE}.pdf : ${PIECE}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} title | groff -ms | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 p2.a4 p3.a4 - p21.a4 ${BACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
@@ -43,6 +44,7 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 
 ${PIECE}.a4 : ${PIECE}
 	${MUSCRIPT} -a4 ${PIECE} > $@
+	pkill -HUP gv
 title.a4 : title
 	${UTF2ISO} title | groff -ms | ${BANNERISE} > $@
 p2.a4 : p2
@@ -52,20 +54,5 @@ p3.a4 : p3
 p21.a4 : p21
 	${UTF2ISO} p21 | groff -ms | ${BANNERISE} > $@
 play :
-	${MUSCRIPT} -midi ${PIECE} | aplaymidi - &
-
-llanto.a4 : llanto ${MUSCRIPT}
-	${MUSCRIPT} llanto > $@
-rosa.a4 : rosa ${MUSCRIPT}
-	${MUSCRIPT} rosa > $@
-palomas.a4 : palomas ${MUSCRIPT}
-	${MUSCRIPT} palomas > $@
-llanto.mid : llanto ${MUSCRIPT}
-	${MUSCRIPT} -midi llanto > $@
-rosa.mid : rosa ${MUSCRIPT}
-	${MUSCRIPT} -midi rosa > $@
-palomas.mid : palomas ${MUSCRIPT}
-	${MUSCRIPT} -midi palomas > $@
-
-
+	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat
 
