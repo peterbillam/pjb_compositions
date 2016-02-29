@@ -54,5 +54,5 @@ p3.a4 : p3
 p21.a4 : p21
 	${UTF2ISO} p21 | groff -ms | ${BANNERISE} > $@
 play :
-	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat
+	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat trim 150
 
