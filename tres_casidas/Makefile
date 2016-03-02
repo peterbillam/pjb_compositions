@@ -54,5 +54,7 @@ p3.a4 : p3
 p21.a4 : p21
 	${UTF2ISO} p21 | groff -ms | ${BANNERISE} > $@
 play :
-	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat trim 150
+	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat trim 100 fade 0 18 0
+playall :
+	grep -v 'midi off' ${PIECE} | ${MUSCRIPT} -midi | midisox_lua - -d stat
 

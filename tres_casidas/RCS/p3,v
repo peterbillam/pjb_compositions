@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	pjb:1.1;
+	pjb:1.2;
 comment	@# @;
 
+
+1.2
+date	2016.03.02.23.05.27;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	98.01.02.10.15.07;	author pjb;	state Exp;
@@ -17,9 +22,9 @@ desc
 @
 
 
-1.1
+1.2
 log
-@Casida de la rosa moved to page 2
+@add the 2016 revision
 @
 text
 @.\" header = mushead
@@ -29,7 +34,7 @@ text
 .pl 11.7i
 .LP
 \&
-.sp 1c
+.sp 1.2c
 .IP \  4.5c
 \f3\s+2Casida de las palomas oscuras\s0\fP
 .sp 0.4c
@@ -44,9 +49,9 @@ la otra la luna.
 .br
 `Vecinitas' les dije,
 .br
-`\*? do\*'nde esta\*' mi sepultura ?'
+`\*? dónde está mi sepultura ?'
 .br
-`En mi cola' dijo\*' el sol.
+`En mi cola' dijó el sol.
 .br
 `En mi garganta', dijo la luna.
 .br
@@ -54,7 +59,7 @@ Y yo que estaba caminando
 .br
 con la terra por la cintura
 .br
-vi dos a\*'guilas de nieve
+vi dos águilas de nieve
 .br
 y una muchacha desnuda.
 .br
@@ -62,11 +67,11 @@ La una era la otra
 .br
 y la muchacha era ninguna.
 .br
-`Vecinitas' les dije,
+`Aguilitas' les dije,
 .br
-`\*? do\*'nde esta\*' mi sepultura ?'
+`\*? dónde está mi sepultura ?'
 .br
-`En mi cola' dijo\*' el sol.
+`En mi cola' dijó el sol.
 .br
 `En mi garganta', dijo la luna.
 .br
@@ -79,29 +84,87 @@ La una era la otra
 y las dos eran ninguna.
 .sp 0.7c
 .IP \  8c
-\f3Federico\ Garci\*'a\ Lorca\fP
-.sp 3.0c
+\f3Federico\ García\ Lorca\fP
+.sp 1.6c
 .IP \  2.0c
-Federico Garci\*'a Lorca's last collection of poems,
-\f2Diva\*'n del Tamarit\fP,
+Federico García Lorca's last collection of poems,
+\f2Diván del Tamarit\fP,
 was written in 1934 and
 would have been published in 1936 by the University of Granada
 had not the Civil War intervened;
 it was published posthumously by Colombia University in 1940.
-\f2Diva\*'n\fP is an Arabic word
+\f2Diván\fP is an Arabic word
 meaning the poet's collected verse,
 generally arranged in alphabetical order of the rhymes.
 \f2Tamarit\fP was the name of a \f2huerta\fP, or small farm,
-which belonged to the father of one of Lorca's favourite cousins;
+which belonged to the father of one of Lorca's favourite cousins
+and enjoyed wonderful views of the Sierra Nevada and the plain of the Vega;
 \f2tamarit\fP is also an Arabic word, meaning "abundant in dates".
+
 .IP \  2.0c
-\f2Diva\*'n del Tamarit\fP consists of twelve \f2Gacelas\fP
+\f2Diván del Tamarit\fP consists of twelve \f2Gacelas\fP
 and nine \f2Casidas\fP; 
 \f2Gacela\fP derives from the Persian \f2ghazal\fP,
 meaning a short love poem,
 and \f2Casida\fP derives from the Arabic \f2qasida\fP,
 meaning a longer poem with a particular structure featuring a single rhyme.
+
 .IP \  2.0c
+.nh
 These are \f2Casidas\fP numbers \f2II\fP, \f2VII\fP, and \f2IX\fP.
+The translations on page 20 are by the composer.
+The setting offered here is a 2016 revision of the 2005 revision
+of the original 1997 composition.
+@
+
+
+1.1
+log
+@Casida de la rosa moved to page 2
+@
+text
+@d8 1
+a8 1
+.sp 1c
+d23 1
+a23 1
+`\*? do\*'nde esta\*' mi sepultura ?'
+d25 1
+a25 1
+`En mi cola' dijo\*' el sol.
+d33 1
+a33 1
+vi dos a\*'guilas de nieve
+d41 1
+a41 1
+`Vecinitas' les dije,
+d43 1
+a43 1
+`\*? do\*'nde esta\*' mi sepultura ?'
+d45 1
+a45 1
+`En mi cola' dijo\*' el sol.
+d58 2
+a59 2
+\f3Federico\ Garci\*'a\ Lorca\fP
+.sp 3.0c
+d61 2
+a62 2
+Federico Garci\*'a Lorca's last collection of poems,
+\f2Diva\*'n del Tamarit\fP,
+d67 1
+a67 1
+\f2Diva\*'n\fP is an Arabic word
+d71 2
+a72 1
+which belonged to the father of one of Lorca's favourite cousins;
+d74 1
+d76 1
+a76 1
+\f2Diva\*'n del Tamarit\fP consists of twelve \f2Gacelas\fP
+d82 1
+d84 1
+d86 3
+a88 1
 The translation on page 21 is by the composer.
 @

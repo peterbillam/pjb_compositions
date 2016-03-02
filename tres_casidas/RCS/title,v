@@ -1,10 +1,15 @@
-head	1.5;
+head	1.6;
 access;
 symbols;
 locks
-	pjb:1.5;
+	pjb:1.6;
 comment	@# @;
 
+
+1.6
+date	2016.03.02.23.05.44;	author pjb;	state Exp;
+branches;
+next	1.5;
 
 1.5
 date	98.08.17.05.30.52;	author pjb;	state Exp;
@@ -37,9 +42,9 @@ desc
 @
 
 
-1.5
+1.6
 log
-@date to august 1998
+@add the 2016 revision
 @
 text
 @.\" header = mushead
@@ -49,15 +54,48 @@ text
 .pl 11.7i
 .LP
 \&
-.sp 2.8c
+.sp 6.5c
 .ce 100
-\f3\s+9\s+7Tres Casidas del Diva\*'n del Tamarit\s-7\s-9\fP
+\f3\s+9\s+7Tres Casidas del Diván del Tamarit\s-7\s-9\fP
 .sp 3.3c
+\f2\s+9poems by Federico García Lorca\s0\fP
+.sp 1.3c
+\f2\s+9music by Peter Billam\s0\fP
+.sp 1.8c
+\f3\s+4for Voice and Piano\s0\fP
+.sp 3.5c
+\(co Peter J Billam, 1997, 2005, 2016
+.sp 0.7c
+\s-1This score is offered under the \f2Creative Commons
+Attribution 4.0 International\fP licence; see \f2creativecommons.org\fP
+The copyright owner remains the composer, Peter Billam.\s0
+.sp 0.7c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.6c
+\f2www.pjb.com.au\fP
+@
+
+
+1.5
+log
+@date to august 1998
+@
+text
+@d8 1
+a8 1
+.sp 2.8c
+d10 1
+a10 1
+\f3\s+9\s+7Tres Casidas del Diva\*'n del Tamarit\s-7\s-9\fP
+d12 2
+a13 2
 \f2\s+9poems by Federico Garci\*'a Lorca\s0\fP
 .sp 1.7c
-\f2\s+9music by Peter Billam\s0\fP
+d15 1
+a15 1
 .sp 2.1c
-\f3\s+4for Voice and Piano\s0\fP
+d17 10
+a26 13
 .sp 2.5c
 \(co Peter J Billam, 1997
 .sp 1.0c

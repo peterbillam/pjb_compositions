@@ -1,10 +1,30 @@
-head	1.9;
+head	1.13;
 access;
 symbols;
 locks
-	pjb:1.9; strict;
+	pjb:1.13; strict;
 comment	@# @;
 
+
+1.13
+date	2016.03.02.23.05.12;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2016.03.02.05.09.59;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2016.03.01.10.16.58;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2016.03.01.05.09.42;	author pjb;	state Exp;
+branches;
+next	1.9;
 
 1.9
 date	2016.02.29.03.07.51;	author pjb;	state Exp;
@@ -57,9 +77,9 @@ desc
 @
 
 
-1.9
+1.13
 log
-@Palomas up to bar 46
+@as released
 @
 text
 @4 systems 15 /19 35 19-35-19/19 40 19-40-19/19 50 19-31-19/19 30 19-35-19 5/
@@ -70,7 +90,7 @@ leftfoot (c) 1997  Peter J Billam
 midi channel 1 patch 52
 midi channel 2 patch 0
 
-midi off
+# midi off
 
 /
 4 bars | 3/4 2 2 1 2.6 2 2.6 2 2 2 | 2.6 2 2 2 2 2 2 2 2 | 18 | 18 |
@@ -133,8 +153,8 @@ r0.7 .01 quie .39 - .68 ro   o  -
 =2' 8 [B c] [d eb] 4 d
 =2, 2 Eb 4 blank
 =3 2. <F_# F#>
-=3 2 blank treble 8 [F# B']
-=3 8. blank 2 blank-P
+=3 2 blank treble 4. blank
+=3 8. blank 16 blank-P 4 blank 8 [F# B']
 /
 5 bars | 4 4 5 4 5 6 | 4 4 4 4 4 3 | 4 4 4 4 4 4 | 4 4 4 4 4 4 | 4 4 4 4 4 4|
 |
@@ -145,9 +165,9 @@ r0.7 .01 -  ír .81 el
 =3 2. blank-P
 =3' vol90 8 [db F] [A_ B_b] C rest bass
 |
-il0.3 .25 10
+il0.5 .25 10
 =1 8 B' rest 4 F rest
-r0.7 .01 llan   -   to
+r0.7 .01 llan  -  to
 =2' 4 B-. 2 F
 =2, 8 C#)2 4. D 8 rest, E
 =3 vol110 2 A_b vol90 4 ab
@@ -172,7 +192,7 @@ r0.7 .01 llan   -   to
 5 bars | 36 | 36 | 36 | 36 | 36 |
 |
 =1 8 E 4 F 4. rest
-r0.7 .05 pero
+r0.6 .05 pero
 =2 8 [E)1 F] E 4 A_# 8 B_
 =2, 2 B_
 i0.5 .55 cresc . . .
@@ -182,27 +202,27 @@ i0.5 .55 cresc . . .
 il0.3   15
 I0.1 .76 3
 =1 4 rest Bb,(1 43 Bb,)1 83 d
-r0.7 .32 por .84 det -
+r0.6 .32 por .84 det -
 =2' 4 rest' 2 Bb
 =2, 8 [A_# C] [C# D] [E F(2]
 =3 vol110 2. <G_ G>
 =3 4 blank 2 blank-,-P
 |
 =1 2. c#
-r0.7 .01 rás
+r0.6 .01 rás
 =2' 2. c#
 =2, 8 F)2 8 [E D# E F Ab]
 =3  vol90 4. b 8 [bb ab g]
 |
 =1 4 rest G# A
-r0.8 .36 de .68 los
+r0.6 .36 de .68 los
 =2' 4 B G# A
 =2, 2 Eb 4 F(2
 =3' 4 b g# b
 =3, 2 f 4 f(2
 |
 =1 2 rest 4 c#(1
-r0.8 .67 gri
+r0.6 .67 gri
 =2' 4 Ar A# B
 =2, 2 <F)2 c#> 4 G
 =3' 4 ar a# c~#
@@ -742,7 +762,10 @@ I0.6 .85 pp
 =3' 2 f#)1  4 rest
 =3, vol65 2 E_b 4 blank-,-*
 
-midi pause 3.0
+midi pause 5.0
+
+midi on
+
 
 4 systems 15 /19 39 19-25-19/19 39 19-31-19/19 48 19-31-19/19 39 19-31-19 7/
 lefthead poem by Federico García Lorca
@@ -882,7 +905,7 @@ r0.8 .11 ot .40 - .68 ra
 I0.5       f
 =3 bass   3/4 2. <a' D,>
 | 4/4 3.0
-=1 4/4 4. A 8 G#(1 2 G#)1(1
+=1 4/4 4. A 8 G#(2 2 G#)2(2
 r0.8 .08 co .26 - .42 sa
 =2 4/4 4. A 2 G# 8 rest
 I0.5   p
@@ -890,7 +913,7 @@ I0.5   p
 =3, 4/4 1 <D_(1 D(3>
 =3 4/4 4.. blank 2 blank-,-,-,-P
 |
-=1 2. G#)1 4 rest
+=1 2. G#)2 4 rest
 i0.5 .35 cantabile . .
 =2 4 rest 2 b 4 f#
 i0.7 .18 cresc .  .  .
@@ -1225,7 +1248,7 @@ I0.4 .85  p
 =3 1 f~#)2
 I0.9 .90 p
 |
-il0.3 .01 65
+il0.3 .10 65
 =1 1 rest
 =2 1 <d)3(3 d~)1(1>
 =3 1 vol50 <C_(1 d~(3>
@@ -1237,7 +1260,7 @@ il0.3 .01 65
 
 midi pause 3.0
 
-midi on
+# midi off
 
 4 systems 15 /19 54 19-31-19 25/19 42 19-35-19/19 40 19-31-19 / 19 38 19-31-19 /
 lefthead poem by Federico García Lorca
@@ -1250,7 +1273,7 @@ midi channel 2 patch 0
 /
 3 bars | 1 .8 .8 1 1 .8 .8 1 .8 .8 | 1 .8 .8 1 1 .8 .8 | 11 |
 | 10/4 88
-=1 treble 10/4 cha1 vol75 leg99 tra-12 1 rest rest 2 rest
+=1 treble 10/4 cha1 vol85 leg99 tra-12 1 rest rest 2 rest
 =2 treble 10/4 cha2 vol70 leg99 4 Eb 2 Eb 4 Eb Eb 2 Eb 4 Eb 2 Eb
 I0.4 .09 pp
 =3 bass   10/4 cha2 vol70 leg99 1 rest-P rest 2 rest
@@ -1583,7 +1606,7 @@ r0.7 .01 tier .33 - .53 ra
 =3 2. g#-P 4 a#
 /
 3 bars | 6/4 6 6 6 6 6 8 6 6 8 6 6 5 | 8/4 92 | 92 |
-| 6/4 88
+| 6/4 4.091
 =1  6/4 4 B')2 8 rest 4 c 4. d 2 eb
 r0.7 .28 por .47 la .68 cin .88 -
 =2' 6/4 4 d eb 2. f 4 f#
@@ -1605,39 +1628,37 @@ I0.2 .92 p
 i0.2 slower, hushed . . .
 =1 2. G#(2 2 G#)2 2. A#
 r0.7 .02 vi .62 dos
-=2' 4 vol110 <E)1 e)3> 2 vol70 E 4 E 2 E 4 E E
+=2' 4 vol110 <E)1 e)3> 2 vol60 E 4 E 2 E 4 E E
 I0.95 .08 pp
 =3' 2. vol60 <g#(3 g~#(1> 2 <g#)3 g~#)1> 2. <a# a~#>
 =3, 2 C#-P 4 C# 2 C# C# 4 C#
 
-midi off
-
-
-4 systems /19 50 19-31-19 5/19 50 19-35-19 10 \
- /19 45 19-31-19/19 40 19-45-19 30/
+4 systems /19 50 19-31-19 5/19 45 19-35-19 10 \
+ /19 50 19-30-19/19 35 19-45-19 35/
 pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
 /
 3 bars | 16 | 16 | 6/4 12 |
 |
-=1 treble 2 E 4 G# 2. F# 4 rest G#
-r0.8 .02 á .15 - .25  guilas .87 de
+=1 treble 2 A# 4 G# 2. F# 4 rest G#
+r0.8 .02 á .15 - .22  gui - las .87 de
 I0.3   f
-=2 treble 2. <g#' g~#'>
-=2 treble 4 rest, 2 E, 4 E, 2 E, 4 E, E,(2
+=2 treble 2. vol100 <g#' g~#'>
+=2 treble 4 rest, vol60 2 E, 4 E, 2 E, 4 E, E,(2
 i0.1               sempre
 I0.1                             pp
 =3 bass   2 C# 4 C# 2 C# C# 4 C#
 |
 =1 4 A#{2 1 B}2 2. D#(1
 r0.8 .01 nie .35 - .625 ve
-=2' 4 E,)2 2 B 2. F# 2 B_
+=2' 4 rest' 2 B 1 d# 4 rest'
+=2, 2 E)2 E E B_
 =3 2 C# C# 4 C# 2 C# 4 C#
 | 6/4 88
 =1 6/4 4 D#)1 rest F G# F# G#
 r0.8 .40 y .57 una .83 mu   -
-=2' 6/4 2. <c# c~#> <g# c~#>
+=2' 6/4 2. <c# c~#> <c# g#>
 =2, 6/4 4 F# 4. Fn 4 Eb 2 C# 8 rest,
 =3' 6/4 1. c~#
 =3, 6/4 2. a 4. a# 4 g# 8 b
@@ -1645,26 +1666,26 @@ is0.1        arpegg.
 /
 3 bars | 12 | 5/4 10 | 10 |
 |
-il0.3    50
+il0.4 .03 50
 =1 2. c# 4 B' rest G#
 r0.8 .01 cha .28 - .50 cha .83 des
-=2' 2. c~# 2 b 4 f#
-=2, 4 rest, G# 4. F# 8 Fn 4. F# 8 A
+=2' 2. c~# 2 b 8 [g# f#]
+=2, 4 rest, G# 4. F# 8 Fn 2 F#
 =3 2 d~# 8 rest' 2 d# 4. c~#
-I0.2 .55 *P__
+=3 1 blank 2 blank-,-P
 | 5/4 88
-=1 5/4 1 A 4 G#(1
+=1 5/4 1 A 4 G#(2
 r0.8 - .10 nu .47 - .81 da
 =2' 5/4 2 f 4 f# 2 fn
 =2, 5/4 1 <A c#> 4 G#
 =3' 5/4 2 f~ 4 f~# 2 f~n
-=3, 5/4 1 b 4 rest
+=3, 5/4 1 b-P 4 rest
 |
-=1 2 G#)1 rest 4 A#
+=1 2 G#)2 rest 4 A#
 r0.8 .80 la
 =2' 2 f~ 4 f~# 2 f~n
-=2, 4 rest, 2. G# 4 A#
-=3 2. <b d~#> 4 b c~#
+=2, 4 rest, 2 G# A#
+=3 1 <b d~#> 4 c~#
 /
 4 bars | 10 | 4/4 8 |
 |
@@ -1675,67 +1696,71 @@ r0.8 .06 u .23 - .41 na .81 e    -
 =3 2 <d~# g~#> 4 e~ 2 d~#
 | 4/4 88
 =1 4/4 2 d 4 rest G#
-r0.8 .07 ra
-r0.7 .80 la
+r0.8 .08 ra
+r0.7 .79 la
 =2 4/4 1 b
-=2, 4/4 4 Fn 2 F# 4 Fn
-=3, 4/4 2 d~ g#
+=2, 4/4 2 Fn 4 F# 4 Fn(2
+=3, 4/4 4 d~-P 2. g#(2
 |
-il0.3      55
+il0.3 .20 55
 =1 2 d c
 r0.7 .03 ot .29 - .50 ra
-=2' 2 d c
-=2, 1 <F Ab>
-=3' 4. b 8 c~ 2 d~
-=3, 2. rest, 8 [f g]
+=2' 43 G# A#-I3 B 4 c d
+=2, 1 <Dr F)2>
+i0.5 .10 cresc .  .  .
+=3  43 g#)2 a#-I3, b 4 c~ 8 [d~ e~]
 |
 =1 4 rest G#(1 43 G#)1 F#-I3 G#
 r0.7 .25 y .66 la .83 mu   -
-=2' 2 A#r 43 G# F#-I3 G#
+=2' 2 <A#r e> 43 G# F#-I3 G#
 =2, 1 <Dr F#l>
-=3 2 ab' bb'
-=3 4. rest, 8 e(2 2 e)2
+I0.7 .30 pp
+=3' 2 abr bb
+=3, 4. rest,-P 8 d 2 e
 /
-5 bars | 6 6 8 8 6 6 6 5 | 3/4 6 6 7 8 8 6 | 32 | 11 10 9 \
- | 5/4 4 4 4  6 5 5  7.5 5 5  5 5 5  4 4 4 |
+5 bars | 6 6 8 8 6 6 6 5 | 3/4 6 6 7 8 8 6 | 32 \
+ | 5/4 6 5 5 5 5 4 6 6 7.5 6 | 3/4  7.5 5 5  5 5 5  4 4 3 |
 |
 =1 2 c# A(2
 r0.7 .01 cha .28 - .50 cha
 =2' 2 <D#r F#l c#> A
-=3' 4 blank 8 [b c~#] 2 e~b
-=3, 2. a, 4 db
+=3' 4 rest''' 8 [b c~#] 2 e~b
+=3, 2. a-P 4 db
 | 3/4 88
 =1 3/4 4 A)2 8 rest F# G# Fn
-r0.7 .52 era .82 nin  -
-=2 3/4 4. F Eb
+r0.7 .56 era .82 nin  -
+=2  3/4 2. F
 =3' 3/4 2 a 4 ab
 =3, 3/4 4 eb 8 [f gb] 4 ab
 |
 =1 4 F# 2 C
-r0.7 .01 gu  -  na
+r0.7 .02 gu - na
 =2' 4 f# 2 c
 =2, 2. F#
-i0.8 .62 dim .  .  .
+i0.8 .58 dim .  .   .
 =3' 2 c~ 4 a
 =3, 2. d#,(2-P
-|
-il0.2    60
-=1 2. rest
-=2 4 B_ 2 C
-=3, 2. d#)2
-I0.2 .95 ff
 | 5/4 88
-I0.2    ff
-=1 5/4 4 rest 8 f# d# 2 g# 4 c
-r0.8 .21 « Agui - li .65 - .80 tas » ,
-=2' 5/4 vol115 4 rest 8 [<F# f#> d#] 2 <G# g#> 4 c
-=2, 5/4 2 B_ 83 rest,, [dn-I3, Fn] rest,, [G#-I3, B] 8 [F 8 E]
-I0.5  ff
-=3' 5/4 vol110 2. rest' 2 <d d~>
-=3, 5/4 2 <G_# G#> 2. <F_n-P Fn>
+il0.3 .18 60
+I0.2 .50 ff
+=1  5/4 2. rest 4 rest 8 f# d# 
+r0.8 .71 « Agui 
+=2' 5/4 4 B_ 2 C  vol115 4 rest 8 [<F# f#> d#]
+=2, 5/4 2. blank 2 B_ 
+I0.5 .50 ff
+i0.1 .40 subito
+=3  5/4 2. d#)2 vol110 2 <G_# G#>
+I0.2 .40 ff
+| 3/4 88
+=1  3/4 2 g# 4 c
+r0.8 - .15 li .40 - .70 tas » ,
+=2' 3/4 2 <G# g#> 4 c
+=2, 3/4 83 rest,, [dn-I3, Fn] rest,, [G#-I3, B] 8 [F 8 E]
+=3' 3/4 vol110 4 rest' 2 <d d~>
+=3, 3/4 2. <F_n-P Fn>
 
-4 systems /19 43 19-36-19/19 35 19-31-19 5 \
- /19 44 19-31-19 10/19 53 19-35-19 22/
+4 systems /19 43 19-36-19 10/19 35 19-31-19 18 \
+ /19 44 19-31-19 10/19 53 19-35-19 30/
 pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
@@ -1746,55 +1771,54 @@ leftfoot (c) 1997  Peter J Billam
 I0.2 .29 pp
 =1 4/4 2 rest 4. A 8 G#
 r0.7 .53 les .88 di  -
-=2 4/4 1 F(1
-I0.8 .02 pp
-=3 4/4 1 d~(1
+=2 4/4 1 vol60 F(1
+I0.6 .02 pp
+=3 4/4 1 vol60 d~(1-P
 |
 I0.2 .87 f
 =1 2. B' 4 rest
-r0.7 .02 je .96 « ¿
+r0.7 .04 jé .96 « ¿
 =2 2 F)1 8 rest 4. F
-i0.6 .34 cresc  .  .  .
-I0.6 .88 ff
+I0.6 .90 ff
 =3 4 d~)1 e~b d~ b
 |
 =1 4 eb 8 f gb 2 f(1
 r0.7 .03 dónde .39 está
-=2' 4 eb 8 [f gb] 2 f
+=2' vol110 8 [eb B] [f gb] 2 f
 =2, 4. F 8 Eb 4 D 8 [G_# A_#]
-=3 1 <B_ B>
+=3 1 vol120 <B_-P B>
 |
-il0.3     65
+il0.5 .14 65
 =1 4 f)1 B' d G#
 r0.7 .25 mi .50 se  - .75 pul   -
 =2' 4 rest' B d Ab
-=2, 4. B_ 8 D 4. E 8 F
+=2, 4. B_ 8 D 4. E 8 F(2
 =3 1 <A_b Ab>
 |
 i0.5         dim .  .  .
 =1 2 c B'(1
 r0.7 .05 tu .30 - .52 ra ? »
-=2' 2 <Ab c> 4 Ab F
-=2, 4 E 8 [D C] 2 B_
+=2' 2 vol110 <Ab d> 4 vol100 Ab vol90 F
+=2, 4 vol100 8 [F)2 E D C] 2 vol90 B_
 i0.1   dim .  .  .
-=3' 1 <F_ F>
+=3' 1 <F_-P F>
 /
 4 bars | 8 | 6/4 12 | 12 | 12 |
 |
 =1 2. B')1 4 rest
-is0.3   l.h.
-=2' 2. <c~ f c>
-=2, 4 G 2 Ab 4 G
-is0.1    arpegg.
-=3 1 D
+#i0.4   l.h.
+=2' 2. vol90 <c~ f c>
+=2, 4 vol70 rest, G Ab 4 G
+#is0.3 .01 arpegg.
+=3 1 vol70 D-P
 | 6/4 88
 I0.2 mp
 =1 6/4 2. E F#
 r0.7   « En .53 mi
-=2' 6/4 2. G# F#
+=2' 6/4 vol60 2. G# F#
 =2, 6/4 2 G_# C# C#
-=3' 6/4 4 rest, 1 C# 4 <D_# D#>
-=3, 6/4 1 C_# 4 rest,,, blank
+=3' 6/4 vol60 4 rest 1 C# 4 <D_# D#>
+=3, 6/4 1 C_#-P 4 rest,,, blank
 |
 =1 2 G 1 Eb
 r0.7 .01 co .19 - .34 la » ,
@@ -1803,14 +1827,14 @@ r0.7 .01 co .19 - .34 la » ,
 I0.5      f
 i0.5          dim . . .
 =3 1 a'(2 4. a')2 8 g'
-=3 1. A_
+=3 1. A_-P
 | 4/4 88
 il0.2 .09 70
 =1 4/4 8 rest B 2 c 8 rest A
 r0.7 .27 dijo .88 el
-=2 4/4 1 <g g~>
-=3' 4/4 1 g~
-=3, 4/4 2. e~b 4 a
+=2  4/4 1 vol80 <g g~>
+=3' 4/4 1 vol70 g~
+=3, 4/4 2. vol70 e~b 4 a
 /
 4 bars | 8 | 6/4 1 1 1 1.8 1 1 1 1.8 1 1 1.2 1.1 \
  | 1 1 1 1.8 1 1 1 1.4 1 1 1 1 | 1 1 1 1.8 1 1 1 1 1 1 1 1 |
@@ -1823,82 +1847,281 @@ r0.7 .02 sol .
 i0.2           cresc  .  .  .
 =1 6/4 2. G 2 d 4 eb
 r0.7   « En .52 mi .85 gar   -
-=2 6/4 4. C 8 D 4. Eb 8 F 4 Gb gb
-I0.4       f
-i0.4                    cresc  .  .  .
-=3 6/4 1 a 8 rest A_
-I0.2                        8vab .  .
+=2 6/4 4. C 8 D 4. vol90 Eb 8 F 4. vol100 Gb 8 F
+I0.4 .06 mf
+i0.4 .30 cresc  .  .  .
+=3 6/4 1 a 8 rest vol90 A_
+#I0.2                        8vab .  .
 |
 =1 2 F# 1 C
 r0.7 .01 gan .23 - .43 ta » ,
-=2' 4. <Gb eb> 8 <F f> 4. <F# f#> 8 <G# g#> 2 <A a>
-I0.5 .75 mp
-=3' 2. rest' 2 c~ 4 d~
-=3 1. <B_b Bb>
-I0.2 .18 P__ .45 .  . loc.
+=2' 4. <Gb eb> 8 <F f> vol110 4. <F# f#> 8 <G# g#> vol120 2 <A a>
+=3' 2. rest' 2 vol100 c~ 4 d~
+=3 1. vol100 <B_b-P Bb>
 |
 I0.2             p
 =1' 4. rest 8 A 2 Bb 4 rest G
 r0.7 .32 dijo .84 la
-=2 1. Eb
-I0.5    p
-=3 1. c~
-I0.2     __*
+=2 1. vol70 Eb
+I0.6  p
+=3 1. vol70 c~-P
 /
 3 bars | 7/4 .9 .9 .9 .9 .9 .9 .9 .9 1 1 1 1 1.4 1 | 14 | 10/4 20 |
 | 7/4 88
-il0.3      75
+il0.4 .10 75
 =1 7/4 1 db 4 c{1 2 Bb}1
-r0.7 .06 lu .35 - .59 na
-=2 7/4 2 En G E 8 rest Eb
-=3 7/4 1 g(1 4. g)1 8 f# 4 g(2
+r0.75 .06 lu .35 - .59 na
+=2 7/4 2 En G E 4 Eb
+=3 7/4 2. g-P 1 g
+=3 7/4 1. blank 8 blank-*
 |
 =1 1.. rest
-=2' 4 <c# c#> 2. <A a> <cn c~n>
-=2, 1 blank 4 rest, 2 G
-=3' 2 e~ 4 g~ 2. e~b 4 e~b
-=3 1.. g)2
+=2, vol80 1 <db d~b> 4 <c c~> 2 <Bb bb>
+=3' vol70 2 e~n g~ 2. e~
+=3  2. g-P g 4 f#
+=3  1. blank 8 blank-*
 | 10/4 88
 =1 10/4 1. G 4 A 2. Bb'
-r0.8 .05 Por .60 las .68 ra .90 -
-=2' 10/4 2 G 4 G 2 G G <G c g g~> 4 G
-=2, 10/4 4 Eb 2 Eb 4 Eb Eb 2 Eb 4 Eb 2 Eb
-=3 10/4 1.. g 2. c~'
-=3 10/4 1.. C_,(1 2. C_,)1
+r0.85 .07 Por .62 las .72 ra .90 -
+=2' 10/4 vol80 2 G 4 G 2 G G <G c g g~> 4 G
+=2, 10/4 vol70 4 Eb 2 Eb 4 Eb Eb 2 Eb 4 Eb 2 Eb
+=3' 10/4 vol70 1.. g vol80 2. c~
+=3, 10/4 vol80 1.. <C_(1-P C(3> 2. <C_)1 C)3>
 
-4 systems /19 43 19-31-19 /19 36 19-38-19 /19 40 19-31-19 /19 42 19-31-19 19/
+4 systems /19 43 19-31-19 /19 35 19-38-19 /19 35 19-31-19 /19 40 19-31-19 19/
 pagenum
 innerhead Casida de las palomas oscuras
 leftfoot (c) 1997  Peter J Billam
 /
-4 bars | 7/4 14 | 14 | 3/4 6 | 6 |
+3 bars | 7/4 14 | 14 | 5/4 10 |
 | 7/4 88
 =1 7/4 1 A 2 rest 4 B'
 r0.8    - .06 mas .85 del
-=2' 7/4 4 rest' g 2 a(1 8 a)1 4. b 4 a
-=2, 7/4 4 Eb 2 Eb 4 Eb Eb 2 Eb
-=3 7/4 4 c~ 2 c~ 4 b a 2 f#(1
+=2' 7/4 vol100 4 rest' g 2 a(1 8 a)1 4. b 4 a
+=2, 7/4 vol80 4 Eb 2 Eb 4 Eb Eb 2 Eb
+=3 7/4 vol70 4 c~ 2 c~ vol80 4 b a 2 f#
+=3 7/4 1. blank 4 blank-*
 |
 =1 4. d{1 e}1(1 4 e)1 2. c#
 r0.8 .01 lau .30 - .55 rel
-=2 2 b' 4 f#' g#' 2. a'
-=2 4 rest, 2 D, 4 E, F#, A, B,
-=3 2 f#)1 2. a 4 f# a
+=2' vol100 4 f# vol90 1. d
+=2, vol80 2 F# 4 D vol90 E 4. F# 4 A 8 B
+=3' vol80 2 <a bx> 4 f# g# vol90 2 a 4 f#
+=3, vol80 1 B(2 4 B)2-P 2 B
+| 5/4 88
+il0.3 .20 80
+=1'  5/4 2. rest 2 B(2
+r0.7 .62 vi
+=2' 5/4 vol90 4 c# vol100 B 4. a 4 g vol90 8 f#
+=2, 5/4 vol80 4 E 2. D 4 D#
+is0.3 .04 arpegg.
+=3  5/4 vol80 2. <g b> 4 a b
+=3 5/4 4 blank-P 2. blank 4 blank-*
+
+/
+5 bars | 4/4 2 2 2 2 | 3/4 6 | 6 | 6 | 5/4 10 |
+| 4/4 88
+=1' 4/4 4 B)2 rest 2 A
+r0.7 .55 dos
+=2' 4/4 vol80 4 B vol90 2 f# 4 e
+=2, 4/4 vol80 1 E
+=3  4/4 vol80 2 c~#-P c~#
 | 3/4 88
-il0.2      80
-=1 3/4 2. rest
-=2' 3/4 2 b 4 a
-=2, 3/4 2. c#
-=3' 3/4 4 b c~# d~
-=3, 3/4 2. g
+=1  3/4 2 B' 4 G#
+r0.7 .15 pa .41 - .67 lo    -
+=2' 3/4 2. <Ab d>
+=2, 3/4 4 F E D
+is0.3 .09 arpegg.
+=3, 3/4 2. b-P
+|
+=1 2. A
+r0.7 .04 mas
+#=2 4. F 8 [F E D]
+#=2  4 E 2 F
+=2' 2. Gb
+=2, 4 Eb D C
+#bl0.4 .20 ?
+#=3, 4 <b d~> 2 <b d~>
+=3 2 a-P 4 ab(2
+|
+=1 4 rest 2 F#
+r0.7 .33 des .75 -
+=2' 2 F# 4 G#
+#=2, 2. Er
+#=3' 4 <bb d~> 2 <bb d~>
+=3, 4 ab)2 2 gb
+| 5/4 88
+il0.3 .05 85
+=1  5/4 1 A 4 G#(2
+r0.7 .10 nu .34 - .60 - .80 das
+#=2 5/4 1 <D#l F# A> 4 rest
+#=3 5/4 4 rest' 4. f#' 8 g#' 4. a' 8 b'
+#=3 5/4 1 c#(2-P 4 c#,)2
+=2  5/4 1 <Dl F A> 4 rest
+=3' 5/4 4. b 8 c~# 4. d~ 8 e~ 4 f~
+=3, 5/4 2. f-* 2 e-P
+/
+4 bars | 1 1 1 1.5 1 1 1 1.2 1 1 | 6/4 12 | 5/4 9 | 6/4 11 |
+|
+=1 2 G#)2 rest 4 Fn
+r0.7 .80 la
+=2 4 B 2 <c# c~#> 2 <d d~>
+=3' 4. f 8 g 4. g# 8 a# 4 b(1
+=3, 1 d(2-P 4 d)2
+| 6/4 88
+=1  6/4 2. A 4 G 4. rest 8 D#
+r0.7 .10 u .32 - .52 na .92 e    -
+=2  6/4 2 <A, a> 2. <F, f> 4 <Eb eb'>
+=3' 6/4 4 b)1 2. a 2 a
+=3, 6/4 1 c#-P 2 B(2
+| 5/4 88
+=1  5/4 2. F# 4 rest Fn
+r0.7 .11 ra .81 la
+=2  5/4 1 <C# c#'> 4 B_
+=3  5/4 4 B)2 2 A 2 G
+| 6/4 88
+=1 6/4 1 B 2 A(2
+r0.7 .09 ot .42 - .69 ra
+=2 6/4 2. D 2 D 4 Cn(2
+=3' 6/4 2 f a f
+=3 6/4 1. F-P
+/
+3 bars | 2 2 2.4 | 3.8 4.2 | 3.7 3.5 ||
+|
+il0.3 .15 90
+=1 treble 4 A)2 2. rest 4 E F
+r0.65 .65 y .83 las
+=2' treble 2. rest' 4. f <En en>
+=2, 4 C)2 2. B_(2 2 B_)2
+=3' 2 <Eb eb> 1 <Db-P db>
+| 8/4 88
+=1 8/4 1 Ab 4 rest F G E
+r0.65 .05 dos .65 eran .87 nin    -
+=2 8/4 1 <D(2 d(1> <D)2 d)1> 
+I0.1 .81 loc . .
+=3 8/4 1 B_(1 B_)1
+=3 8/4 4 blank 1.. blank-,-,-P
+I0.3 .80 8vab . .
+| 7/4 88
+=1 7/4 4. F B_ 1 rest
+r0.65 .06 gu   -    na.
+=2 7/4 1. b 4 rest'
+I0.3 .01 pp
+#i0.7 .20 sin rall.  .  .
+=3 7/4 8 rest' 4 f' 1 b 4. rest
+=3 7/4 tra-12 2 B_, vol-10 2. B_, 2 vol-10 B_,
+=3 7/4 1 blank 16 blank-,-*
+@
+
+
+1.12
+log
+@approaching plausibility ?
+@
+text
+@d9 1
+a9 1
+midi off
+d72 2
+a73 2
+=3 2 blank treble 8 [F# B']
+=3 8. blank 2 blank-P
+d84 1
+a84 1
+il0.3 .25 10
+d86 1
+a86 1
+r0.7 .01 llan   -   to
+d111 1
+a111 1
+r0.7 .05 pero
+d121 1
+a121 1
+r0.7 .32 por .84 det -
+d128 1
+a128 1
+r0.7 .01 rás
+d134 1
+a134 1
+r0.8 .36 de .68 los
+d141 1
+a141 1
+r0.8 .67 gri
+d681 4
+a684 1
+midi pause 3.0
+d824 1
+a824 1
+=1 4/4 4. A 8 G#(1 2 G#)1(1
+d832 1
+a832 1
+=1 2. G#)1 4 rest
+d1179 1
+a1179 1
+midi on
+d1192 1
+a1192 1
+=1 treble 10/4 cha1 vol75 leg99 tra-12 1 rest rest 2 rest
+d1577 1
+a1577 1
+=2' 6/4 2. <c# c~#> <g# c~#>
+d1807 1
+a1807 1
+4 systems /19 43 19-31-19 /19 36 19-38-19 /19 40 19-31-19 /19 42 19-31-19 19/
+d1880 1
+a1880 1
+4 bars | 10 | 6/4 12 | 5/4 10 | 6/4 12 |
+@
+
+
+1.11
+log
+@palomas up to 80
+@
+text
+@d1675 2
+a1676 2
+4 systems /19 43 19-36-19/19 35 19-31-19 15 \
+ /19 44 19-31-19 10/19 53 19-35-19 25/
+d1787 2
+a1788 2
+=2 7/4 2 En G E 8 rest Eb
+=3 7/4 1 g(1-P 4. g)1 8 f# 4 g(2
+d1792 4
+a1795 6
+bl0.4 .35 ?
+=2' 4 <c# c#> 2. <A a> <cn c~n>
+=2, 1 blank 4 rest, 2 G
+=3' 2 e~ 4 g~ 2. e~b 4 e~b
+=3 1.. g)2
+=3 1 blank-P 2. blank-P
+d1801 2
+a1802 2
+=3 10/4 vol70 1.. g vol80 2. c~'
+=3 10/4 vol80 1.. C_,(1 2. C_,)1
+d1809 1
+a1809 1
+4 bars | 7/4 14 | 14 | 3/4 6 | 6 |
+d1824 1
+a1824 1
+| 3/4 88
+d1826 7
+a1832 13
+=1  3/4 2. rest
+=2' 3/4 4 c# B a
+=2, 3/4 2 E 4 F#
+=3' 3/4 4 b 4. c~# 8 d~
+=3, 3/4 2. g-P
 |
 =1 2. c
 r0.8 .03 vi
 =2' 2. <c g>
 =2, 4 <Eb G> 2 <Eb G>
-=3 2. a
-I0.2  *P__
-/
+=3 2. a-P
+
+midi off
+d1835 14
+a1848 14
 5 bars | 2.4 2 2 | 1 1 1 1.4 1.2 1.4 1.2 | 3 3.6 | 6 | 5/4 10 |
 |
 =1 2. A
@@ -1913,78 +2136,341 @@ r0.7 .02 pa .39 - .67 lo    -
 =2, 4. F 8 rest, [Gb F Eb]
 =3' 4 <g# b> 2 <g# b>
 =3, 2. d#
-|
-=1 2. A
-r0.7 .04 mas
+d1852 7
+a1858 3
 =2 4. F 8 [F E D]
 =3' 4 <a bx> 2 <a bx>
 =3, 2. d
-|
+a1859 1
 il0.2   85
-=1 4 rest 2 F#
-r0.7 .33 des .75 -
+d1862 4
+a1865 4
 =2' 4 rest' F# G
 =2, 2. E
 =3' 4 <bb d~> 2 <bb d~>
 =3, 2. d
-| 5/4 88
+d1867 2
+a1868 1
 =1 5/4 1 A 4 G#(1
-r0.7 .10 nu .34 - .60 - .80 das
+d1870 6
+a1875 3
 =2 5/4 1 <D# F# A> 4 rest
 =3 5/4 4 rest' 4. f#' 8 g#' 4. a' 8 b'
 =3 5/4 1 c#(2 4 c#,)2
-/
-4 bars | 10 | 6/4 12 | 5/4 10 | 6/4 12 |
-|
+d1879 1
+a1879 1
 =1 2 G#)1 rest 4 Fn
-r0.7 .80 la
+d1881 3
+a1883 3
 =2 4 rest <c# c~#> 2 <d d~> 4 <c# c~#>
 =3' 4. a 8 g# 4 a 2 b
 =3, 1 d 8 rest, f
-| 6/4 88
+d1885 1
+a1885 1
 =1 6/4 2. A 4 G 4. rest 8 D#
-r0.7 .10 u .32 - .52 na .92 e    -
+d1887 3
+a1889 4
 =2 6/4 2 <A, a> 2. <F, f> 4 <Eb eb'>
 =3 6/4 4 rest' 2. a' 2 a'
 =3 6/4 1 c# 2 B,
 I0.1      P__
-| 5/4 88
+d1891 1
+a1891 1
 =1 5/4 2. F# 4 rest Fn
-r0.7 .11 ra .81 la
+d1893 2
+a1894 2
 =2 5/4 1 <C# c#'> 4 B_
 =3 5/4 4 rest B A 2 G
-| 6/4 88
+d1896 1
+a1896 2
 il0.2   90
 =1 6/4 1 B 2 A(1
-r0.7 .09 ot .42 - .69 ra
-=2 6/4 2. D 2 D 4 Cn(2
-=3' 6/4 2 f a f
+d1900 1
+a1900 1
 =3 6/4 1. F
-/
-3 bars | 2 2 2.4 | 3.8 4.2 | 3.7 3.5 ||
-|
+d1904 4
+a1907 3
 =1 treble 4 A)1 2. rest 4 Eb F
 r0.65 .67 y .83 las
 =2' treble 2. rest' 4. fn <Eb eb>
-=2, 4 C)2 2. B_(2 2 B_)2
+d1909 1
+a1909 1
 =3' bass   2 <Eb eb> 1 <Db db>
-| 8/4 88
+d1911 3
+a1913 3
 =1 8/4 1 Ab 4 rest F Gb Eb
 r0.65 .05 dos .65 eran .87 nin   -
 =2 8/4 1 <Db(2 db(1> <Db)2 db)1> 
-I0.1 .81 loc . .
-=3 8/4 1 B_(1 B_)1
+d1916 1
+a1916 1
 I0.6             P__
-I0.3 .80 8vab . .
-| 7/4 88
+d1919 2
+a1920 2
 =1 7/4 4. F 4 B_ 8 rest 1 rest
 r0.65 .05  gu  -  na.
-=2 7/4 1. b 4 rest'
+d1922 5
+a1926 5
 i0.7           sin rall.  .  .
 I0.7   pp
 =3 7/4 8 rest' 4 f' 1 b 4. rest'
 =3 7/4 tra-12 2 B_, 2. B_, 2 B_,
 I0.8                                                 *
+@
+
+
+1.10
+log
+@palomas up to bar 69
+@
+text
+@d1688 1
+a1688 1
+I0.8 .02 pp
+d1722 1
+a1722 1
+is0.3   l.h.
+d1724 2
+a1725 2
+=2, 4 vol70 G 2 Ab 4 G
+is0.3 .05 arpegg.
+a1743 3
+
+midi off
+
+d1748 3
+a1750 3
+=2 4/4 1 <g g~>
+=3' 4/4 1 g~
+=3, 4/4 2. e~b 4 a
+d1763 5
+a1767 5
+=2 6/4 4. C 8 D 4. Eb 8 F 4 Gb gb
+I0.4       f
+i0.4                    cresc  .  .  .
+=3 6/4 1 a 8 rest A_
+I0.2                        8vab .  .
+d1771 3
+a1773 5
+=2' 4. <Gb eb> 8 <F f> 4. <F# f#> 8 <G# g#> 2 <A a>
+I0.5 .75 mp
+=3' 2. rest' 2 c~ 4 d~
+=3 1. <B_b Bb>
+I0.2 .18 P__ .45 .  . loc.
+d1778 3
+a1780 4
+=2 1. Eb
+I0.5    p
+=3 1. c~
+I0.2     __*
+d1784 1
+a1784 1
+il0.3      75
+d1786 1
+a1786 1
+r0.7 .06 lu .35 - .59 na
+d1788 2
+a1789 1
+=3 7/4 1 g(1 4. g)1 8 f# 4 g(2
+d1792 1
+d1797 1
+d1800 5
+a1804 5
+r0.8 .05 Por .60 las .68 ra .90 -
+=2' 10/4 2 G 4 G 2 G G <G c g g~> 4 G
+=2, 10/4 4 Eb 2 Eb 4 Eb Eb 2 Eb 4 Eb 2 Eb
+=3 10/4 1.. g 2. c~'
+=3 10/4 1.. C_,(1 2. C_,)1
+d1815 4
+a1818 3
+=2' 7/4 4 rest' g 2 a(1 8 a)1 4. b 4 a
+=2, 7/4 4 Eb 2 Eb 4 Eb Eb 2 Eb
+=3 7/4 4 c~ 2 c~ 4 b a 2 f#(1
+d1822 4
+a1825 3
+=2 2 b' 4 f#' g#' 2. a'
+=2 4 rest, 2 D, 4 E, F#, A, B,
+=3 2 f#)1 2. a 4 f# a
+d1827 6
+a1832 6
+il0.2      80
+=1 3/4 2. rest
+=2' 3/4 2 b 4 a
+=2, 3/4 2. c#
+=3' 3/4 4 b c~# d~
+=3, 3/4 2. g
+d1838 4
+a1841 2
+=3 2. a
+I0.2  *P__
+@
+
+
+1.9
+log
+@Palomas up to bar 46
+@
+text
+@d1164 1
+a1164 1
+il0.3 .01 65
+d1522 1
+a1522 1
+| 6/4 88
+d1544 1
+a1544 1
+=2' 4 vol110 <E)1 e)3> 2 vol70 E 4 E 2 E 4 E E
+d1549 2
+a1550 5
+midi off
+
+
+4 systems /19 50 19-31-19 5/19 50 19-35-19 10 \
+ /19 45 19-31-19/19 40 19-45-19 30/
+d1557 2
+a1558 2
+=1 treble 2 E 4 G# 2. F# 4 rest G#
+r0.8 .02 á .15 - .25  guilas .87 de
+d1560 2
+a1561 2
+=2 treble 2. <g#' g~#'>
+=2 treble 4 rest, 2 E, 4 E, 2 E, 4 E, E,(2
+d1568 2
+a1569 1
+=2' 4 E,)2 2 B 2. F# 2 B_
+d1582 1
+a1582 1
+il0.3    50
+d1585 2
+a1586 2
+=2' 2. c~# 2 b 4 f#
+=2, 4 rest, G# 4. F# 8 Fn 4. F# 8 A
+d1588 1
+a1588 1
+I0.2 .55 *P__
+d1590 1
+a1590 1
+=1 5/4 1 A 4 G#(1
+d1595 1
+a1595 1
+=3, 5/4 1 b 4 rest
+d1597 1
+a1597 1
+=1 2 G#)1 rest 4 A#
+d1600 2
+a1601 2
+=2, 4 rest, 2. G# 4 A#
+=3 2. <b d~#> 4 b c~#
+d1612 2
+a1613 2
+r0.8 .07 ra
+r0.7 .80 la
+d1615 2
+a1616 2
+=2, 4/4 4 Fn 2 F# 4 Fn
+=3, 4/4 2 d~ g#
+d1618 1
+a1618 1
+il0.3      55
+d1621 4
+a1624 4
+=2' 2 d c
+=2, 1 <F Ab>
+=3' 4. b 8 c~ 2 d~
+=3, 2. rest, 8 [f g]
+d1628 1
+a1628 1
+=2' 2 A#r 43 G# F#-I3 G#
+d1630 3
+a1632 2
+=3 2 ab' bb'
+=3 4. rest, 8 e(2 2 e)2
+d1634 2
+a1635 2
+5 bars | 6 6 8 8 6 6 6 5 | 3/4 6 6 7 8 8 6 | 32 | 11 10 9 \
+ | 5/4 4 4 4  6 5 5  7.5 5 5  5 5 5  4 4 4 |
+d1640 2
+a1641 2
+=3' 4 blank 8 [b c~#] 2 e~b
+=3, 2. a, 4 db
+d1644 2
+a1645 2
+r0.7 .52 era .82 nin  -
+=2 3/4 4. F Eb
+d1650 1
+a1650 1
+r0.7 .01 gu  -  na
+d1653 1
+a1653 1
+i0.8 .62 dim .  .  .
+a1655 6
+|
+il0.2    60
+=1 2. rest
+=2 4 B_ 2 C
+=3, 2. d#)2
+I0.2 .95 ff
+d1657 17
+a1673 8
+I0.2    ff
+=1 5/4 4 rest 8 f# d# 2 g# 4 c
+r0.8 .21 « Agui - li .65 - .80 tas » ,
+=2' 5/4 vol115 4 rest 8 [<F# f#> d#] 2 <G# g#> 4 c
+=2, 5/4 2 B_ 83 rest,, [dn-I3, Fn] rest,, [G#-I3, B] 8 [F 8 E]
+I0.5  ff
+=3' 5/4 vol110 2. rest' 2 <d d~>
+=3, 5/4 2 <G_# G#> 2. <F_n-P Fn>
+d1675 2
+a1676 2
+4 systems /19 43 19-36-19/19 35 19-31-19 5 \
+ /19 44 19-31-19 10/19 53 19-35-19 22/
+d1687 1
+a1687 1
+=2 4/4 1 F(1
+d1689 1
+a1689 1
+=3 4/4 1 d~(1
+d1693 1
+a1693 1
+r0.7 .02 je .96 « ¿
+d1695 1
+a1695 2
+i0.6 .34 cresc  .  .  .
+I0.6 .88 ff
+d1700 1
+a1700 1
+=2' 4 eb 8 [f gb] 2 f
+d1702 1
+a1702 1
+=3 1 <B_ B>
+d1704 1
+a1704 1
+il0.3     65
+d1708 1
+a1708 1
+=2, 4. B_ 8 D 4. E 8 F
+d1714 2
+a1715 2
+=2' 2 <Ab c> 4 Ab F
+=2, 4 E 8 [D C] 2 B_
+d1717 1
+a1717 1
+=3' 1 <F_ F>
+d1723 4
+a1726 4
+=2' 2. <c~ f c>
+=2, 4 G 2 Ab 4 G
+is0.1    arpegg.
+=3 1 D
+d1731 1
+a1731 1
+=2' 6/4 2. G# F#
+d1733 2
+a1734 2
+=3' 6/4 4 rest, 1 C# 4 <D_# D#>
+=3, 6/4 1 C_# 4 rest,,, blank
+d1743 4
+a1746 1
+=3 1. A_
 @
 
 
