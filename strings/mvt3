@@ -540,9 +540,9 @@ i0.8 .10 dim  .    .    . .80 niente
 =4 vol50 leg99 cha8 2. rest 4 B 1 rest
 i0.8 .12 pizz
 I0.8 .27 p
-=5 vol55 leg99 cha8 2. rest 4 A 1 rest
+=5 vol55 leg99 cha8 2. rest 4 A' 1 rest
 i0.8 .12 pizz
 I0.8 .27 p
 =6 vol55 leg99 cha8 2. rest 4 B 1 rest
-i0.1 .12 pizz
-I0.1 .27 p
+i0.03 .12 pizz
+I0.03 .27 p

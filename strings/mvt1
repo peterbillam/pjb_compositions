@@ -851,7 +851,7 @@ leftfoot (c) 2015 Peter J Billam
  | 5 5 6 5 6 6 6 6 5 5 6 5 |
 |
 #i0.9 .01 Ab233
-=1 1 c# 8 rest Bb' 4 Ab(1
+=1 1 c# 8 rest Bb' 4 Ab(2
 =2 8 rest G 2 Ab 8 rest c 2 db
 =3 2. e)1 8 rest [d# e f#] 4 e(1
 =4 4. rest 8 [c db f] 2 e 8 rest ab
@@ -859,7 +859,7 @@ leftfoot (c) 2015 Peter J Billam
 =6 1 Ab 8 rest [Ab Bb db]
 |
 #i0.9 .01 Ab2222
-=1 2. Ab)1 8 rest [Ab, Bb d] 4 c
+=1 2. Ab)2 8 rest [Ab, Bb d] 4 c
 =2 8 rest [Bb c eb] 1 d
 =3 4. e)1 8 [f f# a] 2 g# 8 rest gb
 =4 2 gb 8 rest [f e c#] 2 d
