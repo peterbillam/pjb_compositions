@@ -1,10 +1,24 @@
 # Peter Billam's compositions
 
-The source of these pieces is written in *muscript*
+This is the source code for Peter Billam's compositions.
 
-See
+It is most likely to be of interest:
+
+* to muscript users, wanting an example of how some layout is done,
+* to musicologists, wanting to investigate the production process,
+* to musicians, wanting to continue or expand some set of scores.
+
+It is hoped that this repository will outlast the original website
+http://www.pjb.com.au
+
+The source of these pieces is written in *muscript*, see
 [miditools](https://github.com/peterbillam/miditools)
-and the various Makefiles
+and the various Makefiles.  See also:
+http://www.pjb.com.au/muscript/
+http://www.pjb.com.au/muscript/muscript
+http://www.pjb.com.au/muscript/eps2jpg
+http://www.pjb.com.au/muscript/muscript2video
+
 
 ## Piano
 
