@@ -87,9 +87,6 @@ mvt2.a4 : mvt2
 mvt3.a4 : mvt3
 	${MUSCRIPT} mvt3 > $@
 	pkill -HUP gv
-encore.a4 : encore
-	${MUSCRIPT} encore > $@
-	pkill -HUP gv
 strings : mvt1 mvt2 mvt3
 	chmod 644 $@
 	cat mvt1 mvt2 mvt3 > $@
