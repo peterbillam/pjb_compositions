@@ -107,7 +107,7 @@ i0.6 tempo
 #=2' 4. e~ 8 f~# g~# 4 a~ 8 b~
 =2' 8 rest'' 4 e~ 8 f~# g~# 4. blank
 #=2, 8 [f# g#] 4. a 8 b 4 c~
-=2, 8 rest' g# 4. a 8 b 4 c~
+=2, 8 rest' g 4. a 8 b 4 c~
 =2 smb E_)1
 i0.1 .23 sotto voce
 | 3/4 100
@@ -118,11 +118,12 @@ i0.1 .23 sotto voce
 #M=1, 3/4 2. ab
 #M=1, 3/4 4. leg90 vol90 c 8 leg105 d [e f]
 # =2' treble leg90 4 c 8 leg105 [G Ab] 4 leg90 c
-=2' treble leg90 4 rest' 8 leg105 [G Ab] 4 leg90 c
+=2' treble leg90 8 rest' 4 leg105 Ab 8 B 4 leg90 c
 #=2, clefspace 8 leg105 [D cc64=0 E] 4. Fr 8 G(2
 =2, clefspace 8 leg105 [D E-*] 4. Fr 8 G(2
 /
-5 bars | 1.7 1 1 1.3 1 1 1 0.9 | 3/4 2.2 2 2 | 8 | 8 | 6 |
+5 bars | 1.7 1 1 1.3 1 1 1 0.9 | 3/4 2.2 2 2 \
+ | 4/4 1.8 1.8 1.8 1.5 | 1.8 1.8 1.8 1.5 | 3/4 1 1 1 1 1 .8 |
 | 4/4 100
 I0.5 .90 f
 =1  4/4 4. g 8 d 2 eb
@@ -195,11 +196,11 @@ leftfoot (c) 2003, 2016  Peter J Billam
 =2  bass   4/4 8 a 4 leg90 bb-ten 8 leg105 gb leg90 f 4 ab-ten 8 leg105 e
 |
 il0.6 .20 30
-=1' 4 leg90 Br)1 leg105 Bb Bn 8 leg90 [c leg105 eb]
+=1' 2 leg90 Bb)1 leg105 4 Bn 8 leg90 [c leg105 eb]
 #=1, 8 rest, Ab leg90 [G 8 leg105 C#] leg90 [D leg105 F] [E F#(2]
-=1, 8 Ab leg90 4 G leg105 8 C# leg90 D leg105 4 E 8 F#(2
+=1, 8 rest, Ab [G leg105 C#] leg90 D leg105 4 E 8 F#(2
 #=2  4 d# e 8 [f# g#] 4 a
-=2  4. d# 8 e [f# g] 4 a
+=2  4. d# 8 e [f# g#] 4 a
 | 3/4 100
 #=1' 3/4 4 d eb 8 [f g(1]
 =1' 3/4 4 d eb 8 [f g]
@@ -240,7 +241,7 @@ I0.1 .30 pp
 =1, 4/4 2 vol-5 <G_ E B b> vol-5 <B_b G d bb>
 =2' 4/4 4 <E_)1 E)3> 2 <E_ E> 4 <E_(1 E(3>
 /
-5 bars | 1.2 1 1 1.4 1.1 1.1 1.1 0.8 | 3/4 1 1 1.7 1.1 1 0.8 \
+5 bars | 1.2 1 1 1.4 1.1 1.1 1.1 0.8 | 3/4 1.1 1 1.7 1.1 1 0.8 \
  | 4/4 1.7 1 1 1.3 1 1 1 0.8 | 3/4 1.9 1.9 1.7 | 4/4 1.7 1.6 1.6 1.4 |
 |
 =1' 2 leg90 a 4 leg105 e f#
@@ -249,7 +250,7 @@ I0.1 .30 pp
 #=2' 4. e~ 8 f~# g~# 4 a~ 8 b~
 #=2' 8 rest'' 4 e~ 8 f~# g~# 4 a~ 8 b~
 =2'  8 rest'' 4 e~ 8 f~# g~# 4. blank
-=2, 8 rest g# 4. a 8 b 4 c~
+=2, 8 rest g 4. a 8 b 4 c~
 =2  smb <E_r)1 E)3>
 | 3/4 100
 # #P=1  3/4 smq blank 4. ab 8 d [e f]
@@ -258,7 +259,7 @@ I0.1 .30 pp
 #M=1' 3/4 2. ab
 #P=1, 3/4 smq blank 4. c 8 d [e f]
 #M=1, 3/4 4. c 8 d [e f]
-=2' treble 8 rest 4 G 8 Ab 4 c
+=2' treble 8 rest' 4 Ab 8 B 4 c
 =2, clefspace 8 [D leg105 E-*] 4. Fr 8 G(2
 | 4/4 100
 il0.6 .21 40
@@ -267,8 +268,8 @@ il0.6 .21 40
 =2' 4/4 8 [A B] 4 c 8 [B A] [G A]
 =2, 4/4 8 [Gr)2 Eb] D 4. C  4 B_(2
 | 3/4 100
-#P=1, 3/4 dsq. blank 2 <B g g~> 4 <d gb g~b>
-#M=1, 3/4 2 vol105 <B g g~> 4 vol-5 <d gb g~b>
+#P=1, 3/4 dsq. blank 2 <B g g~> 4 <B d gb g~b>
+#M=1, 3/4 2 vol105 <B g g~> 4 vol-5 <B d gb g~b>
 =2' bass 2 b)2
 =2' bass 4 rest,-,-P 2 vol95 leg99 <B__(1 B_(3>
 | 4/4 100
@@ -344,7 +345,7 @@ il0.7 .20 50
 | 4/4 100
 =1' 4/4 8 rest' 4 c 8 Ab G 4 Bb 8 An
 =1, 4/4 4 G 2 F 4 Eb(2
-=2' 4/4 4 c~)1 2. blank
+=2' 4/4 2 c~)1 rest'
 =2, 4/4 4 eb d db leg99 c
 | .62 .65 .69 .74
 =1' 2 G c#(4
