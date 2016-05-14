@@ -30,14 +30,14 @@ i0.7        Free, clear
 Il0.3 .69 ,
 =1' 2 G 4 leg85 F 8 leg90 [G B']
 =1, 2. Eb)2 4 rest,,
-=2  4 leg90 B-P 2 b 4 rest
+=2  4 leg90 B-P 2 b 4 rest-*
 /
 4 bars | 6 | 8 | 6 | 8 |
 | 3/4 100
 il0.6 .26 5
 =1'  3/4 4 leg105 c# d 8 [e f#]
 =1,  3/4 2. A
-=2,  3/4 8 rest' leg105 g~b leg90 [f~-* leg105 b] leg90 [c~ leg105 e~b]
+=2,  3/4 8 rest' leg105 g~b leg90 [f~ leg105 b] leg90 [c~ leg105 e~b]
 | 4/4 100
 =1' 4/4 4 g 8 [a b] 4. leg90 c~ 8 leg105 f#
 =1, 4/4 8 leg90 [Bb leg105 E] leg90 [F leg105 Ab] 4 G An
@@ -134,7 +134,7 @@ il0.7 .37 20
 #=1, 3/4 2 vol100 <eb e~b> 4 vol-8 <Bb d d~>
 =1, 3/4 2 vol100 <eb e~b> 4 vol-8 <E Bb d d~>
 i0.7 .80 dim   . .
-I0.1 .40 pp
+I0.1 .46 p
 =2' 3/4 4 vol70 leg99 <G_-P G)1>  bass 2 <G_(4 G(2>
 | 4/4 100
 #=1, 4/4 2 vol-8 <B_b F db d~b> vol-8 <Eb G c c~>
@@ -263,7 +263,7 @@ i0.4 .40 dim . . .
 =2' treble 8 rest' 4 Ab 8 B 4 c
 =2, clefspace 8 [D leg105 E-*] 4. Fr 8 G(2
 | 4/4 100
-il0.6 .21 40
+il0.7 .16 40
 =1' 4/4 4 blank d~ 4. e~b 8 f~
 =1, 4/4 4. leg90 g 8 leg105 vol85 d 4. eb 8 vol95 f
 =2' 4/4 8 [A B] 4 c 8 [B A] [G A]
@@ -308,7 +308,7 @@ il0.7 .24 45
 =1, 8 leg90 [B leg105 F] leg90 [F# leg105 A] 4 G# A#
 =2, 4 vol80 leg105 ab 8 [bb c~] 4. leg90 d~b 8 leg105 g
 /
-4 bars | 3/4 1 1.1 1 1 1.1 0.8 | 4/4 1 1 1.1 1 1 1.25 1 0.8 \
+4 bars | 3/4 1 1.1 1 1 1.1 0.8 | 4/4 1 1 1.1 1 1 1.1 1 0.8 \
  | 3/4 1 1.1 1.0 1.1 1.1 0.9 | 4/4 1 1 1 1  1.1 1 1 1.6 |
 | 3/4 100
 =1' 3/4 4. eb 8 d 4 c(1
