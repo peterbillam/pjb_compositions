@@ -252,7 +252,7 @@ i0.4 .40 dim . . .
 #=2' 8 rest'' 4 e~ 8 f~# g~# 4 a~ 8 b~
 =2'  8 rest'' 4 e~ 8 f~# g~# 4. blank
 =2, 8 rest g 4. a 8 b 4 c~
-=2  smb <E_r)1 E)3>
+=2  smb <E_r)1 E)3> treble
 | 3/4 100
 # #P=1  3/4 smq blank 4. ab 8 d [e f]
 # #M=1  3/4 4. ab 8 d [e f]
@@ -260,48 +260,50 @@ i0.4 .40 dim . . .
 #M=1' 3/4 2. ab
 #P=1, 3/4 smq blank 4. c 8 d [e f]
 #M=1, 3/4 4. c 8 d [e f]
-=2' treble 8 rest' 4 Ab 8 B 4 c
-=2, clefspace 8 [D leg105 E-*] 4. Fr 8 G(2
+=2' 3/4 8 rest' 4 Ab 8 B 4 c
+=2, 3/4 8 [D leg105 E-*] 4. Fr 8 G(2
 | 4/4 100
 il0.7 .16 40
 =1' 4/4 4 blank d~ 4. e~b 8 f~
 =1, 4/4 4. leg90 g 8 leg105 vol85 d 4. eb 8 vol95 f
 =2' 4/4 8 [A B] 4 c 8 [B A] [G A]
-=2, 4/4 8 [Gr)2 Eb] D 4. C  4 B_(2
+=2, 4/4 8 [Gr)2 Eb] D 4. C  4 B_
 | 3/4 100
-#P=1, 3/4 dsq. blank 2 <B g g~> 4 <B d gb g~b>
-#M=1, 3/4 2 vol105 <B g g~> 4 vol-5 <B d gb g~b>
-=2' bass 2 b)2
+#P=1, 3/4 dsq. blank 2 <G B g g~> 4 <B d gb g~b>
+#M=1, 3/4 2 vol105 <G B g g~> 4 vol-5 <B d gb g~b>
+I0.5 .05 f
+# =2' bass 2 b)2
 =2' bass 4 rest,-,-P 2 vol95 leg99 <B__(1 B_(3>
 | 4/4 100
 =1, 4/4 2 vol-5 <D A f f~> vol-5 <G B e e~>
 =2' 4/4 4 <B__)1 B_)3> 2 vol-5 <B__ B_> 4 vol-5 <B__(1 B_(3>
 /
-4 bars | 1.5 1.4 1 1.2 1 1.2 1 1 | 3/4 1.5 1.4 1 1 1.2 1 \
- | 4/4 8 | 8 |
+4 bars | 1.5 1.3 1 1.1 1 1.1 1 .8 | 3/4 1.5 1.3 1 1 1.1 .8 \
+ | 4/4 1 1 1.1 1.1  1.1 1 1.1 .8 | 1 1.1 1 1.1 .9 .9 .9 .8 |
 |
 =1  smb <eb e~b>
-#=1' 8 [br bb] 4 ab 8 [g f] [eb d(4]
-=1' 8 rest'''' bb 4 ab 8 [g f] [eb d(4]
+#=1' 8 [br bb] 4 ab 8 [g f] [eb d(1]
+=1' 8 rest'''' bb 4 ab 8 [g f] [eb d(1]
 #=1, 4 Ab  8 [G F] 4 Eb F(2
 =1, 4 Ab  8 rest, F 4 Eb F(2
-I0.4 .05 mf
+I0.4 .05 f
 i0.4 .18 sempre
 =2  smb <B__)1(1 B_)3(3>
 | 3/4 100
 #=1' 3/4 8 [br a] 4 leg90 ab leg105 f
 =1' 3/4 8 rest'''' a 4 leg90 ab leg105 f
-=1, 3/4 2. <F)2 d)4 d~>
+=1, 3/4 2. <F)2 B d)1 d~>
 =1, 3/4 4 blank 8 [f e] [d c#(2]
-i0.4 .45 dim . . .
 =2  3/4 4 <B__)1 B_)3> 2 vol-5 <B__(1 B_(3>
 | 4/4 100
-il0.7 .24 45
-=1  4/4 smb <c#)2 c~#>
-=1' 4/4 4 er 8 [d# c#] 4 B e
+il0.9 .50 45
+#=1  4/4 smb <c#)2 c~#>
+=1  4/4 smb <G c#)2 c~#>
+#=1' 4/4 4 er 8 e [d# c#] 4 B e
+=1' 4/4 8 rest''' f [d# c#] 4 B e
+i0.8 .45 dim . . .
 #=2, 4/4 8 vol90 [g~ vol-4 f~#] 4 vol-4 e~ 8 vol-4 [d~# vol-4 c~#] [b vol-4 a#]
-=2, 4/4 8 vol90 rest' vol-4 f~# 4 vol-4 e~ 8 vol-4 \
- [d~# vol-4 c~#] [b vol-4 a#-,-*]
+=2, 4/4 4 vol90 rest' 8 [f~ vol-4 e~] [d~# vol-4 c~#] [b vol-4 bb-,-*]
 =2  4/4 smb <B__)1 B_)3>
 |
 =1' 2 vol85 d# e
@@ -359,6 +361,6 @@ il0.7 .35 55
 =1' 3/4 2. f)1
 =1, 3/4 4 c#)4 vol-6 B vol-6 b-fermata
 =2  3/4 4 leg90 vol-6 G 2 vol-6 g-fermata cc64=0
-i0.1 .72 2m 30s
+# i0.1 .72 2m 30s
 midi pause 3.9
 
