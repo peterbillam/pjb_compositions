@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	pjb:1.10; strict;
+	pjb:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2016.05.15.09.39.51;	author pjb;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2016.05.15.09.25.20;	author pjb;	state Exp;
@@ -62,9 +67,9 @@ desc
 @
 
 
-1.10
+1.11
 log
-@changes around bars 41 and 45
+@bass dynamics in bars 35 and 41
 @
 text
 @6 systems 14 /19-39-19 3/19-33-19/19-35-19/19-35-19 10/19-35-19 10/19-33-19 3/
@@ -299,9 +304,9 @@ I0.7 .99 f
 | 4/4 100 
 il0.8 .34 35
 =1, 4/4 2 vol90 <C# B e e~> vol-5 <G Bb d d~>
-I0.1 .30 pp
 =2' 4/4 2 b)1
 =2' 4/4 4 rest,-,-P leg99 2 vol70 <E_ E> 4 <E_(1 E(3>
+I0.1 .01 p
 | 3/4 100
 =1, 3/4 2 vol-5 <A_# G# c# c~#> 4 vol-5 <F#l A cn c~n>
 i0.4 .40 dim . . .
@@ -343,6 +348,7 @@ il0.7 .16 40
 I0.5 .05 f
 # =2' bass 2 b)2
 =2' bass 4 rest,-,-P 2 vol95 leg99 <B__(1 B_(3>
+I0.1 mp
 | 4/4 100
 =1, 4/4 2 vol-5 <D A f f~> vol-5 <G B e e~>
 =2' 4/4 4 <B__)1 B_)3> 2 vol-5 <B__ B_> 4 vol-5 <B__(1 B_(3>
@@ -433,6 +439,18 @@ il0.7 .35 55
 # i0.1 .72 2m 30s
 midi pause 3.9
 
+@
+
+
+1.10
+log
+@changes around bars 41 and 45
+@
+text
+@a232 1
+I0.1 .30 pp
+d235 1
+d277 1
 @
 
 
