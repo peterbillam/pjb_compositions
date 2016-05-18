@@ -23,7 +23,8 @@ dist:
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf
 
-${A4D}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
+${A4D}/${PIECE}.pdf : ${PIECE}.a4 ${FREEBACKPAGE}.a4
+	groff -ms title | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 - ${FREEBACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
@@ -51,7 +52,7 @@ ${PIECE}.a4 : ${PIECE}
 	pkill -HUP gv
 ${PIECE}.mid : ${PIECE}
 	${MUSCRIPT} -midi ${PIECE} > $@
-title.a4 : title
+title.a4 :
 	groff -ms title | ${BANNERISE} > $@
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
