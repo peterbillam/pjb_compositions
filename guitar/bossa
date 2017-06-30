@@ -1,0 +1,34 @@
+9 systems 15 /20/
+pagenum
+title Bossa
+innerhead 20170622
+midi channel 0 patch 24
+/
+4 bars | 48 |
+| 2.308
+=1' treble8vab cha0 leg140
+=1' 8 <G B> rest' [<G B> <G B>] rest' [<G B> <G B>] rest'
+=1, 8 [<B_ E> B_ <B_ E> <C Fx>] rest, [<C Fx> <C Fx> Cx]
+|
+=1' 8 <G B> rest' [<G B> <G B>] rest' [<G B> <G B> e(1]
+=1, 8 [<C# F#x> C# <C# F#x> <D G>] rest, [<D G> D <D G>]
+|
+=1' 8 <B e)1> rest' [<B e> <B e>] rest' [<B e> <B e>] rest'
+=1, 8 [<G B> G <G B> <F# A#x>] rest, [<F# A#x> F# <F# A#x>]
+|
+=1' 8 <B e> rest' [<B e> <B e>] rest' [<B e> <B e>] rest'
+=1, 8 [<F Ax> F <F Ax> <E G#>] rest, [<E G#> E B_(2]
+/
+4 bars | 48 |
+|
+=1' 8 <G B> rest' [<G B> <G B>] rest' [<G B> <G B>] rest'
+=1, 8 [<B_)2 E> B_ <B_ E> <C Fx>] rest, [<C Fx> <C Fx> C]
+|
+=1' 8 <G B> rest' [<G B> <G B>] rest' [<G B> <G B> e(1]
+=1, 8 [<C# F#x> C# <C# F#x> <D G>] rest, [<D G> D <D G>]
+|
+=1' 8 <B e)1> rest' [<B e> <B e>] rest' [<B e> <B e>] rest'
+=1, 8 [<G B> G <G B> <F# A#x>] rest, [<F# A#x> F# <F# A#x>]
+|
+=1' 8 <B e> rest' [<B e> <B e>] rest' [<B e> <B e>] rest'
+=1, 8 [<F Ax> F <F Ax> <E G#>] rest, [<E G#> E B_]
