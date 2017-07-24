@@ -15,7 +15,8 @@ ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 
 #PIECE = bossa
-PIECE = glooming
+#PIECE = glooming
+PIECE = twinkle
 
 edit :
 	vi ${PIECE}

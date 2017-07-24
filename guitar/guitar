@@ -7,7 +7,7 @@ midi channel 0 patch 25  # transpose -1  # +3
 4 bars | 9/16 40 | 40 | 40 | 40 |
 | 2.5
 =1' treble8vab 9/16 cha0 leg99 vol95
-midi off
+# midi off
 =1' 9/16 8 rest' 4 <e a> 8. <f bb>
 =1, 9/16 8 cc64=127 [D_ 16 C#] 8 [D cc64=0  16 D_] 8 cc64=127 [Ab 16 G] cc64=0 
 |
@@ -91,7 +91,7 @@ midi on
 =1' 9/16 8 rest' 4 <f# c~> 16 [bb a g]
 =1, 9/16 8 cc64=127 [D_ 16 Eb] 8 [D cc64=0  16 D_] 16 cc64=127 8 [<F# e> 16 G] cc64=0
 
-midi off
+#midi off
 
 9 systems 25 /19/19/19/19/19/19/19/19/19 10/
 pagenum
