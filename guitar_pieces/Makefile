@@ -16,7 +16,9 @@ UTF2ISO = /home/pbin/utf2iso
 
 #PIECE = bossa
 #PIECE = glooming
-PIECE = twinkle
+#PIECE = twinkle
+#PIECE = bossaboogle
+PIECE = warmpipe
 
 edit :
 	vi ${PIECE}
