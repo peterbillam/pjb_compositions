@@ -8,6 +8,7 @@ midi channel 0 patch 25
 4 bars | 48 | 48 | 48 | 48 |
 | 1.28
 =1 treble8vab cha0
+# midi off
 =1, 16 leg99 [G#{1 leg250 A#}1 8 e] 16 leg99 [c#{1 leg250 d#}1 8 e]
 |
 =1, 16 leg99 [G#{1 leg250 A#}1 8 e] 16 leg99 [c#{1 leg250 d#}1 8 e]
@@ -98,6 +99,7 @@ il0.8   25
 /
 4 bars | 48 | 48 | 48 | 48 |
 |
+midi on
 =1' 16 leg99 [G#{'1 leg250 A#}'1 8 e] 16 leg99 [c#{'1 leg250 d#}'1 8 e]
 =1, 4 leg150 E 8 [E_ E]
 |
@@ -125,11 +127,89 @@ il1.0 .01 35
 =1' 16 leg99 [Eb{'1 leg250 F}'1 8 B] 16 leg99 [C leg250 D 8 G]
 =1, 4 leg150 G_ F_
 
+8 systems 15 / 20 / 20 / 20 20 / 20 / 20 / 20 / 20 20 / 20 20 /
+pagenum
+innerhead Warmpipe AQ p.7
 
 /
 4 bars | 48 | 48 | 48 | 48 |
 |
+=1' 16 leg99 [B_{'1 leg250 C#}'1 8 G] 16 leg99 [E{'1 leg250 F#}'1 8 G]
+=1, 4 leg150 E_ A_
 |
+=1' 16 leg99 [Ab{'1 leg250 Bb}'1 8 G] 16 leg99 [E{'1 leg250 F#}'1 8 G]
+=1, 4 leg150 E_ A_n
+|
+=1' 16 leg99 [B_{'1 leg250 C#}'1 G B] 16 leg99 [E{'1 leg250 F#}'1 G B]
+=1, 4 leg150 E_ A_
+|
+=1' 16 leg99 [Ab{'1 leg250 Bb}'1 G Bn] 16 leg99 [E{'1 leg250 F#}'1 G B]
+=1, 4 leg150 E_ A_n
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' 16 leg99 [Eb{'1 leg250 F}'1 8 B] 16 leg99 [G#{'1 leg250 A#}'1 8 B]
+=1, 4 leg150 A_ D
+|
+=1' 16 leg99 [c{'1 leg250 d}'1 8 B] 16 leg99 [G#{'1 leg250 A#}'1 8 B]
+=1, 4 leg150 Eb D
+|
+=1' 16 leg99 [Eb{'1 leg250 F}'1 B en] 16 leg99 [G#{'1 leg250 A#}'1 B e]
+=1, 4 leg150 A_ D
+|
+=1' 16 leg99 [c{'1 leg250 d}'1 B en] 16 leg99 [G#{'1 leg250 A#}'1 B e]
+=1, 4 leg150 Eb D
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' 16 leg99 [G#{'1 leg250 A#}'1 8 e] 16 leg99 [c#{'1 leg250 d#}'1 8 e]
+=1, 4 leg150 E E_
+|
+=1' 16 leg99 [f{'1 leg250 g}'1 8 e] 16 leg99 [c#{'1 leg250 d#}'1 8 e]
+=1, 4 leg150 A_ G
+|
+=1' 16 leg99 [G#{'1 leg250 A#}'1 8 e] 16 leg99 [c#{'1 leg250 d#}'1 8 e]
+=1, 4 leg150 E 8 [E_ E]
+|
+=1' 16 leg99 [f{'1 leg250 g}'1 8 e] 16 leg99 [c#{'1 leg250 d#}'1 8 e]
+=1, 4 leg150 4 A 8 [G A_]
+/
+4 bars | 48 | 48 | 48 | 48 |
+#|
+#=1' 16 leg99 [G#{'1 leg250 A#}'1 8 e] 16 leg99 [c#{'1 leg250 d#}'1 8 e]
+#=1, 4 leg150 E E_
+|
+=1' 16 leg99 [G#{'1 leg250 A#}'1 8 e] 16 leg99 [c#{'1 leg250 d#}'1 8 e]
+=1, 4 leg150 E E_
+|
+=1' 16 leg99 [f{'1 leg250 g}'1 8 e] 16 leg99 [g#{'1 leg250 a#}'1 8 e]
+=1, 4 leg150 A_ D
+|
+=1' 16 leg99 [c~{''1 leg250 d~}'1 8 e] 16 leg99 [d~{''1 leg250 e~}'1 8 e]
+=1, 4 leg150 Bb-gs5, rest
+|
+=1, 16 leg150 [e c~ d e] [bb d e bb]
+/
+3 bars | 48 | 48 | 48 |
+|
+=1, 16 leg150 [d c~ e d] [bb e d bb]
+|
+=1, 16 leg150 [e c~ d e] [bb d e bb]
+|
+=1, 16 leg150 [d c~ e d] [bb e d bb]
+/
+3 bars | 48 | 48 | 48 |
+|
+=1 16 leg150 [e c~ d e] [bb' e' 8 E_]
+|
+=1' 16 [ab d E_ f#] [c E e Bb]
+|
+=1' 16 [D d G# C] 16 [e c F# B_b]
+/
+3 bars | 48 | 48 | 48 |
+|
+=1' 16 [Bb E G_# e] [G# D F_# e]
 |
 =1' 16 vol80 leg99 [G#{'1 leg200 A#}'1 D leg99 G#{'1] \
  leg200 [A#}'1 D leg99 G#{'1 A#}'1]
