@@ -20,9 +20,14 @@ UTF2ISO = /home/pbin/utf2iso
 #PIECE = bossaboogle
 PIECE = warmpipe
 
+guitar_pieces.ps : guitar_pieces
+	${MUSCRIPT} guitar_pieces > $@
+	pkill -HUP gv
 edit :
 	vi ${PIECE}
-	${MUSCRIPT} ${PIECE} > ${PIECE}.ps
+	cat twinkle glooming warmpipe > guitar_pieces
+	# ${MUSCRIPT} ${PIECE} > ${PIECE}.ps
+	${MUSCRIPT} guitar_pieces > guitar_pieces.ps
 	pkill -HUP gv
 
 all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
@@ -51,6 +56,8 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 	lame -h t.wav $@
 	rm t.wav
 
+guitar_pieces : twinkle glooming warmpipe
+	cat twinkle glooming warmpipe > $@
 
 ${PIECE}.ps : ${PIECE}
 	${MUSCRIPT} ${PIECE} > $@
