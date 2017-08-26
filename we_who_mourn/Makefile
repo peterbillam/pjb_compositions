@@ -15,6 +15,10 @@ UTF2ISO = /home/pbin/utf2iso
 PIECE = we_who_mourn
 PLAY = IV
 
+edit :
+	vi ${PIECE}
+	muscript ${PIECE} > ${PIECE}.a4
+	pkill -HUP gv
 dev : ${PLAY}.a4 title.a4
 all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
  # ${MP3D}/${PIECE}.mp3
@@ -23,6 +27,7 @@ dist:
 	upload ${USD}/${PIECE}.pdf
 
 ${A4D}/${PIECE}.pdf : title.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+	groff -ms title | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 - ${BACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -

@@ -1020,15 +1020,15 @@ leftfoot (c) 2007 Peter J Billam
 |
 =1 min. F# min e min. d min c
 r0.5 .01 pa .18 - .30 ges .50 from .80 our
-=2 cro rest E F# G A  B A G min F#
-r0.5 .10 these pages from our empty rooms
+=2 cro rest E F# G A  B' A G min F#
+r0.5 .10 these pages .38 from our .60 empty .78 rooms
 =3 cro rest E min. E min E cro rest F# E
 r0.5 .10 these  pa .37 - .50 ges .76 from  our
 =4 smb rest cro E smb D cro C
 r0.3 .40 before .90 the
 =5 smb D cro Cn smb C cro C
 r0.3 .01 pa .23 - .38 ges .50 from .90 our
-=6 smb B cro rest min cn cro  B min A
+=6 smb B cro rest min cn cro  B' min A
 r0.5 .01 rain , .50 tide .70 and .80 rain
 =7 smb A cro A min A min rest cro F#
 r0.5  - .01 fore .40 the .50 rain .89 and
@@ -1038,7 +1038,7 @@ r0.5 .01 rain .40 and .50 tide
 r0.3 .10 the .20 rain .40 and .50 tide
 |
 =1' smb B cro B min. A cro rest A
-r0.5 .01 em .22 - .38 pty .50 rooms .90 and
+r0.5 .01 em .22 - .38 pty .50 rooms .86 and
 =2 smb G{1 cro F}1 smb Eb cro Eb
 r0.5 .01 and .48 feed .86 them
 =3 smb D# cro rest smb rest cro rest
@@ -1056,7 +1056,7 @@ r0.5 .72 wash these
 =9 smb rest
 |
 =1 smb A     cro A     min. G min F#
-r0.5  .01 feed .37 them  to .80 the
+r0.5  .01 feed .39 them  to .78 the
 =2 smb Eb    cro Eb min Eb Eb cro rest
 r0.5  .01 to .40 the .52 o - cean ,
 =3 smb rest cro rest smb rest  cro D#
@@ -1085,7 +1085,7 @@ r0.2 .01 ga .24 - .38 ther .54 here , .90 we
 =4 min C# cro C# min C# min rest cro B_ min C#
 r0.1 .01 em .12 - .20 pty .32 rooms , .70 we .84 ga .95 -
 =5 smb A_ cro A_ smb A_ cro A_
-r0.2 .01 ga .21 - .37 ther .53 here .90 to
+r0.2 .01 ga .21 - .37 ther .53 here .91 to
 =6 smb rest cro rest min rest cro G#{'1 min A}'1
 r0.6 .70 We
 =7 cro rest F# min. F#(1 smb F#)1(1-dim10 cro F#)1(2
