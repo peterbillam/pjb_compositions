@@ -18,14 +18,15 @@ UTF2ISO = /home/pbin/utf2iso
 #PIECE = glooming
 #PIECE = twinkle
 #PIECE = bossaboogle
-PIECE = warmpipe
+#PIECE = warmpipe
+PIECE = wavyplay
 
 guitar_pieces.ps : guitar_pieces
 	${MUSCRIPT} guitar_pieces > $@
 	pkill -HUP gv
 edit :
 	vi ${PIECE}
-	cat twinkle glooming warmpipe > guitar_pieces
+	cat twinkle glooming wavyplay warmpipe > guitar_pieces
 	# ${MUSCRIPT} ${PIECE} > ${PIECE}.ps
 	${MUSCRIPT} guitar_pieces > guitar_pieces.ps
 	pkill -HUP gv
@@ -38,6 +39,7 @@ dist:
 	# upload ${MP3D}/${PIECE}.mp3
 
 ${A4D}/${PIECE}.pdf : title.ps ${PIECE}.ps ${BACKPAGE}
+	groff -ms title | ${BANNERISE} > title.ps
 	${ADDMESSAGE} ${PIECE}.ps \
 	| ${PSCAT} title.ps - ${BACKPAGE} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
@@ -56,9 +58,10 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 	lame -h t.wav $@
 	rm t.wav
 
-guitar_pieces : twinkle glooming warmpipe
-	cat twinkle glooming warmpipe > $@
-
+guitar_pieces : twinkle glooming wavyplay warmpipe
+	cat twinkle glooming wavyplay warmpipe > $@
+sketches.ps : sketches
+	${MUSCRIPT} sketches > $@
 ${PIECE}.ps : ${PIECE}
 	${MUSCRIPT} ${PIECE} > $@
 play :
