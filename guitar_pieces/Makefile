@@ -14,28 +14,30 @@ PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 
-#PIECE = bossa
-#PIECE = glooming
-#PIECE = twinkle
-#PIECE = bossaboogle
-#PIECE = warmpipe
-PIECE = wavyplay
+#DEV  = bossa
+DEV  = glooming
+#DEV  = twinklie
+#DEV  = bossaboo
+#DEV  = dawnpipe
+#DEV   = softtalk
+PIECE = guitar_pieces
 
-guitar_pieces.ps : guitar_pieces
-	${MUSCRIPT} guitar_pieces > $@
-	pkill -HUP gv
+#guitar_pieces.ps : guitar_pieces
+#	${MUSCRIPT} guitar_pieces > $@
+#	pkill -HUP gv
 edit :
-	vi ${PIECE}
-	cat twinkle glooming wavyplay warmpipe > guitar_pieces
+	vi ${DEV}
+	${MUSCRIPT} ${DEV} > ${DEV}.ps
+	cat twinklie glooming wavyplay softtalk dawnpipe > guitar_pieces
 	# ${MUSCRIPT} ${PIECE} > ${PIECE}.ps
 	${MUSCRIPT} guitar_pieces > guitar_pieces.ps
 	pkill -HUP gv
 
-all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
+all : ${A4D}/guitar_pieces.pdf  ${USD}/guitar_pieces.pdf
  # ${MP3D}/${PIECE}.mp3
 dist:
-	upload ${A4D}/${PIECE}.pdf
-	upload ${USD}/${PIECE}.pdf
+	upload ${A4D}/guitar_pieces.pdf
+	upload ${USD}/guitar_pieces.pdf
 	# upload ${MP3D}/${PIECE}.mp3
 
 ${A4D}/${PIECE}.pdf : title.ps ${PIECE}.ps ${BACKPAGE}
@@ -58,13 +60,17 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 	lame -h t.wav $@
 	rm t.wav
 
-guitar_pieces : twinkle glooming wavyplay warmpipe
-	cat twinkle glooming wavyplay warmpipe > $@
+guitar_pieces : twinklie glooming wavyplay softtalk dawnpipe
+	cat twinklie glooming wavyplay softtalk dawnpipe > $@
 sketches.ps : sketches
 	${MUSCRIPT} sketches > $@
+	pkill -HUP gv
 ${PIECE}.ps : ${PIECE}
 	${MUSCRIPT} ${PIECE} > $@
+	pkill -HUP gv
 play :
+	${MUSCRIPT} -midi ${DEV} | midisox_lua - -d stat
+playall :
 	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat
 title.ps : title
 	groff -ms title | ${BANNERISE} > $@
