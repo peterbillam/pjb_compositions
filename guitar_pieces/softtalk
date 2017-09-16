@@ -1,6 +1,6 @@
 8 systems 30 /  20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
 pagenum
-title Softtalk
+title SoftTalk
 innerhead book AQ p. 8-9
 midi channel 0 patch 25
 
@@ -133,6 +133,8 @@ il1.0 .15 30
 
 
 8 systems 10 / 20 / 20 / 20 / 20 / 20 / 20 / 20 15 / 20 20/
+pagenum
+innerhead SoftTalk, book AQ p. 8-9
 
 /
 4 bars | 36 | 36 | 36 | 36 |

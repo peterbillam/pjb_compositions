@@ -1,4 +1,4 @@
-8 systems 30 /20/20 4/20 4/20 8/20 2/20/20 6/20 15/
+8 systems 30 /20/20 6/20 6/20 10/20 4/20/20 8/20 10/
 pagenum
 title Twinklie
 innerhead 20170709
@@ -13,7 +13,7 @@ midi channel 0 patch 25 transpose +1
 # midi off
 
 |
-=1' 16 [f-s2 a e-s0] [a e-s1 a] [f#-s4 g-s1 e-s0] [g e-s2 g]
+=1' 16 [f-s2 a-s3 e-s0] [a e-s1 a] [f#-s4 g-s1 e-s0] [g e-s2 g]
 =1, 8. D)1 4. D 8. D(1
 |
 =1' 16 [fn a e-s0] [a e-s1 a] [f# g e-s0] [g e-s2 g]

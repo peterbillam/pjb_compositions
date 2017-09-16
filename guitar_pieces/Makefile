@@ -15,11 +15,12 @@ ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 
 #DEV  = bossa
-DEV  = glooming
+#DEV  = glooming
 #DEV  = twinklie
 #DEV  = bossaboo
 #DEV  = dawnpipe
 #DEV   = softtalk
+DEV = starskin
 PIECE = guitar_pieces
 
 #guitar_pieces.ps : guitar_pieces
@@ -28,7 +29,7 @@ PIECE = guitar_pieces
 edit :
 	vi ${DEV}
 	${MUSCRIPT} ${DEV} > ${DEV}.ps
-	cat twinklie glooming wavyplay softtalk dawnpipe > guitar_pieces
+	cat twinklie glooming wavyplay starskin softtalk dawnpipe > guitar_pieces
 	# ${MUSCRIPT} ${PIECE} > ${PIECE}.ps
 	${MUSCRIPT} guitar_pieces > guitar_pieces.ps
 	pkill -HUP gv
@@ -61,7 +62,7 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 	rm t.wav
 
 guitar_pieces : twinklie glooming wavyplay softtalk dawnpipe
-	cat twinklie glooming wavyplay softtalk dawnpipe > $@
+	cat twinklie glooming wavyplay starskin softtalk dawnpipe > $@
 sketches.ps : sketches
 	${MUSCRIPT} sketches > $@
 	pkill -HUP gv

@@ -1,6 +1,6 @@
 9 systems 25 /19/19/19/19/19/19/19/19/19 10/
 pagenum
-title Wavyplay
+title WavyPlay
 # From book AQ page 2
 innerhead Peter Billam
 midi channel 0 patch 25  # transpose -1  # +3
@@ -118,7 +118,7 @@ I0.7 .01 p
 
 9 systems 10 / 19 8/ 19 8/ 19 15/19/19/19/19/19/19 5/
 pagenum
-innerhead Wavyplay    Peter Billam
+innerhead WavyPlay    Peter Billam
 # From book AQ page 2
 
 /
