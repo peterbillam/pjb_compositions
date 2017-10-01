@@ -1,6 +1,6 @@
 8 systems 30 /20 1/20 10/20 12/20 15/20 8/20 /20 11/20 6/
 pagenum
-title Twinklie
+title Twinkled
 innerhead 20170709
 midi channel 0 patch 25 transpose +1
 /
@@ -126,7 +126,7 @@ il1.1 25
 
 8 systems 5 /20 4/20 2/20/20 4/20 4/20 4/20 2/20 10/
 pagenum
-innerhead Twinklie 20170709
+innerhead Twinkled 20170709
 
 /
 3 bars | 4 4 4 4 4 5 4 4 4 4 4 3 | 4 4 5 4 4 5 4 4 4 4 4 3 \

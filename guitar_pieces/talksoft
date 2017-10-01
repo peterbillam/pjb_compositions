@@ -1,39 +1,39 @@
 8 systems 30 /  20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
 pagenum
-title SoftTalk
+title TalkSoft
 innerhead book AQ p. 8-9
 midi channel 0 patch 25
 
 /
-4 bars | 27 | 10 9 9 | 10 9 9 | 10 9 9 |
+4 bars | 4.5 4.5 4.5 4.5 4.5 4 | 5 5 5 5 5 4 | 5 5 5 5 5 4 | 5 5 5 5 5 4 |
 | 2.1
 r0.5 .10 mm=88
 =1 treble8vab cha0 leg99
 # midi off
 =1, vol80 8 [D D D D D D]
 |
-=1' vol100 8 <a d~ f~#> rest' 2 <g# b e~>
+=1' vol100 8 <a d~ f~#> rest'' 2 <g# b e~>
 =1, vol80 8 [D D D D D D]
 |
 =1' vol100 8 <f# b d~#> rest' 2 <e a c~#>
 =1, vol80 8 [D D D D D D]
 |
-=1' vol100 4 <d# f# b> <c# e a> 4 <B e g#>
+=1' vol100 8 <d# f# b> rest' 8. <c# e a> 16 rest 4 <B e g#>
 =1, vol80 8 [D D D D D D]
 /
-5 bars | 6.5 5 4 4 4 4 | 5 5 4 4 4 4 | 5 5 4 4 4 4 | 6.5 5 5 5 5 4 | 22 |
+5 bars | 6.5 5 4 4 4 4 | 5 5 4 4 4 4 | 5 5 4 4 4 4 | 6.5 5 5 5 5 4 | 21 |
 |
 il0.7 .30 5
 =1' vol100 2. <Ar d#l f#>
 =1, vol80 8 [Dr D D D D D]
 |
 =1' vol100 8 <A d f#> rest' 2 <G# B e>
-=1, vol80 8 [D D D D A_ A_]
+=1, vol80 8 [D D D D D D]
 |
 =1' vol100 8 <F# B d#> rest' 2 <E A c#>
-=1, vol80 8 [A_ A_ A_ A_ E_ E_]
+=1, vol80 8 [A_ A_ A_ A_ A_ A_]
 |
-=1' vol100 4 <D#lr F# B> <C# E A> <B_ E G#>
+=1' vol100 8 <D#lr F# B> rest 8. <C# E A> 16 rest' 4 <B_ E G#>
 =1, vol80 8 [E_r E_ E_ E_ E_ E_]
 |
 =1' vol100 2. <A_ D F#>
@@ -48,8 +48,9 @@ il0.8 .17 10
 =1 vol90 leg150 4 Eb, 2 f'
 =1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,] cc64=0
 | 1.95
-=1 vol90 leg150 4 D, 2 f#'
-=1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,] cc64=0
+=1' vol90 leg150 4 blank 2 f#'
+=1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B' A] cc64=0
+=1, vol90 leg150 2 D 4 D
 | 1.9
 =1 vol90 leg150 4 Eb, 2 g'
 =1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,] cc64=0
@@ -61,7 +62,7 @@ r0.5 .60 mm=100
 =1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,] cc64=0
 |
 =1' vol100 leg99 2. f-gs2
-=1, vol80 leg190 cc64=127 8 [A G A G A G] cc64=0
+=1, vol80 leg190 cc64=127 8 [A-Ip, G A G A G] cc64=0
 | 1.8
 il0.7 .30 15
 =1' vol100 leg99 2. f-gs1
@@ -73,13 +74,14 @@ il0.7 .30 15
 4 bars | 36 | 36 | 36 | 36 |
 |
 =1 vol90 leg150 4 A_, 2 B'
-=1 vol80 leg190 cc64=127 8 [G F] [G, F,] [G, F,] cc64=0
+=1 vol80 leg190 cc64=127 8 [G F-s4] [G, F,] [G, F,] cc64=0
 |
 =1 vol90 leg150 4 B_b, 2 c'
 =1 vol80 leg190 cc64=127 8 [G F] [G, F,] [G, F,] cc64=0
 |
-=1 vol90 leg150 4 A_, 2 c#'
-=1 vol80 leg190 cc64=127 8 [G F] [G, F,] [G, F,] cc64=0
+=1' vol90 leg150 4 blank 2 c#'
+=1 vol80 leg190 cc64=127 8 [G F-s3] [G, F,] [G F] cc64=0
+=1, vol90 leg150 2 A_ 4 A_
 |
 il0.7 .01 20
 =1 vol90 leg150 4 B_b, 2 d'
@@ -90,8 +92,9 @@ il0.7 .01 20
 =1 vol90 leg150 4 B_, 2 c#'
 =1 vol80 leg190 cc64=127 8 [G F] [G, F,] [G, F,] cc64=0
 |
-=1 vol90 leg150 4 C, 2 d'
-=1 vol80 leg190 cc64=127 8 [G F] [G, F,] [G, F,] cc64=0
+=1' vol90 leg150 4 blank 2 d
+=1 vol80 leg190 cc64=127 8 [G F] [G, F,] [G F] cc64=0
+=1, vol90 leg150 2 C 4 C
 |
 =1 vol90 leg150 4 C#, 2 eb'
 =1 vol80 leg190 8 cc64=127 [G F] [G, F,] [G, F,] cc64=0
@@ -118,69 +121,74 @@ il0.8 .25 25
 4 bars | 36 | 36 | 36 | 36 |
 |
 =1 vol90 leg290 4 F, A_, g'
-=1 vol80 leg190 8 cc64=127 [B' A'] [B' A'] [B, A,] cc64=0
+=1 vol80 leg190 8 cc64=127 [B' A'] [B' A'] [B, A,] cc64=0 leg99
+=1 1 blank 32 blank-s3,-s4,
 
 |
-il1.0 .15 30
-=1' vol75 8 [c# B c# B c# B]
-=1, vol90 cc64=127 2. <F A> cc64=0
+il1.0 .45 30
+=1' vol75 leg190 8 [c#-s2 B-s0 c# B c# B] leg99
+=1, vol90 cc64=127 2. <F-gs5, A> cc64=0
+=1 1 blank 32 blank-,-s1,-s3,
 |
-=1' vol75 8 [c# B c# B c# B]
+=1' vol75 leg190 8 [c#-s2 B c# B c#-s4 B] leg99
 =1, vol90 cc64=127 2 <E G#> 4 <D F#> cc64=0
+=1 2 blank 4.. blank-,-s1,-s2, 32 blank-,-s1,-s2,
 |
-=1' vol75 leg190 8 [c# B c# B c# B]
-=1, vol90 leg99 4 <C# F> <D F#> <Ebl Gn>
+=1' vol75 leg190 8 [c# B c# B c# B] leg99
+=1, vol90 4 <C# F> <D F#> <Ebl G>
 
 
 8 systems 10 / 20 / 20 / 20 / 20 / 20 / 20 / 20 15 / 20 20/
 pagenum
-innerhead SoftTalk, book AQ p. 8-9
+innerhead TalkSoft, book AQ p. 8-9
 
 /
 4 bars | 36 | 36 | 36 | 36 |
 |
-=1' vol75 8 [c# B c# B c# B]
+=1' vol75 leg190 8 [c# B c# B c# B] leg99
 =1, vol90 cc64=127 2. <E G#> cc64=0
 |
-=1' vol75 8 [e d e d e d]
+=1' vol75 leg190 8 [e d e d e d] leg99
 =1, vol90 cc64=127 2. <E_ G#> cc64=0
+=1 1 blank 32 blank-s2,-,-s1,
 |
-il1.1 .21 35
-=1' vol75 8 [e d e d e d]
+il1.2 .40 35
+=1' vol75 leg190 8 [e-s0 d-s4 e d e d] leg99
 =1, vol90 cc64=127 2 <F_ A> 4 <G_ B> cc64=0
 |
-=1' vol75 leg190 8 [e d e d e d]
+=1' vol75 leg190 8 [e d e d e d] leg99
 =1, vol90 leg99  4 <A_b c> <G_ B> <G_b Bb>
 /
-4 bars | 36 | 36 | 36 | 36 |
+4 bars | 6 6 6 6 6 5 | 7 6 6 6 6 5 | 7 6 6 6 6 5 | 7 6 6 7 6 5 |
 |
-=1' vol75 8 [e d e d e d]
+=1' vol75 leg190 8 [e d e d e d] leg99
 =1, vol90 cc64=127 2. <F_ A> cc64=0
+=1 1 blank 32 blank-s3,-s4,
 |
-=1' vol75 8 [c# B c# B c# B]
-=1, vol90 cc64=127 2. <F A> cc64=0
+=1' vol75 leg190 8 [c#r-s2 B-s0 c# B c# B] leg99
+=1, vol90 cc64=127 2. <Fr A> cc64=0
 |
-=1' vol75 8 [c# B c# B c# B]
-=1, vol90 cc64=127 2 <E G#> 4 <D F#> cc64=0
+=1' vol75 leg190 8 [c#r B c# B c# B] leg99
+=1, vol90 cc64=127 2 <Er G#> 4 <D F#> cc64=0
 |
 il1.0 .21 40
-=1' vol75 leg190 8 [c# B c# B c# B]
-=1, vol90 leg99 4 <C# F> <D F#> <Ebl Gn>
+=1' vol75 leg190 8 [c#r B c# B c# B] leg99
+=1, vol90 leg99 4 <C#r F> <D F#> <Ebl G>
 /
-4 bars | 36 | 36 | 36 | 36 |
+4 bars | 6 6 6 6 6 5 | 6 6 6 6 6 5 | 7 6 6 7 6 5 | 7 6 6 6 6 5 |
 |
-=1' vol75 8 [c# B c# B c# B]
+=1' vol75 leg190 8 [c# B c# B c# B] leg99
 =1, vol90 cc64=127 2. <E G#> cc64=0
 
 |
-=1' vol75  8 [c# B c# B c# B]
-=1, vol90 cc64=127 2. <F A> cc64=0
+=1' vol75 leg190  8 [c#r B c# B c# B] leg99
+=1, vol90 cc64=127 2. <Fr A> cc64=0
 |
-=1' vol75 leg190  8 [c# B c# B c# B]
-=1, vol90 leg99 2 <E G#> 4 <Ebl Gn>
+=1' vol75 leg190  8 [c#r B c# B c# B] leg99
+=1, vol90 leg99 2 <Er G#> 4 <Ebll Gnl>
 |
-=1' vol75 8 [c# B c# B c# B]
-=1, vol90 cc64=127 2. <D F#> cc64=0
+=1' vol75 leg190 8 [c#r B c# B c# B] leg99
+=1, vol90 cc64=127 2. <Dr F#> cc64=0
 
 
 /
@@ -188,64 +196,64 @@ il1.0 .21 40
 | 1.8
 il1.0 .21 45
 =1' vol90 2. e
-=1' vol70 8 [Br A B A B A]
+=1' vol70 leg190 8 [Br A B A B A] leg99
 =1, vol90 cc64=127 2. D
 |
 =1' vol90 2. f#
-=1' vol70 8 [Br A B A B A]
-=1, vol90 2. D cc64=0
+=1' vol70 leg190 8 [Br A B A B A] leg99
+=1, vol90 2 D 4 D cc64=0
 |
 =1' vol90 2. fn
-=1' vol70 8 [Br A B A B A]
+=1' vol70 leg190 8 [Br A B A B A] leg99
 =1, vol90 2. cc64=127 Eb
 |
 #=1' vol90 2. f#
 =1' vol90 2. g
-=1' vol70 8 [Br A B A B A]
+=1' vol70 leg190 8 [Br A B A B A] leg99
 #=1, vol90 2. Eb
 #=1, vol90 2. En
-=1, vol90 2. F cc64=0
+=1, vol90 2 F 4 F cc64=0
 /
 4 bars | 7 6 6 6 6 6 | 7 6 6 6 6 6 | 7 6 6 6 6 6 | 7 6 6 6 6 6 |
 |
 =1' vol90 4 a g f#
-=1 vol70 8 [Br' A] [B A, B A,]
-=1, vol90 2. F#
+=1 vol70 leg190 8 [Br' A] [B A, B A,] leg99
+=1, vol90 2 F# 4 rest,,,
 |
 il1.0 .21 50
 =1' vol90 2. e
-=1' vol70 8 [Br A B A B A]
+=1' vol70 leg190 8 [Br A B A B A] leg99
 =1, vol90 cc64=127 2. F cc64=0
 
 | 
 =1' vol90 2. d
-=1' vol70 8 [Er D E D E D]
+=1' vol70 leg190 8 [Er D E D E D] leg99
 =1, vol90 cc64=127 2. E_
 | 
 =1' vol90 2. d
-=1' vol70 8 [Er D E D E D]
-=1, vol90 2. A_ cc64=0
+=1' vol70 leg190 8 [Er D E D E D] leg99
+=1, vol90 2 A_ 4 A_ cc64=0
 /
 4 bars | 7 6 6 6 6 6 | 7 6 6 6 6 6 | 7 6 6 6 6 6 | 7 6 6 6 6 6 |
 | 
 =1' vol90 2 c 4 g
-=1' vol70 8 [Er D E D E D]
+=1' vol70 leg190 8 [Er D E D E D] leg99
 =1, vol90 cc64=127 2. B_b cc64=0
 | 
 =1' vol90 2. d
-=1' vol70 8 [Er D E D E D]
+=1' vol70 leg190 8 [Er D E D E D] leg99
 =1, vol90 2. cc64=127 B_n
 
 | 1.82
 il0.8 .18 55
 #=1' vol90 2. c#-gs3
 =1' vol90 4 f# e d
-=1  vol70 8 [F#r E] [F#, E, F#, E,] cc64=0
+=1  vol70 leg190 8 [F#r E] [F#, E, F#, E,] cc64=0 leg99
 =1, vol90 2. E_
 | 1.85
 #=1' vol90 2. B-s0
 =1' vol90 2 c# 4 B
-=1  vol70 8 [F#r E] [F#, E, F#, E,]
+=1  vol70 leg190 8 [F#r E] [F#, E, F#, E,] leg99
 =1, vol90 cc64=127 2. E_
 
 /
@@ -270,12 +278,13 @@ il0.7 .31 60
 =1' vol+8 8 <Ar dn f#> rest 2 <B e g#>
 =1, vol-12 8 [Dr D D D D D] cc64=0
 | 2.1
+i1.0 .70 dim  .  .  .
 =1' vol+8 8 <c# e a> rest 2 <d#l f# b>
 =1, vol-12 cc64=127 8 [D D D D D D]
 |
 =1' vol+8 4 <e a c~#> <f# b d~#> <g# b e~>
 =1, vol-12 8 [D D D D D D] cc64=0
-r1.1 .10 mm=88
+r1.1 .20 mm=88
 | 3.0
 =1' vol+8 2. <a d~ f~#>
 =1, 2. D cc64=0

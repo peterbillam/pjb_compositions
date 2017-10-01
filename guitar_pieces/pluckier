@@ -1,0 +1,283 @@
+9 systems 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
+pagenum
+title Pluckier
+innerhead book AQ pp. 11, 12
+midi channel 0 patch 25
+
+/
+3 bars | 5 5 5 5 4 7 7 7 5 4 5 4 \
+       | 7 7 5 5 5 5 5 5 5 7 5 4 | 7 7 5 5 5 5 5 5 5 7 5 4 |
+| 1.8
+=1 treble8vab cha0 leg150
+# midi off
+#=1 8 G_b 4 G_b 8 [G_b 8. G_b 16 D]
+=1 8 [G_b 8. G_b 16 D] [G_b B_b 8. G_b 16 D]
+|
+=1 16 [G_b B_b G_b D A_ D] [F_ C F_ D B_n D]
+|
+=1 16 [G_b B_b G_b D A_ D] [F_ C F_ D B_n D]
+/
+3 bars | 5 7 5 5 5 5 7 5 5 7 5 4 \
+       | 5 5 5 5 5 5 7 5 5 5 5 4 | 5 5 7 5 7 5 5 5 7 5 7 4 |
+|
+=1 16 [A_b C A_b D C D] [G_ C# G_ E Cn E]
+|
+il0.7 .10 5
+=1 16 [A_n C A_ D C D] [A_ Eb A_ G D G]
+
+|
+=1' 16 [D B] [D f#] [B f#]  [D# c] [D# f#] [c f#]
+=1, 2. A_
+/
+3 bars | 7 5 7 6 7 5 7 5 7 5 7 4 \
+ | 7 5 7 5 7 5 5 5 7 5 7 4 | 7 5 7 7 7 5  5 5 7 5 7 4 |
+|
+=1' 16 [E c#] [E f#] [c# f#]  [D# cn] [D# f#] [c f#]
+=1, 4. A_ A_
+|
+=1' 16 [E c#] [E g#] [c# g#] [F d] [F g#] [d g#]
+=1, 2. A_
+|
+=1' 16 [F# eb] [F# g#] [eb g#] [Fn d] [F g#] [d g#]
+=1, 4. A_ 4 A_ 8 A_
+/
+3 bars | 5 5 5 5 5 5 7 5 5 7 5 4 \
+ | 5 5 5 5 5 5 7 5 5 7 5 4 | 7 5 7 6 7 5 5 6 7 5 7 4 |
+|
+il0.7    10
+=1' 16 [F d] [F a] [d a] [F# eb] [F# a] [eb a]
+=1, 4. A_ A_
+|
+=1' 16 [G e] [G a] [e a] [F# eb] [F# a] [eb a]
+=1, 4. A_ 4 A_ 8 A_
+|
+=1' 16 [A f#] [A c~#] [f# c~#] [Bb g] [Bb c~#] [g c~#]
+=1, 4. E_ E_
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [B g#] [B c~#] [g# c~#] [Bb gn] [Bb c~#] [g c~#]
+=1, 4. E_ 4 E_ 8 E_
+|
+=1' 16 [Bb g] [Bb d~] [g d~] [Bn g#] [B d~] [g# d~]
+=1, 4. E_ E_
+|
+il1.2 .03 15
+=1' 16 [c a] [c d~] [a d~] [B g#] [B d~] [g# d~]
+=1, 4. E_ 8 [E_ E_ E_]
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [c a] [c e~] [a e~] [c# bb] [c# e~] [bb e~]
+=1, 2. E_
+|
+=1' 4. <f(2 d~(1> 8 [<f)2 d~)1> <B d> E_]
+
+|
+=1' 16 [A d] [A e] [d e]  [G# d] [G# e] [d e]
+=1, 4. B_ B_b
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [Gn d] [G e] [d e]  [G# d] [G# e] [d e]
+=1, 4. F_ 4 F_# 8 F_#
+|
+il1.0 .03 20
+=1' 16 [A d] [A e] [d e]  [A# d] [A# e] [d e]
+=1, 4. G_ 4 G_# 8 G_#
+|
+=1' 16 [Gn d] [G e] [d e]  [G# d] [G# e] [d e]
+=1, 4. A_ 4 A_# 8 A_#
+/
+3 bars | 48 \
+ | 48 | 48 |
+
+#|
+#=1' 16 [A d] [A e] [d e]  [Bb d] [Bb e] [d e]
+#=1, 4. B_ C
+#|
+#=1' 16 [A d] [Ab e] [d e]  [G d] [F# e] [d e]
+#=1, 4 B_ 8 B_b 4 A_ 8 G_#
+#|
+#=1' 16 [A d] [Ab e] [d e]  [G d] [F# e] [d e]
+#=1, 4 G_ 8 G_b 4 F_ 8 E_
+
+|
+=1' 16 [A d] [A e] [d e]  [Bb d] [A e] [d e]
+=1, 4. B_ 4 C 8 B_
+|
+=1' 16 [Ab d] [G e] [d e]  [B d] [Bb e] [d e]
+=1, 4 B_b 8 A_ 4 A_b 8 G_
+|
+=1' 16 [A d] [Ab e] [d e]  [G d] [Gb e] [F d]
+=1, 4 G_b 8 F_ 4. E_
+
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+il0.7 .03 25
+=1' 16 [D A] [D B] [A B]  [D A] [D B] [A B]
+=1, 8 [F_ G_b F_] 4. E_
+|
+=1' 16 [D A] [D B] [A B]  [D A] [D B] [A B]
+=1, 8 [F_ G_b F_] 4. E_
+
+|
+=1' 16 [D A] [D B] [A B]  [C# A] [C# B] [A B]
+=1, 4 F_ 8 G_b 8 [F_ E_ F_]
+
+9 systems 2 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
+pagenum
+innerhead  Pluckier
+
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [D A] [D B] [A B]  [D# A] [D# B] [A B]
+=1, 4. F_# 8 [G_ A_ B_]
+
+$TMP = {
+|
+=1' 16 [D A] [D B] [A B]  [D# A] [D# B] [A B]
+=1, 4. F_# 8 [G_ A_ B_]
+
+#|
+#=1' 16 [E A] [E B] [A B]  [F A] [F B] [A B]
+#=1, 4. G_ A_b
+|
+=1' 16 [F# A] [F# B] [A B]  [G A] [G B] [A B]
+=1, 4. E_ F_
+|
+=1' 16 [E A] [E B] [A B]  [F A] [F B] [A B]
+=1, 4. F_# 4 G_ 8 F_#
+
+|
+=1' 16 [Eb A] [Eb B] [A B]  [D A] [D B] [A B]
+=1, 8 [F_ G_b F_] 4. E_
+|
+=1' 16 [Eb A] [Eb B] [A B]  [D A] [D B] [A B]
+=1, 8 [F_ G_b F_] 4 E_ 8 F_
+
+|
+=1' 16 [Eb A] [Eb B] [A B]  [D A] [D B] [A B]
+=1, 4. blank 8 [G_ A_b G_]
+|
+=1' 16 [D A] [D B] [A B]  [D# A] [D# B] [A B]
+=1, 8 [F_# G_ F_#]  4. F_n
+}
+
+|
+=1' cc64=127 16 [E_ C# F# A] [E_ C# F# B] [E_ C# A B]
+|
+il0.7 .03 30
+=1' 16 [E_ F# A B]   [C# F# A B] [C# F# A e]
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [C# F# B e] [C# A B e] [F# A B e] cc64=0
+|
+=1' 16 [A B A e B e] [A B A e B e]
+=1, 4 Gr 8 F# 4 E 8 D
+|
+=1' 16 [A B A e B e] [A B A e B e]
+=1, 8 [C# B_ A_] 4 Gr 8 F#
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [A B A e B e] [A B A e B e]
+=1, 4 E 8 D [C# B_ A_]
+
+|
+il1.2 .03 35
+=1' 16 [B e B a e a] [B e B a e a]
+=1, 8 [G F# D] 4 C# 8 A_
+|
+=1' 16 [B e B a e a] [B e B a e a]
+=1, 8 [G F# D] 4 C# 8 A_
+/
+3 bars | 48 \
+ | 48 | 48 |
+
+
+|
+=1' 16 [D B] [D f#] [B f#]  [D# c] [D# f#] [c f#]
+=1, 4. A_ A_
+|
+=1' 16 [E c#] [E f#] [c# f#]  [D# cn] [D# f#] [c f#]
+=1, 4. A_ 4 A_ 8 A_
+|
+=1' 16 [E c#] [E g#] [c# g#] [F d] [F g#] [d g#]
+=1, 4. A_ A_
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+il1.0   40
+=1' 16 [F# eb] [F# g#] [eb g#] [Fn d] [F g#] [d g#]
+=1, 4. A_ 4 A_ 8 A_
+|
+=1' 16 [F d] [F a] [d a] [F# eb] [F# a] [eb a]
+=1, 4. A_ 4 A_ 8 A_
+|
+=1' 16 [G e] [G a] [e a] [F# eb] [F# a] [eb a]
+=1, 4 A_ 8 A_ [A_ A_ A_]
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [A f#] [A c~#] [f# c~#] [Bb g] [Bb c~#] [g c~#]
+=1, 4. E_ 4 E_ 8 E_
+|
+=1' 16 [B g#] [B c~#] [g# c~#] [Bb gn] [Bb c~#] [g c~#]
+=1, 4. E_ 4 E_ 8 E_
+|
+il1.2 .03 45
+=1' 16 [Bb g] [Bb d~] [g d~] [Bn g#] [B d~] [g# d~]
+=1, 4. E_ 4 E_ 8 E_
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [c a] [c d~] [a d~] [B g#] [B d~] [g# d~]
+=1, 4. E_ 4 E_ 8 E_
+|
+=1' 16 [c a] [c e~] [a e~] [c# bb] [c# e~] [bb e~]
+=1, 4 E_ 8 E_ [E_ E_ E_]
+|
+#=1' vol+10 2 <d g# f~#> 4 e~(1
+=1' vol+10 2. <d g# f~#>
+=1, 2. E_
+/
+3 bars | 48 \
+ | 48 | 48 |
+
+|
+# =1' 2. e~)1
+=1' vol-25 cc64=127 16 [A_ F# A A_ F# B] [A_ A B F# A B]
+|
+il0.8   50
+=1' 16 [F# A B F# A e] [F# B e A B e]
+|
+=1' 16 [A B A e B e] [F# A F# B A B]
+/
+3 bars | 48 \
+ | 48 | 48 |
+|
+=1' 16 [C# F# C# A F# A] [A_ C# A_ F# C# F#]
+|
+=1' 16 [A_ C# A_ F# C# F] [E_ C# E_ F# C# F#(1]
+|
+=1' 2. F#)1
+#=1' 16 rest,, A_(2 4 A_)2(2 4. A_)2 cc64=0
+#=1, 2. E_ cc64=0
+=1, 2. A_ cc64=0
+
+midi pause 4
+

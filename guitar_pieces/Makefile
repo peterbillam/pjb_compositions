@@ -14,15 +14,16 @@ PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 
-#DEV  = twinklie
+#DEV  = twinkled
 #DEV  = glooming
-#DEV  = wavyplay
+#DEV  = waveride
 #DEV  = dawnpipe
-#DEV  = softtalk
-#DEV  = starskin
+#DEV  = talksoft
+#DEV  = twowheel
 #DEV  = bossaboo
 #DEV  = bossa
-DEV  = bluemoon
+#DEV  = bluemoon
+DEV  = pluckier
 PIECE = guitar_pieces
 
 #guitar_pieces.ps : guitar_pieces
@@ -30,10 +31,9 @@ PIECE = guitar_pieces
 #	pkill -HUP gv
 edit :
 	vi ${DEV}
-	${MUSCRIPT} ${DEV} > ${DEV}.ps
-	cat twinklie glooming wavyplay starskin softtalk bluemoon dawnpipe \
-	  > guitar_pieces
-	# ${MUSCRIPT} ${PIECE} > ${PIECE}.ps
+	# ${MUSCRIPT} ${DEV} > ${DEV}.ps
+	cat twinkled glooming dawnpipe waveride \
+	  twowheel talksoft bluemoon pluckier > guitar_pieces
 	${MUSCRIPT} guitar_pieces > guitar_pieces.ps
 	pkill -HUP gv
 
@@ -64,8 +64,10 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 	lame -h t.wav $@
 	rm t.wav
 
-guitar_pieces : twinklie glooming wavyplay softtalk dawnpipe
-	cat twinklie glooming wavyplay starskin softtalk bluemoon dawnpipe > $@
+guitar_pieces : twinkled glooming dawnpipe waveride \
+ twowheel talksoft bluemoon pluckier
+	cat twinkled glooming dawnpipe waveride \
+	  twowheel talksoft bluemoon pluckier > $@
 sketches.ps : sketches
 	${MUSCRIPT} sketches > $@
 	pkill -HUP gv
