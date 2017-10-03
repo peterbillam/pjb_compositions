@@ -1,7 +1,9 @@
-9 systems 18 / 20 / 20 2 / 20 8 / 20 4 / 20 10 / 20 / 20 2 / 20 2 / 20 10/
+9 systems 18 / 20 / 20 2 / 20 10 / 20 6 / 20 12 / 20 1/ 20 3/ 20 3 / 20 16/
 title DawnPipe
 pagenum
-innerhead AQ p.7
+# innerhead AQ p.7
+innerhead Eight Pieces for Guitar
+leftfoot (c) 2017  Peter Billam
 midi channel 0 patch 24
 
 /
@@ -129,10 +131,11 @@ il1.0 .01 35
 =1' 16 leg99 [Eb{'1 leg250 F}'1 8 B] 16 leg99 [B_ leg250 Eb 8 G]
 =1, 4 leg150 G_ F_
 
-8 systems 15 / 20 5 / 20 5 / 20 20 / 20 / 20 / 20 / 20 20 / 20 10 /
+8 systems 15 / 20 6 / 20 6 / 20 22 / 20 / 20 / 20 / 20 22 / 20 15 /
 pagenum
-innerhead DawnPipe
+innerhead DawnPipe    Peter Billam
 # AQ p.7
+leftfoot (c) 2017  Peter Billam
 
 /
 4 bars | 7 6 6 5 7 6 6 5| 7 6 6 5 7 6 6 5| 7 6 6 6 7 6 6 5 \
@@ -240,5 +243,6 @@ b1.0    p
 =1, 8 leg99 [e),2 8. e e]
 |
 =1, 2 leg160 e
+i0.5 .83 1:25
 
 midi pause 4.0

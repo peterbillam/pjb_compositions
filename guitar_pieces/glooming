@@ -1,7 +1,9 @@
-7 systems 35 /20/20/20/20/20/20/20 20/
+7 systems 30 /20/20/20 3/20 2/20 3/20/20 30/
 pagenum
 title Glooming
-innerhead 20170630
+# innerhead 20170630
+innerhead Eight Pieces for Guitar
+leftfoot (c) 2017  Peter Billam
 midi channel 0 patch 24
 /
 4 bars | 4 4 6.8 4 4 5 4 4 5 4 3 3 | 4 4 7 5 4 5 4 4 6.8 4 3 3 \
@@ -141,7 +143,8 @@ il1.0  25
 
 7 systems 30/20/20/20/20/20 10/20/20 30/
 pagenum
-innerhead Glooming
+innerhead Glooming    Peter Billam
+leftfoot (c) 2017  Peter Billam
 
 /
 4 bars | 12/16 4 4 7 4 4 5 4 4 5 4 3 3 | 4 4 7 5 4 5 4 4 6.5 4 3 3 \
@@ -305,5 +308,6 @@ I0.9 .99 p
 |
 =1' 2. b-s0
 =1, 2. <D)8 A)6 d)4>
+i0.7 .80 2:30
 
 midi pause 4.0

@@ -1,7 +1,9 @@
 7 systems 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
 pagenum
 title TwoWheel
-innerhead Book AQ p.10
+innerhead Eight Pieces for Guitar
+# innerhead Book AQ p.10
+leftfoot (c) 2017  Peter Billam
 midi channel 0 patch 25 transpose +2
 
 /
@@ -80,9 +82,10 @@ il0.8   15
 =1' 15/16 cc64=127 8 [A-s2 16 B-s0 e A] 8 [B 16 e A B] 8 [e 16 A B e]
 =1, 15/16 1 A_)2
 
-8 systems 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
+8 systems 10 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 15 /
 pagenum
-innerhead TwoWheel Book AQ p.10
+innerhead TwoWheel    Peter Billam
+leftfoot (c) 2017  Peter Billam
 
 /
 2 bars |  25/16 5 5 5 5 5 5 4 8 5 5 5 4 5 8 5 5 4 5 5 8 5 4 5 5 4 \
@@ -166,6 +169,7 @@ il0.7 .03 30
 =1 cc64=127 8 [A_ 16 A_ A_ A_] 8 [A_ 16 A_ A_ A_]
 |
 =1 1 A_ cc64=0
+i0.5 .70 1:20
 
 midi pause 3.0
 

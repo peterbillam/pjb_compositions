@@ -1,8 +1,9 @@
-8 systems 30 /20 1/20 10/20 12/20 15/20 8/20 /20 11/20 6/
+8 systems 30 /20 2/20 11/20 13/20 16/20 12/20 /20 12/20 10/
 pagenum
 title Twinkled
-innerhead 20170709
-midi channel 0 patch 25 transpose +1
+innerhead Eight Pieces for Guitar
+leftfoot (c) 2017  Peter Billam
+midi channel 0 patch 25
 /
 4 bars | 10 9 9 9 | 4 4 4 4 4 6 4 4 4 4 4 3 \
  | 4 4 4 4 4 6 4 4 4 4 4 3 | 10 9 9 9 |
@@ -124,9 +125,10 @@ il1.1 25
 =1' 16 [Bb-s4 e-s0 db-s3] [e-s0 A-s2 c-s1] [Bb-s4 e-s0 db-s3] [e-s0 A-s2 c-s1]
 =1, 8. D)2 4. D 8. D(2
 
-8 systems 5 /20 4/20 2/20/20 4/20 4/20 4/20 2/20 10/
+8 systems 5 / 20 5/ 20 4/ 20 2/ 20 6/ 20 5/ 20 6/ 20/ 20 10/
 pagenum
-innerhead Twinkled 20170709
+innerhead Twinkled    Peter Billam
+leftfoot (c) 2017  Peter Billam
 
 /
 3 bars | 4 4 4 4 4 5 4 4 4 4 4 3 | 4 4 5 4 4 5 4 4 4 4 4 3 \
@@ -250,6 +252,7 @@ il1.3 .30 55
 =1 16 [e~{1 e}1 d-so] [b{1 B}1 c#-gs4,-s2] 4. E_
 |
 =1 2. <c f# c~ e~>
+i0.5 .40 1:55
 
 midi pause 4.0
 

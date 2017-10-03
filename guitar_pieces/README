@@ -26,7 +26,7 @@ dump dust must plum rump rust scum
 full push
 
 ---------eg:
-backjump backabit manifest
+backdown backjump backabit manifest
 starskin
 testcase
 deepblue deepbass seedbass
@@ -44,28 +44,37 @@ pushabit
 
 --------- three and five letters --------------------------
 
-map tap
+bad cat fat hat lap mad man map pat rat sad tap
 day ray say
-bet set
-big bit sin sip tin tip win
+bed bet led let met net pet red set wet yet
+big bit dig fig fit hid jig nit pig rig sin sip sit tin tip win
 eye ear
-hop pop top
+dog fog hop pop top
+old
+new
 boy toy
+fun mum one run sun ton won  sub-
 
-block clock
-chain
-creep 
-dance
-night
+catch match patch splat track
+chain drain plate shape staid trade
+fetch
+beach beast cheap cream creep feast peach reach teach wheat yeast
+chant dance heart march
+fight night slime tight wiper
 shift
-storm
-touch
-verse
+block clock notch watch
+mould
+super
+order storm
+dutch hutch lunch munch stuff rough touch tough
+terse verse worse
+-arama -orama -itude
 
-blackray tapdance
-chaintip
-earchain earstorm eyeblock
-blocktip clocktok
+blackray habitude tapdance
+chaintip raydance
+earchain eardance earstorm eartrack eyeblock earverse
+bitshift tinplate
+blocktip clocktok topnotch
 toytouch
 
 setdance
@@ -73,17 +82,99 @@ squarest
 dancemap
 barstool
 
----------------------------------------------------
-twinklie  triplet    D  minorish   5.7/sec
-glooming  triplet    D  minorish   4.6/sec
-wavyplay  irregular  E  ambiguous  4/sec
-starskin  quintuplet A  majorish   7/sec
-softtalk  duplet     D  majorish   5/sec
-dawnpipe  duplet     E  ambiguous  6/sec
-bluemoon? triplet    G  bluesey    7/sec?  mm140
+oldtonew newtoold
+
+# sadistan pigistan dogistan
+
+grep -i '^[a-z][a-z][a-z]$' /usr/share/dict/words | fmt
+grep -i '^[a-z][a-z]$' /usr/share/dict/words | fmt
+
 
 stride bass ?
 
 --------------------------------------------------
 or 9 ?
 monochord longchord 
+
+grep -i '^[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]$' /usr/share/dict/words \
+
+grep -i '^[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-rt-z]$' \
+ /usr/share/dict/words | wc -l
+8260
+
+grep -i '^[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-rt-z]$' \
+ /usr/share/dict/words | less
+
+abrasion acoustic aqueduct armchair artefact atomizer
+babyhood backbite backbone backdrop backfire backhand backlash backspin
+backstop badinage bankroll bareback betrayal bigmouth birdbath birdseye
+bluebell bluebird bodywork braiding bumbling burbling busybody
+campaign campfire captured carefree caryatid cellular
+chanting comedown crackled
+daybreak daydream daylight deathbed delicacy delicate disjoint downtime
+downwind dreamily drifting
+eighteen eleventh elliptic ensemble epilogue ethereal evermore everyday
+everyone exponent eyepiece eyesight
+falsetto fervidly feverish filament fireball fireside firetrap firewall
+flatfeet fortieth foursome fourteen fourthly fretwork friction
+galactic glinting glittery growling
+headgear hardline harmonic
+insomnia inspired interval intoning iterator
+landfill laudanum lodestar lopsided lonesome lucidity lunchbox
+magnolia mahogony mainline manifest manpower markdown measlier megalith
+meltdown midpoint minutiae mischief mishmash molecule momentum monogram
+monorail moonbeam mulching muleteer mushroom mystique
+necklace negligee nestling neutrino newlywed nineteen nocturne noodling
+noontime nosedive
+oblivion odometer offshoot orbiting outbound outbreak outreach outsider
+outskirt overhand overhang overkill overtime overtone overview
+paddling painting panorama paperboy parabola parallax paranoia particle
+password patented paycheck pedigree penchant pentagon personae phantasm
+physical plaiting playback plectrum pluckier polarity polestar polygamy
+ponytail portrait positron postmark pressure pretence printout prologue
+prophecy protocol pullback pullover puppetry pushback pushover pussycat
+quietude quirking quotable
+radiance railroad rapidity rattling rawboned rearward recliner recreant
+reforest reminder renegade reposing rerouted resolver returnee revision
+rewiring rhapsody riffraff ringside ringworm riverbed roadkill rollback 
+rosebush rosewood rucksack runabout
+sapphire scaffold seascape seashell seething selfsame senility serenity
+shinbone showgirl shredded shutdown sidekick sideline sideshow sidestep
+singsong sixpence skidding skullcap skydiver slapping smoothly snapshot
+snarling snowdrop sometime songbird southpaw spitfire staccato stairway
+stowaway stroller subgroup sunshine surefire suspense swanking symmetry
+symphony
+takeover teardrop telecast teletype terminal thirteen tickling together
+trapdoor trucking turnover tweaking tweeting twilight twinkled twinning
+twirling
+unbarred unbuckle undertow unevenly unfurled unsolved updating upending
+upheaval upstream
+vagabond verbatim vibrancy vignette visceral voodooed
+waltzing wanderer warhorse watchful waveform westward whatever wildfire
+wildlife windpipe witchery workbook yourself
+
+codeblue onebyone eyetoeye youagain roundyou sandbath earstudy hardland
+badlands stringup rotating recycles commuter redknife handpick
+
+mv starskin twowheel
+mv twowheel railroad  ?
+
+mv softtalk talksoft
+
+bitorbit duoorduo interval iterator goupabit liveabit
+talksoft ticktack ticktock waveform twobytwo
+
+cellular intoning iterator orbiting overtone parabola plaiting pluckier
+resolver riverbed seascape serenity singsong snowdrop teardrop
+tuningup upstream uptoning ?
+
+---------------------------------------------------
+twinklie  triplet    D  minorish   5.7/sec
+waveride  irregular  E  ambiguous  4/sec
+twowheel  quintuplet A  majorish   7/sec
+glooming  triplet    D  minorish   4.6/sec
+dawnpipe  duplet     E  ambiguous  6/sec
+talksoft  duplet     D  majorish   5/sec
+bluemoon  triplet    G  bluesey    4.4/sec
+pluckier  3xduplet   A  majorish   6.7/sec
+ 

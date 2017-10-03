@@ -15,15 +15,13 @@ ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 
 #DEV  = twinkled
-#DEV  = glooming
 #DEV  = waveride
+#DEV  = twowheel
+#DEV  = glooming
 #DEV  = dawnpipe
 #DEV  = talksoft
-#DEV  = twowheel
-#DEV  = bossaboo
-#DEV  = bossa
-#DEV  = bluemoon
-DEV  = pluckier
+DEV  = bluemoon
+#DEV  = pluckier
 PIECE = guitar_pieces
 
 #guitar_pieces.ps : guitar_pieces
@@ -32,8 +30,8 @@ PIECE = guitar_pieces
 edit :
 	vi ${DEV}
 	# ${MUSCRIPT} ${DEV} > ${DEV}.ps
-	cat twinkled glooming dawnpipe waveride \
-	  twowheel talksoft bluemoon pluckier > guitar_pieces
+	cat twinkled waveride twowheel glooming \
+	  dawnpipe talksoft bluemoon pluckier > guitar_pieces
 	${MUSCRIPT} guitar_pieces > guitar_pieces.ps
 	pkill -HUP gv
 
@@ -64,10 +62,10 @@ ${MP3D}/${PIECE}.mp3 : ${PIECE}
 	lame -h t.wav $@
 	rm t.wav
 
-guitar_pieces : twinkled glooming dawnpipe waveride \
- twowheel talksoft bluemoon pluckier
-	cat twinkled glooming dawnpipe waveride \
-	  twowheel talksoft bluemoon pluckier > $@
+guitar_pieces : twinkled waveride twowheel glooming \
+ dawnpipe talksoft bluemoon pluckier
+	cat twinkled waveride twowheel glooming \
+	  dawnpipe talksoft bluemoon pluckier > $@
 sketches.ps : sketches
 	${MUSCRIPT} sketches > $@
 	pkill -HUP gv

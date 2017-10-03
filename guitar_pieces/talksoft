@@ -1,7 +1,9 @@
 8 systems 30 /  20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
 pagenum
 title TalkSoft
-innerhead book AQ p. 8-9
+# innerhead book AQ p. 8-9
+innerhead Eight Pieces for Guitar
+leftfoot (c) 2017  Peter Billam
 midi channel 0 patch 25
 
 /
@@ -140,7 +142,9 @@ il1.0 .45 30
 
 8 systems 10 / 20 / 20 / 20 / 20 / 20 / 20 / 20 15 / 20 20/
 pagenum
-innerhead TalkSoft, book AQ p. 8-9
+# innerhead TalkSoft, book AQ p. 8-9
+innerhead TalkSoft    Peter Billam
+leftfoot (c) 2017  Peter Billam
 
 /
 4 bars | 36 | 36 | 36 | 36 |
@@ -288,6 +292,7 @@ r1.1 .20 mm=88
 | 3.0
 =1' vol+8 2. <a d~ f~#>
 =1, 2. D cc64=0
+i0.5 .80 2:05
 
 midi pause 4.0
 
