@@ -9,6 +9,7 @@ midi channel 0 patch 24
 4 bars | 4 4 6.8 4 4 5 4 4 5 4 3 3 | 4 4 7 5 4 5 4 4 6.8 4 3 3 \
        | 4 4 5 4 4 5 4 4 5 4 3 3 | 4 4 5 4 4 5 4 4 5 4 3 3 |
 | 2.609
+i1.2 6th string to D
 =1' treble8vab cha0 leg99
 =1' 4. rest' 8 rest' 16 [Ab 8. G]
 =1, 8 rest, 16 [<A_ D> 8 <B_b Eb-s3-s4> 16 <C(2 F(1>] 4. <C)2 F)1>

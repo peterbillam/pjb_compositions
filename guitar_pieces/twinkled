@@ -134,14 +134,14 @@ leftfoot (c) 2017  Peter Billam
 3 bars | 4 4 4 4 4 5 4 4 4 4 4 3 | 4 4 5 4 4 5 4 4 4 4 4 3 \
  | 4 4 5 4 4 5 4 4 4 4 4 3 |
 |
-=1' 16 [Ab-s2 e-s0 c-s3] [G e-s0 c] [Ab e-s0 c] [G e-s0 B]
+=1' 16 [Ab-s2 e-s0 c-s3] [G e-s0 B] [Ab e-s0 c] [G e-s0 B]
 =1, 8. D)2 4. A_ 8. A_(2
 |
-=1' 16 [F#-s4 c-s1 A-s2] [Fn-s3 B-s0 A] [D#-s3 c-s4 G-s0] [D# B G]
+=1' 16 [F#-s4 c-s1 A-s2] [Fn-s3 B-s0 A] [D#-s1 c-s2 G-s0] [D# B G]
 =1, 8. A_)2 4. A_ 8. A_(2
 |
 il1.0 .29 30
-=1' 16 [D# c G] [D# B G] [E-s3 c-s2 A-s4] [E B e]
+=1' 16 [D# c G] [D# B G] [E-s2 c-s1 A-s3] [E B e]
 =1, 8. A_)2 4. A_ 8. A_(2
 /
 3 bars | 4 4 4 4 5 4 4 4 4 4 5 3 | 4 4 4 4 5 4 4 4 4 4 5 3 \
@@ -242,7 +242,7 @@ il1.2 50
 =1' 9/16 16 [b-s4 f-s1 c~-s4] [e-s0 c~ f#-s1] [c~ e-s0 c~]
 =1, 9/16 8. D 4. D
 |
-=1' 16 [g#-s2 c~-s1 g#] [d~-s4 e-s0 d~] [a#-s3 d~ e-s0]
+=1' 16 [g#-s1 c~-s2 g#] [d~-s4 e-s0 d~] [a#-s3 d~ e-s0]
 =1, 4. D 8. D
 | 2.1
 il1.3 .30 55

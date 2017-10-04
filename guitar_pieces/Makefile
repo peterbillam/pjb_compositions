@@ -14,13 +14,13 @@ PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 
-#DEV  = twinkled
+DEV  = twinkled
 #DEV  = waveride
 #DEV  = twowheel
 #DEV  = glooming
 #DEV  = dawnpipe
 #DEV  = talksoft
-DEV  = bluemoon
+#DEV  = bluemoon
 #DEV  = pluckier
 PIECE = guitar_pieces
 
