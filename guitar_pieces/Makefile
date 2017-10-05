@@ -16,8 +16,8 @@ UTF2ISO = /home/pbin/utf2iso
 
 #DEV  = twinkled
 #DEV  = waveride
-DEV  = twowheel
-#DEV  = glooming
+#DEV  = twowheel
+DEV  = glooming
 #DEV  = dawnpipe
 #DEV  = talksoft
 #DEV  = bluemoon
