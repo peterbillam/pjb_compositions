@@ -9,7 +9,7 @@ midi channel 0 patch 25
 /
 4 bars | 4.5 4.5 4.5 4.5 4.5 4 | 5 5 5 5 5 4 | 5 5 5 5 5 4 | 5 5 5 5 5 4 |
 | 2.1
-r0.5 .10 mm=88
+i0.5 .10 mm=88
 =1 treble8vab cha0 leg99
 # midi off
 =1, vol80 8 [D D D D D D]
