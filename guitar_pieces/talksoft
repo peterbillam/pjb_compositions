@@ -59,20 +59,20 @@ il0.8 .17 10
 /
 4 bars | 36 | 36 | 36 | 36 |
 | 1.85
-i0.5 .60 mm=100
-=1 vol90 leg150 4 E, 2 f#'
-=1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,] cc64=0
+=1 vol90 leg150 4 E, 4. f#' 8 rest'-s2
+=1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,-gs4,] cc64=0
 I0.4 .98 p
 |
+i0.7 .60 mm=100
 =1' vol100 leg99 2. f-gs2
-=1, vol80 leg190 cc64=127 8 [A-gs4, G--s0 A G A G] cc64=0
+=1, vol80 leg190 cc64=127 8 [A G--s0 A G A G] cc64=0
 | 1.8
 il0.7 .30 15
 =1' vol100 leg99 2. f-gs1
 =1, vol80 leg190 cc64=127 8 [A-gs3, B A B A B] cc64=0
 |
 =1' vol100 leg99 2. f-gs2
-=1, vol80 leg190 cc64=127 8 [A G A G A G(1] cc64=0
+=1, vol80 leg190 cc64=127 8 [A-gs4, G A G A G(1] cc64=0
 /
 4 bars | 36 | 36 | 36 | 36 |
 |
