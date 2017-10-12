@@ -113,7 +113,7 @@ il0.8 .25 25
 =1 vol80 leg190 8 cc64=127 [B' A'] [B' A'] [B, A,] cc64=0
 |
 =1 vol90 leg290 4 D, A_, f#'
-=1 vol80 leg190 8 cc64=127 [B' A'] [B' A'] [B, A,] cc64=0
+=1 vol80 leg190 8 cc64=127 [B' A'-s2] [B' A'] [B, A,] cc64=0
 |
 =1 vol90 leg290 4 D#, A_, g'
 =1 vol80 leg190 8 cc64=127 [B' A'] [B' A'] [B, A,] cc64=0
@@ -123,9 +123,12 @@ il0.8 .25 25
 /
 4 bars | 36 | 36 | 36 | 36 |
 |
-=1 vol80 leg190 8 cc64=127 [B'-s2-s0 A'--s1] [B' A'] [B, A,] cc64=0 leg99
-=1 vol90 leg290 4 F, A_, g'
+#=1 vol80 leg190 8 cc64=127 [B'-s2-s0 A'--s1] [B' A'] [B, A,] cc64=0 leg99
+=1 vol80 leg190 8 cc64=127 [B'-s3-s0 A'--s2] [B' A'] [B, A,] cc64=0 leg99
+#=1 vol90 leg290 4 F, A_, g'
+=1 vol90 leg290 4 F, A_, f'
 =1 1 blank 32 blank-s3,-s4,
+rs0.5       4
 
 |
 il1.0 .45 30

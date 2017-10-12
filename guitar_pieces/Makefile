@@ -18,9 +18,9 @@ UTF2ISO = /home/pbin/utf2iso
 #DEV  = waveride
 #DEV  = twowheel
 #DEV  = glooming
-DEV  = dawnpipe
+#DEV  = dawnpipe
 #DEV  = talksoft
-#DEV  = bluemoon
+DEV  = bluemoon
 #DEV  = pluckier
 PIECE = guitar_pieces
 
