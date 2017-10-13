@@ -20,8 +20,8 @@ UTF2ISO = /home/pbin/utf2iso
 #DEV  = glooming
 #DEV  = dawnpipe
 #DEV  = talksoft
-DEV  = bluemoon
-#DEV  = pluckier
+#DEV  = bluemoon
+DEV  = pluckier
 PIECE = guitar_pieces
 
 #guitar_pieces.ps : guitar_pieces

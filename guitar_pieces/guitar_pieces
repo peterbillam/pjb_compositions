@@ -1998,8 +1998,8 @@ il1.4 .03 15
 =1, leg99 4. F_ 4 F_# 8 F_#
 rs0.9      1
 |
-il1.0 .32 20
-=1' leg150 16 [A-s3-s1 d-s4] [A e] [d e]  [A# d] [A# e] [d-s3 e]
+il1.1 .31 20
+=1' leg150 16 [A-s3-s1 d-s4] [A e] [d e]  [A#-s1-s3 d--s2] [A# e] [d-s3 e]
 =1, leg99 4. G_ 4 G_# 8 G_#
 |
 =1' leg150 16 [Gn d-s4] [G e] [d e]  [G#-s1-s2 d] [G# e] [d e]
@@ -2039,36 +2039,36 @@ rs0.9       1
 #=1' 16 [D A] [D B] [A B]  [C#-s1-s4 A] [C# B] [A-s2 B]
 #=1, 4 F_ 8 G_b 8 [F_ E_ F_]
 |
-=1' leg150 16 [D A] [D B] [A B]  [B_ A] [B_ B] [A B]
+=1' leg150 16 [D A] [D B] [A B]  [B_ A] [B_ B] [A-s1-s3 B]
 =1, leg99 4 F_ 8 G_b 8 [F_ E_ F_]
 
-9 systems 2 / 20 1/ 20 8/ 20 8/ 20 12/ 20 18/ 20 22/ 20 15/ 20 / 20 16 /
+9 systems 2 / 20 2/ 20 9/ 20 10/ 20 12/ 20 19/ 20 23/ 20 15/ 20 / 20 16 /
 pagenum
 innerhead Pluckier    Peter Billam
 leftfoot (c) 2017  Peter Billam
 
 /
 3 bars | 5 5 5 5 5 6 5 6 5 5 5 4 \
- | 7 7 5 5 7 7 5 5 7 5 5 4 | 7 5 5 5 7 5 5 5 7 5 5 4 |
+ | 7 7 5 5 7 7 5 5 7 5 5 4 | 7 5 5 5 7 5 5 5 7 5 5 5 |
 |
-=1' leg150 16 [D A] [D B] [A B]  [D# A] [D# B] [A B]
+=1' leg150 16 [D-s2-s0 A--s3] [D B] [A B]  [D#-s4-s1 A--s3] [D# B] [A-s3 B]
 =1, leg99 4. F_# 8 [G_ A_ B_]
 
 |
-=1' cc64=127 leg150 16 [E_ C# F# A] [E_ C# F# B] [E_ C# A B]
+=1' cc64=127 leg150 16 [E_ C#-s3 F#-s4 A-s1] [E_ C# F# B] [E_ C# A B]
 |
 il0.7 .03 30
 =1' leg150 16 [E_ F# A B]   [C# F# A B] [C# F# A e]
 /
 3 bars | 5 4 4 4 4 4 4 4 4 4 4 3 \
- | 4.5 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4.5 4 4 4 4 3|
+ | 4.5 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 3.7 4 3.7 4.5 4 4 3.7 4 3|
 |
-=1' leg150 16 [C# F# B e] [C# A B e] [F# A B e] cc64=0
+=1' leg150 16 [C# F# B e] [C# A B e] [F#-s4 A-s1 B e] cc64=0
 |
-=1' leg150 16 [A B A e B e] [A B A e B e]
+=1' leg150 16 [A-s4-s1 B A e B e] [A B A e B e]
 =1, leg99 4 Gr 8 F# 4 E 8 D
 |
-=1' leg150 16 [A B A e B e] [A B A e B e]
+=1' leg150 16 [A-s"  2"-s"  1" B A e B e] [A-s4-s1 B A e B e]
 =1, leg99 8 [C# B_ A_] 4 Gr 8 F#
 /
 3 bars | 5 5 5 5 5 5 5 5 5 5 5 4 \
@@ -2085,15 +2085,15 @@ il0.8  34
 =1' leg150 16 [B-s1 e B a e a] [B e B a e a]
 =1, leg99 8 [G-s2, F# D] 4 C# 8 A_
 /
-3 bars | 5 5 7 5 7 5 5 5 7 5 7 4 \
- | 7 5 7 6 7 5 7 5 7 5 7 4 | 7 5 7 6 7 5 5 5.1 7.1 5.1 7.1 4 |
+3 bars | 5 5 7.1 5 7.1 5 5 5 7.1 5 7.1 4 \
+ | 7.1 5 7.1 6 7.1 5 7.1 5 7.1 5 7.1 4 | 7.1 5 7.1 6 7.1 5 5 5.1 7.1 5.1 7.1 4 |
 
 
 |
 =1' leg150 16 [D B] [D f#-s4] [B f#]  [D# c] [D# f#] [c f#]
 =1, leg99 4. A_ A_
 |
-=1' leg150 16 [E c#] [E f#] [c# f#]  [D# cn] [D# f#] [c f#]
+=1' leg150 16 [E-s1 c#] [E f#] [c# f#]  [D# cn] [D# f#] [c f#]
 =1, leg99 4. A_ 4 A_ 8 A_
 |
 =1' leg150 16 [E c#] [E g#] [c# g#] [F d] [F g#] [d g#]
