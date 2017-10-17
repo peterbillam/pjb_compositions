@@ -1346,16 +1346,16 @@ il0.7 .30 5
 /
 4 bars | 36 | 36 | 36 | 36 |
 | 2.05
+i0.7 .55 accell  .   .   .
 =1 vol90 leg150 4 D, 2 e'
-=1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,] cc64=0
-i0.7 .08 accell  .   .   .
+=1 vol80 cc64=127 leg190 8 [B' A-s3] [B A,] [B A,] cc64=0
 | 2.0
-il0.8 .17 10
+il0.8 .55 10
 =1 vol90 leg150 4 Eb, 2 f'
 =1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B A,] cc64=0
 | 1.95
 =1' vol90 leg150 4 blank 2 f#'
-=1 vol80 cc64=127 leg190 8 [B' A] [B A,] [B' A] cc64=0
+=1 vol80 cc64=127 leg190 8 [B' A-s2] [B A,] [B' A] cc64=0
 =1, vol90 leg150 2 D 4 D
 | 1.9
 =1 vol90 leg150 4 Eb, 2 g'
