@@ -104,12 +104,12 @@ rs0.7 .80 1
 |
 =1' leg150 16 [Ab-s1-s2 d-s4] [G e] [d-s2 e]  [B-s4-s3 d-s2] [Bb-s1 e] [d-s4 e]
 =1, leg99 4 B_b 8 A_ 4 A_b 8 G_
-rs0.7 .80 2
+rs0.7 .80 3
 |
 #=1' 16 [A-s2-s3 d-s4] [Ab-s1 e] [d e]  [G d-s3] [Gb-s4 e] [F-s2 d]
 #=1, 4 G_b 8 F_ 4. E_
 #rs0.9 .30 1
-=1' leg150 16 [A-s2-s3 d-s4] [A e] [d e]  [A d] [Gn d] [D B]
+=1' leg150 16 [A-s1-s2 d-s4] [A e] [d e]  [A d] [Gn d] [D B]
 =1, leg99 4 G_b 8 F_ 4. E_
 rs0.9 .30 1
 
