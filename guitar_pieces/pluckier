@@ -22,10 +22,10 @@ midi channel 0 patch 25
 3 bars | 5 7 5 5 5 5 7 5 5 7 5 4 \
        | 5 5 5 5 5 5 7 5 5 5 5 4 | 5 5 7 5 7 5 5 5 7 5 7 4 |
 |
-=1 16 [A_b-s3 C-s1 A_b D C D] [G_-s2 C#-s4 G_ E-s1 Cn-s3 E]
+=1 16 [A_b-s3 C-s2 A_b D B_-s1 D] [G_-s2 C#-s4 G_ E-s1 Cn-s3 E]
 |
 il0.7 .24 5
-=1 16 [A_-s4 C-s2 A_ D C-s1 D] [A_-s0 Eb A_ G D G]
+=1 16 [A_-s4 C-s2 A_ D B_-s1 D] [A_-s0 Eb A_ G D G]
 
 |
 =1' leg150 16 [D--Ii B-Im] [D-Ii f#-Ia] [B--I"  m" f#-Ia] \
