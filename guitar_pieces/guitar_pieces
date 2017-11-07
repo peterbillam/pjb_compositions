@@ -1441,7 +1441,7 @@ il1.0 .45 30
 |
 =1' vol75 leg190 8 [c#-s2 B c# B c#-s4 B] leg99
 =1, vol90 cc64=127 2 <E G#> 4 <D F#> cc64=0
-=1 2 blank 4.. blank-,-s1,-s2, 32 blank-,-s1,-s2,
+=1 2 blank 4.. blank-,-s1,-s3, 32 blank-,-s1,-s2,
 |
 =1' vol75 leg190 8 [c# B c# B c# B] leg99
 =1, vol90 4 <C# F> <D F#> <Ebl G>
@@ -1478,7 +1478,7 @@ il1.2 .40 35
 =1' vol75 leg190 8 [e d-s4 e d e d] leg99
 =1, vol90 cc64=127 2. <F_ A> cc64=0
 =1 1 blank--s"2      "-s"0      "
-is0.9      1
+rs0.9      1
 |
 =1' vol75 leg190 8 [c#r-s2 B-s0 c# B c# B] leg99
 =1, vol90 cc64=127 2. <Fr-gs5, A> cc64=0
@@ -1486,7 +1486,7 @@ is0.9      1
 |
 =1' vol75 leg190 8 [c#-s2 B c# B c#-s4 B] leg99
 =1, vol90 cc64=127 2 <E G#> 4 <D F#> cc64=0
-=1 2 blank 4.. blank-,-s1,-s2, 32 blank-,-s1,-s2,
+=1 2 blank 4.. blank-,-s1,-s3, 32 blank-,-s1,-s2,
 |
 il1.0 .21 40
 =1' vol75 leg190 8 [c# B c# B c# B] leg99
@@ -1504,9 +1504,9 @@ il1.0 .21 40
 |
 =1' vol75 leg190  8 [c#r-s2 B c# B c#-s4 B] leg99
 =1, vol90 leg99 2 <Er G#l> 4 <Ebll Gnl>
-=1 2 blank-,-s"1     ",-s"3     ", 4. blank-,-s2,-s3,
+=1 2 blank-,-s"1     ",-s"3     ", 4. blank-,-s1,-s3,
 |
-=1' vol75 leg190 8 [c#r B c# B c# B] leg99
+=1' vol75 leg190 8 [c#r B c# B c# B(2] leg99
 =1, vol90 cc64=127 2. <Dr F#l> cc64=0
 =1 2 blank-,-s"1     ",-s"2     ",
 
@@ -1516,8 +1516,8 @@ il1.0 .21 40
 | 1.8
 il0.9  45
 =1' vol90 2. e
-=1' vol70 leg190 8 [Br A-s3 B A B A] leg99
-=1, vol90 cc64=127 2. D
+=1' vol70 leg190 8 [Br)2 A-s3 B A B A] leg99
+=1, vol90 cc64=127 2. Dr
 |
 =1' vol90 2. f#
 =1' vol70 leg190 8 [Br A B A B A] leg99
