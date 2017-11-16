@@ -1023,7 +1023,7 @@ I0.9 .99 p
 i0.7 .80 2:30
 
 midi pause 4.0
-9 systems 16 / 20 / 20 4 / 20 12 / 20 8 / 20 14 / 20 5/ 20 5/ 20 5 / 20 16/
+9 systems 16 / 20 / 20 4 / 20 14 / 20 14 / 20 13 / 20 5/ 20 5/ 20 5 / 20 16/
 title DawnPipe
 pagenum
 # innerhead AQ p.7
@@ -1081,7 +1081,8 @@ il0.9 .01 10
 =1 1 blank 64 blank-gs3-,-gs6,
 |
 il0.8 .41 15
-=1' 16 leg99 [c#{'1--s2 leg250 d#}'1--s4 8 e-s0] \
+=1 1 blank---s"3     "-s"2     "
+=1' 16 leg99 [c#{'1 leg250 d#}'1--s4 8 e-s0] \
  16 leg99 [G#{'1--s1 leg250 A#}'1--s4 8 B]
 =1, 4 leg99 B_ C-s3,
 =1 1 blank 64 blank-,-s2,
@@ -1090,7 +1091,7 @@ il0.8 .41 15
  [Ab{'1--s1 leg250 Bb}'1--s4 Bn e]
 # [Ab{'1--s1 leg250 Bb}'1--s4 Bn-s0 d-gs3,-s2]
 # [Ab{'1--s1 leg250 Bb}'1--s4 8 <G Bn-s0-s0>]
-=1, 4 leg150 B_ leg99 F
+=1, 4 leg150 B_ leg99 F-s3,
 =1 8. blank 16 blank-gs5, 4 blank
 
 /
@@ -1149,7 +1150,7 @@ il0.8   25
 |
 il1.1 .37 30
 =1' 16 leg99 [f{'1 leg250 g}'1 8 e] 16 leg99 [c#{'1--s2 leg250 d#}'1--s4 8 e]
-=1, 4 leg150 A 8 [G-s0, A_]
+=1, 4 leg150 A 8 [G-s1, A_]
 |
 =1 4. blank 2 blank--gs2
 =1' 16 leg99 [G#{'1 leg250 A#}'1 8 e] 16 leg99 [f{'1 leg250 g}'1 8 e]
