@@ -1077,11 +1077,12 @@ il0.9 .01 10
 =1, 4 leg150 A-gs4, A_
 |
 =1' 16 leg99 [c#{'1 leg250 d#}'1 8 e] 16 leg99 [f{'1 leg250 g}'1 8 e]
-=1, 4 leg150 A 8 [A_ A]
-=1 1 blank 64 blank-gs3-,-gs6,
+=1, 4 leg150 A 8 [A_ A-s3,]
+=1 1 blank 64 blank-gs3-gs6,-,-s"    2",
 |
 il0.8 .41 15
-=1 1 blank---s"3     "-s"2     "
+#=1 1 blank---s"2     "-s"1     "
+=1 1 blank---s"1     "
 =1' 16 leg99 [c#{'1 leg250 d#}'1--s4 8 e-s0] \
  16 leg99 [G#{'1--s1 leg250 A#}'1--s4 8 B]
 =1, 4 leg99 B_ C-s3,
