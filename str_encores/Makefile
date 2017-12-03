@@ -46,6 +46,7 @@ ${MP3D}/${PIECE1}.mp3 : ${PIECE1}
 	  | fluadity - /home/cds/clas/billam/2015_str_encores.wav
 	${NORMALIZE} /home/cds/clas/billam/2015_str_encores.wav
 	lame -h /home/cds/clas/billam/2015_str_encores.wav $@
+	# should 1) generate separate movements and 2) reverb and pad
 
 ${A4D}/${PIECE2}.pdf : p2.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
 	sed s/Score/Parts/ title | groff -ms | ${BANNERISE} > title_parts.a4
