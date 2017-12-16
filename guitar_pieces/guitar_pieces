@@ -1319,6 +1319,7 @@ i0.5 .10 mm=88
 =1 treble8vab cha0 leg99
 # midi off
 =1, vol80 8 [D D D D D D]
+=1 1 blank 16 blank--s2-s4-s3
 |
 =1' vol100 8 <a d~ f~#> rest'' 2 <g# b e~>
 =1, vol80 8 [D D D D D D]
@@ -1326,6 +1327,7 @@ i0.5 .10 mm=88
 =1' vol100 8 <f# b d~#> rest' 2 <e a c~#>
 =1, vol80 8 [D D D D D D]
 |
+=1 2 blank 4.. blank-s2-s4-s3
 =1' vol100 8 <d# f# b> rest' 8. <c# e a> 16 rest 4 <B e g#>
 =1, vol80 8 [D D D D D D]
 /
@@ -1341,6 +1343,7 @@ il0.7 .30 5
 =1' vol100 8 <F# B d#> rest' 2 <E A c#>
 =1, vol80 8 [A_ A_ A_ A_ A_ A_]
 |
+=1 1 blank-s3-s1-s1
 =1' vol100 8 <D#lr F# B> rest 8. <C# E A> 16 rest' 4 <B_ E G#-s3-s4-s2>
 =1, vol80 8 [E_r E_ E_ E_ E_ E_]
 |
