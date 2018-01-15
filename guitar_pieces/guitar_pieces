@@ -330,7 +330,7 @@ il1.0 10
 |
 =1  8 cc64=127 [f#'-s4 16 G-s0 A_ A-s3] [e--s1 cc64=0 f#--s4 d{1--s3-gs3, c}1 B-s0]
 |
-=1' 8 cc64=127 [c 16 A_ G F] [B cc64=0 c A{2 G}2 F]
+=1' 8 cc64=127 [c-,-gs2, 16 A_ G F] [B cc64=0 c A{2 G}2 F]
 | 2.75
 =1' 11/16 8 cc64=127 [G 16 E_ F G] cc64=0 [E{2 cc64=127 D}2 C] [D F_ C] cc64=0
 | 2.5
@@ -348,8 +348,9 @@ rs0.7        2
 =1 32 blank 2 blank--gs4-gs3-gs2 2. blank----s2-s1-s1 16 blank
 I0.3 .01 p
 | 2.0
-=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_ Bb' eb' g'>] \
+=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_(2 Bb' eb' g'>] \
  [<ebl gx an> 16 bb]
+=1' 8/16 8. blank 8 blank 8. A_)2
 =1 4 blank 163 blank 8. blank---s3-s4-s1
 | 2.5
 rs1.2 .07 4
@@ -453,8 +454,9 @@ I0.3 .01 p
 | 2.0
 #=1 8/16 16 blank 2 blank blank---s3-s4-s1
 =1 8/16 4 blank 32 blank 8. blank---s3-s4-s1
-=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_ Bbl' eb' g'>] \
+=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_(2 Bbl' eb' g'>] \
  [<ebl gx  an> 16 bb-s1]
+=1' 8/16 8. blank 8 blank 8. A_)2
 | 2.5
 rs1.2 .07 4
 =1 10/16 8 cc64=127 [c~' 16 A_ G f'-s2] \
@@ -494,9 +496,9 @@ il1.0 .32 45
 =1  8 cc64=127 [b'-s1 16 B'-s0 E_ e'-s3] [a--s4 cc64=0 b g{1-gs2, f#}1 e-s1]
 |
 =1  8 cc64=127 [f#'-s4 16 G-s0 A_ A-s3] \
- [e--s"  1"-gs2, cc64=0 f#--s4 d{1--s3-gs3, c}1 B-s0-gs2,]
+ [e--s"  1"-gs2, cc64=0 f#--s4 d{1--s3-gs3, c}1 B-s0]
 |
-=1' 8 cc64=127 [c 16 A_ G F] [B cc64=0 c A{2 G}2 F]
+=1' 8 cc64=127 [c-,-gs2, 16 A_ G F] [B cc64=0 c A{2 G}2 F]
 | 2.75
 =1' 11/16 8 cc64=127 [G 16 E_ F G] cc64=0 [E{2 cc64=127 D}2 C] [D F_ C] cc64=0
 /
