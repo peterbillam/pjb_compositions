@@ -1941,13 +1941,13 @@ midi channel 0 patch 25
 =1 16 [G_b-s2 B_b-s1 G_b D A_ D] [F_-s1 C-s4 F_ D B_n-s2 D]
 /
 3 bars | 5 7 5 5 5 5 7 5 5 7 5 4 \
-       | 5 6 5 5 5 5 7 5 5 5 5 4 | 5 5 7 5 7 5 5 5 7 5 7 4 |
+       | 5 6 5 5 5 5 7 5 5 7 5 4 | 5 5 7 5 7 5 5 5 7 5 7 4 |
 |
 =1 16 [A_b-s3 C-s2 A_b D B_-s1 D] [G_-s2 C#-s4 G_ E-s1 Cn-s3 E]
 |
 il0.7 .24 5
 #=1 16 [A_-s4 C-s2 A_ D B_-s1 D] [A_-s0 Eb A_ G D G]
-=1 16 [G_#-s4 C-s2 G_# D B_-s1 D] [A_-s0 Eb A_ G D G]
+=1 16 [G_#-s4 C-s2 G_# D B_-s1 D] [A_-s0 Eb A_ G Eb G]
 
 |
 =1' leg150 16 [D--Ii B-Im] [D-Ii f#-Ia] [B--I"  m" f#-Ia] \
@@ -2012,10 +2012,10 @@ il1.4 .03 15
 rs0.9      1
 |
 il1.1 .31 20
-=1' leg150 16 [A-s3-s1 d-s4] [A e] [d e]  [A#-s1-s3 d--s2] [A# e] [d-s3 e]
+=1' leg150 16 [A-s3-s1 d-s4] [A e] [d e]  [A#-s1-s3 d--s2] [A# e] [d e]
 =1, leg99 4. G_ 4 G_# 8 G_#
 |
-=1' leg150 16 [Gn d-s4] [G e] [d e]  [G#-s1-s2 d] [G# e] [d e]
+=1' leg150 16 [Gn d] [G e] [d-s4 e]  [G#-s1-s2 d] [G# e] [d e]
 =1, leg99 4. A_ 4 A_# 8 A_#
 /
 3 bars | 4 4 4 4 4 5 4 5 4 4 4 3 \
