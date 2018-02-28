@@ -12,13 +12,13 @@ It is hoped that this repository will outlast the original website
 http://www.pjb.com.au
 
 The source of these pieces is written in *muscript*, see
+[muscript](https://github.com/peterbillam/muscript) and
 [miditools](https://github.com/peterbillam/miditools)
 and the various Makefiles.  See also:
 http://www.pjb.com.au/muscript/
 http://www.pjb.com.au/muscript/muscript
 http://www.pjb.com.au/muscript/eps2jpg
 http://www.pjb.com.au/muscript/muscript2video
-
 
 ## Piano
 
@@ -34,17 +34,16 @@ Study* (1981),   *A Suite of Curves* (1990),   *Trombone Quintet*
 
 ## Voice
 
-Peter Billam's compositions for voice and piano include *De
-Profundis* and *Nacht* (1980),   *Three Songs* (1994)   and *Tres
-Casidas del Diván del Tamarit* (1997).
+Peter Billam's compositions for voice and piano include
+*De Profundis* and *Nacht* (1980),   *Three Songs* (1994)
+and *Tres Casidas del Diván del Tamarit* (1997).
 
 Choral works include two Choral Works, *Wheels Within Wheels*
 and *Decision*,   *Five Rounds* 1986,   *Go Forth and Multiply* for
 SATB (1986),   *Die Gestundete Zeit* for SATB (2000),   and
 *Wechsel der Zeiten* for SAT or SAA or TTB (2000),   *The Poet in
 the Clouds* for SATB (2005),   *We Who Mourn* in three movements,
-for six, nine and six voices (2007), and   *Album for
-Choir* (2015) .
+for six, nine and six voices (2007), and   *Album for Choir* (2015) .
 
 ## Recorder
 
@@ -68,14 +67,14 @@ Peter Billam's compositions for Guitar include *Five Short Pieces
 for Guitar* (1979),   *Divisions on an Italian Ground* for flute
 and guitar (1980);     *Three Suites 1) For the Solo Line*
 (2000) for Guitar,   *Guitar Duet*, for two guitars, three
-movements (2006-7) and   *Trio With Guitar* for guitar and two
+movements (2006-7),   *Trio With Guitar* for guitar and two
 clarinets, or guitar and two recorders, or for guitar and two
-violas (2008).
+violas (2008), and *Eight Guitar Pieces* (2017).
 
 ## Brass
 
-Peter Billam's compositions for brass instruments include *A
-Suite of Curves* (1990),   *Handwriting* and   *Trombone Quintet*.
+Peter Billam's compositions for brass instruments include
+*A Suite of Curves* (1990),   *Handwriting* and   *Trombone Quintet*.
 
 ## Strings
 
@@ -97,6 +96,5 @@ Frage*,   *Handwriting*,   *Trombone Quintet*,   *Four Dances*, the
 recorders, or for guitar and two violas (2008),
 *Twelve Canons* (2010), and the *Flute Trio* (2012), and
 *Music for Strings* (2015) for a sextet of 2vln, 2vla, 2vlc, and
-*Two Encores for Strings* (2015) for a sextet of 2vln,
-2vla, 2vlc.
+*Two Encores for Strings* (2015) for a sextet of 2vln, 2vla, 2vlc.
 
