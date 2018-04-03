@@ -347,11 +347,13 @@ rs0.7        2
  [<A_ c enl ab> 16 <A_ Bn e ab>] 8 [<A_ Bb eb g> 16 <A_ A eb g> 8 <A_ Bb eb g>]
 =1 32 blank 2 blank--gs4-gs3-gs2 2. blank----s2-s1-s1 16 blank
 I0.3 .01 p
+i0.6 .05 sul tasto
 | 2.0
 =1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_(2 Bb' eb' g'>] \
  [<ebl gx an> 16 bb]
 =1' 8/16 8. blank 8 blank 8. A_)2
 =1 4 blank 163 blank 8. blank---s3-s4-s1
+i0.4 .90 naturale
 | 2.5
 rs1.2 .07 4
 =1 10/16 8 cc64=127 [c~' 16 A_ G f'-s2] \
@@ -369,8 +371,9 @@ il1.1 .37 25
 =1' 12/16 16 [A-s1 G-s4 A-s1] [F{2 E}2 D] [E-s1 D-s4 E-s1] [C{2 D}2 E]
 /
 3 bars | 13/16 4 3 5 4 4 4 3 6 4 3 5 4 3 | 8/16 4 3 5 4 3 5 4 5 \
- | 13/16 6.5 4 7.1 4 5 4 4 6.0 4 4 5.0 3 3 |
+ | 13/16 6.5 4 7.1 4 5 4 4 6.0 4 4 6.0 3 3 |
 | 3.25
+i0.9 .01 sul tasto
 =1' 13/16 8 vol-20 [<E_ F Bb d> 16 <E_ E Bb d> 8 <E_ F Bb d>] \
  [<E_ G Bnl eb> 16 <E_ F# B eb>] 8 [<E_ Fnl Bb d> 16 <E_ E Bb d> 8 <E_ F Bb d>]
 I0.7 .01 p
@@ -378,12 +381,13 @@ I0.7 .01 p
 =1' 8/16 8 [<E_ F' Bb' d'> 16 <E_ E' Bb' d'> 8 <E_ F' Bb' d'>] \
  [<ex-s0-s1-s3,-s4, e> 16 <f-s0-s2 ex>]
 =1, 8/16 8. blank 8 blank [<Bbxrr d> 16 <Bb d>]
+i0.8 .70 naturale
 | 3.25
 =1, 13/16 8 [<Brr-s3,-s4, d#lx e-s0-s2 f#x> \
  16 <B c#x-s1,-s4, e f#x> 8 <B d#x e f#lx>] \
  8 [<cnl-s1,-s3, d#xl e-s0-s2 g> 16 <c d#x e a-s0-s4>] \
  8 [<c#l-s1,-s3, e ex bb-s0-s4> 16 <c#l e ex a-s0-s2> \
- 8 <e(3 ex-s"1    ", bb(1-s0-s4>]
+ 8 <c#l e(3 ex-s"1    ", bb(1-s0-s4>]
 # 8 [<c#l-s1,-s3, e ex bb-s0-s4> 16 <c#l e ex a-s0-s2> 8 <c#l e(3 ex bb(1>]
 
 9 systems 10 / 19 15/ 19 12/ 19 19/19 2/19 2/19/19/19/19 8/
@@ -451,7 +455,7 @@ il0.7 .03 40
 | 3.25
 =1' 13/16 8 vol-20 [<A_ Bb eb g> 16 <A_ A eb g> 8 <A_ Bb eb g>] \
  [<A_ c enl ab> 16 <A_ Bn e ab>] \
- 8 [<A_ Bbl eb g> 16 <A_ A eb g> 8 <Bbl eb g>]
+ 8 [<A_ Bbl eb g> 16 <A_ A eb g> 8 <A_ Bbl eb g>]
 I0.3 .01 p
 | 2.0
 #=1 8/16 16 blank 2 blank blank---s3-s4-s1
