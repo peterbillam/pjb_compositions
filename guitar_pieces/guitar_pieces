@@ -349,9 +349,9 @@ rs0.7        2
 I0.3 .01 p
 i0.6 .05 sul tasto
 | 2.0
-=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_(2 Bb' eb' g'>] \
+=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_ Bb' eb' g'>] \
  [<ebl gx an> 16 bb]
-=1' 8/16 8. blank 8 blank 8. A_)2
+=1' 8/16 8. blank 8 blank 8. A_
 =1 4 blank 163 blank 8. blank---s3-s4-s1
 i0.4 .90 naturale
 | 2.5
@@ -419,7 +419,7 @@ I0.7 .01 f
 /
 3 bars | 8/16 32 | 32 | 4 4 4 4 4 4 4.5 3 |
 | 2.0
-=1' 8/16 vol80 8 [<Bb d> 16 <E Bb d> 8 <F Bb d>] 8 [<G Bnl eb> 16 <F# B eb>]
+=1' 8/16 vol80 8 [<F Bb d> 16 <E Bb d> 8 <F Bb d>] 8 [<G Bnl eb> 16 <F# B eb>]
 =1, 8/16 8 [E_ 16 rest,,, 8 E_] 8. E_
 I0.7 .01 p
 |
@@ -460,9 +460,9 @@ I0.3 .01 p
 | 2.0
 #=1 8/16 16 blank 2 blank blank---s3-s4-s1
 =1 8/16 4 blank 32 blank 8. blank---s3-s4-s1
-=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_(2 Bbl' eb' g'>] \
+=1' 8/16 8 [<A_ Bb' eb' g'> 16 <A_ A' eb' g'> 8 <A_ Bbl' eb' g'>] \
  [<ebl gx  an> 16 bb-s1]
-=1' 8/16 8. blank 8 blank 8. A_)2
+=1' 8/16 8. blank 8 blank 8. A_
 | 2.5
 rs1.2 .07 4
 =1 10/16 8 cc64=127 [c~' 16 A_ G f'-s2] \
