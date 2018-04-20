@@ -1,4 +1,4 @@
-9 systems 25 /19/19 4/19/19 4/19/19 8/19 5/19/19 15/
+9 systems 25 /19/19 6/19/19 8/19/19 10/19 7/19/19 15/
 pagenum
 title WaveRide
 # From book AQ page 2
@@ -47,8 +47,8 @@ il1.0 10
 =1  8 cc64=127 [d'-s4 16 B_n-s2 D A-s3] \
  [c--s1 cc64=0 d--s4 e{1--s1 f}1--s2 g--s4]
 | 3.0
-=1 12/16 16 cc64=127 [f-s2 e-s0 f-s2] cc64=0 [d{'1--s3-gs3, c}'1 B-s1] \
- cc64=127 [c-s4 B-s0 c-s4] cc64=0 [A{2-s1 G}2 F]
+=1 12/16 16 cc64=127 [f-s2 e-s0 f-s2] cc64=0 [d{'1--s3-gs3, c}'1 B-s0-gs2,] \
+ cc64=127 [c-s4-gs3, B-s0 c-s4] cc64=0 [A{2-s1 G}2 F]
 | 2.5
 =1 10/16  8 cc64=127 [E-s1 16 Bb'-s2 d'-s3 Bb'] \
  8 [e---s0 cc64=0 16 cc64=127 f#-s1 d-s3 Bb-s2]
@@ -135,7 +135,7 @@ i0.8 .70 naturale
  8 <c#l e(3 ex-s"1    ", bb(1-s0-s4>]
 # 8 [<c#l-s1,-s3, e ex bb-s0-s4> 16 <c#l e ex a-s0-s2> 8 <c#l e(3 ex bb(1>]
 
-9 systems 10 / 19 25/ 19 12/ 19 19/19 2/19 2/19/19/19/19 8/
+9 systems 10 /19 28 /19 15 /19 21 /19 4/19 8/19/19/19/19 8/
 pagenum
 innerhead WaveRide    Peter Billam
 leftfoot (c) 2017  Peter Billam
@@ -223,8 +223,8 @@ il1.0 .32 45
 =1  8 cc64=127 [d'-s4 16 B_n-s2 D A-s3] \
  [c--s1 cc64=0 d--s4 e{1--s1 f}1--s2 g--s4]
 | 3.0
-=1 12/16 16 cc64=127 [f-s2 e-s0 f-s2] cc64=0 [d{'1--s3-gs3, c}'1 B] \
- cc64=127 [c-s4 B-s0 c-s4] cc64=0 [A{2-s1 G}2 F]
+=1 12/16 16 cc64=127 [f-s2 e-s0 f-s2] cc64=0 [d{'1--s3-gs3, c}'1 B-s0-gs2,] \
+ cc64=127 [c-s4-gs3, B-s0 c-s4] cc64=0 [A{2-s1 G}2 F]
 /
 4 bars | 10/16 4 3 4 5.5 4  4 4 4 5 3 | 4 3 4 5.5 4  4 4 4 5 3 | 20 18 \
  | 4 3 4 4 4.5 4 4 4 4 3 |
