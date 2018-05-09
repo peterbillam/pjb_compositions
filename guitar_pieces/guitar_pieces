@@ -422,9 +422,10 @@ I0.7 .01 f
 /
 3 bars | 8/16 32 | 32 | 4 4 4 4 4 4 4.5 3 |
 | 2.0
+I0.7 .03 p
 =1' 8/16 vol80 8 [<F Bb d> 16 <E Bb d> 8 <F Bb d>] 8 [<G Bnl eb> 16 <F# B eb>]
 =1, 8/16 8 [E_ 16 rest,,, 8 E_] 8. E_
-I0.7 .01 p
+I0.7     mp
 |
 il0.9 .03 35
 =1 1 blank 64 blank-gs3-gs2-gs1
