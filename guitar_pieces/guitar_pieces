@@ -345,6 +345,7 @@ il0.7 .03 20
 rs1.5        4
 rs1.1        3
 rs0.7        2
+bl0.7 .98 '
 =1' 13/16 8 vol-20 [<A_ Bb eb g> 16 <A_ A eb g> 8 <A_ Bb eb g>] \
  [<A_ c enl ab> 16 <A_ Bn e ab>] 8 [<A_ Bb eb g> 16 <A_ A eb g> 8 <A_ Bb eb g>]
 =1 32 blank 2 blank--gs4-gs3-gs2 2. blank----s2-s1-s1 16 blank
@@ -424,13 +425,13 @@ I0.7 .01 f
 | 2.0
 I0.7 .03 p
 =1' 8/16 vol80 8 [<F Bb d> 16 <E Bb d> 8 <F Bb d>] 8 [<G Bnl eb> 16 <F# B eb>]
-=1, 8/16 8 [E_ 16 rest,,, 8 E_] 8. E_
+=1, 8/16 8. [E_ 8 E_] 8. E_
 I0.7     mp
 |
 il0.9 .03 35
 =1 1 blank 64 blank-gs3-gs2-gs1
 =1' 8 [<Fnlr Bb d> 16 <E Bb d> 8 <F Bb d>] 16 [<G Bnl eb> A <B eb>]
-=1, 8 [E_r 16 rest,,, 8 E_] 8. E_
+=1, 8. [E_r 8 E_] 8. E_
 |
 rs1.4  3 .58 2
 rs1.05  4 .58 3
@@ -457,6 +458,7 @@ il0.7 .03 40
 3 bars | 13/16 4 3 5 4 3 4 3 5.3 4 3 5 4 3 | 8/16 4 3 5 4 3 4 3 3 \
  | 10/16 3 3 3.5 3.5 4 4 4 4 4 3 |
 | 3.25
+bl0.7 .98 '
 =1' 13/16 8 vol-20 [<A_ Bb eb g> 16 <A_ A eb g> 8 <A_ Bb eb g>] \
  [<A_ c enl ab> 16 <A_ Bn e ab>] \
  8 [<A_ Bbl eb g> 16 <A_ A eb g> 8 <A_ Bbl eb g>]
