@@ -120,6 +120,7 @@ il1.1 .37 25
  | 13/16 6.5 4 7.1 4 5 4 4 6.0 4 4 6.0 3 3 |
 | 3.25
 i0.9 .01 sul tasto
+bl0.6 .98 '
 =1' 13/16 8 vol-20 [<E_ F Bb d> 16 <E_ E Bb d> 8 <E_ F Bb d>] \
  [<E_ G Bnl eb> 16 <E_ F# B eb>] 8 [<E_ Fnl Bb d> 16 <E_ E Bb d> 8 <E_ F Bb d>]
 I0.7 .01 p
